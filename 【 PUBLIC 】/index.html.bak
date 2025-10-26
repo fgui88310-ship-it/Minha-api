@@ -644,7 +644,7 @@
           <div class="menu-arrow"><i class="fas fa-chevron-right"></i></div>
         </a>
         <div class="submenu">
-           <a href="/api/story?url=&apikey=SuaKey" class="submenu-link">INSTAGRAM - STORY (METADATA)</a>
+           <a href="/api/instagram/story?url=&apikey=SuaKey" class="submenu-link">INSTAGRAM - STORY</a>
           <a href="/api/soundcloud/download?url=https://soundcloud.com/example&apikey=SuaKey" class="submenu-link">SOUNDCLOUD - DOWNLOAD</a>
           <a href="/api/threads/download?mediaUrl=https://threads.net/media/example&apikey=SuaKey" class="submenu-link">THREADS - DOWNLOAD</a>
           <a href="/api/pinterestMp4?url=LINK_DO_PIN&apikey=SuaKey" class="submenu-link">Pinterest MP4</a>
