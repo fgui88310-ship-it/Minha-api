@@ -68,7 +68,7 @@ router.get('/download', async (req, res, next) => {
 
 // Adicione este novo endpoint no seu router
 
-router.get('/api/story', async (req, res, next) => {
+router.get('/', async (req, res, next) => {
   try {
     console.log('🔍 [API] Buscando metadados do story...');
 

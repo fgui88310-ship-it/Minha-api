@@ -158,6 +158,7 @@ app.use('/api/tiktok/download', tiktokDownloadRouter);
 app.use('/api/figurinhas', stickersRouter);
 app.use('/api/tiktok', tiktokRouter);
 app.use('/api/lyrics', lyricsRouter);
+app.use('/api/instagram/story', instagramStoryRouter);
 app.use('/api/wikipedia', wikipediaRouter);
 app.use('/api/mercadolivre', mercadoLivreRoute);
 app.use('/api/emojimix', emojimixRouter);

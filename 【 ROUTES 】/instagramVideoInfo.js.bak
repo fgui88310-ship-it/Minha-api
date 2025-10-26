@@ -66,4 +66,45 @@ router.get('/download', async (req, res, next) => {
   }
 });
 
+// Adicione este novo endpoint no seu router
+
+router.get('/, async (req, res, next) => {
+  try {
+    console.log('🔍 [API] Buscando metadados do story...');
+
+    const { url, apikey } = req.query;
+
+    // Validações
+    if (!url) {
+      return res.status(400).json({ error: 'Parâmetro ?url= é obrigatório' });
+    }
+
+    if (apikey !== 'SuaKey') {
+      return res.status(401).json({ error: 'API Key inválida' });
+    }
+
+    // Chama a função que busca os metadados
+    const result = await getInstagramStoryMetadata(url);
+
+    if (result.error) {
+      console.log('❌ [API] Erro ao buscar metadados:', result.error);
+      return res.status(404).json({ error: result.error });
+    }
+
+    // Retorna os dados com estrutura limpa
+    res.json({
+      developer: "SeuNomeOuBot",
+      status: true,
+      data: result.data.map(item => ({
+        thumbnail: item.thumbnail,
+        url: item.url,
+        filename: item.filename || null
+      }))
+    });
+
+  } catch (err) {
+    next(err);
+  }
+});
+
 export default router;

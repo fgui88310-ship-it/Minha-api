@@ -112,6 +112,7 @@ app.use('/downloads', express.static(join(__dirname, 'downloads')));
 
 // Montar rotas da API
 app.use('/api/animetv', animetvRouter);
+app.use('/api/levelup', levelupRouter);
 app.use('/api/banner', bannerRouter);
 app.use('/api/metadinhas', metadinhasRouter);
 app.use('/api/game-news', gameNewsRouter);
@@ -157,6 +158,7 @@ app.use('/api/tiktok/download', tiktokDownloadRouter);
 app.use('/api/figurinhas', stickersRouter);
 app.use('/api/tiktok', tiktokRouter);
 app.use('/api/lyrics', lyricsRouter);
+import instagramStoryRouter from './【 ROUTES 】/instagramStory.js';
 app.use('/api/wikipedia', wikipediaRouter);
 app.use('/api/mercadolivre', mercadoLivreRoute);
 app.use('/api/emojimix', emojimixRouter);
