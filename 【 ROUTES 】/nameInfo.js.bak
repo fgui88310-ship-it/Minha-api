@@ -44,63 +44,12 @@ router.get('/', async (req, res) => {
     ctx.font = '28px "Arial", sans-serif';
     ctx.fillText('BEM-VINDO AO TIME!', width / 2, 150);
 
-    // === GERA HTML + CSS ===
-    const html = `
-      <div class="banner">
-        <h1>${safeName}</h1>
-        <p>BEM-VINDO AO TIME!</p>
-      </div>
-    `;
-
-    const css = `
-      .banner {
-        width: ${width}px;
-        height: ${height}px;
-        background: linear-gradient(135deg, #ff6b6b, #4ecdc4);
-        border-radius: 20px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        color: white;
-        font-family: 'Arial', sans-serif;
-        text-align: center;
-        box-shadow: 0 10px 20px rgba(0,0,0,0.3);
-        overflow: hidden;
-      }
-      h1 {
-        margin: 0;
-        font-size: 48px;
-        font-weight: bold;
-        text-shadow: 0 4px 8px rgba(0,0,0,0.4);
-      }
-      p {
-        margin: 10px 0 0;
-        font-size: 28px;
-      }
-    `;
-
     // === GERAR IMAGEM PNG ===
     const buffer = canvas.toBuffer('image/png'); // Gera o buffer no formato PNG
 
-    // === VERIFICAR SE O CLIENTE QUER A IMAGEM ===
-    const { format } = req.query; // Adiciona um parâmetro opcional ?format=png
-    if (format === 'png') {
-      // Enviar a imagem PNG como resposta
-      res.setHeader('Content-Type', 'image/png');
-      res.send(buffer);
-    } else {
-      // Retornar JSON com HTML, CSS e opcionalmente a imagem em base64
-      const base64Image = buffer.toString('base64');
-      res.json({
-        html,
-        css,
-        width,
-        height,
-        font: 'Arial',
-        image: `data:image/png;base64,${base64Image}` // Inclui a imagem como base64 no JSON
-      });
-    }
+    // === ENVIAR IMAGEM DIRETAMENTE ===
+    res.setHeader('Content-Type', 'image/png');
+    res.send(buffer);
 
   } catch (err) {
     console.error(err);
