@@ -8,6 +8,37 @@ import path from 'path';
 
 const router = express.Router();
 
+// Função para quebrar texto em várias linhas
+function wrapText(ctx, text, x, y, maxWidth, lineHeight) {
+  const words = text.split(' ');
+  let line = '';
+  const lines = [];
+  let currentY = y;
+
+  for (let n = 0; n < words.length; n++) {
+    const testLine = line + words[n] + ' ';
+    const metrics = ctx.measureText(testLine);
+    const testWidth = metrics.width;
+
+    if (testWidth > maxWidth && n > 0) {
+      lines.push(line.trim());
+      line = words[n] + ' ';
+    } else {
+      line = testLine;
+    }
+  }
+  lines.push(line.trim());
+
+  // Renderizar cada linha
+  lines.forEach((line) => {
+    ctx.fillText(line, x, currentY);
+    currentY += lineHeight;
+  });
+
+  // Retornar a nova posição Y após o texto
+  return currentY;
+}
+
 router.get('/', async (req, res) => {
   const { name } = req.query;
   if (!name) return res.status(400).json({ error: 'Falta ?name=' });
@@ -51,7 +82,7 @@ router.get('/', async (req, res) => {
     const ctx = canvas.getContext('2d');
 
     // === BAIXAR E CARREGAR IMAGEM DE FUNDO ===
-    const backgroundUrl = 'https://images.unsplash.com/photo-1522441815192-d9f04eb0615c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'; // Imagem estilizada (exemplo)
+    const backgroundUrl = 'https://images.unsplash.com/photo-1522441815192-d9f04eb0615c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80';
     const backgroundImageResponse = await axios.get(backgroundUrl, { responseType: 'arraybuffer' });
     const backgroundImage = await loadImage(backgroundImageResponse.data);
 
@@ -82,11 +113,13 @@ router.get('/', async (req, res) => {
     ctx.font = 'bold 60px "Arial", sans-serif';
     ctx.fillText(safeName.toUpperCase(), width / 2, 100);
 
-    // Subtítulo (Significado)
+    // Subtítulo (Significado) com quebra de linha
     ctx.font = 'italic 28px "Georgia", serif';
-    ctx.fillText(significado, width / 2, 160);
+    const maxWidth = width - 80; // Margem de 40px de cada lado
+    const lineHeight = 40;
+    let yPosition = wrapText(ctx, significado, width / 2, 160, maxWidth, lineHeight);
 
-    // Informações adicionais (layout em linhas)
+    // Informações adicionais com quebra de linha
     ctx.font = '24px "Arial", sans-serif';
     const infoLines = [
       `Gênero: ${genero}`,
@@ -96,11 +129,10 @@ router.get('/', async (req, res) => {
       `Categorias: ${categorias}`,
     ];
 
-    const lineHeight = 40;
-    let yPosition = 220;
+    yPosition += lineHeight; // Espaço extra após o significado
     infoLines.forEach((line) => {
-      ctx.fillText(line, width / 2, yPosition);
-      yPosition += lineHeight;
+      yPosition = wrapText(ctx, line, width / 2, yPosition, maxWidth, lineHeight);
+      yPosition += 10; // Espaço extra entre seções
     });
 
     // === GERAR IMAGEM PNG ===

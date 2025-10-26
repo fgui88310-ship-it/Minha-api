@@ -8,35 +8,51 @@ import path from 'path';
 
 const router = express.Router();
 
-// Função para quebrar texto em várias linhas
-function wrapText(ctx, text, x, y, maxWidth, lineHeight) {
+// Função para quebrar texto em várias linhas com limite
+function wrapText(ctx, text, x, y, maxWidth, lineHeight, maxLines, maxHeight) {
   const words = text.split(' ');
   let line = '';
   const lines = [];
   let currentY = y;
+  let lineCount = 0;
 
   for (let n = 0; n < words.length; n++) {
     const testLine = line + words[n] + ' ';
     const metrics = ctx.measureText(testLine);
     const testWidth = metrics.width;
 
-    if (testWidth > maxWidth && n > 0) {
+    if (testWidth > maxWidth && lineCount < maxLines && currentY + lineHeight <= maxHeight) {
       lines.push(line.trim());
       line = words[n] + ' ';
+      lineCount++;
+      currentY += lineHeight;
     } else {
       line = testLine;
     }
-  }
-  lines.push(line.trim());
 
-  // Renderizar cada linha
-  lines.forEach((line) => {
-    ctx.fillText(line, x, currentY);
+    // Verificar se atingiu o limite de linhas ou altura
+    if (lineCount >= maxLines || currentY + lineHeight > maxHeight) {
+      if (line) {
+        lines.push(line.trim() + '...'); // Adicionar "..." ao final do texto truncado
+      }
+      break;
+    }
+  }
+
+  // Se não atingiu o limite, adicionar a última linha
+  if (line && lineCount < maxLines && currentY + lineHeight <= maxHeight) {
+    lines.push(line.trim());
+    lineCount++;
     currentY += lineHeight;
+  }
+
+  // Renderizar as linhas
+  lines.forEach((line, index) => {
+    ctx.fillText(line, x, y + index * lineHeight);
   });
 
   // Retornar a nova posição Y após o texto
-  return currentY;
+  return currentY + (lineCount * lineHeight);
 }
 
 router.get('/', async (req, res) => {
@@ -109,17 +125,21 @@ router.get('/', async (req, res) => {
     ctx.shadowOffsetX = 2;
     ctx.shadowOffsetY = 2;
 
+    // Definir limites
+    const maxWidth = width - 80; // Margem de 40px de cada lado
+    const maxHeight = height - 40; // Margem inferior de 40px
+    const lineHeight = 40;
+    const maxLinesPerText = 3; // Limite de linhas por texto
+
     // Título (Nome)
     ctx.font = 'bold 60px "Arial", sans-serif';
     ctx.fillText(safeName.toUpperCase(), width / 2, 100);
 
-    // Subtítulo (Significado) com quebra de linha
+    // Subtítulo (Significado) com quebra de linha e limite
     ctx.font = 'italic 28px "Georgia", serif';
-    const maxWidth = width - 80; // Margem de 40px de cada lado
-    const lineHeight = 40;
-    let yPosition = wrapText(ctx, significado, width / 2, 160, maxWidth, lineHeight);
+    let yPosition = wrapText(ctx, significado, width / 2, 160, maxWidth, lineHeight, maxLinesPerText, maxHeight);
 
-    // Informações adicionais com quebra de linha
+    // Informações adicionais com quebra de linha e limite
     ctx.font = '24px "Arial", sans-serif';
     const infoLines = [
       `Gênero: ${genero}`,
@@ -130,10 +150,14 @@ router.get('/', async (req, res) => {
     ];
 
     yPosition += lineHeight; // Espaço extra após o significado
-    infoLines.forEach((line) => {
-      yPosition = wrapText(ctx, line, width / 2, yPosition, maxWidth, lineHeight);
-      yPosition += 10; // Espaço extra entre seções
-    });
+    for (const line of infoLines) {
+      if (yPosition + lineHeight <= maxHeight) {
+        yPosition = wrapText(ctx, line, width / 2, yPosition, maxWidth, lineHeight, maxLinesPerText, maxHeight);
+        yPosition += 10; // Espaço extra entre seções
+      } else {
+        break; // Parar se ultrapassar a altura máxima
+      }
+    }
 
     // === GERAR IMAGEM PNG ===
     const buffer = canvas.toBuffer('image/png');
