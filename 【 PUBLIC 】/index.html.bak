@@ -538,6 +538,7 @@
           <a href="/api/translator" class="submenu-link">🌐 TRADUTOR</a>
           <a href="/api/tuna?query=tira&limit=5&apikey=SuaKey" class="submenu-link">🎵 TUNA SOUNDS</a>
           <a href="/api/amazon?query=example&limit=5&apikey=SuaKey" class="submenu-link">AMAZON</a>
+          <a href="/api/printsite?url=https://example.com&apikey=SuaKey" class="submenu-link">📸 PRINTSITE</a>
           <a href="/api/animetv?query=naruto&limit=5&apikey=SuaKey" class="submenu-link">ANIMETV</a>
           <a href="/api/ddd?query=Itambi" class="submenu-link">📍 DDD - BUSCAR CIDADE</a>
           <a href="/api/ddd?ddd=21&limit=5" class="submenu-link">📍 DDD - LISTA ESTADO</a>
@@ -590,8 +591,19 @@
           <a href="/api/pornhub?query=example&page=1&tipo=video&apikey=SuaKey" class="submenu-link">PORNHUB</a>
           <a href="/api/xvideos?query=example&limit=5&apikey=SuaKey" class="submenu-link">XVIDEOS</a>
           <a href="/api/imdb?q=matrix&limit=5&apikey=SuaKey" class="submenu-link">IMDB</a>
+          <a href="/api/nameinfo?query=Jo&apikey=SuaKey" class="submenu-link">🔍 MYNAME</a>
         </div>
       </div>
+      
+<div class="menu-item">
+  <a href="#" class="menu-link" onclick="toggleSubmenu(this)">
+    <i class="fas fa-image"></i> Canvas
+    <div class="menu-arrow"><i class="fas fa-chevron-right"></i></div>
+  </a>
+  <div class="submenu">
+    <a href="/api/canvas/name?name=John&apikey=SuaKey" class="submenu-link">📛 CANVAS - MYNAME</a>
+  </div>
+</div>
       
       <div class="menu-item">
   <a href="#" class="menu-link" onclick="toggleSubmenu(this)">

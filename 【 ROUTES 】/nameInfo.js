@@ -8,7 +8,7 @@ import path from 'path';
 
 const router = express.Router();
 
-// Função para quebrar texto em várias linhas com limite
+// Função para quebrar texto em várias linhas com limite (usada apenas no endpoint de imagem)
 function wrapText(ctx, text, x, y, maxWidth, lineHeight, maxLines, maxHeight) {
   const words = text.split(' ');
   let line = '';
@@ -30,66 +30,78 @@ function wrapText(ctx, text, x, y, maxWidth, lineHeight, maxLines, maxHeight) {
       line = testLine;
     }
 
-    // Verificar se atingiu o limite de linhas ou altura
     if (lineCount >= maxLines || currentY + lineHeight > maxHeight) {
       if (line) {
-        lines.push(line.trim() + '...'); // Adicionar "..." ao final do texto truncado
+        lines.push(line.trim() + '...');
       }
       break;
     }
   }
 
-  // Se não atingiu o limite, adicionar a última linha
   if (line && lineCount < maxLines && currentY + lineHeight <= maxHeight) {
     lines.push(line.trim());
     lineCount++;
     currentY += lineHeight;
   }
 
-  // Renderizar as linhas
   lines.forEach((line, index) => {
     ctx.fillText(line, x, y + index * lineHeight);
   });
 
-  // Retornar a nova posição Y após o texto
   return currentY + (lineCount * lineHeight);
 }
 
+// Função para buscar informações do nome (reutilizada pelos dois endpoints)
+async function fetchNameInfo(name) {
+  const safeName = name.trim();
+  const url = `https://www.behindthename.com/name/${encodeURIComponent(safeName.toLowerCase())}`;
+  const response = await axios.get(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+      'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
+    },
+    timeout: 15000,
+  });
+
+  const $ = cheerio.load(response.data);
+
+  // Extrair informações
+  const genero = $('.infoname-info .masc').text() || 'Gênero não identificado';
+  const uso = $('.infoname-info .usg').text() || 'Uso não identificado';
+  const pronuncia = $('#infoname-info-pron').text().split('[')[0].trim() || 'Pronúncia não disponível';
+  const significado = $('.namedef').text().split('[')[0].trim() || 'Significado não disponível';
+  const nomesRelacionados = $('.infogroup.relblurb').text().replace(/\s+/g, ' ').trim() || 'Sem nomes relacionados';
+  const popularidade = $('.popblurb .regionlink')
+    .map((i, el) => {
+      const region = $(el).find('.svgtitle').text();
+      const rank = $(el).find('title').text().replace('Last ranked', '').trim();
+      return `${region}: ${rank}`;
+    })
+    .get()
+    .join('\n') || 'Sem dados de popularidade';
+  const percepcao = $('.ratingblurb').text().replace(/\s+/g, ' ').trim() || 'Sem percepções registradas';
+  const categorias = $('.tagblurb').text().replace(/\s+/g, ', ').trim() || 'Sem categorias';
+
+  return {
+    genero,
+    uso,
+    pronuncia,
+    significado,
+    nomesRelacionados,
+    popularidade,
+    percepcao,
+    categorias,
+  };
+}
+
+// Endpoint para gerar a imagem
 router.get('/', async (req, res) => {
   const { name } = req.query;
   if (!name) return res.status(400).json({ error: 'Falta ?name=' });
 
-  const safeName = name.trim();
-
   try {
-    // === BUSCAR INFORMAÇÕES DO NOME ===
-    const url = `https://www.behindthename.com/name/${encodeURIComponent(safeName.toLowerCase())}`;
-    const response = await axios.get(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
-      },
-      timeout: 15000,
-    });
-
-    const $ = cheerio.load(response.data);
-
-    // Extrair informações
-    const genero = $('.infoname-info .masc').text() || 'Gênero não identificado';
-    const uso = $('.infoname-info .usg').text() || 'Uso não identificado';
-    const pronuncia = $('#infoname-info-pron').text().split('[')[0].trim() || 'Pronúncia não disponível';
-    const significado = $('.namedef').text().split('[')[0].trim() || 'Significado não disponível';
-    const nomesRelacionados = $('.infogroup.relblurb').text().replace(/\s+/g, ' ').trim() || 'Sem nomes relacionados';
-    const popularidade = $('.popblurb .regionlink')
-      .map((i, el) => {
-        const region = $(el).find('.svgtitle').text();
-        const rank = $(el).find('title').text().replace('Last ranked', '').trim();
-        return `${region}: ${rank}`;
-      })
-      .get()
-      .join('\n') || 'Sem dados de popularidade';
-    const percepcao = $('.ratingblurb').text().replace(/\s+/g, ' ').trim() || 'Sem percepções registradas';
-    const categorias = $('.tagblurb').text().replace(/\s+/g, ', ').trim() || 'Sem categorias';
+    // Buscar informações
+    const info = await fetchNameInfo(name);
 
     // === CONFIGURAÇÃO DO CANVAS ===
     const width = 800;
@@ -126,36 +138,36 @@ router.get('/', async (req, res) => {
     ctx.shadowOffsetY = 2;
 
     // Definir limites
-    const maxWidth = width - 80; // Margem de 40px de cada lado
-    const maxHeight = height - 40; // Margem inferior de 40px
+    const maxWidth = width - 80;
+    const maxHeight = height - 40;
     const lineHeight = 40;
-    const maxLinesPerText = 3; // Limite de linhas por texto
+    const maxLinesPerText = 3;
 
     // Título (Nome)
     ctx.font = 'bold 60px "Arial", sans-serif';
-    ctx.fillText(safeName.toUpperCase(), width / 2, 100);
+    ctx.fillText(name.toUpperCase(), width / 2, 100);
 
     // Subtítulo (Significado) com quebra de linha e limite
     ctx.font = 'italic 28px "Georgia", serif';
-    let yPosition = wrapText(ctx, significado, width / 2, 160, maxWidth, lineHeight, maxLinesPerText, maxHeight);
+    let yPosition = wrapText(ctx, info.significado, width / 2, 160, maxWidth, lineHeight, maxLinesPerText, maxHeight);
 
     // Informações adicionais com quebra de linha e limite
     ctx.font = '24px "Arial", sans-serif';
     const infoLines = [
-      `Gênero: ${genero}`,
-      `Uso: ${uso}`,
-      `Pronúncia: ${pronuncia}`,
-      `Popularidade: ${popularidade.split('\n')[0] || 'N/A'}`,
-      `Categorias: ${categorias}`,
+      `Gênero: ${info.genero}`,
+      `Uso: ${info.uso}`,
+      `Pronúncia: ${info.pronuncia}`,
+      `Popularidade: ${info.popularidade.split('\n')[0] || 'N/A'}`,
+      `Categorias: ${info.categorias}`,
     ];
 
-    yPosition += lineHeight; // Espaço extra após o significado
+    yPosition += lineHeight;
     for (const line of infoLines) {
       if (yPosition + lineHeight <= maxHeight) {
         yPosition = wrapText(ctx, line, width / 2, yPosition, maxWidth, lineHeight, maxLinesPerText, maxHeight);
-        yPosition += 10; // Espaço extra entre seções
+        yPosition += 10;
       } else {
-        break; // Parar se ultrapassar a altura máxima
+        break;
       }
     }
 
@@ -165,7 +177,26 @@ router.get('/', async (req, res) => {
     // === ENVIAR IMAGEM DIRETAMENTE ===
     res.setHeader('Content-Type', 'image/png');
     res.send(buffer);
+  } catch (err) {
+    console.error('[ERROR] Falha ao processar o nome:', err.message);
+    res.status(500).json({ error: 'Erro no servidor: ' + err.message });
+  }
+});
 
+// Novo endpoint para retornar apenas as informações em JSON
+router.get('/info', async (req, res) => {
+  const { name } = req.query;
+  if (!name) return res.status(400).json({ error: 'Falta ?name=' });
+
+  try {
+    // Buscar informações
+    const info = await fetchNameInfo(name);
+
+    // Retornar as informações em JSON
+    res.status(200).json({
+      name: name.trim(),
+      ...info,
+    });
   } catch (err) {
     console.error('[ERROR] Falha ao processar o nome:', err.message);
     res.status(500).json({ error: 'Erro no servidor: ' + err.message });

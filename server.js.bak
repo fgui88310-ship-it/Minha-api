@@ -121,6 +121,7 @@ app.use('/api/soundcloud', soundcloudRouter);
 app.use('/api/instagram', instagramVideoInfoRouter);
 app.use('/api/myinstants', myInstantsRouter);
 app.use('/api/gpt', gptRouter);
+app.use('/api/name', nameInfoRouter);
 app.use('/api/nasa', nasaRoute);
 app.use('/api/amazon', amazonRouter);
 app.use('/api/nickgen', nickgenRouter);
@@ -175,6 +176,7 @@ app.use('/api/applemusic', appleMusicRouter);
 app.use('/api/dicionario', dicionarioRouter);
 app.use('/api/pinterestMp4', pinterestMp4Router);
 app.use('/api/tuna', tunaRouter);
+app.use('/api/nameinfo', nameInfoRouter);
 // Página inicial
 app.get('/', (req, res) => {
   res.sendFile(join(__dirname, '【 PUBLIC 】', 'index.html'));
