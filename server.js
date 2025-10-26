@@ -8,6 +8,7 @@ import { dirname, join } from 'path';
 import { rateLimit } from './【 MODULES 】/libs.js'; // só rateLimit do libs
 import { cleanupOldFiles } from './【 UTILS 】/fileUtils.js'; // importa direto do arquivo utilitário
 // routers
+import levelupRouter from './【 ROUTES 】/levelup.js';
 import nameInfoRouter from './【 ROUTES 】/nameInfo.js';
 import printsiteRouter from './【 ROUTES 】/printsite.js';
 import tunaRouter from './【 ROUTES 】/tuna.js';
@@ -111,6 +112,7 @@ app.use('/downloads', express.static(join(__dirname, 'downloads')));
 
 // Montar rotas da API
 app.use('/api/animetv', animetvRouter);
+app.use('/api/levelup', levelupRouter);
 app.use('/api/banner', bannerRouter);
 app.use('/api/metadinhas', metadinhasRouter);
 app.use('/api/game-news', gameNewsRouter);
@@ -121,7 +123,7 @@ app.use('/api/soundcloud', soundcloudRouter);
 app.use('/api/instagram', instagramVideoInfoRouter);
 app.use('/api/myinstants', myInstantsRouter);
 app.use('/api/gpt', gptRouter);
-app.use('/api/canvas/name', nameInfoRouter);
+app.use('/api/name', nameInfoRouter);
 app.use('/api/nasa', nasaRoute);
 app.use('/api/amazon', amazonRouter);
 app.use('/api/nickgen', nickgenRouter);
@@ -176,7 +178,6 @@ app.use('/api/applemusic', appleMusicRouter);
 app.use('/api/dicionario', dicionarioRouter);
 app.use('/api/pinterestMp4', pinterestMp4Router);
 app.use('/api/tuna', tunaRouter);
-app.use('/api/nameinfo', nameInfoRouter);
 // Página inicial
 app.get('/', (req, res) => {
   res.sendFile(join(__dirname, '【 PUBLIC 】', 'index.html'));

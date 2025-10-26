@@ -95,7 +95,7 @@ async function fetchNameInfo(name) {
 }
 
 // Endpoint para gerar a imagem
-router.get('/', async (req, res) => {
+router.get('/', async (req, res, next) => {
   const { name } = req.query;
   if (!name) return res.status(400).json({ error: 'Falta ?name=' });
 
@@ -179,12 +179,12 @@ router.get('/', async (req, res) => {
     res.send(buffer);
   } catch (err) {
     console.error('[ERROR] Falha ao processar o nome:', err.message);
-    res.status(500).json({ error: 'Erro no servidor: ' + err.message });
+    next(err) 
   }
 });
 
 // Novo endpoint para retornar apenas as informações em JSON
-router.get('/info', async (req, res) => {
+router.get('/info', async (req, res, next) => {
   const { name } = req.query;
   if (!name) return res.status(400).json({ error: 'Falta ?name=' });
 
@@ -199,7 +199,7 @@ router.get('/info', async (req, res) => {
     });
   } catch (err) {
     console.error('[ERROR] Falha ao processar o nome:', err.message);
-    res.status(500).json({ error: 'Erro no servidor: ' + err.message });
+    next(err) 
   }
 });
 
