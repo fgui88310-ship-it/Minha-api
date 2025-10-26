@@ -60,3 +60,21 @@ export async function downloadInstagramMedia(url, type = 'video') {
     return { error: error.message };
   }
 }
+
+export async function getInstagramStoryMetadata(instagramUrl) {
+  try {
+    // Usa a API pública que você mencionou
+    const apiUrl = `https://nayan-video-downloader.vercel.app/ndown?url=${encodeURIComponent(instagramUrl)}`;
+    
+    const response = await fetch(apiUrl);
+    const data = await response.json();
+
+    if (!data.status) {
+      return { error: data.message || 'Falha ao obter metadados' };
+    }
+
+    return { success: true, data: data.data };
+  } catch (err) {
+    return { error: 'Erro ao conectar com a API externa' };
+  }
+}

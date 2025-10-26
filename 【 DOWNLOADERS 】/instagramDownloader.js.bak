@@ -1,39 +1,82 @@
+// No instagramDownloader.js
 import { execSync } from 'child_process';
 import fs from 'fs';
+import path from 'path';
 import { PATHS } from '../config.js';
 
-export async function downloadInstagramMedia(url) {
-  // Limpa a URL (remove parâmetros)
+export async function downloadInstagramMedia(url, type = 'video') {
   const cleanUrl = url.split('?')[0];
   console.log('🔍 [DOWNLOAD] URL limpa:', cleanUrl);
 
-  // Verifica se existe o arquivo de cookies
   if (!fs.existsSync(PATHS.cookiesInsta)) {
-    console.error('❌ [COOKIES] Arquivo de cookies não encontrado');
-    return null;
+    return { error: 'Arquivo de cookies não encontrado' };
   }
-  
-  const outputTemplate = `${PATHS.downloadsDir}/%(id)s.%(ext)s`;
 
-  // Monta o comando do yt-dlp para baixar vídeo e áudio separados
-  const command = [
-    `yt-dlp`,
+  const outputTemplate = path.join(PATHS.downloadsDir, '%(id)s.%(ext)s');
+
+  // Comando yt-dlp com extração e conversão do áudio para mp3 se for audio
+  let command = [
+    'yt-dlp',
     `"${cleanUrl}"`,
     `--cookies "${PATHS.cookiesInsta}"`,
-    `-o "${outputTemplate}"`,            // caminho e nome do arquivo
-    `--format "bestvideo+bestaudio/best"`, // melhor vídeo e áudio
-    `--merge-output-format mp4`,         // junta vídeo e áudio em mp4
+    `-o "${outputTemplate}"`,
+    `--format "bestvideo+bestaudio/best"`,
+    `--merge-output-format mp4`,
     `--no-progress`
-  ].join(' ');
+  ];
+
+  if (type === 'audio') {
+    command.push('--extract-audio', '--audio-format', 'mp3', '--audio-quality', '192K');
+  }
+  
+  command = command.join(' ');
 
   try {
     console.time('yt-dlp-download');
-    execSync(command, { stdio: 'inherit', timeout: 60000 }); // exibe progressos no console
+    execSync(command, { stdio: 'inherit', timeout: 60000 });
     console.timeEnd('yt-dlp-download');
     console.log('✅ [DOWNLOAD] Concluído com sucesso!');
-    return true;
+
+    // Após o download, identifica o arquivo baixado
+    // Assume que o arquivo tem o id do vídeo no nome; vamos extrair com yt-dlp info básico
+    const infoJson = execSync(`yt-dlp --cookies "${PATHS.cookiesInsta}" --dump-json "${cleanUrl}"`, { encoding: 'utf8' });
+    const info = JSON.parse(infoJson);
+    const id = info.id;
+    let filePath;
+
+    if (type === 'audio') {
+      filePath = path.join(PATHS.downloadsDir, `${id}.mp3`);
+    } else {
+      filePath = path.join(PATHS.downloadsDir, `${id}.mp4`);
+    }
+
+    if (!fs.existsSync(filePath)) {
+      return { error: 'Arquivo não foi criado' };
+    }
+
+    return type === 'audio' ? { audio: filePath } : { video: filePath };
   } catch (error) {
-    console.error('❌ [DOWNLOAD] Falha ao baixar mídia:', error.message);
-    return null;
+    console.error('❌ [DOWNLOAD] Erro:', error.message);
+    return { error: error.message };
+  }
+}
+
+// instagramDownloader.js (adicione esta função)
+
+export async function getInstagramStoryMetadata(instagramUrl) {
+  try {
+    // Usa a API pública que você mencionou
+    const apiUrl = `https://nayan-video-downloader.vercel.app/ndown?url=${encodeURIComponent(instagramUrl)}`;
+    
+    const response = await fetch(apiUrl);
+    const data = await response.json();
+
+    if (!data.status) {
+      return { error: data.message || 'Falha ao obter metadados' };
+    }
+
+    return { success: true, data: data.data };
+  } catch (err) {
+    return { error: 'Erro ao conectar com a API externa' };
   }
 }
