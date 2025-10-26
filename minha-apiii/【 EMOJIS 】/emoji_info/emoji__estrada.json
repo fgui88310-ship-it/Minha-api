@@ -1,0 +1,68 @@
+{
+  "emoji": "🛣",
+  "nome": "🛣️ Estrada",
+  "categoria": "motorway",
+  "url": "https://emojigraph.org/pt/motorway/",
+  "detalhes": {
+    "explicacao": "Uma estrada larga mostrado a partir de uma perspectiva de primeira pessoa. Apple obras de arte exibe um sinal de estrada para Curpertino.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/motorway_1f6e3-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/motorway_1f6e3-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/motorway_1f6e3-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/motorway_1f6e3-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/motorway_1f6e3-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/motorway_1f6e3-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/motorway_1f6e3-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/motorway_1f6e3-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/motorway_1f6e3-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/motorway_1f6e3-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caminho",
+      "estrada"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6E3;&#xFE0F;",
+      "HTML dec": "&#128739;&#65039;",
+      "URL escape code": "%F0%9F%9B%A3%EF%B8%8F",
+      "Punycode": "xn--v88h",
+      "Bytes (UTF-8)": "F0 9F 9B A3 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEE3\\uFE0F",
+      "C, C++, Python": "\\U0001f6e3\\uFE0F",
+      "CSS": "\\01F6E3 \\FE0F",
+      "PHP, Ruby": "\\u{1F6E3}\\u{FE0F}",
+      "Perl": "\\x{1F6E3}\\x{FE0F}"
+    }
+  }
+}

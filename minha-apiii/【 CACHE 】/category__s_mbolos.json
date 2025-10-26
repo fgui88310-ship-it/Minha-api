@@ -1,0 +1,1478 @@
+[
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/"
+  },
+  {
+    "nome": "😃Smileys e Emoção",
+    "href": "/pt/smileys-emotion/"
+  },
+  {
+    "nome": "🤦‍♀️Pessoas e Corpo",
+    "href": "/pt/people-body/"
+  },
+  {
+    "nome": "🐶Animais e Natureza",
+    "href": "/pt/animals-nature/"
+  },
+  {
+    "nome": "🍩Alimentação e bebida",
+    "href": "/pt/food-drink/"
+  },
+  {
+    "nome": "🚗Viagens e lugares",
+    "href": "/pt/travel-places/"
+  },
+  {
+    "nome": "🏀Atividades",
+    "href": "/pt/activities/"
+  },
+  {
+    "nome": "💎Objetos",
+    "href": "/pt/objects/"
+  },
+  {
+    "nome": "✅Símbolos",
+    "href": "/pt/symbols/"
+  },
+  {
+    "nome": "🏁Bandeiras",
+    "href": "/pt/flags/"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "🏧Símbolo de caixa automático",
+    "href": "/pt/atm-sign/"
+  },
+  {
+    "nome": "🚮Símbolo de lixeira",
+    "href": "/pt/litter-in-bin-sign/"
+  },
+  {
+    "nome": "🚰Água potável",
+    "href": "/pt/potable-water/"
+  },
+  {
+    "nome": "♿Símbolo de cadeira de rodas",
+    "href": "/pt/wheelchair-symbol/"
+  },
+  {
+    "nome": "🚹Banheiro masculino",
+    "href": "/pt/mens-room/"
+  },
+  {
+    "nome": "🚺Banheiro feminino",
+    "href": "/pt/womens-room/"
+  },
+  {
+    "nome": "🚻Banheiro",
+    "href": "/pt/restroom/"
+  },
+  {
+    "nome": "🚼Símbolo de bebê",
+    "href": "/pt/baby-symbol/"
+  },
+  {
+    "nome": "🚾WC",
+    "href": "/pt/water-closet/"
+  },
+  {
+    "nome": "🛂Controle de passaportes",
+    "href": "/pt/passport-control/"
+  },
+  {
+    "nome": "🛃Alfândega",
+    "href": "/pt/customs/"
+  },
+  {
+    "nome": "🛄Restituição de bagagem",
+    "href": "/pt/baggage-claim/"
+  },
+  {
+    "nome": "🛅Depósito de bagagem",
+    "href": "/pt/left-luggage/"
+  },
+  {
+    "nome": "⚠️Aviso",
+    "href": "/pt/warning/"
+  },
+  {
+    "nome": "🚸Crianças atravessando",
+    "href": "/pt/children-crossing/"
+  },
+  {
+    "nome": "⛔Entrada proibida",
+    "href": "/pt/no-entry/"
+  },
+  {
+    "nome": "🚫Proibido",
+    "href": "/pt/prohibited/"
+  },
+  {
+    "nome": "🚳Proibido andar de bicicleta",
+    "href": "/pt/no-bicycles/"
+  },
+  {
+    "nome": "🚭Proibido fumar",
+    "href": "/pt/no-smoking/"
+  },
+  {
+    "nome": "🚯Proibido jogar lixo no chão",
+    "href": "/pt/no-littering/"
+  },
+  {
+    "nome": "🚱Água não potável",
+    "href": "/pt/non-potable-water/"
+  },
+  {
+    "nome": "🚷Proibida a passagem de pedestres",
+    "href": "/pt/no-pedestrians/"
+  },
+  {
+    "nome": "📵Proibido o uso de telefone celular",
+    "href": "/pt/no-mobile-phones/"
+  },
+  {
+    "nome": "🔞Proibido para menores de 18 anos",
+    "href": "/pt/no-one-under-eighteen/"
+  },
+  {
+    "nome": "☢️Radioativo",
+    "href": "/pt/radioactive/"
+  },
+  {
+    "nome": "☣️Risco biológico",
+    "href": "/pt/biohazard/"
+  },
+  {
+    "nome": "⬆️Seta para cima",
+    "href": "/pt/up-arrow/"
+  },
+  {
+    "nome": "↗️Seta para cima e para a direita",
+    "href": "/pt/up-right-arrow/"
+  },
+  {
+    "nome": "➡️Seta para a direita",
+    "href": "/pt/right-arrow/"
+  },
+  {
+    "nome": "↘️Seta para baixo e para a direita",
+    "href": "/pt/down-right-arrow/"
+  },
+  {
+    "nome": "⬇️Seta para baixo",
+    "href": "/pt/down-arrow/"
+  },
+  {
+    "nome": "↙️Seta para baixo e para a esquerda",
+    "href": "/pt/down-left-arrow/"
+  },
+  {
+    "nome": "⬅️Seta para a esquerda",
+    "href": "/pt/left-arrow/"
+  },
+  {
+    "nome": "↖️Seta para cima e para a esquerda",
+    "href": "/pt/up-left-arrow/"
+  },
+  {
+    "nome": "↕️Seta para cima e para baixo",
+    "href": "/pt/up-down-arrow/"
+  },
+  {
+    "nome": "↔️Seta para esquerda e direita",
+    "href": "/pt/left-right-arrow/"
+  },
+  {
+    "nome": "↩️Seta curva da direita para a esquerda",
+    "href": "/pt/right-arrow-curving-left/"
+  },
+  {
+    "nome": "↪️Seta curva da esquerda para a direita",
+    "href": "/pt/left-arrow-curving-right/"
+  },
+  {
+    "nome": "⤴️Seta para a direita curvada para cima",
+    "href": "/pt/right-arrow-curving-up/"
+  },
+  {
+    "nome": "⤵️Seta para a direita curvada para baixo",
+    "href": "/pt/right-arrow-curving-down/"
+  },
+  {
+    "nome": "🔃Setas verticais no sentido horário",
+    "href": "/pt/clockwise-vertical-arrows/"
+  },
+  {
+    "nome": "🔄Botão de setas em sentido anti-horário",
+    "href": "/pt/counterclockwise-arrows-button/"
+  },
+  {
+    "nome": "🔙Seta \"BACK\"",
+    "href": "/pt/back-arrow/"
+  },
+  {
+    "nome": "🔚Seta \"END\"",
+    "href": "/pt/end-arrow/"
+  },
+  {
+    "nome": "🔛Seta \"ON!\"",
+    "href": "/pt/on-arrow/"
+  },
+  {
+    "nome": "🔜Seta \"SOON\"",
+    "href": "/pt/soon-arrow/"
+  },
+  {
+    "nome": "🔝Seta \"TOP\"",
+    "href": "/pt/top-arrow/"
+  },
+  {
+    "nome": "🛐Local de culto",
+    "href": "/pt/place-of-worship/"
+  },
+  {
+    "nome": "⚛️Símbolo de átomo",
+    "href": "/pt/atom-symbol/"
+  },
+  {
+    "nome": "🕉️Om",
+    "href": "/pt/om/"
+  },
+  {
+    "nome": "✡️Estrela de Davi",
+    "href": "/pt/star-of-david/"
+  },
+  {
+    "nome": "☸️Roda do Dharma",
+    "href": "/pt/wheel-of-dharma/"
+  },
+  {
+    "nome": "☯️Yin yang",
+    "href": "/pt/yin-yang/"
+  },
+  {
+    "nome": "✝️Cruz latina",
+    "href": "/pt/latin-cross/"
+  },
+  {
+    "nome": "☦️Cruz ortodoxa",
+    "href": "/pt/orthodox-cross/"
+  },
+  {
+    "nome": "☪️Estrela e lua crescente",
+    "href": "/pt/star-and-crescent/"
+  },
+  {
+    "nome": "☮️Símbolo da paz",
+    "href": "/pt/peace-symbol/"
+  },
+  {
+    "nome": "🕎Menorá",
+    "href": "/pt/menorah/"
+  },
+  {
+    "nome": "🔯Estrela de seis pontas",
+    "href": "/pt/dotted-six-pointed-star/"
+  },
+  {
+    "nome": "🪯Khanda",
+    "href": "/pt/khanda/"
+  },
+  {
+    "nome": "♈Signo de Áries",
+    "href": "/pt/aries/"
+  },
+  {
+    "nome": "♉Signo de Touro",
+    "href": "/pt/taurus/"
+  },
+  {
+    "nome": "♊Signo de Gêmeos",
+    "href": "/pt/gemini/"
+  },
+  {
+    "nome": "♋Signo de Câncer",
+    "href": "/pt/cancer/"
+  },
+  {
+    "nome": "♌Signo de Leão",
+    "href": "/pt/leo/"
+  },
+  {
+    "nome": "♍Signo de Virgem",
+    "href": "/pt/virgo/"
+  },
+  {
+    "nome": "♎Signo de Libra",
+    "href": "/pt/libra/"
+  },
+  {
+    "nome": "♏Signo de Escorpião",
+    "href": "/pt/scorpio/"
+  },
+  {
+    "nome": "♐Signo de Sagitário",
+    "href": "/pt/sagittarius/"
+  },
+  {
+    "nome": "♑Signo de Capricórnio",
+    "href": "/pt/capricorn/"
+  },
+  {
+    "nome": "♒Signo de Aquário",
+    "href": "/pt/aquarius/"
+  },
+  {
+    "nome": "♓Signo de Peixes",
+    "href": "/pt/pisces/"
+  },
+  {
+    "nome": "⛎Signo de Ofiúco",
+    "href": "/pt/ophiuchus/"
+  },
+  {
+    "nome": "🔀Botão de músicas aleatórias",
+    "href": "/pt/shuffle-tracks-button/"
+  },
+  {
+    "nome": "🔁Botão de repetir",
+    "href": "/pt/repeat-button/"
+  },
+  {
+    "nome": "🔂Botão de repetir uma única faixa",
+    "href": "/pt/repeat-single-button/"
+  },
+  {
+    "nome": "▶️Botão reproduzir",
+    "href": "/pt/play-button/"
+  },
+  {
+    "nome": "⏩Botão avançar",
+    "href": "/pt/fast-forward-button/"
+  },
+  {
+    "nome": "⏭️Botão de próxima faixa",
+    "href": "/pt/next-track-button/"
+  },
+  {
+    "nome": "⏯️Botão de reproduzir ou pausar",
+    "href": "/pt/play-or-pause-button/"
+  },
+  {
+    "nome": "◀️Botão de voltar",
+    "href": "/pt/reverse-button/"
+  },
+  {
+    "nome": "⏪Botão de retroceder",
+    "href": "/pt/fast-reverse-button/"
+  },
+  {
+    "nome": "⏮️Botão de faixa anterior",
+    "href": "/pt/last-track-button/"
+  },
+  {
+    "nome": "🔼Botão apontando para cima",
+    "href": "/pt/upwards-button/"
+  },
+  {
+    "nome": "⏫Botão de avanço para cima",
+    "href": "/pt/fast-up-button/"
+  },
+  {
+    "nome": "🔽Botão apontando para baixo",
+    "href": "/pt/downwards-button/"
+  },
+  {
+    "nome": "⏬Botão de avanço para baixo",
+    "href": "/pt/fast-down-button/"
+  },
+  {
+    "nome": "⏸️Botão pausar",
+    "href": "/pt/pause-button/"
+  },
+  {
+    "nome": "⏹️Botão parar",
+    "href": "/pt/stop-button/"
+  },
+  {
+    "nome": "⏺️Botão gravar",
+    "href": "/pt/record-button/"
+  },
+  {
+    "nome": "⏏️Botão ejetar",
+    "href": "/pt/eject-button/"
+  },
+  {
+    "nome": "🎦Cinema",
+    "href": "/pt/cinema/"
+  },
+  {
+    "nome": "🔅Botão de diminuir brilho",
+    "href": "/pt/dim-button/"
+  },
+  {
+    "nome": "🔆Botão de aumentar brilho",
+    "href": "/pt/bright-button/"
+  },
+  {
+    "nome": "📶Barras de sinal",
+    "href": "/pt/antenna-bars/"
+  },
+  {
+    "nome": "🛜Sem fio",
+    "href": "/pt/wireless/"
+  },
+  {
+    "nome": "📳Modo vibratório",
+    "href": "/pt/vibration-mode/"
+  },
+  {
+    "nome": "📴Telefone celular desligado",
+    "href": "/pt/mobile-phone-off/"
+  },
+  {
+    "nome": "♀️Símbolo de feminino",
+    "href": "/pt/female-sign/"
+  },
+  {
+    "nome": "♂️Símbolo de masculino",
+    "href": "/pt/male-sign/"
+  },
+  {
+    "nome": "⚧️Símbolo transgênero",
+    "href": "/pt/transgender-symbol/"
+  },
+  {
+    "nome": "✖️Sinal de multiplicação",
+    "href": "/pt/multiply/"
+  },
+  {
+    "nome": "➕Símbolo de adição",
+    "href": "/pt/plus/"
+  },
+  {
+    "nome": "➖Símbolo de subtração",
+    "href": "/pt/minus/"
+  },
+  {
+    "nome": "➗Símbolo de divisão",
+    "href": "/pt/divide/"
+  },
+  {
+    "nome": "🟰Sinal de igual",
+    "href": "/pt/heavy-equals-sign/"
+  },
+  {
+    "nome": "♾️Infinito",
+    "href": "/pt/infinity/"
+  },
+  {
+    "nome": "‼️Dupla exclamação",
+    "href": "/pt/double-exclamation-mark/"
+  },
+  {
+    "nome": "⁉️Exclamação com interrogação",
+    "href": "/pt/exclamation-question-mark/"
+  },
+  {
+    "nome": "❓Ponto de interrogação vermelho",
+    "href": "/pt/question-mark/"
+  },
+  {
+    "nome": "❔Ponto de interrogação branco",
+    "href": "/pt/white-question-mark/"
+  },
+  {
+    "nome": "❕Ponto de exclamação branco",
+    "href": "/pt/white-exclamation-mark/"
+  },
+  {
+    "nome": "❗Ponto de exclamação vermelho",
+    "href": "/pt/exclamation-mark/"
+  },
+  {
+    "nome": "〰️Travessão ondulado",
+    "href": "/pt/wavy-dash/"
+  },
+  {
+    "nome": "💱Câmbio de moeda",
+    "href": "/pt/currency-exchange/"
+  },
+  {
+    "nome": "💲Cifrão",
+    "href": "/pt/heavy-dollar-sign/"
+  },
+  {
+    "nome": "⚕️Símbolo da medicina",
+    "href": "/pt/medical-symbol/"
+  },
+  {
+    "nome": "♻️Símbolo de reciclagem",
+    "href": "/pt/recycling-symbol/"
+  },
+  {
+    "nome": "⚜️Flor-de-lis",
+    "href": "/pt/fleur-de-lis/"
+  },
+  {
+    "nome": "🔱Emblema de tridente",
+    "href": "/pt/trident-emblem/"
+  },
+  {
+    "nome": "📛Crachá",
+    "href": "/pt/name-badge/"
+  },
+  {
+    "nome": "🔰Símbolo japonês de principiante",
+    "href": "/pt/japanese-symbol-for-beginner/"
+  },
+  {
+    "nome": "⭕Círculo grande oco",
+    "href": "/pt/hollow-red-circle/"
+  },
+  {
+    "nome": "✅Marca de seleção branca",
+    "href": "/pt/check-mark-button/"
+  },
+  {
+    "nome": "☑️Caixa de seleção marcada com tique",
+    "href": "/pt/check-box-with-check/"
+  },
+  {
+    "nome": "✔️Marca de seleção",
+    "href": "/pt/check-mark/"
+  },
+  {
+    "nome": "❌Xis",
+    "href": "/pt/cross-mark/"
+  },
+  {
+    "nome": "❎Botão de xis",
+    "href": "/pt/cross-mark-button/"
+  },
+  {
+    "nome": "➰Laço encaracolado",
+    "href": "/pt/curly-loop/"
+  },
+  {
+    "nome": "➿Loop encaracolado duas vezes",
+    "href": "/pt/double-curly-loop/"
+  },
+  {
+    "nome": "〽️Sinal japonês indicando início de música",
+    "href": "/pt/part-alternation-mark/"
+  },
+  {
+    "nome": "✳️Asterisco de oito pontas",
+    "href": "/pt/eight-spoked-asterisk/"
+  },
+  {
+    "nome": "✴️Estrela de oito pontas",
+    "href": "/pt/eight-pointed-star/"
+  },
+  {
+    "nome": "❇️Faísca",
+    "href": "/pt/sparkle/"
+  },
+  {
+    "nome": "©️Símbolo de copyright",
+    "href": "/pt/copyright/"
+  },
+  {
+    "nome": "®️Símbolo de registrado",
+    "href": "/pt/registered/"
+  },
+  {
+    "nome": "™️Símbolo de marca registrada",
+    "href": "/pt/trade-mark/"
+  },
+  {
+    "nome": "#️⃣Tecla: #",
+    "href": "/pt/keycap-number-sign/"
+  },
+  {
+    "nome": "*️⃣Tecla: *",
+    "href": "/pt/keycap-asterisk/"
+  },
+  {
+    "nome": "0️⃣Tecla: 0",
+    "href": "/pt/keycap-digit-zero/"
+  },
+  {
+    "nome": "1️⃣Tecla: 1",
+    "href": "/pt/keycap-digit-one/"
+  },
+  {
+    "nome": "2️⃣Tecla: 2",
+    "href": "/pt/keycap-digit-two/"
+  },
+  {
+    "nome": "3️⃣Tecla: 3",
+    "href": "/pt/keycap-digit-three/"
+  },
+  {
+    "nome": "4️⃣Tecla: 4",
+    "href": "/pt/keycap-digit-four/"
+  },
+  {
+    "nome": "5️⃣Tecla: 5",
+    "href": "/pt/keycap-digit-five/"
+  },
+  {
+    "nome": "6️⃣Tecla: 6",
+    "href": "/pt/keycap-digit-six/"
+  },
+  {
+    "nome": "7️⃣Tecla: 7",
+    "href": "/pt/keycap-digit-seven/"
+  },
+  {
+    "nome": "8️⃣Tecla: 8",
+    "href": "/pt/keycap-digit-eight/"
+  },
+  {
+    "nome": "9️⃣Tecla: 9",
+    "href": "/pt/keycap-digit-nine/"
+  },
+  {
+    "nome": "🔟Tecla: 10",
+    "href": "/pt/keycap-10/"
+  },
+  {
+    "nome": "🔠Letras latinas maiúsculas",
+    "href": "/pt/input-latin-uppercase/"
+  },
+  {
+    "nome": "🔡Letras latinas minúsculas",
+    "href": "/pt/input-latin-lowercase/"
+  },
+  {
+    "nome": "🔢Números",
+    "href": "/pt/input-numbers/"
+  },
+  {
+    "nome": "🔣Símbolos",
+    "href": "/pt/input-symbols/"
+  },
+  {
+    "nome": "🔤Letras latinas",
+    "href": "/pt/input-latin-letters/"
+  },
+  {
+    "nome": "🅰️Botão A (tipo sanguíneo)",
+    "href": "/pt/a-button-blood-type/"
+  },
+  {
+    "nome": "🆎Botão AB (tipo sanguíneo)",
+    "href": "/pt/ab-button-blood-type/"
+  },
+  {
+    "nome": "🅱️Botão B (tipo sanguíneo)",
+    "href": "/pt/b-button-blood-type/"
+  },
+  {
+    "nome": "🆑Botão CL",
+    "href": "/pt/cl-button/"
+  },
+  {
+    "nome": "🆒Botão \"COOL\"",
+    "href": "/pt/cool-button/"
+  },
+  {
+    "nome": "🆓Botão \"FREE\"",
+    "href": "/pt/free-button/"
+  },
+  {
+    "nome": "ℹ️Informações",
+    "href": "/pt/information/"
+  },
+  {
+    "nome": "🆔Botão ID",
+    "href": "/pt/id-button-symbol/"
+  },
+  {
+    "nome": "Ⓜ️Círculo com a letra M",
+    "href": "/pt/circled-m/"
+  },
+  {
+    "nome": "🆕Botão \"NEW\"",
+    "href": "/pt/new-button/"
+  },
+  {
+    "nome": "🆖Botão NG",
+    "href": "/pt/ng-button/"
+  },
+  {
+    "nome": "🅾️Botão O (tipo sanguíneo)",
+    "href": "/pt/o-button-blood-type/"
+  },
+  {
+    "nome": "🆗Botão OK",
+    "href": "/pt/ok-button/"
+  },
+  {
+    "nome": "🅿️Botão P",
+    "href": "/pt/p-button/"
+  },
+  {
+    "nome": "🆘Botão SOS",
+    "href": "/pt/sos-button/"
+  },
+  {
+    "nome": "🆙Botão \"UP!\"",
+    "href": "/pt/up-button/"
+  },
+  {
+    "nome": "🆚Botão VS",
+    "href": "/pt/vs-button/"
+  },
+  {
+    "nome": "🈁Botão japonês de “aqui”",
+    "href": "/pt/japanese-here-button/"
+  },
+  {
+    "nome": "🈂️Botão japonês de “taxa de serviço”",
+    "href": "/pt/japanese-service-charge-button/"
+  },
+  {
+    "nome": "🈷️Botão japonês de “quantidade mensal”",
+    "href": "/pt/japanese-monthly-amount-button/"
+  },
+  {
+    "nome": "🈶Botão japonês de “não gratuito”",
+    "href": "/pt/japanese-not-free-of-charge-button/"
+  },
+  {
+    "nome": "🈯Botão japonês de “reservado”",
+    "href": "/pt/japanese-reserved-button/"
+  },
+  {
+    "nome": "🉐Botão japonês de “barganha”",
+    "href": "/pt/japanese-bargain-button/"
+  },
+  {
+    "nome": "🈹Botão japonês de “desconto”",
+    "href": "/pt/japanese-discount-button/"
+  },
+  {
+    "nome": "🈚Botão japonês de “gratuito”",
+    "href": "/pt/japanese-free-of-charge-button/"
+  },
+  {
+    "nome": "🈲Botão japonês de “proibido”",
+    "href": "/pt/japanese-prohibited-button/"
+  },
+  {
+    "nome": "🉑Botão japonês de “aceitável”",
+    "href": "/pt/japanese-acceptable-button/"
+  },
+  {
+    "nome": "🈸Botão japonês de “aplicação”",
+    "href": "/pt/japanese-application-button/"
+  },
+  {
+    "nome": "🈴Botão japonês de “nota mínima”",
+    "href": "/pt/japanese-passing-grade-button/"
+  },
+  {
+    "nome": "🈳Botão japonês de “vago”",
+    "href": "/pt/japanese-vacancy-button/"
+  },
+  {
+    "nome": "㊗️Botão japonês de “parabéns”",
+    "href": "/pt/japanese-congratulations-button/"
+  },
+  {
+    "nome": "㊙️Botão japonês de “segredo”",
+    "href": "/pt/japanese-secret-button/"
+  },
+  {
+    "nome": "🈺Botão japonês de “aberto para negócios”",
+    "href": "/pt/japanese-open-for-business-button/"
+  },
+  {
+    "nome": "🈵Botão japonês de “sem vagas”",
+    "href": "/pt/japanese-no-vacancy-button/"
+  },
+  {
+    "nome": "🔴Círculo vermelho",
+    "href": "/pt/large-red-circle/"
+  },
+  {
+    "nome": "🟠Círculo laranja",
+    "href": "/pt/large-orange-circle/"
+  },
+  {
+    "nome": "🟡Círculo amarelo",
+    "href": "/pt/large-yellow-circle/"
+  },
+  {
+    "nome": "🟢Círculo verde",
+    "href": "/pt/large-green-circle/"
+  },
+  {
+    "nome": "🔵Círculo azul",
+    "href": "/pt/large-blue-circle/"
+  },
+  {
+    "nome": "🟣Círculo roxo",
+    "href": "/pt/large-purple-circle/"
+  },
+  {
+    "nome": "🟤Círculo marrom",
+    "href": "/pt/large-brown-circle/"
+  },
+  {
+    "nome": "⚫Círculo preto",
+    "href": "/pt/black-circle/"
+  },
+  {
+    "nome": "⚪Círculo branco",
+    "href": "/pt/white-circle/"
+  },
+  {
+    "nome": "🟥Quadrado vermelho",
+    "href": "/pt/large-red-square/"
+  },
+  {
+    "nome": "🟧Quadrado laranja",
+    "href": "/pt/large-orange-square/"
+  },
+  {
+    "nome": "🟨Quadrado amarelo",
+    "href": "/pt/large-yellow-square/"
+  },
+  {
+    "nome": "🟩Quadrado verde",
+    "href": "/pt/large-green-square/"
+  },
+  {
+    "nome": "🟦Quadrado azul",
+    "href": "/pt/large-blue-square/"
+  },
+  {
+    "nome": "🟪Quadrado roxo",
+    "href": "/pt/large-purple-square/"
+  },
+  {
+    "nome": "🟫Quadrado marrom",
+    "href": "/pt/large-brown-square/"
+  },
+  {
+    "nome": "⬛Quadrado preto grande",
+    "href": "/pt/black-large-square/"
+  },
+  {
+    "nome": "⬜Quadrado branco grande",
+    "href": "/pt/white-large-square/"
+  },
+  {
+    "nome": "◼️Quadrado preto médio",
+    "href": "/pt/black-medium-square/"
+  },
+  {
+    "nome": "◻️Quadrado branco médio",
+    "href": "/pt/white-medium-square/"
+  },
+  {
+    "nome": "◾Quadrado preto médio menor",
+    "href": "/pt/black-medium-small-square/"
+  },
+  {
+    "nome": "◽Quadrado branco médio menor",
+    "href": "/pt/white-medium-small-square/"
+  },
+  {
+    "nome": "▪️Quadrado preto pequeno",
+    "href": "/pt/black-small-square/"
+  },
+  {
+    "nome": "▫️Quadrado branco pequeno",
+    "href": "/pt/white-small-square/"
+  },
+  {
+    "nome": "🔶Losango laranja grande",
+    "href": "/pt/large-orange-diamond/"
+  },
+  {
+    "nome": "🔷Losango azul grande",
+    "href": "/pt/large-blue-diamond/"
+  },
+  {
+    "nome": "🔸Losango laranja pequeno",
+    "href": "/pt/small-orange-diamond/"
+  },
+  {
+    "nome": "🔹Losango azul pequeno",
+    "href": "/pt/small-blue-diamond/"
+  },
+  {
+    "nome": "🔺Triângulo vermelho para cima",
+    "href": "/pt/red-triangle-pointed-up/"
+  },
+  {
+    "nome": "🔻Triângulo vermelho para baixo",
+    "href": "/pt/red-triangle-pointed-down/"
+  },
+  {
+    "nome": "💠Diamante com um ponto",
+    "href": "/pt/diamond-with-a-dot/"
+  },
+  {
+    "nome": "🔘Botão de opção",
+    "href": "/pt/radio-button/"
+  },
+  {
+    "nome": "🔳Botão quadrado branco",
+    "href": "/pt/white-square-button/"
+  },
+  {
+    "nome": "🔲Botão quadrado preto",
+    "href": "/pt/black-square-button/"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "😂Rosto chorando de rir",
+    "href": "/pt/face-with-tears-of-joy/"
+  },
+  {
+    "nome": "🥰Rosto sorridente com 3 corações",
+    "href": "/pt/smiling-face-with-hearts/"
+  },
+  {
+    "nome": "🥲Rosto sorridente com lágrima",
+    "href": "/pt/smiling-face-with-tear/"
+  },
+  {
+    "nome": "🥺Rosto implorando",
+    "href": "/pt/pleading-face/"
+  },
+  {
+    "nome": "❤️‍🔥Coração em chamas",
+    "href": "/pt/heart-on-fire/"
+  },
+  {
+    "nome": "❤️Coração vermelho",
+    "href": "/pt/red-heart/"
+  },
+  {
+    "nome": "👍Polegar para cima",
+    "href": "/pt/thumbs-up/"
+  },
+  {
+    "nome": "🔥Fogo",
+    "href": "/pt/fire/"
+  },
+  {
+    "nome": "🇺🇦Bandeira: Ucrânia",
+    "href": "/pt/flag-ukraine/"
+  },
+  {
+    "nome": "🎉 Tema",
+    "href": "/pt/theme/"
+  },
+  {
+    "nome": "❤️️Ame",
+    "href": "/pt/theme/love/"
+  },
+  {
+    "nome": "😄Amigos",
+    "href": "/pt/theme/friends-sitcom/"
+  },
+  {
+    "nome": "🎂Aniversário",
+    "href": "/pt/theme/birthday/"
+  },
+  {
+    "nome": "👑Aniversário Da Rainha",
+    "href": "/pt/theme/queens-birthday/"
+  },
+  {
+    "nome": "🦃Ação De Graças",
+    "href": "/pt/theme/thanksgiving/"
+  },
+  {
+    "nome": "🦁Biologia",
+    "href": "/pt/theme/biology/"
+  },
+  {
+    "nome": "✊🏿Black Lives Matter",
+    "href": "/pt/theme/black-lives-matter/"
+  },
+  {
+    "nome": "☢️Cair",
+    "href": "/pt/theme/fallout/"
+  },
+  {
+    "nome": "🇧🇷Carnaval",
+    "href": "/pt/theme/carnaval/"
+  },
+  {
+    "nome": "🚗Carros",
+    "href": "/pt/theme/cars-movie/"
+  },
+  {
+    "nome": "👰Casamento / Casamento",
+    "href": "/pt/theme/wedding-marriage/"
+  },
+  {
+    "nome": "🎰Cassino",
+    "href": "/pt/theme/casino/"
+  },
+  {
+    "nome": "🌧Clima",
+    "href": "/pt/theme/weather/"
+  },
+  {
+    "nome": "⚽Copa Do Mundo",
+    "href": "/pt/theme/world-cup/"
+  },
+  {
+    "nome": "💕Corações",
+    "href": "/pt/theme/hearts/"
+  },
+  {
+    "nome": "🦠Coronavírus",
+    "href": "/pt/theme/coronavirus/"
+  },
+  {
+    "nome": "🏎Corridas",
+    "href": "/pt/theme/racing/"
+  },
+  {
+    "nome": "👱Dia Internacional Do Homem",
+    "href": "/pt/theme/international-mens-day/"
+  },
+  {
+    "nome": "📩Dia Internacional Sem Internet",
+    "href": "/pt/theme/international-internet-free-day/"
+  },
+  {
+    "nome": "🥤Dia Mundial Da Sobriedade E Controle Do Álcool",
+    "href": "/pt/theme/world-day-of-sobriety-and-alcohol-control/"
+  },
+  {
+    "nome": "🌎Dia Mundial Do Emoji",
+    "href": "/pt/theme/world-emoji-day/"
+  },
+  {
+    "nome": "🇦🇺Dia Da Austrália",
+    "href": "/pt/theme/australia-day/"
+  },
+  {
+    "nome": "🇺🇸Dia Da Independência",
+    "href": "/pt/theme/independence-day/"
+  },
+  {
+    "nome": "🙆‍♂️Dia Da Mentira",
+    "href": "/pt/theme/april-fools-day/"
+  },
+  {
+    "nome": "🗺️Dia Da Terra",
+    "href": "/pt/theme/earth-day/"
+  },
+  {
+    "nome": "🚴Dia Da Bicicleta",
+    "href": "/pt/theme/bicycle-day/"
+  },
+  {
+    "nome": "🤱Dia Das Mães",
+    "href": "/pt/theme/mothers-day/"
+  },
+  {
+    "nome": "⛵️Dia De Colombo",
+    "href": "/pt/theme/columbus-day/"
+  },
+  {
+    "nome": "☘️Dia De São Patricio",
+    "href": "/pt/theme/st-patricks-day/"
+  },
+  {
+    "nome": "🚬Dia De Não Fumadores",
+    "href": "/pt/theme/no-smoking-day/"
+  },
+  {
+    "nome": "🇨🇦Dia Do Canadá",
+    "href": "/pt/theme/canada-day/"
+  },
+  {
+    "nome": "⚒️Dia Do Trabalho",
+    "href": "/pt/theme/labour-day/"
+  },
+  {
+    "nome": "👨Dia Dos Pais",
+    "href": "/pt/theme/fathers-day/"
+  },
+  {
+    "nome": "💘Dia Dos Namorados",
+    "href": "/pt/theme/valentines-day/"
+  },
+  {
+    "nome": "👩Dia Internacional Da Mulher",
+    "href": "/pt/theme/international-womens-day/"
+  },
+  {
+    "nome": "🕯Diwali",
+    "href": "/pt/theme/diwali/"
+  },
+  {
+    "nome": "🎥Emoji Movie",
+    "href": "/pt/theme/emoji-movie/"
+  },
+  {
+    "nome": "👽Espaço",
+    "href": "/pt/theme/space/"
+  },
+  {
+    "nome": "🤓Faculdade",
+    "href": "/pt/theme/college/"
+  },
+  {
+    "nome": "🎉Festa",
+    "href": "/pt/theme/party/"
+  },
+  {
+    "nome": "🇨🇳Festival Do Barco-Dragão",
+    "href": "/pt/theme/dragon-boat-festival/"
+  },
+  {
+    "nome": "💪Festivus",
+    "href": "/pt/theme/festivus/"
+  },
+  {
+    "nome": "🎬Filme",
+    "href": "/pt/theme/movie/"
+  },
+  {
+    "nome": "📙Filosofia",
+    "href": "/pt/theme/philosophy/"
+  },
+  {
+    "nome": "🌠Física",
+    "href": "/pt/theme/physics/"
+  },
+  {
+    "nome": "🏃Gta",
+    "href": "/pt/theme/gta/"
+  },
+  {
+    "nome": "🌈Gay",
+    "href": "/pt/theme/gay/"
+  },
+  {
+    "nome": "🗺Geografia",
+    "href": "/pt/theme/geography/"
+  },
+  {
+    "nome": "🎓Graduação",
+    "href": "/pt/theme/graduation/"
+  },
+  {
+    "nome": "🌌Guerra Das Estrelas",
+    "href": "/pt/theme/star-wars/"
+  },
+  {
+    "nome": "❄️Guerra Dos Tronos",
+    "href": "/pt/theme/game-of-thrones/"
+  },
+  {
+    "nome": "🔥Guy Fawkes",
+    "href": "/pt/theme/guy-fawkes/"
+  },
+  {
+    "nome": "🕎Hanukkah",
+    "href": "/pt/theme/hanukkah/"
+  },
+  {
+    "nome": "🧙Harry Potter",
+    "href": "/pt/theme/harry-potter/"
+  },
+  {
+    "nome": "📖História",
+    "href": "/pt/theme/history/"
+  },
+  {
+    "nome": "🕉Holi",
+    "href": "/pt/theme/holi/"
+  },
+  {
+    "nome": "⛄Inverno",
+    "href": "/pt/theme/winter/"
+  },
+  {
+    "nome": "🤵James Bond",
+    "href": "/pt/theme/james-bond/"
+  },
+  {
+    "nome": "🏊Jogos Olímpicos",
+    "href": "/pt/theme/olympics/"
+  },
+  {
+    "nome": "🖖Jornada Nas Estrelas",
+    "href": "/pt/theme/star-trek/"
+  },
+  {
+    "nome": "📜Lei",
+    "href": "/pt/theme/law/"
+  },
+  {
+    "nome": "➗Matemática",
+    "href": "/pt/theme/math/"
+  },
+  {
+    "nome": "🕴️Matriz",
+    "href": "/pt/theme/matrix/"
+  },
+  {
+    "nome": "🧘Meditação",
+    "href": "/pt/theme/meditation/"
+  },
+  {
+    "nome": "🧱Minecraft",
+    "href": "/pt/theme/minecraft/"
+  },
+  {
+    "nome": "💪Motivação",
+    "href": "/pt/theme/motivation/"
+  },
+  {
+    "nome": "🎅Natal",
+    "href": "/pt/theme/christmas/"
+  },
+  {
+    "nome": "🎿Olimpíadas De Inverno",
+    "href": "/pt/theme/winter-olympics/"
+  },
+  {
+    "nome": "🏳️‍🌈Orgulho / Lgbtq+",
+    "href": "/pt/theme/pride/"
+  },
+  {
+    "nome": "🍂Outono",
+    "href": "/pt/theme/fall-autumn/"
+  },
+  {
+    "nome": "🌱Primavera",
+    "href": "/pt/theme/spring/"
+  },
+  {
+    "nome": "🐰Páscoa",
+    "href": "/pt/theme/easter/"
+  },
+  {
+    "nome": "🌿Quatro Vinte / 420",
+    "href": "/pt/theme/420/"
+  },
+  {
+    "nome": "☪️Ramadã",
+    "href": "/pt/theme/ramadan/"
+  },
+  {
+    "nome": "⛪️Religião",
+    "href": "/pt/theme/religion/"
+  },
+  {
+    "nome": "💊Saúde",
+    "href": "/pt/theme/health/"
+  },
+  {
+    "nome": "💏Sexo",
+    "href": "/pt/theme/sex/"
+  },
+  {
+    "nome": "🛍Sexta-Feira Preta",
+    "href": "/pt/theme/black-friday/"
+  },
+  {
+    "nome": "🕵️Sherlock",
+    "href": "/pt/theme/sherlock/"
+  },
+  {
+    "nome": "🏈Super Bowl",
+    "href": "/pt/theme/super-bowl/"
+  },
+  {
+    "nome": "🏡Trabalhar Em Casa",
+    "href": "/pt/theme/working-from-home/"
+  },
+  {
+    "nome": "☀️Verão",
+    "href": "/pt/theme/summer/"
+  },
+  {
+    "nome": "🎊Véspera De Ano Novo",
+    "href": "/pt/theme/new-years-eve/"
+  },
+  {
+    "nome": "🐉Ano Novo Chinês",
+    "href": "/pt/theme/chinese-new-year/"
+  },
+  {
+    "nome": "🇲🇽Cinco De Maio",
+    "href": "/pt/theme/cinco-de-mayo/"
+  },
+  {
+    "nome": "🇫🇷Dia Da Bastilha",
+    "href": "/pt/theme/bastille-day/"
+  },
+  {
+    "nome": "🎃Dia Das Bruxas",
+    "href": "/pt/theme/halloween/"
+  },
+  {
+    "nome": "💦Água",
+    "href": "/pt/theme/water/"
+  },
+  {
+    "nome": "Apple",
+    "href": "/pt/apple/"
+  },
+  {
+    "nome": "Google",
+    "href": "/pt/google/"
+  },
+  {
+    "nome": "Facebook",
+    "href": "/pt/facebook/"
+  },
+  {
+    "nome": "Twitter",
+    "href": "/pt/twitter/"
+  },
+  {
+    "nome": "Samsung",
+    "href": "/pt/samsung/"
+  },
+  {
+    "nome": "Microsoft",
+    "href": "/pt/microsoft/"
+  },
+  {
+    "nome": "Whatsapp",
+    "href": "/pt/whatsapp/"
+  },
+  {
+    "nome": "Messenger",
+    "href": "/pt/messenger/"
+  },
+  {
+    "nome": "Joypixels",
+    "href": "/pt/joypixels/"
+  },
+  {
+    "nome": "Openmoji",
+    "href": "/pt/openmoji/"
+  },
+  {
+    "nome": "Emojidex",
+    "href": "/pt/emojidex/"
+  },
+  {
+    "nome": "Htc",
+    "href": "/pt/htc/"
+  },
+  {
+    "nome": "Lg",
+    "href": "/pt/lg/"
+  },
+  {
+    "nome": "Mozilla",
+    "href": "/pt/mozilla/"
+  },
+  {
+    "nome": "Softbank",
+    "href": "/pt/softbank/"
+  },
+  {
+    "nome": "Au-Kddi",
+    "href": "/pt/au-kddi/"
+  },
+  {
+    "nome": "Docomo",
+    "href": "/pt/docomo/"
+  },
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/emojigraph/"
+  },
+  {
+    "nome": "Emojipedia",
+    "href": "/pt/emojipedia/"
+  },
+  {
+    "nome": "Emoji 1.0",
+    "href": "/pt/emoji-1.0/"
+  },
+  {
+    "nome": "Emoji 2.0",
+    "href": "/pt/emoji-2.0/"
+  },
+  {
+    "nome": "Emoji 3.0",
+    "href": "/pt/emoji-3.0/"
+  },
+  {
+    "nome": "Emoji 4.0",
+    "href": "/pt/emoji-4.0/"
+  },
+  {
+    "nome": "Emoji 5.0",
+    "href": "/pt/emoji-5.0/"
+  },
+  {
+    "nome": "Emoji 11.0",
+    "href": "/pt/emoji-11.0/"
+  },
+  {
+    "nome": "Emoji 12.0",
+    "href": "/pt/emoji-12.0/"
+  },
+  {
+    "nome": "Emoji 12.1",
+    "href": "/pt/emoji-12.1/"
+  },
+  {
+    "nome": "Emoji 13.0",
+    "href": "/pt/emoji-13.0/"
+  },
+  {
+    "nome": "Emoji 13.1",
+    "href": "/pt/emoji-13.1/"
+  },
+  {
+    "nome": "Emoji 14.0",
+    "href": "/pt/emoji-14.0/"
+  },
+  {
+    "nome": "Emoji 15.0",
+    "href": "/pt/emoji-15.0/"
+  },
+  {
+    "nome": "Emoji 15.1",
+    "href": "/pt/emoji-15.1/"
+  },
+  {
+    "nome": "Emoji 16.0",
+    "href": "/pt/emoji-16.0/"
+  },
+  {
+    "nome": "Política de Privacidade",
+    "href": "/pt/privacy-policy/"
+  }
+]

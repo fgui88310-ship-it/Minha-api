@@ -1,0 +1,93 @@
+{
+  "emoji": "🐌",
+  "nome": "🐌 Caracol",
+  "categoria": "Snail",
+  "url": "https://emojigraph.org/pt/snail/",
+  "detalhes": {
+    "explicacao": "Um caracol, um movimento lento, do gênero, como molusco em uma espiral de casca. Geralmente retratado como um marrom caracol em pleno perfil voltado para a esquerda ou para a direita, com um marrom, textura shell e tentáculo-como os olhos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/snail_1f40c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/snail_1f40c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "caracol",
+      "escargot"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F40C;",
+      "HTML dec": "&#128012;",
+      "URL escape code": "%F0%9F%90%8C",
+      "Punycode": "xn--3n8h",
+      "Bytes (UTF-8)": "F0 9F 90 8C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC0C",
+      "C, C++, Python": "\\U0001f40c",
+      "CSS": "\\01F40C",
+      "PHP, Ruby": "\\u{1F40C}",
+      "Perl": "\\x{1F40C}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "",
+  "nome": "♨️ Chamas",
+  "categoria": "Hot Springs",
+  "url": "https://emojigraph.org/pt/hot-springs/",
+  "detalhes": {
+    "explicacao": "Representação de nascentes de água quente com vapor subindo de uma circular banheira de hidromassagem. Este é o símbolo usado para representar um onsen em mapas no Japão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/hot-springs_2668-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/hot-springs_2668-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "calor",
+      "chamas",
+      "fogo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2668;&#xFE0F;",
+      "HTML dec": "&#9832;&#65039;",
+      "URL escape code": "%E2%99%A8%EF%B8%8F",
+      "Punycode": "xn--j6h",
+      "Bytes (UTF-8)": "E2 99 A8 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2668\\uFE0F",
+      "C, C++, Python": "\\u2668\\uFE0F",
+      "CSS": "\\2668 \\FE0F",
+      "PHP, Ruby": "\\u{2668}\\u{FE0F}",
+      "Perl": "\\x{2668}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "emoji": "🧧",
+  "nome": "🧧 Envelope vermelho",
+  "categoria": "red envelope",
+  "url": "https://emojigraph.org/pt/red-envelope/",
+  "detalhes": {
+    "explicacao": "De um envelope vermelho, dotado de dinheiro no Ano Novo Chinês ou em outros alegres ocasiões, como casamentos, em Chinês e em alguns outros países Asiáticos culturas ao redor do mundo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/red-envelope_1f9e7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/red-envelope_1f9e7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/red-envelope_1f9e7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/red-envelope_1f9e7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/red-envelope_1f9e7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/red-envelope_1f9e7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/red-envelope_1f9e7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/red-envelope_1f9e7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/red-envelope_1f9e7.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/red-envelope_1f9e7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boa sorte",
+      "dinheiro",
+      "hóngbāo",
+      "lai see",
+      "presente"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9E7;",
+      "HTML dec": "&#129511;",
+      "URL escape code": "%F0%9F%A7%A7",
+      "Punycode": "xn--xv9h",
+      "Bytes (UTF-8)": "F0 9F A7 A7",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDE7",
+      "C, C++, Python": "\\U0001f9e7",
+      "CSS": "\\01F9E7",
+      "PHP, Ruby": "\\u{1F9E7}",
+      "Perl": "\\x{1F9E7}"
+    }
+  }
+}

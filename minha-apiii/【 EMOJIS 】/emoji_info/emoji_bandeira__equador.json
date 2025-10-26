@@ -1,0 +1,67 @@
+{
+  "emoji": "🇪🇨",
+  "nome": "🇪🇨 Bandeira: Equador",
+  "categoria": "flag ecuador",
+  "url": "https://emojigraph.org/pt/flag-ecuador/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional, do Equador. Este símbolo é uma seqüência de caracteres 🇪 Símbolo Indicador Regional Letra E e 🇨 Símbolo Indicador Regional Letra C. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras EC em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-ecuador_1f1ea-1f1e8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-ecuador_1f1ea-1f1e8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-ecuador_1f1ea-1f1e8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-ecuador_1f1ea-1f1e8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-ecuador_1f1ea-1f1e8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-ecuador_1f1ea-1f1e8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-ecuador_1f1ea-1f1e8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-ecuador_1f1ea-1f1e8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-ecuador_1f1ea-1f1e8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-ecuador_1f1ea-1f1e8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EA;&#x1F1E8;",
+      "HTML dec": "&#127466;&#127464;",
+      "URL escape code": "%F0%9F%87%AA%F0%9F%87%A8",
+      "Punycode": "xn--g77hd",
+      "Bytes (UTF-8)": "F0 9F 87 AA F0 9F 87 A8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEA\\uD83C\\uDDE8",
+      "C, C++, Python": "\\U0001f1ea\\U0001f1e8",
+      "CSS": "\\01F1EA \\01F1E8",
+      "PHP, Ruby": "\\u{1F1EA}\\u{1F1E8}",
+      "Perl": "\\x{1F1EA}\\x{1F1E8}"
+    }
+  }
+}

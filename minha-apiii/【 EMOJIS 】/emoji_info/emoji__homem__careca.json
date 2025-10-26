@@ -1,0 +1,73 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🦲 Homem: careca",
+  "categoria": "man bald",
+  "url": "https://emojigraph.org/pt/man-bald/",
+  "detalhes": {
+    "explicacao": "O Homem Careca emoji é uma sequência do 👨 Homem e 🦲 Emoji Componente Careca emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-bald_1f468-200d-1f9b2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-bald_1f468-200d-1f9b2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-bald_1f468-200d-1f9b2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-bald_1f468-200d-1f9b2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-bald_1f468-200d-1f9b2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-bald_1f468-200d-1f9b2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-bald_1f468-200d-1f9b2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-bald_1f468-200d-1f9b2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-bald_1f468-200d-1f9b2.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/man-bald_1f468-200d-1f9b2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "adulto",
+      "careca",
+      "homem",
+      "amigo",
+      "irmão",
+      "marido",
+      "namorado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F9B2;",
+      "HTML dec": "&#128104;&#8205;&#129458;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%A6%B2",
+      "Punycode": "xn--qq8hu8f",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F A6 B2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83E\\uDDB2",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f9b2",
+      "CSS": "\\01F468 \\200D \\01F9B2",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F9B2}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F9B2}"
+    }
+  }
+}

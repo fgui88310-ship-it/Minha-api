@@ -1,0 +1,59 @@
+{
+  "emoji": "🇬🇮",
+  "nome": "🇬🇮 Bandeira: Gibraltar",
+  "categoria": "flag gibraltar",
+  "url": "https://emojigraph.org/pt/flag-gibraltar/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Gibraltar. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇮 Símbolo Indicador Regional Letra I. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GI em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-gibraltar_1f1ec-1f1ee.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-gibraltar_1f1ec-1f1ee.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-gibraltar_1f1ec-1f1ee.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-gibraltar_1f1ec-1f1ee.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-gibraltar_1f1ec-1f1ee.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-gibraltar_1f1ec-1f1ee.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-gibraltar_1f1ec-1f1ee.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-gibraltar_1f1ec-1f1ee.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1EE;",
+      "HTML dec": "&#127468;&#127470;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%AE",
+      "Punycode": "xn--k77hea",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 AE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDEE",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1ee",
+      "CSS": "\\01F1EC \\01F1EE",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1EE}",
+      "Perl": "\\x{1F1EC}\\x{1F1EE}"
+    }
+  }
+}

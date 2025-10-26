@@ -1,0 +1,72 @@
+{
+  "emoji": "🏹",
+  "nome": "🏹 Arco e flecha",
+  "categoria": "Bow And Arrow",
+  "url": "https://emojigraph.org/pt/bow-and-arrow/",
+  "detalhes": {
+    "explicacao": "Um arco e flecha usada no esporte de arco e flecha. Pode ser usada também por cupido.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bow-and-arrow_1f3f9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bow-and-arrow_1f3f9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bow-and-arrow_1f3f9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bow-and-arrow_1f3f9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bow-and-arrow_1f3f9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bow-and-arrow_1f3f9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bow-and-arrow_1f3f9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bow-and-arrow_1f3f9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bow-and-arrow_1f3f9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bow-and-arrow_1f3f9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arco",
+      "arco e flecha",
+      "arma",
+      "flecha",
+      "sagitário",
+      "zodíaco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3F9;",
+      "HTML dec": "&#127993;",
+      "URL escape code": "%F0%9F%8F%B9",
+      "Punycode": "xn--kn8h",
+      "Bytes (UTF-8)": "F0 9F 8F B9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFF9",
+      "C, C++, Python": "\\U0001f3f9",
+      "CSS": "\\01F3F9",
+      "PHP, Ruby": "\\u{1F3F9}",
+      "Perl": "\\x{1F3F9}"
+    }
+  }
+}

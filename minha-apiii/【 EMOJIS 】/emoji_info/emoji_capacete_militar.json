@@ -1,0 +1,56 @@
+{
+  "emoji": "🪖",
+  "nome": "🪖 Capacete militar",
+  "categoria": "military helmet",
+  "url": "https://emojigraph.org/pt/military-helmet/",
+  "detalhes": {
+    "explicacao": "Militar Capacete foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/military-helmet_1fa96.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/military-helmet_1fa96.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/military-helmet_1fa96.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/military-helmet_1fa96.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/military-helmet_1fa96.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/military-helmet_1fa96.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "capacete",
+      "exército",
+      "guerreiro",
+      "militar",
+      "soldado",
+      "guerra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA96;",
+      "HTML dec": "&#129686;",
+      "URL escape code": "%F0%9F%AA%96",
+      "Punycode": "xn--x09h",
+      "Bytes (UTF-8)": "F0 9F AA 96",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE96",
+      "C, C++, Python": "\\U0001fa96",
+      "CSS": "\\01FA96",
+      "PHP, Ruby": "\\u{1FA96}",
+      "Perl": "\\x{1FA96}"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "emoji": "🔎",
+  "nome": "🔎 Lupa para a direita",
+  "categoria": "Magnifying Glass Tilted Right",
+  "url": "https://emojigraph.org/pt/magnifying-glass-tilted-right/",
+  "detalhes": {
+    "explicacao": "Um clássico lupa, como os usados para ver pequenos objetos, com sua lente apontada para a direita. Geralmente retratado em um ângulo de 45° com uma alça preta e uma transparente ou azul, de prata com lente intitulado para o canto superior direito.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/magnifying-glass-tilted-right_1f50e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/magnifying-glass-tilted-right_1f50e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ferramenta",
+      "lupa",
+      "pesquisa",
+      "procura"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F50E;",
+      "HTML dec": "&#128270;",
+      "URL escape code": "%F0%9F%94%8E",
+      "Punycode": "xn--hv8h",
+      "Bytes (UTF-8)": "F0 9F 94 8E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD0E",
+      "C, C++, Python": "\\U0001f50e",
+      "CSS": "\\01F50E",
+      "PHP, Ruby": "\\u{1F50E}",
+      "Perl": "\\x{1F50E}"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "emoji": "🤩",
+  "nome": "🤩 Rosto com olhar maravilhado",
+  "categoria": "Star Struck",
+  "url": "https://emojigraph.org/pt/star-struck/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, com um amplo sorriso aberto, mostrando os dentes superiores na maioria das plataformas, com estrelas nos olhos, como se visse uma celebridade. A cor das estrelas varia bastante por plataforma, embora geralmente douradas ou vermelhas. Pode expressar-se de que algo ou alguém é incrível, fascinante, impressionante ou emocionante.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/star-struck_1f929.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/star-struck_1f929.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/star-struck_1f929.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/star-struck_1f929.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/star-struck_1f929.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/star-struck_1f929.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/star-struck_1f929.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/star-struck_1f929.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/star-struck_1f929.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/star-struck_1f929.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "estrela",
+      "gargalhando",
+      "olhos",
+      "rosto",
+      "super animada",
+      "super animado",
+      "super feliz",
+      "superanimada",
+      "superanimado",
+      "superfeliz"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F929;",
+      "HTML dec": "&#129321;",
+      "URL escape code": "%F0%9F%A4%A9",
+      "Punycode": "xn--iq9h",
+      "Bytes (UTF-8)": "F0 9F A4 A9",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD29",
+      "C, C++, Python": "\\U0001f929",
+      "CSS": "\\01F929",
+      "PHP, Ruby": "\\u{1F929}",
+      "Perl": "\\x{1F929}"
+    }
+  }
+}

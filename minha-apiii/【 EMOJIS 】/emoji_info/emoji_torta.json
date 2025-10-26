@@ -1,0 +1,77 @@
+{
+  "emoji": "🥧",
+  "nome": "🥧 Torta",
+  "categoria": "Pie",
+  "url": "https://emojigraph.org/pt/pie/",
+  "detalhes": {
+    "explicacao": "Um prato cozido com uma crosta de massa folhada, recheados com doce ou salgado ingredientes. A aparência varia amplamente pela plataforma. Apple mostra uma pizza inteira em uma lata, a sua frisado crosta marcou para deixar sair o vapor. O Google mostra uma fatia de torta de abóbora como prestado no dia de ação de Graças, WhatsApp e Twitter, uma fatia de torta de cereja.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pie_1f967.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pie_1f967.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pie_1f967.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pie_1f967.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pie_1f967.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pie_1f967.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pie_1f967.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pie_1f967.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pie_1f967.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pie_1f967.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fatia de torta",
+      "torta",
+      "abóbora",
+      "carne",
+      "doce",
+      "fatia",
+      "fruta",
+      "maçã",
+      "padaria",
+      "recheio",
+      "salgado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F967;",
+      "HTML dec": "&#129383;",
+      "URL escape code": "%F0%9F%A5%A7",
+      "Punycode": "xn--9r9h",
+      "Bytes (UTF-8)": "F0 9F A5 A7",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD67",
+      "C, C++, Python": "\\U0001f967",
+      "CSS": "\\01F967",
+      "PHP, Ruby": "\\u{1F967}",
+      "Perl": "\\x{1F967}"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "emoji": "😺",
+  "nome": "😺 Rosto de gato sorrindo",
+  "categoria": "grinning cat",
+  "url": "https://emojigraph.org/pt/grinning-cat/",
+  "detalhes": {
+    "explicacao": "Um gato dos desenhos animados variante de 😀 Sorrindo Rosto. Descrito como amarelo nas principais plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/grinning-cat_1f63a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/grinning-cat_1f63a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aberta",
+      "boca",
+      "gato",
+      "rosto",
+      "rosto de gato",
+      "animal",
+      "feliz",
+      "sorriso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F63A;",
+      "HTML dec": "&#128570;",
+      "URL escape code": "%F0%9F%98%BA",
+      "Punycode": "xn--138h",
+      "Bytes (UTF-8)": "F0 9F 98 BA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE3A",
+      "C, C++, Python": "\\U0001f63a",
+      "CSS": "\\01F63A",
+      "PHP, Ruby": "\\u{1F63A}",
+      "Perl": "\\x{1F63A}"
+    }
+  }
+}

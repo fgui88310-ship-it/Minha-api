@@ -1,0 +1,73 @@
+{
+  "emoji": "🤶",
+  "nome": "🤶 Mamãe Noel",
+  "categoria": "mrs claus",
+  "url": "https://emojigraph.org/pt/mrs-claus/",
+  "detalhes": {
+    "explicacao": "A mãe Natal, mais comumente conhecida como Mrs. Claus, é a esposa de mulher mais velha com óculos e uma festa de vermelho e branco castelo. Veja também: Natal emoji lista.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mrs-claus_1f936.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mrs-claus_1f936.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mrs-claus_1f936.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mrs-claus_1f936.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mrs-claus_1f936.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mrs-claus_1f936.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mrs-claus_1f936.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mrs-claus_1f936.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mrs-claus_1f936.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mrs-claus_1f936.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comemoração",
+      "Mamãe Noel",
+      "Natal",
+      "Noel",
+      "mamãe noel",
+      "natal",
+      "noel"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F936;",
+      "HTML dec": "&#129334;",
+      "URL escape code": "%F0%9F%A4%B6",
+      "Punycode": "xn--vq9h",
+      "Bytes (UTF-8)": "F0 9F A4 B6",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD36",
+      "C, C++, Python": "\\U0001f936",
+      "CSS": "\\01F936",
+      "PHP, Ruby": "\\u{1F936}",
+      "Perl": "\\x{1F936}"
+    }
+  }
+}

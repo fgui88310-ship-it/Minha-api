@@ -1,0 +1,96 @@
+{
+  "emoji": "🕐",
+  "nome": "🕐 1 hora",
+  "categoria": "one oclock",
+  "url": "https://emojigraph.org/pt/one-oclock/",
+  "detalhes": {
+    "explicacao": "Uma Horas foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio Uma hora da Tarde\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/one-oclock_1f550.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/one-oclock_1f550.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "1 hora",
+      "1h00",
+      "relógio",
+      "uma",
+      "13h",
+      "1h"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F550;",
+      "HTML dec": "&#128336;",
+      "URL escape code": "%F0%9F%95%90",
+      "Punycode": "xn--dx8h",
+      "Bytes (UTF-8)": "F0 9F 95 90",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD50",
+      "C, C++, Python": "\\U0001f550",
+      "CSS": "\\01F550",
+      "PHP, Ruby": "\\u{1F550}",
+      "Perl": "\\x{1F550}"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "emoji": "🛷",
+  "nome": "🛷 Trenó",
+  "categoria": "sled",
+  "url": "https://emojigraph.org/pt/sled/",
+  "detalhes": {
+    "explicacao": "Um trenó, também conhecido como um tobogã ou de trenó.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sled_1f6f7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sled_1f6f7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sled_1f6f7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sled_1f6f7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sled_1f6f7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sled_1f6f7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sled_1f6f7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sled_1f6f7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sled_1f6f7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sled_1f6f7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "trenó"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6F7;",
+      "HTML dec": "&#128759;",
+      "URL escape code": "%F0%9F%9B%B7",
+      "Punycode": "xn--g98h",
+      "Bytes (UTF-8)": "F0 9F 9B B7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEF7",
+      "C, C++, Python": "\\U0001f6f7",
+      "CSS": "\\01F6F7",
+      "PHP, Ruby": "\\u{1F6F7}",
+      "Perl": "\\x{1F6F7}"
+    }
+  }
+}

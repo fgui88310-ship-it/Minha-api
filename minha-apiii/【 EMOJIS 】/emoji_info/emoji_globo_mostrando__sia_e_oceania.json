@@ -1,0 +1,95 @@
+{
+  "emoji": "🌏",
+  "nome": "🌏 Globo mostrando Ásia e Oceania",
+  "categoria": "globe showing asia australia",
+  "url": "https://emojigraph.org/pt/globe-showing-asia-australia/",
+  "detalhes": {
+    "explicacao": "Um globo, mostrando os continentes da Ásia e da Austrália em verde contra azul do oceano.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/globe-showing-asia-australia_1f30f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/globe-showing-asia-australia_1f30f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "Ásia",
+      "Austrália",
+      "Terra",
+      "Oceania",
+      "planeta terra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F30F;",
+      "HTML dec": "&#127759;",
+      "URL escape code": "%F0%9F%8C%8F",
+      "Punycode": "xn--vg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF0F",
+      "C, C++, Python": "\\U0001f30f",
+      "CSS": "\\01F30F",
+      "PHP, Ruby": "\\u{1F30F}",
+      "Perl": "\\x{1F30F}"
+    }
+  }
+}

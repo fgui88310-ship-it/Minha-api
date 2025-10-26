@@ -1,0 +1,68 @@
+{
+  "emoji": "🛕",
+  "nome": "🛕 Templo hindu",
+  "categoria": "Hindu Temple",
+  "url": "https://emojigraph.org/pt/hindu-temple/",
+  "detalhes": {
+    "explicacao": "Templo Hindu foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hindu-temple_1f6d5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hindu-temple_1f6d5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hindu-temple_1f6d5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hindu-temple_1f6d5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hindu-temple_1f6d5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hindu-temple_1f6d5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hindu-temple_1f6d5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hindu-temple_1f6d5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hindu-temple_1f6d5.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/hindu-temple_1f6d5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "hindu",
+      "templo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6D5;",
+      "HTML dec": "&#128725;",
+      "URL escape code": "%F0%9F%9B%95",
+      "Punycode": "xn--h88h",
+      "Bytes (UTF-8)": "F0 9F 9B 95",
+      "JavaScript, JSON, Java": "\\uD83D\\uDED5",
+      "C, C++, Python": "\\U0001f6d5",
+      "CSS": "\\01F6D5",
+      "PHP, Ruby": "\\u{1F6D5}",
+      "Perl": "\\x{1F6D5}"
+    }
+  }
+}

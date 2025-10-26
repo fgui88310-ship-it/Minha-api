@@ -1,0 +1,80 @@
+{
+  "emoji": "🪼",
+  "nome": "🪼 Água-viva",
+  "categoria": "Jellyfish",
+  "url": "https://emojigraph.org/pt/jellyfish/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/jellyfish_1fabc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/jellyfish_1fabc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/jellyfish_1fabc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/jellyfish_1fabc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/jellyfish_1fabc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/jellyfish_1fabc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/jellyfish_1fabc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/jellyfish_1fabc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/jellyfish_1fabc.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/jellyfish_1fabc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "água-viva",
+      "ai",
+      "ferrão",
+      "geleia",
+      "invertebrado",
+      "marinha",
+      "queimadura",
+      "animal",
+      "aquário",
+      "mar",
+      "medusa",
+      "oceano",
+      "plâncton",
+      "tentáculos",
+      "vida marinha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FABC;",
+      "HTML dec": "&#129724;",
+      "URL escape code": "%F0%9F%AA%BC",
+      "Bytes (UTF-8)": "f0 9f aa bc",
+      "JavaScript, JSON, Java": "\\ud83e\\udebc",
+      "C, C++, Python": "\\U0001fabc",
+      "CSS": "\\01FABC",
+      "PHP, Ruby": "\\u{1FABC}",
+      "Perl": "\\x{1FABC}"
+    }
+  }
+}

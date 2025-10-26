@@ -1,0 +1,71 @@
+{
+  "emoji": "🌦",
+  "nome": "🌦️ Sol com chuva",
+  "categoria": "sun behind rain cloud",
+  "url": "https://emojigraph.org/pt/sun-behind-rain-cloud/",
+  "detalhes": {
+    "explicacao": "Um sol amarelo metade coberto por uma branca nuvem de chuva com gotas de chuva azul. A maioria das plataformas de retratar as gotas de chuva caindo para a esquerda. A posição do sol varia entre plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sun-behind-rain-cloud_1f326-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sun-behind-rain-cloud_1f326-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sun-behind-rain-cloud_1f326-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sun-behind-rain-cloud_1f326-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sun-behind-rain-cloud_1f326-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sun-behind-rain-cloud_1f326-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sun-behind-rain-cloud_1f326-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sun-behind-rain-cloud_1f326-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sun-behind-rain-cloud_1f326-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sun-behind-rain-cloud_1f326-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chuva",
+      "clima",
+      "nuvem",
+      "sol",
+      "sol com chuva"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F326;&#xFE0F;",
+      "HTML dec": "&#127782;&#65039;",
+      "URL escape code": "%F0%9F%8C%A6%EF%B8%8F",
+      "Punycode": "xn--jh8h",
+      "Bytes (UTF-8)": "F0 9F 8C A6 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF26\\uFE0F",
+      "C, C++, Python": "\\U0001f326\\uFE0F",
+      "CSS": "\\01F326 \\FE0F",
+      "PHP, Ruby": "\\u{1F326}\\u{FE0F}",
+      "Perl": "\\x{1F326}\\x{FE0F}"
+    }
+  }
+}

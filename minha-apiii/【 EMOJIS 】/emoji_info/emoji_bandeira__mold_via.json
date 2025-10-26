@@ -1,0 +1,59 @@
+{
+  "emoji": "🇲🇩",
+  "nome": "🇲🇩 Bandeira: Moldávia",
+  "categoria": "flag moldova",
+  "url": "https://emojigraph.org/pt/flag-moldova/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Moldávia. Este símbolo é uma seqüência de caracteres 🇲 Símbolo Indicador Regional Letra М e 🇩 Símbolo Indicador Regional Letra D. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras MD em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-moldova_1f1f2-1f1e9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-moldova_1f1f2-1f1e9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-moldova_1f1f2-1f1e9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-moldova_1f1f2-1f1e9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-moldova_1f1f2-1f1e9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-moldova_1f1f2-1f1e9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-moldova_1f1f2-1f1e9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-moldova_1f1f2-1f1e9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F2;&#x1F1E9;",
+      "HTML dec": "&#127474;&#127465;",
+      "URL escape code": "%F0%9F%87%B2%F0%9F%87%A9",
+      "Punycode": "xn--h77hra",
+      "Bytes (UTF-8)": "F0 9F 87 B2 F0 9F 87 A9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF2\\uD83C\\uDDE9",
+      "C, C++, Python": "\\U0001f1f2\\U0001f1e9",
+      "CSS": "\\01F1F2 \\01F1E9",
+      "PHP, Ruby": "\\u{1F1F2}\\u{1F1E9}",
+      "Perl": "\\x{1F1F2}\\x{1F1E9}"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "emoji": "🫴",
+  "nome": "🫴 Mão com a palma para cima",
+  "categoria": "Palm Up Hand",
+  "url": "https://emojigraph.org/pt/palm-up-hand/",
+  "detalhes": {
+    "explicacao": "Uma mão amarela com a palma voltada para cima como se estivesse pegando ou pegando algo. Este é um gesto de aceno comum na maioria dos\n🇪🇺 Europa. Pode ser usado para oferecer, receber ou até mesmo exigir algo: Give me my 🫴 💰 dinheiro!",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/palm-up-hand_1faf4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/palm-up-hand_1faf4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/palm-up-hand_1faf4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/palm-up-hand_1faf4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/palm-up-hand_1faf4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/palm-up-hand_1faf4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/palm-up-hand_1faf4.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/palm-up-hand_1faf4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acenar",
+      "oferecer",
+      "pegar",
+      "venha",
+      "levantar",
+      "mão",
+      "segurar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAF4;",
+      "HTML dec": "&#129780;",
+      "URL escape code": "%F0%9F%AB%B4",
+      "Punycode": "xn--m39h",
+      "Bytes (UTF-8)": "f0 9f ab b4",
+      "JavaScript, JSON, Java": "\\ud83e\\udef4",
+      "C, C++, Python": "\\U0001faf4",
+      "CSS": "\\01FAF4",
+      "PHP, Ruby": "\\u{1FAF4}",
+      "Perl": "\\x{1FAF4}"
+    }
+  }
+}

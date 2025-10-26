@@ -1,0 +1,67 @@
+{
+  "emoji": "🇳🇴",
+  "nome": "🇳🇴 Bandeira: Noruega",
+  "categoria": "flag norway",
+  "url": "https://emojigraph.org/pt/flag-norway/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Noruega. Este símbolo é uma seqüência de caracteres 🇳 Símbolo Indicador Regional Letra N e 🇴 Símbolo Indicador Regional Letra O. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras NO em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-norway_1f1f3-1f1f4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-norway_1f1f3-1f1f4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-norway_1f1f3-1f1f4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-norway_1f1f3-1f1f4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-norway_1f1f3-1f1f4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-norway_1f1f3-1f1f4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-norway_1f1f3-1f1f4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-norway_1f1f3-1f1f4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-norway_1f1f3-1f1f4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-norway_1f1f3-1f1f4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F3;&#x1F1F4;",
+      "HTML dec": "&#127475;&#127476;",
+      "URL escape code": "%F0%9F%87%B3%F0%9F%87%B4",
+      "Punycode": "xn--r77hc",
+      "Bytes (UTF-8)": "F0 9F 87 B3 F0 9F 87 B4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF3\\uD83C\\uDDF4",
+      "C, C++, Python": "\\U0001f1f3\\U0001f1f4",
+      "CSS": "\\01F1F3 \\01F1F4",
+      "PHP, Ruby": "\\u{1F1F3}\\u{1F1F4}",
+      "Perl": "\\x{1F1F3}\\x{1F1F4}"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "emoji": "🇦🇺",
+  "nome": "🇦🇺 Bandeira: Austrália",
+  "categoria": "flag australia",
+  "url": "https://emojigraph.org/pt/flag-australia/",
+  "detalhes": {
+    "explicacao": "A bandeira para a Austrália, que pode mostrar como as letras AU em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-australia_1f1e6-1f1fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-australia_1f1e6-1f1fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-australia_1f1e6-1f1fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-australia_1f1e6-1f1fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-australia_1f1e6-1f1fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-australia_1f1e6-1f1fa.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-australia_1f1e6-1f1fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-australia_1f1e6-1f1fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-australia_1f1e6-1f1fa.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-australia_1f1e6-1f1fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E6;&#x1F1FA;",
+      "HTML dec": "&#127462;&#127482;",
+      "URL escape code": "%F0%9F%87%A6%F0%9F%87%BA",
+      "Punycode": "xn--e77hib",
+      "Bytes (UTF-8)": "F0 9F 87 A6 F0 9F 87 BA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE6\\uD83C\\uDDFA",
+      "C, C++, Python": "\\U0001f1e6\\U0001f1fa",
+      "CSS": "\\01F1E6 \\01F1FA",
+      "PHP, Ruby": "\\u{1F1E6}\\u{1F1FA}",
+      "Perl": "\\x{1F1E6}\\x{1F1FA}"
+    }
+  }
+}

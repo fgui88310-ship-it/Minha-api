@@ -1,0 +1,85 @@
+{
+  "emoji": "🐇",
+  "nome": "🐇 Coelho",
+  "categoria": "Rabbit",
+  "url": "https://emojigraph.org/pt/rabbit/",
+  "detalhes": {
+    "explicacao": "Um coelho, um hoppy mamífero com orelhas longas. Retratado como branco, cinza ou marrom coelho no perfil completo virada para a esquerda cor-de-rosa com orelhas e uma cauda curta, sentado em sua longa, pernas traseiras ou em todos os fours.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/rabbit_1f407.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/rabbit_1f407.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "coelhinho",
+      "coelho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F407;",
+      "HTML dec": "&#128007;",
+      "URL escape code": "%F0%9F%90%87",
+      "Punycode": "xn--yn8h",
+      "Bytes (UTF-8)": "F0 9F 90 87",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC07",
+      "C, C++, Python": "\\U0001f407",
+      "CSS": "\\01F407",
+      "PHP, Ruby": "\\u{1F407}",
+      "Perl": "\\x{1F407}"
+    }
+  }
+}

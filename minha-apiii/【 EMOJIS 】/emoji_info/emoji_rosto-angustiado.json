@@ -1,0 +1,85 @@
+{
+  "emoji": "😧",
+  "nome": "😧 Rosto angustiado",
+  "categoria": "Anguished Face",
+  "url": "https://emojigraph.org/pt/anguished-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com pequenas, abra os olhos, abra franzir a testa, e levantou as sobrancelhas. O design da Samsung mostra os dentes de cima e a língua. Significado varia bastante, mas pode transmitir o alarme, confusão, tristeza, como se ofegante em choque ou preocupação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/anguished-face_1f627.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/anguished-face_1f627.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "sofrendo",
+      "angustiado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F627;",
+      "HTML dec": "&#128551;",
+      "URL escape code": "%F0%9F%98%A7",
+      "Punycode": "xn--i38h",
+      "Bytes (UTF-8)": "F0 9F 98 A7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE27",
+      "C, C++, Python": "\\U0001f627",
+      "CSS": "\\01F627",
+      "PHP, Ruby": "\\u{1F627}",
+      "Perl": "\\x{1F627}"
+    }
+  }
+}

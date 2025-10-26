@@ -1,0 +1,94 @@
+{
+  "emoji": "🏣",
+  "nome": "🏣 Correio japonês",
+  "categoria": "Japanese Post Office",
+  "url": "https://emojigraph.org/pt/japanese-post-office/",
+  "detalhes": {
+    "explicacao": "Uma agência de Japonês, com o テ Japonês postal marca na parte da frente do edifício (ou mostrando esta marca instead do edifício da Microsoft, obras de arte).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/japanese-post-office_1f3e3.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/japanese-post-office_1f3e3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "correio",
+      "japonês",
+      "oriental",
+      "prédio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3E3;",
+      "HTML dec": "&#127971;",
+      "URL escape code": "%F0%9F%8F%A3",
+      "Punycode": "xn--xm8h",
+      "Bytes (UTF-8)": "F0 9F 8F A3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFE3",
+      "C, C++, Python": "\\U0001f3e3",
+      "CSS": "\\01F3E3",
+      "PHP, Ruby": "\\u{1F3E3}",
+      "Perl": "\\x{1F3E3}"
+    }
+  }
+}

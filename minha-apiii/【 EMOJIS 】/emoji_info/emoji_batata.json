@@ -1,0 +1,71 @@
+{
+  "emoji": "🥔",
+  "nome": "🥔 Batata",
+  "categoria": "Potato",
+  "url": "https://emojigraph.org/pt/potato/",
+  "detalhes": {
+    "explicacao": "Um batatas inteiras—como um castanho-avermelhado, utilizada para o cozimento, esmagou, ou fritura—apresentado com uns olhos em sua marrom-dourada da pele. Não deve ser confundido com o assado de batata doce.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/potato_1f954.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/potato_1f954.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/potato_1f954.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/potato_1f954.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/potato_1f954.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/potato_1f954.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/potato_1f954.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/potato_1f954.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/potato_1f954.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/potato_1f954.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "batata",
+      "comida",
+      "legume",
+      "fome",
+      "vegetal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F954;",
+      "HTML dec": "&#129364;",
+      "URL escape code": "%F0%9F%A5%94",
+      "Punycode": "xn--qr9h",
+      "Bytes (UTF-8)": "F0 9F A5 94",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD54",
+      "C, C++, Python": "\\U0001f954",
+      "CSS": "\\01F954",
+      "PHP, Ruby": "\\u{1F954}",
+      "Perl": "\\x{1F954}"
+    }
+  }
+}

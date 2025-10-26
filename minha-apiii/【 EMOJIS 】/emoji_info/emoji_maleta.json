@@ -1,0 +1,93 @@
+{
+  "emoji": "💼",
+  "nome": "💼 Maleta",
+  "categoria": "Briefcase",
+  "url": "https://emojigraph.org/pt/briefcase/",
+  "detalhes": {
+    "explicacao": "Um lugar para armazenar anotações e outros materiais de escritório. Usado principalmente por pessoas mais velhas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/briefcase_1f4bc.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/briefcase_1f4bc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mala",
+      "maleta",
+      "pasta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4BC;",
+      "HTML dec": "&#128188;",
+      "URL escape code": "%F0%9F%92%BC",
+      "Punycode": "xn--4s8h",
+      "Bytes (UTF-8)": "F0 9F 92 BC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCBC",
+      "C, C++, Python": "\\U0001f4bc",
+      "CSS": "\\01F4BC",
+      "PHP, Ruby": "\\u{1F4BC}",
+      "Perl": "\\x{1F4BC}"
+    }
+  }
+}

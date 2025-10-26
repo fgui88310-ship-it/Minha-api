@@ -1,0 +1,71 @@
+{
+  "emoji": "🤘",
+  "nome": "🤘 Saudação do rock",
+  "categoria": "Sign Of The Horns",
+  "url": "https://emojigraph.org/pt/sign-of-the-horns/",
+  "detalhes": {
+    "explicacao": "Um \"rock on\" gesto de mão levantando o dedo mindinho e o índice da mão, e uma variedade de outros significados.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sign-of-the-horns_1f918.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sign-of-the-horns_1f918.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sign-of-the-horns_1f918.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sign-of-the-horns_1f918.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sign-of-the-horns_1f918.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sign-of-the-horns_1f918.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sign-of-the-horns_1f918.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sign-of-the-horns_1f918.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sign-of-the-horns_1f918.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sign-of-the-horns_1f918.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chifres",
+      "dedos",
+      "mão",
+      "metal",
+      "rock"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F918;",
+      "HTML dec": "&#129304;",
+      "URL escape code": "%F0%9F%A4%98",
+      "Punycode": "xn--0p9h",
+      "Bytes (UTF-8)": "F0 9F A4 98",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD18",
+      "C, C++, Python": "\\U0001f918",
+      "CSS": "\\01F918",
+      "PHP, Ruby": "\\u{1F918}",
+      "Perl": "\\x{1F918}"
+    }
+  }
+}

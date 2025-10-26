@@ -1,0 +1,68 @@
+{
+  "emoji": "🧅",
+  "nome": "🧅 Cebola",
+  "categoria": "Onion",
+  "url": "https://emojigraph.org/pt/onion/",
+  "detalhes": {
+    "explicacao": "Cebola foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/onion_1f9c5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/onion_1f9c5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/onion_1f9c5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/onion_1f9c5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/onion_1f9c5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/onion_1f9c5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/onion_1f9c5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/onion_1f9c5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/onion_1f9c5.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/onion_1f9c5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cebola",
+      "tempero"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9C5;",
+      "HTML dec": "&#129477;",
+      "URL escape code": "%F0%9F%A7%85",
+      "Punycode": "xn--yu9h",
+      "Bytes (UTF-8)": "F0 9F A7 85",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDC5",
+      "C, C++, Python": "\\U0001f9c5",
+      "CSS": "\\01F9C5",
+      "PHP, Ruby": "\\u{1F9C5}",
+      "Perl": "\\x{1F9C5}"
+    }
+  }
+}

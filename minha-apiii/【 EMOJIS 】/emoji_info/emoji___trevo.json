@@ -1,0 +1,67 @@
+{
+  "emoji": "",
+  "nome": "☘️ Trevo",
+  "categoria": "shamrock",
+  "url": "https://emojigraph.org/pt/shamrock/",
+  "detalhes": {
+    "explicacao": "Um trevo, um trevo-planta. Descrito como um raminho verde brilhante, com folhas em forma de coração.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shamrock_2618-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shamrock_2618-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shamrock_2618-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shamrock_2618-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shamrock_2618-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shamrock_2618-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shamrock_2618-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shamrock_2618-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shamrock_2618-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/shamrock_2618-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "trevo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2618;&#xFE0F;",
+      "HTML dec": "&#9752;&#65039;",
+      "URL escape code": "%E2%98%98%EF%B8%8F",
+      "Punycode": "xn--83h",
+      "Bytes (UTF-8)": "E2 98 98 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2618\\uFE0F",
+      "C, C++, Python": "\\u2618\\uFE0F",
+      "CSS": "\\2618 \\FE0F",
+      "PHP, Ruby": "\\u{2618}\\u{FE0F}",
+      "Perl": "\\x{2618}\\x{FE0F}"
+    }
+  }
+}

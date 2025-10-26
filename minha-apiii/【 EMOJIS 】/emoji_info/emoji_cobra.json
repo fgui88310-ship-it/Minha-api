@@ -1,0 +1,94 @@
+{
+  "emoji": "🐍",
+  "nome": "🐍 Cobra",
+  "categoria": "Snake",
+  "url": "https://emojigraph.org/pt/snake/",
+  "detalhes": {
+    "explicacao": "Uma cobra, um réptil deslizando sem membros. Geralmente retratado como um amarelado-verde cobra virada para a esquerda, com um longo, enrolado corpo e apertar o vermelho, língua bifurcada.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/snake_1f40d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/snake_1f40d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "cobra",
+      "réptil",
+      "serpente"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F40D;",
+      "HTML dec": "&#128013;",
+      "URL escape code": "%F0%9F%90%8D",
+      "Punycode": "xn--4n8h",
+      "Bytes (UTF-8)": "F0 9F 90 8D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC0D",
+      "C, C++, Python": "\\U0001f40d",
+      "CSS": "\\01F40D",
+      "PHP, Ruby": "\\u{1F40D}",
+      "Perl": "\\x{1F40D}"
+    }
+  }
+}

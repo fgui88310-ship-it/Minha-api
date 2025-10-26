@@ -1,0 +1,94 @@
+{
+  "emoji": "📊",
+  "nome": "📊 Gráfico de barras",
+  "categoria": "bar chart",
+  "url": "https://emojigraph.org/pt/bar-chart/",
+  "detalhes": {
+    "explicacao": "Um gráfico de barras, geralmente, mostrando três cores diferentes, retângulos verticais em várias alturas, como compara os valores de toda uma categoria. Comumente usado para representar vários tipos de dados, informações, fatos, números e gráficos em geral.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bar-chart_1f4ca.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bar-chart_1f4ca.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barra",
+      "barras",
+      "gráfico",
+      "diagrama"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4CA;",
+      "HTML dec": "&#128202;",
+      "URL escape code": "%F0%9F%93%8A",
+      "Punycode": "xn--jt8h",
+      "Bytes (UTF-8)": "F0 9F 93 8A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCCA",
+      "C, C++, Python": "\\U0001f4ca",
+      "CSS": "\\01F4CA",
+      "PHP, Ruby": "\\u{1F4CA}",
+      "Perl": "\\x{1F4CA}"
+    }
+  }
+}

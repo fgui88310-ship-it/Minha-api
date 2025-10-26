@@ -1,0 +1,98 @@
+{
+  "emoji": "🕒",
+  "nome": "🕒 3 horas",
+  "categoria": "Three Oclock",
+  "url": "https://emojigraph.org/pt/three-oclock/",
+  "detalhes": {
+    "explicacao": "Uma imagem dos desenhos animados de um relógio apontando para as três horas. Geralmente usado para indicar a hora. Três Horas foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Três Horas\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/three-oclock_1f552.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/three-oclock_1f552.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "3 horas",
+      "3h00",
+      "relógio",
+      "três",
+      "15h",
+      "3:00",
+      "hora",
+      "horário"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F552;",
+      "HTML dec": "&#128338;",
+      "URL escape code": "%F0%9F%95%92",
+      "Punycode": "xn--fx8h",
+      "Bytes (UTF-8)": "F0 9F 95 92",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD52",
+      "C, C++, Python": "\\U0001f552",
+      "CSS": "\\01F552",
+      "PHP, Ruby": "\\u{1F552}",
+      "Perl": "\\x{1F552}"
+    }
+  }
+}

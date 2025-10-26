@@ -1,0 +1,75 @@
+{
+  "emoji": "🧺",
+  "nome": "🧺 Cesta",
+  "categoria": "Basket",
+  "url": "https://emojigraph.org/pt/basket/",
+  "detalhes": {
+    "explicacao": "Uma cesta, como a usada para guardar ou transportar coisas tais como comida ou roupa. A aparência varia bastante entre as plataformas, mas geralmente retratado como trançado de vime com um ou mais identificadores. Comumente usado para representar fazer roupa ou fazer um piquenique.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/basket_1f9fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/basket_1f9fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/basket_1f9fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/basket_1f9fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/basket_1f9fa.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/basket_1f9fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/basket_1f9fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/basket_1f9fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/basket_1f9fa.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/basket_1f9fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "agrícola",
+      "cesta",
+      "cesto de roupa",
+      "piquenique",
+      "agricultura",
+      "lavanderia",
+      "lavoura",
+      "roupa",
+      "suja"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9FA;",
+      "HTML dec": "&#129530;",
+      "URL escape code": "%F0%9F%A7%BA",
+      "Punycode": "xn--hw9h",
+      "Bytes (UTF-8)": "F0 9F A7 BA",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDFA",
+      "C, C++, Python": "\\U0001f9fa",
+      "CSS": "\\01F9FA",
+      "PHP, Ruby": "\\u{1F9FA}",
+      "Perl": "\\x{1F9FA}"
+    }
+  }
+}

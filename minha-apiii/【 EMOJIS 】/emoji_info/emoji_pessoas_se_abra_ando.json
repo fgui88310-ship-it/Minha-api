@@ -1,0 +1,67 @@
+{
+  "emoji": "🫂",
+  "nome": "🫂 Pessoas se abraçando",
+  "categoria": "people hugging",
+  "url": "https://emojigraph.org/pt/people-hugging/",
+  "detalhes": {
+    "explicacao": "Duas pessoas se abraçando, mostrado em um design que não mostram detalhes específicos de um indivíduo. O que representa um mais claro abraço do que o existente 🤗 Abraços.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/people-hugging_1fac2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/people-hugging_1fac2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/people-hugging_1fac2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/people-hugging_1fac2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/people-hugging_1fac2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/people-hugging_1fac2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/people-hugging_1fac2.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/people-hugging_1fac2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "abraço",
+      "adeus",
+      "obrigado",
+      "olá",
+      "abraçando",
+      "amizade",
+      "amor",
+      "carinho",
+      "conforto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAC2;",
+      "HTML dec": "&#129730;",
+      "URL escape code": "%F0%9F%AB%82",
+      "Punycode": "xn--619h",
+      "Bytes (UTF-8)": "F0 9F AB 82",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEC2",
+      "C, C++, Python": "\\U0001fac2",
+      "CSS": "\\01FAC2",
+      "PHP, Ruby": "\\u{1FAC2}",
+      "Perl": "\\x{1FAC2}"
+    }
+  }
+}

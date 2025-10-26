@@ -1,0 +1,71 @@
+{
+  "emoji": "🩳",
+  "nome": "🩳 Shorts",
+  "categoria": "Shorts",
+  "url": "https://emojigraph.org/pt/shorts/",
+  "detalhes": {
+    "explicacao": "Shorts foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shorts_1fa73.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shorts_1fa73.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shorts_1fa73.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shorts_1fa73.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shorts_1fa73.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shorts_1fa73.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shorts_1fa73.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shorts_1fa73.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shorts_1fa73.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/shorts_1fa73.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bermuda",
+      "roupa de banho",
+      "roupa de praia",
+      "shorts",
+      "nadar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA73;",
+      "HTML dec": "&#129651;",
+      "URL escape code": "%F0%9F%A9%B3",
+      "Punycode": "xn--xz9h",
+      "Bytes (UTF-8)": "F0 9F A9 B3",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE73",
+      "C, C++, Python": "\\U0001fa73",
+      "CSS": "\\01FA73",
+      "PHP, Ruby": "\\u{1FA73}",
+      "Perl": "\\x{1FA73}"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "emoji": "🦫",
+  "nome": "🦫 Castor",
+  "categoria": "Beaver",
+  "url": "https://emojigraph.org/pt/beaver/",
+  "detalhes": {
+    "explicacao": "Castor foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/beaver_1f9ab.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/beaver_1f9ab.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/beaver_1f9ab.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/beaver_1f9ab.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/beaver_1f9ab.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/beaver_1f9ab.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/beaver_1f9ab.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/beaver_1f9ab.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "castor",
+      "represa",
+      "animal",
+      "dentuço"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9AB;",
+      "HTML dec": "&#129451;",
+      "URL escape code": "%F0%9F%A6%AB",
+      "Punycode": "xn--7t9h",
+      "Bytes (UTF-8)": "F0 9F A6 AB",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDAB",
+      "C, C++, Python": "\\U0001f9ab",
+      "CSS": "\\01F9AB",
+      "PHP, Ruby": "\\u{1F9AB}",
+      "Perl": "\\x{1F9AB}"
+    }
+  }
+}

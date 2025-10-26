@@ -1,0 +1,88 @@
+{
+  "emoji": "🚈",
+  "nome": "🚈 Trem urbano",
+  "categoria": "Light Rail",
+  "url": "https://emojigraph.org/pt/light-rail/",
+  "detalhes": {
+    "explicacao": "Uma forma de transporte público semelhante a um bonde, mas a execução de uma pista de rede ou separadas dos carros e de outros tipos de tráfego.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/light-rail_1f688.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/light-rail_1f688.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "leve",
+      "trem",
+      "trem urbano",
+      "veículo",
+      "chegada",
+      "cheguei"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F688;",
+      "HTML dec": "&#128648;",
+      "URL escape code": "%F0%9F%9A%88",
+      "Punycode": "xn--958h",
+      "Bytes (UTF-8)": "F0 9F 9A 88",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE88",
+      "C, C++, Python": "\\U0001f688",
+      "CSS": "\\01F688",
+      "PHP, Ruby": "\\u{1F688}",
+      "Perl": "\\x{1F688}"
+    }
+  }
+}

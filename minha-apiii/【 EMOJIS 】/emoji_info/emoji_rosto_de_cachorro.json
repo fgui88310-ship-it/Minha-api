@@ -1,0 +1,93 @@
+{
+  "emoji": "🐶",
+  "nome": "🐶 Rosto de cachorro",
+  "categoria": "dog face",
+  "url": "https://emojigraph.org/pt/dog-face/",
+  "detalhes": {
+    "explicacao": "O que é um bom cãopanheiro! Um amigável, rosto de um cão estilo desenho, olhando para a frente. Descrito como o rosto de um cão de várias raças, geralmente castanho-claro e branco, com pontas ou orelhas de abano e sua língua pendurada.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/dog-face_1f436.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/dog-face_1f436.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "cachorro",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F436;",
+      "HTML dec": "&#128054;",
+      "URL escape code": "%F0%9F%90%B6",
+      "Punycode": "xn--bp8h",
+      "Bytes (UTF-8)": "F0 9F 90 B6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC36",
+      "C, C++, Python": "\\U0001f436",
+      "CSS": "\\01F436",
+      "PHP, Ruby": "\\u{1F436}",
+      "Perl": "\\x{1F436}"
+    }
+  }
+}

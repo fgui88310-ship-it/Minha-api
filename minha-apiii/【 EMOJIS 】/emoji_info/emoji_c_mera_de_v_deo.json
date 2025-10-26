@@ -1,0 +1,94 @@
+{
+  "emoji": "📹",
+  "nome": "📹 Câmera de vídeo",
+  "categoria": "video camera",
+  "url": "https://emojigraph.org/pt/video-camera/",
+  "detalhes": {
+    "explicacao": "Uma câmera de vídeo, como uma câmera usada para filmar vídeos caseiros em 1980–90. Geralmente retratado como preto ou cinza, vídeo da câmera com visor, botões de controle, e a lente apontada para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/video-camera_1f4f9.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/video-camera_1f4f9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "câmera",
+      "câmera de vídeo",
+      "vídeo",
+      "filmadora"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4F9;",
+      "HTML dec": "&#128249;",
+      "URL escape code": "%F0%9F%93%B9",
+      "Punycode": "xn--vu8h",
+      "Bytes (UTF-8)": "F0 9F 93 B9",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCF9",
+      "C, C++, Python": "\\U0001f4f9",
+      "CSS": "\\01F4F9",
+      "PHP, Ruby": "\\u{1F4F9}",
+      "Perl": "\\x{1F4F9}"
+    }
+  }
+}

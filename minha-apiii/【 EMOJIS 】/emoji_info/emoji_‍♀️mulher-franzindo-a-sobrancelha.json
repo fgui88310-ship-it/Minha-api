@@ -1,0 +1,69 @@
+{
+  "emoji": "🙍",
+  "nome": "🙍‍♀️ Mulher franzindo a sobrancelha",
+  "categoria": "Woman Frowning",
+  "url": "https://emojigraph.org/pt/woman-frowning/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 🙍 Pessoa franzindo o cenho emoji. Atualmente idêntico em aparência a não-gênero da base de dados de emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-frowning_1f64d-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-frowning_1f64d-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-frowning_1f64d-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-frowning_1f64d-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-frowning_1f64d-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-frowning_1f64d-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-frowning_1f64d-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-frowning_1f64d-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-frowning_1f64d-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-frowning_1f64d-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carrancuda",
+      "desconfiada",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F64D;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128589;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%99%8D%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h1380o",
+      "Bytes (UTF-8)": "F0 9F 99 8D E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE4D\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f64d\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F64D \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F64D}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F64D}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

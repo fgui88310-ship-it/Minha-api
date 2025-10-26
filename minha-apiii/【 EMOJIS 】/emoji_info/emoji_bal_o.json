@@ -1,0 +1,95 @@
+{
+  "emoji": "🎈",
+  "nome": "🎈 Balão",
+  "categoria": "balloon",
+  "url": "https://emojigraph.org/pt/balloon/",
+  "detalhes": {
+    "explicacao": "Um balão em uma seqüência de caracteres, como decora uma festa de aniversário. Geralmente, representado em vermelho, mas no WhatsApp é cor-de-rosa e o Google alaranjado-vermelho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/balloon_1f388.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/balloon_1f388.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balão",
+      "comemoração",
+      "aniversário",
+      "celebração",
+      "parabéns"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F388;",
+      "HTML dec": "&#127880;",
+      "URL escape code": "%F0%9F%8E%88",
+      "Punycode": "xn--ck8h",
+      "Bytes (UTF-8)": "F0 9F 8E 88",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF88",
+      "C, C++, Python": "\\U0001f388",
+      "CSS": "\\01F388",
+      "PHP, Ruby": "\\u{1F388}",
+      "Perl": "\\x{1F388}"
+    }
+  }
+}

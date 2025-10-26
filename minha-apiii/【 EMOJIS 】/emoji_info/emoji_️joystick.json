@@ -1,0 +1,70 @@
+{
+  "emoji": "🕹",
+  "nome": "🕹️ Joystick",
+  "categoria": "Joystick",
+  "url": "https://emojigraph.org/pt/joystick/",
+  "detalhes": {
+    "explicacao": "Um joystick, como usado no jogo de arcade clássico, computador, ou jogos de vídeo. Geralmente representado com uma base preta, vermelha-knobbed manípulo de controlo, e um ou mais botões vermelhos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/joystick_1f579-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/joystick_1f579-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/joystick_1f579-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/joystick_1f579-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/joystick_1f579-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/joystick_1f579-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/joystick_1f579-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/joystick_1f579-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/joystick_1f579-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/joystick_1f579-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "game",
+      "jogo",
+      "joystick",
+      "videogame"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F579;&#xFE0F;",
+      "HTML dec": "&#128377;&#65039;",
+      "URL escape code": "%F0%9F%95%B9%EF%B8%8F",
+      "Punycode": "xn--jy8h",
+      "Bytes (UTF-8)": "F0 9F 95 B9 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD79\\uFE0F",
+      "C, C++, Python": "\\U0001f579\\uFE0F",
+      "CSS": "\\01F579 \\FE0F",
+      "PHP, Ruby": "\\u{1F579}\\u{FE0F}",
+      "Perl": "\\x{1F579}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "emoji": "🌹",
+  "nome": "🌹 Rosa",
+  "categoria": "Rose",
+  "url": "https://emojigraph.org/pt/rose/",
+  "detalhes": {
+    "explicacao": "Uma rosa vermelha. Representado como uma única, rosa vermelha vertical em um tronco verde.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rose_1f339.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rose_1f339.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rose_1f339.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rose_1f339.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rose_1f339.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rose_1f339.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rose_1f339.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/rose_1f339.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rose_1f339.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rose_1f339.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/rose_1f339.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/rose_1f339.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/rose_1f339.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/rose_1f339.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/rose_1f339.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/rose_1f339.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "flor",
+      "rosa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F339;",
+      "HTML dec": "&#127801;",
+      "URL escape code": "%F0%9F%8C%B9",
+      "Punycode": "xn--2h8h",
+      "Bytes (UTF-8)": "F0 9F 8C B9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF39",
+      "C, C++, Python": "\\U0001f339",
+      "CSS": "\\01F339",
+      "PHP, Ruby": "\\u{1F339}",
+      "Perl": "\\x{1F339}"
+    }
+  }
+}

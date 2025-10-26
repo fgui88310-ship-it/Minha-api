@@ -1,0 +1,62 @@
+{
+  "emoji": "🤸",
+  "nome": "🤸‍♂️ Homem fazendo estrela",
+  "categoria": "Man Cartwheeling",
+  "url": "https://emojigraph.org/pt/man-cartwheeling/",
+  "detalhes": {
+    "explicacao": "O Homem Cartwheeling emoji é uma sequência do 🤸 Pessoa Fazendo Cartwheel e ♂ Masculino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-cartwheeling_1f938-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-cartwheeling_1f938-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-cartwheeling_1f938-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-cartwheeling_1f938-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-cartwheeling_1f938-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-cartwheeling_1f938-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-cartwheeling_1f938-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-cartwheeling_1f938-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esporte",
+      "estrela",
+      "ginástica",
+      "homem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F938;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#129336;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%A4%B8%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h7981o",
+      "Bytes (UTF-8)": "F0 9F A4 B8 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD38\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f938\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F938 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F938}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F938}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

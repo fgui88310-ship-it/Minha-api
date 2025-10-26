@@ -1,0 +1,68 @@
+{
+  "emoji": "🧛",
+  "nome": "🧛‍♀️ Mulher vampira",
+  "categoria": "woman vampire",
+  "url": "https://emojigraph.org/pt/woman-vampire/",
+  "detalhes": {
+    "explicacao": "A Mulher Vampiro emoji é uma sequência do 🧛 Vampiro e ♀ Feminino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-vampire_1f9db-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-vampire_1f9db-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-vampire_1f9db-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-vampire_1f9db-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-vampire_1f9db-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-vampire_1f9db-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-vampire_1f9db-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-vampire_1f9db-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-vampire_1f9db-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/woman-vampire_1f9db-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mulher vampira",
+      "vampira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9DB;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#129499;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A7%9B%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h1312o",
+      "Bytes (UTF-8)": "F0 9F A7 9B E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDDB\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f9db\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F9DB \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F9DB}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F9DB}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

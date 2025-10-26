@@ -1,0 +1,95 @@
+{
+  "emoji": "🎪",
+  "nome": "🎪 Circo",
+  "categoria": "Circus Tent",
+  "url": "https://emojigraph.org/pt/circus-tent/",
+  "detalhes": {
+    "explicacao": "Uma circular do 'big top\" tenda de circo, com um triângulo sinalizador na parte superior.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/circus-tent_1f3aa.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/circus-tent_1f3aa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "circo",
+      "entretenimento",
+      "lona",
+      "lona de circo",
+      "tenda"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3AA;",
+      "HTML dec": "&#127914;",
+      "URL escape code": "%F0%9F%8E%AA",
+      "Punycode": "xn--bl8h",
+      "Bytes (UTF-8)": "F0 9F 8E AA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFAA",
+      "C, C++, Python": "\\U0001f3aa",
+      "CSS": "\\01F3AA",
+      "PHP, Ruby": "\\u{1F3AA}",
+      "Perl": "\\x{1F3AA}"
+    }
+  }
+}

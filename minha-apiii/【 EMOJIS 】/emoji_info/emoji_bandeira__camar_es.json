@@ -1,0 +1,67 @@
+{
+  "emoji": "🇨🇲",
+  "nome": "🇨🇲 Bandeira: Camarões",
+  "categoria": "flag cameroon",
+  "url": "https://emojigraph.org/pt/flag-cameroon/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da república dos Camarões. Este símbolo é uma seqüência de caracteres 🇨 Símbolo Indicador Regional Letra C e 🇲 Símbolo Indicador Regional Letra М. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras CM em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-cameroon_1f1e8-1f1f2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-cameroon_1f1e8-1f1f2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-cameroon_1f1e8-1f1f2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-cameroon_1f1e8-1f1f2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-cameroon_1f1e8-1f1f2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-cameroon_1f1e8-1f1f2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-cameroon_1f1e8-1f1f2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-cameroon_1f1e8-1f1f2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-cameroon_1f1e8-1f1f2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-cameroon_1f1e8-1f1f2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E8;&#x1F1F2;",
+      "HTML dec": "&#127464;&#127474;",
+      "URL escape code": "%F0%9F%87%A8%F0%9F%87%B2",
+      "Punycode": "xn--g77hua",
+      "Bytes (UTF-8)": "F0 9F 87 A8 F0 9F 87 B2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE8\\uD83C\\uDDF2",
+      "C, C++, Python": "\\U0001f1e8\\U0001f1f2",
+      "CSS": "\\01F1E8 \\01F1F2",
+      "PHP, Ruby": "\\u{1F1E8}\\u{1F1F2}",
+      "Perl": "\\x{1F1E8}\\x{1F1F2}"
+    }
+  }
+}

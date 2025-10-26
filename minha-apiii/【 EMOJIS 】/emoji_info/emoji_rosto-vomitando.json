@@ -1,0 +1,73 @@
+{
+  "emoji": "🤮",
+  "nome": "🤮 Rosto vomitando",
+  "categoria": "Face Vomiting",
+  "url": "https://emojigraph.org/pt/face-vomiting/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com rugas na testa, olhos em forma de X vomitando vômito verde-brilhante. Podem representa doença física ou nojo, mais intensamente do que 🤢 Rosto Nauseado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-vomiting_1f92e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-vomiting_1f92e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-vomiting_1f92e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-vomiting_1f92e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-vomiting_1f92e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-vomiting_1f92e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-vomiting_1f92e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-vomiting_1f92e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-vomiting_1f92e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/face-vomiting_1f92e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "doente",
+      "rosto vomitando",
+      "vômito",
+      "nojenta",
+      "nojento",
+      "nojo",
+      "vomitando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F92E;",
+      "HTML dec": "&#129326;",
+      "URL escape code": "%F0%9F%A4%AE",
+      "Punycode": "xn--nq9h",
+      "Bytes (UTF-8)": "F0 9F A4 AE",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD2E",
+      "C, C++, Python": "\\U0001f92e",
+      "CSS": "\\01F92E",
+      "PHP, Ruby": "\\u{1F92E}",
+      "Perl": "\\x{1F92E}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "💳",
+  "nome": "💳 Cartão de crédito",
+  "categoria": "credit card",
+  "url": "https://emojigraph.org/pt/credit-card/",
+  "detalhes": {
+    "explicacao": "A parte de trás de um cartão de crédito, mostrando a banda magnética e assinatura. Cores e detalhes variam entre plataformas, mas muitas vezes mostrado como ouro, prata ou azul. Pode ser usado para operações bancárias e outros cartões de IDENTIFICAÇÃO, bem como para vários de conteúdo a respeito de dinheiro, incluindo o pagamento.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/credit-card_1f4b3.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/credit-card_1f4b3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cartão",
+      "crédito",
+      "dinheiro",
+      "banco",
+      "débito"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4B3;",
+      "HTML dec": "&#128179;",
+      "URL escape code": "%F0%9F%92%B3",
+      "Punycode": "xn--vs8h",
+      "Bytes (UTF-8)": "F0 9F 92 B3",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCB3",
+      "C, C++, Python": "\\U0001f4b3",
+      "CSS": "\\01F4B3",
+      "PHP, Ruby": "\\u{1F4B3}",
+      "Perl": "\\x{1F4B3}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "🙍",
+  "nome": "🙍‍♂️ Homem franzindo a sobrancelha",
+  "categoria": "man frowning",
+  "url": "https://emojigraph.org/pt/man-frowning/",
+  "detalhes": {
+    "explicacao": "A versão masculina do 🙍 Pessoa franzindo o cenho emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-frowning_1f64d-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-frowning_1f64d-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-frowning_1f64d-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-frowning_1f64d-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-frowning_1f64d-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-frowning_1f64d-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-frowning_1f64d-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-frowning_1f64d-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-frowning_1f64d-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-frowning_1f64d-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carrancudo",
+      "desconfiado",
+      "homem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F64D;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#128589;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%99%8D%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5hx380o",
+      "Bytes (UTF-8)": "F0 9F 99 8D E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE4D\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f64d\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F64D \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F64D}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F64D}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍🔧 Mecânica",
+  "categoria": "woman mechanic",
+  "url": "https://emojigraph.org/pt/woman-mechanic/",
+  "detalhes": {
+    "explicacao": "A Mulher Mecânico emoji é uma sequência do 👩 Mulher e 🔧 Chave emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-mechanic_1f469-200d-1f527.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-mechanic_1f469-200d-1f527.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-mechanic_1f469-200d-1f527.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-mechanic_1f469-200d-1f527.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-mechanic_1f469-200d-1f527.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-mechanic_1f469-200d-1f527.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-mechanic_1f469-200d-1f527.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-mechanic_1f469-200d-1f527.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-mechanic_1f469-200d-1f527.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-mechanic_1f469-200d-1f527.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "eletricista",
+      "encanadora",
+      "mecânica",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F527;",
+      "HTML dec": "&#128105;&#8205;&#128295;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%94%A7",
+      "Punycode": "xn--rq8h2l",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F 94 A7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83D\\uDD27",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f527",
+      "CSS": "\\01F469 \\200D \\01F527",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F527}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F527}"
+    }
+  }
+}

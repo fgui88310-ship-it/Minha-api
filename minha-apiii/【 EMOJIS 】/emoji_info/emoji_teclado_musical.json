@@ -1,0 +1,95 @@
+{
+  "emoji": "🎹",
+  "nome": "🎹 Teclado musical",
+  "categoria": "musical keyboard",
+  "url": "https://emojigraph.org/pt/musical-keyboard/",
+  "detalhes": {
+    "explicacao": "Uma pequena seção de um teclado musical, que difere de um teclado de computador.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/musical-keyboard_1f3b9.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/musical-keyboard_1f3b9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "instrumento",
+      "música",
+      "piano",
+      "teclado",
+      "teclado musical"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3B9;",
+      "HTML dec": "&#127929;",
+      "URL escape code": "%F0%9F%8E%B9",
+      "Punycode": "xn--ql8h",
+      "Bytes (UTF-8)": "F0 9F 8E B9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFB9",
+      "C, C++, Python": "\\U0001f3b9",
+      "CSS": "\\01F3B9",
+      "PHP, Ruby": "\\u{1F3B9}",
+      "Perl": "\\x{1F3B9}"
+    }
+  }
+}

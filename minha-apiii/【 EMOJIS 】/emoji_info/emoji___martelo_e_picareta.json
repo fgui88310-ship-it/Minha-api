@@ -1,0 +1,69 @@
+{
+  "emoji": "",
+  "nome": "⚒️ Martelo e picareta",
+  "categoria": "hammer and pick",
+  "url": "https://emojigraph.org/pt/hammer-and-pick/",
+  "detalhes": {
+    "explicacao": "Um martelo e escolher, como utilizado para quebrar pedras na mineração, cruzam-se em uma forma de X. Geralmente retratado como o metal, malho e formão em estilo martelos com os punhos de madeira. As cabeças das ferramentas de face para cima, com a escolha, geralmente, à direita. Muitas vezes utilizado para vários conteúdos relativos a ferramentas de construção e de construção.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hammer-and-pick_2692-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hammer-and-pick_2692-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hammer-and-pick_2692-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hammer-and-pick_2692-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hammer-and-pick_2692-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hammer-and-pick_2692-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hammer-and-pick_2692-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hammer-and-pick_2692-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hammer-and-pick_2692-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hammer-and-pick_2692-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ferramenta",
+      "martelo",
+      "picareta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2692;&#xFE0F;",
+      "HTML dec": "&#9874;&#65039;",
+      "URL escape code": "%E2%9A%92%EF%B8%8F",
+      "Punycode": "xn--q7h",
+      "Bytes (UTF-8)": "E2 9A 92 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2692\\uFE0F",
+      "C, C++, Python": "\\u2692\\uFE0F",
+      "CSS": "\\2692 \\FE0F",
+      "PHP, Ruby": "\\u{2692}\\u{FE0F}",
+      "Perl": "\\x{2692}\\x{FE0F}"
+    }
+  }
+}

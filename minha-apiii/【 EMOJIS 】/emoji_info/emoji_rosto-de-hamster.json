@@ -1,0 +1,93 @@
+{
+  "emoji": "🐹",
+  "nome": "🐹 Rosto de hamster",
+  "categoria": "Hamster",
+  "url": "https://emojigraph.org/pt/hamster/",
+  "detalhes": {
+    "explicacao": "Um amigável, cartoon-estilo rosto de um hamster, um pequeno roedor, muitas vezes mantido como animal de estimação—olhando diretamente para a frente. Geralmente retratado como um marrom e branco enfrentou o hamster com o whiskers, um cor-de-rosa nariz, bochechas inchadas, e os grandes, redondos, cor-de-rosa ouvidos, às vezes, com um dinheirinho dente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/hamster_1f439.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/hamster_1f439.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "hamster",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F439;",
+      "HTML dec": "&#128057;",
+      "URL escape code": "%F0%9F%90%B9",
+      "Punycode": "xn--ep8h",
+      "Bytes (UTF-8)": "F0 9F 90 B9",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC39",
+      "C, C++, Python": "\\U0001f439",
+      "CSS": "\\01F439",
+      "PHP, Ruby": "\\u{1F439}",
+      "Perl": "\\x{1F439}"
+    }
+  }
+}

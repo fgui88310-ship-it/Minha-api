@@ -1,0 +1,69 @@
+{
+  "emoji": "🦄",
+  "nome": "🦄 Rosto de unicórnio",
+  "categoria": "Unicorn",
+  "url": "https://emojigraph.org/pt/unicorn/",
+  "detalhes": {
+    "explicacao": "O rosto de um unicórnio, uma criatura mítica, na forma de um cavalo branco, com um único, longo chifre em sua testa. Geralmente retratado como um cavalo branco cabeça virada para a esquerda com uma crina cor-de-rosa ou roxa e um chifre amarelo ou arco-íris.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/unicorn_1f984.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/unicorn_1f984.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/unicorn_1f984.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/unicorn_1f984.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/unicorn_1f984.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/unicorn_1f984.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/unicorn_1f984.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/unicorn_1f984.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/unicorn_1f984.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/unicorn_1f984.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "unicórnio",
+      "animal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F984;",
+      "HTML dec": "&#129412;",
+      "URL escape code": "%F0%9F%A6%84",
+      "Punycode": "xn--3s9h",
+      "Bytes (UTF-8)": "F0 9F A6 84",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD84",
+      "C, C++, Python": "\\U0001f984",
+      "CSS": "\\01F984",
+      "PHP, Ruby": "\\u{1F984}",
+      "Perl": "\\x{1F984}"
+    }
+  }
+}

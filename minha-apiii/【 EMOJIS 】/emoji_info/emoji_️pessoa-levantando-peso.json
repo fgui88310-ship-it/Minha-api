@@ -1,0 +1,69 @@
+{
+  "emoji": "🏋",
+  "nome": "🏋️ Pessoa levantando peso",
+  "categoria": "Person Lifting Weights",
+  "url": "https://emojigraph.org/pt/person-lifting-weights/",
+  "detalhes": {
+    "explicacao": "Uma pessoa levantar uma barra carregada com pesos acima de sua cabeça.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-lifting-weights_1f3cb-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-lifting-weights_1f3cb-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-lifting-weights_1f3cb-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-lifting-weights_1f3cb-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-lifting-weights_1f3cb-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-lifting-weights_1f3cb-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-lifting-weights_1f3cb-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-lifting-weights_1f3cb-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-lifting-weights_1f3cb-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-lifting-weights_1f3cb-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esporte",
+      "força",
+      "peso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3CB;&#xFE0F;",
+      "HTML dec": "&#127947;&#65039;",
+      "URL escape code": "%F0%9F%8F%8B%EF%B8%8F",
+      "Punycode": "xn--8l8h",
+      "Bytes (UTF-8)": "F0 9F 8F 8B EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFCB\\uFE0F",
+      "C, C++, Python": "\\U0001f3cb\\uFE0F",
+      "CSS": "\\01F3CB \\FE0F",
+      "PHP, Ruby": "\\u{1F3CB}\\u{FE0F}",
+      "Perl": "\\x{1F3CB}\\x{FE0F}"
+    }
+  }
+}

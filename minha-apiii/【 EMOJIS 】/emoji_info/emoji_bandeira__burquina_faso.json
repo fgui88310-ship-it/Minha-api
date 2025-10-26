@@ -1,0 +1,59 @@
+{
+  "emoji": "🇧🇫",
+  "nome": "🇧🇫 Bandeira: Burquina Faso",
+  "categoria": "flag burkina faso",
+  "url": "https://emojigraph.org/pt/flag-burkina-faso/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Burkina Faso. Este símbolo é uma seqüência de caracteres 🇧 Símbolo Indicador Regional Letra B e 🇫 Símbolo Indicador Regional Letra F. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras BF em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-burkina-faso_1f1e7-1f1eb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-burkina-faso_1f1e7-1f1eb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-burkina-faso_1f1e7-1f1eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-burkina-faso_1f1e7-1f1eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-burkina-faso_1f1e7-1f1eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-burkina-faso_1f1e7-1f1eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-burkina-faso_1f1e7-1f1eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-burkina-faso_1f1e7-1f1eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1EB;",
+      "HTML dec": "&#127463;&#127467;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%AB",
+      "Punycode": "xn--f77hia",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 AB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDEB",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1eb",
+      "CSS": "\\01F1E7 \\01F1EB",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1EB}",
+      "Perl": "\\x{1F1E7}\\x{1F1EB}"
+    }
+  }
+}

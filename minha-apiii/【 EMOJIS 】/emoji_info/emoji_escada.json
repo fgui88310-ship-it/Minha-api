@@ -1,0 +1,54 @@
+{
+  "emoji": "🪜",
+  "nome": "🪜 Escada",
+  "categoria": "Ladder",
+  "url": "https://emojigraph.org/pt/ladder/",
+  "detalhes": {
+    "explicacao": "Imagem de um banquinho alto ou de uma escada que deve ser usada para que as pessoas alcancem coisas ou lugares altos. Utilizado em seu significado direto e também para denotar subir na vida. Escada foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ladder_1fa9c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ladder_1fa9c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ladder_1fa9c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ladder_1fa9c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ladder_1fa9c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ladder_1fa9c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "degrau",
+      "escada",
+      "subir",
+      "mão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA9C;",
+      "HTML dec": "&#129692;",
+      "URL escape code": "%F0%9F%AA%9C",
+      "Punycode": "xn--309h",
+      "Bytes (UTF-8)": "F0 9F AA 9C",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE9C",
+      "C, C++, Python": "\\U0001fa9c",
+      "CSS": "\\01FA9C",
+      "PHP, Ruby": "\\u{1FA9C}",
+      "Perl": "\\x{1FA9C}"
+    }
+  }
+}

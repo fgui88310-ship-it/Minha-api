@@ -1,0 +1,1662 @@
+[
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/"
+  },
+  {
+    "nome": "😃Smileys e Emoção",
+    "href": "/pt/smileys-emotion/"
+  },
+  {
+    "nome": "🤦‍♀️Pessoas e Corpo",
+    "href": "/pt/people-body/"
+  },
+  {
+    "nome": "🐶Animais e Natureza",
+    "href": "/pt/animals-nature/"
+  },
+  {
+    "nome": "🍩Alimentação e bebida",
+    "href": "/pt/food-drink/"
+  },
+  {
+    "nome": "🚗Viagens e lugares",
+    "href": "/pt/travel-places/"
+  },
+  {
+    "nome": "🏀Atividades",
+    "href": "/pt/activities/"
+  },
+  {
+    "nome": "💎Objetos",
+    "href": "/pt/objects/"
+  },
+  {
+    "nome": "✅Símbolos",
+    "href": "/pt/symbols/"
+  },
+  {
+    "nome": "🏁Bandeiras",
+    "href": "/pt/flags/"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "🏁Bandeira quadriculada",
+    "href": "/pt/chequered-flag/"
+  },
+  {
+    "nome": "🚩Bandeira triangular",
+    "href": "/pt/triangular-flag/"
+  },
+  {
+    "nome": "🎌Bandeiras cruzadas",
+    "href": "/pt/crossed-flags/"
+  },
+  {
+    "nome": "🏴Bandeira preta",
+    "href": "/pt/black-flag/"
+  },
+  {
+    "nome": "🏳️Bandeira branca",
+    "href": "/pt/white-flag/"
+  },
+  {
+    "nome": "🏳️‍🌈Bandeira do arco-íris",
+    "href": "/pt/rainbow-flag/"
+  },
+  {
+    "nome": "🏳️‍⚧️Bandeira transgênero",
+    "href": "/pt/transgender-flag/"
+  },
+  {
+    "nome": "🏴‍☠️Bandeira de pirata",
+    "href": "/pt/pirate-flag/"
+  },
+  {
+    "nome": "🇦🇨Bandeira: Ilha de Ascensão",
+    "href": "/pt/flag-ascension-island/"
+  },
+  {
+    "nome": "🇦🇩Bandeira: Andorra",
+    "href": "/pt/flag-andorra/"
+  },
+  {
+    "nome": "🇦🇪Bandeira: Emirados Árabes Unidos",
+    "href": "/pt/flag-united-arab-emirates/"
+  },
+  {
+    "nome": "🇦🇫Bandeira: Afeganistão",
+    "href": "/pt/flag-afghanistan/"
+  },
+  {
+    "nome": "🇦🇬Bandeira: Antígua e Barbuda",
+    "href": "/pt/flag-antigua-barbuda/"
+  },
+  {
+    "nome": "🇦🇮Bandeira: Anguila",
+    "href": "/pt/flag-anguilla/"
+  },
+  {
+    "nome": "🇦🇱Bandeira: Albânia",
+    "href": "/pt/flag-albania/"
+  },
+  {
+    "nome": "🇦🇲Bandeira: Armênia",
+    "href": "/pt/flag-armenia/"
+  },
+  {
+    "nome": "🇦🇴Bandeira: Angola",
+    "href": "/pt/flag-angola/"
+  },
+  {
+    "nome": "🇦🇶Bandeira: Antártida",
+    "href": "/pt/flag-antarctica/"
+  },
+  {
+    "nome": "🇦🇷Bandeira: Argentina",
+    "href": "/pt/flag-argentina/"
+  },
+  {
+    "nome": "🇦🇸Bandeira: Samoa Americana",
+    "href": "/pt/flag-american-samoa/"
+  },
+  {
+    "nome": "🇦🇹Bandeira: Áustria",
+    "href": "/pt/flag-austria/"
+  },
+  {
+    "nome": "🇦🇺Bandeira: Austrália",
+    "href": "/pt/flag-australia/"
+  },
+  {
+    "nome": "🇦🇼Bandeira: Aruba",
+    "href": "/pt/flag-aruba/"
+  },
+  {
+    "nome": "🇦🇽Bandeira: Ilhas Aland",
+    "href": "/pt/flag-aland-islands/"
+  },
+  {
+    "nome": "🇦🇿Bandeira: Azerbaijão",
+    "href": "/pt/flag-azerbaijan/"
+  },
+  {
+    "nome": "🇧🇦Bandeira: Bósnia e Herzegovina",
+    "href": "/pt/flag-bosnia-herzegovina/"
+  },
+  {
+    "nome": "🇧🇧Bandeira: Barbados",
+    "href": "/pt/flag-barbados/"
+  },
+  {
+    "nome": "🇧🇩Bandeira: Bangladesh",
+    "href": "/pt/flag-bangladesh/"
+  },
+  {
+    "nome": "🇧🇪Bandeira: Bélgica",
+    "href": "/pt/flag-belgium/"
+  },
+  {
+    "nome": "🇧🇫Bandeira: Burquina Faso",
+    "href": "/pt/flag-burkina-faso/"
+  },
+  {
+    "nome": "🇧🇬Bandeira: Bulgária",
+    "href": "/pt/flag-bulgaria/"
+  },
+  {
+    "nome": "🇧🇭Bandeira: Barein",
+    "href": "/pt/flag-bahrain/"
+  },
+  {
+    "nome": "🇧🇮Bandeira: Burundi",
+    "href": "/pt/flag-burundi/"
+  },
+  {
+    "nome": "🇧🇯Bandeira: Benin",
+    "href": "/pt/flag-benin/"
+  },
+  {
+    "nome": "🇧🇱Bandeira: São Bartolomeu",
+    "href": "/pt/flag-st-barthelemy/"
+  },
+  {
+    "nome": "🇧🇲Bandeira: Bermudas",
+    "href": "/pt/flag-bermuda/"
+  },
+  {
+    "nome": "🇧🇳Bandeira: Brunei",
+    "href": "/pt/flag-brunei/"
+  },
+  {
+    "nome": "🇧🇴Bandeira: Bolívia",
+    "href": "/pt/flag-bolivia/"
+  },
+  {
+    "nome": "🇧🇶Bandeira: Países Baixos Caribenhos",
+    "href": "/pt/flag-caribbean-netherlands/"
+  },
+  {
+    "nome": "🇧🇷Bandeira: Brasil",
+    "href": "/pt/flag-brazil/"
+  },
+  {
+    "nome": "🇧🇸Bandeira: Bahamas",
+    "href": "/pt/flag-bahamas/"
+  },
+  {
+    "nome": "🇧🇹Bandeira: Butão",
+    "href": "/pt/flag-bhutan/"
+  },
+  {
+    "nome": "🇧🇻Bandeira: Ilha Bouvet",
+    "href": "/pt/flag-bouvet-island/"
+  },
+  {
+    "nome": "🇧🇼Bandeira: Botsuana",
+    "href": "/pt/flag-botswana/"
+  },
+  {
+    "nome": "🇧🇾Bandeira: Bielorrússia",
+    "href": "/pt/flag-belarus/"
+  },
+  {
+    "nome": "🇧🇿Bandeira: Belize",
+    "href": "/pt/flag-belize/"
+  },
+  {
+    "nome": "🇨🇦Bandeira: Canadá",
+    "href": "/pt/flag-canada/"
+  },
+  {
+    "nome": "🇨🇨Bandeira: Ilhas Cocos (Keeling)",
+    "href": "/pt/flag-cocos-keeling-islands/"
+  },
+  {
+    "nome": "🇨🇩Bandeira: Congo - Kinshasa",
+    "href": "/pt/flag-congo-kinshasa/"
+  },
+  {
+    "nome": "🇨🇫Bandeira: República Centro-Africana",
+    "href": "/pt/flag-central-african-republic/"
+  },
+  {
+    "nome": "🇨🇬Bandeira: República do Congo",
+    "href": "/pt/flag-congo-brazzaville/"
+  },
+  {
+    "nome": "🇨🇭Bandeira: Suíça",
+    "href": "/pt/flag-switzerland/"
+  },
+  {
+    "nome": "🇨🇮Bandeira: Costa do Marfim",
+    "href": "/pt/flag-cote-divoire/"
+  },
+  {
+    "nome": "🇨🇰Bandeira: Ilhas Cook",
+    "href": "/pt/flag-cook-islands/"
+  },
+  {
+    "nome": "🇨🇱Bandeira: Chile",
+    "href": "/pt/flag-chile/"
+  },
+  {
+    "nome": "🇨🇲Bandeira: Camarões",
+    "href": "/pt/flag-cameroon/"
+  },
+  {
+    "nome": "🇨🇳Bandeira: China",
+    "href": "/pt/flag-china/"
+  },
+  {
+    "nome": "🇨🇴Bandeira: Colômbia",
+    "href": "/pt/flag-colombia/"
+  },
+  {
+    "nome": "🇨🇵Bandeira: Ilha de Clipperton",
+    "href": "/pt/flag-clipperton-island/"
+  },
+  {
+    "nome": "🇨🇷Bandeira: Costa Rica",
+    "href": "/pt/flag-costa-rica/"
+  },
+  {
+    "nome": "🇨🇺Bandeira: Cuba",
+    "href": "/pt/flag-cuba/"
+  },
+  {
+    "nome": "🇨🇻Bandeira: Cabo Verde",
+    "href": "/pt/flag-cape-verde/"
+  },
+  {
+    "nome": "🇨🇼Bandeira: Curaçao",
+    "href": "/pt/flag-curacao/"
+  },
+  {
+    "nome": "🇨🇽Bandeira: Ilha Christmas",
+    "href": "/pt/flag-christmas-island/"
+  },
+  {
+    "nome": "🇨🇾Bandeira: Chipre",
+    "href": "/pt/flag-cyprus/"
+  },
+  {
+    "nome": "🇨🇿Bandeira: Tchéquia",
+    "href": "/pt/flag-czechia/"
+  },
+  {
+    "nome": "🇩🇪Bandeira: Alemanha",
+    "href": "/pt/flag-germany/"
+  },
+  {
+    "nome": "🇩🇬Bandeira: Diego Garcia",
+    "href": "/pt/flag-diego-garcia/"
+  },
+  {
+    "nome": "🇩🇯Bandeira: Djibuti",
+    "href": "/pt/flag-djibouti/"
+  },
+  {
+    "nome": "🇩🇰Bandeira: Dinamarca",
+    "href": "/pt/flag-denmark/"
+  },
+  {
+    "nome": "🇩🇲Bandeira: Dominica",
+    "href": "/pt/flag-dominica/"
+  },
+  {
+    "nome": "🇩🇴Bandeira: República Dominicana",
+    "href": "/pt/flag-dominican-republic/"
+  },
+  {
+    "nome": "🇩🇿Bandeira: Argélia",
+    "href": "/pt/flag-algeria/"
+  },
+  {
+    "nome": "🇪🇦Bandeira: Ceuta e Melilla",
+    "href": "/pt/flag-ceuta-melilla/"
+  },
+  {
+    "nome": "🇪🇨Bandeira: Equador",
+    "href": "/pt/flag-ecuador/"
+  },
+  {
+    "nome": "🇪🇪Bandeira: Estônia",
+    "href": "/pt/flag-estonia/"
+  },
+  {
+    "nome": "🇪🇬Bandeira: Egito",
+    "href": "/pt/flag-egypt/"
+  },
+  {
+    "nome": "🇪🇭Bandeira: Saara Ocidental",
+    "href": "/pt/flag-western-sahara/"
+  },
+  {
+    "nome": "🇪🇷Bandeira: Eritreia",
+    "href": "/pt/flag-eritrea/"
+  },
+  {
+    "nome": "🇪🇸Bandeira: Espanha",
+    "href": "/pt/flag-spain/"
+  },
+  {
+    "nome": "🇪🇹Bandeira: Etiópia",
+    "href": "/pt/flag-ethiopia/"
+  },
+  {
+    "nome": "🇪🇺Bandeira: União Europeia",
+    "href": "/pt/flag-european-union/"
+  },
+  {
+    "nome": "🇫🇮Bandeira: Finlândia",
+    "href": "/pt/flag-finland/"
+  },
+  {
+    "nome": "🇫🇯Bandeira: Fiji",
+    "href": "/pt/flag-fiji/"
+  },
+  {
+    "nome": "🇫🇰Bandeira: Ilhas Malvinas",
+    "href": "/pt/flag-falkland-islands/"
+  },
+  {
+    "nome": "🇫🇲Bandeira: Micronésia",
+    "href": "/pt/flag-micronesia/"
+  },
+  {
+    "nome": "🇫🇴Bandeira: Ilhas Faroé",
+    "href": "/pt/flag-faroe-islands/"
+  },
+  {
+    "nome": "🇫🇷Bandeira: França",
+    "href": "/pt/flag-france/"
+  },
+  {
+    "nome": "🇬🇦Bandeira: Gabão",
+    "href": "/pt/flag-gabon/"
+  },
+  {
+    "nome": "🇬🇧Bandeira: Reino Unido",
+    "href": "/pt/flag-united-kingdom/"
+  },
+  {
+    "nome": "🇬🇩Bandeira: Granada",
+    "href": "/pt/flag-grenada/"
+  },
+  {
+    "nome": "🇬🇪Bandeira: Geórgia",
+    "href": "/pt/flag-georgia/"
+  },
+  {
+    "nome": "🇬🇫Bandeira: Guiana Francesa",
+    "href": "/pt/flag-french-guiana/"
+  },
+  {
+    "nome": "🇬🇬Bandeira: Guernsey",
+    "href": "/pt/flag-guernsey/"
+  },
+  {
+    "nome": "🇬🇭Bandeira: Gana",
+    "href": "/pt/flag-ghana/"
+  },
+  {
+    "nome": "🇬🇮Bandeira: Gibraltar",
+    "href": "/pt/flag-gibraltar/"
+  },
+  {
+    "nome": "🇬🇱Bandeira: Groenlândia",
+    "href": "/pt/flag-greenland/"
+  },
+  {
+    "nome": "🇬🇲Bandeira: Gâmbia",
+    "href": "/pt/flag-gambia/"
+  },
+  {
+    "nome": "🇬🇳Bandeira: Guiné",
+    "href": "/pt/flag-guinea/"
+  },
+  {
+    "nome": "🇬🇵Bandeira: Guadalupe",
+    "href": "/pt/flag-guadeloupe/"
+  },
+  {
+    "nome": "🇬🇶Bandeira: Guiné Equatorial",
+    "href": "/pt/flag-equatorial-guinea/"
+  },
+  {
+    "nome": "🇬🇷Bandeira: Grécia",
+    "href": "/pt/flag-greece/"
+  },
+  {
+    "nome": "🇬🇸Bandeira: Ilhas Geórgia do Sul e Sandwich do Sul",
+    "href": "/pt/flag-south-georgia-south-sandwich-islands/"
+  },
+  {
+    "nome": "🇬🇹Bandeira: Guatemala",
+    "href": "/pt/flag-guatemala/"
+  },
+  {
+    "nome": "🇬🇺Bandeira: Guam",
+    "href": "/pt/flag-guam/"
+  },
+  {
+    "nome": "🇬🇼Bandeira: Guiné-Bissau",
+    "href": "/pt/flag-guinea-bissau/"
+  },
+  {
+    "nome": "🇬🇾Bandeira: Guiana",
+    "href": "/pt/flag-guyana/"
+  },
+  {
+    "nome": "🇭🇰Bandeira: Hong Kong, RAE da China",
+    "href": "/pt/flag-hong-kong-sar-china/"
+  },
+  {
+    "nome": "🇭🇲Bandeira: Ilhas Heard e McDonald",
+    "href": "/pt/flag-heard-mcdonald-islands/"
+  },
+  {
+    "nome": "🇭🇳Bandeira: Honduras",
+    "href": "/pt/flag-honduras/"
+  },
+  {
+    "nome": "🇭🇷Bandeira: Croácia",
+    "href": "/pt/flag-croatia/"
+  },
+  {
+    "nome": "🇭🇹Bandeira: Haiti",
+    "href": "/pt/flag-haiti/"
+  },
+  {
+    "nome": "🇭🇺Bandeira: Hungria",
+    "href": "/pt/flag-hungary/"
+  },
+  {
+    "nome": "🇮🇨Bandeira: Ilhas Canárias",
+    "href": "/pt/flag-canary-islands/"
+  },
+  {
+    "nome": "🇮🇩Bandeira: Indonésia",
+    "href": "/pt/flag-indonesia/"
+  },
+  {
+    "nome": "🇮🇪Bandeira: Irlanda",
+    "href": "/pt/flag-ireland/"
+  },
+  {
+    "nome": "🇮🇱Bandeira: Israel",
+    "href": "/pt/flag-israel/"
+  },
+  {
+    "nome": "🇮🇲Bandeira: Ilha de Man",
+    "href": "/pt/flag-isle-of-man/"
+  },
+  {
+    "nome": "🇮🇳Bandeira: Índia",
+    "href": "/pt/flag-india/"
+  },
+  {
+    "nome": "🇮🇴Bandeira: Território Britânico do Oceano Índico",
+    "href": "/pt/flag-british-indian-ocean-territory/"
+  },
+  {
+    "nome": "🇮🇶Bandeira: Iraque",
+    "href": "/pt/flag-iraq/"
+  },
+  {
+    "nome": "🇮🇷Bandeira: Irã",
+    "href": "/pt/flag-iran/"
+  },
+  {
+    "nome": "🇮🇸Bandeira: Islândia",
+    "href": "/pt/flag-iceland/"
+  },
+  {
+    "nome": "🇮🇹Bandeira: Itália",
+    "href": "/pt/flag-italy/"
+  },
+  {
+    "nome": "🇯🇪Bandeira: Jersey",
+    "href": "/pt/flag-jersey/"
+  },
+  {
+    "nome": "🇯🇲Bandeira: Jamaica",
+    "href": "/pt/flag-jamaica/"
+  },
+  {
+    "nome": "🇯🇴Bandeira: Jordânia",
+    "href": "/pt/flag-jordan/"
+  },
+  {
+    "nome": "🇯🇵Bandeira: Japão",
+    "href": "/pt/flag-japan/"
+  },
+  {
+    "nome": "🇰🇪Bandeira: Quênia",
+    "href": "/pt/flag-kenya/"
+  },
+  {
+    "nome": "🇰🇬Bandeira: Quirguistão",
+    "href": "/pt/flag-kyrgyzstan/"
+  },
+  {
+    "nome": "🇰🇭Bandeira: Camboja",
+    "href": "/pt/flag-cambodia/"
+  },
+  {
+    "nome": "🇰🇮Bandeira: Quiribati",
+    "href": "/pt/flag-kiribati/"
+  },
+  {
+    "nome": "🇰🇲Bandeira: Comores",
+    "href": "/pt/flag-comoros/"
+  },
+  {
+    "nome": "🇰🇳Bandeira: São Cristóvão e Névis",
+    "href": "/pt/flag-st-kitts-nevis/"
+  },
+  {
+    "nome": "🇰🇵Bandeira: Coreia do Norte",
+    "href": "/pt/flag-north-korea/"
+  },
+  {
+    "nome": "🇰🇷Bandeira: Coreia do Sul",
+    "href": "/pt/flag-south-korea/"
+  },
+  {
+    "nome": "🇰🇼Bandeira: Kuwait",
+    "href": "/pt/flag-kuwait/"
+  },
+  {
+    "nome": "🇰🇾Bandeira: Ilhas Cayman",
+    "href": "/pt/flag-cayman-islands/"
+  },
+  {
+    "nome": "🇰🇿Bandeira: Cazaquistão",
+    "href": "/pt/flag-kazakhstan/"
+  },
+  {
+    "nome": "🇱🇦Bandeira: Laos",
+    "href": "/pt/flag-laos/"
+  },
+  {
+    "nome": "🇱🇧Bandeira: Líbano",
+    "href": "/pt/flag-lebanon/"
+  },
+  {
+    "nome": "🇱🇨Bandeira: Santa Lúcia",
+    "href": "/pt/flag-st-lucia/"
+  },
+  {
+    "nome": "🇱🇮Bandeira: Liechtenstein",
+    "href": "/pt/flag-liechtenstein/"
+  },
+  {
+    "nome": "🇱🇰Bandeira: Sri Lanka",
+    "href": "/pt/flag-sri-lanka/"
+  },
+  {
+    "nome": "🇱🇷Bandeira: Libéria",
+    "href": "/pt/flag-liberia/"
+  },
+  {
+    "nome": "🇱🇸Bandeira: Lesoto",
+    "href": "/pt/flag-lesotho/"
+  },
+  {
+    "nome": "🇱🇹Bandeira: Lituânia",
+    "href": "/pt/flag-lithuania/"
+  },
+  {
+    "nome": "🇱🇺Bandeira: Luxemburgo",
+    "href": "/pt/flag-luxembourg/"
+  },
+  {
+    "nome": "🇱🇻Bandeira: Letônia",
+    "href": "/pt/flag-latvia/"
+  },
+  {
+    "nome": "🇱🇾Bandeira: Líbia",
+    "href": "/pt/flag-libya/"
+  },
+  {
+    "nome": "🇲🇦Bandeira: Marrocos",
+    "href": "/pt/flag-morocco/"
+  },
+  {
+    "nome": "🇲🇨Bandeira: Mônaco",
+    "href": "/pt/flag-monaco/"
+  },
+  {
+    "nome": "🇲🇩Bandeira: Moldávia",
+    "href": "/pt/flag-moldova/"
+  },
+  {
+    "nome": "🇲🇪Bandeira: Montenegro",
+    "href": "/pt/flag-montenegro/"
+  },
+  {
+    "nome": "🇲🇫Bandeira: São Martinho",
+    "href": "/pt/flag-st-martin/"
+  },
+  {
+    "nome": "🇲🇬Bandeira: Madagascar",
+    "href": "/pt/flag-madagascar/"
+  },
+  {
+    "nome": "🇲🇭Bandeira: Ilhas Marshall",
+    "href": "/pt/flag-marshall-islands/"
+  },
+  {
+    "nome": "🇲🇰Bandeira: Macedônia do Norte",
+    "href": "/pt/flag-north-macedonia/"
+  },
+  {
+    "nome": "🇲🇱Bandeira: Mali",
+    "href": "/pt/flag-mali/"
+  },
+  {
+    "nome": "🇲🇲Bandeira: Mianmar (Birmânia)",
+    "href": "/pt/flag-myanmar-burma/"
+  },
+  {
+    "nome": "🇲🇳Bandeira: Mongólia",
+    "href": "/pt/flag-mongolia/"
+  },
+  {
+    "nome": "🇲🇴Bandeira: Macau, RAE da China",
+    "href": "/pt/flag-macao-sar-china/"
+  },
+  {
+    "nome": "🇲🇵Bandeira: Ilhas Marianas do Norte",
+    "href": "/pt/flag-northern-mariana-islands/"
+  },
+  {
+    "nome": "🇲🇶Bandeira: Martinica",
+    "href": "/pt/flag-martinique/"
+  },
+  {
+    "nome": "🇲🇷Bandeira: Mauritânia",
+    "href": "/pt/flag-mauritania/"
+  },
+  {
+    "nome": "🇲🇸Bandeira: Montserrat",
+    "href": "/pt/flag-montserrat/"
+  },
+  {
+    "nome": "🇲🇹Bandeira: Malta",
+    "href": "/pt/flag-malta/"
+  },
+  {
+    "nome": "🇲🇺Bandeira: Maurício",
+    "href": "/pt/flag-mauritius/"
+  },
+  {
+    "nome": "🇲🇻Bandeira: Maldivas",
+    "href": "/pt/flag-maldives/"
+  },
+  {
+    "nome": "🇲🇼Bandeira: Malaui",
+    "href": "/pt/flag-malawi/"
+  },
+  {
+    "nome": "🇲🇽Bandeira: México",
+    "href": "/pt/flag-mexico/"
+  },
+  {
+    "nome": "🇲🇾Bandeira: Malásia",
+    "href": "/pt/flag-malaysia/"
+  },
+  {
+    "nome": "🇲🇿Bandeira: Moçambique",
+    "href": "/pt/flag-mozambique/"
+  },
+  {
+    "nome": "🇳🇦Bandeira: Namíbia",
+    "href": "/pt/flag-namibia/"
+  },
+  {
+    "nome": "🇳🇨Bandeira: Nova Caledônia",
+    "href": "/pt/flag-new-caledonia/"
+  },
+  {
+    "nome": "🇳🇪Bandeira: Níger",
+    "href": "/pt/flag-niger/"
+  },
+  {
+    "nome": "🇳🇫Bandeira: Ilha Norfolk",
+    "href": "/pt/flag-norfolk-island/"
+  },
+  {
+    "nome": "🇳🇬Bandeira: Nigéria",
+    "href": "/pt/flag-nigeria/"
+  },
+  {
+    "nome": "🇳🇮Bandeira: Nicarágua",
+    "href": "/pt/flag-nicaragua/"
+  },
+  {
+    "nome": "🇳🇱Bandeira: Países Baixos",
+    "href": "/pt/flag-netherlands/"
+  },
+  {
+    "nome": "🇳🇴Bandeira: Noruega",
+    "href": "/pt/flag-norway/"
+  },
+  {
+    "nome": "🇳🇵Bandeira: Nepal",
+    "href": "/pt/flag-nepal/"
+  },
+  {
+    "nome": "🇳🇷Bandeira: Nauru",
+    "href": "/pt/flag-nauru/"
+  },
+  {
+    "nome": "🇳🇺Bandeira: Niue",
+    "href": "/pt/flag-niue/"
+  },
+  {
+    "nome": "🇳🇿Bandeira: Nova Zelândia",
+    "href": "/pt/flag-new-zealand/"
+  },
+  {
+    "nome": "🇴🇲Bandeira: Omã",
+    "href": "/pt/flag-oman/"
+  },
+  {
+    "nome": "🇵🇦Bandeira: Panamá",
+    "href": "/pt/flag-panama/"
+  },
+  {
+    "nome": "🇵🇪Bandeira: Peru",
+    "href": "/pt/flag-peru/"
+  },
+  {
+    "nome": "🇵🇫Bandeira: Polinésia Francesa",
+    "href": "/pt/flag-french-polynesia/"
+  },
+  {
+    "nome": "🇵🇬Bandeira: Papua-Nova Guiné",
+    "href": "/pt/flag-papua-new-guinea/"
+  },
+  {
+    "nome": "🇵🇭Bandeira: Filipinas",
+    "href": "/pt/flag-philippines/"
+  },
+  {
+    "nome": "🇵🇰Bandeira: Paquistão",
+    "href": "/pt/flag-pakistan/"
+  },
+  {
+    "nome": "🇵🇱Bandeira: Polônia",
+    "href": "/pt/flag-poland/"
+  },
+  {
+    "nome": "🇵🇲Bandeira: São Pedro e Miquelão",
+    "href": "/pt/flag-st-pierre-miquelon/"
+  },
+  {
+    "nome": "🇵🇳Bandeira: Ilhas Pitcairn",
+    "href": "/pt/flag-pitcairn-islands/"
+  },
+  {
+    "nome": "🇵🇷Bandeira: Porto Rico",
+    "href": "/pt/flag-puerto-rico/"
+  },
+  {
+    "nome": "🇵🇸Bandeira: Territórios palestinos",
+    "href": "/pt/flag-palestinian-territories/"
+  },
+  {
+    "nome": "🇵🇹Bandeira: Portugal",
+    "href": "/pt/flag-portugal/"
+  },
+  {
+    "nome": "🇵🇼Bandeira: Palau",
+    "href": "/pt/flag-palau/"
+  },
+  {
+    "nome": "🇵🇾Bandeira: Paraguai",
+    "href": "/pt/flag-paraguay/"
+  },
+  {
+    "nome": "🇶🇦Bandeira: Catar",
+    "href": "/pt/flag-qatar/"
+  },
+  {
+    "nome": "🇷🇪Bandeira: Reunião",
+    "href": "/pt/flag-reunion/"
+  },
+  {
+    "nome": "🇷🇴Bandeira: Romênia",
+    "href": "/pt/flag-romania/"
+  },
+  {
+    "nome": "🇷🇸Bandeira: Sérvia",
+    "href": "/pt/flag-serbia/"
+  },
+  {
+    "nome": "🇷🇺Bandeira: Rússia",
+    "href": "/pt/flag-russia/"
+  },
+  {
+    "nome": "🇷🇼Bandeira: Ruanda",
+    "href": "/pt/flag-rwanda/"
+  },
+  {
+    "nome": "🇸🇦Bandeira: Arábia Saudita",
+    "href": "/pt/flag-saudi-arabia/"
+  },
+  {
+    "nome": "🇸🇧Bandeira: Ilhas Salomão",
+    "href": "/pt/flag-solomon-islands/"
+  },
+  {
+    "nome": "🇸🇨Bandeira: Seicheles",
+    "href": "/pt/flag-seychelles/"
+  },
+  {
+    "nome": "🇸🇩Bandeira: Sudão",
+    "href": "/pt/flag-sudan/"
+  },
+  {
+    "nome": "🇸🇪Bandeira: Suécia",
+    "href": "/pt/flag-sweden/"
+  },
+  {
+    "nome": "🇸🇬Bandeira: Singapura",
+    "href": "/pt/flag-singapore/"
+  },
+  {
+    "nome": "🇸🇭Bandeira: Santa Helena",
+    "href": "/pt/flag-st-helena/"
+  },
+  {
+    "nome": "🇸🇮Bandeira: Eslovênia",
+    "href": "/pt/flag-slovenia/"
+  },
+  {
+    "nome": "🇸🇯Bandeira: Svalbard e Jan Mayen",
+    "href": "/pt/flag-svalbard-jan-mayen/"
+  },
+  {
+    "nome": "🇸🇰Bandeira: Eslováquia",
+    "href": "/pt/flag-slovakia/"
+  },
+  {
+    "nome": "🇸🇱Bandeira: Serra Leoa",
+    "href": "/pt/flag-sierra-leone/"
+  },
+  {
+    "nome": "🇸🇲Bandeira: San Marino",
+    "href": "/pt/flag-san-marino/"
+  },
+  {
+    "nome": "🇸🇳Bandeira: Senegal",
+    "href": "/pt/flag-senegal/"
+  },
+  {
+    "nome": "🇸🇴Bandeira: Somália",
+    "href": "/pt/flag-somalia/"
+  },
+  {
+    "nome": "🇸🇷Bandeira: Suriname",
+    "href": "/pt/flag-suriname/"
+  },
+  {
+    "nome": "🇸🇸Bandeira: Sudão do Sul",
+    "href": "/pt/flag-south-sudan/"
+  },
+  {
+    "nome": "🇸🇹Bandeira: São Tomé e Príncipe",
+    "href": "/pt/flag-sao-tome-principe/"
+  },
+  {
+    "nome": "🇸🇻Bandeira: El Salvador",
+    "href": "/pt/flag-el-salvador/"
+  },
+  {
+    "nome": "🇸🇽Bandeira: Sint Maarten",
+    "href": "/pt/flag-sint-maarten/"
+  },
+  {
+    "nome": "🇸🇾Bandeira: Síria",
+    "href": "/pt/flag-syria/"
+  },
+  {
+    "nome": "🇸🇿Bandeira: Essuatíni",
+    "href": "/pt/flag-eswatini/"
+  },
+  {
+    "nome": "🇹🇦Bandeira: Tristão da Cunha",
+    "href": "/pt/flag-tristan-da-cunha/"
+  },
+  {
+    "nome": "🇹🇨Bandeira: Ilhas Turcas e Caicos",
+    "href": "/pt/flag-turks-caicos-islands/"
+  },
+  {
+    "nome": "🇹🇩Bandeira: Chade",
+    "href": "/pt/flag-chad/"
+  },
+  {
+    "nome": "🇹🇫Bandeira: Territórios Franceses do Sul",
+    "href": "/pt/flag-french-southern-territories/"
+  },
+  {
+    "nome": "🇹🇬Bandeira: Togo",
+    "href": "/pt/flag-togo/"
+  },
+  {
+    "nome": "🇹🇭Bandeira: Tailândia",
+    "href": "/pt/flag-thailand/"
+  },
+  {
+    "nome": "🇹🇯Bandeira: Tadjiquistão",
+    "href": "/pt/flag-tajikistan/"
+  },
+  {
+    "nome": "🇹🇰Bandeira: Tokelau",
+    "href": "/pt/flag-tokelau/"
+  },
+  {
+    "nome": "🇹🇱Bandeira: Timor-Leste",
+    "href": "/pt/flag-timor-leste/"
+  },
+  {
+    "nome": "🇹🇲Bandeira: Turcomenistão",
+    "href": "/pt/flag-turkmenistan/"
+  },
+  {
+    "nome": "🇹🇳Bandeira: Tunísia",
+    "href": "/pt/flag-tunisia/"
+  },
+  {
+    "nome": "🇹🇴Bandeira: Tonga",
+    "href": "/pt/flag-tonga/"
+  },
+  {
+    "nome": "🇹🇷Bandeira: Turquia",
+    "href": "/pt/flag-turkey/"
+  },
+  {
+    "nome": "🇹🇹Bandeira: Trinidad e Tobago",
+    "href": "/pt/flag-trinidad-tobago/"
+  },
+  {
+    "nome": "🇹🇻Bandeira: Tuvalu",
+    "href": "/pt/flag-tuvalu/"
+  },
+  {
+    "nome": "🇹🇼Bandeira: Taiwan",
+    "href": "/pt/flag-taiwan/"
+  },
+  {
+    "nome": "🇹🇿Bandeira: Tanzânia",
+    "href": "/pt/flag-tanzania/"
+  },
+  {
+    "nome": "🇺🇦Bandeira: Ucrânia",
+    "href": "/pt/flag-ukraine/"
+  },
+  {
+    "nome": "🇺🇬Bandeira: Uganda",
+    "href": "/pt/flag-uganda/"
+  },
+  {
+    "nome": "🇺🇲Bandeira: Ilhas Menores Distantes dos EUA",
+    "href": "/pt/flag-us-outlying-islands/"
+  },
+  {
+    "nome": "🇺🇳Bandeira: Nações Unidas",
+    "href": "/pt/flag-united-nations/"
+  },
+  {
+    "nome": "🇺🇸Bandeira: Estados Unidos",
+    "href": "/pt/flag-united-states/"
+  },
+  {
+    "nome": "🇺🇾Bandeira: Uruguai",
+    "href": "/pt/flag-uruguay/"
+  },
+  {
+    "nome": "🇺🇿Bandeira: Uzbequistão",
+    "href": "/pt/flag-uzbekistan/"
+  },
+  {
+    "nome": "🇻🇦Bandeira: Cidade do Vaticano",
+    "href": "/pt/flag-vatican-city/"
+  },
+  {
+    "nome": "🇻🇨Bandeira: São Vicente e Granadinas",
+    "href": "/pt/flag-st-vincent-grenadines/"
+  },
+  {
+    "nome": "🇻🇪Bandeira: Venezuela",
+    "href": "/pt/flag-venezuela/"
+  },
+  {
+    "nome": "🇻🇬Bandeira: Ilhas Virgens Britânicas",
+    "href": "/pt/flag-british-virgin-islands/"
+  },
+  {
+    "nome": "🇻🇮Bandeira: Ilhas Virgens Americanas",
+    "href": "/pt/flag-us-virgin-islands/"
+  },
+  {
+    "nome": "🇻🇳Bandeira: Vietnã",
+    "href": "/pt/flag-vietnam/"
+  },
+  {
+    "nome": "🇻🇺Bandeira: Vanuatu",
+    "href": "/pt/flag-vanuatu/"
+  },
+  {
+    "nome": "🇼🇫Bandeira: Wallis e Futuna",
+    "href": "/pt/flag-wallis-futuna/"
+  },
+  {
+    "nome": "🇼🇸Bandeira: Samoa",
+    "href": "/pt/flag-samoa/"
+  },
+  {
+    "nome": "🇽🇰Bandeira: Kosovo",
+    "href": "/pt/flag-kosovo/"
+  },
+  {
+    "nome": "🇾🇪Bandeira: Iêmen",
+    "href": "/pt/flag-yemen/"
+  },
+  {
+    "nome": "🇾🇹Bandeira: Mayotte",
+    "href": "/pt/flag-mayotte/"
+  },
+  {
+    "nome": "🇿🇦Bandeira: África do Sul",
+    "href": "/pt/flag-south-africa/"
+  },
+  {
+    "nome": "🇿🇲Bandeira: Zâmbia",
+    "href": "/pt/flag-zambia/"
+  },
+  {
+    "nome": "🇿🇼Bandeira: Zimbábue",
+    "href": "/pt/flag-zimbabwe/"
+  },
+  {
+    "nome": "🏴󠁧󠁢󠁥󠁮󠁧󠁿Bandeira: Inglaterra",
+    "href": "/pt/flag-england/"
+  },
+  {
+    "nome": "🏴󠁧󠁢󠁳󠁣󠁴󠁿Bandeira: Escócia",
+    "href": "/pt/flag-scotland/"
+  },
+  {
+    "nome": "🏴󠁧󠁢󠁷󠁬󠁳󠁿Bandeira: País de Gales",
+    "href": "/pt/flag-wales/"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "😂Rosto chorando de rir",
+    "href": "/pt/face-with-tears-of-joy/"
+  },
+  {
+    "nome": "🥰Rosto sorridente com 3 corações",
+    "href": "/pt/smiling-face-with-hearts/"
+  },
+  {
+    "nome": "🥲Rosto sorridente com lágrima",
+    "href": "/pt/smiling-face-with-tear/"
+  },
+  {
+    "nome": "🥺Rosto implorando",
+    "href": "/pt/pleading-face/"
+  },
+  {
+    "nome": "❤️‍🔥Coração em chamas",
+    "href": "/pt/heart-on-fire/"
+  },
+  {
+    "nome": "❤️Coração vermelho",
+    "href": "/pt/red-heart/"
+  },
+  {
+    "nome": "👍Polegar para cima",
+    "href": "/pt/thumbs-up/"
+  },
+  {
+    "nome": "🔥Fogo",
+    "href": "/pt/fire/"
+  },
+  {
+    "nome": "🇺🇦Bandeira: Ucrânia",
+    "href": "/pt/flag-ukraine/"
+  },
+  {
+    "nome": "🎉 Tema",
+    "href": "/pt/theme/"
+  },
+  {
+    "nome": "❤️️Ame",
+    "href": "/pt/theme/love/"
+  },
+  {
+    "nome": "😄Amigos",
+    "href": "/pt/theme/friends-sitcom/"
+  },
+  {
+    "nome": "🎂Aniversário",
+    "href": "/pt/theme/birthday/"
+  },
+  {
+    "nome": "👑Aniversário Da Rainha",
+    "href": "/pt/theme/queens-birthday/"
+  },
+  {
+    "nome": "🦃Ação De Graças",
+    "href": "/pt/theme/thanksgiving/"
+  },
+  {
+    "nome": "🦁Biologia",
+    "href": "/pt/theme/biology/"
+  },
+  {
+    "nome": "✊🏿Black Lives Matter",
+    "href": "/pt/theme/black-lives-matter/"
+  },
+  {
+    "nome": "☢️Cair",
+    "href": "/pt/theme/fallout/"
+  },
+  {
+    "nome": "🇧🇷Carnaval",
+    "href": "/pt/theme/carnaval/"
+  },
+  {
+    "nome": "🚗Carros",
+    "href": "/pt/theme/cars-movie/"
+  },
+  {
+    "nome": "👰Casamento / Casamento",
+    "href": "/pt/theme/wedding-marriage/"
+  },
+  {
+    "nome": "🎰Cassino",
+    "href": "/pt/theme/casino/"
+  },
+  {
+    "nome": "🌧Clima",
+    "href": "/pt/theme/weather/"
+  },
+  {
+    "nome": "⚽Copa Do Mundo",
+    "href": "/pt/theme/world-cup/"
+  },
+  {
+    "nome": "💕Corações",
+    "href": "/pt/theme/hearts/"
+  },
+  {
+    "nome": "🦠Coronavírus",
+    "href": "/pt/theme/coronavirus/"
+  },
+  {
+    "nome": "🏎Corridas",
+    "href": "/pt/theme/racing/"
+  },
+  {
+    "nome": "👱Dia Internacional Do Homem",
+    "href": "/pt/theme/international-mens-day/"
+  },
+  {
+    "nome": "📩Dia Internacional Sem Internet",
+    "href": "/pt/theme/international-internet-free-day/"
+  },
+  {
+    "nome": "🥤Dia Mundial Da Sobriedade E Controle Do Álcool",
+    "href": "/pt/theme/world-day-of-sobriety-and-alcohol-control/"
+  },
+  {
+    "nome": "🌎Dia Mundial Do Emoji",
+    "href": "/pt/theme/world-emoji-day/"
+  },
+  {
+    "nome": "🇦🇺Dia Da Austrália",
+    "href": "/pt/theme/australia-day/"
+  },
+  {
+    "nome": "🇺🇸Dia Da Independência",
+    "href": "/pt/theme/independence-day/"
+  },
+  {
+    "nome": "🙆‍♂️Dia Da Mentira",
+    "href": "/pt/theme/april-fools-day/"
+  },
+  {
+    "nome": "🗺️Dia Da Terra",
+    "href": "/pt/theme/earth-day/"
+  },
+  {
+    "nome": "🚴Dia Da Bicicleta",
+    "href": "/pt/theme/bicycle-day/"
+  },
+  {
+    "nome": "🤱Dia Das Mães",
+    "href": "/pt/theme/mothers-day/"
+  },
+  {
+    "nome": "⛵️Dia De Colombo",
+    "href": "/pt/theme/columbus-day/"
+  },
+  {
+    "nome": "☘️Dia De São Patricio",
+    "href": "/pt/theme/st-patricks-day/"
+  },
+  {
+    "nome": "🚬Dia De Não Fumadores",
+    "href": "/pt/theme/no-smoking-day/"
+  },
+  {
+    "nome": "🇨🇦Dia Do Canadá",
+    "href": "/pt/theme/canada-day/"
+  },
+  {
+    "nome": "⚒️Dia Do Trabalho",
+    "href": "/pt/theme/labour-day/"
+  },
+  {
+    "nome": "👨Dia Dos Pais",
+    "href": "/pt/theme/fathers-day/"
+  },
+  {
+    "nome": "💘Dia Dos Namorados",
+    "href": "/pt/theme/valentines-day/"
+  },
+  {
+    "nome": "👩Dia Internacional Da Mulher",
+    "href": "/pt/theme/international-womens-day/"
+  },
+  {
+    "nome": "🕯Diwali",
+    "href": "/pt/theme/diwali/"
+  },
+  {
+    "nome": "🎥Emoji Movie",
+    "href": "/pt/theme/emoji-movie/"
+  },
+  {
+    "nome": "👽Espaço",
+    "href": "/pt/theme/space/"
+  },
+  {
+    "nome": "🤓Faculdade",
+    "href": "/pt/theme/college/"
+  },
+  {
+    "nome": "🎉Festa",
+    "href": "/pt/theme/party/"
+  },
+  {
+    "nome": "🇨🇳Festival Do Barco-Dragão",
+    "href": "/pt/theme/dragon-boat-festival/"
+  },
+  {
+    "nome": "💪Festivus",
+    "href": "/pt/theme/festivus/"
+  },
+  {
+    "nome": "🎬Filme",
+    "href": "/pt/theme/movie/"
+  },
+  {
+    "nome": "📙Filosofia",
+    "href": "/pt/theme/philosophy/"
+  },
+  {
+    "nome": "🌠Física",
+    "href": "/pt/theme/physics/"
+  },
+  {
+    "nome": "🏃Gta",
+    "href": "/pt/theme/gta/"
+  },
+  {
+    "nome": "🌈Gay",
+    "href": "/pt/theme/gay/"
+  },
+  {
+    "nome": "🗺Geografia",
+    "href": "/pt/theme/geography/"
+  },
+  {
+    "nome": "🎓Graduação",
+    "href": "/pt/theme/graduation/"
+  },
+  {
+    "nome": "🌌Guerra Das Estrelas",
+    "href": "/pt/theme/star-wars/"
+  },
+  {
+    "nome": "❄️Guerra Dos Tronos",
+    "href": "/pt/theme/game-of-thrones/"
+  },
+  {
+    "nome": "🔥Guy Fawkes",
+    "href": "/pt/theme/guy-fawkes/"
+  },
+  {
+    "nome": "🕎Hanukkah",
+    "href": "/pt/theme/hanukkah/"
+  },
+  {
+    "nome": "🧙Harry Potter",
+    "href": "/pt/theme/harry-potter/"
+  },
+  {
+    "nome": "📖História",
+    "href": "/pt/theme/history/"
+  },
+  {
+    "nome": "🕉Holi",
+    "href": "/pt/theme/holi/"
+  },
+  {
+    "nome": "⛄Inverno",
+    "href": "/pt/theme/winter/"
+  },
+  {
+    "nome": "🤵James Bond",
+    "href": "/pt/theme/james-bond/"
+  },
+  {
+    "nome": "🏊Jogos Olímpicos",
+    "href": "/pt/theme/olympics/"
+  },
+  {
+    "nome": "🖖Jornada Nas Estrelas",
+    "href": "/pt/theme/star-trek/"
+  },
+  {
+    "nome": "📜Lei",
+    "href": "/pt/theme/law/"
+  },
+  {
+    "nome": "➗Matemática",
+    "href": "/pt/theme/math/"
+  },
+  {
+    "nome": "🕴️Matriz",
+    "href": "/pt/theme/matrix/"
+  },
+  {
+    "nome": "🧘Meditação",
+    "href": "/pt/theme/meditation/"
+  },
+  {
+    "nome": "🧱Minecraft",
+    "href": "/pt/theme/minecraft/"
+  },
+  {
+    "nome": "💪Motivação",
+    "href": "/pt/theme/motivation/"
+  },
+  {
+    "nome": "🎅Natal",
+    "href": "/pt/theme/christmas/"
+  },
+  {
+    "nome": "🎿Olimpíadas De Inverno",
+    "href": "/pt/theme/winter-olympics/"
+  },
+  {
+    "nome": "🏳️‍🌈Orgulho / Lgbtq+",
+    "href": "/pt/theme/pride/"
+  },
+  {
+    "nome": "🍂Outono",
+    "href": "/pt/theme/fall-autumn/"
+  },
+  {
+    "nome": "🌱Primavera",
+    "href": "/pt/theme/spring/"
+  },
+  {
+    "nome": "🐰Páscoa",
+    "href": "/pt/theme/easter/"
+  },
+  {
+    "nome": "🌿Quatro Vinte / 420",
+    "href": "/pt/theme/420/"
+  },
+  {
+    "nome": "☪️Ramadã",
+    "href": "/pt/theme/ramadan/"
+  },
+  {
+    "nome": "⛪️Religião",
+    "href": "/pt/theme/religion/"
+  },
+  {
+    "nome": "💊Saúde",
+    "href": "/pt/theme/health/"
+  },
+  {
+    "nome": "💏Sexo",
+    "href": "/pt/theme/sex/"
+  },
+  {
+    "nome": "🛍Sexta-Feira Preta",
+    "href": "/pt/theme/black-friday/"
+  },
+  {
+    "nome": "🕵️Sherlock",
+    "href": "/pt/theme/sherlock/"
+  },
+  {
+    "nome": "🏈Super Bowl",
+    "href": "/pt/theme/super-bowl/"
+  },
+  {
+    "nome": "🏡Trabalhar Em Casa",
+    "href": "/pt/theme/working-from-home/"
+  },
+  {
+    "nome": "☀️Verão",
+    "href": "/pt/theme/summer/"
+  },
+  {
+    "nome": "🎊Véspera De Ano Novo",
+    "href": "/pt/theme/new-years-eve/"
+  },
+  {
+    "nome": "🐉Ano Novo Chinês",
+    "href": "/pt/theme/chinese-new-year/"
+  },
+  {
+    "nome": "🇲🇽Cinco De Maio",
+    "href": "/pt/theme/cinco-de-mayo/"
+  },
+  {
+    "nome": "🇫🇷Dia Da Bastilha",
+    "href": "/pt/theme/bastille-day/"
+  },
+  {
+    "nome": "🎃Dia Das Bruxas",
+    "href": "/pt/theme/halloween/"
+  },
+  {
+    "nome": "💦Água",
+    "href": "/pt/theme/water/"
+  },
+  {
+    "nome": "Apple",
+    "href": "/pt/apple/"
+  },
+  {
+    "nome": "Google",
+    "href": "/pt/google/"
+  },
+  {
+    "nome": "Facebook",
+    "href": "/pt/facebook/"
+  },
+  {
+    "nome": "Twitter",
+    "href": "/pt/twitter/"
+  },
+  {
+    "nome": "Samsung",
+    "href": "/pt/samsung/"
+  },
+  {
+    "nome": "Microsoft",
+    "href": "/pt/microsoft/"
+  },
+  {
+    "nome": "Whatsapp",
+    "href": "/pt/whatsapp/"
+  },
+  {
+    "nome": "Messenger",
+    "href": "/pt/messenger/"
+  },
+  {
+    "nome": "Joypixels",
+    "href": "/pt/joypixels/"
+  },
+  {
+    "nome": "Openmoji",
+    "href": "/pt/openmoji/"
+  },
+  {
+    "nome": "Emojidex",
+    "href": "/pt/emojidex/"
+  },
+  {
+    "nome": "Htc",
+    "href": "/pt/htc/"
+  },
+  {
+    "nome": "Lg",
+    "href": "/pt/lg/"
+  },
+  {
+    "nome": "Mozilla",
+    "href": "/pt/mozilla/"
+  },
+  {
+    "nome": "Softbank",
+    "href": "/pt/softbank/"
+  },
+  {
+    "nome": "Au-Kddi",
+    "href": "/pt/au-kddi/"
+  },
+  {
+    "nome": "Docomo",
+    "href": "/pt/docomo/"
+  },
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/emojigraph/"
+  },
+  {
+    "nome": "Emojipedia",
+    "href": "/pt/emojipedia/"
+  },
+  {
+    "nome": "Emoji 1.0",
+    "href": "/pt/emoji-1.0/"
+  },
+  {
+    "nome": "Emoji 2.0",
+    "href": "/pt/emoji-2.0/"
+  },
+  {
+    "nome": "Emoji 3.0",
+    "href": "/pt/emoji-3.0/"
+  },
+  {
+    "nome": "Emoji 4.0",
+    "href": "/pt/emoji-4.0/"
+  },
+  {
+    "nome": "Emoji 5.0",
+    "href": "/pt/emoji-5.0/"
+  },
+  {
+    "nome": "Emoji 11.0",
+    "href": "/pt/emoji-11.0/"
+  },
+  {
+    "nome": "Emoji 12.0",
+    "href": "/pt/emoji-12.0/"
+  },
+  {
+    "nome": "Emoji 12.1",
+    "href": "/pt/emoji-12.1/"
+  },
+  {
+    "nome": "Emoji 13.0",
+    "href": "/pt/emoji-13.0/"
+  },
+  {
+    "nome": "Emoji 13.1",
+    "href": "/pt/emoji-13.1/"
+  },
+  {
+    "nome": "Emoji 14.0",
+    "href": "/pt/emoji-14.0/"
+  },
+  {
+    "nome": "Emoji 15.0",
+    "href": "/pt/emoji-15.0/"
+  },
+  {
+    "nome": "Emoji 15.1",
+    "href": "/pt/emoji-15.1/"
+  },
+  {
+    "nome": "Emoji 16.0",
+    "href": "/pt/emoji-16.0/"
+  },
+  {
+    "nome": "Política de Privacidade",
+    "href": "/pt/privacy-policy/"
+  }
+]

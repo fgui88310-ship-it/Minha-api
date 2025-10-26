@@ -1,0 +1,85 @@
+{
+  "emoji": "📭",
+  "nome": "📭 Caixa de correio aberta com bandeira abaixada",
+  "categoria": "Open Mailbox With Lowered Flag",
+  "url": "https://emojigraph.org/pt/open-mailbox-with-lowered-flag/",
+  "detalhes": {
+    "explicacao": "Uma calçada de caixa de correio (caixa de correio, caixa postal), com o seu sinal de bandeira abaixada e seu slot vazio. Geralmente representadas em azul ou cinza, com uma bandeira vermelha. Utilizado para vários conteúdos relativos a envios postais e de e-mail.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/open-mailbox-with-lowered-flag_1f4ed.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/open-mailbox-with-lowered-flag_1f4ed.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aberta",
+      "bandeira",
+      "correspondência"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4ED;",
+      "HTML dec": "&#128237;",
+      "URL escape code": "%F0%9F%93%AD",
+      "Punycode": "xn--ju8h",
+      "Bytes (UTF-8)": "F0 9F 93 AD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCED",
+      "C, C++, Python": "\\U0001f4ed",
+      "CSS": "\\01F4ED",
+      "PHP, Ruby": "\\u{1F4ED}",
+      "Perl": "\\x{1F4ED}"
+    }
+  }
+}

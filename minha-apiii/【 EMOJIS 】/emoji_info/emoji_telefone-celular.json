@@ -1,0 +1,93 @@
+{
+  "emoji": "📱",
+  "nome": "📱 Telefone celular",
+  "categoria": "Mobile Phone",
+  "url": "https://emojigraph.org/pt/mobile-phone/",
+  "detalhes": {
+    "explicacao": "Um telefone móvel (celular), como o usado para mensagens de texto, seleção de mídia social, ou tirar selfies. Descrito como um smartphone  preto ou cinza  com uma genérica tela azul ou multicolorida ícones de aplicativos. Comumente utilizado para vários conteúdos relativos a telefones celulares, tecnologia e comunicação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/mobile-phone_1f4f1.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/mobile-phone_1f4f1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "celular",
+      "telefone",
+      "telefone móvel"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4F1;",
+      "HTML dec": "&#128241;",
+      "URL escape code": "%F0%9F%93%B1",
+      "Punycode": "xn--nu8h",
+      "Bytes (UTF-8)": "F0 9F 93 B1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCF1",
+      "C, C++, Python": "\\U0001f4f1",
+      "CSS": "\\01F4F1",
+      "PHP, Ruby": "\\u{1F4F1}",
+      "Perl": "\\x{1F4F1}"
+    }
+  }
+}

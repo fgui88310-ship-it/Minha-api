@@ -1,0 +1,68 @@
+{
+  "emoji": "🥨",
+  "nome": "🥨 Pretzel",
+  "categoria": "Pretzel",
+  "url": "https://emojigraph.org/pt/pretzel/",
+  "detalhes": {
+    "explicacao": "Coração em forma de torção de um disco rígido ou macio marrom-dourado pretzel, temperado com grãos de sal. Um lanche comumente associada com a Alemanha.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pretzel_1f968.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pretzel_1f968.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pretzel_1f968.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pretzel_1f968.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pretzel_1f968.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pretzel_1f968.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pretzel_1f968.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pretzel_1f968.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pretzel_1f968.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pretzel_1f968.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pretzel",
+      "pão torcido"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F968;",
+      "HTML dec": "&#129384;",
+      "URL escape code": "%F0%9F%A5%A8",
+      "Punycode": "xn--bs9h",
+      "Bytes (UTF-8)": "F0 9F A5 A8",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD68",
+      "C, C++, Python": "\\U0001f968",
+      "CSS": "\\01F968",
+      "PHP, Ruby": "\\u{1F968}",
+      "Perl": "\\x{1F968}"
+    }
+  }
+}

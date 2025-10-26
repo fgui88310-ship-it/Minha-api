@@ -1,0 +1,73 @@
+{
+  "emoji": "🧽",
+  "nome": "🧽 Esponja",
+  "categoria": "Sponge",
+  "url": "https://emojigraph.org/pt/sponge/",
+  "detalhes": {
+    "explicacao": "Um amendoim-esponja, usado para a limpeza ou tomar banho. Geralmente representado em amarelo e em diferentes ângulos entre plataformas. Comumente utilizado para vários conteúdos relativos tomar banho, lavar roupa e limpar a casa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sponge_1f9fd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sponge_1f9fd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sponge_1f9fd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sponge_1f9fd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sponge_1f9fd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sponge_1f9fd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sponge_1f9fd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sponge_1f9fd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sponge_1f9fd.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/sponge_1f9fd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "absorvente",
+      "esponja",
+      "limpeza",
+      "porosa",
+      "absorção",
+      "encharcar",
+      "poroso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9FD;",
+      "HTML dec": "&#129533;",
+      "URL escape code": "%F0%9F%A7%BD",
+      "Punycode": "xn--kw9h",
+      "Bytes (UTF-8)": "F0 9F A7 BD",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDFD",
+      "C, C++, Python": "\\U0001f9fd",
+      "CSS": "\\01F9FD",
+      "PHP, Ruby": "\\u{1F9FD}",
+      "Perl": "\\x{1F9FD}"
+    }
+  }
+}

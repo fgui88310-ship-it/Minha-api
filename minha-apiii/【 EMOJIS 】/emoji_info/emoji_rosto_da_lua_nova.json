@@ -1,0 +1,85 @@
+{
+  "emoji": "🌚",
+  "nome": "🌚 Rosto da lua nova",
+  "categoria": "new moon face",
+  "url": "https://emojigraph.org/pt/new-moon-face/",
+  "detalhes": {
+    "explicacao": "Lua nova, com um sorriso no rosto, como o Homem na Lua. Geralmente retrata a lua como um escuro disco com um sorridente rosto humano e nariz.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/new-moon-face_1f31a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/new-moon-face_1f31a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "lua",
+      "lua nova",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F31A;",
+      "HTML dec": "&#127770;",
+      "URL escape code": "%F0%9F%8C%9A",
+      "Punycode": "xn--6g8h",
+      "Bytes (UTF-8)": "F0 9F 8C 9A",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF1A",
+      "C, C++, Python": "\\U0001f31a",
+      "CSS": "\\01F31A",
+      "PHP, Ruby": "\\u{1F31A}",
+      "Perl": "\\x{1F31A}"
+    }
+  }
+}

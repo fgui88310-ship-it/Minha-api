@@ -1,0 +1,83 @@
+{
+  "emoji": "🇰🇷",
+  "nome": "🇰🇷 Bandeira: Coreia do Sul",
+  "categoria": "flag south korea",
+  "url": "https://emojigraph.org/pt/flag-south-korea/",
+  "detalhes": {
+    "explicacao": "A bandeira da Coreia do Sul, o que pode mostrar como as letras KR em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/flag-south-korea_1f1f0-1f1f7.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/flag-south-korea_1f1f0-1f1f7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F0;&#x1F1F7;",
+      "HTML dec": "&#127472;&#127479;",
+      "URL escape code": "%F0%9F%87%B0%F0%9F%87%B7",
+      "Punycode": "xn--o77hoa",
+      "Bytes (UTF-8)": "F0 9F 87 B0 F0 9F 87 B7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF0\\uD83C\\uDDF7",
+      "C, C++, Python": "\\U0001f1f0\\U0001f1f7",
+      "CSS": "\\01F1F0 \\01F1F7",
+      "PHP, Ruby": "\\u{1F1F0}\\u{1F1F7}",
+      "Perl": "\\x{1F1F0}\\x{1F1F7}"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "emoji": "🪄",
+  "nome": "🪄 Varinha mágica",
+  "categoria": "Magic Wand",
+  "url": "https://emojigraph.org/pt/magic-wand/",
+  "detalhes": {
+    "explicacao": "Uma imagem de desenho animado de uma varinha mágica na cor preto e branco, como visto realizada por mágicos. Freqüentemente usado para denotar que algo mágico está prestes a acontecer. Varinha mágica foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/magic-wand_1fa84.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/magic-wand_1fa84.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/magic-wand_1fa84.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/magic-wand_1fa84.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/magic-wand_1fa84.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/magic-wand_1fa84.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/magic-wand_1fa84.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/magic-wand_1fa84.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bruxa",
+      "magia",
+      "mago",
+      "varinha mágica",
+      "mágica",
+      "mágico",
+      "varinha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA84;",
+      "HTML dec": "&#129668;",
+      "URL escape code": "%F0%9F%AA%84",
+      "Punycode": "xn--f09h",
+      "Bytes (UTF-8)": "F0 9F AA 84",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE84",
+      "C, C++, Python": "\\U0001fa84",
+      "CSS": "\\01FA84",
+      "PHP, Ruby": "\\u{1FA84}",
+      "Perl": "\\x{1FA84}"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "emoji": "🇷🇺",
+  "nome": "🇷🇺 Bandeira: Rússia",
+  "categoria": "flag russia",
+  "url": "https://emojigraph.org/pt/flag-russia/",
+  "detalhes": {
+    "explicacao": "A bandeira da Rússia, que pode mostrar como as letras RU em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/flag-russia_1f1f7-1f1fa.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/flag-russia_1f1f7-1f1fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F7;&#x1F1FA;",
+      "HTML dec": "&#127479;&#127482;",
+      "URL escape code": "%F0%9F%87%B7%F0%9F%87%BA",
+      "Punycode": "xn--v77hga",
+      "Bytes (UTF-8)": "F0 9F 87 B7 F0 9F 87 BA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF7\\uD83C\\uDDFA",
+      "C, C++, Python": "\\U0001f1f7\\U0001f1fa",
+      "CSS": "\\01F1F7 \\01F1FA",
+      "PHP, Ruby": "\\u{1F1F7}\\u{1F1FA}",
+      "Perl": "\\x{1F1F7}\\x{1F1FA}"
+    }
+  }
+}

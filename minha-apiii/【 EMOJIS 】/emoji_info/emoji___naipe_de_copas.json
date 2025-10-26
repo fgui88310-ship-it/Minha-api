@@ -1,0 +1,96 @@
+{
+  "emoji": "",
+  "nome": "♥️ Naipe de copas",
+  "categoria": "heart suit",
+  "url": "https://emojigraph.org/pt/heart-suit/",
+  "detalhes": {
+    "explicacao": "Um símbolo de coração emoji, que é usado em jogos de cartas para o coração de copas. Geralmente mostrado em vermelho, apesar do nome. Não deve ser confundido com o coração preto emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/heart-suit_2665-fe0f.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/heart-suit_2665-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "baralho",
+      "carta",
+      "copas",
+      "jogo",
+      "naipe",
+      "naipe de copas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2665;&#xFE0F;",
+      "HTML dec": "&#9829;&#65039;",
+      "URL escape code": "%E2%99%A5%EF%B8%8F",
+      "Punycode": "xn--g6h",
+      "Bytes (UTF-8)": "E2 99 A5 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2665\\uFE0F",
+      "C, C++, Python": "\\u2665\\uFE0F",
+      "CSS": "\\2665 \\FE0F",
+      "PHP, Ruby": "\\u{2665}\\u{FE0F}",
+      "Perl": "\\x{2665}\\x{FE0F}"
+    }
+  }
+}

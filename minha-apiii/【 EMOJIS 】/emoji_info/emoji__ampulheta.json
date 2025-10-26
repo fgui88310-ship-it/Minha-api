@@ -1,0 +1,93 @@
+{
+  "emoji": "",
+  "nome": "⌛ Ampulheta",
+  "categoria": "hourglass done",
+  "url": "https://emojigraph.org/pt/hourglass-done/",
+  "detalhes": {
+    "explicacao": "Uma clássico ampulheta, toda a sua areia de colocada na parte inferior do bulbo. Indicando quanto tempo passou. A cor varia entre plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/hourglass-done_231b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/hourglass-done_231b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ampulheta",
+      "areia",
+      "tempo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x231B;",
+      "HTML dec": "&#8987;",
+      "URL escape code": "%E2%8C%9B",
+      "Punycode": "xn--eih",
+      "Bytes (UTF-8)": "E2 8C 9B",
+      "JavaScript, JSON, Java": "\\u231B",
+      "C, C++, Python": "\\u231B",
+      "CSS": "\\231B",
+      "PHP, Ruby": "\\u{231B}",
+      "Perl": "\\x{231B}"
+    }
+  }
+}

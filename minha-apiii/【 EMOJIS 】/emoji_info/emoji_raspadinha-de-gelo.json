@@ -1,0 +1,94 @@
+{
+  "emoji": "🍧",
+  "nome": "🍧 Raspadinha de gelo",
+  "categoria": "Shaved Ice",
+  "url": "https://emojigraph.org/pt/shaved-ice/",
+  "detalhes": {
+    "explicacao": "Um monte de gelo raspado (neve cone), servida em uma tigela de sobremesa com uma pequena colher, aromatizado com um vermelho-cereja, xarope em muitas plataformas. Associado a Havaiana raspar gelo ou Japonês kakigori.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/shaved-ice_1f367.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/shaved-ice_1f367.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gelo",
+      "raspadinha",
+      "sobremesa",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F367;",
+      "HTML dec": "&#127847;",
+      "URL escape code": "%F0%9F%8D%A7",
+      "Punycode": "xn--ej8h",
+      "Bytes (UTF-8)": "F0 9F 8D A7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF67",
+      "C, C++, Python": "\\U0001f367",
+      "CSS": "\\01F367",
+      "PHP, Ruby": "\\u{1F367}",
+      "Perl": "\\x{1F367}"
+    }
+  }
+}

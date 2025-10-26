@@ -1,0 +1,77 @@
+{
+  "emoji": "🙄",
+  "nome": "🙄 Rosto com olhos revirados",
+  "categoria": "Face With Rolling Eyes",
+  "url": "https://emojigraph.org/pt/face-with-rolling-eyes/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, com uma pequena, boca fechada, televisão ou franzindo a testa, rolando a sua grande, branco e de olhos para cima. Comumente transmite moderado desdém, reprovação, frustração, ou o tédio. O tom varia, incluindo brincalhão, atrevida, ressentido, e sarcástico, como se dizendo: Sim, que seja.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-rolling-eyes_1f644.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-rolling-eyes_1f644.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-rolling-eyes_1f644.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-rolling-eyes_1f644.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-rolling-eyes_1f644.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-rolling-eyes_1f644.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-rolling-eyes_1f644.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-rolling-eyes_1f644.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-rolling-eyes_1f644.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/face-with-rolling-eyes_1f644.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/face-with-rolling-eyes_1f644.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/face-with-rolling-eyes_1f644.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "olhos",
+      "rosto",
+      "tanto faz"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F644;",
+      "HTML dec": "&#128580;",
+      "URL escape code": "%F0%9F%99%84",
+      "Punycode": "xn--c48h",
+      "Bytes (UTF-8)": "F0 9F 99 84",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE44",
+      "C, C++, Python": "\\U0001f644",
+      "CSS": "\\01F644",
+      "PHP, Ruby": "\\u{1F644}",
+      "Perl": "\\x{1F644}"
+    }
+  }
+}

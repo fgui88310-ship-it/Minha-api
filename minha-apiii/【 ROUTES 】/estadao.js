@@ -1,0 +1,242 @@
+// api/endpoints/estadao.js
+import express from 'express';
+import axios from 'axios';
+import xml2js from 'xml2js';
+import * as cheerio from 'cheerio';
+
+const router = express.Router();
+
+// Lista de feeds RSS atualizados (outbound feeds, 2025)
+const FALLBACK_FEEDS = [
+  'https://estadao.com.br/arc/outboundfeeds/rss/politica/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/economia/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/brasil/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/internacional/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/cultura/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/esportes/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/sustentabilidade/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/?outputType=xml', // Feed geral
+];
+
+// Função para validar URLs
+const isValidUrl = (url) => {
+  try {
+    new URL(url);
+    return url.includes('estadao.com.br') || url.includes('estadao.com');
+  } catch {
+    return false;
+  }
+};
+
+// Função para extrair descrição do HTML
+async function pegarDescricao(url) {
+  try {
+    if (!isValidUrl(url)) {
+      return 'Descrição não disponível';
+    }
+
+    const { data } = await axios.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Android 10; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0',
+      },
+      timeout: 10000,
+    });
+
+    const $ = cheerio.load(data);
+
+    // Tentar meta tags primeiro
+    let descricao = $('meta[property="og:description"]').attr('content') ||
+                    $('meta[name="twitter:description"]').attr('content') ||
+                    $('meta[name="description"]').attr('content');
+
+    // Se não houver, tentar parágrafos ou subheadlines
+    if (!descricao) {
+      const paragrafos = $('article p, .content p, .noticia-content-block p, .article-body p, .content-text p, .subheadline')
+        .map((i, el) => $(el).text().trim())
+        .get()
+        .filter(text => text.length > 0);
+      descricao = paragrafos.slice(0, 3).join('\n');
+    }
+
+    // Verificar paywall
+    if ($('[data-paywall-wrapper="true"]').length > 0 || $('.paywall').length > 0) {
+      return 'Conteúdo bloqueado por paywall';
+    }
+
+    return descricao || 'Descrição não disponível';
+  } catch (err) {
+    console.warn(`Erro ao pegar descrição de ${url}:`, err.message);
+    return 'Descrição não disponível';
+  }
+}
+
+// Função para buscar notícias do RSS (atualizado para outbound feeds)
+async function buscarNoticiasEstadao(feedUrl) {
+  try {
+    if (!isValidUrl(feedUrl)) {
+      console.warn('URL do feed inválida:', feedUrl);
+      return [];
+    }
+
+    console.log(`Tentando feed RSS: ${feedUrl}`);
+    const { data, status } = await axios.get(feedUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Android 10; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0',
+      },
+      timeout: 10000,
+    });
+
+    if (status !== 200) {
+      console.warn(`Status HTTP inválido para ${feedUrl}: ${status}`);
+      return [];
+    }
+
+    // Verificar se é XML (RSS)
+    if (!data.includes('<rss') && !data.includes('<feed')) {
+      console.warn(`Conteúdo não é XML válido para ${feedUrl}`);
+      return [];
+    }
+
+    const parser = new xml2js.Parser({ explicitArray: false, mergeAttrs: true });
+    const result = await parser.parseStringPromise(data);
+    const items = result?.rss?.channel?.item || result?.feed?.entry || [];
+
+    const itemsArray = Array.isArray(items) ? items : items ? [items] : [];
+
+    if (!itemsArray.length) {
+      console.warn('Nenhum item encontrado no RSS:', feedUrl);
+      return [];
+    }
+
+    console.log(`Encontrados ${itemsArray.length} itens no RSS: ${feedUrl}`);
+
+    const noticias = await Promise.all(
+      itemsArray.slice(0, 3).map(async (item) => {
+        const titulo = item.title?._ || item.title || 'Título não disponível';
+        const link = item.link?.$?.href || item.link || '#';
+        const descricao = item.description?._ || item.summary?._ || await pegarDescricao(link);
+        return {
+          titulo,
+          descricao: descricao || 'Descrição não disponível',
+          link,
+          pubDate: item.pubDate || item.updated || null,
+        };
+      })
+    );
+
+    return noticias;
+  } catch (err) {
+    console.error(`[ESTADÃO RSS] Erro ao acessar ${feedUrl}:`, err.message);
+    return [];
+  }
+}
+
+// Plano B: Scraping direto da página principal ou últimas (melhorado com seletores do HTML)
+async function buscarNoticiasScraping() {
+  try {
+    console.log('Tentando scraping direto da página principal...');
+    const url = 'https://www.estadao.com.br/'; // Ou 'https://www.estadao.com.br/ultimas' se preferir
+    const { data } = await axios.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Android 10; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0',
+      },
+      timeout: 10000,
+    });
+
+    const $ = cheerio.load(data);
+    const noticias = [];
+
+    // Seletores melhorados baseados no HTML que você colou: headlines, bullets, subheadlines
+    $('h2.headline b, .headline b, .bullet span b').each((i, el) => {
+      if (noticias.length >= 3) return; // Limite de 3
+      const tituloEl = $(el);
+      const parentA = tituloEl.closest('a');
+      const link = parentA.attr('href');
+      const subEl = parentA.find('.subheadline, .bullet span').first();
+      const descricaoEl = subEl.length ? subEl : parentA.find('p').first();
+      if (tituloEl.text().trim() && link) {
+        noticias.push({
+          titulo: tituloEl.text().trim(),
+          descricao: descricaoEl.text().trim() || 'Descrição não disponível',
+          link: link.startsWith('http') ? link : `https://www.estadao.com.br${link}`,
+          pubDate: null,
+        });
+      }
+    });
+
+    // Fallback para bullets se headlines não pegarem
+    if (noticias.length === 0) {
+      $('.bullet a span b').each((i, el) => {
+        if (noticias.length >= 3) return;
+        const tituloEl = $(el);
+        const parentA = tituloEl.closest('a');
+        const link = parentA.attr('href');
+        if (tituloEl.text().trim() && link) {
+          noticias.push({
+            titulo: tituloEl.text().trim(),
+            descricao: 'Descrição não disponível (veja no link)',
+            link: link.startsWith('http') ? link : `https://www.estadao.com.br${link}`,
+            pubDate: null,
+          });
+        }
+      });
+    }
+
+    console.log(`Encontradas ${noticias.length} notícias via scraping`);
+    return noticias;
+  } catch (err) {
+    console.error('[SCRAPING] Erro:', err.message);
+    return [];
+  }
+}
+
+// Endpoint da API
+router.get('/', async (req, res, next) => {
+  try { 
+  let feedUrl = req.query.feed || 'https://estadao.com.br/arc/outboundfeeds/rss/politica/?outputType=xml'; // Novo padrão
+
+  if (!isValidUrl(feedUrl)) {
+    return res.status(400).json({ error: 'URL do feed inválida' });
+  }
+
+  let noticias = await buscarNoticiasEstadao(feedUrl);
+
+  // Tentar feeds alternativos se o principal falhar
+  if (!noticias.length) {
+    console.warn(`Feed principal falhou: ${feedUrl}. Tentando alternativos...`);
+    for (const fallback of FALLBACK_FEEDS) {
+      noticias = await buscarNoticiasEstadao(fallback);
+      if (noticias.length) {
+        feedUrl = fallback;
+        break;
+      }
+    }
+  }
+
+  // Plano B: Se RSS falhar completamente, usar scraping
+  if (!noticias.length) {
+    noticias = await buscarNoticiasScraping();
+  }
+
+  if (!noticias.length) {
+    return res.status(404).json({
+      error: 'Nenhuma notícia encontrada. Feeds podem estar indisponíveis.',
+      sugestoes: FALLBACK_FEEDS,
+    });
+  }
+
+  // Formatar mensagem para Telegram
+  let msg = `📰 *Notícias do Estadão*\n\n`;
+  noticias.forEach((n, i) => {
+    msg += `*${i + 1}. ${n.titulo}*\n`;
+    if (n.descricao && n.descricao !== 'Descrição não disponível') msg += `📝 ${n.descricao}\n`;
+    msg += `🔗 [Leia Mais](${n.link})\n\n`;
+  });
+
+  res.json({ total: noticias.length, feedUsado: feedUrl, noticias, mensagem_formatada: msg });
+  } catch (err) {
+  next(err);
+  }
+});
+
+export default router; 

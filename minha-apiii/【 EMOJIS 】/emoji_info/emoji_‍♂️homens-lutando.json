@@ -1,0 +1,63 @@
+{
+  "emoji": "🤼",
+  "nome": "🤼‍♂️ Homens lutando",
+  "categoria": "Men Wrestling",
+  "url": "https://emojigraph.org/pt/men-wrestling/",
+  "detalhes": {
+    "explicacao": "Os Homens Wrestling emoji é uma sequência do 🤼 Lutadores e ♂ Masculino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/men-wrestling_1f93c-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/men-wrestling_1f93c-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/men-wrestling_1f93c-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/men-wrestling_1f93c-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/men-wrestling_1f93c-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/men-wrestling_1f93c-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/men-wrestling_1f93c-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/men-wrestling_1f93c-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esporte",
+      "homem",
+      "homens lutando",
+      "luta",
+      "lutador"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F93C;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#129340;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%A4%BC%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h1091o",
+      "Bytes (UTF-8)": "F0 9F A4 BC E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD3C\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f93c\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F93C \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F93C}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F93C}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "emoji": "🇻🇳",
+  "nome": "🇻🇳 Bandeira: Vietnã",
+  "categoria": "flag vietnam",
+  "url": "https://emojigraph.org/pt/flag-vietnam/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Vietnã. Este símbolo é uma seqüência de caracteres 🇻 Símbolo Indicador Regional Letra V e 🇳 Símbolo Indicador Regional Letra N. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras VN em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-vietnam_1f1fb-1f1f3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-vietnam_1f1fb-1f1f3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-vietnam_1f1fb-1f1f3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-vietnam_1f1fb-1f1f3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-vietnam_1f1fb-1f1f3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-vietnam_1f1fb-1f1f3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-vietnam_1f1fb-1f1f3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-vietnam_1f1fb-1f1f3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-vietnam_1f1fb-1f1f3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-vietnam_1f1fb-1f1f3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FB;&#x1F1F3;",
+      "HTML dec": "&#127483;&#127475;",
+      "URL escape code": "%F0%9F%87%BB%F0%9F%87%B3",
+      "Punycode": "xn--r77hpa",
+      "Bytes (UTF-8)": "F0 9F 87 BB F0 9F 87 B3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFB\\uD83C\\uDDF3",
+      "C, C++, Python": "\\U0001f1fb\\U0001f1f3",
+      "CSS": "\\01F1FB \\01F1F3",
+      "PHP, Ruby": "\\u{1F1FB}\\u{1F1F3}",
+      "Perl": "\\x{1F1FB}\\x{1F1F3}"
+    }
+  }
+}

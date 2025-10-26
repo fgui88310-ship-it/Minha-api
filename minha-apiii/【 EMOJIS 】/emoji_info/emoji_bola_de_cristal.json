@@ -1,0 +1,96 @@
+{
+  "emoji": "🔮",
+  "nome": "🔮 Bola de cristal",
+  "categoria": "crystal ball",
+  "url": "https://emojigraph.org/pt/crystal-ball/",
+  "detalhes": {
+    "explicacao": "Uma bola de cristal, como uma vidente ou clarividente ao olhar para dizer o futuro. Descrito como uma opaca, órbita roxa ou azul cristal ao descansar em um suporte.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/crystal-ball_1f52e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/crystal-ball_1f52e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "adivinhação",
+      "bola",
+      "bola de cristal",
+      "cristal",
+      "destino",
+      "prever o futuro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F52E;",
+      "HTML dec": "&#128302;",
+      "URL escape code": "%F0%9F%94%AE",
+      "Punycode": "xn--ew8h",
+      "Bytes (UTF-8)": "F0 9F 94 AE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD2E",
+      "C, C++, Python": "\\U0001f52e",
+      "CSS": "\\01F52E",
+      "PHP, Ruby": "\\u{1F52E}",
+      "Perl": "\\x{1F52E}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "👤",
+  "nome": "👤 Silhueta de busto",
+  "categoria": "bust in silhouette",
+  "url": "https://emojigraph.org/pt/bust-in-silhouette/",
+  "detalhes": {
+    "explicacao": "Perfil genérico de uma pessoa. Muitas vezes usado em design de interface para representar um usuário.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bust-in-silhouette_1f464.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/bust-in-silhouette_1f464.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "busto",
+      "pessoas",
+      "silhueta",
+      "mistério",
+      "sombra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F464;",
+      "HTML dec": "&#128100;",
+      "URL escape code": "%F0%9F%91%A4",
+      "Punycode": "xn--mq8h",
+      "Bytes (UTF-8)": "F0 9F 91 A4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC64",
+      "C, C++, Python": "\\U0001f464",
+      "CSS": "\\01F464",
+      "PHP, Ruby": "\\u{1F464}",
+      "Perl": "\\x{1F464}"
+    }
+  }
+}

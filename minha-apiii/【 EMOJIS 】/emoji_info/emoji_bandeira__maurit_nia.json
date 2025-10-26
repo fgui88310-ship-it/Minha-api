@@ -1,0 +1,59 @@
+{
+  "emoji": "🇲🇷",
+  "nome": "🇲🇷 Bandeira: Mauritânia",
+  "categoria": "flag mauritania",
+  "url": "https://emojigraph.org/pt/flag-mauritania/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Mauritânia. Este símbolo é uma seqüência de caracteres 🇲 Símbolo Indicador Regional Letra М e 🇷 Símbolo Indicador Regional Letra R. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras MR em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-mauritania_1f1f2-1f1f7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-mauritania_1f1f2-1f1f7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-mauritania_1f1f2-1f1f7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-mauritania_1f1f2-1f1f7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-mauritania_1f1f2-1f1f7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-mauritania_1f1f2-1f1f7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-mauritania_1f1f2-1f1f7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-mauritania_1f1f2-1f1f7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F2;&#x1F1F7;",
+      "HTML dec": "&#127474;&#127479;",
+      "URL escape code": "%F0%9F%87%B2%F0%9F%87%B7",
+      "Punycode": "xn--q77hka",
+      "Bytes (UTF-8)": "F0 9F 87 B2 F0 9F 87 B7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF2\\uD83C\\uDDF7",
+      "C, C++, Python": "\\U0001f1f2\\U0001f1f7",
+      "CSS": "\\01F1F2 \\01F1F7",
+      "PHP, Ruby": "\\u{1F1F2}\\u{1F1F7}",
+      "Perl": "\\x{1F1F2}\\x{1F1F7}"
+    }
+  }
+}

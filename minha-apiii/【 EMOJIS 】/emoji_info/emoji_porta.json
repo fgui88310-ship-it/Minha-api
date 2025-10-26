@@ -1,0 +1,92 @@
+{
+  "emoji": "🚪",
+  "nome": "🚪 Porta",
+  "categoria": "Door",
+  "url": "https://emojigraph.org/pt/door/",
+  "detalhes": {
+    "explicacao": "Uma porta, como a entrada de um quarto, casa, ou nova oportunidade. (Nós vamos nos ver de fora 🚪🚶.) Retratado na cor marrom, como feito de madeira, com um identificador de ouro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/door_1f6aa.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/door_1f6aa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "porta",
+      "fechada"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6AA;",
+      "HTML dec": "&#128682;",
+      "URL escape code": "%F0%9F%9A%AA",
+      "Punycode": "xn--868h",
+      "Bytes (UTF-8)": "F0 9F 9A AA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEAA",
+      "C, C++, Python": "\\U0001f6aa",
+      "CSS": "\\01F6AA",
+      "PHP, Ruby": "\\u{1F6AA}",
+      "Perl": "\\x{1F6AA}"
+    }
+  }
+}

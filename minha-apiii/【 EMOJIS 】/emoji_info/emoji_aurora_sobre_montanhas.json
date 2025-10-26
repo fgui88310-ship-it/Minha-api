@@ -1,0 +1,92 @@
+{
+  "emoji": "🌄",
+  "nome": "🌄 Aurora sobre montanhas",
+  "categoria": "sunrise over mountains",
+  "url": "https://emojigraph.org/pt/sunrise-over-mountains/",
+  "detalhes": {
+    "explicacao": "O nascer do sol sobre uma montanha, de manhã cedo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sunrise-over-mountains_1f304.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/sunrise-over-mountains_1f304.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "montanha",
+      "sol da manhã"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F304;",
+      "HTML dec": "&#127748;",
+      "URL escape code": "%F0%9F%8C%84",
+      "Punycode": "xn--kg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 84",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF04",
+      "C, C++, Python": "\\U0001f304",
+      "CSS": "\\01F304",
+      "PHP, Ruby": "\\u{1F304}",
+      "Perl": "\\x{1F304}"
+    }
+  }
+}

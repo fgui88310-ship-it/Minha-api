@@ -1,0 +1,82 @@
+{
+  "emoji": "🤠",
+  "nome": "🤠 Rosto com chapéu de caubói",
+  "categoria": "cowboy hat face",
+  "url": "https://emojigraph.org/pt/cowboy-hat-face/",
+  "detalhes": {
+    "explicacao": "Yee-haw! Um sorriso amarelo vestindo um chapéu de abas largas,chapéu de cowboy em cor marrom-couro. Seu sorriso varia entre plataformas. Pode transmitir uma sensação de exuberância, irrisório, de confiança, de aventura, ou outros sentimentos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cowboy-hat-face_1f920.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cowboy-hat-face_1f920.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cowboy-hat-face_1f920.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cowboy-hat-face_1f920.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cowboy-hat-face_1f920.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cowboy-hat-face_1f920.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cowboy-hat-face_1f920.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cowboy-hat-face_1f920.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cowboy-hat-face_1f920.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cowboy-hat-face_1f920.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cowboy-hat-face_1f920.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/cowboy-hat-face_1f920.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caubói",
+      "rosto",
+      "cara",
+      "cara de cauboi",
+      "cauboi",
+      "cowboy",
+      "sertanejo",
+      "vaqueiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F920;",
+      "HTML dec": "&#129312;",
+      "URL escape code": "%F0%9F%A4%A0",
+      "Punycode": "xn--8p9h",
+      "Bytes (UTF-8)": "F0 9F A4 A0",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD20",
+      "C, C++, Python": "\\U0001f920",
+      "CSS": "\\01F920",
+      "PHP, Ruby": "\\u{1F920}",
+      "Perl": "\\x{1F920}"
+    }
+  }
+}

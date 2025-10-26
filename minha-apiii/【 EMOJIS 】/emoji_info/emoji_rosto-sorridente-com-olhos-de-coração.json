@@ -1,0 +1,97 @@
+{
+  "emoji": "😍",
+  "nome": "😍 Rosto sorridente com olhos de coração",
+  "categoria": "Smiling Face With Heart Eyes",
+  "url": "https://emojigraph.org/pt/smiling-face-with-heart-eyes/",
+  "detalhes": {
+    "explicacao": "Uma cara amarela, com um sorriso aberto, às vezes mostrando os dentes, e vermelho, estilo cartoon com corações nos olhos. Muitas vezes transmite entusiasmo sentimentos de amor, paixão e adoração, por exemplo, I amor/estou em amor com essa pessoa ou coisa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/smiling-face-with-heart-eyes_1f60d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/smiling-face-with-heart-eyes_1f60d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amor",
+      "coração",
+      "olhos",
+      "rosto",
+      "apaixonado",
+      "paixão",
+      "romance"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F60D;",
+      "HTML dec": "&#128525;",
+      "URL escape code": "%F0%9F%98%8D",
+      "Punycode": "xn--r28h",
+      "Bytes (UTF-8)": "F0 9F 98 8D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE0D",
+      "C, C++, Python": "\\U0001f60d",
+      "CSS": "\\01F60D",
+      "PHP, Ruby": "\\u{1F60D}",
+      "Perl": "\\x{1F60D}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "📠",
+  "nome": "📠 Fax",
+  "categoria": "Fax Machine",
+  "url": "https://emojigraph.org/pt/fax-machine/",
+  "detalhes": {
+    "explicacao": "Uma máquina de fax, como analisa e transmite documentos através de uma linha telefônica. Comum na década de 1980–90, antes da internet. Retratado como branco ou preto máquina com um aparelho de telefone, teclado, tela de exibição, e o papel na bandeja. Muito ocasionalmente usado como ícone antes de um número de fax ou como um trocadilho facts.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fax-machine_1f4e0.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/fax-machine_1f4e0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comunicação",
+      "fax",
+      "máquina de fax"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4E0;",
+      "HTML dec": "&#128224;",
+      "URL escape code": "%F0%9F%93%A0",
+      "Punycode": "xn--5t8h",
+      "Bytes (UTF-8)": "F0 9F 93 A0",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCE0",
+      "C, C++, Python": "\\U0001f4e0",
+      "CSS": "\\01F4E0",
+      "PHP, Ruby": "\\u{1F4E0}",
+      "Perl": "\\x{1F4E0}"
+    }
+  }
+}

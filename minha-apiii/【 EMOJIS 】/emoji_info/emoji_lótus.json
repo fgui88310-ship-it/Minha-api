@@ -1,0 +1,78 @@
+{
+  "emoji": "🪷",
+  "nome": "🪷 Lótus",
+  "categoria": "Lotus",
+  "url": "https://emojigraph.org/pt/lotus/",
+  "detalhes": {
+    "explicacao": "Uma flor de lótus desabrochando. Usado para representar o conceito geral de pureza, calma, elegância e beleza. Também pode representar meditação, especialmente se usado com o 🧘 Pessoa na posição de lótus .",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lotus_1fab7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lotus_1fab7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lotus_1fab7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lotus_1fab7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lotus_1fab7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lotus_1fab7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lotus_1fab7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lotus_1fab7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lotus_1fab7.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/lotus_1fab7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "budismo",
+      "flor",
+      "hinduísmo",
+      "Índia",
+      "lótus",
+      "pureza",
+      "Vietnã",
+      "beleza",
+      "calma",
+      "flor de lótus",
+      "paz",
+      "serenidade"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAB7;",
+      "HTML dec": "&#129719;",
+      "URL escape code": "%F0%9F%AA%B7",
+      "Punycode": "xn--v19h",
+      "Bytes (UTF-8)": "f0 9f aa b7",
+      "JavaScript, JSON, Java": "\\ud83e\\udeb7",
+      "C, C++, Python": "\\U0001fab7",
+      "CSS": "\\01FAB7",
+      "PHP, Ruby": "\\u{1FAB7}",
+      "Perl": "\\x{1FAB7}"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "emoji": "👑",
+  "nome": "👑 Coroa",
+  "categoria": "Crown",
+  "url": "https://emojigraph.org/pt/crown/",
+  "detalhes": {
+    "explicacao": "Uma coroa de ouro com jóias de ambos os lados. Representando um Rei, ou a Rainha, ou outra forma de Realeza.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crown_1f451.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crown_1f451.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crown_1f451.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crown_1f451.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crown_1f451.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crown_1f451.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crown_1f451.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/crown_1f451.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crown_1f451.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crown_1f451.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/crown_1f451.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/crown_1f451.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/crown_1f451.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/crown_1f451.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/crown_1f451.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/crown_1f451.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "coroa",
+      "família real",
+      "game of thrones",
+      "medieval",
+      "rainha",
+      "realeza",
+      "rei",
+      "reinado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F451;",
+      "HTML dec": "&#128081;",
+      "URL escape code": "%F0%9F%91%91",
+      "Punycode": "xn--2p8h",
+      "Bytes (UTF-8)": "F0 9F 91 91",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC51",
+      "C, C++, Python": "\\U0001f451",
+      "CSS": "\\01F451",
+      "PHP, Ruby": "\\u{1F451}",
+      "Perl": "\\x{1F451}"
+    }
+  }
+}

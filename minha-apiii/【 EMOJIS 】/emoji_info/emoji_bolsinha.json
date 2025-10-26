@@ -1,0 +1,96 @@
+{
+  "emoji": "👛",
+  "nome": "👛 Bolsinha",
+  "categoria": "Purse",
+  "url": "https://emojigraph.org/pt/purse/",
+  "detalhes": {
+    "explicacao": "Uma bolsa com fecho, geralmente usado para manter moedas ou outras formas de moeda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/purse_1f45b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/purse_1f45b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "bolsinha",
+      "moedas",
+      "niqueleira",
+      "bolsa rosa",
+      "porta moeda"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F45B;",
+      "HTML dec": "&#128091;",
+      "URL escape code": "%F0%9F%91%9B",
+      "Punycode": "xn--dq8h",
+      "Bytes (UTF-8)": "F0 9F 91 9B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC5B",
+      "C, C++, Python": "\\U0001f45b",
+      "CSS": "\\01F45B",
+      "PHP, Ruby": "\\u{1F45B}",
+      "Perl": "\\x{1F45B}"
+    }
+  }
+}

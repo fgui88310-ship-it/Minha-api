@@ -1,0 +1,59 @@
+{
+  "emoji": "🇲🇬",
+  "nome": "🇲🇬 Bandeira: Madagascar",
+  "categoria": "flag madagascar",
+  "url": "https://emojigraph.org/pt/flag-madagascar/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Madagascar. Este símbolo é uma seqüência de caracteres 🇲 Símbolo Indicador Regional Letra М e 🇬 Símbolo Indicador Regional Letra G. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras MG em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-madagascar_1f1f2-1f1ec.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-madagascar_1f1f2-1f1ec.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-madagascar_1f1f2-1f1ec.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-madagascar_1f1f2-1f1ec.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-madagascar_1f1f2-1f1ec.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-madagascar_1f1f2-1f1ec.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-madagascar_1f1f2-1f1ec.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-madagascar_1f1f2-1f1ec.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F2;&#x1F1EC;",
+      "HTML dec": "&#127474;&#127468;",
+      "URL escape code": "%F0%9F%87%B2%F0%9F%87%AC",
+      "Punycode": "xn--k77hla",
+      "Bytes (UTF-8)": "F0 9F 87 B2 F0 9F 87 AC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF2\\uD83C\\uDDEC",
+      "C, C++, Python": "\\U0001f1f2\\U0001f1ec",
+      "CSS": "\\01F1F2 \\01F1EC",
+      "PHP, Ruby": "\\u{1F1F2}\\u{1F1EC}",
+      "Perl": "\\x{1F1F2}\\x{1F1EC}"
+    }
+  }
+}

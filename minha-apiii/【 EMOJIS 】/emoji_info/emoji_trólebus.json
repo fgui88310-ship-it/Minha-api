@@ -1,0 +1,86 @@
+{
+  "emoji": "🚎",
+  "nome": "🚎 Trólebus",
+  "categoria": "Trolleybus",
+  "url": "https://emojigraph.org/pt/trolleybus/",
+  "detalhes": {
+    "explicacao": "Um tipo de barramento que utiliza a sobrecarga de fios elétricos de potência. É semelhante a uma cruz entre um ônibus e um carro eléctrico.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/trolleybus_1f68e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/trolleybus_1f68e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bonde elétrico",
+      "ônibus",
+      "veículo",
+      "trólebus"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F68E;",
+      "HTML dec": "&#128654;",
+      "URL escape code": "%F0%9F%9A%8E",
+      "Punycode": "xn--g68h",
+      "Bytes (UTF-8)": "F0 9F 9A 8E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE8E",
+      "C, C++, Python": "\\U0001f68e",
+      "CSS": "\\01F68E",
+      "PHP, Ruby": "\\u{1F68E}",
+      "Perl": "\\x{1F68E}"
+    }
+  }
+}

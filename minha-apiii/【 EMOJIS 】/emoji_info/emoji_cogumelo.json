@@ -1,0 +1,95 @@
+{
+  "emoji": "🍄",
+  "nome": "🍄 Cogumelo",
+  "categoria": "Mushroom",
+  "url": "https://emojigraph.org/pt/mushroom/",
+  "detalhes": {
+    "explicacao": "O fungo comestível do cogumelo, retratado como um fungo com um branco manchado de vermelho pac e do caule.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/mushroom_1f344.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/mushroom_1f344.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "champignon",
+      "cogumelo",
+      "fungo",
+      "mario",
+      "planta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F344;",
+      "HTML dec": "&#127812;",
+      "URL escape code": "%F0%9F%8D%84",
+      "Punycode": "xn--ei8h",
+      "Bytes (UTF-8)": "F0 9F 8D 84",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF44",
+      "C, C++, Python": "\\U0001f344",
+      "CSS": "\\01F344",
+      "PHP, Ruby": "\\u{1F344}",
+      "Perl": "\\x{1F344}"
+    }
+  }
+}

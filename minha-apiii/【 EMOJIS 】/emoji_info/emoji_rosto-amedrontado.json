@@ -1,0 +1,96 @@
+{
+  "emoji": "😨",
+  "nome": "😨 Rosto amedrontado",
+  "categoria": "Fearful Face",
+  "url": "https://emojigraph.org/pt/fearful-face/",
+  "detalhes": {
+    "explicacao": "Um cara com os olhos arregalados, com a testa franzida, sobrancelhas levantadas e um azul de pálidez na testa, como se enfrentando um frio. O design da Samsung mostra os dentes de cima e a língua.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fearful-face_1f628.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/fearful-face_1f628.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "assustado",
+      "rosto",
+      "ansiedade",
+      "com medo",
+      "medo",
+      "preocupado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F628;",
+      "HTML dec": "&#128552;",
+      "URL escape code": "%F0%9F%98%A8",
+      "Punycode": "xn--j38h",
+      "Bytes (UTF-8)": "F0 9F 98 A8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE28",
+      "C, C++, Python": "\\U0001f628",
+      "CSS": "\\01F628",
+      "PHP, Ruby": "\\u{1F628}",
+      "Perl": "\\x{1F628}"
+    }
+  }
+}

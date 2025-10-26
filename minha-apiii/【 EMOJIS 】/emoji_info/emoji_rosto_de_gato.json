@@ -1,0 +1,96 @@
+{
+  "emoji": "🐱",
+  "nome": "🐱 Rosto de gato",
+  "categoria": "cat face",
+  "url": "https://emojigraph.org/pt/cat-face/",
+  "detalhes": {
+    "explicacao": "Miau! Um amigável, rosto de gato estilo-cartoon, olhando para a frente. Geralmente retratado como um gato do rosto laranja-amarelado com as pontas das orelhas e bigodes.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cat-face_1f431.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cat-face_1f431.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "gato",
+      "rosto",
+      "rosto de gato",
+      "felino",
+      "gatinho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F431;",
+      "HTML dec": "&#128049;",
+      "URL escape code": "%F0%9F%90%B1",
+      "Punycode": "xn--5o8h",
+      "Bytes (UTF-8)": "F0 9F 90 B1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC31",
+      "C, C++, Python": "\\U0001f431",
+      "CSS": "\\01F431",
+      "PHP, Ruby": "\\u{1F431}",
+      "Perl": "\\x{1F431}"
+    }
+  }
+}

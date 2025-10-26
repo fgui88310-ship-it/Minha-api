@@ -1,0 +1,92 @@
+{
+  "emoji": "🐦",
+  "nome": "🐦 Pássaro",
+  "categoria": "bird",
+  "url": "https://emojigraph.org/pt/bird/",
+  "detalhes": {
+    "explicacao": "Um genérico de aves. Comumente descrito como um pássaro azul ou vermelho, como um pássaro azul ou cardeal, mostrado de pé em perfil completo, ou somente com a cabeça de um pássaro. Ambos os projetos mostram o pássaro virado para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bird_1f426.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bird_1f426.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bird_1f426.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bird_1f426.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bird_1f426.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bird_1f426.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bird_1f426.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bird_1f426.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bird_1f426.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bird_1f426.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bird_1f426.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bird_1f426.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bird_1f426.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bird_1f426.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bird_1f426.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/bird_1f426.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "pássaro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F426;",
+      "HTML dec": "&#128038;",
+      "URL escape code": "%F0%9F%90%A6",
+      "Punycode": "xn--uo8h",
+      "Bytes (UTF-8)": "F0 9F 90 A6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC26",
+      "C, C++, Python": "\\U0001f426",
+      "CSS": "\\01F426",
+      "PHP, Ruby": "\\u{1F426}",
+      "Perl": "\\x{1F426}"
+    }
+  }
+}

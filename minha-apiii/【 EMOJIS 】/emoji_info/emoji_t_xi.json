@@ -1,0 +1,92 @@
+{
+  "emoji": "🚕",
+  "nome": "🚕 Táxi",
+  "categoria": "taxi",
+  "url": "https://emojigraph.org/pt/taxi/",
+  "detalhes": {
+    "explicacao": "Um táxi amarelo, iconically visto na Cidade de Nova York. Mostrado do lado, ao contrário do que se aproxima do táxi emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/taxi_1f695.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/taxi_1f695.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "táxi",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F695;",
+      "HTML dec": "&#128661;",
+      "URL escape code": "%F0%9F%9A%95",
+      "Punycode": "xn--n68h",
+      "Bytes (UTF-8)": "F0 9F 9A 95",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE95",
+      "C, C++, Python": "\\U0001f695",
+      "CSS": "\\01F695",
+      "PHP, Ruby": "\\u{1F695}",
+      "Perl": "\\x{1F695}"
+    }
+  }
+}

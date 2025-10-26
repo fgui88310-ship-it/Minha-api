@@ -1,0 +1,86 @@
+{
+  "emoji": "😯",
+  "nome": "😯 Rosto surpreso",
+  "categoria": "hushed face",
+  "url": "https://emojigraph.org/pt/hushed-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com pequenas, abra os olhos, levantou as sobrancelhas, e uma pequena, de boca aberta, como se ela tivesse sido abafado por preocupação ou correção. Significado varia bastante, mas a sua expressão é comumente tomado como surpresa, constrangimento ou suave emoção.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hushed-face_1f62f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hushed-face_1f62f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "espantado",
+      "rosto",
+      "surpreso",
+      "uau"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F62F;",
+      "HTML dec": "&#128559;",
+      "URL escape code": "%F0%9F%98%AF",
+      "Punycode": "xn--q38h",
+      "Bytes (UTF-8)": "F0 9F 98 AF",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE2F",
+      "C, C++, Python": "\\U0001f62f",
+      "CSS": "\\01F62F",
+      "PHP, Ruby": "\\u{1F62F}",
+      "Perl": "\\x{1F62F}"
+    }
+  }
+}

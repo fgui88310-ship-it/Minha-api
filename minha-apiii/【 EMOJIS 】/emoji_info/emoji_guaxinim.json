@@ -1,0 +1,71 @@
+{
+  "emoji": "🦝",
+  "nome": "🦝 Guaxinim",
+  "categoria": "Raccoon",
+  "url": "https://emojigraph.org/pt/raccoon/",
+  "detalhes": {
+    "explicacao": "Um guaxinim, um mamífero noturno com uma máscara ao redor dos olhos. Geralmente retratado como um amistoso, caricaturado, guiaxinim cinza, rosto olhando diretamente para a frente, com marcações em torno de seus olhos o preto-e-branco e suas bochechas e orelhas fofas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/raccoon_1f99d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/raccoon_1f99d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/raccoon_1f99d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/raccoon_1f99d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/raccoon_1f99d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/raccoon_1f99d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/raccoon_1f99d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/raccoon_1f99d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/raccoon_1f99d.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/raccoon_1f99d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "astuto",
+      "curioso",
+      "guaxinim",
+      "animal",
+      "travesso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F99D;",
+      "HTML dec": "&#129437;",
+      "URL escape code": "%F0%9F%A6%9D",
+      "Punycode": "xn--tt9h",
+      "Bytes (UTF-8)": "F0 9F A6 9D",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD9D",
+      "C, C++, Python": "\\U0001f99d",
+      "CSS": "\\01F99D",
+      "PHP, Ruby": "\\u{1F99D}",
+      "Perl": "\\x{1F99D}"
+    }
+  }
+}

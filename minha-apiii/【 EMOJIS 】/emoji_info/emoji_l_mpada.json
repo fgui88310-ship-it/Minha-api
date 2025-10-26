@@ -1,0 +1,96 @@
+{
+  "emoji": "💡",
+  "nome": "💡 Lâmpada",
+  "categoria": "light bulb",
+  "url": "https://emojigraph.org/pt/light-bulb/",
+  "detalhes": {
+    "explicacao": "Uma lâmpada, para iluminar uma sala. Descrito como uma lâmpada incandescente com uma base de prata, muitas vezes mostrado com filamento, de brilho branco-amarelado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/light-bulb_1f4a1.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/light-bulb_1f4a1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "elétrica",
+      "ideia",
+      "lâmpada",
+      "luz",
+      "quadrinhos",
+      "tenho uma ideia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4A1;",
+      "HTML dec": "&#128161;",
+      "URL escape code": "%F0%9F%92%A1",
+      "Punycode": "xn--ds8h",
+      "Bytes (UTF-8)": "F0 9F 92 A1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCA1",
+      "C, C++, Python": "\\U0001f4a1",
+      "CSS": "\\01F4A1",
+      "PHP, Ruby": "\\u{1F4A1}",
+      "Perl": "\\x{1F4A1}"
+    }
+  }
+}

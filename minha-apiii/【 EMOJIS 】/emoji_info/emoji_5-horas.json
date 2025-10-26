@@ -1,0 +1,86 @@
+{
+  "emoji": "🕔",
+  "nome": "🕔 5 horas",
+  "categoria": "Five Oclock",
+  "url": "https://emojigraph.org/pt/five-oclock/",
+  "detalhes": {
+    "explicacao": "Cinco Horas foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Cinco Horas\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/five-oclock_1f554.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/five-oclock_1f554.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "5 horas",
+      "5h00",
+      "cinco",
+      "relógio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F554;",
+      "HTML dec": "&#128340;",
+      "URL escape code": "%F0%9F%95%94",
+      "Punycode": "xn--hx8h",
+      "Bytes (UTF-8)": "F0 9F 95 94",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD54",
+      "C, C++, Python": "\\U0001f554",
+      "CSS": "\\01F554",
+      "PHP, Ruby": "\\u{1F554}",
+      "Perl": "\\x{1F554}"
+    }
+  }
+}

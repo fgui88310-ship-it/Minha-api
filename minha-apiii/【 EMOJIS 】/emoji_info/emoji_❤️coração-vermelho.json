@@ -1,0 +1,92 @@
+{
+  "emoji": "",
+  "nome": "❤️ Coração vermelho",
+  "categoria": "Red Heart",
+  "url": "https://emojigraph.org/pt/red-heart/",
+  "detalhes": {
+    "explicacao": "Um clássico do amor, o coração vermelho emoji, usado para expressões de amor. Exibido em vários tons de vermelho na maioria das plataformas. Um semelhante emoji existe para o coração de copas do baralho de cartas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/red-heart_2764-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/red-heart_2764-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amor",
+      "coração"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2764;&#xFE0F;",
+      "HTML dec": "&#10084;&#65039;",
+      "URL escape code": "%E2%9D%A4%EF%B8%8F",
+      "Punycode": "xn--qei",
+      "Bytes (UTF-8)": "E2 9D A4 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2764\\uFE0F",
+      "C, C++, Python": "\\u2764\\uFE0F",
+      "CSS": "\\2764 \\FE0F",
+      "PHP, Ruby": "\\u{2764}\\u{FE0F}",
+      "Perl": "\\x{2764}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "💎",
+  "nome": "💎 Pedra preciosa",
+  "categoria": "Gem Stone",
+  "url": "https://emojigraph.org/pt/gem-stone/",
+  "detalhes": {
+    "explicacao": "Uma jóia ou pedra, como definido em um anel. Representado na forma de um clássico diamante, mas na cor azul brilhante de uma água-marinha.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/gem-stone_1f48e.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/gem-stone_1f48e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "diamante",
+      "joia",
+      "pedra preciosa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F48E;",
+      "HTML dec": "&#128142;",
+      "URL escape code": "%F0%9F%92%8E",
+      "Punycode": "xn--tr8h",
+      "Bytes (UTF-8)": "F0 9F 92 8E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC8E",
+      "C, C++, Python": "\\U0001f48e",
+      "CSS": "\\01F48E",
+      "PHP, Ruby": "\\u{1F48E}",
+      "Perl": "\\x{1F48E}"
+    }
+  }
+}

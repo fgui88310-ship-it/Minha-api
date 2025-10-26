@@ -1,0 +1,61 @@
+{
+  "emoji": "🪙",
+  "nome": "🪙 Moeda",
+  "categoria": "Coin",
+  "url": "https://emojigraph.org/pt/coin/",
+  "detalhes": {
+    "explicacao": "Uma única moeda de ouro. Freqüentemente usado quando se fala em dinheiro. Moeda foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/coin_1fa99.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/coin_1fa99.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/coin_1fa99.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/coin_1fa99.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/coin_1fa99.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/coin_1fa99.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dinheiro",
+      "metal",
+      "moeda",
+      "ouro",
+      "prata",
+      "tesouro",
+      "dólar",
+      "euro",
+      "real",
+      "rica",
+      "rico"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA99;",
+      "HTML dec": "&#129689;",
+      "URL escape code": "%F0%9F%AA%99",
+      "Punycode": "xn--009h",
+      "Bytes (UTF-8)": "F0 9F AA 99",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE99",
+      "C, C++, Python": "\\U0001fa99",
+      "CSS": "\\01FA99",
+      "PHP, Ruby": "\\u{1FA99}",
+      "Perl": "\\x{1FA99}"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍🔬 Cientista",
+  "categoria": "scientist",
+  "url": "https://emojigraph.org/pt/scientist/",
+  "detalhes": {
+    "explicacao": "O Cientista emoji é uma sequência do 🧑 Adultos e 🔬 Microscópio emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/scientist_1f9d1-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/scientist_1f9d1-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/scientist_1f9d1-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/scientist_1f9d1-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/scientist_1f9d1-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/scientist_1f9d1-200d-1f52c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "biólogo",
+      "cientista",
+      "engenheiro",
+      "físico",
+      "químico"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F52C;",
+      "HTML dec": "&#129489;&#8205;&#128300;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%94%AC",
+      "Punycode": "xn--cw8hj8e",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F 94 AC",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83D\\uDD2C",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f52c",
+      "CSS": "\\01F9D1 \\200D \\01F52C",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F52C}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F52C}"
+    }
+  }
+}

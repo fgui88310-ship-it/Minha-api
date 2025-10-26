@@ -1,0 +1,67 @@
+{
+  "emoji": "🇮🇪",
+  "nome": "🇮🇪 Bandeira: Irlanda",
+  "categoria": "flag ireland",
+  "url": "https://emojigraph.org/pt/flag-ireland/",
+  "detalhes": {
+    "explicacao": "A bandeira para a Irlanda, que pode mostrar como as letras IE em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-ireland_1f1ee-1f1ea.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-ireland_1f1ee-1f1ea.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-ireland_1f1ee-1f1ea.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-ireland_1f1ee-1f1ea.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-ireland_1f1ee-1f1ea.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-ireland_1f1ee-1f1ea.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-ireland_1f1ee-1f1ea.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-ireland_1f1ee-1f1ea.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-ireland_1f1ee-1f1ea.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-ireland_1f1ee-1f1ea.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EE;&#x1F1EA;",
+      "HTML dec": "&#127470;&#127466;",
+      "URL escape code": "%F0%9F%87%AE%F0%9F%87%AA",
+      "Punycode": "xn--i77hha",
+      "Bytes (UTF-8)": "F0 9F 87 AE F0 9F 87 AA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEE\\uD83C\\uDDEA",
+      "C, C++, Python": "\\U0001f1ee\\U0001f1ea",
+      "CSS": "\\01F1EE \\01F1EA",
+      "PHP, Ruby": "\\u{1F1EE}\\u{1F1EA}",
+      "Perl": "\\x{1F1EE}\\x{1F1EA}"
+    }
+  }
+}

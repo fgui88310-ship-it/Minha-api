@@ -1,0 +1,72 @@
+{
+  "emoji": "🦂",
+  "nome": "🦂 Escorpião",
+  "categoria": "Scorpion",
+  "url": "https://emojigraph.org/pt/scorpion/",
+  "detalhes": {
+    "explicacao": "Um escorpião, um aracnídeo com lagosta, como pinças e um ardor de cauda. Descrito como uma luz marrom-escorpião de, acima de, muitas vezes, virada para a esquerda, com as suas tenazes e ferrão curvas levantadas. Mostrado com seis ou, com precisão, oito pernas, além de suas pinças.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/scorpion_1f982.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/scorpion_1f982.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/scorpion_1f982.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/scorpion_1f982.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/scorpion_1f982.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/scorpion_1f982.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/scorpion_1f982.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/scorpion_1f982.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/scorpion_1f982.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/scorpion_1f982.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "escorpião",
+      "Escorpião",
+      "inseto",
+      "zodíaco",
+      "animal",
+      "deserto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F982;",
+      "HTML dec": "&#129410;",
+      "URL escape code": "%F0%9F%A6%82",
+      "Punycode": "xn--1s9h",
+      "Bytes (UTF-8)": "F0 9F A6 82",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD82",
+      "C, C++, Python": "\\U0001f982",
+      "CSS": "\\01F982",
+      "PHP, Ruby": "\\u{1F982}",
+      "Perl": "\\x{1F982}"
+    }
+  }
+}

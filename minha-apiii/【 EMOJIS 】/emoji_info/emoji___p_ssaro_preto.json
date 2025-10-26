@@ -1,0 +1,74 @@
+{
+  "emoji": "🐦",
+  "nome": "🐦‍⬛ Pássaro preto",
+  "categoria": "black bird",
+  "url": "https://emojigraph.org/pt/black-bird/",
+  "detalhes": {
+    "explicacao": "Pássaro completamente coberta de penas pretas, com bico e membros posteriores amarelos, laranja ou pretos. O emoji Black Bird é frequentemente representado como um corvo ou corvo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/black-bird_1f426-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/black-bird_1f426-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/black-bird_1f426-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/black-bird_1f426-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/black-bird_1f426-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/black-bird_1f426-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/black-bird_1f426-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/black-bird_1f426-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/black-bird_1f426-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/black-bird_1f426-200d-2b1b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pássaro",
+      "preto",
+      "corvo",
+      "raven",
+      "gralha",
+      "animal",
+      "ave",
+      "bico",
+      "passarinho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F426;&#x200D;&#x2B1B;",
+      "HTML dec": "&#128038;&#8205;&#11035;",
+      "URL escape code": "%F0%9F%90%A6%E2%80%8D%E2%AC%9B",
+      "Bytes (UTF-8)": "f0 9f 90 a6 e2 80 8d e2 ac 9b",
+      "JavaScript, JSON, Java": "\\ud83d\\udc26\\u200d\\u2b1b",
+      "C, C++, Python": "\\U0001f426\\u000200d\\u0002b1b",
+      "CSS": "\\01F426 \\0200D \\02B1B",
+      "PHP, Ruby": "\\u{1F426}\\u{200D}\\u{2B1B}",
+      "Perl": "\\x{1F426}\\x{200D}\\x{2B1B}"
+    }
+  }
+}

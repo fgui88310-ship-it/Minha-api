@@ -1,0 +1,67 @@
+{
+  "emoji": "🇨🇷",
+  "nome": "🇨🇷 Bandeira: Costa Rica",
+  "categoria": "flag costa rica",
+  "url": "https://emojigraph.org/pt/flag-costa-rica/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Costa Rica. Este símbolo é uma seqüência de caracteres 🇨 Símbolo Indicador Regional Letra C e 🇷 Símbolo Indicador Regional Letra R. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras CR em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-costa-rica_1f1e8-1f1f7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-costa-rica_1f1e8-1f1f7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-costa-rica_1f1e8-1f1f7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-costa-rica_1f1e8-1f1f7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-costa-rica_1f1e8-1f1f7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-costa-rica_1f1e8-1f1f7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-costa-rica_1f1e8-1f1f7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-costa-rica_1f1e8-1f1f7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-costa-rica_1f1e8-1f1f7.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-costa-rica_1f1e8-1f1f7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E8;&#x1F1F7;",
+      "HTML dec": "&#127464;&#127479;",
+      "URL escape code": "%F0%9F%87%A8%F0%9F%87%B7",
+      "Punycode": "xn--g77h4a",
+      "Bytes (UTF-8)": "F0 9F 87 A8 F0 9F 87 B7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE8\\uD83C\\uDDF7",
+      "C, C++, Python": "\\U0001f1e8\\U0001f1f7",
+      "CSS": "\\01F1E8 \\01F1F7",
+      "PHP, Ruby": "\\u{1F1E8}\\u{1F1F7}",
+      "Perl": "\\x{1F1E8}\\x{1F1F7}"
+    }
+  }
+}

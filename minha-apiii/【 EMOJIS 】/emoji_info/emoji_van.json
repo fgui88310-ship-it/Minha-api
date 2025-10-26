@@ -1,0 +1,87 @@
+{
+  "emoji": "🚐",
+  "nome": "🚐 Van",
+  "categoria": "Minibus",
+  "url": "https://emojigraph.org/pt/minibus/",
+  "detalhes": {
+    "explicacao": "Um pequeno autocarro ou minivan projetado para transportar menos pessoas do que o tamanho normal de ônibus. Exibido em branco na maioria das plataformas (verde no Facebook).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/minibus_1f690.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/minibus_1f690.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ônibus",
+      "van",
+      "veículo",
+      "mini ônibus",
+      "veraneio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F690;",
+      "HTML dec": "&#128656;",
+      "URL escape code": "%F0%9F%9A%90",
+      "Punycode": "xn--i68h",
+      "Bytes (UTF-8)": "F0 9F 9A 90",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE90",
+      "C, C++, Python": "\\U0001f690",
+      "CSS": "\\01F690",
+      "PHP, Ruby": "\\u{1F690}",
+      "Perl": "\\x{1F690}"
+    }
+  }
+}

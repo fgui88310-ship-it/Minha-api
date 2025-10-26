@@ -1,0 +1,71 @@
+{
+  "emoji": "🤭",
+  "nome": "🤭 Rosto com a mão sobre a boca",
+  "categoria": "Face With Hand Over Mouth",
+  "url": "https://emojigraph.org/pt/face-with-hand-over-mouth/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com uma mão cobrindo a boca. Na Apple e no Facebook são recursos simples, abrindo os olhos, sugerindo alguém ofegante Oh meu! surpresa inesperada, choque, preocupação, ou pedido de desculpas. Outras plataformas retratam um rosto com olhos sorridentes e/ou as bochechas coradas, sugerindo risos tímidos ou constrangimento, como se descaradamente dizendo _Oops! _",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-hand-over-mouth_1f92d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-hand-over-mouth_1f92d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-hand-over-mouth_1f92d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-hand-over-mouth_1f92d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-hand-over-mouth_1f92d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-hand-over-mouth_1f92d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-hand-over-mouth_1f92d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-hand-over-mouth_1f92d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-hand-over-mouth_1f92d.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/face-with-hand-over-mouth_1f92d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ops",
+      "hehe",
+      "risadinha",
+      "risonho",
+      "vergonha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F92D;",
+      "HTML dec": "&#129325;",
+      "URL escape code": "%F0%9F%A4%AD",
+      "Punycode": "xn--mq9h",
+      "Bytes (UTF-8)": "F0 9F A4 AD",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD2D",
+      "C, C++, Python": "\\U0001f92d",
+      "CSS": "\\01F92D",
+      "PHP, Ruby": "\\u{1F92D}",
+      "Perl": "\\x{1F92D}"
+    }
+  }
+}

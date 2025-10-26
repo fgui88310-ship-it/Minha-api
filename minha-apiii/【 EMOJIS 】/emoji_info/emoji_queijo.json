@@ -1,0 +1,70 @@
+{
+  "emoji": "🧀",
+  "nome": "🧀 Queijo",
+  "categoria": "Cheese Wedge",
+  "url": "https://emojigraph.org/pt/cheese-wedge/",
+  "detalhes": {
+    "explicacao": "Uma cunha amarela-alaranjada de queijo com buracos, como um queijo suíço, mais utilizado para os alimentos em geral.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cheese-wedge_1f9c0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cheese-wedge_1f9c0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cheese-wedge_1f9c0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cheese-wedge_1f9c0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cheese-wedge_1f9c0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cheese-wedge_1f9c0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cheese-wedge_1f9c0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cheese-wedge_1f9c0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cheese-wedge_1f9c0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cheese-wedge_1f9c0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "queijo",
+      "queijo suíço",
+      "comida",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9C0;",
+      "HTML dec": "&#129472;",
+      "URL escape code": "%F0%9F%A7%80",
+      "Punycode": "xn--tu9h",
+      "Bytes (UTF-8)": "F0 9F A7 80",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDC0",
+      "C, C++, Python": "\\U0001f9c0",
+      "CSS": "\\01F9C0",
+      "PHP, Ruby": "\\u{1F9C0}",
+      "Perl": "\\x{1F9C0}"
+    }
+  }
+}

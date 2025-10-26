@@ -1,0 +1,48 @@
+{
+  "emoji": "🚶",
+  "nome": "🚶‍➡️ Pessoa andando de frente para a direita",
+  "categoria": "Person Walking Facing Right",
+  "url": "https://emojigraph.org/pt/person-walking-facing-right/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-walking-facing-right_1f6b6-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-walking-facing-right_1f6b6-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-walking-facing-right_1f6b6-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-walking-facing-right_1f6b6-200d-27a1-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "andar",
+      "caminhada",
+      "caminhar",
+      "passo",
+      "pedestre",
+      "perambulando",
+      "pessoa andando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6B6;&#x200D;&#x27A1;&#xFE0F;",
+      "HTML dec": "&#128694;&#8205;&#10145;&#65039;",
+      "URL escape code": "%F0%9F%9A%B6%E2%80%8D%E2%9E%A1%EF%B8%8F",
+      "Bytes (UTF-8)": "f0 9f 9a b6 e2 80 8d e2 9e a1 ef b8 8f",
+      "JavaScript, JSON, Java": "\\ud83d\\udeb6\\u200d\\u27a1\\ufe0f",
+      "C, C++, Python": "\\U0001f6b6\\u000200d\\u00027a1\\u000fe0f",
+      "CSS": "\\01F6B6 \\0200D \\027A1 \\0FE0F",
+      "PHP, Ruby": "\\u{1F6B6}\\u{200D}\\u{27A1}\\u{FE0F}",
+      "Perl": "\\x{1F6B6}\\x{200D}\\x{27A1}\\x{FE0F}"
+    }
+  }
+}

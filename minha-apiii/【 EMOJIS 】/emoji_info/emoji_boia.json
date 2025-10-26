@@ -1,0 +1,74 @@
+{
+  "emoji": "🛟",
+  "nome": "🛟 Boia",
+  "categoria": "Ring Buoy",
+  "url": "https://emojigraph.org/pt/ring-buoy/",
+  "detalhes": {
+    "explicacao": "Também conhecido como colete salva-vidas, uma bóia anelar vermelha ou laranja e branca com ou sem uma corda amarrada em seu perímetro. Além do uso literal como ferramenta de resgate de ⛵ barco, pode ser usado para pedir ajuda, comunicar alívio, assistência ou gratidão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ring-buoy_1f6df.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ring-buoy_1f6df.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ring-buoy_1f6df.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ring-buoy_1f6df.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ring-buoy_1f6df.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ring-buoy_1f6df.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ring-buoy_1f6df.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ring-buoy_1f6df.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ring-buoy_1f6df.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/ring-buoy_1f6df.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boia",
+      "flutuar",
+      "resgate",
+      "salva-vidas",
+      "segurança",
+      "guarda-vidas",
+      "nadar",
+      "salvar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6DF;",
+      "HTML dec": "&#128735;",
+      "URL escape code": "%F0%9F%9B%9F",
+      "Punycode": "xn--r88h",
+      "Bytes (UTF-8)": "f0 9f 9b 9f",
+      "JavaScript, JSON, Java": "\\ud83d\\udedf",
+      "C, C++, Python": "\\U0001f6df",
+      "CSS": "\\01F6DF",
+      "PHP, Ruby": "\\u{1F6DF}",
+      "Perl": "\\x{1F6DF}"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "emoji": "🕣",
+  "nome": "🕣 Oito e meia",
+  "categoria": "eight thirty",
+  "url": "https://emojigraph.org/pt/eight-thirty/",
+  "detalhes": {
+    "explicacao": "Oito-Trinta foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio Oito-Trinta\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/eight-thirty_1f563.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/eight-thirty_1f563.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/eight-thirty_1f563.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/eight-thirty_1f563.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/eight-thirty_1f563.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/eight-thirty_1f563.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/eight-thirty_1f563.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/eight-thirty_1f563.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/eight-thirty_1f563.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/eight-thirty_1f563.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/eight-thirty_1f563.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/eight-thirty_1f563.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "8h30",
+      "oito e meia",
+      "relógio",
+      "8:30"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F563;",
+      "HTML dec": "&#128355;",
+      "URL escape code": "%F0%9F%95%A3",
+      "Punycode": "xn--wx8h",
+      "Bytes (UTF-8)": "F0 9F 95 A3",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD63",
+      "C, C++, Python": "\\U0001f563",
+      "CSS": "\\01F563",
+      "PHP, Ruby": "\\u{1F563}",
+      "Perl": "\\x{1F563}"
+    }
+  }
+}

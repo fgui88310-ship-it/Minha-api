@@ -1,0 +1,69 @@
+{
+  "emoji": "🧘",
+  "nome": "🧘‍♀️ Mulher na posição de lótus",
+  "categoria": "woman in lotus position",
+  "url": "https://emojigraph.org/pt/woman-in-lotus-position/",
+  "detalhes": {
+    "explicacao": "A Mulher em Posição de Lótus emoji é uma sequência do 🧘 Pessoa em Posição de Lótus e ♀ Feminino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-in-lotus-position_1f9d8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-in-lotus-position_1f9d8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-in-lotus-position_1f9d8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-in-lotus-position_1f9d8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-in-lotus-position_1f9d8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-in-lotus-position_1f9d8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-in-lotus-position_1f9d8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-in-lotus-position_1f9d8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-in-lotus-position_1f9d8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-in-lotus-position_1f9d8-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ioga",
+      "meditação",
+      "yoga"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D8;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#129496;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A7%98%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h9212o",
+      "Bytes (UTF-8)": "F0 9F A7 98 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD8\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f9d8\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F9D8 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F9D8}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F9D8}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

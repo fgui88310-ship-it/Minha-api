@@ -1,0 +1,54 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍🦱 Pessoa: cabelo cacheado",
+  "categoria": "person curly hair",
+  "url": "https://emojigraph.org/pt/person-curly-hair/",
+  "detalhes": {
+    "explicacao": "A Pessoa: o Cabelo Crespo emoji é uma sequência do 🧑 Adultos e 🦱 Emoji Componente de Cabelo Encaracolado emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-curly-hair_1f9d1-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-curly-hair_1f9d1-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-curly-hair_1f9d1-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-curly-hair_1f9d1-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-curly-hair_1f9d1-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-curly-hair_1f9d1-200d-1f9b1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "adulto",
+      "cabelo cacheado",
+      "pessoa",
+      "adulta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F9B1;",
+      "HTML dec": "&#129489;&#8205;&#129457;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%A6%B1",
+      "Punycode": "xn--eu9h5b",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F A6 B1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83E\\uDDB1",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f9b1",
+      "CSS": "\\01F9D1 \\200D \\01F9B1",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F9B1}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F9B1}"
+    }
+  }
+}

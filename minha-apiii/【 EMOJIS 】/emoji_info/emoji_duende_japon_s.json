@@ -1,0 +1,101 @@
+{
+  "emoji": "👺",
+  "nome": "👺 Duende japonês",
+  "categoria": "goblin",
+  "url": "https://emojigraph.org/pt/goblin/",
+  "detalhes": {
+    "explicacao": "Uma ameaçadora máscara vermelha com um grotesco nariz comprido, com raiva nos olhos e sobrancelhas grossas e bigode. Retrata um tengu, orgulhoso da artimanha figura do folclore Japonês.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/goblin_1f47a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/goblin_1f47a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "conto de fadas",
+      "duende japonês",
+      "goblin",
+      "monstro",
+      "tengu",
+      "bravo",
+      "japonês",
+      "máscara",
+      "raiva",
+      "rosto",
+      "zangado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F47A;",
+      "HTML dec": "&#128122;",
+      "URL escape code": "%F0%9F%91%BA",
+      "Punycode": "xn--8q8h",
+      "Bytes (UTF-8)": "F0 9F 91 BA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC7A",
+      "C, C++, Python": "\\U0001f47a",
+      "CSS": "\\01F47A",
+      "PHP, Ruby": "\\u{1F47A}",
+      "Perl": "\\x{1F47A}"
+    }
+  }
+}

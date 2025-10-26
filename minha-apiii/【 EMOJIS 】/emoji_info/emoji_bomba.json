@@ -1,0 +1,96 @@
+{
+  "emoji": "💣",
+  "nome": "💣 Bomba",
+  "categoria": "Bomb",
+  "url": "https://emojigraph.org/pt/bomb/",
+  "detalhes": {
+    "explicacao": "Um desenho animado no estilo de bomba, descrito como uma bola preta com a queima de um fusível.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bomb_1f4a3.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bomb_1f4a3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bomba",
+      "emoção",
+      "engraçado",
+      "explosão",
+      "explosivo",
+      "perigo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4A3;",
+      "HTML dec": "&#128163;",
+      "URL escape code": "%F0%9F%92%A3",
+      "Punycode": "xn--fs8h",
+      "Bytes (UTF-8)": "F0 9F 92 A3",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCA3",
+      "C, C++, Python": "\\U0001f4a3",
+      "CSS": "\\01F4A3",
+      "PHP, Ruby": "\\u{1F4A3}",
+      "Perl": "\\x{1F4A3}"
+    }
+  }
+}

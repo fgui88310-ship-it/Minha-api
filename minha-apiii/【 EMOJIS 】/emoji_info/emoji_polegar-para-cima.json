@@ -1,0 +1,102 @@
+{
+  "emoji": "👍",
+  "nome": "👍 Polegar para cima",
+  "categoria": "Thumbs Up",
+  "url": "https://emojigraph.org/pt/thumbs-up/",
+  "detalhes": {
+    "explicacao": "Um sinal de gesto positivo indicando aprovação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/thumbs-up_1f44d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/thumbs-up_1f44d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dedão",
+      "mão",
+      "para cima",
+      "sinal",
+      "beleza",
+      "concordo",
+      "dedão para cima",
+      "jóia",
+      "ok",
+      "polegar",
+      "sim",
+      "valeu"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F44D;",
+      "HTML dec": "&#128077;",
+      "URL escape code": "%F0%9F%91%8D",
+      "Punycode": "xn--yp8h",
+      "Bytes (UTF-8)": "F0 9F 91 8D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC4D",
+      "C, C++, Python": "\\U0001f44d",
+      "CSS": "\\01F44D",
+      "PHP, Ruby": "\\u{1F44D}",
+      "Perl": "\\x{1F44D}"
+    }
+  }
+}

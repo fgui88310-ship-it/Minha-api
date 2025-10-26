@@ -1,0 +1,97 @@
+{
+  "emoji": "🚽",
+  "nome": "🚽 Vaso sanitário",
+  "categoria": "Toilet",
+  "url": "https://emojigraph.org/pt/toilet/",
+  "detalhes": {
+    "explicacao": "Uma higiênico branco, usado como depósito de uma 💩 Pilha de Poo_. _(Não se esqueça do 🧻 Rolo de Papel.) A maioria das plataformas retratam um vaso sanitário de porcelana no perfil, tigela voltada para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/toilet_1f6bd.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/toilet_1f6bd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "banheiro",
+      "privada",
+      "sanitário",
+      "toalete",
+      "vaso sanitário",
+      "patente",
+      "vaso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6BD;",
+      "HTML dec": "&#128701;",
+      "URL escape code": "%F0%9F%9A%BD",
+      "Punycode": "xn--s78h",
+      "Bytes (UTF-8)": "F0 9F 9A BD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEBD",
+      "C, C++, Python": "\\U0001f6bd",
+      "CSS": "\\01F6BD",
+      "PHP, Ruby": "\\u{1F6BD}",
+      "Perl": "\\x{1F6BD}"
+    }
+  }
+}

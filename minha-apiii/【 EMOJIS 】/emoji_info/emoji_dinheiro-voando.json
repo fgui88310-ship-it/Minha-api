@@ -1,0 +1,97 @@
+{
+  "emoji": "💸",
+  "nome": "💸 Dinheiro voando",
+  "categoria": "Money With Wings",
+  "url": "https://emojigraph.org/pt/money-with-wings/",
+  "detalhes": {
+    "explicacao": "Um em faixas pilha de notas de dólar dos EUA com asas de penas, como se voar. Seu vôo pode representar perda de, transferir, ou ganhar dinheiro, mas comumente usado para a riqueza, o dinheiro e o sucesso de modo mais geral, muitas vezes com um floreio ou senso de estilo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/money-with-wings_1f4b8.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/money-with-wings_1f4b8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "banco",
+      "dinheiro",
+      "dinheiro voando",
+      "nota",
+      "asas",
+      "cédula",
+      "voando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4B8;",
+      "HTML dec": "&#128184;",
+      "URL escape code": "%F0%9F%92%B8",
+      "Punycode": "xn--0s8h",
+      "Bytes (UTF-8)": "F0 9F 92 B8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCB8",
+      "C, C++, Python": "\\U0001f4b8",
+      "CSS": "\\01F4B8",
+      "PHP, Ruby": "\\u{1F4B8}",
+      "Perl": "\\x{1F4B8}"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "emoji": "🚃",
+  "nome": "🚃 Vagão de trem",
+  "categoria": "railway car",
+  "url": "https://emojigraph.org/pt/railway-car/",
+  "detalhes": {
+    "explicacao": "Uma ferrovia (estrada de ferro) automóvel (carro), que geralmente é puxado ao longo de uma linha férrea, por uma locomotiva. Mostrado com um pantógrafo acima do transporte em diversas plataformas, o que o torna mais parecido com um carro eléctrico.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/railway-car_1f683.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/railway-car_1f683.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bonde elétrico",
+      "elétrico",
+      "ferroviário",
+      "trem elétrico",
+      "vagão de trem",
+      "veículo",
+      "bonde",
+      "transporte",
+      "trem",
+      "trólebus",
+      "vagão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F683;",
+      "HTML dec": "&#128643;",
+      "URL escape code": "%F0%9F%9A%83",
+      "Punycode": "xn--458h",
+      "Bytes (UTF-8)": "F0 9F 9A 83",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE83",
+      "C, C++, Python": "\\U0001f683",
+      "CSS": "\\01F683",
+      "PHP, Ruby": "\\u{1F683}",
+      "Perl": "\\x{1F683}"
+    }
+  }
+}

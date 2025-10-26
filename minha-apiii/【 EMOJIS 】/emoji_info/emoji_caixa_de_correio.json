@@ -1,0 +1,95 @@
+{
+  "emoji": "📮",
+  "nome": "📮 Caixa de correio",
+  "categoria": "postbox",
+  "url": "https://emojigraph.org/pt/postbox/",
+  "detalhes": {
+    "explicacao": "Uma caixa de correio (caixa de correio, caixa de correio), com uma carta no slot para coleção. Geralmente representado em vermelho com um envelope branco, com o estilo pública postboxes no Japão. Pode também evocar postboxes no Reino Unido.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/postbox_1f4ee.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/postbox_1f4ee.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "correio",
+      "correspondência",
+      "caixa",
+      "carta",
+      "enviar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4EE;",
+      "HTML dec": "&#128238;",
+      "URL escape code": "%F0%9F%93%AE",
+      "Punycode": "xn--ku8h",
+      "Bytes (UTF-8)": "F0 9F 93 AE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCEE",
+      "C, C++, Python": "\\U0001f4ee",
+      "CSS": "\\01F4EE",
+      "PHP, Ruby": "\\u{1F4EE}",
+      "Perl": "\\x{1F4EE}"
+    }
+  }
+}

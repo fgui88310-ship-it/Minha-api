@@ -1,0 +1,70 @@
+{
+  "emoji": "🧳",
+  "nome": "🧳 Mala",
+  "categoria": "Luggage",
+  "url": "https://emojigraph.org/pt/luggage/",
+  "detalhes": {
+    "explicacao": "Uma mala de viagem ou na bolsa, como o usado para viajar. A maioria das plataformas retratam cinza ou azul rolamento de bagagem com uma alça. Comumente utilizado para vários conteúdos relativos viagem ou passeios, seja para negócios ou lazer.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/luggage_1f9f3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/luggage_1f9f3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/luggage_1f9f3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/luggage_1f9f3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/luggage_1f9f3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/luggage_1f9f3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/luggage_1f9f3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/luggage_1f9f3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/luggage_1f9f3.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/luggage_1f9f3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bagagem",
+      "mala",
+      "viagem",
+      "rodinhas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9F3;",
+      "HTML dec": "&#129523;",
+      "URL escape code": "%F0%9F%A7%B3",
+      "Punycode": "xn--9v9h",
+      "Bytes (UTF-8)": "F0 9F A7 B3",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDF3",
+      "C, C++, Python": "\\U0001f9f3",
+      "CSS": "\\01F9F3",
+      "PHP, Ruby": "\\u{1F9F3}",
+      "Perl": "\\x{1F9F3}"
+    }
+  }
+}

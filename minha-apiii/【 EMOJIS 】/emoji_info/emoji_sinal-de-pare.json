@@ -1,0 +1,69 @@
+{
+  "emoji": "🛑",
+  "nome": "🛑 Sinal de pare",
+  "categoria": "Stop Sign",
+  "url": "https://emojigraph.org/pt/stop-sign/",
+  "detalhes": {
+    "explicacao": "A red, octagonal sign. Known in many countries as a stop sign.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/stop-sign_1f6d1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/stop-sign_1f6d1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/stop-sign_1f6d1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/stop-sign_1f6d1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/stop-sign_1f6d1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/stop-sign_1f6d1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/stop-sign_1f6d1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/stop-sign_1f6d1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/stop-sign_1f6d1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/stop-sign_1f6d1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pare",
+      "sinal",
+      "sinal de pare"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6D1;",
+      "HTML dec": "&#128721;",
+      "URL escape code": "%F0%9F%9B%91",
+      "Punycode": "xn--d88h",
+      "Bytes (UTF-8)": "F0 9F 9B 91",
+      "JavaScript, JSON, Java": "\\uD83D\\uDED1",
+      "C, C++, Python": "\\U0001f6d1",
+      "CSS": "\\01F6D1",
+      "PHP, Ruby": "\\u{1F6D1}",
+      "Perl": "\\x{1F6D1}"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "emoji": "🏆",
+  "nome": "🏆 Troféu",
+  "categoria": "Trophy",
+  "url": "https://emojigraph.org/pt/trophy/",
+  "detalhes": {
+    "explicacao": "Um troféu dado como um reconhecimento dos resultados, geralmente em esportes. O troféu emoji é um copo de ouro, com uma gravura no fundo detalhando o prêmio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/trophy_1f3c6.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/trophy_1f3c6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "prêmio",
+      "troféu",
+      "campeã",
+      "campeão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3C6;",
+      "HTML dec": "&#127942;",
+      "URL escape code": "%F0%9F%8F%86",
+      "Punycode": "xn--3l8h",
+      "Bytes (UTF-8)": "F0 9F 8F 86",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFC6",
+      "C, C++, Python": "\\U0001f3c6",
+      "CSS": "\\01F3C6",
+      "PHP, Ruby": "\\u{1F3C6}",
+      "Perl": "\\x{1F3C6}"
+    }
+  }
+}

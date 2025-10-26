@@ -1,0 +1,75 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍🤝‍🧑 Pessoas de mãos dadas",
+  "categoria": "People Holding Hands",
+  "url": "https://emojigraph.org/pt/people-holding-hands/",
+  "detalhes": {
+    "explicacao": "Duas pessoas de mãos dadas, provavelmente devido a estar em um relacionamento.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/people-holding-hands_1f9d1-200d-1f91d-200d-1f9d1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/people-holding-hands_1f9d1-200d-1f91d-200d-1f9d1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/people-holding-hands_1f9d1-200d-1f91d-200d-1f9d1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/people-holding-hands_1f9d1-200d-1f91d-200d-1f9d1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/people-holding-hands_1f9d1-200d-1f91d-200d-1f9d1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/people-holding-hands_1f9d1-200d-1f91d-200d-1f9d1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/people-holding-hands_1f9d1-200d-1f91d-200d-1f9d1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/people-holding-hands_1f9d1-200d-1f91d-200d-1f9d1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/people-holding-hands_1f9d1-200d-1f91d-200d-1f9d1.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/people-holding-hands_1f9d1-200d-1f91d-200d-1f9d1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "casal",
+      "de mãos dadas",
+      "mão",
+      "pessoa",
+      "segurando",
+      "mãos dadas",
+      "parceiros",
+      "parceria",
+      "pessoas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F91D;&#x200D;&#x1F9D1;",
+      "HTML dec": "&#129489;&#8205;&#129309;&#8205;&#129489;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%A4%9D%E2%80%8D%F0%9F%A7%91",
+      "Punycode": "xn--5p9hhlb",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F A4 9D E2 80 8D F0 9F A7 91",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83E\\uDD1D\\u200D\\uD83E\\uDDD1",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f91d\\u200D\\U0001f9d1",
+      "CSS": "\\01F9D1 \\200D \\01F91D \\200D \\01F9D1",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F91D}\\u{200D}\\u{1F9D1}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F91D}\\x{200D}\\x{1F9D1}"
+    }
+  }
+}

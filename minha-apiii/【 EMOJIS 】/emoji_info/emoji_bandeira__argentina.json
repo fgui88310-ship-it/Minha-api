@@ -1,0 +1,59 @@
+{
+  "emoji": "🇦🇷",
+  "nome": "🇦🇷 Bandeira: Argentina",
+  "categoria": "flag argentina",
+  "url": "https://emojigraph.org/pt/flag-argentina/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Argentina. Este símbolo é uma seqüência de caracteres 🇦 Símbolo Indicador Regional Letra A e 🇷 Símbolo Indicador Regional Letra R. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras AR em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-argentina_1f1e6-1f1f7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-argentina_1f1e6-1f1f7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-argentina_1f1e6-1f1f7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-argentina_1f1e6-1f1f7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-argentina_1f1e6-1f1f7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-argentina_1f1e6-1f1f7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-argentina_1f1e6-1f1f7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-argentina_1f1e6-1f1f7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E6;&#x1F1F7;",
+      "HTML dec": "&#127462;&#127479;",
+      "URL escape code": "%F0%9F%87%A6%F0%9F%87%B7",
+      "Punycode": "xn--e77h8a",
+      "Bytes (UTF-8)": "F0 9F 87 A6 F0 9F 87 B7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE6\\uD83C\\uDDF7",
+      "C, C++, Python": "\\U0001f1e6\\U0001f1f7",
+      "CSS": "\\01F1E6 \\01F1F7",
+      "PHP, Ruby": "\\u{1F1E6}\\u{1F1F7}",
+      "Perl": "\\x{1F1E6}\\x{1F1F7}"
+    }
+  }
+}

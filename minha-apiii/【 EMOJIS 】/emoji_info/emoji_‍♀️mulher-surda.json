@@ -1,0 +1,68 @@
+{
+  "emoji": "🧏",
+  "nome": "🧏‍♀️ Mulher surda",
+  "categoria": "Deaf Woman",
+  "url": "https://emojigraph.org/pt/deaf-woman/",
+  "detalhes": {
+    "explicacao": "A Mulher Surda emoji é uma sequência do 🧏 Pessoa Surda e ♀ Feminino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/deaf-woman_1f9cf-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/deaf-woman_1f9cf-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/deaf-woman_1f9cf-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/deaf-woman_1f9cf-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/deaf-woman_1f9cf-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/deaf-woman_1f9cf-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/deaf-woman_1f9cf-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/deaf-woman_1f9cf-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/deaf-woman_1f9cf-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/deaf-woman_1f9cf-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mulher",
+      "surda"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9CF;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#129487;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A7%8F%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h5112o",
+      "Bytes (UTF-8)": "F0 9F A7 8F E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDCF\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f9cf\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F9CF \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F9CF}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F9CF}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

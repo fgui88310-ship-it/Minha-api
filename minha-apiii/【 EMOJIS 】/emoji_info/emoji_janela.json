@@ -1,0 +1,59 @@
+{
+  "emoji": "🪟",
+  "nome": "🪟 Janela",
+  "categoria": "Window",
+  "url": "https://emojigraph.org/pt/window/",
+  "detalhes": {
+    "explicacao": "Janela foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/window_1fa9f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/window_1fa9f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/window_1fa9f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/window_1fa9f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/window_1fa9f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/window_1fa9f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "abertura",
+      "ar fresco",
+      "janela",
+      "quadro",
+      "transparente",
+      "vista",
+      "ar",
+      "fresco",
+      "vidro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA9F;",
+      "HTML dec": "&#129695;",
+      "URL escape code": "%F0%9F%AA%9F",
+      "Punycode": "xn--609h",
+      "Bytes (UTF-8)": "F0 9F AA 9F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE9F",
+      "C, C++, Python": "\\U0001fa9f",
+      "CSS": "\\01FA9F",
+      "PHP, Ruby": "\\u{1FA9F}",
+      "Perl": "\\x{1FA9F}"
+    }
+  }
+}

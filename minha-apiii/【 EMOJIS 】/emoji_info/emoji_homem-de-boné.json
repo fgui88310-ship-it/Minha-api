@@ -1,0 +1,95 @@
+{
+  "emoji": "👲",
+  "nome": "👲 Homem de boné",
+  "categoria": "Person With Skullcap",
+  "url": "https://emojigraph.org/pt/person-with-skullcap/",
+  "detalhes": {
+    "explicacao": "Uma pessoa vestindo uma gua pi mao; um tipo de chapéu Chinês. Por vezes referido como um solidéu.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-with-skullcap_1f472.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-with-skullcap_1f472.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gua pi mao",
+      "homem de boné",
+      "pessoas",
+      "chapéu chinês",
+      "guapimao"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F472;",
+      "HTML dec": "&#128114;",
+      "URL escape code": "%F0%9F%91%B2",
+      "Punycode": "xn--0q8h",
+      "Bytes (UTF-8)": "F0 9F 91 B2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC72",
+      "C, C++, Python": "\\U0001f472",
+      "CSS": "\\01F472",
+      "PHP, Ruby": "\\u{1F472}",
+      "Perl": "\\x{1F472}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "🎠",
+  "nome": "🎠 Carrossel",
+  "categoria": "Carousel Horse",
+  "url": "https://emojigraph.org/pt/carousel-horse/",
+  "detalhes": {
+    "explicacao": "Cavalo de madeira pintado, encontrado no carrossel em um carnaval. Rosto virado para a esquerda da tela.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/carousel-horse_1f3a0.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/carousel-horse_1f3a0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carrossel",
+      "cavalo",
+      "entretenimento"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3A0;",
+      "HTML dec": "&#127904;",
+      "URL escape code": "%F0%9F%8E%A0",
+      "Punycode": "xn--0k8h",
+      "Bytes (UTF-8)": "F0 9F 8E A0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFA0",
+      "C, C++, Python": "\\U0001f3a0",
+      "CSS": "\\01F3A0",
+      "PHP, Ruby": "\\u{1F3A0}",
+      "Perl": "\\x{1F3A0}"
+    }
+  }
+}

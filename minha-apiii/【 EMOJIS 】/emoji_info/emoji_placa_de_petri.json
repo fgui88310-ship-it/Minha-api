@@ -1,0 +1,76 @@
+{
+  "emoji": "🧫",
+  "nome": "🧫 Placa de Petri",
+  "categoria": "petri dish",
+  "url": "https://emojigraph.org/pt/petri-dish/",
+  "detalhes": {
+    "explicacao": "Uma placa de petri, como utilizado para cultura de micróbios. Descrito como um rasas, cilindro com um vermelho, verde ou azul, meio de crescimento, tais como o ágar-ágar, com pomada de variadamente coloridas células, como as bactérias.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/petri-dish_1f9eb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/petri-dish_1f9eb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/petri-dish_1f9eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/petri-dish_1f9eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/petri-dish_1f9eb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/petri-dish_1f9eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/petri-dish_1f9eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/petri-dish_1f9eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/petri-dish_1f9eb.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/petri-dish_1f9eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bactéria",
+      "biologia",
+      "biólogo",
+      "cultura",
+      "laboratório",
+      "placa de Petri",
+      "biologista",
+      "ciência",
+      "Petri",
+      "placa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9EB;",
+      "HTML dec": "&#129515;",
+      "URL escape code": "%F0%9F%A7%AB",
+      "Punycode": "xn--1v9h",
+      "Bytes (UTF-8)": "F0 9F A7 AB",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDEB",
+      "C, C++, Python": "\\U0001f9eb",
+      "CSS": "\\01F9EB",
+      "PHP, Ruby": "\\u{1F9EB}",
+      "Perl": "\\x{1F9EB}"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍⚕️ Mulher profissional da saúde",
+  "categoria": "Woman Health Worker",
+  "url": "https://emojigraph.org/pt/woman-health-worker/",
+  "detalhes": {
+    "explicacao": "Uma mulher que trabalha no campo da saúde. Isto pode ser usado para representar um médico, enfermeiro ou farmacêutico.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-health-worker_1f469-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-health-worker_1f469-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-health-worker_1f469-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-health-worker_1f469-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-health-worker_1f469-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-health-worker_1f469-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-health-worker_1f469-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-health-worker_1f469-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-health-worker_1f469-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-health-worker_1f469-200d-2695-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "doutora",
+      "enfermeira",
+      "médica",
+      "mulher",
+      "saúde",
+      "terapeuta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x2695;&#xFE0F;",
+      "HTML dec": "&#128105;&#8205;&#9877;&#65039;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%E2%9A%95%EF%B8%8F",
+      "Punycode": "xn--t7hx200o",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D E2 9A 95 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\u2695\\uFE0F",
+      "C, C++, Python": "\\U0001f469\\u200D\\u2695\\uFE0F",
+      "CSS": "\\01F469 \\200D \\2695 \\FE0F",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{2695}\\u{FE0F}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{2695}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "🦗",
+  "nome": "🦗 Grilo",
+  "categoria": "Cricket",
+  "url": "https://emojigraph.org/pt/cricket/",
+  "detalhes": {
+    "explicacao": "Um grilo, um salto de insetos que faz um chilrear de som. Descrito como um marrom ou verde cricket no perfil completo em suas seis pernas virada para a esquerda, com longas antenas e grandes, dobradas para trás pernas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cricket_1f997.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cricket_1f997.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cricket_1f997.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cricket_1f997.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cricket_1f997.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cricket_1f997.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cricket_1f997.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cricket_1f997.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cricket_1f997.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cricket_1f997.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "grilo",
+      "inseto",
+      "gafanhoto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F997;",
+      "HTML dec": "&#129431;",
+      "URL escape code": "%F0%9F%A6%97",
+      "Punycode": "xn--nt9h",
+      "Bytes (UTF-8)": "F0 9F A6 97",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD97",
+      "C, C++, Python": "\\U0001f997",
+      "CSS": "\\01F997",
+      "PHP, Ruby": "\\u{1F997}",
+      "Perl": "\\x{1F997}"
+    }
+  }
+}

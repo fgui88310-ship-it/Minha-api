@@ -1,0 +1,92 @@
+{
+  "emoji": "🏨",
+  "nome": "🏨 Hotel",
+  "categoria": "Hotel",
+  "url": "https://emojigraph.org/pt/hotel/",
+  "detalhes": {
+    "explicacao": "Um edifício do hotel, apresentado na maioria das plataformas como um edifício com muitas janelas e uma letra H na frente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/hotel_1f3e8.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/hotel_1f3e8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "hotel",
+      "prédio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3E8;",
+      "HTML dec": "&#127976;",
+      "URL escape code": "%F0%9F%8F%A8",
+      "Punycode": "xn--2m8h",
+      "Bytes (UTF-8)": "F0 9F 8F A8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFE8",
+      "C, C++, Python": "\\U0001f3e8",
+      "CSS": "\\01F3E8",
+      "PHP, Ruby": "\\u{1F3E8}",
+      "Perl": "\\x{1F3E8}"
+    }
+  }
+}

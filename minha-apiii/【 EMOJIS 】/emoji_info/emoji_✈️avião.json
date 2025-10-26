@@ -1,0 +1,93 @@
+{
+  "emoji": "",
+  "nome": "✈️ Avião",
+  "categoria": "Airplane",
+  "url": "https://emojigraph.org/pt/airplane/",
+  "detalhes": {
+    "explicacao": "Usado como literalmente um avião, ou, às vezes, para representar que está no exterior, de férias, ou modo avião em um telefone ou tablet.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/airplane_2708-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/airplane_2708-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aéreo",
+      "avião",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2708;&#xFE0F;",
+      "HTML dec": "&#9992;&#65039;",
+      "URL escape code": "%E2%9C%88%EF%B8%8F",
+      "Punycode": "xn--3bi",
+      "Bytes (UTF-8)": "E2 9C 88 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2708\\uFE0F",
+      "C, C++, Python": "\\u2708\\uFE0F",
+      "CSS": "\\2708 \\FE0F",
+      "PHP, Ruby": "\\u{2708}\\u{FE0F}",
+      "Perl": "\\x{2708}\\x{FE0F}"
+    }
+  }
+}

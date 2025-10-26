@@ -1,0 +1,71 @@
+{
+  "emoji": "🥊",
+  "nome": "🥊 Luva de boxe",
+  "categoria": "boxing glove",
+  "url": "https://emojigraph.org/pt/boxing-glove/",
+  "detalhes": {
+    "explicacao": "Uma luva de boxe, utilizados no esporte do boxe. Geralmente vermelho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/boxing-glove_1f94a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/boxing-glove_1f94a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/boxing-glove_1f94a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/boxing-glove_1f94a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/boxing-glove_1f94a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/boxing-glove_1f94a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/boxing-glove_1f94a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/boxing-glove_1f94a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/boxing-glove_1f94a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/boxing-glove_1f94a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boxe",
+      "luva",
+      "luva de boxe",
+      "esporte",
+      "lutar boxe"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F94A;",
+      "HTML dec": "&#129354;",
+      "URL escape code": "%F0%9F%A5%8A",
+      "Punycode": "xn--gr9h",
+      "Bytes (UTF-8)": "F0 9F A5 8A",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD4A",
+      "C, C++, Python": "\\U0001f94a",
+      "CSS": "\\01F94A",
+      "PHP, Ruby": "\\u{1F94A}",
+      "Perl": "\\x{1F94A}"
+    }
+  }
+}

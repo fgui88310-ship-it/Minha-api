@@ -1,0 +1,94 @@
+{
+  "emoji": "📈",
+  "nome": "📈 Gráfico subindo",
+  "categoria": "Chart Increasing",
+  "url": "https://emojigraph.org/pt/chart-increasing/",
+  "detalhes": {
+    "explicacao": "Você pode encontrar um gráfico mostrando uma linha vermelha ou verde em tendência crescente ao longo do tempo, como os preços das ações ou das receitas. Comumente usado para representar vários tipos de aumento, a partir de dados numéricos metaforicamente em ascensão. Também pode representar tendências do conteúdo, bem como fatos, figuras e gráficos em geral.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/chart-increasing_1f4c8.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/chart-increasing_1f4c8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "crescimento",
+      "diagrama",
+      "gráfico",
+      "gráfico subindo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4C8;",
+      "HTML dec": "&#128200;",
+      "URL escape code": "%F0%9F%93%88",
+      "Punycode": "xn--ht8h",
+      "Bytes (UTF-8)": "F0 9F 93 88",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCC8",
+      "C, C++, Python": "\\U0001f4c8",
+      "CSS": "\\01F4C8",
+      "PHP, Ruby": "\\u{1F4C8}",
+      "Perl": "\\x{1F4C8}"
+    }
+  }
+}

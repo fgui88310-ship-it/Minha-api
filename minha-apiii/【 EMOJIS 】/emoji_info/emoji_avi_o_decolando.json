@@ -1,0 +1,75 @@
+{
+  "emoji": "🛫",
+  "nome": "🛫 Avião decolando",
+  "categoria": "airplane departure",
+  "url": "https://emojigraph.org/pt/airplane-departure/",
+  "detalhes": {
+    "explicacao": "Um avião decolando de uma pista. Geralmente exibidos da esquerda para a direita, com a parte da frente do avião elevados.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/airplane-departure_1f6eb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/airplane-departure_1f6eb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/airplane-departure_1f6eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/airplane-departure_1f6eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/airplane-departure_1f6eb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/airplane-departure_1f6eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/airplane-departure_1f6eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/airplane-departure_1f6eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/airplane-departure_1f6eb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/airplane-departure_1f6eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "avião decolando",
+      "decolando",
+      "decolar",
+      "veículo",
+      "férias",
+      "partindo",
+      "partiu",
+      "viagem",
+      "viajando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6EB;",
+      "HTML dec": "&#128747;",
+      "URL escape code": "%F0%9F%9B%AB",
+      "Punycode": "xn--388h",
+      "Bytes (UTF-8)": "F0 9F 9B AB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEEB",
+      "C, C++, Python": "\\U0001f6eb",
+      "CSS": "\\01F6EB",
+      "PHP, Ruby": "\\u{1F6EB}",
+      "Perl": "\\x{1F6EB}"
+    }
+  }
+}

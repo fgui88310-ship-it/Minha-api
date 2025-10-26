@@ -1,0 +1,71 @@
+{
+  "emoji": "🦁",
+  "nome": "🦁 Rosto de leão",
+  "categoria": "Lion",
+  "url": "https://emojigraph.org/pt/lion/",
+  "detalhes": {
+    "explicacao": "Um amigável, rosto de um leão estilo-cartoon - o grande gato e o rei da selva - olhando diretamente para a frente. Descrito como um leão amarelo-dourado com uma luz escura ou juba marrom, focinho branco, e a expressão neutra.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lion_1f981.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lion_1f981.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lion_1f981.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lion_1f981.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lion_1f981.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lion_1f981.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lion_1f981.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lion_1f981.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lion_1f981.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/lion_1f981.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "leão",
+      "rosto",
+      "rosto de leão",
+      "zodíaco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F981;",
+      "HTML dec": "&#129409;",
+      "URL escape code": "%F0%9F%A6%81",
+      "Punycode": "xn--0s9h",
+      "Bytes (UTF-8)": "F0 9F A6 81",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD81",
+      "C, C++, Python": "\\U0001f981",
+      "CSS": "\\01F981",
+      "PHP, Ruby": "\\u{1F981}",
+      "Perl": "\\x{1F981}"
+    }
+  }
+}

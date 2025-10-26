@@ -1,0 +1,94 @@
+{
+  "emoji": "🐼",
+  "nome": "🐼 Rosto de panda",
+  "categoria": "Panda",
+  "url": "https://emojigraph.org/pt/panda/",
+  "detalhes": {
+    "explicacao": "Um amigável, caricato cara de um panda—um urso, mamífero conhecido por comer bambu—olhando diretamente para a frente. Descrito como uma cara branca com olhos em círculos pretos com orelhas pretas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/panda_1f43c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/panda_1f43c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "panda",
+      "rosto",
+      "rosto de panda"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F43C;",
+      "HTML dec": "&#128060;",
+      "URL escape code": "%F0%9F%90%BC",
+      "Punycode": "xn--hp8h",
+      "Bytes (UTF-8)": "F0 9F 90 BC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC3C",
+      "C, C++, Python": "\\U0001f43c",
+      "CSS": "\\01F43C",
+      "PHP, Ruby": "\\u{1F43C}",
+      "Perl": "\\x{1F43C}"
+    }
+  }
+}

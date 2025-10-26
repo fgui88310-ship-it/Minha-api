@@ -1,0 +1,87 @@
+{
+  "emoji": "🚁",
+  "nome": "🚁 Helicóptero",
+  "categoria": "helicopter",
+  "url": "https://emojigraph.org/pt/helicopter/",
+  "detalhes": {
+    "explicacao": "Um helicóptero, o que pode pairar no ar. Muitas vezes visto em circunstâncias de emergência, tais como o transporte de pacientes para um hospital, ou da polícia, ou de combate a incêndios atividade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/helicopter_1f681.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/helicopter_1f681.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "helicóptero",
+      "veículo",
+      "viagem",
+      "viajar",
+      "voo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F681;",
+      "HTML dec": "&#128641;",
+      "URL escape code": "%F0%9F%9A%81",
+      "Punycode": "xn--258h",
+      "Bytes (UTF-8)": "F0 9F 9A 81",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE81",
+      "C, C++, Python": "\\U0001f681",
+      "CSS": "\\01F681",
+      "PHP, Ruby": "\\u{1F681}",
+      "Perl": "\\x{1F681}"
+    }
+  }
+}

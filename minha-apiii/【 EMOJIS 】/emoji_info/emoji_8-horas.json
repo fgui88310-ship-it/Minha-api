@@ -1,0 +1,88 @@
+{
+  "emoji": "🕗",
+  "nome": "🕗 8 horas",
+  "categoria": "Eight Oclock",
+  "url": "https://emojigraph.org/pt/eight-oclock/",
+  "detalhes": {
+    "explicacao": "Oito Horas foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Oito Horas\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/eight-oclock_1f557.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/eight-oclock_1f557.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "8 horas",
+      "8h00",
+      "oito",
+      "relógio",
+      "8:00",
+      "hora"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F557;",
+      "HTML dec": "&#128343;",
+      "URL escape code": "%F0%9F%95%97",
+      "Punycode": "xn--kx8h",
+      "Bytes (UTF-8)": "F0 9F 95 97",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD57",
+      "C, C++, Python": "\\U0001f557",
+      "CSS": "\\01F557",
+      "PHP, Ruby": "\\u{1F557}",
+      "Perl": "\\x{1F557}"
+    }
+  }
+}

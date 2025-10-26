@@ -1,0 +1,59 @@
+{
+  "emoji": "🇩🇴",
+  "nome": "🇩🇴 Bandeira: República Dominicana",
+  "categoria": "flag dominican republic",
+  "url": "https://emojigraph.org/pt/flag-dominican-republic/",
+  "detalhes": {
+    "explicacao": "A bandeira para a República Dominicana, que pode mostrar como as letras do do em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-dominican-republic_1f1e9-1f1f4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-dominican-republic_1f1e9-1f1f4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-dominican-republic_1f1e9-1f1f4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-dominican-republic_1f1e9-1f1f4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-dominican-republic_1f1e9-1f1f4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-dominican-republic_1f1e9-1f1f4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-dominican-republic_1f1e9-1f1f4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-dominican-republic_1f1e9-1f1f4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E9;&#x1F1F4;",
+      "HTML dec": "&#127465;&#127476;",
+      "URL escape code": "%F0%9F%87%A9%F0%9F%87%B4",
+      "Punycode": "xn--h77hwa",
+      "Bytes (UTF-8)": "F0 9F 87 A9 F0 9F 87 B4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE9\\uD83C\\uDDF4",
+      "C, C++, Python": "\\U0001f1e9\\U0001f1f4",
+      "CSS": "\\01F1E9 \\01F1F4",
+      "PHP, Ruby": "\\u{1F1E9}\\u{1F1F4}",
+      "Perl": "\\x{1F1E9}\\x{1F1F4}"
+    }
+  }
+}

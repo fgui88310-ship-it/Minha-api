@@ -1,0 +1,95 @@
+{
+  "emoji": "👙",
+  "nome": "👙 Biquíni",
+  "categoria": "Bikini",
+  "url": "https://emojigraph.org/pt/bikini/",
+  "detalhes": {
+    "explicacao": "Duas peças biquini, usado na praia, piscina ou em férias em um destino tropical.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bikini_1f459.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bikini_1f459.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "biquíni",
+      "roupa",
+      "traje de banho",
+      "piscina",
+      "praia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F459;",
+      "HTML dec": "&#128089;",
+      "URL escape code": "%F0%9F%91%99",
+      "Punycode": "xn--bq8h",
+      "Bytes (UTF-8)": "F0 9F 91 99",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC59",
+      "C, C++, Python": "\\U0001f459",
+      "CSS": "\\01F459",
+      "PHP, Ruby": "\\u{1F459}",
+      "Perl": "\\x{1F459}"
+    }
+  }
+}

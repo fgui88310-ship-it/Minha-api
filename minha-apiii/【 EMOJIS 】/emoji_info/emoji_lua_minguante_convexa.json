@@ -1,0 +1,85 @@
+{
+  "emoji": "🌖",
+  "nome": "🌖 Lua minguante convexa",
+  "categoria": "waning gibbous moon",
+  "url": "https://emojigraph.org/pt/waning-gibbous-moon/",
+  "detalhes": {
+    "explicacao": "Uma lua minguante (aparecendo mais do que a metade cheia, mas ficando menor), o sexto dos oito fases da lua. Retrata a lua como um crateras disco, principalmente iluminado em ouro ou prata, mas com seu lado direito um escuro crescente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/waning-gibbous-moon_1f316.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/waning-gibbous-moon_1f316.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "convexa",
+      "lua",
+      "minguante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F316;",
+      "HTML dec": "&#127766;",
+      "URL escape code": "%F0%9F%8C%96",
+      "Punycode": "xn--2g8h",
+      "Bytes (UTF-8)": "F0 9F 8C 96",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF16",
+      "C, C++, Python": "\\U0001f316",
+      "CSS": "\\01F316",
+      "PHP, Ruby": "\\u{1F316}",
+      "Perl": "\\x{1F316}"
+    }
+  }
+}

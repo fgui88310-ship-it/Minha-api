@@ -1,0 +1,68 @@
+{
+  "emoji": "🛡",
+  "nome": "🛡️ Escudo",
+  "categoria": "shield",
+  "url": "https://emojigraph.org/pt/shield/",
+  "detalhes": {
+    "explicacao": "Um escudo, como blocos de espadas em combate de perto. A cor e o estilo variam entre plataformas, mas, geralmente, é representado em forma de pipa com uma borda de metal e o padrão simples.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shield_1f6e1-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shield_1f6e1-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shield_1f6e1-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shield_1f6e1-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shield_1f6e1-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shield_1f6e1-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shield_1f6e1-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shield_1f6e1-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shield_1f6e1-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/shield_1f6e1-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arma",
+      "escudo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6E1;&#xFE0F;",
+      "HTML dec": "&#128737;&#65039;",
+      "URL escape code": "%F0%9F%9B%A1%EF%B8%8F",
+      "Punycode": "xn--t88h",
+      "Bytes (UTF-8)": "F0 9F 9B A1 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEE1\\uFE0F",
+      "C, C++, Python": "\\U0001f6e1\\uFE0F",
+      "CSS": "\\01F6E1 \\FE0F",
+      "PHP, Ruby": "\\u{1F6E1}\\u{FE0F}",
+      "Perl": "\\x{1F6E1}\\x{FE0F}"
+    }
+  }
+}

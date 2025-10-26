@@ -1,0 +1,85 @@
+{
+  "emoji": "🔭",
+  "nome": "🔭 Telescópio",
+  "categoria": "Telescope",
+  "url": "https://emojigraph.org/pt/telescope/",
+  "detalhes": {
+    "explicacao": "De um telescópio, como costumava olhar para as estrelas e planetas no céu à noite. Mostrado com um tubo óptico montado sobre um tripé, posicionada em diferentes ângulos, e geralmente retratado como o metal.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/telescope_1f52d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/telescope_1f52d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ciência",
+      "ferramenta",
+      "telescópio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F52D;",
+      "HTML dec": "&#128301;",
+      "URL escape code": "%F0%9F%94%AD",
+      "Punycode": "xn--dw8h",
+      "Bytes (UTF-8)": "F0 9F 94 AD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD2D",
+      "C, C++, Python": "\\U0001f52d",
+      "CSS": "\\01F52D",
+      "PHP, Ruby": "\\u{1F52D}",
+      "Perl": "\\x{1F52D}"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "emoji": "🚵",
+  "nome": "🚵 Pessoa fazendo mountain bike",
+  "categoria": "person mountain biking",
+  "url": "https://emojigraph.org/pt/person-mountain-biking/",
+  "detalhes": {
+    "explicacao": "Uma pessoa (ciclista), que monta uma bicicleta de montanha: um tipo de off-road de bicicleta. Se pretende ser de gênero neutro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-mountain-biking_1f6b5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-mountain-biking_1f6b5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-mountain-biking_1f6b5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-mountain-biking_1f6b5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-mountain-biking_1f6b5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-mountain-biking_1f6b5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-mountain-biking_1f6b5.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-mountain-biking_1f6b5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-mountain-biking_1f6b5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-mountain-biking_1f6b5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-mountain-biking_1f6b5.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-mountain-biking_1f6b5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bicicleta",
+      "ciclista",
+      "mountain bike",
+      "ciclismo",
+      "esporte",
+      "montanha",
+      "pedalando",
+      "trilha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6B5;",
+      "HTML dec": "&#128693;",
+      "URL escape code": "%F0%9F%9A%B5",
+      "Punycode": "xn--k78h",
+      "Bytes (UTF-8)": "F0 9F 9A B5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEB5",
+      "C, C++, Python": "\\U0001f6b5",
+      "CSS": "\\01F6B5",
+      "PHP, Ruby": "\\u{1F6B5}",
+      "Perl": "\\x{1F6B5}"
+    }
+  }
+}

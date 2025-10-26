@@ -1,0 +1,93 @@
+{
+  "emoji": "🎆",
+  "nome": "🎆 Fogos de artifício",
+  "categoria": "fireworks",
+  "url": "https://emojigraph.org/pt/fireworks/",
+  "detalhes": {
+    "explicacao": "Fogo-de-artifício emoji, mostrando uma explosão de luz colorida no céu noturno, usado para qualquer celebração, como a Véspera de Ano Novo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fireworks_1f386.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/fireworks_1f386.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comemoração",
+      "ano novo",
+      "fogos"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F386;",
+      "HTML dec": "&#127878;",
+      "URL escape code": "%F0%9F%8E%86",
+      "Punycode": "xn--9j8h",
+      "Bytes (UTF-8)": "F0 9F 8E 86",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF86",
+      "C, C++, Python": "\\U0001f386",
+      "CSS": "\\01F386",
+      "PHP, Ruby": "\\u{1F386}",
+      "Perl": "\\x{1F386}"
+    }
+  }
+}

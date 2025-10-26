@@ -1,0 +1,72 @@
+{
+  "emoji": "🥙",
+  "nome": "🥙 Pão recheado",
+  "categoria": "Stuffed Flatbread",
+  "url": "https://emojigraph.org/pt/stuffed-flatbread/",
+  "detalhes": {
+    "explicacao": "Um pão sírio, como o pita, recheado com alface, tomate, e/ou carne. Assemelha-se a um doner kebab, falafel, shawarma, ou giroscópio sanduíche, popular no Oriente Médio e o Mediterrâneo. A Apple e o WhatsApp adicionar vermelho, cebola e pepino. Não deve ser confundido com o Burrito.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/stuffed-flatbread_1f959.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/stuffed-flatbread_1f959.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/stuffed-flatbread_1f959.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/stuffed-flatbread_1f959.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/stuffed-flatbread_1f959.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/stuffed-flatbread_1f959.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/stuffed-flatbread_1f959.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/stuffed-flatbread_1f959.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/stuffed-flatbread_1f959.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/stuffed-flatbread_1f959.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comida",
+      "kebab",
+      "pão",
+      "pão recheado",
+      "recheio",
+      "wrap"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F959;",
+      "HTML dec": "&#129369;",
+      "URL escape code": "%F0%9F%A5%99",
+      "Punycode": "xn--vr9h",
+      "Bytes (UTF-8)": "F0 9F A5 99",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD59",
+      "C, C++, Python": "\\U0001f959",
+      "CSS": "\\01F959",
+      "PHP, Ruby": "\\u{1F959}",
+      "Perl": "\\x{1F959}"
+    }
+  }
+}

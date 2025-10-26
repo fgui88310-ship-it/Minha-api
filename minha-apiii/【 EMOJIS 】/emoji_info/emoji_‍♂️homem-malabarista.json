@@ -1,0 +1,63 @@
+{
+  "emoji": "🤹",
+  "nome": "🤹‍♂️ Homem malabarista",
+  "categoria": "Man Juggling",
+  "url": "https://emojigraph.org/pt/man-juggling/",
+  "detalhes": {
+    "explicacao": "O Homem Malabarismo emoji é uma sequência do 🤹 Malabarismo e ♂ Masculino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-juggling_1f939-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-juggling_1f939-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-juggling_1f939-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-juggling_1f939-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-juggling_1f939-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-juggling_1f939-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-juggling_1f939-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-juggling_1f939-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "equilíbrio",
+      "habilidade",
+      "homem",
+      "malabarismo",
+      "multitarefa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F939;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#129337;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%A4%B9%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h9981o",
+      "Bytes (UTF-8)": "F0 9F A4 B9 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD39\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f939\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F939 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F939}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F939}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

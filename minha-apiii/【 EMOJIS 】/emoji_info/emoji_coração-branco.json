@@ -1,0 +1,69 @@
+{
+  "emoji": "🤍",
+  "nome": "🤍 Coração branco",
+  "categoria": "White Heart",
+  "url": "https://emojigraph.org/pt/white-heart/",
+  "detalhes": {
+    "explicacao": "Um coração branco emoji para acompanhar outros corações como ❤️🧡💛💚💙💜🖤 aprovado como parte do Emoji 12.0, em 2019, e, agora, disponível nas principais plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/white-heart_1f90d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/white-heart_1f90d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/white-heart_1f90d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/white-heart_1f90d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/white-heart_1f90d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/white-heart_1f90d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/white-heart_1f90d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/white-heart_1f90d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/white-heart_1f90d.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/white-heart_1f90d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "branco",
+      "coração",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F90D;",
+      "HTML dec": "&#129293;",
+      "URL escape code": "%F0%9F%A4%8D",
+      "Punycode": "xn--pp9h",
+      "Bytes (UTF-8)": "F0 9F A4 8D",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD0D",
+      "C, C++, Python": "\\U0001f90d",
+      "CSS": "\\01F90D",
+      "PHP, Ruby": "\\u{1F90D}",
+      "Perl": "\\x{1F90D}"
+    }
+  }
+}

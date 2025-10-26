@@ -1,0 +1,62 @@
+{
+  "emoji": "🏊",
+  "nome": "🏊‍♀️ Mulher nadando",
+  "categoria": "woman swimming",
+  "url": "https://emojigraph.org/pt/woman-swimming/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 🏊 Nadador emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-swimming_1f3ca-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-swimming_1f3ca-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-swimming_1f3ca-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-swimming_1f3ca-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-swimming_1f3ca-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-swimming_1f3ca-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-swimming_1f3ca-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-swimming_1f3ca-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mulher",
+      "mulher nadando",
+      "nadar",
+      "natação"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3CA;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#127946;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%8F%8A%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h3199n",
+      "Bytes (UTF-8)": "F0 9F 8F 8A E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFCA\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f3ca\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F3CA \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F3CA}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F3CA}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

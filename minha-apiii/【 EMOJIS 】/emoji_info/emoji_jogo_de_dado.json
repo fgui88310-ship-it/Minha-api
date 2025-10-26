@@ -1,0 +1,95 @@
+{
+  "emoji": "🎲",
+  "nome": "🎲 Jogo de dado",
+  "categoria": "game die",
+  "url": "https://emojigraph.org/pt/game-die/",
+  "detalhes": {
+    "explicacao": "Um cubo de seis lados, usado em uma variedade de jogos de mesa. Comumente chamado de dados o que se refere ao plural de dado",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/game-die_1f3b2.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/game-die_1f3b2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dado",
+      "dados",
+      "jogo",
+      "jogo de dado",
+      "sorte"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3B2;",
+      "HTML dec": "&#127922;",
+      "URL escape code": "%F0%9F%8E%B2",
+      "Punycode": "xn--jl8h",
+      "Bytes (UTF-8)": "F0 9F 8E B2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFB2",
+      "C, C++, Python": "\\U0001f3b2",
+      "CSS": "\\01F3B2",
+      "PHP, Ruby": "\\u{1F3B2}",
+      "Perl": "\\x{1F3B2}"
+    }
+  }
+}

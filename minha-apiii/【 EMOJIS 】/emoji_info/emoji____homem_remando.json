@@ -1,0 +1,63 @@
+{
+  "emoji": "🚣",
+  "nome": "🚣‍♂️ Homem remando",
+  "categoria": "man rowing boat",
+  "url": "https://emojigraph.org/pt/man-rowing-boat/",
+  "detalhes": {
+    "explicacao": "A versão masculina do 🚣 Barco emoji. Atualmente idêntico em aparência a não-gênero da base de dados de emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-rowing-boat_1f6a3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-rowing-boat_1f6a3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-rowing-boat_1f6a3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-rowing-boat_1f6a3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-rowing-boat_1f6a3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-rowing-boat_1f6a3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-rowing-boat_1f6a3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-rowing-boat_1f6a3-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esporte",
+      "homem",
+      "homem remando",
+      "remador",
+      "remo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6A3;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#128675;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%9A%A3%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h1590o",
+      "Bytes (UTF-8)": "F0 9F 9A A3 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEA3\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f6a3\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F6A3 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F6A3}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F6A3}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

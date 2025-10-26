@@ -1,0 +1,95 @@
+{
+  "emoji": "💀",
+  "nome": "💀 Caveira",
+  "categoria": "Skull",
+  "url": "https://emojigraph.org/pt/skull/",
+  "detalhes": {
+    "explicacao": "Um caveira cinzento-esbranquiçada, estilo- cartoon, crânio humano, de olho preto ocos. Comumente expressa a figurativa morte, por exemplo, morrendo com extremo riso, frustração, ou afeto. Ver também o dia das bruxas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/skull_1f480.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/skull_1f480.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/skull_1f480.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/skull_1f480.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/skull_1f480.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/skull_1f480.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/skull_1f480.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/skull_1f480.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/skull_1f480.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/skull_1f480.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/skull_1f480.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/skull_1f480.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/skull_1f480.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/skull_1f480.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/skull_1f480.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/skull_1f480.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caveira",
+      "conto de fadas",
+      "corpo",
+      "morte",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F480;",
+      "HTML dec": "&#128128;",
+      "URL escape code": "%F0%9F%92%80",
+      "Punycode": "xn--fr8h",
+      "Bytes (UTF-8)": "F0 9F 92 80",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC80",
+      "C, C++, Python": "\\U0001f480",
+      "CSS": "\\01F480",
+      "PHP, Ruby": "\\u{1F480}",
+      "Perl": "\\x{1F480}"
+    }
+  }
+}

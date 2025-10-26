@@ -1,0 +1,59 @@
+{
+  "emoji": "🇬🇺",
+  "nome": "🇬🇺 Bandeira: Guam",
+  "categoria": "flag guam",
+  "url": "https://emojigraph.org/pt/flag-guam/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Guam. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇺 Símbolo Indicador Regional Letra U. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GU em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-guam_1f1ec-1f1fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-guam_1f1ec-1f1fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-guam_1f1ec-1f1fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-guam_1f1ec-1f1fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-guam_1f1ec-1f1fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-guam_1f1ec-1f1fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-guam_1f1ec-1f1fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-guam_1f1ec-1f1fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1FA;",
+      "HTML dec": "&#127468;&#127482;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%BA",
+      "Punycode": "xn--k77h2a",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 BA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDFA",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1fa",
+      "CSS": "\\01F1EC \\01F1FA",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1FA}",
+      "Perl": "\\x{1F1EC}\\x{1F1FA}"
+    }
+  }
+}

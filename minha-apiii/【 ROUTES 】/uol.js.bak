@@ -1,0 +1,68 @@
+import express from 'express';
+import axios from 'axios';
+import xml2js from 'xml2js';
+import * as cheerio from 'cheerio';
+
+const router = express.Router();
+
+// Pega descrição do HTML da notícia
+async function pegarDescricao(url) {
+  try {
+    const { data } = await axios.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+    const $ = cheerio.load(data);
+
+    const paragrafos = $('article p, .content p').map((i, el) => $(el).text().trim()).get();
+    return paragrafos.slice(0, 3).join('\n');
+  } catch (err) {
+    console.warn('Erro ao pegar descrição:', err.message);
+    return '';
+  }
+}
+
+// Busca notícias via RSS
+async function buscarNoticiasEstadao(feedUrl) {
+  try {
+    const { data } = await axios.get(feedUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+    const parser = new xml2js.Parser({ explicitArray: false, mergeAttrs: true });
+    const result = await parser.parseStringPromise(data);
+
+    const items = result.rss?.channel?.item ? (Array.isArray(result.rss.channel.item) ? result.rss.channel.item : [result.rss.channel.item]) : [];
+    if (!items.length) return [];
+
+    const noticias = await Promise.all(
+      items.slice(0, 3).map(async (item) => {
+        const link = item.link;
+        const descricao = await pegarDescricao(link);
+        return {
+          titulo: item.title,
+          descricao,
+          link
+        };
+      })
+    );
+
+    return noticias;
+  } catch (err) {
+    console.error('[ESTADÃO RSS]', err.message);
+    return [];
+  }
+}
+
+// Endpoint
+router.get('/', async (req, res) => {
+  const feedUrl = req.query.feed || 'https://rss.estadao.com.br/rss/ultimas.xml';
+  const noticias = await buscarNoticiasEstadao(feedUrl);
+
+  if (!noticias.length) return res.status(404).json({ error: 'Nenhuma notícia encontrada' });
+
+  let msg = `📰 *Notícias do Estadão*\n\n`;
+  noticias.forEach((n, i) => {
+    msg += `*${i + 1}. ${n.titulo}*\n`;
+    if (n.descricao) msg += `📝 ${n.descricao}\n`;
+    msg += `🔗 [Leia Mais](${n.link})\n\n`;
+  });
+
+  res.json({ total: noticias.length, noticias, mensagem_formatada: msg });
+});
+
+export default router;

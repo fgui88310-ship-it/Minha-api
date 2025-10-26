@@ -1,0 +1,69 @@
+{
+  "emoji": "💂",
+  "nome": "💂‍♀️ Guarda mulher",
+  "categoria": "Woman Guard",
+  "url": "https://emojigraph.org/pt/woman-guard/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 💂 Guarda emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-guard_1f482-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-guard_1f482-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-guard_1f482-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-guard_1f482-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-guard_1f482-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-guard_1f482-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-guard_1f482-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-guard_1f482-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-guard_1f482-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-guard_1f482-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "guarda",
+      "mulher",
+      "segurança"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F482;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128130;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%92%82%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h7710o",
+      "Bytes (UTF-8)": "F0 9F 92 82 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC82\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f482\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F482 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F482}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F482}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

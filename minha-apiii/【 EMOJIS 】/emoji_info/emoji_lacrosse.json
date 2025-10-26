@@ -1,0 +1,73 @@
+{
+  "emoji": "🥍",
+  "nome": "🥍 Lacrosse",
+  "categoria": "Lacrosse",
+  "url": "https://emojigraph.org/pt/lacrosse/",
+  "detalhes": {
+    "explicacao": "Lacrosse foi aprovado como parte do Unicode 11.0 em 2018sob o nome de \"bastão de Lacrosse, e a Bola",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lacrosse_1f94d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lacrosse_1f94d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lacrosse_1f94d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lacrosse_1f94d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lacrosse_1f94d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lacrosse_1f94d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lacrosse_1f94d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lacrosse_1f94d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lacrosse_1f94d.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/lacrosse_1f94d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bastão",
+      "bola",
+      "gol",
+      "lacrosse",
+      "esporte",
+      "raquete",
+      "taco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F94D;",
+      "HTML dec": "&#129357;",
+      "URL escape code": "%F0%9F%A5%8D",
+      "Punycode": "xn--jr9h",
+      "Bytes (UTF-8)": "F0 9F A5 8D",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD4D",
+      "C, C++, Python": "\\U0001f94d",
+      "CSS": "\\01F94D",
+      "PHP, Ruby": "\\u{1F94D}",
+      "Perl": "\\x{1F94D}"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "emoji": "🦚",
+  "nome": "🦚 Pavão",
+  "categoria": "Peacock",
+  "url": "https://emojigraph.org/pt/peacock/",
+  "detalhes": {
+    "explicacao": "Um pavão, o macho pássaro que apresenta uma grande, ventoinha, iridescente conto. Representado voltado para a frente, de pé sobre as suas pernas, com um corpo azul e verde, as penas da cauda particulada.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/peacock_1f99a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/peacock_1f99a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/peacock_1f99a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/peacock_1f99a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/peacock_1f99a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/peacock_1f99a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/peacock_1f99a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/peacock_1f99a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/peacock_1f99a.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/peacock_1f99a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ave",
+      "orgulhoso",
+      "pavão",
+      "pavoa",
+      "pomposo",
+      "animal",
+      "colorido"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F99A;",
+      "HTML dec": "&#129434;",
+      "URL escape code": "%F0%9F%A6%9A",
+      "Punycode": "xn--qt9h",
+      "Bytes (UTF-8)": "F0 9F A6 9A",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD9A",
+      "C, C++, Python": "\\U0001f99a",
+      "CSS": "\\01F99A",
+      "PHP, Ruby": "\\u{1F99A}",
+      "Perl": "\\x{1F99A}"
+    }
+  }
+}

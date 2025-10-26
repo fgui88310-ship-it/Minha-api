@@ -1,0 +1,70 @@
+{
+  "emoji": "🗳",
+  "nome": "🗳️ Urna eleitoral com cédula",
+  "categoria": "Ballot Box With Ballot",
+  "url": "https://emojigraph.org/pt/ballot-box-with-ballot/",
+  "detalhes": {
+    "explicacao": "Uma urna, como os usados para votar em uma eleição. Representada como uma caixa, geralmente azul ou cinza, com uma fenda na parte superior, através do qual um boletim está sendo inserido. Muitas plataformas de exibir uma cruz marca ou marca de verificação na cédula de votação para indicar um voto, que a Apple e o Facebook deixe deles em branco.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ballot-box-with-ballot_1f5f3-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ballot-box-with-ballot_1f5f3-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ballot-box-with-ballot_1f5f3-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ballot-box-with-ballot_1f5f3-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ballot-box-with-ballot_1f5f3-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ballot-box-with-ballot_1f5f3-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ballot-box-with-ballot_1f5f3-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ballot-box-with-ballot_1f5f3-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ballot-box-with-ballot_1f5f3-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ballot-box-with-ballot_1f5f3-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cédula",
+      "urna",
+      "votar",
+      "voto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5F3;&#xFE0F;",
+      "HTML dec": "&#128499;&#65039;",
+      "URL escape code": "%F0%9F%97%B3%EF%B8%8F",
+      "Punycode": "xn--018h",
+      "Bytes (UTF-8)": "F0 9F 97 B3 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDF3\\uFE0F",
+      "C, C++, Python": "\\U0001f5f3\\uFE0F",
+      "CSS": "\\01F5F3 \\FE0F",
+      "PHP, Ruby": "\\u{1F5F3}\\u{FE0F}",
+      "Perl": "\\x{1F5F3}\\x{FE0F}"
+    }
+  }
+}

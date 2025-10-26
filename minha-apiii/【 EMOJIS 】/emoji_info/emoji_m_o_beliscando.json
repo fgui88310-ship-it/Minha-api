@@ -1,0 +1,71 @@
+{
+  "emoji": "🤏",
+  "nome": "🤏 Mão beliscando",
+  "categoria": "pinching hand",
+  "url": "https://emojigraph.org/pt/pinching-hand/",
+  "detalhes": {
+    "explicacao": "Uma mão com o polegar e o dedo indicador em estreita proximidade. Usado para sugerir que algo é pequeno, ou o gesto de uma pequena quantidade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pinching-hand_1f90f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pinching-hand_1f90f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pinching-hand_1f90f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pinching-hand_1f90f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pinching-hand_1f90f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pinching-hand_1f90f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pinching-hand_1f90f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pinching-hand_1f90f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pinching-hand_1f90f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/pinching-hand_1f90f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mão beliscando",
+      "beliscar",
+      "pequeno",
+      "pouco",
+      "pouquinho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F90F;",
+      "HTML dec": "&#129295;",
+      "URL escape code": "%F0%9F%A4%8F",
+      "Punycode": "xn--rp9h",
+      "Bytes (UTF-8)": "F0 9F A4 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD0F",
+      "C, C++, Python": "\\U0001f90f",
+      "CSS": "\\01F90F",
+      "PHP, Ruby": "\\u{1F90F}",
+      "Perl": "\\x{1F90F}"
+    }
+  }
+}

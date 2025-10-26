@@ -1,0 +1,73 @@
+{
+  "emoji": "🦶",
+  "nome": "🦶 Pé",
+  "categoria": "Foot",
+  "url": "https://emojigraph.org/pt/foot/",
+  "detalhes": {
+    "explicacao": "Um pé humano mostrado com cinco dedos e podem incluir o pé inteiro ou também com parte do tornozelo. Mostrado em plataformas da Apple, como a sola de um pé.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/foot_1f9b6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/foot_1f9b6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/foot_1f9b6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/foot_1f9b6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/foot_1f9b6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/foot_1f9b6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/foot_1f9b6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/foot_1f9b6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/foot_1f9b6.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/foot_1f9b6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chute",
+      "pé",
+      "pisão",
+      "calcanhar",
+      "chutar",
+      "pisar",
+      "tornozelo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9B6;",
+      "HTML dec": "&#129462;",
+      "URL escape code": "%F0%9F%A6%B6",
+      "Punycode": "xn--ju9h",
+      "Bytes (UTF-8)": "F0 9F A6 B6",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDB6",
+      "C, C++, Python": "\\U0001f9b6",
+      "CSS": "\\01F9B6",
+      "PHP, Ruby": "\\u{1F9B6}",
+      "Perl": "\\x{1F9B6}"
+    }
+  }
+}

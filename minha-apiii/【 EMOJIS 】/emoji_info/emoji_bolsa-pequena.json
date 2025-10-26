@@ -1,0 +1,95 @@
+{
+  "emoji": "👝",
+  "nome": "👝 Bolsa pequena",
+  "categoria": "Clutch Bag",
+  "url": "https://emojigraph.org/pt/clutch-bag/",
+  "detalhes": {
+    "explicacao": "Uma bolsa pequena, em algum lugar entre o tamanho de uma mala e uma bolsa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/clutch-bag_1f45d.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/clutch-bag_1f45d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "bolsa pequena",
+      "bolsa",
+      "carteira",
+      "fashion"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F45D;",
+      "HTML dec": "&#128093;",
+      "URL escape code": "%F0%9F%91%9D",
+      "Punycode": "xn--fq8h",
+      "Bytes (UTF-8)": "F0 9F 91 9D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC5D",
+      "C, C++, Python": "\\U0001f45d",
+      "CSS": "\\01F45D",
+      "PHP, Ruby": "\\u{1F45D}",
+      "Perl": "\\x{1F45D}"
+    }
+  }
+}

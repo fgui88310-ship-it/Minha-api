@@ -1,0 +1,77 @@
+{
+  "emoji": "🤪",
+  "nome": "🤪 Rosto bizarro",
+  "categoria": "zany face",
+  "url": "https://emojigraph.org/pt/zany-face/",
+  "detalhes": {
+    "explicacao": "Um sorriso fazendo uma cara engraçada. Uma face amarela, com um grande sorriso amplo, olhos arregalados, um maior que o outro e com uma expressão selvagem. Muitas plataformas, incluindo a Apple, retratam sua língua solta e a cabeça inclinada; outros possuem dentes com sorriso, dando-lhe uma mais triste aparência.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/zany-face_1f92a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/zany-face_1f92a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/zany-face_1f92a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/zany-face_1f92a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/zany-face_1f92a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/zany-face_1f92a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/zany-face_1f92a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/zany-face_1f92a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/zany-face_1f92a.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/zany-face_1f92a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "excêntrico",
+      "grande",
+      "olho",
+      "pequeno",
+      "rosto bizarro",
+      "cara de maluco",
+      "doida",
+      "doido",
+      "louca",
+      "louco",
+      "olhar de maluco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F92A;",
+      "HTML dec": "&#129322;",
+      "URL escape code": "%F0%9F%A4%AA",
+      "Punycode": "xn--jq9h",
+      "Bytes (UTF-8)": "F0 9F A4 AA",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD2A",
+      "C, C++, Python": "\\U0001f92a",
+      "CSS": "\\01F92A",
+      "PHP, Ruby": "\\u{1F92A}",
+      "Perl": "\\x{1F92A}"
+    }
+  }
+}

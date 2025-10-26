@@ -1,0 +1,93 @@
+{
+  "emoji": "🚲",
+  "nome": "🚲 Bicicleta",
+  "categoria": "Bicycle",
+  "url": "https://emojigraph.org/pt/bicycle/",
+  "detalhes": {
+    "explicacao": "Uma bicicleta, às vezes chamado um empurrão de bicicleta, usado para o transporte ou esporte.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bicycle_1f6b2.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bicycle_1f6b2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bicicleta",
+      "veículo",
+      "bike"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6B2;",
+      "HTML dec": "&#128690;",
+      "URL escape code": "%F0%9F%9A%B2",
+      "Punycode": "xn--h78h",
+      "Bytes (UTF-8)": "F0 9F 9A B2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEB2",
+      "C, C++, Python": "\\U0001f6b2",
+      "CSS": "\\01F6B2",
+      "PHP, Ruby": "\\u{1F6B2}",
+      "Perl": "\\x{1F6B2}"
+    }
+  }
+}

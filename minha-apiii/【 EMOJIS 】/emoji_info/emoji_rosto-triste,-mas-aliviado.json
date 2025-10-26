@@ -1,0 +1,96 @@
+{
+  "emoji": "😥",
+  "nome": "😥 Rosto triste, mas aliviado",
+  "categoria": "Sad But Relieved Face",
+  "url": "https://emojigraph.org/pt/sad-but-relieved-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com a pequena, de olhos abertos, com um leve franzir de testa, franzida e sobrancelhas, a partir do qual uma só gota de suor escorre, como se a partir de preocupação ou de ansiedade. Também conhecido como Desapontado, mas Aliviado Face, sugerindo que o sorriso está chateado, mas é grato, as coisas não saíram pior.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sad-but-relieved-face_1f625.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/sad-but-relieved-face_1f625.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aliviado",
+      "decepcionado",
+      "rosto",
+      "ufa",
+      "não",
+      "triste"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F625;",
+      "HTML dec": "&#128549;",
+      "URL escape code": "%F0%9F%98%A5",
+      "Punycode": "xn--g38h",
+      "Bytes (UTF-8)": "F0 9F 98 A5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE25",
+      "C, C++, Python": "\\U0001f625",
+      "CSS": "\\01F625",
+      "PHP, Ruby": "\\u{1F625}",
+      "Perl": "\\x{1F625}"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+// api/endpoints/game-news.js
+import express from 'express';
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+
+const router = express.Router();
+
+router.get('/', async (req, res, next) => {
+  const { query = '', limit = 10, site = 'ign' } = req.query;
+
+  try {
+    console.log('📰 BUSCANDO NOTÍCIAS DE GAMES...');
+
+    const { data } = await axios.get('https://br.ign.com/', {  // IGN BRASIL
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+      },
+      timeout: 10000,
+    });
+
+    const $ = cheerio.load(data);
+    const noticias = [];
+
+    // SELETOR REAL E ATUALIZADO (testado outubro 2025)
+    $('article h3 a, .article h3 a, h3 a[href*="/news/"], h3 a[href*="/articles/"]').each((i, el) => {
+      if (noticias.length >= limit) return false;
+
+      const title = $(el).text().trim();
+      const url = $(el).attr('href');
+      
+      // Filtro por query (ex: ?query=GTA)
+      if (query && !title.toLowerCase().includes(query.toLowerCase())) return true;
+      
+      if (title && url && !title.includes('Advertisement')) {
+        const shortUrl = url.match(/\/[a-z0-9-]+\/[0-9]+\/news\/[a-z0-9-]+/)
+          ? `https://br.ign.com${url}`
+          : `https://br.ign.com${url}`;
+        
+        noticias.push({
+          titulo: title.length > 120 ? title.substring(0, 117) + '...' : title,
+          link: shortUrl,
+          site: 'IGN Brasil',
+          data: new Date().toLocaleString('pt-BR'),
+          categoria: url.includes('/news/') ? 'Notícia' : 'Artigo'
+        });
+      }
+    });
+
+    // FALLBACK: Todos os h3 se não achar
+    if (noticias.length === 0) {
+      $('h3 a').slice(0, limit).each((i, el) => {
+        const title = $(el).text().trim();
+        const url = $(el).attr('href');
+        if (title && query === '' || title.toLowerCase().includes(query.toLowerCase())) {
+          noticias.push({
+            titulo: title.length > 120 ? title.substring(0, 117) + '...' : title,
+            link: `https://br.ign.com${url}`,
+            site: 'IGN Brasil',
+            data: new Date().toLocaleString('pt-BR'),
+            categoria: 'Notícia'
+          });
+        }
+      });
+    }
+
+    if (noticias.length === 0) {
+      return res.status(404).json({ 
+        error: `Nenhuma notícia encontrada${query ? ` para "${query}"` : ''}` 
+      });
+    }
+
+    console.log(`✅ ${noticias.length} notícias encontradas!`);
+    res.json(noticias);
+
+  } catch (err) {
+    console.error('Erro no scraper IGN:', err.message);
+    next(err);
+  }
+});
+
+export default router;

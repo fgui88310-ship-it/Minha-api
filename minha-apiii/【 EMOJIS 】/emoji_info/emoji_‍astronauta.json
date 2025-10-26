@@ -1,0 +1,52 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍🚀 Astronauta",
+  "categoria": "Astronaut",
+  "url": "https://emojigraph.org/pt/astronaut/",
+  "detalhes": {
+    "explicacao": "O Astronauta emoji é uma sequência do 🧑 Adultos e 🚀 Foguete emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/astronaut_1f9d1-200d-1f680.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/astronaut_1f9d1-200d-1f680.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/astronaut_1f9d1-200d-1f680.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/astronaut_1f9d1-200d-1f680.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/astronaut_1f9d1-200d-1f680.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/astronaut_1f9d1-200d-1f680.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "astronauta",
+      "foguete"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F680;",
+      "HTML dec": "&#129489;&#8205;&#128640;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%9A%80",
+      "Punycode": "xn--158h76c",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F 9A 80",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83D\\uDE80",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f680",
+      "CSS": "\\01F9D1 \\200D \\01F680",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F680}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F680}"
+    }
+  }
+}

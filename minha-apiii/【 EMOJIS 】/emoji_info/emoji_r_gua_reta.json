@@ -1,0 +1,92 @@
+{
+  "emoji": "📏",
+  "nome": "📏 Régua reta",
+  "categoria": "straight ruler",
+  "url": "https://emojigraph.org/pt/straight-ruler/",
+  "detalhes": {
+    "explicacao": "Um governante, como o usado para desenhar linhas retas e medir distâncias. Comummente descrito como um metal, de madeira, de plástico ou de régua de rectificação com comprimento marcações em um ângulo de 45°.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/straight-ruler_1f4cf.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/straight-ruler_1f4cf.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "régua",
+      "régua reta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4CF;",
+      "HTML dec": "&#128207;",
+      "URL escape code": "%F0%9F%93%8F",
+      "Punycode": "xn--ot8h",
+      "Bytes (UTF-8)": "F0 9F 93 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCCF",
+      "C, C++, Python": "\\U0001f4cf",
+      "CSS": "\\01F4CF",
+      "PHP, Ruby": "\\u{1F4CF}",
+      "Perl": "\\x{1F4CF}"
+    }
+  }
+}

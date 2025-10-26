@@ -1,0 +1,67 @@
+{
+  "emoji": "😶",
+  "nome": "😶‍🌫️ Rosto nas nuvens",
+  "categoria": "face in clouds",
+  "url": "https://emojigraph.org/pt/face-in-clouds/",
+  "detalhes": {
+    "explicacao": "Um rosto sem boca rodeado de nuvens. É principalmente uma metáfora visual um estado de espírito e tende mais para expressar a sensação de estar em uma névoa em vez de literalmente representar alguém em uma névoa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-in-clouds_1f636-200d-1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-in-clouds_1f636-200d-1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-in-clouds_1f636-200d-1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-in-clouds_1f636-200d-1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-in-clouds_1f636-200d-1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-in-clouds_1f636-200d-1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-in-clouds_1f636-200d-1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-in-clouds_1f636-200d-1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-in-clouds_1f636-200d-1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/face-in-clouds_1f636-200d-1f32b-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "distraído"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1f636;&#x200d;&#x1f32b;&#xfe0f;",
+      "HTML dec": "&#128566;&#8205;&#127787;&#65039;",
+      "URL escape code": "%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F",
+      "Punycode": "xn--oh8hv2c",
+      "Bytes (UTF-8)": "f0 9f 98 b6 e2 80 8d f0 9f 8c ab ef b8 8f",
+      "JavaScript, JSON, Java": "\\ud83d\\ude36\\u200d\\ud83c\\udf2b\\ufe0f",
+      "C, C++, Python": "\\U0001f636\\u000200d\\u0001f32b\\u000fe0f",
+      "CSS": "\\01F636 \\0200D \\01F32B \\0FE0F",
+      "PHP, Ruby": "\\u{1F636}\\u{200D}\\u{1F32B}\\u{FE0F}",
+      "Perl": "\\x{1F636}\\x{200D}\\x{1F32B}\\x{FE0F}"
+    }
+  }
+}

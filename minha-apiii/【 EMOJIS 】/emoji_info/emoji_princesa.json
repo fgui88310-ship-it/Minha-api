@@ -1,0 +1,99 @@
+{
+  "emoji": "👸",
+  "nome": "👸 Princesa",
+  "categoria": "Princess",
+  "url": "https://emojigraph.org/pt/princess/",
+  "detalhes": {
+    "explicacao": "O rosto de uma princesa, uma menina ou mulher vestindo uma pequena coroa ou tiara. Também pode ser usado para representar uma Rainha ou outros membros da realeza.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/princess_1f478.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/princess_1f478.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/princess_1f478.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/princess_1f478.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/princess_1f478.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/princess_1f478.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/princess_1f478.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/princess_1f478.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/princess_1f478.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/princess_1f478.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/princess_1f478.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/princess_1f478.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/princess_1f478.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/princess_1f478.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/princess_1f478.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/princess_1f478.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "conto de fadas",
+      "fantasia",
+      "princesa",
+      "coroa",
+      "loira",
+      "menina",
+      "mulher",
+      "pessoas",
+      "rainha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F478;",
+      "HTML dec": "&#128120;",
+      "URL escape code": "%F0%9F%91%B8",
+      "Punycode": "xn--6q8h",
+      "Bytes (UTF-8)": "F0 9F 91 B8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC78",
+      "C, C++, Python": "\\U0001f478",
+      "CSS": "\\01F478",
+      "PHP, Ruby": "\\u{1F478}",
+      "Perl": "\\x{1F478}"
+    }
+  }
+}

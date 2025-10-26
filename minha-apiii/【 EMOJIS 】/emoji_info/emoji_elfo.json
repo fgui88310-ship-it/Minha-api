@@ -1,0 +1,73 @@
+{
+  "emoji": "🧝",
+  "nome": "🧝 Elfo",
+  "categoria": "Elf",
+  "url": "https://emojigraph.org/pt/elf/",
+  "detalhes": {
+    "explicacao": "Criaturas com pontas ouvidos humanos e faces. Feminino e masculino elfos estão disponíveis.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/elf_1f9dd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/elf_1f9dd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/elf_1f9dd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/elf_1f9dd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/elf_1f9dd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/elf_1f9dd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/elf_1f9dd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/elf_1f9dd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/elf_1f9dd.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/elf_1f9dd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "elfo",
+      "mágico",
+      "fantasia",
+      "magia",
+      "místico",
+      "rpg",
+      "ser encantado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9DD;",
+      "HTML dec": "&#129501;",
+      "URL escape code": "%F0%9F%A7%9D",
+      "Punycode": "xn--nv9h",
+      "Bytes (UTF-8)": "F0 9F A7 9D",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDDD",
+      "C, C++, Python": "\\U0001f9dd",
+      "CSS": "\\01F9DD",
+      "PHP, Ruby": "\\u{1F9DD}",
+      "Perl": "\\x{1F9DD}"
+    }
+  }
+}

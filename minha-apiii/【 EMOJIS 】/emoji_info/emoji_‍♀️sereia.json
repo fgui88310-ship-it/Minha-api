@@ -1,0 +1,67 @@
+{
+  "emoji": "🧜",
+  "nome": "🧜‍♀️ Sereia",
+  "categoria": "Mermaid",
+  "url": "https://emojigraph.org/pt/mermaid/",
+  "detalhes": {
+    "explicacao": "A Sereia emoji é uma sequência do 🧜 Merperson e ♀ Feminino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mermaid_1f9dc-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mermaid_1f9dc-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mermaid_1f9dc-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mermaid_1f9dc-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mermaid_1f9dc-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mermaid_1f9dc-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mermaid_1f9dc-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mermaid_1f9dc-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mermaid_1f9dc-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mermaid_1f9dc-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "sereia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9DC;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#129500;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A7%9C%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h3312o",
+      "Bytes (UTF-8)": "F0 9F A7 9C E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDDC\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f9dc\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F9DC \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F9DC}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F9DC}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

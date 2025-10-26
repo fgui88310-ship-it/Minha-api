@@ -1,0 +1,99 @@
+{
+  "emoji": "🍸",
+  "nome": "🍸 Coquetel",
+  "categoria": "Cocktail Glass",
+  "url": "https://emojigraph.org/pt/cocktail-glass/",
+  "detalhes": {
+    "explicacao": "Uma raiz de vidro com um cone em forma de tigela, usado para servir cocktails. Descrito como um martini guarnecido com uma azeitona. Pode ser gin ou vodka, abalado ou agitados. Ver também a Bebida Tropical.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cocktail-glass_1f378.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cocktail-glass_1f378.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bar",
+      "coquetel",
+      "beber",
+      "bebida",
+      "cachaça",
+      "happy hour",
+      "martini",
+      "restaurante",
+      "taça"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F378;",
+      "HTML dec": "&#127864;",
+      "URL escape code": "%F0%9F%8D%B8",
+      "Punycode": "xn--vj8h",
+      "Bytes (UTF-8)": "F0 9F 8D B8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF78",
+      "C, C++, Python": "\\U0001f378",
+      "CSS": "\\01F378",
+      "PHP, Ruby": "\\u{1F378}",
+      "Perl": "\\x{1F378}"
+    }
+  }
+}

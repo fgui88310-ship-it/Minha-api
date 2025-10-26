@@ -1,0 +1,68 @@
+{
+  "emoji": "🛤",
+  "nome": "🛤️ Trilhos",
+  "categoria": "railway track",
+  "url": "https://emojigraph.org/pt/railway-track/",
+  "detalhes": {
+    "explicacao": "Faixa ferroviária foi aprovado como parte do Unicode 7.0 em 2014e acrescentou para o Emoji 1.0 em 2015.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/railway-track_1f6e4-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/railway-track_1f6e4-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/railway-track_1f6e4-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/railway-track_1f6e4-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/railway-track_1f6e4-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/railway-track_1f6e4-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/railway-track_1f6e4-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/railway-track_1f6e4-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/railway-track_1f6e4-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/railway-track_1f6e4-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "trem",
+      "trilhos"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6E4;&#xFE0F;",
+      "HTML dec": "&#128740;&#65039;",
+      "URL escape code": "%F0%9F%9B%A4%EF%B8%8F",
+      "Punycode": "xn--w88h",
+      "Bytes (UTF-8)": "F0 9F 9B A4 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEE4\\uFE0F",
+      "C, C++, Python": "\\U0001f6e4\\uFE0F",
+      "CSS": "\\01F6E4 \\FE0F",
+      "PHP, Ruby": "\\u{1F6E4}\\u{FE0F}",
+      "Perl": "\\x{1F6E4}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "emoji": "👇",
+  "nome": "👇 Dorso da mão com dedo indicador apontando para baixo",
+  "categoria": "backhand index pointing down",
+  "url": "https://emojigraph.org/pt/backhand-index-pointing-down/",
+  "detalhes": {
+    "explicacao": "O dedo indicador apontando para baixo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/backhand-index-pointing-down_1f447.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/backhand-index-pointing-down_1f447.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "costas da mão",
+      "dedo",
+      "dedo indicador",
+      "abaixo",
+      "dedo para baixo",
+      "embaixo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F447;",
+      "HTML dec": "&#128071;",
+      "URL escape code": "%F0%9F%91%87",
+      "Punycode": "xn--sp8h",
+      "Bytes (UTF-8)": "F0 9F 91 87",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC47",
+      "C, C++, Python": "\\U0001f447",
+      "CSS": "\\01F447",
+      "PHP, Ruby": "\\u{1F447}",
+      "Perl": "\\x{1F447}"
+    }
+  }
+}

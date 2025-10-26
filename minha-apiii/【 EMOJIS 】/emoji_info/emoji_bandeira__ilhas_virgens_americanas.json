@@ -1,0 +1,59 @@
+{
+  "emoji": "🇻🇮",
+  "nome": "🇻🇮 Bandeira: Ilhas Virgens Americanas",
+  "categoria": "flag us virgin islands",
+  "url": "https://emojigraph.org/pt/flag-us-virgin-islands/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional das Ilhas Virgens dos EUA. Este símbolo é uma seqüência de caracteres 🇻 Símbolo Indicador Regional Letra V e 🇮 Símbolo Indicador Regional Letra I. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras VI em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-us-virgin-islands_1f1fb-1f1ee.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-us-virgin-islands_1f1fb-1f1ee.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-us-virgin-islands_1f1fb-1f1ee.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-us-virgin-islands_1f1fb-1f1ee.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-us-virgin-islands_1f1fb-1f1ee.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-us-virgin-islands_1f1fb-1f1ee.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-us-virgin-islands_1f1fb-1f1ee.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-us-virgin-islands_1f1fb-1f1ee.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FB;&#x1F1EE;",
+      "HTML dec": "&#127483;&#127470;",
+      "URL escape code": "%F0%9F%87%BB%F0%9F%87%AE",
+      "Punycode": "xn--m77hza",
+      "Bytes (UTF-8)": "F0 9F 87 BB F0 9F 87 AE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFB\\uD83C\\uDDEE",
+      "C, C++, Python": "\\U0001f1fb\\U0001f1ee",
+      "CSS": "\\01F1FB \\01F1EE",
+      "PHP, Ruby": "\\u{1F1FB}\\u{1F1EE}",
+      "Perl": "\\x{1F1FB}\\x{1F1EE}"
+    }
+  }
+}

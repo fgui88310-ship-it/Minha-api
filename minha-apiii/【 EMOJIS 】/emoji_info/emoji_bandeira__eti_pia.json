@@ -1,0 +1,59 @@
+{
+  "emoji": "🇪🇹",
+  "nome": "🇪🇹 Bandeira: Etiópia",
+  "categoria": "flag ethiopia",
+  "url": "https://emojigraph.org/pt/flag-ethiopia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Etiópia. Este símbolo é uma seqüência de caracteres 🇪 Símbolo Indicador Regional Letra E e 🇹 Símbolo Indicador Regional Letra T. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras ET em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-ethiopia_1f1ea-1f1f9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-ethiopia_1f1ea-1f1f9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-ethiopia_1f1ea-1f1f9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-ethiopia_1f1ea-1f1f9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-ethiopia_1f1ea-1f1f9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-ethiopia_1f1ea-1f1f9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-ethiopia_1f1ea-1f1f9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-ethiopia_1f1ea-1f1f9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EA;&#x1F1F9;",
+      "HTML dec": "&#127466;&#127481;",
+      "URL escape code": "%F0%9F%87%AA%F0%9F%87%B9",
+      "Punycode": "xn--i77h4a",
+      "Bytes (UTF-8)": "F0 9F 87 AA F0 9F 87 B9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEA\\uD83C\\uDDF9",
+      "C, C++, Python": "\\U0001f1ea\\U0001f1f9",
+      "CSS": "\\01F1EA \\01F1F9",
+      "PHP, Ruby": "\\u{1F1EA}\\u{1F1F9}",
+      "Perl": "\\x{1F1EA}\\x{1F1F9}"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "emoji": "🐤",
+  "nome": "🐤 Pintinho de perfil",
+  "categoria": "Baby Chick",
+  "url": "https://emojigraph.org/pt/baby-chick/",
+  "detalhes": {
+    "explicacao": "Um amarelo bebê de frango (filhote). Comummente descrito como um filhote de perfil completo, de pé sobre as suas pernas, ou como um filhote de cabeça. Ambos os projetos mostram o pássaro virado para a esquerda, com uma laranja bico e os pés.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/baby-chick_1f424.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/baby-chick_1f424.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ave",
+      "filhote",
+      "galinha",
+      "pintinho",
+      "pinto",
+      "animal",
+      "bebê"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F424;",
+      "HTML dec": "&#128036;",
+      "URL escape code": "%F0%9F%90%A4",
+      "Punycode": "xn--so8h",
+      "Bytes (UTF-8)": "F0 9F 90 A4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC24",
+      "C, C++, Python": "\\U0001f424",
+      "CSS": "\\01F424",
+      "PHP, Ruby": "\\u{1F424}",
+      "Perl": "\\x{1F424}"
+    }
+  }
+}

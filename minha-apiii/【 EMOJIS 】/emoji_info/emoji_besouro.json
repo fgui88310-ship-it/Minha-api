@@ -1,0 +1,62 @@
+{
+  "emoji": "🪲",
+  "nome": "🪲 Besouro",
+  "categoria": "Beetle",
+  "url": "https://emojigraph.org/pt/beetle/",
+  "detalhes": {
+    "explicacao": "Besouro foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/beetle_1fab2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/beetle_1fab2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/beetle_1fab2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/beetle_1fab2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/beetle_1fab2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/beetle_1fab2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/beetle_1fab2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/beetle_1fab2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "besouro",
+      "bicho",
+      "inseto",
+      "animal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAB2;",
+      "HTML dec": "&#129714;",
+      "URL escape code": "%F0%9F%AA%B2",
+      "Punycode": "xn--q19h",
+      "Bytes (UTF-8)": "F0 9F AA B2",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEB2",
+      "C, C++, Python": "\\U0001fab2",
+      "CSS": "\\01FAB2",
+      "PHP, Ruby": "\\u{1FAB2}",
+      "Perl": "\\x{1FAB2}"
+    }
+  }
+}

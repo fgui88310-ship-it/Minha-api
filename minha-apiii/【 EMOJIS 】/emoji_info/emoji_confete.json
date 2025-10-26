@@ -1,0 +1,95 @@
+{
+  "emoji": "🎊",
+  "nome": "🎊 Confete",
+  "categoria": "Confetti Ball",
+  "url": "https://emojigraph.org/pt/confetti-ball/",
+  "detalhes": {
+    "explicacao": "Uma bola de ouro, dividido em duas metades em um banho de multicoloridos confetes e serpentinas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/confetti-ball_1f38a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/confetti-ball_1f38a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "comemoração",
+      "confete",
+      "celebração",
+      "parabéns"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F38A;",
+      "HTML dec": "&#127882;",
+      "URL escape code": "%F0%9F%8E%8A",
+      "Punycode": "xn--ek8h",
+      "Bytes (UTF-8)": "F0 9F 8E 8A",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF8A",
+      "C, C++, Python": "\\U0001f38a",
+      "CSS": "\\01F38A",
+      "PHP, Ruby": "\\u{1F38A}",
+      "Perl": "\\x{1F38A}"
+    }
+  }
+}

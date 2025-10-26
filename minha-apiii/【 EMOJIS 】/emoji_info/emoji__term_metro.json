@@ -1,0 +1,69 @@
+{
+  "emoji": "🌡",
+  "nome": "🌡️ Termômetro",
+  "categoria": "thermometer",
+  "url": "https://emojigraph.org/pt/thermometer/",
+  "detalhes": {
+    "explicacao": "Um líquido-em-vidro termômetro utilizado para se medir a temperatura. Representado em diferentes ângulos, com um líquido vermelho ressuscitado a partir do bulbo para vários níveis de escala. Comumente usado para conteúdo relativo a altas temperaturas, incluindo o tempo quente, a doença (com febre), e várias gírias sentidos de hot.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/thermometer_1f321-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/thermometer_1f321-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/thermometer_1f321-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/thermometer_1f321-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/thermometer_1f321-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/thermometer_1f321-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/thermometer_1f321-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/thermometer_1f321-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/thermometer_1f321-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/thermometer_1f321-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "clima",
+      "tempo",
+      "termômetro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F321;&#xFE0F;",
+      "HTML dec": "&#127777;&#65039;",
+      "URL escape code": "%F0%9F%8C%A1%EF%B8%8F",
+      "Punycode": "xn--eh8h",
+      "Bytes (UTF-8)": "F0 9F 8C A1 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF21\\uFE0F",
+      "C, C++, Python": "\\U0001f321\\uFE0F",
+      "CSS": "\\01F321 \\FE0F",
+      "PHP, Ruby": "\\u{1F321}\\u{FE0F}",
+      "Perl": "\\x{1F321}\\x{FE0F}"
+    }
+  }
+}

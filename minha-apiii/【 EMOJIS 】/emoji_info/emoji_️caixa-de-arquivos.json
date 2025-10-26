@@ -1,0 +1,69 @@
+{
+  "emoji": "🗃",
+  "nome": "🗃️ Caixa de arquivos",
+  "categoria": "Card File Box",
+  "url": "https://emojigraph.org/pt/card-file-box/",
+  "detalhes": {
+    "explicacao": "Um preto ou cinza caixa com um rótulo titular, contendo cartão de índice de divisores com multicores guias, como os usados para organizar e armazenar arquivos. Apple e Facebook projetos incluem uma tampa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/card-file-box_1f5c3-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/card-file-box_1f5c3-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/card-file-box_1f5c3-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/card-file-box_1f5c3-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/card-file-box_1f5c3-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/card-file-box_1f5c3-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/card-file-box_1f5c3-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/card-file-box_1f5c3-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/card-file-box_1f5c3-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/card-file-box_1f5c3-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arquivo",
+      "caixa",
+      "cartão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5C3;&#xFE0F;",
+      "HTML dec": "&#128451;&#65039;",
+      "URL escape code": "%F0%9F%97%83%EF%B8%8F",
+      "Punycode": "xn--n08h",
+      "Bytes (UTF-8)": "F0 9F 97 83 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDC3\\uFE0F",
+      "C, C++, Python": "\\U0001f5c3\\uFE0F",
+      "CSS": "\\01F5C3 \\FE0F",
+      "PHP, Ruby": "\\u{1F5C3}\\u{FE0F}",
+      "Perl": "\\x{1F5C3}\\x{FE0F}"
+    }
+  }
+}

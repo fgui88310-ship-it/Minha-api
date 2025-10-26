@@ -1,0 +1,96 @@
+{
+  "emoji": "👢",
+  "nome": "👢 Bota feminina",
+  "categoria": "womans boot",
+  "url": "https://emojigraph.org/pt/womans-boot/",
+  "detalhes": {
+    "explicacao": "Uma altura de inicialização, geralmente, com uma ligeira inclinação, mostrado na cor marrom ou vermelho na maioria das plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/womans-boot_1f462.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/womans-boot_1f462.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "bota feminina",
+      "botas",
+      "feminino",
+      "bota",
+      "sapato"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F462;",
+      "HTML dec": "&#128098;",
+      "URL escape code": "%F0%9F%91%A2",
+      "Punycode": "xn--kq8h",
+      "Bytes (UTF-8)": "F0 9F 91 A2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC62",
+      "C, C++, Python": "\\U0001f462",
+      "CSS": "\\01F462",
+      "PHP, Ruby": "\\u{1F462}",
+      "Perl": "\\x{1F462}"
+    }
+  }
+}

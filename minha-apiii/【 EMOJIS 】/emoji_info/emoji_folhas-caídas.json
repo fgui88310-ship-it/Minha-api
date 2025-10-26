@@ -1,0 +1,95 @@
+{
+  "emoji": "🍂",
+  "nome": "🍂 Folhas caídas",
+  "categoria": "Fallen Leaf",
+  "url": "https://emojigraph.org/pt/fallen-leaf/",
+  "detalhes": {
+    "explicacao": "Folhas, como um mudaram de cor e caído de uma árvore no outono/autumn. Retratado como duas ou três marrom-dourado, a amêndoa em forma de folhas de vários tamanhos, com talos, como se a cair.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fallen-leaf_1f342.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/fallen-leaf_1f342.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caídas",
+      "cair",
+      "folha",
+      "folhas",
+      "outono"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F342;",
+      "HTML dec": "&#127810;",
+      "URL escape code": "%F0%9F%8D%82",
+      "Punycode": "xn--ci8h",
+      "Bytes (UTF-8)": "F0 9F 8D 82",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF42",
+      "C, C++, Python": "\\U0001f342",
+      "CSS": "\\01F342",
+      "PHP, Ruby": "\\u{1F342}",
+      "Perl": "\\x{1F342}"
+    }
+  }
+}

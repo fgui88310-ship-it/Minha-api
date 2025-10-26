@@ -1,0 +1,75 @@
+{
+  "emoji": "🧬",
+  "nome": "🧬 Dna",
+  "categoria": "Dna",
+  "url": "https://emojigraph.org/pt/dna/",
+  "detalhes": {
+    "explicacao": "A dupla hélice do DNA, o material genético plano para a vida. A cor e a orientação variar entre plataformas, mas posicionado em um ângulo de 45° e em várias cores brilhantes para representar a molécula de espiral, escada-como estrutura.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dna_1f9ec.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dna_1f9ec.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dna_1f9ec.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dna_1f9ec.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dna_1f9ec.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dna_1f9ec.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dna_1f9ec.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dna_1f9ec.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dna_1f9ec.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/dna_1f9ec.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "biólogo",
+      "dna",
+      "evolução",
+      "gene",
+      "genética",
+      "vida",
+      "biologista",
+      "código",
+      "genético"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9EC;",
+      "HTML dec": "&#129516;",
+      "URL escape code": "%F0%9F%A7%AC",
+      "Punycode": "xn--2v9h",
+      "Bytes (UTF-8)": "F0 9F A7 AC",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDEC",
+      "C, C++, Python": "\\U0001f9ec",
+      "CSS": "\\01F9EC",
+      "PHP, Ruby": "\\u{1F9EC}",
+      "Perl": "\\x{1F9EC}"
+    }
+  }
+}

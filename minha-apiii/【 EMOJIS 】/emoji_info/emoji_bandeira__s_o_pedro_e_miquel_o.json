@@ -1,0 +1,59 @@
+{
+  "emoji": "🇵🇲",
+  "nome": "🇵🇲 Bandeira: São Pedro e Miquelão",
+  "categoria": "flag st pierre miquelon",
+  "url": "https://emojigraph.org/pt/flag-st-pierre-miquelon/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de St. Pierre & Miquelon. Este símbolo é uma seqüência de caracteres 🇵 Símbolo Indicador Regional Letra P e 🇲 Símbolo Indicador Regional Letra М. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras PM em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-st-pierre-miquelon_1f1f5-1f1f2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-st-pierre-miquelon_1f1f5-1f1f2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-st-pierre-miquelon_1f1f5-1f1f2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-st-pierre-miquelon_1f1f5-1f1f2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-st-pierre-miquelon_1f1f5-1f1f2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-st-pierre-miquelon_1f1f5-1f1f2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-st-pierre-miquelon_1f1f5-1f1f2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-st-pierre-miquelon_1f1f5-1f1f2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F5;&#x1F1F2;",
+      "HTML dec": "&#127477;&#127474;",
+      "URL escape code": "%F0%9F%87%B5%F0%9F%87%B2",
+      "Punycode": "xn--q77hfa",
+      "Bytes (UTF-8)": "F0 9F 87 B5 F0 9F 87 B2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF5\\uD83C\\uDDF2",
+      "C, C++, Python": "\\U0001f1f5\\U0001f1f2",
+      "CSS": "\\01F1F5 \\01F1F2",
+      "PHP, Ruby": "\\u{1F1F5}\\u{1F1F2}",
+      "Perl": "\\x{1F1F5}\\x{1F1F2}"
+    }
+  }
+}

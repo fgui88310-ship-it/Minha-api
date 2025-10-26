@@ -1,0 +1,64 @@
+{
+  "emoji": "🦭",
+  "nome": "🦭 Foca",
+  "categoria": "Seal",
+  "url": "https://emojigraph.org/pt/seal/",
+  "detalhes": {
+    "explicacao": "Uma imagem dos desenhos animados do que é conhecido como os cães do mar, a foca. As focas são frequentemente vistas executando truques em aquários e parques de diversões. Freqüentemente usado quando se fala de alguém que tem muito talento ou alguém divertido como as focas. Selo foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/seal_1f9ad.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/seal_1f9ad.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/seal_1f9ad.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/seal_1f9ad.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/seal_1f9ad.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/seal_1f9ad.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/seal_1f9ad.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/seal_1f9ad.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "foca",
+      "leão marinho",
+      "animal",
+      "animal marinho",
+      "leão-marinho",
+      "oceano"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9AD;",
+      "HTML dec": "&#129453;",
+      "URL escape code": "%F0%9F%A6%AD",
+      "Punycode": "xn--9t9h",
+      "Bytes (UTF-8)": "F0 9F A6 AD",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDAD",
+      "C, C++, Python": "\\U0001f9ad",
+      "CSS": "\\01F9AD",
+      "PHP, Ruby": "\\u{1F9AD}",
+      "Perl": "\\x{1F9AD}"
+    }
+  }
+}

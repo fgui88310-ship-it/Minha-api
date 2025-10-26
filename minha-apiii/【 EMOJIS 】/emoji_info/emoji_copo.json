@@ -1,0 +1,71 @@
+{
+  "emoji": "🥃",
+  "nome": "🥃 Copo",
+  "categoria": "Tumbler Glass",
+  "url": "https://emojigraph.org/pt/tumbler-glass/",
+  "detalhes": {
+    "explicacao": "Um curto, vidro plano, como o usado por brown bebidas destiladas, como uísque ou Scotch whisky. A Apple e o WhatsApp servir deles puro, enquanto outras plataformas de gelo incluem (\"on the rocks\"). Samsung vidro apresenta os fracos iniciais ONI, uma aparente na empresa ovo de páscoa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tumbler-glass_1f943.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tumbler-glass_1f943.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tumbler-glass_1f943.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tumbler-glass_1f943.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tumbler-glass_1f943.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tumbler-glass_1f943.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tumbler-glass_1f943.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tumbler-glass_1f943.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tumbler-glass_1f943.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tumbler-glass_1f943.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bebida",
+      "copo",
+      "drink",
+      "whisky",
+      "bar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F943;",
+      "HTML dec": "&#129347;",
+      "URL escape code": "%F0%9F%A5%83",
+      "Punycode": "xn--8q9h",
+      "Bytes (UTF-8)": "F0 9F A5 83",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD43",
+      "C, C++, Python": "\\U0001f943",
+      "CSS": "\\01F943",
+      "PHP, Ruby": "\\u{1F943}",
+      "Perl": "\\x{1F943}"
+    }
+  }
+}

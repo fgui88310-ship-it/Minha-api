@@ -1,0 +1,93 @@
+{
+  "emoji": "",
+  "nome": "✂️ Tesoura",
+  "categoria": "Scissors",
+  "url": "https://emojigraph.org/pt/scissors/",
+  "detalhes": {
+    "explicacao": "Um par de tesouras, usado para cortar papel ou cabelo. Geralmente mostrado aberto, lâminas para baixo, vermelho, com alças. Comumente usado para conteúdo relativo a cortes de cabelo, design de moda, artes e ofícios, e os vários sentidos de corte.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/scissors_2702-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/scissors_2702-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cortar",
+      "ferramenta",
+      "tesoura"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2702;&#xFE0F;",
+      "HTML dec": "&#9986;&#65039;",
+      "URL escape code": "%E2%9C%82%EF%B8%8F",
+      "Punycode": "xn--xbi",
+      "Bytes (UTF-8)": "E2 9C 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2702\\uFE0F",
+      "C, C++, Python": "\\u2702\\uFE0F",
+      "CSS": "\\2702 \\FE0F",
+      "PHP, Ruby": "\\u{2702}\\u{FE0F}",
+      "Perl": "\\x{2702}\\x{FE0F}"
+    }
+  }
+}

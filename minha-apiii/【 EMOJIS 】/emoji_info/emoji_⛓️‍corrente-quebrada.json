@@ -1,0 +1,55 @@
+{
+  "emoji": "",
+  "nome": "⛓️‍💥 Corrente quebrada",
+  "categoria": "Broken Chain",
+  "url": "https://emojigraph.org/pt/broken-chain/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/broken-chain_26d3-fe0f-200d-1f4a5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/broken-chain_26d3-fe0f-200d-1f4a5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/broken-chain_26d3-fe0f-200d-1f4a5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/broken-chain_26d3-fe0f-200d-1f4a5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/broken-chain_26d3-fe0f-200d-1f4a5.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/broken-chain_26d3-fe0f-200d-1f4a5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "algema",
+      "corrente",
+      "liberdade",
+      "quebrada",
+      "quebrando",
+      "quebrar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26D3;&#xFE0F;&#x200D;&#x1F4A5;",
+      "HTML dec": "&#9939;&#65039;&#8205;&#128165;",
+      "URL escape code": "%E2%9B%93%EF%B8%8F%E2%80%8D%F0%9F%92%A5",
+      "Bytes (UTF-8)": "e2 9b 93 ef b8 8f e2 80 8d f0 9f 92 a5",
+      "JavaScript, JSON, Java": "\\u26d3\\ufe0f\\u200d\\ud83d\\udca5",
+      "C, C++, Python": "\\U00026d3\\u000fe0f\\u000200d\\u0001f4a5",
+      "CSS": "\\026D3 \\0FE0F \\0200D \\01F4A5",
+      "PHP, Ruby": "\\u{26D3}\\u{FE0F}\\u{200D}\\u{1F4A5}",
+      "Perl": "\\x{26D3}\\x{FE0F}\\x{200D}\\x{1F4A5}"
+    }
+  }
+}

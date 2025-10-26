@@ -1,0 +1,93 @@
+{
+  "emoji": "🚀",
+  "nome": "🚀 Foguete",
+  "categoria": "Rocket",
+  "url": "https://emojigraph.org/pt/rocket/",
+  "detalhes": {
+    "explicacao": "Um foguete sendo impelido para o espaço.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/rocket_1f680.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/rocket_1f680.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "foguete",
+      "veículo",
+      "espaço"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F680;",
+      "HTML dec": "&#128640;",
+      "URL escape code": "%F0%9F%9A%80",
+      "Punycode": "xn--158h",
+      "Bytes (UTF-8)": "F0 9F 9A 80",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE80",
+      "C, C++, Python": "\\U0001f680",
+      "CSS": "\\01F680",
+      "PHP, Ruby": "\\u{1F680}",
+      "Perl": "\\x{1F680}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇦🇸",
+  "nome": "🇦🇸 Bandeira: Samoa Americana",
+  "categoria": "flag american samoa",
+  "url": "https://emojigraph.org/pt/flag-american-samoa/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Samoa Americana. Este símbolo é uma seqüência de caracteres 🇦 Símbolo Indicador Regional Letra A e 🇸 Símbolo Indicador Regional Letra S. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras AS em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-american-samoa_1f1e6-1f1f8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-american-samoa_1f1e6-1f1f8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-american-samoa_1f1e6-1f1f8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-american-samoa_1f1e6-1f1f8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-american-samoa_1f1e6-1f1f8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-american-samoa_1f1e6-1f1f8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-american-samoa_1f1e6-1f1f8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-american-samoa_1f1e6-1f1f8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E6;&#x1F1F8;",
+      "HTML dec": "&#127462;&#127480;",
+      "URL escape code": "%F0%9F%87%A6%F0%9F%87%B8",
+      "Punycode": "xn--e77heb",
+      "Bytes (UTF-8)": "F0 9F 87 A6 F0 9F 87 B8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE6\\uD83C\\uDDF8",
+      "C, C++, Python": "\\U0001f1e6\\U0001f1f8",
+      "CSS": "\\01F1E6 \\01F1F8",
+      "PHP, Ruby": "\\u{1F1E6}\\u{1F1F8}",
+      "Perl": "\\x{1F1E6}\\x{1F1F8}"
+    }
+  }
+}

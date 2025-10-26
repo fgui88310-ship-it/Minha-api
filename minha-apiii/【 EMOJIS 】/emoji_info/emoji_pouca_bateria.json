@@ -1,0 +1,77 @@
+{
+  "emoji": "🪫",
+  "nome": "🪫 Pouca bateria",
+  "categoria": "low battery",
+  "url": "https://emojigraph.org/pt/low-battery/",
+  "detalhes": {
+    "explicacao": "Uma bateria quase esgotada com a energia esquerda ilustrada como preenchida pela cor vermelha. Usado para falar sobre a ausência de algo, ou um baixo nível de energia em dispositivos movidos a bateria, ou como uma metáfora para uma pessoa cansada ou deprimida. Combina muito bem com o 🔋 bateria completo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/low-battery_1faab.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/low-battery_1faab.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/low-battery_1faab.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/low-battery_1faab.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/low-battery_1faab.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/low-battery_1faab.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/low-battery_1faab.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/low-battery_1faab.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/low-battery_1faab.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/low-battery_1faab.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "eletrônico",
+      "pouca bateria",
+      "pouca energia",
+      "bateria",
+      "bateria fraca",
+      "descarregada",
+      "descarregado",
+      "fim da bateria",
+      "pilha",
+      "pilha fraca",
+      "sem bateria"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAAB;",
+      "HTML dec": "&#129707;",
+      "URL escape code": "%F0%9F%AA%AB",
+      "Punycode": "xn--j19h",
+      "Bytes (UTF-8)": "f0 9f aa ab",
+      "JavaScript, JSON, Java": "\\ud83e\\udeab",
+      "C, C++, Python": "\\U0001faab",
+      "CSS": "\\01FAAB",
+      "PHP, Ruby": "\\u{1FAAB}",
+      "Perl": "\\x{1FAAB}"
+    }
+  }
+}

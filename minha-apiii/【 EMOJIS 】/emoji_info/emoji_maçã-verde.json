@@ -1,0 +1,95 @@
+{
+  "emoji": "🍏",
+  "nome": "🍏 Maçã verde",
+  "categoria": "Green Apple",
+  "url": "https://emojigraph.org/pt/green-apple/",
+  "detalhes": {
+    "explicacao": "Em comum uma maçã verde, tarter contrapartida para a Red Apple. Apresentado com uma haste e único, folha verde nas principais plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/green-apple_1f34f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/green-apple_1f34f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fruta",
+      "maçã",
+      "verde",
+      "comida",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F34F;",
+      "HTML dec": "&#127823;",
+      "URL escape code": "%F0%9F%8D%8F",
+      "Punycode": "xn--pi8h",
+      "Bytes (UTF-8)": "F0 9F 8D 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF4F",
+      "C, C++, Python": "\\U0001f34f",
+      "CSS": "\\01F34F",
+      "PHP, Ruby": "\\u{1F34F}",
+      "Perl": "\\x{1F34F}"
+    }
+  }
+}

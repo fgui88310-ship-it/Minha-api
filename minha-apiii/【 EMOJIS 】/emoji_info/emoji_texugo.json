@@ -1,0 +1,71 @@
+{
+  "emoji": "🦡",
+  "nome": "🦡 Texugo",
+  "categoria": "Badger",
+  "url": "https://emojigraph.org/pt/badger/",
+  "detalhes": {
+    "explicacao": "Um texugo, um parrudo mamífero no weasel família com uma longa, apontou cabeça. Geralmente retratada no perfil completo em todos os fours virada para a esquerda, com um casaco cinza, preto-e-branco-listrado rosto, e cauda curta.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/badger_1f9a1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/badger_1f9a1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/badger_1f9a1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/badger_1f9a1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/badger_1f9a1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/badger_1f9a1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/badger_1f9a1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/badger_1f9a1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/badger_1f9a1.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/badger_1f9a1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ratel",
+      "texugo",
+      "texugo de mel",
+      "animal",
+      "incomodar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9A1;",
+      "HTML dec": "&#129441;",
+      "URL escape code": "%F0%9F%A6%A1",
+      "Punycode": "xn--xt9h",
+      "Bytes (UTF-8)": "F0 9F A6 A1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDA1",
+      "C, C++, Python": "\\U0001f9a1",
+      "CSS": "\\01F9A1",
+      "PHP, Ruby": "\\u{1F9A1}",
+      "Perl": "\\x{1F9A1}"
+    }
+  }
+}

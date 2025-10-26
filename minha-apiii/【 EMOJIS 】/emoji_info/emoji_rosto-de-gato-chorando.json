@@ -1,0 +1,98 @@
+{
+  "emoji": "😿",
+  "nome": "😿 Rosto de gato chorando",
+  "categoria": "Crying Cat",
+  "url": "https://emojigraph.org/pt/crying-cat/",
+  "detalhes": {
+    "explicacao": "Um gato variante dos desenhos animados com 😢 Cara de Choro. Descrito como amarelo nas principais plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/crying-cat_1f63f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/crying-cat_1f63f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chorar",
+      "choro",
+      "gato",
+      "lágrima",
+      "rosto",
+      "triste",
+      "chorando",
+      "rosto de gato"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F63F;",
+      "HTML dec": "&#128575;",
+      "URL escape code": "%F0%9F%98%BF",
+      "Punycode": "xn--638h",
+      "Bytes (UTF-8)": "F0 9F 98 BF",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE3F",
+      "C, C++, Python": "\\U0001f63f",
+      "CSS": "\\01F63F",
+      "PHP, Ruby": "\\u{1F63F}",
+      "Perl": "\\x{1F63F}"
+    }
+  }
+}

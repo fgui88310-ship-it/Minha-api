@@ -1,0 +1,77 @@
+{
+  "emoji": "🫄",
+  "nome": "🫄 Pessoa grávida",
+  "categoria": "Pregnant Person",
+  "url": "https://emojigraph.org/pt/pregnant-person/",
+  "detalhes": {
+    "explicacao": "Uma pessoa grávida com uma barriga grande. Esta é uma versão de gênero neutro do 🤰 Grávida .",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pregnant-person_1fac4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pregnant-person_1fac4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pregnant-person_1fac4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pregnant-person_1fac4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pregnant-person_1fac4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pregnant-person_1fac4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pregnant-person_1fac4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pregnant-person_1fac4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pregnant-person_1fac4.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/pregnant-person_1fac4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barriga",
+      "cheio",
+      "gravidez",
+      "inchada",
+      "pessoa grávida",
+      "cheia",
+      "comi demais",
+      "excesso",
+      "excesso de peso",
+      "grávida",
+      "pessoa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAC4;",
+      "HTML dec": "&#129732;",
+      "URL escape code": "%F0%9F%AB%84",
+      "Punycode": "xn--819h",
+      "Bytes (UTF-8)": "f0 9f ab 84",
+      "JavaScript, JSON, Java": "\\ud83e\\udec4",
+      "C, C++, Python": "\\U0001fac4",
+      "CSS": "\\01FAC4",
+      "PHP, Ruby": "\\u{1FAC4}",
+      "Perl": "\\x{1FAC4}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "",
+  "nome": "⛏️ Picareta",
+  "categoria": "pick",
+  "url": "https://emojigraph.org/pt/pick/",
+  "detalhes": {
+    "explicacao": "Uma picareta, uma ferramenta com uma curva de pico para quebrar as rochas na área de mineração. Geralmente representado com uma cabeça de metal e alça de madeira, posicionado em um ângulo de 45° com a cabeça no canto superior esquerdo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pick_26cf-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pick_26cf-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pick_26cf-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pick_26cf-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pick_26cf-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pick_26cf-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pick_26cf-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pick_26cf-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pick_26cf-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pick_26cf-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ferramenta",
+      "mineração",
+      "picareta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26CF;&#xFE0F;",
+      "HTML dec": "&#9935;&#65039;",
+      "URL escape code": "%E2%9B%8F%EF%B8%8F",
+      "Punycode": "xn--h9h",
+      "Bytes (UTF-8)": "E2 9B 8F EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26CF\\uFE0F",
+      "C, C++, Python": "\\u26CF\\uFE0F",
+      "CSS": "\\26CF \\FE0F",
+      "PHP, Ruby": "\\u{26CF}\\u{FE0F}",
+      "Perl": "\\x{26CF}\\x{FE0F}"
+    }
+  }
+}

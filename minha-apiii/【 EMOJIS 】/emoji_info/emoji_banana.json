@@ -1,0 +1,92 @@
+{
+  "emoji": "🍌",
+  "nome": "🍌 Banana",
+  "categoria": "Banana",
+  "url": "https://emojigraph.org/pt/banana/",
+  "detalhes": {
+    "explicacao": "Uma banana madura, descascada e pronta para o consumo nas principais plataformas. Ótimo lanche para uma criança ou para um macaco.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/banana_1f34c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/banana_1f34c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "banana",
+      "fruta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F34C;",
+      "HTML dec": "&#127820;",
+      "URL escape code": "%F0%9F%8D%8C",
+      "Punycode": "xn--mi8h",
+      "Bytes (UTF-8)": "F0 9F 8D 8C",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF4C",
+      "C, C++, Python": "\\U0001f34c",
+      "CSS": "\\01F34C",
+      "PHP, Ruby": "\\u{1F34C}",
+      "Perl": "\\x{1F34C}"
+    }
+  }
+}

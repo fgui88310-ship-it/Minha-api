@@ -1,0 +1,96 @@
+{
+  "emoji": "🍩",
+  "nome": "🍩 Donut",
+  "categoria": "Doughnut",
+  "url": "https://emojigraph.org/pt/doughnut/",
+  "detalhes": {
+    "explicacao": "Um donut de chocolate (ou rosquinha) com o arco-íris granulado. O WhatsApp possui um de cor-de-rosa associado com Os Simpsons. Pode assemelhar-se o pão em pequenos tamanhos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/doughnut_1f369.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/doughnut_1f369.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "donut",
+      "rosquinha",
+      "comida",
+      "fome",
+      "restaurante",
+      "sonho doce"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F369;",
+      "HTML dec": "&#127849;",
+      "URL escape code": "%F0%9F%8D%A9",
+      "Punycode": "xn--gj8h",
+      "Bytes (UTF-8)": "F0 9F 8D A9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF69",
+      "C, C++, Python": "\\U0001f369",
+      "CSS": "\\01F369",
+      "PHP, Ruby": "\\u{1F369}",
+      "Perl": "\\x{1F369}"
+    }
+  }
+}

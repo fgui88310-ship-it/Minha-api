@@ -1,0 +1,92 @@
+{
+  "emoji": "📞",
+  "nome": "📞 Telefone",
+  "categoria": "Telephone Receiver",
+  "url": "https://emojigraph.org/pt/telephone-receiver/",
+  "detalhes": {
+    "explicacao": "O auscultador de um telefone tradicional, com o alto-falante e microfone. Geralmente retratado em preto em um ângulo de 45°.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/telephone-receiver_1f4de.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/telephone-receiver_1f4de.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comunicação",
+      "telefone"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4DE;",
+      "HTML dec": "&#128222;",
+      "URL escape code": "%F0%9F%93%9E",
+      "Punycode": "xn--3t8h",
+      "Bytes (UTF-8)": "F0 9F 93 9E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCDE",
+      "C, C++, Python": "\\U0001f4de",
+      "CSS": "\\01F4DE",
+      "PHP, Ruby": "\\u{1F4DE}",
+      "Perl": "\\x{1F4DE}"
+    }
+  }
+}

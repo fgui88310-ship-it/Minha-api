@@ -1,0 +1,74 @@
+{
+  "emoji": "🧭",
+  "nome": "🧭 Bússola",
+  "categoria": "Compass",
+  "url": "https://emojigraph.org/pt/compass/",
+  "detalhes": {
+    "explicacao": "Uma bússola magnética, como o utilizado para a navegação. Geralmente retratada em prata ou ouro, bússola com ponteiro de agulha vermelha. Comumente utilizado para vários conteúdos relativos a viajar e explorar bem como o metafórico de bússolas (por exemplo, bússola moral).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/compass_1f9ed.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/compass_1f9ed.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/compass_1f9ed.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/compass_1f9ed.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/compass_1f9ed.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/compass_1f9ed.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/compass_1f9ed.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/compass_1f9ed.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/compass_1f9ed.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/compass_1f9ed.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bússola",
+      "navegação",
+      "orientação",
+      "direção",
+      "ímã",
+      "magnético",
+      "norte",
+      "pontos cardeais"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9ED;",
+      "HTML dec": "&#129517;",
+      "URL escape code": "%F0%9F%A7%AD",
+      "Punycode": "xn--3v9h",
+      "Bytes (UTF-8)": "F0 9F A7 AD",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDED",
+      "C, C++, Python": "\\U0001f9ed",
+      "CSS": "\\01F9ED",
+      "PHP, Ruby": "\\u{1F9ED}",
+      "Perl": "\\x{1F9ED}"
+    }
+  }
+}

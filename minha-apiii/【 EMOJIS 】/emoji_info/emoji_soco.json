@@ -1,0 +1,94 @@
+{
+  "emoji": "👊",
+  "nome": "👊 Soco",
+  "categoria": "Oncoming Fist",
+  "url": "https://emojigraph.org/pt/oncoming-fist/",
+  "detalhes": {
+    "explicacao": "Um punho exibido em uma posição para socar alguém, ou para colidir em outra pessoa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/oncoming-fist_1f44a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/oncoming-fist_1f44a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mão",
+      "punho",
+      "soco",
+      "punho fechado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F44A;",
+      "HTML dec": "&#128074;",
+      "URL escape code": "%F0%9F%91%8A",
+      "Punycode": "xn--vp8h",
+      "Bytes (UTF-8)": "F0 9F 91 8A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC4A",
+      "C, C++, Python": "\\U0001f44a",
+      "CSS": "\\01F44A",
+      "PHP, Ruby": "\\u{1F44A}",
+      "Perl": "\\x{1F44A}"
+    }
+  }
+}

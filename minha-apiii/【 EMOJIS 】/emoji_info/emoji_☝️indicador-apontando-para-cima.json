@@ -1,0 +1,93 @@
+{
+  "emoji": "",
+  "nome": "☝️ Indicador apontando para cima",
+  "categoria": "Index Pointing Up",
+  "url": "https://emojigraph.org/pt/index-pointing-up/",
+  "detalhes": {
+    "explicacao": "Um único dedo que aponta para cima, o que poderia ser usado para representar o número um, ou para fazer uma pergunta.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/index-pointing-up_261d-fe0f.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/index-pointing-up_261d-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dedo",
+      "indicador",
+      "mão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x261D;&#xFE0F;",
+      "HTML dec": "&#9757;&#65039;",
+      "URL escape code": "%E2%98%9D%EF%B8%8F",
+      "Punycode": "xn--e4h",
+      "Bytes (UTF-8)": "E2 98 9D EF B8 8F",
+      "JavaScript, JSON, Java": "\\u261D\\uFE0F",
+      "C, C++, Python": "\\u261D\\uFE0F",
+      "CSS": "\\261D \\FE0F",
+      "PHP, Ruby": "\\u{261D}\\u{FE0F}",
+      "Perl": "\\x{261D}\\x{FE0F}"
+    }
+  }
+}

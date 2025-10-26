@@ -1,0 +1,70 @@
+{
+  "emoji": "🩱",
+  "nome": "🩱 Maiô",
+  "categoria": "One Piece Swimsuit",
+  "url": "https://emojigraph.org/pt/one-piece-swimsuit/",
+  "detalhes": {
+    "explicacao": "Um Maiô de Peça foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/one-piece-swimsuit_1fa71.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/one-piece-swimsuit_1fa71.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/one-piece-swimsuit_1fa71.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/one-piece-swimsuit_1fa71.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/one-piece-swimsuit_1fa71.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/one-piece-swimsuit_1fa71.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/one-piece-swimsuit_1fa71.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/one-piece-swimsuit_1fa71.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/one-piece-swimsuit_1fa71.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/one-piece-swimsuit_1fa71.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "maiô",
+      "roupa de banho",
+      "nadar",
+      "roupa de praia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA71;",
+      "HTML dec": "&#129649;",
+      "URL escape code": "%F0%9F%A9%B1",
+      "Punycode": "xn--vz9h",
+      "Bytes (UTF-8)": "F0 9F A9 B1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE71",
+      "C, C++, Python": "\\U0001fa71",
+      "CSS": "\\01FA71",
+      "PHP, Ruby": "\\u{1FA71}",
+      "Perl": "\\x{1FA71}"
+    }
+  }
+}

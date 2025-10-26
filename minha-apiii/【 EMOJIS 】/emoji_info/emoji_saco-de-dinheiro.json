@@ -1,0 +1,93 @@
+{
+  "emoji": "💰",
+  "nome": "💰 Saco de dinheiro",
+  "categoria": "Money Bag",
+  "url": "https://emojigraph.org/pt/money-bag/",
+  "detalhes": {
+    "explicacao": "Um saco cheio de dinheiro. Descrito como um saco, geralmente bronzeado, amarrado e a apresentar um sinal de dólar. Pode ser cheio de moedas, a maioria das plataformas de mostram um saco arredondado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/money-bag_1f4b0.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/money-bag_1f4b0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dinheiro",
+      "saco",
+      "dólares"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4B0;",
+      "HTML dec": "&#128176;",
+      "URL escape code": "%F0%9F%92%B0",
+      "Punycode": "xn--ss8h",
+      "Bytes (UTF-8)": "F0 9F 92 B0",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCB0",
+      "C, C++, Python": "\\U0001f4b0",
+      "CSS": "\\01F4B0",
+      "PHP, Ruby": "\\u{1F4B0}",
+      "Perl": "\\x{1F4B0}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "🍲",
+  "nome": "🍲 Panela",
+  "categoria": "Pot Of Food",
+  "url": "https://emojigraph.org/pt/pot-of-food/",
+  "detalhes": {
+    "explicacao": "Um pote, como uma caçarola prato, um cálido e fartas de carne ou de legumes cozido na maioria das plataformas. O design da Samsung é semelhante a uma tigela de ramen ou outro prato de macarrão, com os pauzinhos. Geralmente usado para comer e cozinhar (\"refeição\"), e geralmente associada com sopa ou Japonês nabe.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pot-of-food_1f372.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pot-of-food_1f372.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ensopado",
+      "panela",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F372;",
+      "HTML dec": "&#127858;",
+      "URL escape code": "%F0%9F%8D%B2",
+      "Punycode": "xn--pj8h",
+      "Bytes (UTF-8)": "F0 9F 8D B2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF72",
+      "C, C++, Python": "\\U0001f372",
+      "CSS": "\\01F372",
+      "PHP, Ruby": "\\u{1F372}",
+      "Perl": "\\x{1F372}"
+    }
+  }
+}

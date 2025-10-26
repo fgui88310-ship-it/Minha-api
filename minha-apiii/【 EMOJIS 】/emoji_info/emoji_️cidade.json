@@ -1,0 +1,68 @@
+{
+  "emoji": "🏙",
+  "nome": "🏙️ Cidade",
+  "categoria": "Cityscape",
+  "url": "https://emojigraph.org/pt/cityscape/",
+  "detalhes": {
+    "explicacao": "Cidade foi aprovado como parte do Unicode 7.0 em 2014e acrescentou para o Emoji 1.0 em 2015.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cityscape_1f3d9-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cityscape_1f3d9-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cityscape_1f3d9-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cityscape_1f3d9-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cityscape_1f3d9-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cityscape_1f3d9-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cityscape_1f3d9-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cityscape_1f3d9-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cityscape_1f3d9-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cityscape_1f3d9-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cidade",
+      "prédios"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3D9;&#xFE0F;",
+      "HTML dec": "&#127961;&#65039;",
+      "URL escape code": "%F0%9F%8F%99%EF%B8%8F",
+      "Punycode": "xn--nm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 99 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFD9\\uFE0F",
+      "C, C++, Python": "\\U0001f3d9\\uFE0F",
+      "CSS": "\\01F3D9 \\FE0F",
+      "PHP, Ruby": "\\u{1F3D9}\\u{FE0F}",
+      "Perl": "\\x{1F3D9}\\x{FE0F}"
+    }
+  }
+}

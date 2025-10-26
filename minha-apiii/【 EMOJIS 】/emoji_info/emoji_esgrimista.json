@@ -1,0 +1,71 @@
+{
+  "emoji": "🤺",
+  "nome": "🤺 Esgrimista",
+  "categoria": "Person Fencing",
+  "url": "https://emojigraph.org/pt/person-fencing/",
+  "detalhes": {
+    "explicacao": "Uma pessoa mostrado na modalidade de esgrima, com um Florete de estilo espada, máscara e vestuário de protecção.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-fencing_1f93a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-fencing_1f93a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-fencing_1f93a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-fencing_1f93a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-fencing_1f93a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-fencing_1f93a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-fencing_1f93a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-fencing_1f93a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-fencing_1f93a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-fencing_1f93a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esgrima",
+      "esgrimista",
+      "espada",
+      "esporte",
+      "pessoa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F93A;",
+      "HTML dec": "&#129338;",
+      "URL escape code": "%F0%9F%A4%BA",
+      "Punycode": "xn--zq9h",
+      "Bytes (UTF-8)": "F0 9F A4 BA",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD3A",
+      "C, C++, Python": "\\U0001f93a",
+      "CSS": "\\01F93A",
+      "PHP, Ruby": "\\u{1F93A}",
+      "Perl": "\\x{1F93A}"
+    }
+  }
+}

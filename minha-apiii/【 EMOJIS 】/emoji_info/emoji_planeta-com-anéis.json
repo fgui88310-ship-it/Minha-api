@@ -1,0 +1,69 @@
+{
+  "emoji": "🪐",
+  "nome": "🪐 Planeta com anéis",
+  "categoria": "Ringed Planet",
+  "url": "https://emojigraph.org/pt/ringed-planet/",
+  "detalhes": {
+    "explicacao": "Planeta dos anéis foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ringed-planet_1fa90.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ringed-planet_1fa90.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ringed-planet_1fa90.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ringed-planet_1fa90.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ringed-planet_1fa90.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ringed-planet_1fa90.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ringed-planet_1fa90.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ringed-planet_1fa90.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ringed-planet_1fa90.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/ringed-planet_1fa90.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "saturnino",
+      "saturno",
+      "planeta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA90;",
+      "HTML dec": "&#129680;",
+      "URL escape code": "%F0%9F%AA%90",
+      "Punycode": "xn--r09h",
+      "Bytes (UTF-8)": "F0 9F AA 90",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE90",
+      "C, C++, Python": "\\U0001fa90",
+      "CSS": "\\01FA90",
+      "PHP, Ruby": "\\u{1FA90}",
+      "Perl": "\\x{1FA90}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "🤜",
+  "nome": "🤜 Punho direito",
+  "categoria": "Right Facing Fist",
+  "url": "https://emojigraph.org/pt/right-facing-fist/",
+  "detalhes": {
+    "explicacao": "Um punho apontando para a direita, o que pode ser usado em conjunto com o esquerdo, de frente para o punho para concluir um gesto de toquinho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/right-facing-fist_1f91c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/right-facing-fist_1f91c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/right-facing-fist_1f91c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/right-facing-fist_1f91c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/right-facing-fist_1f91c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/right-facing-fist_1f91c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/right-facing-fist_1f91c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/right-facing-fist_1f91c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/right-facing-fist_1f91c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/right-facing-fist_1f91c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "direito",
+      "punho",
+      "soco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F91C;",
+      "HTML dec": "&#129308;",
+      "URL escape code": "%F0%9F%A4%9C",
+      "Punycode": "xn--4p9h",
+      "Bytes (UTF-8)": "F0 9F A4 9C",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD1C",
+      "C, C++, Python": "\\U0001f91c",
+      "CSS": "\\01F91C",
+      "PHP, Ruby": "\\u{1F91C}",
+      "Perl": "\\x{1F91C}"
+    }
+  }
+}

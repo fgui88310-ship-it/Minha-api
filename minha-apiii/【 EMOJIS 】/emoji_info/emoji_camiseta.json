@@ -1,0 +1,93 @@
+{
+  "emoji": "👕",
+  "nome": "👕 Camiseta",
+  "categoria": "T Shirt",
+  "url": "https://emojigraph.org/pt/t-shirt/",
+  "detalhes": {
+    "explicacao": "Uma simples camiseta, que pode ser usada por homens ou mulheres. Apresentado como uma camisa pólo azul no iOS, no Facebook e no Firefox OS. Uma camisa branca no Android e Windows, e amarelo ou verde em outras plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/t-shirt_1f455.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/t-shirt_1f455.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "camisa",
+      "camiseta",
+      "roupa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F455;",
+      "HTML dec": "&#128085;",
+      "URL escape code": "%F0%9F%91%95",
+      "Punycode": "xn--6p8h",
+      "Bytes (UTF-8)": "F0 9F 91 95",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC55",
+      "C, C++, Python": "\\U0001f455",
+      "CSS": "\\01F455",
+      "PHP, Ruby": "\\u{1F455}",
+      "Perl": "\\x{1F455}"
+    }
+  }
+}

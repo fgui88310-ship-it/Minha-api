@@ -1,0 +1,68 @@
+{
+  "emoji": "🥄",
+  "nome": "🥄 Colher",
+  "categoria": "Spoon",
+  "url": "https://emojigraph.org/pt/spoon/",
+  "detalhes": {
+    "explicacao": "Uma colher de prata, como costumava comer sopa de cereais ou de sorvete bem como servir de alimentos ou mexer bebidas. Posicionada em diferentes ângulos, através de plataformas. Pode ser emparelhado com Garfo e Faca, Garfo e Faca Com Prato e Tigela Com uma Colher.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/spoon_1f944.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/spoon_1f944.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/spoon_1f944.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/spoon_1f944.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/spoon_1f944.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/spoon_1f944.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/spoon_1f944.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/spoon_1f944.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/spoon_1f944.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/spoon_1f944.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "colher",
+      "talher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F944;",
+      "HTML dec": "&#129348;",
+      "URL escape code": "%F0%9F%A5%84",
+      "Punycode": "xn--9q9h",
+      "Bytes (UTF-8)": "F0 9F A5 84",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD44",
+      "C, C++, Python": "\\U0001f944",
+      "CSS": "\\01F944",
+      "PHP, Ruby": "\\u{1F944}",
+      "Perl": "\\x{1F944}"
+    }
+  }
+}

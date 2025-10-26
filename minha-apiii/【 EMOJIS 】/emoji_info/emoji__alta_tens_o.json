@@ -1,0 +1,97 @@
+{
+  "emoji": "",
+  "nome": "⚡ Alta tensão",
+  "categoria": "high voltage",
+  "url": "https://emojigraph.org/pt/high-voltage/",
+  "detalhes": {
+    "explicacao": "Um símbolo de alta tensão, a advertir contra a lesão de eletricidade. Descrito como um irregular sinal amarelo parafuso.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/high-voltage_26a1.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/high-voltage_26a1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alta",
+      "perigo",
+      "sinal",
+      "tensão",
+      "eletricidade",
+      "natureza",
+      "relâmpago"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26A1;",
+      "HTML dec": "&#9889;",
+      "URL escape code": "%E2%9A%A1",
+      "Punycode": "xn--57h",
+      "Bytes (UTF-8)": "E2 9A A1",
+      "JavaScript, JSON, Java": "\\u26A1",
+      "C, C++, Python": "\\u26A1",
+      "CSS": "\\26A1",
+      "PHP, Ruby": "\\u{26A1}",
+      "Perl": "\\x{26A1}"
+    }
+  }
+}

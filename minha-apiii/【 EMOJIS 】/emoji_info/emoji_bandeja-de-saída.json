@@ -1,0 +1,97 @@
+{
+  "emoji": "📤",
+  "nome": "📤 Bandeja de saída",
+  "categoria": "Outbox Tray",
+  "url": "https://emojigraph.org/pt/outbox-tray/",
+  "detalhes": {
+    "explicacao": "Uma bandeja de papel com uma seta para cima, em cima, como um símbolo para um e-mail de saída. Geralmente retratado como um branco ou bandeja de madeira com uma seta vermelha.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/outbox-tray_1f4e4.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/outbox-tray_1f4e4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeja",
+      "caixa",
+      "caixa de saída",
+      "comunicação",
+      "correspondência",
+      "enviada",
+      "saída"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4E4;",
+      "HTML dec": "&#128228;",
+      "URL escape code": "%F0%9F%93%A4",
+      "Punycode": "xn--9t8h",
+      "Bytes (UTF-8)": "F0 9F 93 A4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCE4",
+      "C, C++, Python": "\\U0001f4e4",
+      "CSS": "\\01F4E4",
+      "PHP, Ruby": "\\u{1F4E4}",
+      "Perl": "\\x{1F4E4}"
+    }
+  }
+}

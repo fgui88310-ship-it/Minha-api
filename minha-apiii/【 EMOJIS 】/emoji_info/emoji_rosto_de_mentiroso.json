@@ -1,0 +1,80 @@
+{
+  "emoji": "🤥",
+  "nome": "🤥 Rosto de mentiroso",
+  "categoria": "lying face",
+  "url": "https://emojigraph.org/pt/lying-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com as sobrancelhas levantadas, olhos ampliados, franzir na testa ligeiro e nariz comprido, indicando que ele está dizendo uma mentira, parecido ao Pinóquio. Como esse personagem, no Facebook apresenta um nariz de madeira.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lying-face_1f925.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lying-face_1f925.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lying-face_1f925.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lying-face_1f925.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lying-face_1f925.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lying-face_1f925.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lying-face_1f925.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lying-face_1f925.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lying-face_1f925.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/lying-face_1f925.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/lying-face_1f925.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/lying-face_1f925.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mentindo",
+      "mentira",
+      "mentiroso",
+      "pinóquio",
+      "nariz crescendo",
+      "pinocchio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F925;",
+      "HTML dec": "&#129317;",
+      "URL escape code": "%F0%9F%A4%A5",
+      "Punycode": "xn--eq9h",
+      "Bytes (UTF-8)": "F0 9F A4 A5",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD25",
+      "C, C++, Python": "\\U0001f925",
+      "CSS": "\\01F925",
+      "PHP, Ruby": "\\u{1F925}",
+      "Perl": "\\x{1F925}"
+    }
+  }
+}

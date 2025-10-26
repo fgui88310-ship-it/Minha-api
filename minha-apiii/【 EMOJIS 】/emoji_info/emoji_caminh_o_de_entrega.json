@@ -1,0 +1,92 @@
+{
+  "emoji": "🚚",
+  "nome": "🚚 Caminhão de entrega",
+  "categoria": "delivery truck",
+  "url": "https://emojigraph.org/pt/delivery-truck/",
+  "detalhes": {
+    "explicacao": "Caminhão de entrega foi aprovado como parte do Unicode 6.0 em 2010e acrescentou para o Emoji 1.0 em 2015.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/delivery-truck_1f69a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/delivery-truck_1f69a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caminhão",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F69A;",
+      "HTML dec": "&#128666;",
+      "URL escape code": "%F0%9F%9A%9A",
+      "Punycode": "xn--s68h",
+      "Bytes (UTF-8)": "F0 9F 9A 9A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE9A",
+      "C, C++, Python": "\\U0001f69a",
+      "CSS": "\\01F69A",
+      "PHP, Ruby": "\\u{1F69A}",
+      "Perl": "\\x{1F69A}"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "emoji": "🪡",
+  "nome": "🪡 Agulha de costura",
+  "categoria": "Sewing Needle",
+  "url": "https://emojigraph.org/pt/sewing-needle/",
+  "detalhes": {
+    "explicacao": "Agulha de costura foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sewing-needle_1faa1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sewing-needle_1faa1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sewing-needle_1faa1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sewing-needle_1faa1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sewing-needle_1faa1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sewing-needle_1faa1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sewing-needle_1faa1.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/sewing-needle_1faa1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "agulha",
+      "alfaiataria",
+      "bordados",
+      "costura",
+      "pontos",
+      "suturas",
+      "costurar",
+      "linha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAA1;",
+      "HTML dec": "&#129697;",
+      "URL escape code": "%F0%9F%AA%A1",
+      "Punycode": "xn--809h",
+      "Bytes (UTF-8)": "F0 9F AA A1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEA1",
+      "C, C++, Python": "\\U0001faa1",
+      "CSS": "\\01FAA1",
+      "PHP, Ruby": "\\u{1FAA1}",
+      "Perl": "\\x{1FAA1}"
+    }
+  }
+}

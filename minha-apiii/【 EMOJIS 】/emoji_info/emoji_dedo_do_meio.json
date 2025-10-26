@@ -1,0 +1,70 @@
+{
+  "emoji": "🖕",
+  "nome": "🖕 Dedo do meio",
+  "categoria": "middle finger",
+  "url": "https://emojigraph.org/pt/middle-finger/",
+  "detalhes": {
+    "explicacao": "Dedo do meio emoji, usado em algumas culturas ocidentais, como um gesto rude ou insulto. A parte de trás da mão é mostrada com o dedo do meio levantado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/middle-finger_1f595.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/middle-finger_1f595.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/middle-finger_1f595.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/middle-finger_1f595.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/middle-finger_1f595.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/middle-finger_1f595.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/middle-finger_1f595.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/middle-finger_1f595.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/middle-finger_1f595.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/middle-finger_1f595.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dedo",
+      "dedo do meio",
+      "gesto ofensivo",
+      "mão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F595;",
+      "HTML dec": "&#128405;",
+      "URL escape code": "%F0%9F%96%95",
+      "Punycode": "xn--cz8h",
+      "Bytes (UTF-8)": "F0 9F 96 95",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD95",
+      "C, C++, Python": "\\U0001f595",
+      "CSS": "\\01F595",
+      "PHP, Ruby": "\\u{1F595}",
+      "Perl": "\\x{1F595}"
+    }
+  }
+}

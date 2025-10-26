@@ -1,0 +1,96 @@
+{
+  "emoji": "🌟",
+  "nome": "🌟 Estrela brilhante",
+  "categoria": "glowing star",
+  "url": "https://emojigraph.org/pt/glowing-star/",
+  "detalhes": {
+    "explicacao": "Uma incandescência, estrela de ouro com cinco-pontas. Descrito como ⭐ Estrelas estilizado com rajadas entre seus pontos, que representa 'brilhante' ou 'cintilante'.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/glowing-star_1f31f.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/glowing-star_1f31f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "brilhante",
+      "brilho",
+      "cintilante",
+      "estrela",
+      "luminosa",
+      "reluzente"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F31F;",
+      "HTML dec": "&#127775;",
+      "URL escape code": "%F0%9F%8C%9F",
+      "Punycode": "xn--ch8h",
+      "Bytes (UTF-8)": "F0 9F 8C 9F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF1F",
+      "C, C++, Python": "\\U0001f31f",
+      "CSS": "\\01F31F",
+      "PHP, Ruby": "\\u{1F31F}",
+      "Perl": "\\x{1F31F}"
+    }
+  }
+}

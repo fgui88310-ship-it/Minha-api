@@ -1,0 +1,93 @@
+{
+  "emoji": "📣",
+  "nome": "📣 Megafone",
+  "categoria": "Megaphone",
+  "url": "https://emojigraph.org/pt/megaphone/",
+  "detalhes": {
+    "explicacao": "Um emoji de megafone, normalmente usado para representar anúncios ou aplausos em um evento ou festival esportivo. Às vezes, costumava expressar que alguém está falando mais alto do que deveria. Megafone foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Torcer Megafone\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/megaphone_1f4e3.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/megaphone_1f4e3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aplausos",
+      "comunicação",
+      "megafone"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4E3;",
+      "HTML dec": "&#128227;",
+      "URL escape code": "%F0%9F%93%A3",
+      "Punycode": "xn--8t8h",
+      "Bytes (UTF-8)": "F0 9F 93 A3",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCE3",
+      "C, C++, Python": "\\U0001f4e3",
+      "CSS": "\\01F4E3",
+      "PHP, Ruby": "\\u{1F4E3}",
+      "Perl": "\\x{1F4E3}"
+    }
+  }
+}

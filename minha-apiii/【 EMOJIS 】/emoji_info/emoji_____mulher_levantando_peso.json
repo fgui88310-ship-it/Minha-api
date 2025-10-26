@@ -1,0 +1,62 @@
+{
+  "emoji": "🏋",
+  "nome": "🏋️‍♀️ Mulher levantando peso",
+  "categoria": "woman lifting weights",
+  "url": "https://emojigraph.org/pt/woman-lifting-weights/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 🏋 Levantador de Peso emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-lifting-weights_1f3cb-fe0f-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-lifting-weights_1f3cb-fe0f-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-lifting-weights_1f3cb-fe0f-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-lifting-weights_1f3cb-fe0f-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-lifting-weights_1f3cb-fe0f-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-lifting-weights_1f3cb-fe0f-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-lifting-weights_1f3cb-fe0f-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-lifting-weights_1f3cb-fe0f-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esporte",
+      "força",
+      "mulher",
+      "peso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3CB;&#xFE0F;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#127947;&#65039;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%8F%8B%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h5199n",
+      "Bytes (UTF-8)": "F0 9F 8F 8B EF B8 8F E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFCB\\uFE0F\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f3cb\\uFE0F\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F3CB \\FE0F \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F3CB}\\u{FE0F}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F3CB}\\x{FE0F}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

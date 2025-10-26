@@ -1,0 +1,96 @@
+{
+  "emoji": "📍",
+  "nome": "📍 Tacha redonda",
+  "categoria": "Round Pushpin",
+  "url": "https://emojigraph.org/pt/round-pushpin/",
+  "detalhes": {
+    "explicacao": "Um alfinete, como o usado para indicar um local no mapa. Geralmente retratado como um pino vertical com uma cabeça redonda vermelha,",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/round-pushpin_1f4cd.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/round-pushpin_1f4cd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alfinete",
+      "tacha",
+      "tacha redonda",
+      "localização",
+      "mapa",
+      "redonda"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4CD;",
+      "HTML dec": "&#128205;",
+      "URL escape code": "%F0%9F%93%8D",
+      "Punycode": "xn--mt8h",
+      "Bytes (UTF-8)": "F0 9F 93 8D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCCD",
+      "C, C++, Python": "\\U0001f4cd",
+      "CSS": "\\01F4CD",
+      "PHP, Ruby": "\\u{1F4CD}",
+      "Perl": "\\x{1F4CD}"
+    }
+  }
+}

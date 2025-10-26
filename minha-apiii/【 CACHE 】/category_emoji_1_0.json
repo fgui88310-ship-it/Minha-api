@@ -1,0 +1,5666 @@
+[
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/"
+  },
+  {
+    "nome": "😃Smileys e Emoção",
+    "href": "/pt/smileys-emotion/"
+  },
+  {
+    "nome": "🤦‍♀️Pessoas e Corpo",
+    "href": "/pt/people-body/"
+  },
+  {
+    "nome": "🐶Animais e Natureza",
+    "href": "/pt/animals-nature/"
+  },
+  {
+    "nome": "🍩Alimentação e bebida",
+    "href": "/pt/food-drink/"
+  },
+  {
+    "nome": "🚗Viagens e lugares",
+    "href": "/pt/travel-places/"
+  },
+  {
+    "nome": "🏀Atividades",
+    "href": "/pt/activities/"
+  },
+  {
+    "nome": "💎Objetos",
+    "href": "/pt/objects/"
+  },
+  {
+    "nome": "✅Símbolos",
+    "href": "/pt/symbols/"
+  },
+  {
+    "nome": "🏁Bandeiras",
+    "href": "/pt/flags/"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "😀Rosto risonho",
+    "href": "/pt/grinning-face/"
+  },
+  {
+    "nome": "😃Rosto risonho com olhos bem abertos",
+    "href": "/pt/grinning-face-with-big-eyes/"
+  },
+  {
+    "nome": "😄Rosto risonho com olhos sorridentes",
+    "href": "/pt/grinning-face-with-smiling-eyes/"
+  },
+  {
+    "nome": "😁Rosto contente com olhos sorridentes",
+    "href": "/pt/beaming-face-with-smiling-eyes/"
+  },
+  {
+    "nome": "😆Rosto risonho com olhos semicerrados",
+    "href": "/pt/grinning-squinting-face/"
+  },
+  {
+    "nome": "😅Rosto risonho com gota de suor",
+    "href": "/pt/grinning-face-with-sweat/"
+  },
+  {
+    "nome": "😂Rosto chorando de rir",
+    "href": "/pt/face-with-tears-of-joy/"
+  },
+  {
+    "nome": "🙂Rosto levemente sorridente",
+    "href": "/pt/slightly-smiling-face/"
+  },
+  {
+    "nome": "🙃Rosto de cabeça para baixo",
+    "href": "/pt/upside-down-face/"
+  },
+  {
+    "nome": "😉Rosto com olho piscando",
+    "href": "/pt/winking-face/"
+  },
+  {
+    "nome": "😊Rosto sorridente com olhos sorridentes",
+    "href": "/pt/smiling-face-with-smiling-eyes/"
+  },
+  {
+    "nome": "😇Rosto sorridente com auréola",
+    "href": "/pt/smiling-face-with-halo/"
+  },
+  {
+    "nome": "😍Rosto sorridente com olhos de coração",
+    "href": "/pt/smiling-face-with-heart-eyes/"
+  },
+  {
+    "nome": "😘Rosto mandando um beijo",
+    "href": "/pt/face-blowing-a-kiss/"
+  },
+  {
+    "nome": "😗Rosto beijando",
+    "href": "/pt/kissing-face/"
+  },
+  {
+    "nome": "☺️Rosto sorridente",
+    "href": "/pt/smiling-face/"
+  },
+  {
+    "nome": "😚Rosto beijando com olhos fechados",
+    "href": "/pt/kissing-face-with-closed-eyes/"
+  },
+  {
+    "nome": "😙Rosto beijando com olhos sorridentes",
+    "href": "/pt/kissing-face-with-smiling-eyes/"
+  },
+  {
+    "nome": "😋Rosto saboreando comida",
+    "href": "/pt/face-savoring-food/"
+  },
+  {
+    "nome": "😛Rosto mostrando a língua",
+    "href": "/pt/face-with-tongue/"
+  },
+  {
+    "nome": "😜Rosto piscando e com língua para fora",
+    "href": "/pt/winking-face-with-tongue/"
+  },
+  {
+    "nome": "😝Rosto com olhos semicerrados e língua para fora",
+    "href": "/pt/squinting-face-with-tongue/"
+  },
+  {
+    "nome": "🤑Rosto com cifrões",
+    "href": "/pt/money-mouth-face/"
+  },
+  {
+    "nome": "🤗Rosto abraçando",
+    "href": "/pt/hugging-face/"
+  },
+  {
+    "nome": "🤔Rosto pensativo",
+    "href": "/pt/thinking-face/"
+  },
+  {
+    "nome": "🤐Rosto com boca de zíper",
+    "href": "/pt/zipper-mouth-face/"
+  },
+  {
+    "nome": "😐Rosto neutro",
+    "href": "/pt/neutral-face/"
+  },
+  {
+    "nome": "😑Rosto inexpressivo",
+    "href": "/pt/expressionless-face/"
+  },
+  {
+    "nome": "😶Rosto sem boca",
+    "href": "/pt/face-without-mouth/"
+  },
+  {
+    "nome": "😏Rosto com sorriso maroto",
+    "href": "/pt/smirking-face/"
+  },
+  {
+    "nome": "😒Rosto aborrecido",
+    "href": "/pt/unamused-face/"
+  },
+  {
+    "nome": "🙄Rosto com olhos revirados",
+    "href": "/pt/face-with-rolling-eyes/"
+  },
+  {
+    "nome": "😬Rosto expressando desagrado",
+    "href": "/pt/grimacing-face/"
+  },
+  {
+    "nome": "😌Rosto aliviado",
+    "href": "/pt/relieved-face/"
+  },
+  {
+    "nome": "😔Rosto deprimido",
+    "href": "/pt/pensive-face/"
+  },
+  {
+    "nome": "😪Rosto sonolento",
+    "href": "/pt/sleepy-face/"
+  },
+  {
+    "nome": "😴Rosto dormindo",
+    "href": "/pt/sleeping-face/"
+  },
+  {
+    "nome": "😷Rosto com máscara médica",
+    "href": "/pt/face-with-medical-mask/"
+  },
+  {
+    "nome": "🤒Rosto com termômetro",
+    "href": "/pt/face-with-thermometer/"
+  },
+  {
+    "nome": "🤕Rosto com atadura na cabeça",
+    "href": "/pt/face-with-head-bandage/"
+  },
+  {
+    "nome": "😵Rosto atordoado",
+    "href": "/pt/dizzy-face/"
+  },
+  {
+    "nome": "😎Rosto sorridente com óculos escuros",
+    "href": "/pt/smiling-face-with-sunglasses/"
+  },
+  {
+    "nome": "🤓Rosto de nerd",
+    "href": "/pt/nerd-face/"
+  },
+  {
+    "nome": "😕Rosto confuso",
+    "href": "/pt/confused-face/"
+  },
+  {
+    "nome": "😟Rosto preocupado",
+    "href": "/pt/worried-face/"
+  },
+  {
+    "nome": "🙁Rosto meio triste",
+    "href": "/pt/slightly-frowning-face/"
+  },
+  {
+    "nome": "☹️Rosto descontente",
+    "href": "/pt/frowning-face/"
+  },
+  {
+    "nome": "😮Rosto com boca aberta",
+    "href": "/pt/face-with-open-mouth/"
+  },
+  {
+    "nome": "😯Rosto surpreso",
+    "href": "/pt/hushed-face/"
+  },
+  {
+    "nome": "😲Rosto espantado",
+    "href": "/pt/astonished-face/"
+  },
+  {
+    "nome": "😳Rosto ruborizado",
+    "href": "/pt/flushed-face/"
+  },
+  {
+    "nome": "😦Rosto franzido com boca aberta",
+    "href": "/pt/frowning-face-with-open-mouth/"
+  },
+  {
+    "nome": "😧Rosto angustiado",
+    "href": "/pt/anguished-face/"
+  },
+  {
+    "nome": "😨Rosto amedrontado",
+    "href": "/pt/fearful-face/"
+  },
+  {
+    "nome": "😰Rosto ansioso com gota de suor",
+    "href": "/pt/anxious-face-with-sweat/"
+  },
+  {
+    "nome": "😥Rosto triste, mas aliviado",
+    "href": "/pt/sad-but-relieved-face/"
+  },
+  {
+    "nome": "😢Rosto chorando",
+    "href": "/pt/crying-face/"
+  },
+  {
+    "nome": "😭Rosto chorando aos berros",
+    "href": "/pt/loudly-crying-face/"
+  },
+  {
+    "nome": "😱Rosto gritando de medo",
+    "href": "/pt/face-screaming-in-fear/"
+  },
+  {
+    "nome": "😖Rosto perplexo",
+    "href": "/pt/confounded-face/"
+  },
+  {
+    "nome": "😣Rosto perseverante",
+    "href": "/pt/persevering-face/"
+  },
+  {
+    "nome": "😞Rosto desapontado",
+    "href": "/pt/disappointed-face/"
+  },
+  {
+    "nome": "😓Rosto cabisbaixo com gota de suor",
+    "href": "/pt/downcast-face-with-sweat/"
+  },
+  {
+    "nome": "😩Rosto desolado",
+    "href": "/pt/weary-face/"
+  },
+  {
+    "nome": "😫Rosto cansado",
+    "href": "/pt/tired-face/"
+  },
+  {
+    "nome": "😤Rosto soltando vapor pelo nariz",
+    "href": "/pt/face-with-steam-from-nose/"
+  },
+  {
+    "nome": "😡Rosto furioso",
+    "href": "/pt/pouting-face/"
+  },
+  {
+    "nome": "😠Rosto zangado",
+    "href": "/pt/angry-face/"
+  },
+  {
+    "nome": "😈Rosto sorridente com chifres",
+    "href": "/pt/smiling-face-with-horns/"
+  },
+  {
+    "nome": "👿Rosto zangado com chifres",
+    "href": "/pt/angry-face-with-horns/"
+  },
+  {
+    "nome": "💀Caveira",
+    "href": "/pt/skull/"
+  },
+  {
+    "nome": "☠️Caveira e ossos cruzados",
+    "href": "/pt/skull-and-crossbones/"
+  },
+  {
+    "nome": "💩Cocô",
+    "href": "/pt/pile-of-poo/"
+  },
+  {
+    "nome": "👹Ogro",
+    "href": "/pt/ogre/"
+  },
+  {
+    "nome": "👺Duende japonês",
+    "href": "/pt/goblin/"
+  },
+  {
+    "nome": "👻Fantasma",
+    "href": "/pt/ghost/"
+  },
+  {
+    "nome": "👽Alienígena",
+    "href": "/pt/alien/"
+  },
+  {
+    "nome": "👾Monstro alienígena",
+    "href": "/pt/alien-monster/"
+  },
+  {
+    "nome": "🤖Rosto de robô",
+    "href": "/pt/robot/"
+  },
+  {
+    "nome": "😺Rosto de gato sorrindo",
+    "href": "/pt/grinning-cat/"
+  },
+  {
+    "nome": "😸Rosto de gato sorrindo com olhos sorridentes",
+    "href": "/pt/grinning-cat-with-smiling-eyes/"
+  },
+  {
+    "nome": "😹Rosto de gato com lágrimas de alegria",
+    "href": "/pt/cat-with-tears-of-joy/"
+  },
+  {
+    "nome": "😻Rosto de gato sorridente com olhos de coração",
+    "href": "/pt/smiling-cat-with-heart-eyes/"
+  },
+  {
+    "nome": "😼Rosto de gato com sorriso irônico",
+    "href": "/pt/cat-with-wry-smile/"
+  },
+  {
+    "nome": "😽Rosto de gato mandando um beijo",
+    "href": "/pt/kissing-cat/"
+  },
+  {
+    "nome": "🙀Rosto de gato desolado",
+    "href": "/pt/weary-cat/"
+  },
+  {
+    "nome": "😿Rosto de gato chorando",
+    "href": "/pt/crying-cat/"
+  },
+  {
+    "nome": "😾Rosto de gato mal-humorado",
+    "href": "/pt/pouting-cat/"
+  },
+  {
+    "nome": "🙈Macaco que não vê nada",
+    "href": "/pt/see-no-evil-monkey/"
+  },
+  {
+    "nome": "🙉Macaco que não ouve nada",
+    "href": "/pt/hear-no-evil-monkey/"
+  },
+  {
+    "nome": "🙊Macaco que não fala nada",
+    "href": "/pt/speak-no-evil-monkey/"
+  },
+  {
+    "nome": "💌Carta de amor",
+    "href": "/pt/love-letter/"
+  },
+  {
+    "nome": "💘Coração com flecha",
+    "href": "/pt/heart-with-arrow/"
+  },
+  {
+    "nome": "💝Coração com fita",
+    "href": "/pt/heart-with-ribbon/"
+  },
+  {
+    "nome": "💖Coração brilhante",
+    "href": "/pt/sparkling-heart/"
+  },
+  {
+    "nome": "💗Coração crescendo",
+    "href": "/pt/growing-heart/"
+  },
+  {
+    "nome": "💓Coração pulsante",
+    "href": "/pt/beating-heart/"
+  },
+  {
+    "nome": "💞Corações girando",
+    "href": "/pt/revolving-hearts/"
+  },
+  {
+    "nome": "💕Dois corações",
+    "href": "/pt/two-hearts/"
+  },
+  {
+    "nome": "💟Coração decorativo",
+    "href": "/pt/heart-decoration/"
+  },
+  {
+    "nome": "❣️Exclamação de coração",
+    "href": "/pt/heart-exclamation/"
+  },
+  {
+    "nome": "💔Coração partido",
+    "href": "/pt/broken-heart/"
+  },
+  {
+    "nome": "❤️Coração vermelho",
+    "href": "/pt/red-heart/"
+  },
+  {
+    "nome": "💛Coração amarelo",
+    "href": "/pt/yellow-heart/"
+  },
+  {
+    "nome": "💚Coração verde",
+    "href": "/pt/green-heart/"
+  },
+  {
+    "nome": "💙Coração azul",
+    "href": "/pt/blue-heart/"
+  },
+  {
+    "nome": "💜Coração roxo",
+    "href": "/pt/purple-heart/"
+  },
+  {
+    "nome": "💋Marca de beijo",
+    "href": "/pt/kiss-mark/"
+  },
+  {
+    "nome": "💯Cem pontos",
+    "href": "/pt/hundred-points/"
+  },
+  {
+    "nome": "💢Símbolo de raiva",
+    "href": "/pt/anger-symbol/"
+  },
+  {
+    "nome": "💥Colisão",
+    "href": "/pt/collision/"
+  },
+  {
+    "nome": "💫Zonzo",
+    "href": "/pt/dizzy/"
+  },
+  {
+    "nome": "💦Pingos de suor",
+    "href": "/pt/sweat-droplets/"
+  },
+  {
+    "nome": "💨Rapidez",
+    "href": "/pt/dashing-away/"
+  },
+  {
+    "nome": "🕳️Buraco",
+    "href": "/pt/hole/"
+  },
+  {
+    "nome": "💬Balão de diálogo",
+    "href": "/pt/speech-balloon/"
+  },
+  {
+    "nome": "🗯️Balão de raiva à direita",
+    "href": "/pt/right-anger-bubble/"
+  },
+  {
+    "nome": "💭Balão de pensamento",
+    "href": "/pt/thought-balloon/"
+  },
+  {
+    "nome": "💤Zzz",
+    "href": "/pt/zzz/"
+  },
+  {
+    "nome": "👋Mão acenando",
+    "href": "/pt/waving-hand/"
+  },
+  {
+    "nome": "🖐️Mão aberta com os dedos separados",
+    "href": "/pt/hand-with-fingers-splayed/"
+  },
+  {
+    "nome": "✋Mão levantada",
+    "href": "/pt/raised-hand/"
+  },
+  {
+    "nome": "🖖Saudação vulcana",
+    "href": "/pt/vulcan-salute/"
+  },
+  {
+    "nome": "👌Sinal de ok",
+    "href": "/pt/ok-hand/"
+  },
+  {
+    "nome": "✌️Mão em V de vitória",
+    "href": "/pt/victory-hand/"
+  },
+  {
+    "nome": "🤘Saudação do rock",
+    "href": "/pt/sign-of-the-horns/"
+  },
+  {
+    "nome": "👈Dorso da mão com dedo indicador apontando para a esquerda",
+    "href": "/pt/backhand-index-pointing-left/"
+  },
+  {
+    "nome": "👉Dorso da mão com dedo indicador apontando para a direita",
+    "href": "/pt/backhand-index-pointing-right/"
+  },
+  {
+    "nome": "👆Dorso da mão com dedo indicador apontando para cima",
+    "href": "/pt/backhand-index-pointing-up/"
+  },
+  {
+    "nome": "🖕Dedo do meio",
+    "href": "/pt/middle-finger/"
+  },
+  {
+    "nome": "👇Dorso da mão com dedo indicador apontando para baixo",
+    "href": "/pt/backhand-index-pointing-down/"
+  },
+  {
+    "nome": "☝️Indicador apontando para cima",
+    "href": "/pt/index-pointing-up/"
+  },
+  {
+    "nome": "👍Polegar para cima",
+    "href": "/pt/thumbs-up/"
+  },
+  {
+    "nome": "👎Polegar para baixo",
+    "href": "/pt/thumbs-down/"
+  },
+  {
+    "nome": "✊Punho levantado",
+    "href": "/pt/raised-fist/"
+  },
+  {
+    "nome": "👊Soco",
+    "href": "/pt/oncoming-fist/"
+  },
+  {
+    "nome": "👏Mãos aplaudindo",
+    "href": "/pt/clapping-hands/"
+  },
+  {
+    "nome": "🙌Mãos para cima",
+    "href": "/pt/raising-hands/"
+  },
+  {
+    "nome": "👐Mãos abertas",
+    "href": "/pt/open-hands/"
+  },
+  {
+    "nome": "🙏Mãos juntas",
+    "href": "/pt/folded-hands/"
+  },
+  {
+    "nome": "✍️Escrevendo à mão",
+    "href": "/pt/writing-hand/"
+  },
+  {
+    "nome": "💅Esmalte de unha",
+    "href": "/pt/nail-polish/"
+  },
+  {
+    "nome": "💪Bíceps",
+    "href": "/pt/flexed-biceps/"
+  },
+  {
+    "nome": "👂Orelha",
+    "href": "/pt/ear/"
+  },
+  {
+    "nome": "👃Nariz",
+    "href": "/pt/nose/"
+  },
+  {
+    "nome": "👀Olhos",
+    "href": "/pt/eyes/"
+  },
+  {
+    "nome": "👁️Olho",
+    "href": "/pt/eye/"
+  },
+  {
+    "nome": "👅Língua",
+    "href": "/pt/tongue/"
+  },
+  {
+    "nome": "👄Boca",
+    "href": "/pt/mouth/"
+  },
+  {
+    "nome": "👶Bebê",
+    "href": "/pt/baby/"
+  },
+  {
+    "nome": "👦Menino",
+    "href": "/pt/boy/"
+  },
+  {
+    "nome": "👧Menina",
+    "href": "/pt/girl/"
+  },
+  {
+    "nome": "👱Pessoa: cabelo louro",
+    "href": "/pt/person-blond-hair/"
+  },
+  {
+    "nome": "👨Homem",
+    "href": "/pt/man/"
+  },
+  {
+    "nome": "👩Mulher",
+    "href": "/pt/woman/"
+  },
+  {
+    "nome": "👴Homem idoso",
+    "href": "/pt/old-man/"
+  },
+  {
+    "nome": "👵Idosa",
+    "href": "/pt/old-woman/"
+  },
+  {
+    "nome": "🙍Franzindo a sobrancelha",
+    "href": "/pt/person-frowning/"
+  },
+  {
+    "nome": "🙎Pessoa fazendo bico",
+    "href": "/pt/person-pouting/"
+  },
+  {
+    "nome": "🙅Pessoa fazendo gesto de “não”",
+    "href": "/pt/person-gesturing-no/"
+  },
+  {
+    "nome": "🙆Pessoa fazendo gesto de “OK”",
+    "href": "/pt/person-gesturing-ok/"
+  },
+  {
+    "nome": "💁Pessoa com a palma virada para cima",
+    "href": "/pt/person-tipping-hand/"
+  },
+  {
+    "nome": "🙋Pessoa levantando a mão",
+    "href": "/pt/person-raising-hand/"
+  },
+  {
+    "nome": "🙇Pessoa fazendo reverência",
+    "href": "/pt/person-bowing/"
+  },
+  {
+    "nome": "👮Policial",
+    "href": "/pt/police-officer/"
+  },
+  {
+    "nome": "🕵️Detetive",
+    "href": "/pt/detective/"
+  },
+  {
+    "nome": "💂Guarda",
+    "href": "/pt/guard/"
+  },
+  {
+    "nome": "👷Trabalhador de construção civil",
+    "href": "/pt/construction-worker/"
+  },
+  {
+    "nome": "👸Princesa",
+    "href": "/pt/princess/"
+  },
+  {
+    "nome": "👳Pessoa com turbante",
+    "href": "/pt/person-wearing-turban/"
+  },
+  {
+    "nome": "👲Homem de boné",
+    "href": "/pt/person-with-skullcap/"
+  },
+  {
+    "nome": "👰Pessoa com véu",
+    "href": "/pt/person-with-veil/"
+  },
+  {
+    "nome": "👼Bebê anjo",
+    "href": "/pt/baby-angel/"
+  },
+  {
+    "nome": "🎅Papai Noel",
+    "href": "/pt/santa-claus/"
+  },
+  {
+    "nome": "💆Pessoa recebendo massagem facial",
+    "href": "/pt/person-getting-massage/"
+  },
+  {
+    "nome": "💇Pessoa cortando o cabelo",
+    "href": "/pt/person-getting-haircut/"
+  },
+  {
+    "nome": "🚶Pessoa andando",
+    "href": "/pt/person-walking/"
+  },
+  {
+    "nome": "🏃Pessoa correndo",
+    "href": "/pt/person-running/"
+  },
+  {
+    "nome": "💃Mulher dançando",
+    "href": "/pt/woman-dancing/"
+  },
+  {
+    "nome": "🕴️Homem de terno levitando",
+    "href": "/pt/person-in-suit-levitating/"
+  },
+  {
+    "nome": "👯Pessoas com orelhas de coelho",
+    "href": "/pt/people-with-bunny-ears/"
+  },
+  {
+    "nome": "🏇Corrida de cavalos",
+    "href": "/pt/horse-racing/"
+  },
+  {
+    "nome": "⛷️Esquiador",
+    "href": "/pt/skier/"
+  },
+  {
+    "nome": "🏂Praticante de snowboard",
+    "href": "/pt/snowboarder/"
+  },
+  {
+    "nome": "🏌️Golfista",
+    "href": "/pt/person-golfing/"
+  },
+  {
+    "nome": "🏄Surfista",
+    "href": "/pt/person-surfing/"
+  },
+  {
+    "nome": "🚣Pessoa remando",
+    "href": "/pt/person-rowing-boat/"
+  },
+  {
+    "nome": "🏊Pessoa nadando",
+    "href": "/pt/person-swimming/"
+  },
+  {
+    "nome": "⛹️Pessoa jogando basquete",
+    "href": "/pt/person-bouncing-ball/"
+  },
+  {
+    "nome": "🏋️Pessoa levantando peso",
+    "href": "/pt/person-lifting-weights/"
+  },
+  {
+    "nome": "🚴Ciclista",
+    "href": "/pt/person-biking/"
+  },
+  {
+    "nome": "🚵Pessoa fazendo mountain bike",
+    "href": "/pt/person-mountain-biking/"
+  },
+  {
+    "nome": "🛀Pessoa tomando banho",
+    "href": "/pt/person-taking-bath/"
+  },
+  {
+    "nome": "🛌Pessoa deitada na cama",
+    "href": "/pt/person-in-bed/"
+  },
+  {
+    "nome": "👭Duas mulheres de mãos dadas",
+    "href": "/pt/women-holding-hands/"
+  },
+  {
+    "nome": "👫Homem e mulher de mãos dadas",
+    "href": "/pt/woman-and-man-holding-hands/"
+  },
+  {
+    "nome": "👬Dois homens de mãos dadas",
+    "href": "/pt/men-holding-hands/"
+  },
+  {
+    "nome": "💏Beijo",
+    "href": "/pt/kiss/"
+  },
+  {
+    "nome": "💑Casal apaixonado",
+    "href": "/pt/couple-with-heart/"
+  },
+  {
+    "nome": "🗣️Silhueta falando",
+    "href": "/pt/speaking-head/"
+  },
+  {
+    "nome": "👤Silhueta de busto",
+    "href": "/pt/bust-in-silhouette/"
+  },
+  {
+    "nome": "👥Silhueta de bustos",
+    "href": "/pt/busts-in-silhouette/"
+  },
+  {
+    "nome": "👪Família",
+    "href": "/pt/family/"
+  },
+  {
+    "nome": "👣Pegadas",
+    "href": "/pt/footprints/"
+  },
+  {
+    "nome": "🏻Pele clara",
+    "href": "/pt/light-skin-tone/"
+  },
+  {
+    "nome": "🏼Pele morena clara",
+    "href": "/pt/medium-light-skin-tone/"
+  },
+  {
+    "nome": "🏽Pele morena",
+    "href": "/pt/medium-skin-tone/"
+  },
+  {
+    "nome": "🏾Pele morena escura",
+    "href": "/pt/medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🏿Pele escura",
+    "href": "/pt/dark-skin-tone/"
+  },
+  {
+    "nome": "🐵Rosto de macaco",
+    "href": "/pt/monkey-face/"
+  },
+  {
+    "nome": "🐒Macaco",
+    "href": "/pt/monkey/"
+  },
+  {
+    "nome": "🐶Rosto de cachorro",
+    "href": "/pt/dog-face/"
+  },
+  {
+    "nome": "🐕Cachorro",
+    "href": "/pt/dog/"
+  },
+  {
+    "nome": "🐩Poodle",
+    "href": "/pt/poodle/"
+  },
+  {
+    "nome": "🐺Rosto de lobo",
+    "href": "/pt/wolf/"
+  },
+  {
+    "nome": "🐱Rosto de gato",
+    "href": "/pt/cat-face/"
+  },
+  {
+    "nome": "🐈Gato",
+    "href": "/pt/cat/"
+  },
+  {
+    "nome": "🦁Rosto de leão",
+    "href": "/pt/lion/"
+  },
+  {
+    "nome": "🐯Rosto de tigre",
+    "href": "/pt/tiger-face/"
+  },
+  {
+    "nome": "🐅Tigre",
+    "href": "/pt/tiger/"
+  },
+  {
+    "nome": "🐆Leopardo",
+    "href": "/pt/leopard/"
+  },
+  {
+    "nome": "🐴Rosto de cavalo",
+    "href": "/pt/horse-face/"
+  },
+  {
+    "nome": "🐎Cavalo",
+    "href": "/pt/horse/"
+  },
+  {
+    "nome": "🦄Rosto de unicórnio",
+    "href": "/pt/unicorn/"
+  },
+  {
+    "nome": "🐮Rosto de vaca",
+    "href": "/pt/cow-face/"
+  },
+  {
+    "nome": "🐂Boi",
+    "href": "/pt/ox/"
+  },
+  {
+    "nome": "🐃Búfalo-asiático",
+    "href": "/pt/water-buffalo/"
+  },
+  {
+    "nome": "🐄Vaca",
+    "href": "/pt/cow/"
+  },
+  {
+    "nome": "🐷Rosto de porco",
+    "href": "/pt/pig-face/"
+  },
+  {
+    "nome": "🐖Porco",
+    "href": "/pt/pig/"
+  },
+  {
+    "nome": "🐗Javali",
+    "href": "/pt/boar/"
+  },
+  {
+    "nome": "🐽Nariz de porco",
+    "href": "/pt/pig-nose/"
+  },
+  {
+    "nome": "🐏Carneiro",
+    "href": "/pt/ram/"
+  },
+  {
+    "nome": "🐑Ovelha",
+    "href": "/pt/ewe/"
+  },
+  {
+    "nome": "🐐Cabra",
+    "href": "/pt/goat/"
+  },
+  {
+    "nome": "🐪Camelo",
+    "href": "/pt/camel/"
+  },
+  {
+    "nome": "🐫Camelo com duas corcovas",
+    "href": "/pt/two-hump-camel/"
+  },
+  {
+    "nome": "🐘Elefante",
+    "href": "/pt/elephant/"
+  },
+  {
+    "nome": "🐭Rosto de camundongo",
+    "href": "/pt/mouse-face/"
+  },
+  {
+    "nome": "🐁Camundongo",
+    "href": "/pt/mouse/"
+  },
+  {
+    "nome": "🐀Rato",
+    "href": "/pt/rat/"
+  },
+  {
+    "nome": "🐹Rosto de hamster",
+    "href": "/pt/hamster/"
+  },
+  {
+    "nome": "🐰Rosto de coelho",
+    "href": "/pt/rabbit-face/"
+  },
+  {
+    "nome": "🐇Coelho",
+    "href": "/pt/rabbit/"
+  },
+  {
+    "nome": "🐿️Esquilo",
+    "href": "/pt/chipmunk/"
+  },
+  {
+    "nome": "🐻Rosto de urso",
+    "href": "/pt/bear/"
+  },
+  {
+    "nome": "🐨Coala",
+    "href": "/pt/koala/"
+  },
+  {
+    "nome": "🐼Rosto de panda",
+    "href": "/pt/panda/"
+  },
+  {
+    "nome": "🐾Patas",
+    "href": "/pt/paw-prints/"
+  },
+  {
+    "nome": "🦃Peru",
+    "href": "/pt/turkey/"
+  },
+  {
+    "nome": "🐔Galinha",
+    "href": "/pt/chicken/"
+  },
+  {
+    "nome": "🐓Galo",
+    "href": "/pt/rooster/"
+  },
+  {
+    "nome": "🐣Pintinho chocando",
+    "href": "/pt/hatching-chick/"
+  },
+  {
+    "nome": "🐤Pintinho de perfil",
+    "href": "/pt/baby-chick/"
+  },
+  {
+    "nome": "🐥Pintinho de frente",
+    "href": "/pt/front-facing-baby-chick/"
+  },
+  {
+    "nome": "🐦Pássaro",
+    "href": "/pt/bird/"
+  },
+  {
+    "nome": "🐧Pinguim",
+    "href": "/pt/penguin/"
+  },
+  {
+    "nome": "🕊️Pomba branca",
+    "href": "/pt/dove/"
+  },
+  {
+    "nome": "🐸Sapo",
+    "href": "/pt/frog/"
+  },
+  {
+    "nome": "🐊Crocodilo",
+    "href": "/pt/crocodile/"
+  },
+  {
+    "nome": "🐢Tartaruga",
+    "href": "/pt/turtle/"
+  },
+  {
+    "nome": "🐍Cobra",
+    "href": "/pt/snake/"
+  },
+  {
+    "nome": "🐲Rosto de dragão",
+    "href": "/pt/dragon-face/"
+  },
+  {
+    "nome": "🐉Dragão",
+    "href": "/pt/dragon/"
+  },
+  {
+    "nome": "🐳Baleia esguichando água",
+    "href": "/pt/spouting-whale/"
+  },
+  {
+    "nome": "🐋Baleia",
+    "href": "/pt/whale/"
+  },
+  {
+    "nome": "🐬Golfinho",
+    "href": "/pt/dolphin/"
+  },
+  {
+    "nome": "🐟Peixe",
+    "href": "/pt/fish/"
+  },
+  {
+    "nome": "🐠Peixe tropical",
+    "href": "/pt/tropical-fish/"
+  },
+  {
+    "nome": "🐡Baiacu",
+    "href": "/pt/blowfish/"
+  },
+  {
+    "nome": "🐙Polvo",
+    "href": "/pt/octopus/"
+  },
+  {
+    "nome": "🐚Caramujo",
+    "href": "/pt/spiral-shell/"
+  },
+  {
+    "nome": "🦀Caranguejo",
+    "href": "/pt/crab/"
+  },
+  {
+    "nome": "🐌Caracol",
+    "href": "/pt/snail/"
+  },
+  {
+    "nome": "🐛Inseto",
+    "href": "/pt/bug/"
+  },
+  {
+    "nome": "🐜Formiga",
+    "href": "/pt/ant/"
+  },
+  {
+    "nome": "🐝Abelha",
+    "href": "/pt/honeybee/"
+  },
+  {
+    "nome": "🐞Joaninha",
+    "href": "/pt/lady-beetle/"
+  },
+  {
+    "nome": "🕷️Aranha",
+    "href": "/pt/spider/"
+  },
+  {
+    "nome": "🕸️Teia de aranha",
+    "href": "/pt/spider-web/"
+  },
+  {
+    "nome": "🦂Escorpião",
+    "href": "/pt/scorpion/"
+  },
+  {
+    "nome": "💐Buquê",
+    "href": "/pt/bouquet/"
+  },
+  {
+    "nome": "🌸Flor de cerejeira",
+    "href": "/pt/cherry-blossom/"
+  },
+  {
+    "nome": "💮Flor branca",
+    "href": "/pt/white-flower/"
+  },
+  {
+    "nome": "🏵️Roseta",
+    "href": "/pt/rosette/"
+  },
+  {
+    "nome": "🌹Rosa",
+    "href": "/pt/rose/"
+  },
+  {
+    "nome": "🌺Hibisco",
+    "href": "/pt/hibiscus/"
+  },
+  {
+    "nome": "🌻Girassol",
+    "href": "/pt/sunflower/"
+  },
+  {
+    "nome": "🌼Flor",
+    "href": "/pt/blossom/"
+  },
+  {
+    "nome": "🌷Tulipa",
+    "href": "/pt/tulip/"
+  },
+  {
+    "nome": "🌱Muda de planta",
+    "href": "/pt/seedling/"
+  },
+  {
+    "nome": "🌲Conífera",
+    "href": "/pt/evergreen-tree/"
+  },
+  {
+    "nome": "🌳Árvore caidiça",
+    "href": "/pt/deciduous-tree/"
+  },
+  {
+    "nome": "🌴Palmeira",
+    "href": "/pt/palm-tree/"
+  },
+  {
+    "nome": "🌵Cacto",
+    "href": "/pt/cactus/"
+  },
+  {
+    "nome": "🌾Planta de arroz",
+    "href": "/pt/sheaf-of-rice/"
+  },
+  {
+    "nome": "🌿Erva",
+    "href": "/pt/herb/"
+  },
+  {
+    "nome": "☘️Trevo",
+    "href": "/pt/shamrock/"
+  },
+  {
+    "nome": "🍀Trevo de quatro folhas",
+    "href": "/pt/four-leaf-clover/"
+  },
+  {
+    "nome": "🍁Folha de bordo",
+    "href": "/pt/maple-leaf/"
+  },
+  {
+    "nome": "🍂Folhas caídas",
+    "href": "/pt/fallen-leaf/"
+  },
+  {
+    "nome": "🍃Folha ao vento",
+    "href": "/pt/leaf-fluttering-in-wind/"
+  },
+  {
+    "nome": "🍄Cogumelo",
+    "href": "/pt/mushroom/"
+  },
+  {
+    "nome": "🍇Uvas",
+    "href": "/pt/grapes/"
+  },
+  {
+    "nome": "🍈Melão",
+    "href": "/pt/melon/"
+  },
+  {
+    "nome": "🍉Melancia",
+    "href": "/pt/watermelon/"
+  },
+  {
+    "nome": "🍊Tangerina",
+    "href": "/pt/tangerine/"
+  },
+  {
+    "nome": "🍋Limão",
+    "href": "/pt/lemon/"
+  },
+  {
+    "nome": "🍌Banana",
+    "href": "/pt/banana/"
+  },
+  {
+    "nome": "🍍Abacaxi",
+    "href": "/pt/pineapple/"
+  },
+  {
+    "nome": "🍎Maçã vermelha",
+    "href": "/pt/red-apple/"
+  },
+  {
+    "nome": "🍏Maçã verde",
+    "href": "/pt/green-apple/"
+  },
+  {
+    "nome": "🍐Pera",
+    "href": "/pt/pear/"
+  },
+  {
+    "nome": "🍑Pêssego",
+    "href": "/pt/peach/"
+  },
+  {
+    "nome": "🍒Cereja",
+    "href": "/pt/cherries/"
+  },
+  {
+    "nome": "🍓Morango",
+    "href": "/pt/strawberry/"
+  },
+  {
+    "nome": "🍅Tomate",
+    "href": "/pt/tomato/"
+  },
+  {
+    "nome": "🍆Berinjela",
+    "href": "/pt/eggplant/"
+  },
+  {
+    "nome": "🌽Milho",
+    "href": "/pt/ear-of-corn/"
+  },
+  {
+    "nome": "🌶️Pimenta",
+    "href": "/pt/hot-pepper/"
+  },
+  {
+    "nome": "🌰Castanha",
+    "href": "/pt/chestnut/"
+  },
+  {
+    "nome": "🍞Pão",
+    "href": "/pt/bread/"
+  },
+  {
+    "nome": "🧀Queijo",
+    "href": "/pt/cheese-wedge/"
+  },
+  {
+    "nome": "🍖Carne",
+    "href": "/pt/meat-on-bone/"
+  },
+  {
+    "nome": "🍗Coxa de frango",
+    "href": "/pt/poultry-leg/"
+  },
+  {
+    "nome": "🍔Hambúrguer",
+    "href": "/pt/hamburger/"
+  },
+  {
+    "nome": "🍟Batata frita",
+    "href": "/pt/french-fries/"
+  },
+  {
+    "nome": "🍕Pizza",
+    "href": "/pt/pizza/"
+  },
+  {
+    "nome": "🌭Cachorro-quente",
+    "href": "/pt/hot-dog/"
+  },
+  {
+    "nome": "🌮Taco",
+    "href": "/pt/taco/"
+  },
+  {
+    "nome": "🌯Burrito",
+    "href": "/pt/burrito/"
+  },
+  {
+    "nome": "🍳Ovo frito",
+    "href": "/pt/cooking/"
+  },
+  {
+    "nome": "🍲Panela",
+    "href": "/pt/pot-of-food/"
+  },
+  {
+    "nome": "🍿Pipoca",
+    "href": "/pt/popcorn/"
+  },
+  {
+    "nome": "🍱Bentô",
+    "href": "/pt/bento-box/"
+  },
+  {
+    "nome": "🍘Biscoito de arroz",
+    "href": "/pt/rice-cracker/"
+  },
+  {
+    "nome": "🍙Arroz japonês",
+    "href": "/pt/rice-ball/"
+  },
+  {
+    "nome": "🍚Arroz cozido",
+    "href": "/pt/cooked-rice/"
+  },
+  {
+    "nome": "🍛Arroz com curry",
+    "href": "/pt/curry-rice/"
+  },
+  {
+    "nome": "🍜Lámen",
+    "href": "/pt/steaming-bowl/"
+  },
+  {
+    "nome": "🍝Espaguete",
+    "href": "/pt/spaghetti/"
+  },
+  {
+    "nome": "🍠Batata assada",
+    "href": "/pt/roasted-sweet-potato/"
+  },
+  {
+    "nome": "🍢Oden",
+    "href": "/pt/oden/"
+  },
+  {
+    "nome": "🍣Sushi",
+    "href": "/pt/sushi/"
+  },
+  {
+    "nome": "🍤Camarão frito",
+    "href": "/pt/fried-shrimp/"
+  },
+  {
+    "nome": "🍥Bolinho de peixe",
+    "href": "/pt/fish-cake-with-swirl/"
+  },
+  {
+    "nome": "🍡Dango",
+    "href": "/pt/dango/"
+  },
+  {
+    "nome": "🍦Sorvete italiano",
+    "href": "/pt/soft-ice-cream/"
+  },
+  {
+    "nome": "🍧Raspadinha de gelo",
+    "href": "/pt/shaved-ice/"
+  },
+  {
+    "nome": "🍨Sorvete",
+    "href": "/pt/ice-cream/"
+  },
+  {
+    "nome": "🍩Donut",
+    "href": "/pt/doughnut/"
+  },
+  {
+    "nome": "🍪Biscoito",
+    "href": "/pt/cookie/"
+  },
+  {
+    "nome": "🎂Bolo de aniversário",
+    "href": "/pt/birthday-cake/"
+  },
+  {
+    "nome": "🍰Pão de ló de morango",
+    "href": "/pt/shortcake/"
+  },
+  {
+    "nome": "🍫Chocolate",
+    "href": "/pt/chocolate-bar/"
+  },
+  {
+    "nome": "🍬Bala",
+    "href": "/pt/candy/"
+  },
+  {
+    "nome": "🍭Pirulito",
+    "href": "/pt/lollipop/"
+  },
+  {
+    "nome": "🍮Pudim",
+    "href": "/pt/custard/"
+  },
+  {
+    "nome": "🍯Pote de mel",
+    "href": "/pt/honey-pot/"
+  },
+  {
+    "nome": "🍼Mamadeira",
+    "href": "/pt/baby-bottle/"
+  },
+  {
+    "nome": "☕Café",
+    "href": "/pt/hot-beverage/"
+  },
+  {
+    "nome": "🍵Xícara de chá sem alça",
+    "href": "/pt/teacup-without-handle/"
+  },
+  {
+    "nome": "🍶Saquê",
+    "href": "/pt/sake/"
+  },
+  {
+    "nome": "🍾Garrafa de champanhe",
+    "href": "/pt/bottle-with-popping-cork/"
+  },
+  {
+    "nome": "🍷Vinho",
+    "href": "/pt/wine-glass/"
+  },
+  {
+    "nome": "🍸Coquetel",
+    "href": "/pt/cocktail-glass/"
+  },
+  {
+    "nome": "🍹Bebida tropical",
+    "href": "/pt/tropical-drink/"
+  },
+  {
+    "nome": "🍺Cerveja",
+    "href": "/pt/beer-mug/"
+  },
+  {
+    "nome": "🍻Canecas de cerveja",
+    "href": "/pt/clinking-beer-mugs/"
+  },
+  {
+    "nome": "🍽️Prato com talheres",
+    "href": "/pt/fork-and-knife-with-plate/"
+  },
+  {
+    "nome": "🍴Garfo e faca",
+    "href": "/pt/fork-and-knife/"
+  },
+  {
+    "nome": "🔪Faca de cozinha",
+    "href": "/pt/kitchen-knife/"
+  },
+  {
+    "nome": "🏺Ânfora",
+    "href": "/pt/amphora/"
+  },
+  {
+    "nome": "🌍Globo mostrando Europa e África",
+    "href": "/pt/globe-showing-europe-africa/"
+  },
+  {
+    "nome": "🌎Globo mostrando as Américas",
+    "href": "/pt/globe-showing-americas/"
+  },
+  {
+    "nome": "🌏Globo mostrando Ásia e Oceania",
+    "href": "/pt/globe-showing-asia-australia/"
+  },
+  {
+    "nome": "🌐Globo com meridianos",
+    "href": "/pt/globe-with-meridians/"
+  },
+  {
+    "nome": "🗺️Mapa-múndi",
+    "href": "/pt/world-map/"
+  },
+  {
+    "nome": "🗾Mapa do Japão",
+    "href": "/pt/map-of-japan/"
+  },
+  {
+    "nome": "🏔️Montanha com neve",
+    "href": "/pt/snow-capped-mountain/"
+  },
+  {
+    "nome": "⛰️Montanha",
+    "href": "/pt/mountain/"
+  },
+  {
+    "nome": "🌋Vulcão",
+    "href": "/pt/volcano/"
+  },
+  {
+    "nome": "🗻Monte Fuji",
+    "href": "/pt/mount-fuji/"
+  },
+  {
+    "nome": "🏕️Acampamento",
+    "href": "/pt/camping/"
+  },
+  {
+    "nome": "🏖️Praia e guarda-sol",
+    "href": "/pt/beach-with-umbrella/"
+  },
+  {
+    "nome": "🏜️Deserto",
+    "href": "/pt/desert/"
+  },
+  {
+    "nome": "🏝️Ilha deserta",
+    "href": "/pt/desert-island/"
+  },
+  {
+    "nome": "🏞️Parque nacional",
+    "href": "/pt/national-park/"
+  },
+  {
+    "nome": "🏟️Estádio",
+    "href": "/pt/stadium/"
+  },
+  {
+    "nome": "🏛️Prédio grego",
+    "href": "/pt/classical-building/"
+  },
+  {
+    "nome": "🏗️Construção",
+    "href": "/pt/building-construction/"
+  },
+  {
+    "nome": "🏘️Casas",
+    "href": "/pt/houses/"
+  },
+  {
+    "nome": "🏚️Casa abandonada",
+    "href": "/pt/derelict-house/"
+  },
+  {
+    "nome": "🏠Casa",
+    "href": "/pt/house/"
+  },
+  {
+    "nome": "🏡Casa com jardim",
+    "href": "/pt/house-with-garden/"
+  },
+  {
+    "nome": "🏢Edifício comercial",
+    "href": "/pt/office-building/"
+  },
+  {
+    "nome": "🏣Correio japonês",
+    "href": "/pt/japanese-post-office/"
+  },
+  {
+    "nome": "🏤Correio",
+    "href": "/pt/post-office/"
+  },
+  {
+    "nome": "🏥Hospital",
+    "href": "/pt/hospital/"
+  },
+  {
+    "nome": "🏦Banco",
+    "href": "/pt/bank/"
+  },
+  {
+    "nome": "🏨Hotel",
+    "href": "/pt/hotel/"
+  },
+  {
+    "nome": "🏩Motel",
+    "href": "/pt/love-hotel/"
+  },
+  {
+    "nome": "🏪Loja de conveniência",
+    "href": "/pt/convenience-store/"
+  },
+  {
+    "nome": "🏫Escola",
+    "href": "/pt/school/"
+  },
+  {
+    "nome": "🏬Loja de departamentos",
+    "href": "/pt/department-store/"
+  },
+  {
+    "nome": "🏭Fábrica",
+    "href": "/pt/factory/"
+  },
+  {
+    "nome": "🏯Castelo japonês",
+    "href": "/pt/japanese-castle/"
+  },
+  {
+    "nome": "🏰Castelo",
+    "href": "/pt/castle/"
+  },
+  {
+    "nome": "💒Capela de casamento",
+    "href": "/pt/wedding/"
+  },
+  {
+    "nome": "🗼Torre de Tóquio",
+    "href": "/pt/tokyo-tower/"
+  },
+  {
+    "nome": "🗽Estátua da Liberdade",
+    "href": "/pt/statue-of-liberty/"
+  },
+  {
+    "nome": "⛪Igreja",
+    "href": "/pt/church/"
+  },
+  {
+    "nome": "🕌Mesquita",
+    "href": "/pt/mosque/"
+  },
+  {
+    "nome": "🕍Sinagoga",
+    "href": "/pt/synagogue/"
+  },
+  {
+    "nome": "⛩️Santuário japonês",
+    "href": "/pt/shinto-shrine/"
+  },
+  {
+    "nome": "🕋Caaba islã",
+    "href": "/pt/kaaba/"
+  },
+  {
+    "nome": "⛲Fonte",
+    "href": "/pt/fountain/"
+  },
+  {
+    "nome": "⛺Barraca",
+    "href": "/pt/tent/"
+  },
+  {
+    "nome": "🌁Enevoado",
+    "href": "/pt/foggy/"
+  },
+  {
+    "nome": "🌃Noite estrelada",
+    "href": "/pt/night-with-stars/"
+  },
+  {
+    "nome": "🏙️Cidade",
+    "href": "/pt/cityscape/"
+  },
+  {
+    "nome": "🌄Aurora sobre montanhas",
+    "href": "/pt/sunrise-over-mountains/"
+  },
+  {
+    "nome": "🌅Aurora sobre água",
+    "href": "/pt/sunrise/"
+  },
+  {
+    "nome": "🌆Cidade ao anoitecer",
+    "href": "/pt/cityscape-at-dusk/"
+  },
+  {
+    "nome": "🌇Pôr do sol",
+    "href": "/pt/sunset/"
+  },
+  {
+    "nome": "🌉Ponte à noite",
+    "href": "/pt/bridge-at-night/"
+  },
+  {
+    "nome": "♨️Chamas",
+    "href": "/pt/hot-springs/"
+  },
+  {
+    "nome": "🎠Carrossel",
+    "href": "/pt/carousel-horse/"
+  },
+  {
+    "nome": "🎡Roda gigante",
+    "href": "/pt/ferris-wheel/"
+  },
+  {
+    "nome": "🎢Montanha russa",
+    "href": "/pt/roller-coaster/"
+  },
+  {
+    "nome": "💈Barbearia",
+    "href": "/pt/barber-pole/"
+  },
+  {
+    "nome": "🎪Circo",
+    "href": "/pt/circus-tent/"
+  },
+  {
+    "nome": "🚂Locomotiva",
+    "href": "/pt/locomotive/"
+  },
+  {
+    "nome": "🚃Vagão de trem",
+    "href": "/pt/railway-car/"
+  },
+  {
+    "nome": "🚄Trem de alta velocidade",
+    "href": "/pt/high-speed-train/"
+  },
+  {
+    "nome": "🚅Trem de alta velocidade japonês",
+    "href": "/pt/bullet-train/"
+  },
+  {
+    "nome": "🚆Trem",
+    "href": "/pt/train/"
+  },
+  {
+    "nome": "🚇Metrô",
+    "href": "/pt/metro/"
+  },
+  {
+    "nome": "🚈Trem urbano",
+    "href": "/pt/light-rail/"
+  },
+  {
+    "nome": "🚉Estação",
+    "href": "/pt/station/"
+  },
+  {
+    "nome": "🚊Bonde elétrico",
+    "href": "/pt/tram/"
+  },
+  {
+    "nome": "🚝Monotrilho",
+    "href": "/pt/monorail/"
+  },
+  {
+    "nome": "🚞Estrada de ferro na montanha",
+    "href": "/pt/mountain-railway/"
+  },
+  {
+    "nome": "🚋Bonde",
+    "href": "/pt/tram-car/"
+  },
+  {
+    "nome": "🚌Ônibus",
+    "href": "/pt/bus/"
+  },
+  {
+    "nome": "🚍Ônibus se aproximando",
+    "href": "/pt/oncoming-bus/"
+  },
+  {
+    "nome": "🚎Trólebus",
+    "href": "/pt/trolleybus/"
+  },
+  {
+    "nome": "🚐Van",
+    "href": "/pt/minibus/"
+  },
+  {
+    "nome": "🚑Ambulância",
+    "href": "/pt/ambulance/"
+  },
+  {
+    "nome": "🚒Carro do corpo de bombeiros",
+    "href": "/pt/fire-engine/"
+  },
+  {
+    "nome": "🚓Viatura policial",
+    "href": "/pt/police-car/"
+  },
+  {
+    "nome": "🚔Viatura policial se aproximando",
+    "href": "/pt/oncoming-police-car/"
+  },
+  {
+    "nome": "🚕Táxi",
+    "href": "/pt/taxi/"
+  },
+  {
+    "nome": "🚖Táxi se aproximando",
+    "href": "/pt/oncoming-taxi/"
+  },
+  {
+    "nome": "🚗Carro",
+    "href": "/pt/automobile/"
+  },
+  {
+    "nome": "🚘Carro se aproximando",
+    "href": "/pt/oncoming-automobile/"
+  },
+  {
+    "nome": "🚙SUV",
+    "href": "/pt/sport-utility-vehicle/"
+  },
+  {
+    "nome": "🚚Caminhão de entrega",
+    "href": "/pt/delivery-truck/"
+  },
+  {
+    "nome": "🚛Caminhão",
+    "href": "/pt/articulated-lorry/"
+  },
+  {
+    "nome": "🚜Trator",
+    "href": "/pt/tractor/"
+  },
+  {
+    "nome": "🏎️Carro de corrida",
+    "href": "/pt/racing-car/"
+  },
+  {
+    "nome": "🏍️Motocicleta",
+    "href": "/pt/motorcycle/"
+  },
+  {
+    "nome": "🚲Bicicleta",
+    "href": "/pt/bicycle/"
+  },
+  {
+    "nome": "🚏Ponto de ônibus",
+    "href": "/pt/bus-stop/"
+  },
+  {
+    "nome": "🛣️Estrada",
+    "href": "/pt/motorway/"
+  },
+  {
+    "nome": "🛤️Trilhos",
+    "href": "/pt/railway-track/"
+  },
+  {
+    "nome": "🛢️Barril de óleo",
+    "href": "/pt/oil-drum/"
+  },
+  {
+    "nome": "⛽Posto de gasolina",
+    "href": "/pt/fuel-pump/"
+  },
+  {
+    "nome": "🚨Sirene",
+    "href": "/pt/police-car-light/"
+  },
+  {
+    "nome": "🚥Semáforo horizontal",
+    "href": "/pt/horizontal-traffic-light/"
+  },
+  {
+    "nome": "🚦Semáforo vertical",
+    "href": "/pt/vertical-traffic-light/"
+  },
+  {
+    "nome": "🚧Em construção",
+    "href": "/pt/construction/"
+  },
+  {
+    "nome": "⚓Âncora",
+    "href": "/pt/anchor/"
+  },
+  {
+    "nome": "⛵Barco a vela",
+    "href": "/pt/sailboat/"
+  },
+  {
+    "nome": "🚤Lancha",
+    "href": "/pt/speedboat/"
+  },
+  {
+    "nome": "🛳️Cruzeiro",
+    "href": "/pt/passenger-ship/"
+  },
+  {
+    "nome": "⛴️Balsa",
+    "href": "/pt/ferry/"
+  },
+  {
+    "nome": "🛥️Barco",
+    "href": "/pt/motor-boat/"
+  },
+  {
+    "nome": "🚢Navio",
+    "href": "/pt/ship/"
+  },
+  {
+    "nome": "✈️Avião",
+    "href": "/pt/airplane/"
+  },
+  {
+    "nome": "🛩️Avião pequeno",
+    "href": "/pt/small-airplane/"
+  },
+  {
+    "nome": "🛫Avião decolando",
+    "href": "/pt/airplane-departure/"
+  },
+  {
+    "nome": "🛬Avião aterrissando",
+    "href": "/pt/airplane-arrival/"
+  },
+  {
+    "nome": "💺Assento",
+    "href": "/pt/seat/"
+  },
+  {
+    "nome": "🚁Helicóptero",
+    "href": "/pt/helicopter/"
+  },
+  {
+    "nome": "🚟Estrada de ferro suspensa",
+    "href": "/pt/suspension-railway/"
+  },
+  {
+    "nome": "🚠Cabo suspenso usado em teleféricos nas montanhas",
+    "href": "/pt/mountain-cableway/"
+  },
+  {
+    "nome": "🚡Teleférico",
+    "href": "/pt/aerial-tramway/"
+  },
+  {
+    "nome": "🛰️Satélite",
+    "href": "/pt/satellite/"
+  },
+  {
+    "nome": "🚀Foguete",
+    "href": "/pt/rocket/"
+  },
+  {
+    "nome": "🛎️Sineta",
+    "href": "/pt/bellhop-bell/"
+  },
+  {
+    "nome": "⌛Ampulheta",
+    "href": "/pt/hourglass-done/"
+  },
+  {
+    "nome": "⏳Ampulheta contando o tempo",
+    "href": "/pt/hourglass-not-done/"
+  },
+  {
+    "nome": "⌚Relógio de pulso",
+    "href": "/pt/watch/"
+  },
+  {
+    "nome": "⏰Despertador",
+    "href": "/pt/alarm-clock/"
+  },
+  {
+    "nome": "⏱️Cronômetro",
+    "href": "/pt/stopwatch/"
+  },
+  {
+    "nome": "⏲️Relógio temporizador",
+    "href": "/pt/timer-clock/"
+  },
+  {
+    "nome": "🕰️Relógio de mesa",
+    "href": "/pt/mantelpiece-clock/"
+  },
+  {
+    "nome": "🕛12 horas",
+    "href": "/pt/twelve-oclock/"
+  },
+  {
+    "nome": "🕧Doze e meia",
+    "href": "/pt/twelve-thirty/"
+  },
+  {
+    "nome": "🕐1 hora",
+    "href": "/pt/one-oclock/"
+  },
+  {
+    "nome": "🕜Uma e meia",
+    "href": "/pt/one-thirty/"
+  },
+  {
+    "nome": "🕑2 horas",
+    "href": "/pt/two-oclock/"
+  },
+  {
+    "nome": "🕝Duas e meia",
+    "href": "/pt/two-thirty/"
+  },
+  {
+    "nome": "🕒3 horas",
+    "href": "/pt/three-oclock/"
+  },
+  {
+    "nome": "🕞Três e meia",
+    "href": "/pt/three-thirty/"
+  },
+  {
+    "nome": "🕓4 horas",
+    "href": "/pt/four-oclock/"
+  },
+  {
+    "nome": "🕟Quatro e meia",
+    "href": "/pt/four-thirty/"
+  },
+  {
+    "nome": "🕔5 horas",
+    "href": "/pt/five-oclock/"
+  },
+  {
+    "nome": "🕠Cinco e meia",
+    "href": "/pt/five-thirty/"
+  },
+  {
+    "nome": "🕕6 horas",
+    "href": "/pt/six-oclock/"
+  },
+  {
+    "nome": "🕡Seis e meia",
+    "href": "/pt/six-thirty/"
+  },
+  {
+    "nome": "🕖7 horas",
+    "href": "/pt/seven-oclock/"
+  },
+  {
+    "nome": "🕢Sete e meia",
+    "href": "/pt/seven-thirty/"
+  },
+  {
+    "nome": "🕗8 horas",
+    "href": "/pt/eight-oclock/"
+  },
+  {
+    "nome": "🕣Oito e meia",
+    "href": "/pt/eight-thirty/"
+  },
+  {
+    "nome": "🕘9 horas",
+    "href": "/pt/nine-oclock/"
+  },
+  {
+    "nome": "🕤Nove e meia",
+    "href": "/pt/nine-thirty/"
+  },
+  {
+    "nome": "🕙10 horas",
+    "href": "/pt/ten-oclock/"
+  },
+  {
+    "nome": "🕥Dez e meia",
+    "href": "/pt/ten-thirty/"
+  },
+  {
+    "nome": "🕚11 horas",
+    "href": "/pt/eleven-oclock/"
+  },
+  {
+    "nome": "🕦Onze e meia",
+    "href": "/pt/eleven-thirty/"
+  },
+  {
+    "nome": "🌑Lua nova",
+    "href": "/pt/new-moon/"
+  },
+  {
+    "nome": "🌒Lua crescente côncava",
+    "href": "/pt/waxing-crescent-moon/"
+  },
+  {
+    "nome": "🌓Quarto crescente",
+    "href": "/pt/first-quarter-moon/"
+  },
+  {
+    "nome": "🌔Lua crescente convexa",
+    "href": "/pt/waxing-gibbous-moon/"
+  },
+  {
+    "nome": "🌕Lua cheia",
+    "href": "/pt/full-moon/"
+  },
+  {
+    "nome": "🌖Lua minguante convexa",
+    "href": "/pt/waning-gibbous-moon/"
+  },
+  {
+    "nome": "🌗Quarto minguante",
+    "href": "/pt/last-quarter-moon/"
+  },
+  {
+    "nome": "🌘Lua minguante côncava",
+    "href": "/pt/waning-crescent-moon/"
+  },
+  {
+    "nome": "🌙Lua crescente",
+    "href": "/pt/crescent-moon/"
+  },
+  {
+    "nome": "🌚Rosto da lua nova",
+    "href": "/pt/new-moon-face/"
+  },
+  {
+    "nome": "🌛Rosto da lua de quarto crescente",
+    "href": "/pt/first-quarter-moon-face/"
+  },
+  {
+    "nome": "🌜Rosto da lua de quarto minguante",
+    "href": "/pt/last-quarter-moon-face/"
+  },
+  {
+    "nome": "🌡️Termômetro",
+    "href": "/pt/thermometer/"
+  },
+  {
+    "nome": "☀️Sol",
+    "href": "/pt/sun/"
+  },
+  {
+    "nome": "🌝Rosto da lua cheia",
+    "href": "/pt/full-moon-face/"
+  },
+  {
+    "nome": "🌞Rosto do sol",
+    "href": "/pt/sun-with-face/"
+  },
+  {
+    "nome": "⭐Estrela branca média",
+    "href": "/pt/star/"
+  },
+  {
+    "nome": "🌟Estrela brilhante",
+    "href": "/pt/glowing-star/"
+  },
+  {
+    "nome": "🌠Estrela cadente",
+    "href": "/pt/shooting-star/"
+  },
+  {
+    "nome": "🌌Via láctea",
+    "href": "/pt/milky-way/"
+  },
+  {
+    "nome": "☁️Nuvem",
+    "href": "/pt/cloud/"
+  },
+  {
+    "nome": "⛅Sol por trás das nuvens",
+    "href": "/pt/sun-behind-cloud/"
+  },
+  {
+    "nome": "⛈️Chuva com trovão",
+    "href": "/pt/cloud-with-lightning-and-rain/"
+  },
+  {
+    "nome": "🌤️Sol com nuvens",
+    "href": "/pt/sun-behind-small-cloud/"
+  },
+  {
+    "nome": "🌥️Nublado",
+    "href": "/pt/sun-behind-large-cloud/"
+  },
+  {
+    "nome": "🌦️Sol com chuva",
+    "href": "/pt/sun-behind-rain-cloud/"
+  },
+  {
+    "nome": "🌧️Nuvem com chuva",
+    "href": "/pt/cloud-with-rain/"
+  },
+  {
+    "nome": "🌨️Nuvem com neve",
+    "href": "/pt/cloud-with-snow/"
+  },
+  {
+    "nome": "🌩️Nuvem com trovão",
+    "href": "/pt/cloud-with-lightning/"
+  },
+  {
+    "nome": "🌪️Tornado",
+    "href": "/pt/tornado/"
+  },
+  {
+    "nome": "🌫️Neblina",
+    "href": "/pt/fog/"
+  },
+  {
+    "nome": "🌬️Rosto de vento",
+    "href": "/pt/wind-face/"
+  },
+  {
+    "nome": "🌀Ciclone",
+    "href": "/pt/cyclone/"
+  },
+  {
+    "nome": "🌈Arco-íris",
+    "href": "/pt/rainbow/"
+  },
+  {
+    "nome": "🌂Guarda-chuva fechado",
+    "href": "/pt/closed-umbrella/"
+  },
+  {
+    "nome": "☂️Guarda-chuva",
+    "href": "/pt/umbrella/"
+  },
+  {
+    "nome": "☔Sombrinha na chuva",
+    "href": "/pt/umbrella-with-rain-drops/"
+  },
+  {
+    "nome": "⛱️Guarda-sol",
+    "href": "/pt/umbrella-on-ground/"
+  },
+  {
+    "nome": "⚡Alta tensão",
+    "href": "/pt/high-voltage/"
+  },
+  {
+    "nome": "❄️Floco de neve",
+    "href": "/pt/snowflake/"
+  },
+  {
+    "nome": "☃️Boneco de neve",
+    "href": "/pt/snowman/"
+  },
+  {
+    "nome": "⛄Boneco de neve sem neve",
+    "href": "/pt/snowman-without-snow/"
+  },
+  {
+    "nome": "☄️Cometa",
+    "href": "/pt/comet/"
+  },
+  {
+    "nome": "🔥Fogo",
+    "href": "/pt/fire/"
+  },
+  {
+    "nome": "💧Gota",
+    "href": "/pt/droplet/"
+  },
+  {
+    "nome": "🌊Onda",
+    "href": "/pt/water-wave/"
+  },
+  {
+    "nome": "🎃Abóbora de halloween",
+    "href": "/pt/jack-o-lantern/"
+  },
+  {
+    "nome": "🎄Árvore de natal",
+    "href": "/pt/christmas-tree/"
+  },
+  {
+    "nome": "🎆Fogos de artifício",
+    "href": "/pt/fireworks/"
+  },
+  {
+    "nome": "🎇Vela estrela",
+    "href": "/pt/sparkler/"
+  },
+  {
+    "nome": "✨Brilhos",
+    "href": "/pt/sparkles/"
+  },
+  {
+    "nome": "🎈Balão",
+    "href": "/pt/balloon/"
+  },
+  {
+    "nome": "🎉Cone de festa",
+    "href": "/pt/party-popper/"
+  },
+  {
+    "nome": "🎊Confete",
+    "href": "/pt/confetti-ball/"
+  },
+  {
+    "nome": "🎋Árvore de tanabata",
+    "href": "/pt/tanabata-tree/"
+  },
+  {
+    "nome": "🎍Decoração de pinhos",
+    "href": "/pt/pine-decoration/"
+  },
+  {
+    "nome": "🎎Bonecas japonesas",
+    "href": "/pt/japanese-dolls/"
+  },
+  {
+    "nome": "🎏Bandeira de carpas",
+    "href": "/pt/carp-streamer/"
+  },
+  {
+    "nome": "🎐Carrilhão de vento",
+    "href": "/pt/wind-chime/"
+  },
+  {
+    "nome": "🎑Contemplação da lua",
+    "href": "/pt/moon-viewing-ceremony/"
+  },
+  {
+    "nome": "🎀Laço de fita",
+    "href": "/pt/ribbon/"
+  },
+  {
+    "nome": "🎁Presente",
+    "href": "/pt/wrapped-gift/"
+  },
+  {
+    "nome": "🎗️Fita de lembrete",
+    "href": "/pt/reminder-ribbon/"
+  },
+  {
+    "nome": "🎟️Ingresso de cinema",
+    "href": "/pt/admission-tickets/"
+  },
+  {
+    "nome": "🎫Ingresso",
+    "href": "/pt/ticket/"
+  },
+  {
+    "nome": "🎖️Medalha militar",
+    "href": "/pt/military-medal/"
+  },
+  {
+    "nome": "🏆Troféu",
+    "href": "/pt/trophy/"
+  },
+  {
+    "nome": "🏅Medalha esportiva",
+    "href": "/pt/sports-medal/"
+  },
+  {
+    "nome": "⚽Bola de futebol",
+    "href": "/pt/soccer-ball/"
+  },
+  {
+    "nome": "⚾Bola de beisebol",
+    "href": "/pt/baseball/"
+  },
+  {
+    "nome": "🏀Bola de basquete",
+    "href": "/pt/basketball/"
+  },
+  {
+    "nome": "🏐Bola de vôlei",
+    "href": "/pt/volleyball/"
+  },
+  {
+    "nome": "🏈Bola de futebol americano",
+    "href": "/pt/american-football/"
+  },
+  {
+    "nome": "🏉Bola de rugby",
+    "href": "/pt/rugby-football/"
+  },
+  {
+    "nome": "🎾Tênis",
+    "href": "/pt/tennis/"
+  },
+  {
+    "nome": "🎳Boliche",
+    "href": "/pt/bowling/"
+  },
+  {
+    "nome": "🏏Críquete",
+    "href": "/pt/cricket-game/"
+  },
+  {
+    "nome": "🏑Hóquei de campo",
+    "href": "/pt/field-hockey/"
+  },
+  {
+    "nome": "🏒Hóquei no gelo",
+    "href": "/pt/ice-hockey/"
+  },
+  {
+    "nome": "🏓Pingue-pongue",
+    "href": "/pt/ping-pong/"
+  },
+  {
+    "nome": "🏸Badminton",
+    "href": "/pt/badminton/"
+  },
+  {
+    "nome": "⛳Bandeira no buraco",
+    "href": "/pt/flag-in-hole/"
+  },
+  {
+    "nome": "⛸️Patins de gelo",
+    "href": "/pt/ice-skate/"
+  },
+  {
+    "nome": "🎣Pesca",
+    "href": "/pt/fishing-pole/"
+  },
+  {
+    "nome": "🎽Camiseta de corrida",
+    "href": "/pt/running-shirt/"
+  },
+  {
+    "nome": "🎿Esqui",
+    "href": "/pt/skis/"
+  },
+  {
+    "nome": "🎯No alvo",
+    "href": "/pt/direct-hit/"
+  },
+  {
+    "nome": "🔫Pistola",
+    "href": "/pt/pistol/"
+  },
+  {
+    "nome": "🎱Bilhar",
+    "href": "/pt/pool-8-ball/"
+  },
+  {
+    "nome": "🔮Bola de cristal",
+    "href": "/pt/crystal-ball/"
+  },
+  {
+    "nome": "🎮Videogame",
+    "href": "/pt/video-game/"
+  },
+  {
+    "nome": "🕹️Joystick",
+    "href": "/pt/joystick/"
+  },
+  {
+    "nome": "🎰Caça-níquel",
+    "href": "/pt/slot-machine/"
+  },
+  {
+    "nome": "🎲Jogo de dado",
+    "href": "/pt/game-die/"
+  },
+  {
+    "nome": "♠️Naipe de espadas",
+    "href": "/pt/spade-suit/"
+  },
+  {
+    "nome": "♥️Naipe de copas",
+    "href": "/pt/heart-suit/"
+  },
+  {
+    "nome": "♦️Naipe de ouros",
+    "href": "/pt/diamond-suit/"
+  },
+  {
+    "nome": "♣️Naipe de paus",
+    "href": "/pt/club-suit/"
+  },
+  {
+    "nome": "🃏Curinga",
+    "href": "/pt/joker/"
+  },
+  {
+    "nome": "🀄Dragão vermelho de mahjong",
+    "href": "/pt/mahjong-red-dragon/"
+  },
+  {
+    "nome": "🎴Carta de flores",
+    "href": "/pt/flower-playing-cards/"
+  },
+  {
+    "nome": "🎭Máscara",
+    "href": "/pt/performing-arts/"
+  },
+  {
+    "nome": "🖼️Quadro emoldurado",
+    "href": "/pt/framed-picture/"
+  },
+  {
+    "nome": "🎨Paleta de tintas",
+    "href": "/pt/artist-palette/"
+  },
+  {
+    "nome": "👓Óculos",
+    "href": "/pt/glasses/"
+  },
+  {
+    "nome": "🕶️Óculos escuros",
+    "href": "/pt/sunglasses/"
+  },
+  {
+    "nome": "👔Gravata",
+    "href": "/pt/necktie/"
+  },
+  {
+    "nome": "👕Camiseta",
+    "href": "/pt/t-shirt/"
+  },
+  {
+    "nome": "👖Jeans",
+    "href": "/pt/jeans/"
+  },
+  {
+    "nome": "👗Vestido",
+    "href": "/pt/dress/"
+  },
+  {
+    "nome": "👘Quimono",
+    "href": "/pt/kimono/"
+  },
+  {
+    "nome": "👙Biquíni",
+    "href": "/pt/bikini/"
+  },
+  {
+    "nome": "👚Roupas femininas",
+    "href": "/pt/womans-clothes/"
+  },
+  {
+    "nome": "👛Bolsinha",
+    "href": "/pt/purse/"
+  },
+  {
+    "nome": "👜Bolsa de mão",
+    "href": "/pt/handbag/"
+  },
+  {
+    "nome": "👝Bolsa pequena",
+    "href": "/pt/clutch-bag/"
+  },
+  {
+    "nome": "🛍️Sacolas de compras",
+    "href": "/pt/shopping-bags/"
+  },
+  {
+    "nome": "🎒Mochila",
+    "href": "/pt/backpack/"
+  },
+  {
+    "nome": "👞Sapato masculino",
+    "href": "/pt/mans-shoe/"
+  },
+  {
+    "nome": "👟Tênis de corrida",
+    "href": "/pt/running-shoe/"
+  },
+  {
+    "nome": "👠Sapato de salto alto",
+    "href": "/pt/high-heeled-shoe/"
+  },
+  {
+    "nome": "👡Sandália feminina",
+    "href": "/pt/womans-sandal/"
+  },
+  {
+    "nome": "👢Bota feminina",
+    "href": "/pt/womans-boot/"
+  },
+  {
+    "nome": "👑Coroa",
+    "href": "/pt/crown/"
+  },
+  {
+    "nome": "👒Chapéu feminino",
+    "href": "/pt/womans-hat/"
+  },
+  {
+    "nome": "🎩Cartola",
+    "href": "/pt/top-hat/"
+  },
+  {
+    "nome": "🎓Chapéu de formatura",
+    "href": "/pt/graduation-cap/"
+  },
+  {
+    "nome": "⛑️Capacacete de socorrista",
+    "href": "/pt/rescue-workers-helmet/"
+  },
+  {
+    "nome": "📿Rosário de oração",
+    "href": "/pt/prayer-beads/"
+  },
+  {
+    "nome": "💄Batom",
+    "href": "/pt/lipstick/"
+  },
+  {
+    "nome": "💍Anel",
+    "href": "/pt/ring/"
+  },
+  {
+    "nome": "💎Pedra preciosa",
+    "href": "/pt/gem-stone/"
+  },
+  {
+    "nome": "🔇Alto-falante silenciado",
+    "href": "/pt/muted-speaker/"
+  },
+  {
+    "nome": "🔈Alto-falante com volume baixo",
+    "href": "/pt/speaker-low-volume/"
+  },
+  {
+    "nome": "🔉Alto-falante com volume médio",
+    "href": "/pt/speaker-medium-volume/"
+  },
+  {
+    "nome": "🔊Alto-falante com volume alto",
+    "href": "/pt/speaker-high-volume/"
+  },
+  {
+    "nome": "📢Buzina",
+    "href": "/pt/loudspeaker/"
+  },
+  {
+    "nome": "📣Megafone",
+    "href": "/pt/megaphone/"
+  },
+  {
+    "nome": "📯Corneta postal",
+    "href": "/pt/postal-horn/"
+  },
+  {
+    "nome": "🔔Sino",
+    "href": "/pt/bell/"
+  },
+  {
+    "nome": "🔕Sino silenciado",
+    "href": "/pt/bell-with-slash/"
+  },
+  {
+    "nome": "🎼Partitura musical",
+    "href": "/pt/musical-score/"
+  },
+  {
+    "nome": "🎵Nota musical",
+    "href": "/pt/musical-note/"
+  },
+  {
+    "nome": "🎶Notas musicais",
+    "href": "/pt/musical-notes/"
+  },
+  {
+    "nome": "🎙️Microfone de estúdio",
+    "href": "/pt/studio-microphone/"
+  },
+  {
+    "nome": "🎚️Controle de volume",
+    "href": "/pt/level-slider/"
+  },
+  {
+    "nome": "🎛️Botões giratórios",
+    "href": "/pt/control-knobs/"
+  },
+  {
+    "nome": "🎤Microfone",
+    "href": "/pt/microphone/"
+  },
+  {
+    "nome": "🎧Fones de ouvido",
+    "href": "/pt/headphone/"
+  },
+  {
+    "nome": "📻Rádio",
+    "href": "/pt/radio/"
+  },
+  {
+    "nome": "🎷Saxofone",
+    "href": "/pt/saxophone/"
+  },
+  {
+    "nome": "🎸Guitarra",
+    "href": "/pt/guitar/"
+  },
+  {
+    "nome": "🎹Teclado musical",
+    "href": "/pt/musical-keyboard/"
+  },
+  {
+    "nome": "🎺Trompete",
+    "href": "/pt/trumpet/"
+  },
+  {
+    "nome": "🎻Violino",
+    "href": "/pt/violin/"
+  },
+  {
+    "nome": "📱Telefone celular",
+    "href": "/pt/mobile-phone/"
+  },
+  {
+    "nome": "📲Telefone celular com seta",
+    "href": "/pt/mobile-phone-with-arrow/"
+  },
+  {
+    "nome": "☎️Telefone no gancho",
+    "href": "/pt/telephone/"
+  },
+  {
+    "nome": "📞Telefone",
+    "href": "/pt/telephone-receiver/"
+  },
+  {
+    "nome": "📟Pager",
+    "href": "/pt/pager/"
+  },
+  {
+    "nome": "📠Fax",
+    "href": "/pt/fax-machine/"
+  },
+  {
+    "nome": "🔋Pilha",
+    "href": "/pt/battery/"
+  },
+  {
+    "nome": "🔌Tomada elétrica",
+    "href": "/pt/electric-plug/"
+  },
+  {
+    "nome": "💻Laptop",
+    "href": "/pt/laptop/"
+  },
+  {
+    "nome": "🖥️Computador de mesa",
+    "href": "/pt/desktop-computer/"
+  },
+  {
+    "nome": "🖨️Impressora",
+    "href": "/pt/printer/"
+  },
+  {
+    "nome": "⌨️Teclado",
+    "href": "/pt/keyboard/"
+  },
+  {
+    "nome": "🖱️Mouse",
+    "href": "/pt/computer-mouse/"
+  },
+  {
+    "nome": "🖲️Trackball",
+    "href": "/pt/trackball/"
+  },
+  {
+    "nome": "💽Minidisc",
+    "href": "/pt/computer-disk/"
+  },
+  {
+    "nome": "💾Disquete",
+    "href": "/pt/floppy-disk/"
+  },
+  {
+    "nome": "💿Cd",
+    "href": "/pt/optical-disk/"
+  },
+  {
+    "nome": "📀DVD",
+    "href": "/pt/dvd/"
+  },
+  {
+    "nome": "🎥Câmera de cinema",
+    "href": "/pt/movie-camera/"
+  },
+  {
+    "nome": "🎞️Rolo de filmes",
+    "href": "/pt/film-frames/"
+  },
+  {
+    "nome": "📽️Projetor de filmes",
+    "href": "/pt/film-projector/"
+  },
+  {
+    "nome": "🎬Claquete",
+    "href": "/pt/clapper-board/"
+  },
+  {
+    "nome": "📺Televisão",
+    "href": "/pt/television/"
+  },
+  {
+    "nome": "📷Câmera",
+    "href": "/pt/camera/"
+  },
+  {
+    "nome": "📸Câmera com flash",
+    "href": "/pt/camera-with-flash/"
+  },
+  {
+    "nome": "📹Câmera de vídeo",
+    "href": "/pt/video-camera/"
+  },
+  {
+    "nome": "📼Videocassete",
+    "href": "/pt/videocassette/"
+  },
+  {
+    "nome": "🔍Lupa para a esquerda",
+    "href": "/pt/magnifying-glass-tilted-left/"
+  },
+  {
+    "nome": "🔎Lupa para a direita",
+    "href": "/pt/magnifying-glass-tilted-right/"
+  },
+  {
+    "nome": "🕯️Vela",
+    "href": "/pt/candle/"
+  },
+  {
+    "nome": "💡Lâmpada",
+    "href": "/pt/light-bulb/"
+  },
+  {
+    "nome": "🔦Lanterna",
+    "href": "/pt/flashlight/"
+  },
+  {
+    "nome": "🏮Lanterna vermelha de papel",
+    "href": "/pt/red-paper-lantern/"
+  },
+  {
+    "nome": "📔Caderno decorado",
+    "href": "/pt/notebook-with-decorative-cover/"
+  },
+  {
+    "nome": "📕Livro fechado",
+    "href": "/pt/closed-book/"
+  },
+  {
+    "nome": "📖Livro aberto",
+    "href": "/pt/open-book/"
+  },
+  {
+    "nome": "📗Livro verde",
+    "href": "/pt/green-book/"
+  },
+  {
+    "nome": "📘Livro azul",
+    "href": "/pt/blue-book/"
+  },
+  {
+    "nome": "📙Livro laranja",
+    "href": "/pt/orange-book/"
+  },
+  {
+    "nome": "📚Livros",
+    "href": "/pt/books/"
+  },
+  {
+    "nome": "📓Caderno",
+    "href": "/pt/notebook/"
+  },
+  {
+    "nome": "📒Livro contábil",
+    "href": "/pt/ledger/"
+  },
+  {
+    "nome": "📃Página dobrada",
+    "href": "/pt/page-with-curl/"
+  },
+  {
+    "nome": "📜Pergaminho",
+    "href": "/pt/scroll/"
+  },
+  {
+    "nome": "📄Página voltada para cima",
+    "href": "/pt/page-facing-up/"
+  },
+  {
+    "nome": "📰Jornal",
+    "href": "/pt/newspaper/"
+  },
+  {
+    "nome": "🗞️Jornal enrolado",
+    "href": "/pt/rolled-up-newspaper/"
+  },
+  {
+    "nome": "📑Marcadores de página",
+    "href": "/pt/bookmark-tabs/"
+  },
+  {
+    "nome": "🔖Marcador de página",
+    "href": "/pt/bookmark/"
+  },
+  {
+    "nome": "🏷️Etiqueta",
+    "href": "/pt/label/"
+  },
+  {
+    "nome": "💰Saco de dinheiro",
+    "href": "/pt/money-bag/"
+  },
+  {
+    "nome": "💴Nota de iene",
+    "href": "/pt/yen-banknote/"
+  },
+  {
+    "nome": "💵Nota de dólar",
+    "href": "/pt/dollar-banknote/"
+  },
+  {
+    "nome": "💶Nota de euro",
+    "href": "/pt/euro-banknote/"
+  },
+  {
+    "nome": "💷Nota de libra",
+    "href": "/pt/pound-banknote/"
+  },
+  {
+    "nome": "💸Dinheiro voando",
+    "href": "/pt/money-with-wings/"
+  },
+  {
+    "nome": "💳Cartão de crédito",
+    "href": "/pt/credit-card/"
+  },
+  {
+    "nome": "💹Gráfico subindo com iene",
+    "href": "/pt/chart-increasing-with-yen/"
+  },
+  {
+    "nome": "✉️Envelope",
+    "href": "/pt/envelope/"
+  },
+  {
+    "nome": "📧E-mail",
+    "href": "/pt/e-mail/"
+  },
+  {
+    "nome": "📨Envelope chegando",
+    "href": "/pt/incoming-envelope/"
+  },
+  {
+    "nome": "📩Envelope com seta",
+    "href": "/pt/envelope-with-arrow/"
+  },
+  {
+    "nome": "📤Bandeja de saída",
+    "href": "/pt/outbox-tray/"
+  },
+  {
+    "nome": "📥Bandeja de entrada",
+    "href": "/pt/inbox-tray/"
+  },
+  {
+    "nome": "📦Pacote",
+    "href": "/pt/package/"
+  },
+  {
+    "nome": "📫Caixa de correio fechada com bandeira levantada",
+    "href": "/pt/closed-mailbox-with-raised-flag/"
+  },
+  {
+    "nome": "📪Caixa de correio fechada com bandeira abaixada",
+    "href": "/pt/closed-mailbox-with-lowered-flag/"
+  },
+  {
+    "nome": "📬Caixa de correio aberta com bandeira levantada",
+    "href": "/pt/open-mailbox-with-raised-flag/"
+  },
+  {
+    "nome": "📭Caixa de correio aberta com bandeira abaixada",
+    "href": "/pt/open-mailbox-with-lowered-flag/"
+  },
+  {
+    "nome": "📮Caixa de correio",
+    "href": "/pt/postbox/"
+  },
+  {
+    "nome": "🗳️Urna eleitoral com cédula",
+    "href": "/pt/ballot-box-with-ballot/"
+  },
+  {
+    "nome": "✏️Lápis",
+    "href": "/pt/pencil/"
+  },
+  {
+    "nome": "✒️Ponta de caneta tinteiro",
+    "href": "/pt/black-nib/"
+  },
+  {
+    "nome": "🖋️Caneta tinteiro",
+    "href": "/pt/fountain-pen/"
+  },
+  {
+    "nome": "🖊️Caneta",
+    "href": "/pt/pen/"
+  },
+  {
+    "nome": "🖌️Pincel",
+    "href": "/pt/paintbrush/"
+  },
+  {
+    "nome": "🖍️Giz de cera",
+    "href": "/pt/crayon/"
+  },
+  {
+    "nome": "📝Memorando",
+    "href": "/pt/memo/"
+  },
+  {
+    "nome": "💼Maleta",
+    "href": "/pt/briefcase/"
+  },
+  {
+    "nome": "📁Pasta de arquivos",
+    "href": "/pt/file-folder/"
+  },
+  {
+    "nome": "📂Pasta de arquivos aberta",
+    "href": "/pt/open-file-folder/"
+  },
+  {
+    "nome": "🗂️Divisores de pastas",
+    "href": "/pt/card-index-dividers/"
+  },
+  {
+    "nome": "📅Calendário",
+    "href": "/pt/calendar/"
+  },
+  {
+    "nome": "📆Calendário com folhas destacáveis",
+    "href": "/pt/tear-off-calendar/"
+  },
+  {
+    "nome": "🗒️Bloco espiral",
+    "href": "/pt/spiral-notepad/"
+  },
+  {
+    "nome": "🗓️Calendário espiral",
+    "href": "/pt/spiral-calendar/"
+  },
+  {
+    "nome": "📇Índice de cartões",
+    "href": "/pt/card-index/"
+  },
+  {
+    "nome": "📈Gráfico subindo",
+    "href": "/pt/chart-increasing/"
+  },
+  {
+    "nome": "📉Gráfico caindo",
+    "href": "/pt/chart-decreasing/"
+  },
+  {
+    "nome": "📊Gráfico de barras",
+    "href": "/pt/bar-chart/"
+  },
+  {
+    "nome": "📋Prancheta",
+    "href": "/pt/clipboard/"
+  },
+  {
+    "nome": "📌Tacha",
+    "href": "/pt/pushpin/"
+  },
+  {
+    "nome": "📍Tacha redonda",
+    "href": "/pt/round-pushpin/"
+  },
+  {
+    "nome": "📎Clipe de papel",
+    "href": "/pt/paperclip/"
+  },
+  {
+    "nome": "🖇️Clipes de papel conectados",
+    "href": "/pt/linked-paperclips/"
+  },
+  {
+    "nome": "📏Régua reta",
+    "href": "/pt/straight-ruler/"
+  },
+  {
+    "nome": "📐Régua triangular",
+    "href": "/pt/triangular-ruler/"
+  },
+  {
+    "nome": "✂️Tesoura",
+    "href": "/pt/scissors/"
+  },
+  {
+    "nome": "🗃️Caixa de arquivos",
+    "href": "/pt/card-file-box/"
+  },
+  {
+    "nome": "🗄️Gavetas de escritório",
+    "href": "/pt/file-cabinet/"
+  },
+  {
+    "nome": "🗑️Lixeira",
+    "href": "/pt/wastebasket/"
+  },
+  {
+    "nome": "🔒Cadeado",
+    "href": "/pt/locked/"
+  },
+  {
+    "nome": "🔓Cadeado aberto",
+    "href": "/pt/unlocked/"
+  },
+  {
+    "nome": "🔏Cadeado com caneta",
+    "href": "/pt/locked-with-pen/"
+  },
+  {
+    "nome": "🔐Cadeado fechado com chave",
+    "href": "/pt/locked-with-key/"
+  },
+  {
+    "nome": "🔑Chave",
+    "href": "/pt/key/"
+  },
+  {
+    "nome": "🗝️Chave antiga",
+    "href": "/pt/old-key/"
+  },
+  {
+    "nome": "🔨Martelo",
+    "href": "/pt/hammer/"
+  },
+  {
+    "nome": "⛏️Picareta",
+    "href": "/pt/pick/"
+  },
+  {
+    "nome": "⚒️Martelo e picareta",
+    "href": "/pt/hammer-and-pick/"
+  },
+  {
+    "nome": "🛠️Martelo e chave-inglesa",
+    "href": "/pt/hammer-and-wrench/"
+  },
+  {
+    "nome": "🗡️Adaga",
+    "href": "/pt/dagger/"
+  },
+  {
+    "nome": "⚔️Espadas cruzadas",
+    "href": "/pt/crossed-swords/"
+  },
+  {
+    "nome": "💣Bomba",
+    "href": "/pt/bomb/"
+  },
+  {
+    "nome": "🏹Arco e flecha",
+    "href": "/pt/bow-and-arrow/"
+  },
+  {
+    "nome": "🛡️Escudo",
+    "href": "/pt/shield/"
+  },
+  {
+    "nome": "🔧Chave inglesa",
+    "href": "/pt/wrench/"
+  },
+  {
+    "nome": "🔩Porca e parafuso",
+    "href": "/pt/nut-and-bolt/"
+  },
+  {
+    "nome": "⚙️Engrenagem",
+    "href": "/pt/gear/"
+  },
+  {
+    "nome": "🗜️Braçadeira",
+    "href": "/pt/clamp/"
+  },
+  {
+    "nome": "⚖️Balança",
+    "href": "/pt/balance-scale/"
+  },
+  {
+    "nome": "🔗Link",
+    "href": "/pt/link/"
+  },
+  {
+    "nome": "⛓️Correntes",
+    "href": "/pt/chains/"
+  },
+  {
+    "nome": "⚗️Alambique",
+    "href": "/pt/alembic/"
+  },
+  {
+    "nome": "🔬Microscópio",
+    "href": "/pt/microscope/"
+  },
+  {
+    "nome": "🔭Telescópio",
+    "href": "/pt/telescope/"
+  },
+  {
+    "nome": "📡Antena parabólica",
+    "href": "/pt/satellite-antenna/"
+  },
+  {
+    "nome": "💉Seringa",
+    "href": "/pt/syringe/"
+  },
+  {
+    "nome": "💊Comprimido",
+    "href": "/pt/pill/"
+  },
+  {
+    "nome": "🚪Porta",
+    "href": "/pt/door/"
+  },
+  {
+    "nome": "🛏️Cama",
+    "href": "/pt/bed/"
+  },
+  {
+    "nome": "🛋️Sofá e luminária",
+    "href": "/pt/couch-and-lamp/"
+  },
+  {
+    "nome": "🚽Vaso sanitário",
+    "href": "/pt/toilet/"
+  },
+  {
+    "nome": "🚿Chuveiro",
+    "href": "/pt/shower/"
+  },
+  {
+    "nome": "🛁Banheira",
+    "href": "/pt/bathtub/"
+  },
+  {
+    "nome": "🚬Cigarro",
+    "href": "/pt/cigarette/"
+  },
+  {
+    "nome": "⚰️Caixão",
+    "href": "/pt/coffin/"
+  },
+  {
+    "nome": "⚱️Urna funerária",
+    "href": "/pt/funeral-urn/"
+  },
+  {
+    "nome": "🗿Moai",
+    "href": "/pt/moai/"
+  },
+  {
+    "nome": "🏧Símbolo de caixa automático",
+    "href": "/pt/atm-sign/"
+  },
+  {
+    "nome": "🚮Símbolo de lixeira",
+    "href": "/pt/litter-in-bin-sign/"
+  },
+  {
+    "nome": "🚰Água potável",
+    "href": "/pt/potable-water/"
+  },
+  {
+    "nome": "♿Símbolo de cadeira de rodas",
+    "href": "/pt/wheelchair-symbol/"
+  },
+  {
+    "nome": "🚹Banheiro masculino",
+    "href": "/pt/mens-room/"
+  },
+  {
+    "nome": "🚺Banheiro feminino",
+    "href": "/pt/womens-room/"
+  },
+  {
+    "nome": "🚻Banheiro",
+    "href": "/pt/restroom/"
+  },
+  {
+    "nome": "🚼Símbolo de bebê",
+    "href": "/pt/baby-symbol/"
+  },
+  {
+    "nome": "🚾WC",
+    "href": "/pt/water-closet/"
+  },
+  {
+    "nome": "🛂Controle de passaportes",
+    "href": "/pt/passport-control/"
+  },
+  {
+    "nome": "🛃Alfândega",
+    "href": "/pt/customs/"
+  },
+  {
+    "nome": "🛄Restituição de bagagem",
+    "href": "/pt/baggage-claim/"
+  },
+  {
+    "nome": "🛅Depósito de bagagem",
+    "href": "/pt/left-luggage/"
+  },
+  {
+    "nome": "⚠️Aviso",
+    "href": "/pt/warning/"
+  },
+  {
+    "nome": "🚸Crianças atravessando",
+    "href": "/pt/children-crossing/"
+  },
+  {
+    "nome": "⛔Entrada proibida",
+    "href": "/pt/no-entry/"
+  },
+  {
+    "nome": "🚫Proibido",
+    "href": "/pt/prohibited/"
+  },
+  {
+    "nome": "🚳Proibido andar de bicicleta",
+    "href": "/pt/no-bicycles/"
+  },
+  {
+    "nome": "🚭Proibido fumar",
+    "href": "/pt/no-smoking/"
+  },
+  {
+    "nome": "🚯Proibido jogar lixo no chão",
+    "href": "/pt/no-littering/"
+  },
+  {
+    "nome": "🚱Água não potável",
+    "href": "/pt/non-potable-water/"
+  },
+  {
+    "nome": "🚷Proibida a passagem de pedestres",
+    "href": "/pt/no-pedestrians/"
+  },
+  {
+    "nome": "📵Proibido o uso de telefone celular",
+    "href": "/pt/no-mobile-phones/"
+  },
+  {
+    "nome": "🔞Proibido para menores de 18 anos",
+    "href": "/pt/no-one-under-eighteen/"
+  },
+  {
+    "nome": "☢️Radioativo",
+    "href": "/pt/radioactive/"
+  },
+  {
+    "nome": "☣️Risco biológico",
+    "href": "/pt/biohazard/"
+  },
+  {
+    "nome": "⬆️Seta para cima",
+    "href": "/pt/up-arrow/"
+  },
+  {
+    "nome": "↗️Seta para cima e para a direita",
+    "href": "/pt/up-right-arrow/"
+  },
+  {
+    "nome": "➡️Seta para a direita",
+    "href": "/pt/right-arrow/"
+  },
+  {
+    "nome": "↘️Seta para baixo e para a direita",
+    "href": "/pt/down-right-arrow/"
+  },
+  {
+    "nome": "⬇️Seta para baixo",
+    "href": "/pt/down-arrow/"
+  },
+  {
+    "nome": "↙️Seta para baixo e para a esquerda",
+    "href": "/pt/down-left-arrow/"
+  },
+  {
+    "nome": "⬅️Seta para a esquerda",
+    "href": "/pt/left-arrow/"
+  },
+  {
+    "nome": "↖️Seta para cima e para a esquerda",
+    "href": "/pt/up-left-arrow/"
+  },
+  {
+    "nome": "↕️Seta para cima e para baixo",
+    "href": "/pt/up-down-arrow/"
+  },
+  {
+    "nome": "↔️Seta para esquerda e direita",
+    "href": "/pt/left-right-arrow/"
+  },
+  {
+    "nome": "↩️Seta curva da direita para a esquerda",
+    "href": "/pt/right-arrow-curving-left/"
+  },
+  {
+    "nome": "↪️Seta curva da esquerda para a direita",
+    "href": "/pt/left-arrow-curving-right/"
+  },
+  {
+    "nome": "⤴️Seta para a direita curvada para cima",
+    "href": "/pt/right-arrow-curving-up/"
+  },
+  {
+    "nome": "⤵️Seta para a direita curvada para baixo",
+    "href": "/pt/right-arrow-curving-down/"
+  },
+  {
+    "nome": "🔃Setas verticais no sentido horário",
+    "href": "/pt/clockwise-vertical-arrows/"
+  },
+  {
+    "nome": "🔄Botão de setas em sentido anti-horário",
+    "href": "/pt/counterclockwise-arrows-button/"
+  },
+  {
+    "nome": "🔙Seta \"BACK\"",
+    "href": "/pt/back-arrow/"
+  },
+  {
+    "nome": "🔚Seta \"END\"",
+    "href": "/pt/end-arrow/"
+  },
+  {
+    "nome": "🔛Seta \"ON!\"",
+    "href": "/pt/on-arrow/"
+  },
+  {
+    "nome": "🔜Seta \"SOON\"",
+    "href": "/pt/soon-arrow/"
+  },
+  {
+    "nome": "🔝Seta \"TOP\"",
+    "href": "/pt/top-arrow/"
+  },
+  {
+    "nome": "🛐Local de culto",
+    "href": "/pt/place-of-worship/"
+  },
+  {
+    "nome": "⚛️Símbolo de átomo",
+    "href": "/pt/atom-symbol/"
+  },
+  {
+    "nome": "🕉️Om",
+    "href": "/pt/om/"
+  },
+  {
+    "nome": "✡️Estrela de Davi",
+    "href": "/pt/star-of-david/"
+  },
+  {
+    "nome": "☸️Roda do Dharma",
+    "href": "/pt/wheel-of-dharma/"
+  },
+  {
+    "nome": "☯️Yin yang",
+    "href": "/pt/yin-yang/"
+  },
+  {
+    "nome": "✝️Cruz latina",
+    "href": "/pt/latin-cross/"
+  },
+  {
+    "nome": "☦️Cruz ortodoxa",
+    "href": "/pt/orthodox-cross/"
+  },
+  {
+    "nome": "☪️Estrela e lua crescente",
+    "href": "/pt/star-and-crescent/"
+  },
+  {
+    "nome": "☮️Símbolo da paz",
+    "href": "/pt/peace-symbol/"
+  },
+  {
+    "nome": "🕎Menorá",
+    "href": "/pt/menorah/"
+  },
+  {
+    "nome": "🔯Estrela de seis pontas",
+    "href": "/pt/dotted-six-pointed-star/"
+  },
+  {
+    "nome": "♈Signo de Áries",
+    "href": "/pt/aries/"
+  },
+  {
+    "nome": "♉Signo de Touro",
+    "href": "/pt/taurus/"
+  },
+  {
+    "nome": "♊Signo de Gêmeos",
+    "href": "/pt/gemini/"
+  },
+  {
+    "nome": "♋Signo de Câncer",
+    "href": "/pt/cancer/"
+  },
+  {
+    "nome": "♌Signo de Leão",
+    "href": "/pt/leo/"
+  },
+  {
+    "nome": "♍Signo de Virgem",
+    "href": "/pt/virgo/"
+  },
+  {
+    "nome": "♎Signo de Libra",
+    "href": "/pt/libra/"
+  },
+  {
+    "nome": "♏Signo de Escorpião",
+    "href": "/pt/scorpio/"
+  },
+  {
+    "nome": "♐Signo de Sagitário",
+    "href": "/pt/sagittarius/"
+  },
+  {
+    "nome": "♑Signo de Capricórnio",
+    "href": "/pt/capricorn/"
+  },
+  {
+    "nome": "♒Signo de Aquário",
+    "href": "/pt/aquarius/"
+  },
+  {
+    "nome": "♓Signo de Peixes",
+    "href": "/pt/pisces/"
+  },
+  {
+    "nome": "⛎Signo de Ofiúco",
+    "href": "/pt/ophiuchus/"
+  },
+  {
+    "nome": "🔀Botão de músicas aleatórias",
+    "href": "/pt/shuffle-tracks-button/"
+  },
+  {
+    "nome": "🔁Botão de repetir",
+    "href": "/pt/repeat-button/"
+  },
+  {
+    "nome": "🔂Botão de repetir uma única faixa",
+    "href": "/pt/repeat-single-button/"
+  },
+  {
+    "nome": "▶️Botão reproduzir",
+    "href": "/pt/play-button/"
+  },
+  {
+    "nome": "⏩Botão avançar",
+    "href": "/pt/fast-forward-button/"
+  },
+  {
+    "nome": "⏭️Botão de próxima faixa",
+    "href": "/pt/next-track-button/"
+  },
+  {
+    "nome": "⏯️Botão de reproduzir ou pausar",
+    "href": "/pt/play-or-pause-button/"
+  },
+  {
+    "nome": "◀️Botão de voltar",
+    "href": "/pt/reverse-button/"
+  },
+  {
+    "nome": "⏪Botão de retroceder",
+    "href": "/pt/fast-reverse-button/"
+  },
+  {
+    "nome": "⏮️Botão de faixa anterior",
+    "href": "/pt/last-track-button/"
+  },
+  {
+    "nome": "🔼Botão apontando para cima",
+    "href": "/pt/upwards-button/"
+  },
+  {
+    "nome": "⏫Botão de avanço para cima",
+    "href": "/pt/fast-up-button/"
+  },
+  {
+    "nome": "🔽Botão apontando para baixo",
+    "href": "/pt/downwards-button/"
+  },
+  {
+    "nome": "⏬Botão de avanço para baixo",
+    "href": "/pt/fast-down-button/"
+  },
+  {
+    "nome": "⏸️Botão pausar",
+    "href": "/pt/pause-button/"
+  },
+  {
+    "nome": "⏹️Botão parar",
+    "href": "/pt/stop-button/"
+  },
+  {
+    "nome": "⏺️Botão gravar",
+    "href": "/pt/record-button/"
+  },
+  {
+    "nome": "⏏️Botão ejetar",
+    "href": "/pt/eject-button/"
+  },
+  {
+    "nome": "🎦Cinema",
+    "href": "/pt/cinema/"
+  },
+  {
+    "nome": "🔅Botão de diminuir brilho",
+    "href": "/pt/dim-button/"
+  },
+  {
+    "nome": "🔆Botão de aumentar brilho",
+    "href": "/pt/bright-button/"
+  },
+  {
+    "nome": "📶Barras de sinal",
+    "href": "/pt/antenna-bars/"
+  },
+  {
+    "nome": "📳Modo vibratório",
+    "href": "/pt/vibration-mode/"
+  },
+  {
+    "nome": "📴Telefone celular desligado",
+    "href": "/pt/mobile-phone-off/"
+  },
+  {
+    "nome": "✖️Sinal de multiplicação",
+    "href": "/pt/multiply/"
+  },
+  {
+    "nome": "➕Símbolo de adição",
+    "href": "/pt/plus/"
+  },
+  {
+    "nome": "➖Símbolo de subtração",
+    "href": "/pt/minus/"
+  },
+  {
+    "nome": "➗Símbolo de divisão",
+    "href": "/pt/divide/"
+  },
+  {
+    "nome": "‼️Dupla exclamação",
+    "href": "/pt/double-exclamation-mark/"
+  },
+  {
+    "nome": "⁉️Exclamação com interrogação",
+    "href": "/pt/exclamation-question-mark/"
+  },
+  {
+    "nome": "❓Ponto de interrogação vermelho",
+    "href": "/pt/question-mark/"
+  },
+  {
+    "nome": "❔Ponto de interrogação branco",
+    "href": "/pt/white-question-mark/"
+  },
+  {
+    "nome": "❕Ponto de exclamação branco",
+    "href": "/pt/white-exclamation-mark/"
+  },
+  {
+    "nome": "❗Ponto de exclamação vermelho",
+    "href": "/pt/exclamation-mark/"
+  },
+  {
+    "nome": "〰️Travessão ondulado",
+    "href": "/pt/wavy-dash/"
+  },
+  {
+    "nome": "💱Câmbio de moeda",
+    "href": "/pt/currency-exchange/"
+  },
+  {
+    "nome": "💲Cifrão",
+    "href": "/pt/heavy-dollar-sign/"
+  },
+  {
+    "nome": "♻️Símbolo de reciclagem",
+    "href": "/pt/recycling-symbol/"
+  },
+  {
+    "nome": "⚜️Flor-de-lis",
+    "href": "/pt/fleur-de-lis/"
+  },
+  {
+    "nome": "🔱Emblema de tridente",
+    "href": "/pt/trident-emblem/"
+  },
+  {
+    "nome": "📛Crachá",
+    "href": "/pt/name-badge/"
+  },
+  {
+    "nome": "🔰Símbolo japonês de principiante",
+    "href": "/pt/japanese-symbol-for-beginner/"
+  },
+  {
+    "nome": "⭕Círculo grande oco",
+    "href": "/pt/hollow-red-circle/"
+  },
+  {
+    "nome": "✅Marca de seleção branca",
+    "href": "/pt/check-mark-button/"
+  },
+  {
+    "nome": "☑️Caixa de seleção marcada com tique",
+    "href": "/pt/check-box-with-check/"
+  },
+  {
+    "nome": "✔️Marca de seleção",
+    "href": "/pt/check-mark/"
+  },
+  {
+    "nome": "❌Xis",
+    "href": "/pt/cross-mark/"
+  },
+  {
+    "nome": "❎Botão de xis",
+    "href": "/pt/cross-mark-button/"
+  },
+  {
+    "nome": "➰Laço encaracolado",
+    "href": "/pt/curly-loop/"
+  },
+  {
+    "nome": "➿Loop encaracolado duas vezes",
+    "href": "/pt/double-curly-loop/"
+  },
+  {
+    "nome": "〽️Sinal japonês indicando início de música",
+    "href": "/pt/part-alternation-mark/"
+  },
+  {
+    "nome": "✳️Asterisco de oito pontas",
+    "href": "/pt/eight-spoked-asterisk/"
+  },
+  {
+    "nome": "✴️Estrela de oito pontas",
+    "href": "/pt/eight-pointed-star/"
+  },
+  {
+    "nome": "❇️Faísca",
+    "href": "/pt/sparkle/"
+  },
+  {
+    "nome": "©️Símbolo de copyright",
+    "href": "/pt/copyright/"
+  },
+  {
+    "nome": "®️Símbolo de registrado",
+    "href": "/pt/registered/"
+  },
+  {
+    "nome": "™️Símbolo de marca registrada",
+    "href": "/pt/trade-mark/"
+  },
+  {
+    "nome": "🔟Tecla: 10",
+    "href": "/pt/keycap-10/"
+  },
+  {
+    "nome": "🔠Letras latinas maiúsculas",
+    "href": "/pt/input-latin-uppercase/"
+  },
+  {
+    "nome": "🔡Letras latinas minúsculas",
+    "href": "/pt/input-latin-lowercase/"
+  },
+  {
+    "nome": "🔢Números",
+    "href": "/pt/input-numbers/"
+  },
+  {
+    "nome": "🔣Símbolos",
+    "href": "/pt/input-symbols/"
+  },
+  {
+    "nome": "🔤Letras latinas",
+    "href": "/pt/input-latin-letters/"
+  },
+  {
+    "nome": "🅰️Botão A (tipo sanguíneo)",
+    "href": "/pt/a-button-blood-type/"
+  },
+  {
+    "nome": "🆎Botão AB (tipo sanguíneo)",
+    "href": "/pt/ab-button-blood-type/"
+  },
+  {
+    "nome": "🅱️Botão B (tipo sanguíneo)",
+    "href": "/pt/b-button-blood-type/"
+  },
+  {
+    "nome": "🆑Botão CL",
+    "href": "/pt/cl-button/"
+  },
+  {
+    "nome": "🆒Botão \"COOL\"",
+    "href": "/pt/cool-button/"
+  },
+  {
+    "nome": "🆓Botão \"FREE\"",
+    "href": "/pt/free-button/"
+  },
+  {
+    "nome": "ℹ️Informações",
+    "href": "/pt/information/"
+  },
+  {
+    "nome": "🆔Botão ID",
+    "href": "/pt/id-button-symbol/"
+  },
+  {
+    "nome": "Ⓜ️Círculo com a letra M",
+    "href": "/pt/circled-m/"
+  },
+  {
+    "nome": "🆕Botão \"NEW\"",
+    "href": "/pt/new-button/"
+  },
+  {
+    "nome": "🆖Botão NG",
+    "href": "/pt/ng-button/"
+  },
+  {
+    "nome": "🅾️Botão O (tipo sanguíneo)",
+    "href": "/pt/o-button-blood-type/"
+  },
+  {
+    "nome": "🆗Botão OK",
+    "href": "/pt/ok-button/"
+  },
+  {
+    "nome": "🅿️Botão P",
+    "href": "/pt/p-button/"
+  },
+  {
+    "nome": "🆘Botão SOS",
+    "href": "/pt/sos-button/"
+  },
+  {
+    "nome": "🆙Botão \"UP!\"",
+    "href": "/pt/up-button/"
+  },
+  {
+    "nome": "🆚Botão VS",
+    "href": "/pt/vs-button/"
+  },
+  {
+    "nome": "🈁Botão japonês de “aqui”",
+    "href": "/pt/japanese-here-button/"
+  },
+  {
+    "nome": "🈂️Botão japonês de “taxa de serviço”",
+    "href": "/pt/japanese-service-charge-button/"
+  },
+  {
+    "nome": "🈷️Botão japonês de “quantidade mensal”",
+    "href": "/pt/japanese-monthly-amount-button/"
+  },
+  {
+    "nome": "🈶Botão japonês de “não gratuito”",
+    "href": "/pt/japanese-not-free-of-charge-button/"
+  },
+  {
+    "nome": "🈯Botão japonês de “reservado”",
+    "href": "/pt/japanese-reserved-button/"
+  },
+  {
+    "nome": "🉐Botão japonês de “barganha”",
+    "href": "/pt/japanese-bargain-button/"
+  },
+  {
+    "nome": "🈹Botão japonês de “desconto”",
+    "href": "/pt/japanese-discount-button/"
+  },
+  {
+    "nome": "🈚Botão japonês de “gratuito”",
+    "href": "/pt/japanese-free-of-charge-button/"
+  },
+  {
+    "nome": "🈲Botão japonês de “proibido”",
+    "href": "/pt/japanese-prohibited-button/"
+  },
+  {
+    "nome": "🉑Botão japonês de “aceitável”",
+    "href": "/pt/japanese-acceptable-button/"
+  },
+  {
+    "nome": "🈸Botão japonês de “aplicação”",
+    "href": "/pt/japanese-application-button/"
+  },
+  {
+    "nome": "🈴Botão japonês de “nota mínima”",
+    "href": "/pt/japanese-passing-grade-button/"
+  },
+  {
+    "nome": "🈳Botão japonês de “vago”",
+    "href": "/pt/japanese-vacancy-button/"
+  },
+  {
+    "nome": "㊗️Botão japonês de “parabéns”",
+    "href": "/pt/japanese-congratulations-button/"
+  },
+  {
+    "nome": "㊙️Botão japonês de “segredo”",
+    "href": "/pt/japanese-secret-button/"
+  },
+  {
+    "nome": "🈺Botão japonês de “aberto para negócios”",
+    "href": "/pt/japanese-open-for-business-button/"
+  },
+  {
+    "nome": "🈵Botão japonês de “sem vagas”",
+    "href": "/pt/japanese-no-vacancy-button/"
+  },
+  {
+    "nome": "🔴Círculo vermelho",
+    "href": "/pt/large-red-circle/"
+  },
+  {
+    "nome": "🔵Círculo azul",
+    "href": "/pt/large-blue-circle/"
+  },
+  {
+    "nome": "⚫Círculo preto",
+    "href": "/pt/black-circle/"
+  },
+  {
+    "nome": "⚪Círculo branco",
+    "href": "/pt/white-circle/"
+  },
+  {
+    "nome": "⬛Quadrado preto grande",
+    "href": "/pt/black-large-square/"
+  },
+  {
+    "nome": "⬜Quadrado branco grande",
+    "href": "/pt/white-large-square/"
+  },
+  {
+    "nome": "◼️Quadrado preto médio",
+    "href": "/pt/black-medium-square/"
+  },
+  {
+    "nome": "◻️Quadrado branco médio",
+    "href": "/pt/white-medium-square/"
+  },
+  {
+    "nome": "◾Quadrado preto médio menor",
+    "href": "/pt/black-medium-small-square/"
+  },
+  {
+    "nome": "◽Quadrado branco médio menor",
+    "href": "/pt/white-medium-small-square/"
+  },
+  {
+    "nome": "▪️Quadrado preto pequeno",
+    "href": "/pt/black-small-square/"
+  },
+  {
+    "nome": "▫️Quadrado branco pequeno",
+    "href": "/pt/white-small-square/"
+  },
+  {
+    "nome": "🔶Losango laranja grande",
+    "href": "/pt/large-orange-diamond/"
+  },
+  {
+    "nome": "🔷Losango azul grande",
+    "href": "/pt/large-blue-diamond/"
+  },
+  {
+    "nome": "🔸Losango laranja pequeno",
+    "href": "/pt/small-orange-diamond/"
+  },
+  {
+    "nome": "🔹Losango azul pequeno",
+    "href": "/pt/small-blue-diamond/"
+  },
+  {
+    "nome": "🔺Triângulo vermelho para cima",
+    "href": "/pt/red-triangle-pointed-up/"
+  },
+  {
+    "nome": "🔻Triângulo vermelho para baixo",
+    "href": "/pt/red-triangle-pointed-down/"
+  },
+  {
+    "nome": "💠Diamante com um ponto",
+    "href": "/pt/diamond-with-a-dot/"
+  },
+  {
+    "nome": "🔘Botão de opção",
+    "href": "/pt/radio-button/"
+  },
+  {
+    "nome": "🔳Botão quadrado branco",
+    "href": "/pt/white-square-button/"
+  },
+  {
+    "nome": "🔲Botão quadrado preto",
+    "href": "/pt/black-square-button/"
+  },
+  {
+    "nome": "🏁Bandeira quadriculada",
+    "href": "/pt/chequered-flag/"
+  },
+  {
+    "nome": "🚩Bandeira triangular",
+    "href": "/pt/triangular-flag/"
+  },
+  {
+    "nome": "🎌Bandeiras cruzadas",
+    "href": "/pt/crossed-flags/"
+  },
+  {
+    "nome": "🏴Bandeira preta",
+    "href": "/pt/black-flag/"
+  },
+  {
+    "nome": "🏳️Bandeira branca",
+    "href": "/pt/white-flag/"
+  },
+  {
+    "nome": "🇦🇨Bandeira: Ilha de Ascensão",
+    "href": "/pt/flag-ascension-island/"
+  },
+  {
+    "nome": "🇦🇩Bandeira: Andorra",
+    "href": "/pt/flag-andorra/"
+  },
+  {
+    "nome": "🇦🇪Bandeira: Emirados Árabes Unidos",
+    "href": "/pt/flag-united-arab-emirates/"
+  },
+  {
+    "nome": "🇦🇫Bandeira: Afeganistão",
+    "href": "/pt/flag-afghanistan/"
+  },
+  {
+    "nome": "🇦🇬Bandeira: Antígua e Barbuda",
+    "href": "/pt/flag-antigua-barbuda/"
+  },
+  {
+    "nome": "🇦🇮Bandeira: Anguila",
+    "href": "/pt/flag-anguilla/"
+  },
+  {
+    "nome": "🇦🇱Bandeira: Albânia",
+    "href": "/pt/flag-albania/"
+  },
+  {
+    "nome": "🇦🇲Bandeira: Armênia",
+    "href": "/pt/flag-armenia/"
+  },
+  {
+    "nome": "🇦🇴Bandeira: Angola",
+    "href": "/pt/flag-angola/"
+  },
+  {
+    "nome": "🇦🇶Bandeira: Antártida",
+    "href": "/pt/flag-antarctica/"
+  },
+  {
+    "nome": "🇦🇷Bandeira: Argentina",
+    "href": "/pt/flag-argentina/"
+  },
+  {
+    "nome": "🇦🇸Bandeira: Samoa Americana",
+    "href": "/pt/flag-american-samoa/"
+  },
+  {
+    "nome": "🇦🇹Bandeira: Áustria",
+    "href": "/pt/flag-austria/"
+  },
+  {
+    "nome": "🇦🇺Bandeira: Austrália",
+    "href": "/pt/flag-australia/"
+  },
+  {
+    "nome": "🇦🇼Bandeira: Aruba",
+    "href": "/pt/flag-aruba/"
+  },
+  {
+    "nome": "🇦🇽Bandeira: Ilhas Aland",
+    "href": "/pt/flag-aland-islands/"
+  },
+  {
+    "nome": "🇦🇿Bandeira: Azerbaijão",
+    "href": "/pt/flag-azerbaijan/"
+  },
+  {
+    "nome": "🇧🇦Bandeira: Bósnia e Herzegovina",
+    "href": "/pt/flag-bosnia-herzegovina/"
+  },
+  {
+    "nome": "🇧🇧Bandeira: Barbados",
+    "href": "/pt/flag-barbados/"
+  },
+  {
+    "nome": "🇧🇩Bandeira: Bangladesh",
+    "href": "/pt/flag-bangladesh/"
+  },
+  {
+    "nome": "🇧🇪Bandeira: Bélgica",
+    "href": "/pt/flag-belgium/"
+  },
+  {
+    "nome": "🇧🇫Bandeira: Burquina Faso",
+    "href": "/pt/flag-burkina-faso/"
+  },
+  {
+    "nome": "🇧🇬Bandeira: Bulgária",
+    "href": "/pt/flag-bulgaria/"
+  },
+  {
+    "nome": "🇧🇭Bandeira: Barein",
+    "href": "/pt/flag-bahrain/"
+  },
+  {
+    "nome": "🇧🇮Bandeira: Burundi",
+    "href": "/pt/flag-burundi/"
+  },
+  {
+    "nome": "🇧🇯Bandeira: Benin",
+    "href": "/pt/flag-benin/"
+  },
+  {
+    "nome": "🇧🇱Bandeira: São Bartolomeu",
+    "href": "/pt/flag-st-barthelemy/"
+  },
+  {
+    "nome": "🇧🇲Bandeira: Bermudas",
+    "href": "/pt/flag-bermuda/"
+  },
+  {
+    "nome": "🇧🇳Bandeira: Brunei",
+    "href": "/pt/flag-brunei/"
+  },
+  {
+    "nome": "🇧🇴Bandeira: Bolívia",
+    "href": "/pt/flag-bolivia/"
+  },
+  {
+    "nome": "🇧🇶Bandeira: Países Baixos Caribenhos",
+    "href": "/pt/flag-caribbean-netherlands/"
+  },
+  {
+    "nome": "🇧🇷Bandeira: Brasil",
+    "href": "/pt/flag-brazil/"
+  },
+  {
+    "nome": "🇧🇸Bandeira: Bahamas",
+    "href": "/pt/flag-bahamas/"
+  },
+  {
+    "nome": "🇧🇹Bandeira: Butão",
+    "href": "/pt/flag-bhutan/"
+  },
+  {
+    "nome": "🇧🇻Bandeira: Ilha Bouvet",
+    "href": "/pt/flag-bouvet-island/"
+  },
+  {
+    "nome": "🇧🇼Bandeira: Botsuana",
+    "href": "/pt/flag-botswana/"
+  },
+  {
+    "nome": "🇧🇾Bandeira: Bielorrússia",
+    "href": "/pt/flag-belarus/"
+  },
+  {
+    "nome": "🇧🇿Bandeira: Belize",
+    "href": "/pt/flag-belize/"
+  },
+  {
+    "nome": "🇨🇦Bandeira: Canadá",
+    "href": "/pt/flag-canada/"
+  },
+  {
+    "nome": "🇨🇨Bandeira: Ilhas Cocos (Keeling)",
+    "href": "/pt/flag-cocos-keeling-islands/"
+  },
+  {
+    "nome": "🇨🇩Bandeira: Congo - Kinshasa",
+    "href": "/pt/flag-congo-kinshasa/"
+  },
+  {
+    "nome": "🇨🇫Bandeira: República Centro-Africana",
+    "href": "/pt/flag-central-african-republic/"
+  },
+  {
+    "nome": "🇨🇬Bandeira: República do Congo",
+    "href": "/pt/flag-congo-brazzaville/"
+  },
+  {
+    "nome": "🇨🇭Bandeira: Suíça",
+    "href": "/pt/flag-switzerland/"
+  },
+  {
+    "nome": "🇨🇮Bandeira: Costa do Marfim",
+    "href": "/pt/flag-cote-divoire/"
+  },
+  {
+    "nome": "🇨🇰Bandeira: Ilhas Cook",
+    "href": "/pt/flag-cook-islands/"
+  },
+  {
+    "nome": "🇨🇱Bandeira: Chile",
+    "href": "/pt/flag-chile/"
+  },
+  {
+    "nome": "🇨🇲Bandeira: Camarões",
+    "href": "/pt/flag-cameroon/"
+  },
+  {
+    "nome": "🇨🇳Bandeira: China",
+    "href": "/pt/flag-china/"
+  },
+  {
+    "nome": "🇨🇴Bandeira: Colômbia",
+    "href": "/pt/flag-colombia/"
+  },
+  {
+    "nome": "🇨🇵Bandeira: Ilha de Clipperton",
+    "href": "/pt/flag-clipperton-island/"
+  },
+  {
+    "nome": "🇨🇷Bandeira: Costa Rica",
+    "href": "/pt/flag-costa-rica/"
+  },
+  {
+    "nome": "🇨🇺Bandeira: Cuba",
+    "href": "/pt/flag-cuba/"
+  },
+  {
+    "nome": "🇨🇻Bandeira: Cabo Verde",
+    "href": "/pt/flag-cape-verde/"
+  },
+  {
+    "nome": "🇨🇼Bandeira: Curaçao",
+    "href": "/pt/flag-curacao/"
+  },
+  {
+    "nome": "🇨🇽Bandeira: Ilha Christmas",
+    "href": "/pt/flag-christmas-island/"
+  },
+  {
+    "nome": "🇨🇾Bandeira: Chipre",
+    "href": "/pt/flag-cyprus/"
+  },
+  {
+    "nome": "🇨🇿Bandeira: Tchéquia",
+    "href": "/pt/flag-czechia/"
+  },
+  {
+    "nome": "🇩🇪Bandeira: Alemanha",
+    "href": "/pt/flag-germany/"
+  },
+  {
+    "nome": "🇩🇬Bandeira: Diego Garcia",
+    "href": "/pt/flag-diego-garcia/"
+  },
+  {
+    "nome": "🇩🇯Bandeira: Djibuti",
+    "href": "/pt/flag-djibouti/"
+  },
+  {
+    "nome": "🇩🇰Bandeira: Dinamarca",
+    "href": "/pt/flag-denmark/"
+  },
+  {
+    "nome": "🇩🇲Bandeira: Dominica",
+    "href": "/pt/flag-dominica/"
+  },
+  {
+    "nome": "🇩🇴Bandeira: República Dominicana",
+    "href": "/pt/flag-dominican-republic/"
+  },
+  {
+    "nome": "🇩🇿Bandeira: Argélia",
+    "href": "/pt/flag-algeria/"
+  },
+  {
+    "nome": "🇪🇦Bandeira: Ceuta e Melilla",
+    "href": "/pt/flag-ceuta-melilla/"
+  },
+  {
+    "nome": "🇪🇨Bandeira: Equador",
+    "href": "/pt/flag-ecuador/"
+  },
+  {
+    "nome": "🇪🇪Bandeira: Estônia",
+    "href": "/pt/flag-estonia/"
+  },
+  {
+    "nome": "🇪🇬Bandeira: Egito",
+    "href": "/pt/flag-egypt/"
+  },
+  {
+    "nome": "🇪🇭Bandeira: Saara Ocidental",
+    "href": "/pt/flag-western-sahara/"
+  },
+  {
+    "nome": "🇪🇷Bandeira: Eritreia",
+    "href": "/pt/flag-eritrea/"
+  },
+  {
+    "nome": "🇪🇸Bandeira: Espanha",
+    "href": "/pt/flag-spain/"
+  },
+  {
+    "nome": "🇪🇹Bandeira: Etiópia",
+    "href": "/pt/flag-ethiopia/"
+  },
+  {
+    "nome": "🇪🇺Bandeira: União Europeia",
+    "href": "/pt/flag-european-union/"
+  },
+  {
+    "nome": "🇫🇮Bandeira: Finlândia",
+    "href": "/pt/flag-finland/"
+  },
+  {
+    "nome": "🇫🇯Bandeira: Fiji",
+    "href": "/pt/flag-fiji/"
+  },
+  {
+    "nome": "🇫🇰Bandeira: Ilhas Malvinas",
+    "href": "/pt/flag-falkland-islands/"
+  },
+  {
+    "nome": "🇫🇲Bandeira: Micronésia",
+    "href": "/pt/flag-micronesia/"
+  },
+  {
+    "nome": "🇫🇴Bandeira: Ilhas Faroé",
+    "href": "/pt/flag-faroe-islands/"
+  },
+  {
+    "nome": "🇫🇷Bandeira: França",
+    "href": "/pt/flag-france/"
+  },
+  {
+    "nome": "🇬🇦Bandeira: Gabão",
+    "href": "/pt/flag-gabon/"
+  },
+  {
+    "nome": "🇬🇧Bandeira: Reino Unido",
+    "href": "/pt/flag-united-kingdom/"
+  },
+  {
+    "nome": "🇬🇩Bandeira: Granada",
+    "href": "/pt/flag-grenada/"
+  },
+  {
+    "nome": "🇬🇪Bandeira: Geórgia",
+    "href": "/pt/flag-georgia/"
+  },
+  {
+    "nome": "🇬🇫Bandeira: Guiana Francesa",
+    "href": "/pt/flag-french-guiana/"
+  },
+  {
+    "nome": "🇬🇬Bandeira: Guernsey",
+    "href": "/pt/flag-guernsey/"
+  },
+  {
+    "nome": "🇬🇭Bandeira: Gana",
+    "href": "/pt/flag-ghana/"
+  },
+  {
+    "nome": "🇬🇮Bandeira: Gibraltar",
+    "href": "/pt/flag-gibraltar/"
+  },
+  {
+    "nome": "🇬🇱Bandeira: Groenlândia",
+    "href": "/pt/flag-greenland/"
+  },
+  {
+    "nome": "🇬🇲Bandeira: Gâmbia",
+    "href": "/pt/flag-gambia/"
+  },
+  {
+    "nome": "🇬🇳Bandeira: Guiné",
+    "href": "/pt/flag-guinea/"
+  },
+  {
+    "nome": "🇬🇵Bandeira: Guadalupe",
+    "href": "/pt/flag-guadeloupe/"
+  },
+  {
+    "nome": "🇬🇶Bandeira: Guiné Equatorial",
+    "href": "/pt/flag-equatorial-guinea/"
+  },
+  {
+    "nome": "🇬🇷Bandeira: Grécia",
+    "href": "/pt/flag-greece/"
+  },
+  {
+    "nome": "🇬🇸Bandeira: Ilhas Geórgia do Sul e Sandwich do Sul",
+    "href": "/pt/flag-south-georgia-south-sandwich-islands/"
+  },
+  {
+    "nome": "🇬🇹Bandeira: Guatemala",
+    "href": "/pt/flag-guatemala/"
+  },
+  {
+    "nome": "🇬🇺Bandeira: Guam",
+    "href": "/pt/flag-guam/"
+  },
+  {
+    "nome": "🇬🇼Bandeira: Guiné-Bissau",
+    "href": "/pt/flag-guinea-bissau/"
+  },
+  {
+    "nome": "🇬🇾Bandeira: Guiana",
+    "href": "/pt/flag-guyana/"
+  },
+  {
+    "nome": "🇭🇰Bandeira: Hong Kong, RAE da China",
+    "href": "/pt/flag-hong-kong-sar-china/"
+  },
+  {
+    "nome": "🇭🇲Bandeira: Ilhas Heard e McDonald",
+    "href": "/pt/flag-heard-mcdonald-islands/"
+  },
+  {
+    "nome": "🇭🇳Bandeira: Honduras",
+    "href": "/pt/flag-honduras/"
+  },
+  {
+    "nome": "🇭🇷Bandeira: Croácia",
+    "href": "/pt/flag-croatia/"
+  },
+  {
+    "nome": "🇭🇹Bandeira: Haiti",
+    "href": "/pt/flag-haiti/"
+  },
+  {
+    "nome": "🇭🇺Bandeira: Hungria",
+    "href": "/pt/flag-hungary/"
+  },
+  {
+    "nome": "🇮🇨Bandeira: Ilhas Canárias",
+    "href": "/pt/flag-canary-islands/"
+  },
+  {
+    "nome": "🇮🇩Bandeira: Indonésia",
+    "href": "/pt/flag-indonesia/"
+  },
+  {
+    "nome": "🇮🇪Bandeira: Irlanda",
+    "href": "/pt/flag-ireland/"
+  },
+  {
+    "nome": "🇮🇱Bandeira: Israel",
+    "href": "/pt/flag-israel/"
+  },
+  {
+    "nome": "🇮🇲Bandeira: Ilha de Man",
+    "href": "/pt/flag-isle-of-man/"
+  },
+  {
+    "nome": "🇮🇳Bandeira: Índia",
+    "href": "/pt/flag-india/"
+  },
+  {
+    "nome": "🇮🇴Bandeira: Território Britânico do Oceano Índico",
+    "href": "/pt/flag-british-indian-ocean-territory/"
+  },
+  {
+    "nome": "🇮🇶Bandeira: Iraque",
+    "href": "/pt/flag-iraq/"
+  },
+  {
+    "nome": "🇮🇷Bandeira: Irã",
+    "href": "/pt/flag-iran/"
+  },
+  {
+    "nome": "🇮🇸Bandeira: Islândia",
+    "href": "/pt/flag-iceland/"
+  },
+  {
+    "nome": "🇮🇹Bandeira: Itália",
+    "href": "/pt/flag-italy/"
+  },
+  {
+    "nome": "🇯🇪Bandeira: Jersey",
+    "href": "/pt/flag-jersey/"
+  },
+  {
+    "nome": "🇯🇲Bandeira: Jamaica",
+    "href": "/pt/flag-jamaica/"
+  },
+  {
+    "nome": "🇯🇴Bandeira: Jordânia",
+    "href": "/pt/flag-jordan/"
+  },
+  {
+    "nome": "🇯🇵Bandeira: Japão",
+    "href": "/pt/flag-japan/"
+  },
+  {
+    "nome": "🇰🇪Bandeira: Quênia",
+    "href": "/pt/flag-kenya/"
+  },
+  {
+    "nome": "🇰🇬Bandeira: Quirguistão",
+    "href": "/pt/flag-kyrgyzstan/"
+  },
+  {
+    "nome": "🇰🇭Bandeira: Camboja",
+    "href": "/pt/flag-cambodia/"
+  },
+  {
+    "nome": "🇰🇮Bandeira: Quiribati",
+    "href": "/pt/flag-kiribati/"
+  },
+  {
+    "nome": "🇰🇲Bandeira: Comores",
+    "href": "/pt/flag-comoros/"
+  },
+  {
+    "nome": "🇰🇳Bandeira: São Cristóvão e Névis",
+    "href": "/pt/flag-st-kitts-nevis/"
+  },
+  {
+    "nome": "🇰🇵Bandeira: Coreia do Norte",
+    "href": "/pt/flag-north-korea/"
+  },
+  {
+    "nome": "🇰🇷Bandeira: Coreia do Sul",
+    "href": "/pt/flag-south-korea/"
+  },
+  {
+    "nome": "🇰🇼Bandeira: Kuwait",
+    "href": "/pt/flag-kuwait/"
+  },
+  {
+    "nome": "🇰🇾Bandeira: Ilhas Cayman",
+    "href": "/pt/flag-cayman-islands/"
+  },
+  {
+    "nome": "🇰🇿Bandeira: Cazaquistão",
+    "href": "/pt/flag-kazakhstan/"
+  },
+  {
+    "nome": "🇱🇦Bandeira: Laos",
+    "href": "/pt/flag-laos/"
+  },
+  {
+    "nome": "🇱🇧Bandeira: Líbano",
+    "href": "/pt/flag-lebanon/"
+  },
+  {
+    "nome": "🇱🇨Bandeira: Santa Lúcia",
+    "href": "/pt/flag-st-lucia/"
+  },
+  {
+    "nome": "🇱🇮Bandeira: Liechtenstein",
+    "href": "/pt/flag-liechtenstein/"
+  },
+  {
+    "nome": "🇱🇰Bandeira: Sri Lanka",
+    "href": "/pt/flag-sri-lanka/"
+  },
+  {
+    "nome": "🇱🇷Bandeira: Libéria",
+    "href": "/pt/flag-liberia/"
+  },
+  {
+    "nome": "🇱🇸Bandeira: Lesoto",
+    "href": "/pt/flag-lesotho/"
+  },
+  {
+    "nome": "🇱🇹Bandeira: Lituânia",
+    "href": "/pt/flag-lithuania/"
+  },
+  {
+    "nome": "🇱🇺Bandeira: Luxemburgo",
+    "href": "/pt/flag-luxembourg/"
+  },
+  {
+    "nome": "🇱🇻Bandeira: Letônia",
+    "href": "/pt/flag-latvia/"
+  },
+  {
+    "nome": "🇱🇾Bandeira: Líbia",
+    "href": "/pt/flag-libya/"
+  },
+  {
+    "nome": "🇲🇦Bandeira: Marrocos",
+    "href": "/pt/flag-morocco/"
+  },
+  {
+    "nome": "🇲🇨Bandeira: Mônaco",
+    "href": "/pt/flag-monaco/"
+  },
+  {
+    "nome": "🇲🇩Bandeira: Moldávia",
+    "href": "/pt/flag-moldova/"
+  },
+  {
+    "nome": "🇲🇪Bandeira: Montenegro",
+    "href": "/pt/flag-montenegro/"
+  },
+  {
+    "nome": "🇲🇫Bandeira: São Martinho",
+    "href": "/pt/flag-st-martin/"
+  },
+  {
+    "nome": "🇲🇬Bandeira: Madagascar",
+    "href": "/pt/flag-madagascar/"
+  },
+  {
+    "nome": "🇲🇭Bandeira: Ilhas Marshall",
+    "href": "/pt/flag-marshall-islands/"
+  },
+  {
+    "nome": "🇲🇰Bandeira: Macedônia do Norte",
+    "href": "/pt/flag-north-macedonia/"
+  },
+  {
+    "nome": "🇲🇱Bandeira: Mali",
+    "href": "/pt/flag-mali/"
+  },
+  {
+    "nome": "🇲🇲Bandeira: Mianmar (Birmânia)",
+    "href": "/pt/flag-myanmar-burma/"
+  },
+  {
+    "nome": "🇲🇳Bandeira: Mongólia",
+    "href": "/pt/flag-mongolia/"
+  },
+  {
+    "nome": "🇲🇴Bandeira: Macau, RAE da China",
+    "href": "/pt/flag-macao-sar-china/"
+  },
+  {
+    "nome": "🇲🇵Bandeira: Ilhas Marianas do Norte",
+    "href": "/pt/flag-northern-mariana-islands/"
+  },
+  {
+    "nome": "🇲🇶Bandeira: Martinica",
+    "href": "/pt/flag-martinique/"
+  },
+  {
+    "nome": "🇲🇷Bandeira: Mauritânia",
+    "href": "/pt/flag-mauritania/"
+  },
+  {
+    "nome": "🇲🇸Bandeira: Montserrat",
+    "href": "/pt/flag-montserrat/"
+  },
+  {
+    "nome": "🇲🇹Bandeira: Malta",
+    "href": "/pt/flag-malta/"
+  },
+  {
+    "nome": "🇲🇺Bandeira: Maurício",
+    "href": "/pt/flag-mauritius/"
+  },
+  {
+    "nome": "🇲🇻Bandeira: Maldivas",
+    "href": "/pt/flag-maldives/"
+  },
+  {
+    "nome": "🇲🇼Bandeira: Malaui",
+    "href": "/pt/flag-malawi/"
+  },
+  {
+    "nome": "🇲🇽Bandeira: México",
+    "href": "/pt/flag-mexico/"
+  },
+  {
+    "nome": "🇲🇾Bandeira: Malásia",
+    "href": "/pt/flag-malaysia/"
+  },
+  {
+    "nome": "🇲🇿Bandeira: Moçambique",
+    "href": "/pt/flag-mozambique/"
+  },
+  {
+    "nome": "🇳🇦Bandeira: Namíbia",
+    "href": "/pt/flag-namibia/"
+  },
+  {
+    "nome": "🇳🇨Bandeira: Nova Caledônia",
+    "href": "/pt/flag-new-caledonia/"
+  },
+  {
+    "nome": "🇳🇪Bandeira: Níger",
+    "href": "/pt/flag-niger/"
+  },
+  {
+    "nome": "🇳🇫Bandeira: Ilha Norfolk",
+    "href": "/pt/flag-norfolk-island/"
+  },
+  {
+    "nome": "🇳🇬Bandeira: Nigéria",
+    "href": "/pt/flag-nigeria/"
+  },
+  {
+    "nome": "🇳🇮Bandeira: Nicarágua",
+    "href": "/pt/flag-nicaragua/"
+  },
+  {
+    "nome": "🇳🇱Bandeira: Países Baixos",
+    "href": "/pt/flag-netherlands/"
+  },
+  {
+    "nome": "🇳🇴Bandeira: Noruega",
+    "href": "/pt/flag-norway/"
+  },
+  {
+    "nome": "🇳🇵Bandeira: Nepal",
+    "href": "/pt/flag-nepal/"
+  },
+  {
+    "nome": "🇳🇷Bandeira: Nauru",
+    "href": "/pt/flag-nauru/"
+  },
+  {
+    "nome": "🇳🇺Bandeira: Niue",
+    "href": "/pt/flag-niue/"
+  },
+  {
+    "nome": "🇳🇿Bandeira: Nova Zelândia",
+    "href": "/pt/flag-new-zealand/"
+  },
+  {
+    "nome": "🇴🇲Bandeira: Omã",
+    "href": "/pt/flag-oman/"
+  },
+  {
+    "nome": "🇵🇦Bandeira: Panamá",
+    "href": "/pt/flag-panama/"
+  },
+  {
+    "nome": "🇵🇪Bandeira: Peru",
+    "href": "/pt/flag-peru/"
+  },
+  {
+    "nome": "🇵🇫Bandeira: Polinésia Francesa",
+    "href": "/pt/flag-french-polynesia/"
+  },
+  {
+    "nome": "🇵🇬Bandeira: Papua-Nova Guiné",
+    "href": "/pt/flag-papua-new-guinea/"
+  },
+  {
+    "nome": "🇵🇭Bandeira: Filipinas",
+    "href": "/pt/flag-philippines/"
+  },
+  {
+    "nome": "🇵🇰Bandeira: Paquistão",
+    "href": "/pt/flag-pakistan/"
+  },
+  {
+    "nome": "🇵🇱Bandeira: Polônia",
+    "href": "/pt/flag-poland/"
+  },
+  {
+    "nome": "🇵🇲Bandeira: São Pedro e Miquelão",
+    "href": "/pt/flag-st-pierre-miquelon/"
+  },
+  {
+    "nome": "🇵🇳Bandeira: Ilhas Pitcairn",
+    "href": "/pt/flag-pitcairn-islands/"
+  },
+  {
+    "nome": "🇵🇷Bandeira: Porto Rico",
+    "href": "/pt/flag-puerto-rico/"
+  },
+  {
+    "nome": "🇵🇸Bandeira: Territórios palestinos",
+    "href": "/pt/flag-palestinian-territories/"
+  },
+  {
+    "nome": "🇵🇹Bandeira: Portugal",
+    "href": "/pt/flag-portugal/"
+  },
+  {
+    "nome": "🇵🇼Bandeira: Palau",
+    "href": "/pt/flag-palau/"
+  },
+  {
+    "nome": "🇵🇾Bandeira: Paraguai",
+    "href": "/pt/flag-paraguay/"
+  },
+  {
+    "nome": "🇶🇦Bandeira: Catar",
+    "href": "/pt/flag-qatar/"
+  },
+  {
+    "nome": "🇷🇪Bandeira: Reunião",
+    "href": "/pt/flag-reunion/"
+  },
+  {
+    "nome": "🇷🇴Bandeira: Romênia",
+    "href": "/pt/flag-romania/"
+  },
+  {
+    "nome": "🇷🇸Bandeira: Sérvia",
+    "href": "/pt/flag-serbia/"
+  },
+  {
+    "nome": "🇷🇺Bandeira: Rússia",
+    "href": "/pt/flag-russia/"
+  },
+  {
+    "nome": "🇷🇼Bandeira: Ruanda",
+    "href": "/pt/flag-rwanda/"
+  },
+  {
+    "nome": "🇸🇦Bandeira: Arábia Saudita",
+    "href": "/pt/flag-saudi-arabia/"
+  },
+  {
+    "nome": "🇸🇧Bandeira: Ilhas Salomão",
+    "href": "/pt/flag-solomon-islands/"
+  },
+  {
+    "nome": "🇸🇨Bandeira: Seicheles",
+    "href": "/pt/flag-seychelles/"
+  },
+  {
+    "nome": "🇸🇩Bandeira: Sudão",
+    "href": "/pt/flag-sudan/"
+  },
+  {
+    "nome": "🇸🇪Bandeira: Suécia",
+    "href": "/pt/flag-sweden/"
+  },
+  {
+    "nome": "🇸🇬Bandeira: Singapura",
+    "href": "/pt/flag-singapore/"
+  },
+  {
+    "nome": "🇸🇭Bandeira: Santa Helena",
+    "href": "/pt/flag-st-helena/"
+  },
+  {
+    "nome": "🇸🇮Bandeira: Eslovênia",
+    "href": "/pt/flag-slovenia/"
+  },
+  {
+    "nome": "🇸🇯Bandeira: Svalbard e Jan Mayen",
+    "href": "/pt/flag-svalbard-jan-mayen/"
+  },
+  {
+    "nome": "🇸🇰Bandeira: Eslováquia",
+    "href": "/pt/flag-slovakia/"
+  },
+  {
+    "nome": "🇸🇱Bandeira: Serra Leoa",
+    "href": "/pt/flag-sierra-leone/"
+  },
+  {
+    "nome": "🇸🇲Bandeira: San Marino",
+    "href": "/pt/flag-san-marino/"
+  },
+  {
+    "nome": "🇸🇳Bandeira: Senegal",
+    "href": "/pt/flag-senegal/"
+  },
+  {
+    "nome": "🇸🇴Bandeira: Somália",
+    "href": "/pt/flag-somalia/"
+  },
+  {
+    "nome": "🇸🇷Bandeira: Suriname",
+    "href": "/pt/flag-suriname/"
+  },
+  {
+    "nome": "🇸🇸Bandeira: Sudão do Sul",
+    "href": "/pt/flag-south-sudan/"
+  },
+  {
+    "nome": "🇸🇹Bandeira: São Tomé e Príncipe",
+    "href": "/pt/flag-sao-tome-principe/"
+  },
+  {
+    "nome": "🇸🇻Bandeira: El Salvador",
+    "href": "/pt/flag-el-salvador/"
+  },
+  {
+    "nome": "🇸🇽Bandeira: Sint Maarten",
+    "href": "/pt/flag-sint-maarten/"
+  },
+  {
+    "nome": "🇸🇾Bandeira: Síria",
+    "href": "/pt/flag-syria/"
+  },
+  {
+    "nome": "🇸🇿Bandeira: Essuatíni",
+    "href": "/pt/flag-eswatini/"
+  },
+  {
+    "nome": "🇹🇦Bandeira: Tristão da Cunha",
+    "href": "/pt/flag-tristan-da-cunha/"
+  },
+  {
+    "nome": "🇹🇨Bandeira: Ilhas Turcas e Caicos",
+    "href": "/pt/flag-turks-caicos-islands/"
+  },
+  {
+    "nome": "🇹🇩Bandeira: Chade",
+    "href": "/pt/flag-chad/"
+  },
+  {
+    "nome": "🇹🇫Bandeira: Territórios Franceses do Sul",
+    "href": "/pt/flag-french-southern-territories/"
+  },
+  {
+    "nome": "🇹🇬Bandeira: Togo",
+    "href": "/pt/flag-togo/"
+  },
+  {
+    "nome": "🇹🇭Bandeira: Tailândia",
+    "href": "/pt/flag-thailand/"
+  },
+  {
+    "nome": "🇹🇯Bandeira: Tadjiquistão",
+    "href": "/pt/flag-tajikistan/"
+  },
+  {
+    "nome": "🇹🇰Bandeira: Tokelau",
+    "href": "/pt/flag-tokelau/"
+  },
+  {
+    "nome": "🇹🇱Bandeira: Timor-Leste",
+    "href": "/pt/flag-timor-leste/"
+  },
+  {
+    "nome": "🇹🇲Bandeira: Turcomenistão",
+    "href": "/pt/flag-turkmenistan/"
+  },
+  {
+    "nome": "🇹🇳Bandeira: Tunísia",
+    "href": "/pt/flag-tunisia/"
+  },
+  {
+    "nome": "🇹🇴Bandeira: Tonga",
+    "href": "/pt/flag-tonga/"
+  },
+  {
+    "nome": "🇹🇷Bandeira: Turquia",
+    "href": "/pt/flag-turkey/"
+  },
+  {
+    "nome": "🇹🇹Bandeira: Trinidad e Tobago",
+    "href": "/pt/flag-trinidad-tobago/"
+  },
+  {
+    "nome": "🇹🇻Bandeira: Tuvalu",
+    "href": "/pt/flag-tuvalu/"
+  },
+  {
+    "nome": "🇹🇼Bandeira: Taiwan",
+    "href": "/pt/flag-taiwan/"
+  },
+  {
+    "nome": "🇹🇿Bandeira: Tanzânia",
+    "href": "/pt/flag-tanzania/"
+  },
+  {
+    "nome": "🇺🇦Bandeira: Ucrânia",
+    "href": "/pt/flag-ukraine/"
+  },
+  {
+    "nome": "🇺🇬Bandeira: Uganda",
+    "href": "/pt/flag-uganda/"
+  },
+  {
+    "nome": "🇺🇲Bandeira: Ilhas Menores Distantes dos EUA",
+    "href": "/pt/flag-us-outlying-islands/"
+  },
+  {
+    "nome": "🇺🇸Bandeira: Estados Unidos",
+    "href": "/pt/flag-united-states/"
+  },
+  {
+    "nome": "🇺🇾Bandeira: Uruguai",
+    "href": "/pt/flag-uruguay/"
+  },
+  {
+    "nome": "🇺🇿Bandeira: Uzbequistão",
+    "href": "/pt/flag-uzbekistan/"
+  },
+  {
+    "nome": "🇻🇦Bandeira: Cidade do Vaticano",
+    "href": "/pt/flag-vatican-city/"
+  },
+  {
+    "nome": "🇻🇨Bandeira: São Vicente e Granadinas",
+    "href": "/pt/flag-st-vincent-grenadines/"
+  },
+  {
+    "nome": "🇻🇪Bandeira: Venezuela",
+    "href": "/pt/flag-venezuela/"
+  },
+  {
+    "nome": "🇻🇬Bandeira: Ilhas Virgens Britânicas",
+    "href": "/pt/flag-british-virgin-islands/"
+  },
+  {
+    "nome": "🇻🇮Bandeira: Ilhas Virgens Americanas",
+    "href": "/pt/flag-us-virgin-islands/"
+  },
+  {
+    "nome": "🇻🇳Bandeira: Vietnã",
+    "href": "/pt/flag-vietnam/"
+  },
+  {
+    "nome": "🇻🇺Bandeira: Vanuatu",
+    "href": "/pt/flag-vanuatu/"
+  },
+  {
+    "nome": "🇼🇫Bandeira: Wallis e Futuna",
+    "href": "/pt/flag-wallis-futuna/"
+  },
+  {
+    "nome": "🇼🇸Bandeira: Samoa",
+    "href": "/pt/flag-samoa/"
+  },
+  {
+    "nome": "🇽🇰Bandeira: Kosovo",
+    "href": "/pt/flag-kosovo/"
+  },
+  {
+    "nome": "🇾🇪Bandeira: Iêmen",
+    "href": "/pt/flag-yemen/"
+  },
+  {
+    "nome": "🇾🇹Bandeira: Mayotte",
+    "href": "/pt/flag-mayotte/"
+  },
+  {
+    "nome": "🇿🇦Bandeira: África do Sul",
+    "href": "/pt/flag-south-africa/"
+  },
+  {
+    "nome": "🇿🇲Bandeira: Zâmbia",
+    "href": "/pt/flag-zambia/"
+  },
+  {
+    "nome": "🇿🇼Bandeira: Zimbábue",
+    "href": "/pt/flag-zimbabwe/"
+  },
+  {
+    "nome": "️Seletor de Variação-16",
+    "href": "/pt/variation-selector-16/"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "😂Rosto chorando de rir",
+    "href": "/pt/face-with-tears-of-joy/"
+  },
+  {
+    "nome": "🥰Rosto sorridente com 3 corações",
+    "href": "/pt/smiling-face-with-hearts/"
+  },
+  {
+    "nome": "🥲Rosto sorridente com lágrima",
+    "href": "/pt/smiling-face-with-tear/"
+  },
+  {
+    "nome": "🥺Rosto implorando",
+    "href": "/pt/pleading-face/"
+  },
+  {
+    "nome": "❤️‍🔥Coração em chamas",
+    "href": "/pt/heart-on-fire/"
+  },
+  {
+    "nome": "❤️Coração vermelho",
+    "href": "/pt/red-heart/"
+  },
+  {
+    "nome": "👍Polegar para cima",
+    "href": "/pt/thumbs-up/"
+  },
+  {
+    "nome": "🔥Fogo",
+    "href": "/pt/fire/"
+  },
+  {
+    "nome": "🇺🇦Bandeira: Ucrânia",
+    "href": "/pt/flag-ukraine/"
+  },
+  {
+    "nome": "🎉 Tema",
+    "href": "/pt/theme/"
+  },
+  {
+    "nome": "❤️️Ame",
+    "href": "/pt/theme/love/"
+  },
+  {
+    "nome": "😄Amigos",
+    "href": "/pt/theme/friends-sitcom/"
+  },
+  {
+    "nome": "🎂Aniversário",
+    "href": "/pt/theme/birthday/"
+  },
+  {
+    "nome": "👑Aniversário Da Rainha",
+    "href": "/pt/theme/queens-birthday/"
+  },
+  {
+    "nome": "🦃Ação De Graças",
+    "href": "/pt/theme/thanksgiving/"
+  },
+  {
+    "nome": "🦁Biologia",
+    "href": "/pt/theme/biology/"
+  },
+  {
+    "nome": "✊🏿Black Lives Matter",
+    "href": "/pt/theme/black-lives-matter/"
+  },
+  {
+    "nome": "☢️Cair",
+    "href": "/pt/theme/fallout/"
+  },
+  {
+    "nome": "🇧🇷Carnaval",
+    "href": "/pt/theme/carnaval/"
+  },
+  {
+    "nome": "🚗Carros",
+    "href": "/pt/theme/cars-movie/"
+  },
+  {
+    "nome": "👰Casamento / Casamento",
+    "href": "/pt/theme/wedding-marriage/"
+  },
+  {
+    "nome": "🎰Cassino",
+    "href": "/pt/theme/casino/"
+  },
+  {
+    "nome": "🌧Clima",
+    "href": "/pt/theme/weather/"
+  },
+  {
+    "nome": "⚽Copa Do Mundo",
+    "href": "/pt/theme/world-cup/"
+  },
+  {
+    "nome": "💕Corações",
+    "href": "/pt/theme/hearts/"
+  },
+  {
+    "nome": "🦠Coronavírus",
+    "href": "/pt/theme/coronavirus/"
+  },
+  {
+    "nome": "🏎Corridas",
+    "href": "/pt/theme/racing/"
+  },
+  {
+    "nome": "👱Dia Internacional Do Homem",
+    "href": "/pt/theme/international-mens-day/"
+  },
+  {
+    "nome": "📩Dia Internacional Sem Internet",
+    "href": "/pt/theme/international-internet-free-day/"
+  },
+  {
+    "nome": "🥤Dia Mundial Da Sobriedade E Controle Do Álcool",
+    "href": "/pt/theme/world-day-of-sobriety-and-alcohol-control/"
+  },
+  {
+    "nome": "🌎Dia Mundial Do Emoji",
+    "href": "/pt/theme/world-emoji-day/"
+  },
+  {
+    "nome": "🇦🇺Dia Da Austrália",
+    "href": "/pt/theme/australia-day/"
+  },
+  {
+    "nome": "🇺🇸Dia Da Independência",
+    "href": "/pt/theme/independence-day/"
+  },
+  {
+    "nome": "🙆‍♂️Dia Da Mentira",
+    "href": "/pt/theme/april-fools-day/"
+  },
+  {
+    "nome": "🗺️Dia Da Terra",
+    "href": "/pt/theme/earth-day/"
+  },
+  {
+    "nome": "🚴Dia Da Bicicleta",
+    "href": "/pt/theme/bicycle-day/"
+  },
+  {
+    "nome": "🤱Dia Das Mães",
+    "href": "/pt/theme/mothers-day/"
+  },
+  {
+    "nome": "⛵️Dia De Colombo",
+    "href": "/pt/theme/columbus-day/"
+  },
+  {
+    "nome": "☘️Dia De São Patricio",
+    "href": "/pt/theme/st-patricks-day/"
+  },
+  {
+    "nome": "🚬Dia De Não Fumadores",
+    "href": "/pt/theme/no-smoking-day/"
+  },
+  {
+    "nome": "🇨🇦Dia Do Canadá",
+    "href": "/pt/theme/canada-day/"
+  },
+  {
+    "nome": "⚒️Dia Do Trabalho",
+    "href": "/pt/theme/labour-day/"
+  },
+  {
+    "nome": "👨Dia Dos Pais",
+    "href": "/pt/theme/fathers-day/"
+  },
+  {
+    "nome": "💘Dia Dos Namorados",
+    "href": "/pt/theme/valentines-day/"
+  },
+  {
+    "nome": "👩Dia Internacional Da Mulher",
+    "href": "/pt/theme/international-womens-day/"
+  },
+  {
+    "nome": "🕯Diwali",
+    "href": "/pt/theme/diwali/"
+  },
+  {
+    "nome": "🎥Emoji Movie",
+    "href": "/pt/theme/emoji-movie/"
+  },
+  {
+    "nome": "👽Espaço",
+    "href": "/pt/theme/space/"
+  },
+  {
+    "nome": "🤓Faculdade",
+    "href": "/pt/theme/college/"
+  },
+  {
+    "nome": "🎉Festa",
+    "href": "/pt/theme/party/"
+  },
+  {
+    "nome": "🇨🇳Festival Do Barco-Dragão",
+    "href": "/pt/theme/dragon-boat-festival/"
+  },
+  {
+    "nome": "💪Festivus",
+    "href": "/pt/theme/festivus/"
+  },
+  {
+    "nome": "🎬Filme",
+    "href": "/pt/theme/movie/"
+  },
+  {
+    "nome": "📙Filosofia",
+    "href": "/pt/theme/philosophy/"
+  },
+  {
+    "nome": "🌠Física",
+    "href": "/pt/theme/physics/"
+  },
+  {
+    "nome": "🏃Gta",
+    "href": "/pt/theme/gta/"
+  },
+  {
+    "nome": "🌈Gay",
+    "href": "/pt/theme/gay/"
+  },
+  {
+    "nome": "🗺Geografia",
+    "href": "/pt/theme/geography/"
+  },
+  {
+    "nome": "🎓Graduação",
+    "href": "/pt/theme/graduation/"
+  },
+  {
+    "nome": "🌌Guerra Das Estrelas",
+    "href": "/pt/theme/star-wars/"
+  },
+  {
+    "nome": "❄️Guerra Dos Tronos",
+    "href": "/pt/theme/game-of-thrones/"
+  },
+  {
+    "nome": "🔥Guy Fawkes",
+    "href": "/pt/theme/guy-fawkes/"
+  },
+  {
+    "nome": "🕎Hanukkah",
+    "href": "/pt/theme/hanukkah/"
+  },
+  {
+    "nome": "🧙Harry Potter",
+    "href": "/pt/theme/harry-potter/"
+  },
+  {
+    "nome": "📖História",
+    "href": "/pt/theme/history/"
+  },
+  {
+    "nome": "🕉Holi",
+    "href": "/pt/theme/holi/"
+  },
+  {
+    "nome": "⛄Inverno",
+    "href": "/pt/theme/winter/"
+  },
+  {
+    "nome": "🤵James Bond",
+    "href": "/pt/theme/james-bond/"
+  },
+  {
+    "nome": "🏊Jogos Olímpicos",
+    "href": "/pt/theme/olympics/"
+  },
+  {
+    "nome": "🖖Jornada Nas Estrelas",
+    "href": "/pt/theme/star-trek/"
+  },
+  {
+    "nome": "📜Lei",
+    "href": "/pt/theme/law/"
+  },
+  {
+    "nome": "➗Matemática",
+    "href": "/pt/theme/math/"
+  },
+  {
+    "nome": "🕴️Matriz",
+    "href": "/pt/theme/matrix/"
+  },
+  {
+    "nome": "🧘Meditação",
+    "href": "/pt/theme/meditation/"
+  },
+  {
+    "nome": "🧱Minecraft",
+    "href": "/pt/theme/minecraft/"
+  },
+  {
+    "nome": "💪Motivação",
+    "href": "/pt/theme/motivation/"
+  },
+  {
+    "nome": "🎅Natal",
+    "href": "/pt/theme/christmas/"
+  },
+  {
+    "nome": "🎿Olimpíadas De Inverno",
+    "href": "/pt/theme/winter-olympics/"
+  },
+  {
+    "nome": "🏳️‍🌈Orgulho / Lgbtq+",
+    "href": "/pt/theme/pride/"
+  },
+  {
+    "nome": "🍂Outono",
+    "href": "/pt/theme/fall-autumn/"
+  },
+  {
+    "nome": "🌱Primavera",
+    "href": "/pt/theme/spring/"
+  },
+  {
+    "nome": "🐰Páscoa",
+    "href": "/pt/theme/easter/"
+  },
+  {
+    "nome": "🌿Quatro Vinte / 420",
+    "href": "/pt/theme/420/"
+  },
+  {
+    "nome": "☪️Ramadã",
+    "href": "/pt/theme/ramadan/"
+  },
+  {
+    "nome": "⛪️Religião",
+    "href": "/pt/theme/religion/"
+  },
+  {
+    "nome": "💊Saúde",
+    "href": "/pt/theme/health/"
+  },
+  {
+    "nome": "💏Sexo",
+    "href": "/pt/theme/sex/"
+  },
+  {
+    "nome": "🛍Sexta-Feira Preta",
+    "href": "/pt/theme/black-friday/"
+  },
+  {
+    "nome": "🕵️Sherlock",
+    "href": "/pt/theme/sherlock/"
+  },
+  {
+    "nome": "🏈Super Bowl",
+    "href": "/pt/theme/super-bowl/"
+  },
+  {
+    "nome": "🏡Trabalhar Em Casa",
+    "href": "/pt/theme/working-from-home/"
+  },
+  {
+    "nome": "☀️Verão",
+    "href": "/pt/theme/summer/"
+  },
+  {
+    "nome": "🎊Véspera De Ano Novo",
+    "href": "/pt/theme/new-years-eve/"
+  },
+  {
+    "nome": "🐉Ano Novo Chinês",
+    "href": "/pt/theme/chinese-new-year/"
+  },
+  {
+    "nome": "🇲🇽Cinco De Maio",
+    "href": "/pt/theme/cinco-de-mayo/"
+  },
+  {
+    "nome": "🇫🇷Dia Da Bastilha",
+    "href": "/pt/theme/bastille-day/"
+  },
+  {
+    "nome": "🎃Dia Das Bruxas",
+    "href": "/pt/theme/halloween/"
+  },
+  {
+    "nome": "💦Água",
+    "href": "/pt/theme/water/"
+  },
+  {
+    "nome": "Apple",
+    "href": "/pt/apple/"
+  },
+  {
+    "nome": "Google",
+    "href": "/pt/google/"
+  },
+  {
+    "nome": "Facebook",
+    "href": "/pt/facebook/"
+  },
+  {
+    "nome": "Twitter",
+    "href": "/pt/twitter/"
+  },
+  {
+    "nome": "Samsung",
+    "href": "/pt/samsung/"
+  },
+  {
+    "nome": "Microsoft",
+    "href": "/pt/microsoft/"
+  },
+  {
+    "nome": "Whatsapp",
+    "href": "/pt/whatsapp/"
+  },
+  {
+    "nome": "Messenger",
+    "href": "/pt/messenger/"
+  },
+  {
+    "nome": "Joypixels",
+    "href": "/pt/joypixels/"
+  },
+  {
+    "nome": "Openmoji",
+    "href": "/pt/openmoji/"
+  },
+  {
+    "nome": "Emojidex",
+    "href": "/pt/emojidex/"
+  },
+  {
+    "nome": "Htc",
+    "href": "/pt/htc/"
+  },
+  {
+    "nome": "Lg",
+    "href": "/pt/lg/"
+  },
+  {
+    "nome": "Mozilla",
+    "href": "/pt/mozilla/"
+  },
+  {
+    "nome": "Softbank",
+    "href": "/pt/softbank/"
+  },
+  {
+    "nome": "Au-Kddi",
+    "href": "/pt/au-kddi/"
+  },
+  {
+    "nome": "Docomo",
+    "href": "/pt/docomo/"
+  },
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/emojigraph/"
+  },
+  {
+    "nome": "Emojipedia",
+    "href": "/pt/emojipedia/"
+  },
+  {
+    "nome": "Emoji 1.0",
+    "href": "/pt/emoji-1.0/"
+  },
+  {
+    "nome": "Emoji 2.0",
+    "href": "/pt/emoji-2.0/"
+  },
+  {
+    "nome": "Emoji 3.0",
+    "href": "/pt/emoji-3.0/"
+  },
+  {
+    "nome": "Emoji 4.0",
+    "href": "/pt/emoji-4.0/"
+  },
+  {
+    "nome": "Emoji 5.0",
+    "href": "/pt/emoji-5.0/"
+  },
+  {
+    "nome": "Emoji 11.0",
+    "href": "/pt/emoji-11.0/"
+  },
+  {
+    "nome": "Emoji 12.0",
+    "href": "/pt/emoji-12.0/"
+  },
+  {
+    "nome": "Emoji 12.1",
+    "href": "/pt/emoji-12.1/"
+  },
+  {
+    "nome": "Emoji 13.0",
+    "href": "/pt/emoji-13.0/"
+  },
+  {
+    "nome": "Emoji 13.1",
+    "href": "/pt/emoji-13.1/"
+  },
+  {
+    "nome": "Emoji 14.0",
+    "href": "/pt/emoji-14.0/"
+  },
+  {
+    "nome": "Emoji 15.0",
+    "href": "/pt/emoji-15.0/"
+  },
+  {
+    "nome": "Emoji 15.1",
+    "href": "/pt/emoji-15.1/"
+  },
+  {
+    "nome": "Emoji 16.0",
+    "href": "/pt/emoji-16.0/"
+  },
+  {
+    "nome": "Política de Privacidade",
+    "href": "/pt/privacy-policy/"
+  }
+]

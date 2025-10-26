@@ -1,0 +1,71 @@
+{
+  "emoji": "🦠",
+  "nome": "🦠 Micróbio",
+  "categoria": "Microbe",
+  "url": "https://emojigraph.org/pt/microbe/",
+  "detalhes": {
+    "explicacao": "Um micróbio, como uma bactéria cultivada em um 🧫 placa de Petri ou observada em um 🔬 Microscópio. Geralmente retratado como um curvadas, unicelulares microorganismo, com grandes cílios. Cor, forma e posição variam entre plataformas. Comumente usado para representar bactérias, vírus e germes e doenças em geral.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/microbe_1f9a0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/microbe_1f9a0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/microbe_1f9a0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/microbe_1f9a0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/microbe_1f9a0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/microbe_1f9a0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/microbe_1f9a0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/microbe_1f9a0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/microbe_1f9a0.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/microbe_1f9a0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ameba",
+      "bactéria",
+      "micróbio",
+      "vírus",
+      "ciência"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9A0;",
+      "HTML dec": "&#129440;",
+      "URL escape code": "%F0%9F%A6%A0",
+      "Punycode": "xn--wt9h",
+      "Bytes (UTF-8)": "F0 9F A6 A0",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDA0",
+      "C, C++, Python": "\\U0001f9a0",
+      "CSS": "\\01F9A0",
+      "PHP, Ruby": "\\u{1F9A0}",
+      "Perl": "\\x{1F9A0}"
+    }
+  }
+}

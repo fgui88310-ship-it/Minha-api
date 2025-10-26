@@ -1,0 +1,67 @@
+{
+  "emoji": "🇫🇮",
+  "nome": "🇫🇮 Bandeira: Finlândia",
+  "categoria": "flag finland",
+  "url": "https://emojigraph.org/pt/flag-finland/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Finlândia. Este símbolo é uma seqüência de caracteres 🇫 Símbolo Indicador Regional Letra F e 🇮 Símbolo Indicador Regional Letra I. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras FI em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-finland_1f1eb-1f1ee.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-finland_1f1eb-1f1ee.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-finland_1f1eb-1f1ee.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-finland_1f1eb-1f1ee.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-finland_1f1eb-1f1ee.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-finland_1f1eb-1f1ee.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-finland_1f1eb-1f1ee.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-finland_1f1eb-1f1ee.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-finland_1f1eb-1f1ee.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-finland_1f1eb-1f1ee.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EB;&#x1F1EE;",
+      "HTML dec": "&#127467;&#127470;",
+      "URL escape code": "%F0%9F%87%AB%F0%9F%87%AE",
+      "Punycode": "xn--j77hga",
+      "Bytes (UTF-8)": "F0 9F 87 AB F0 9F 87 AE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEB\\uD83C\\uDDEE",
+      "C, C++, Python": "\\U0001f1eb\\U0001f1ee",
+      "CSS": "\\01F1EB \\01F1EE",
+      "PHP, Ruby": "\\u{1F1EB}\\u{1F1EE}",
+      "Perl": "\\x{1F1EB}\\x{1F1EE}"
+    }
+  }
+}

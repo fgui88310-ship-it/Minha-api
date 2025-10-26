@@ -1,0 +1,85 @@
+{
+  "emoji": "🐀",
+  "nome": "🐀 Rato",
+  "categoria": "Rat",
+  "url": "https://emojigraph.org/pt/rat/",
+  "detalhes": {
+    "explicacao": "Um rato, um grande roedor com uma longa cauda, conhecido frequente de grandes cidades. Representado em cinza de perfil completo em todos as quatro patas viradas para a esquerda, com orelhas cor-de-rosa , pés e cauda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rat_1f400.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rat_1f400.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rat_1f400.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rat_1f400.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rat_1f400.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rat_1f400.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rat_1f400.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/rat_1f400.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rat_1f400.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rat_1f400.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/rat_1f400.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/rat_1f400.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/rat_1f400.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/rat_1f400.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "ratazana",
+      "rato"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F400;",
+      "HTML dec": "&#128000;",
+      "URL escape code": "%F0%9F%90%80",
+      "Punycode": "xn--rn8h",
+      "Bytes (UTF-8)": "F0 9F 90 80",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC00",
+      "C, C++, Python": "\\U0001f400",
+      "CSS": "\\01F400",
+      "PHP, Ruby": "\\u{1F400}",
+      "Perl": "\\x{1F400}"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "emoji": "🕙",
+  "nome": "🕙 10 horas",
+  "categoria": "Ten Oclock",
+  "url": "https://emojigraph.org/pt/ten-oclock/",
+  "detalhes": {
+    "explicacao": "Dez Horas foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio Dez Horas\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ten-oclock_1f559.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ten-oclock_1f559.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "10 horas",
+      "10h00",
+      "dez",
+      "relógio",
+      "22h"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F559;",
+      "HTML dec": "&#128345;",
+      "URL escape code": "%F0%9F%95%99",
+      "Punycode": "xn--mx8h",
+      "Bytes (UTF-8)": "F0 9F 95 99",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD59",
+      "C, C++, Python": "\\U0001f559",
+      "CSS": "\\01F559",
+      "PHP, Ruby": "\\u{1F559}",
+      "Perl": "\\x{1F559}"
+    }
+  }
+}

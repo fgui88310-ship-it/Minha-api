@@ -1,0 +1,69 @@
+{
+  "emoji": "",
+  "nome": "⚗️ Alambique",
+  "categoria": "alembic",
+  "url": "https://emojigraph.org/pt/alembic/",
+  "detalhes": {
+    "explicacao": "Aparelho para destilação, como é usado na alquimia medieval. Geralmente retratado como um frasco redondo com um pescoço inclinado para baixo, para a direita. Posicionado em um suporte curto e contendo um misterioso verde, roxo, azul ou líquido.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/alembic_2697-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/alembic_2697-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/alembic_2697-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/alembic_2697-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/alembic_2697-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/alembic_2697-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/alembic_2697-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/alembic_2697-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/alembic_2697-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/alembic_2697-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alambique",
+      "ferramenta",
+      "química"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2697;&#xFE0F;",
+      "HTML dec": "&#9879;&#65039;",
+      "URL escape code": "%E2%9A%97%EF%B8%8F",
+      "Punycode": "xn--v7h",
+      "Bytes (UTF-8)": "E2 9A 97 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2697\\uFE0F",
+      "C, C++, Python": "\\u2697\\uFE0F",
+      "CSS": "\\2697 \\FE0F",
+      "PHP, Ruby": "\\u{2697}\\u{FE0F}",
+      "Perl": "\\x{2697}\\x{FE0F}"
+    }
+  }
+}

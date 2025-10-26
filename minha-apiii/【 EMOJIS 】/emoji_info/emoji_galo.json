@@ -1,0 +1,85 @@
+{
+  "emoji": "🐓",
+  "nome": "🐓 Galo",
+  "categoria": "Rooster",
+  "url": "https://emojigraph.org/pt/rooster/",
+  "detalhes": {
+    "explicacao": "Um galo (pau), um macho de frango conhecida por sua cock-a-doodle-do. Descrito como um branco ou colorido galo de pé em suas pernas em completa do perfil voltado para a esquerda, com um pente vermelho em sua cabeça e vermelhos lábios em seu pescoço.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/rooster_1f413.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/rooster_1f413.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ave",
+      "galo",
+      "animal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F413;",
+      "HTML dec": "&#128019;",
+      "URL escape code": "%F0%9F%90%93",
+      "Punycode": "xn--bo8h",
+      "Bytes (UTF-8)": "F0 9F 90 93",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC13",
+      "C, C++, Python": "\\U0001f413",
+      "CSS": "\\01F413",
+      "PHP, Ruby": "\\u{1F413}",
+      "Perl": "\\x{1F413}"
+    }
+  }
+}

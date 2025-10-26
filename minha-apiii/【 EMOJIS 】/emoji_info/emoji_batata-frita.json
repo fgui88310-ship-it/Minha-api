@@ -1,0 +1,97 @@
+{
+  "emoji": "🍟",
+  "nome": "🍟 Batata frita",
+  "categoria": "French Fries",
+  "url": "https://emojigraph.org/pt/french-fries/",
+  "detalhes": {
+    "explicacao": "Finas-corte, marrom-dourado batatas fritas, servidas em um red caixa, como no Mcdonald's. Apple apresenta Sorridente Com Olhos Sorridentes em sua caixa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/french-fries_1f35f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/french-fries_1f35f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "batata frita",
+      "fritas",
+      "comida",
+      "fast food",
+      "fome",
+      "lanchonete",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F35F;",
+      "HTML dec": "&#127839;",
+      "URL escape code": "%F0%9F%8D%9F",
+      "Punycode": "xn--5i8h",
+      "Bytes (UTF-8)": "F0 9F 8D 9F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF5F",
+      "C, C++, Python": "\\U0001f35f",
+      "CSS": "\\01F35F",
+      "PHP, Ruby": "\\u{1F35F}",
+      "Perl": "\\x{1F35F}"
+    }
+  }
+}

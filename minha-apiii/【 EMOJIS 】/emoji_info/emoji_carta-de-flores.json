@@ -1,0 +1,95 @@
+{
+  "emoji": "🎴",
+  "nome": "🎴 Carta de flores",
+  "categoria": "Flower Playing Cards",
+  "url": "https://emojigraph.org/pt/flower-playing-cards/",
+  "detalhes": {
+    "explicacao": "Um tipo de cartas conhecido como cartas de hanafuda no Japão, que são usados para uma variedade de jogos diferentes, que exigem associando imagens (não há números sobre os cartões).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/flower-playing-cards_1f3b4.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/flower-playing-cards_1f3b4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "baralho",
+      "carta de flores",
+      "flores",
+      "Hanafuda",
+      "jogo de baralho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3B4;",
+      "HTML dec": "&#127924;",
+      "URL escape code": "%F0%9F%8E%B4",
+      "Punycode": "xn--ll8h",
+      "Bytes (UTF-8)": "F0 9F 8E B4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFB4",
+      "C, C++, Python": "\\U0001f3b4",
+      "CSS": "\\01F3B4",
+      "PHP, Ruby": "\\u{1F3B4}",
+      "Perl": "\\x{1F3B4}"
+    }
+  }
+}

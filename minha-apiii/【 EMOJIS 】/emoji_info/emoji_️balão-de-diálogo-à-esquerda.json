@@ -1,0 +1,65 @@
+{
+  "emoji": "🗨",
+  "nome": "🗨️ Balão de diálogo à esquerda",
+  "categoria": "Left Speech Bubble",
+  "url": "https://emojigraph.org/pt/left-speech-bubble/",
+  "detalhes": {
+    "explicacao": "Uma esquerda de frente para balão de fala, que foi incluído em Unicode 7.0, mas não é considerado um padrão de adição para fins de emoji apresentação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/left-speech-bubble_1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/left-speech-bubble_1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/left-speech-bubble_1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/left-speech-bubble_1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/left-speech-bubble_1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/left-speech-bubble_1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/left-speech-bubble_1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/left-speech-bubble_1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/left-speech-bubble_1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/left-speech-bubble_1f5e8-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [],
+    "codigos": {
+      "HTML hex": "&#x1F5E8;&#xFE0F;",
+      "HTML dec": "&#128488;&#65039;",
+      "URL escape code": "%F0%9F%97%A8%EF%B8%8F",
+      "Punycode": "xn--p18h",
+      "Bytes (UTF-8)": "F0 9F 97 A8 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDE8\\uFE0F",
+      "C, C++, Python": "\\U0001f5e8\\uFE0F",
+      "CSS": "\\01F5E8 \\FE0F",
+      "PHP, Ruby": "\\u{1F5E8}\\u{FE0F}",
+      "Perl": "\\x{1F5E8}\\x{FE0F}"
+    }
+  }
+}

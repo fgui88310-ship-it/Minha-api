@@ -1,0 +1,62 @@
+{
+  "emoji": "",
+  "nome": "⛹️‍♂️ Homem jogando basquete",
+  "categoria": "man bouncing ball",
+  "url": "https://emojigraph.org/pt/man-bouncing-ball/",
+  "detalhes": {
+    "explicacao": "A versão masculina do ⛹ Pessoa Com Bola emoji. Atualmente idêntico em aparência a não-gênero da base de dados de emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-bouncing-ball_26f9-fe0f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-bouncing-ball_26f9-fe0f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-bouncing-ball_26f9-fe0f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-bouncing-ball_26f9-fe0f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-bouncing-ball_26f9-fe0f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-bouncing-ball_26f9-fe0f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-bouncing-ball_26f9-fe0f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-bouncing-ball_26f9-fe0f-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "basquete",
+      "bola",
+      "esporte",
+      "homem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26F9;&#xFE0F;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#9977;&#65039;&#8205;&#9794;&#65039;",
+      "URL escape code": "%E2%9B%B9%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h3y",
+      "Bytes (UTF-8)": "E2 9B B9 EF B8 8F E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26F9\\uFE0F\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\u26F9\\uFE0F\\u200D\\u2642\\uFE0F",
+      "CSS": "\\26F9 \\FE0F \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{26F9}\\u{FE0F}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{26F9}\\x{FE0F}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

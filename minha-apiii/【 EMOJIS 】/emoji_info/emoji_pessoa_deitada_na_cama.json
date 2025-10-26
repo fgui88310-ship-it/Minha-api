@@ -1,0 +1,75 @@
+{
+  "emoji": "🛌",
+  "nome": "🛌 Pessoa deitada na cama",
+  "categoria": "person in bed",
+  "url": "https://emojigraph.org/pt/person-in-bed/",
+  "detalhes": {
+    "explicacao": "Uma cama para a pessoa dormir nela, como em uma casa, hotel, pousada, ou outras acomodações para dormir. Usado especialmente para vários conteúdos relativos a dormir, bem como camas, móveis, habitação, relaxante, e outras atividades.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-in-bed_1f6cc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-in-bed_1f6cc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-in-bed_1f6cc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-in-bed_1f6cc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-in-bed_1f6cc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-in-bed_1f6cc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-in-bed_1f6cc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-in-bed_1f6cc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-in-bed_1f6cc.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-in-bed_1f6cc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "hotel",
+      "pessoa",
+      "sono",
+      "boa noite",
+      "cama",
+      "cochilo",
+      "dormindo",
+      "dormir",
+      "soneca"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6CC;",
+      "HTML dec": "&#128716;",
+      "URL escape code": "%F0%9F%9B%8C",
+      "Punycode": "xn--778h",
+      "Bytes (UTF-8)": "F0 9F 9B 8C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDECC",
+      "C, C++, Python": "\\U0001f6cc",
+      "CSS": "\\01F6CC",
+      "PHP, Ruby": "\\u{1F6CC}",
+      "Perl": "\\x{1F6CC}"
+    }
+  }
+}

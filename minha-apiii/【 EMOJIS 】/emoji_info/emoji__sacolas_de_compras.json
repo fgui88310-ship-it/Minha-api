@@ -1,0 +1,68 @@
+{
+  "emoji": "🛍",
+  "nome": "🛍️ Sacolas de compras",
+  "categoria": "shopping bags",
+  "url": "https://emojigraph.org/pt/shopping-bags/",
+  "detalhes": {
+    "explicacao": "Dois sacos de compras coloridos, contendo itens de consumo, comprados em uma loja de departamento. Descrito como aco parapresente sacos em várias cores brilhantes, padrões, tamanhos e posições entre plataformas. No design da Apple, por exemplo, apresenta um saco cor-de-rosa saco com detalhes pontilhados na frente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shopping-bags_1f6cd-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shopping-bags_1f6cd-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shopping-bags_1f6cd-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shopping-bags_1f6cd-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shopping-bags_1f6cd-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shopping-bags_1f6cd-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shopping-bags_1f6cd-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shopping-bags_1f6cd-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shopping-bags_1f6cd-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/shopping-bags_1f6cd-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "compras",
+      "sacolas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6CD;&#xFE0F;",
+      "HTML dec": "&#128717;&#65039;",
+      "URL escape code": "%F0%9F%9B%8D%EF%B8%8F",
+      "Punycode": "xn--878h",
+      "Bytes (UTF-8)": "F0 9F 9B 8D EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDECD\\uFE0F",
+      "C, C++, Python": "\\U0001f6cd\\uFE0F",
+      "CSS": "\\01F6CD \\FE0F",
+      "PHP, Ruby": "\\u{1F6CD}\\u{FE0F}",
+      "Perl": "\\x{1F6CD}\\x{FE0F}"
+    }
+  }
+}

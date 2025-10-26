@@ -1,0 +1,96 @@
+{
+  "emoji": "🔫",
+  "nome": "🔫 Pistola",
+  "categoria": "Pistol",
+  "url": "https://emojigraph.org/pt/pistol/",
+  "detalhes": {
+    "explicacao": "Um esguicho de arma (pistola de água), como o utilizado para espirrar água para se divertir.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pistol_1f52b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pistol_1f52b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arma",
+      "ferramenta",
+      "pistola",
+      "revólver",
+      "água",
+      "pistola d’água"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F52B;",
+      "HTML dec": "&#128299;",
+      "URL escape code": "%F0%9F%94%AB",
+      "Punycode": "xn--bw8h",
+      "Bytes (UTF-8)": "F0 9F 94 AB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD2B",
+      "C, C++, Python": "\\U0001f52b",
+      "CSS": "\\01F52B",
+      "PHP, Ruby": "\\u{1F52B}",
+      "Perl": "\\x{1F52B}"
+    }
+  }
+}

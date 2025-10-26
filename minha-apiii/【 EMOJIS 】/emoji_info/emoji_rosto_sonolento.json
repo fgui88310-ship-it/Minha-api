@@ -1,0 +1,94 @@
+{
+  "emoji": "😪",
+  "nome": "😪 Rosto sonolento",
+  "categoria": "sleepy face",
+  "url": "https://emojigraph.org/pt/sleepy-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com os olhos fechados, a boca ligeiramente aberta, e uma bolha de ranho azul vindo de seu nariz. Indicam um personagem cansado ou dormindo. Não deve ser confundido com 😴 Rosto dormindo",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sleepy-face_1f62a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/sleepy-face_1f62a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "rosto com sono",
+      "rosto sonolento",
+      "cara de sono"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F62A;",
+      "HTML dec": "&#128554;",
+      "URL escape code": "%F0%9F%98%AA",
+      "Punycode": "xn--l38h",
+      "Bytes (UTF-8)": "F0 9F 98 AA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE2A",
+      "C, C++, Python": "\\U0001f62a",
+      "CSS": "\\01F62A",
+      "PHP, Ruby": "\\u{1F62A}",
+      "Perl": "\\x{1F62A}"
+    }
+  }
+}

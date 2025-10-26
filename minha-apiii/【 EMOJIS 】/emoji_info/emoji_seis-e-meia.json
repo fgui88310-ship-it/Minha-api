@@ -1,0 +1,86 @@
+{
+  "emoji": "🕡",
+  "nome": "🕡 Seis e meia",
+  "categoria": "Six Thirty",
+  "url": "https://emojigraph.org/pt/six-thirty/",
+  "detalhes": {
+    "explicacao": "Seis e meia foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Seis e Trinta\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/six-thirty_1f561.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/six-thirty_1f561.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "6h30",
+      "relógio",
+      "seis e meia",
+      "18h30"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F561;",
+      "HTML dec": "&#128353;",
+      "URL escape code": "%F0%9F%95%A1",
+      "Punycode": "xn--ux8h",
+      "Bytes (UTF-8)": "F0 9F 95 A1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD61",
+      "C, C++, Python": "\\U0001f561",
+      "CSS": "\\01F561",
+      "PHP, Ruby": "\\u{1F561}",
+      "Perl": "\\x{1F561}"
+    }
+  }
+}

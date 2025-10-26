@@ -1,0 +1,63 @@
+{
+  "emoji": "🤾",
+  "nome": "🤾‍♀️ Jogadora de handebol",
+  "categoria": "Woman Playing Handball",
+  "url": "https://emojigraph.org/pt/woman-playing-handball/",
+  "detalhes": {
+    "explicacao": "A Mulher Jogando Handebol emoji é uma sequência do 🤾 Handebol e ♀ Feminino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-playing-handball_1f93e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-playing-handball_1f93e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-playing-handball_1f93e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-playing-handball_1f93e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-playing-handball_1f93e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-playing-handball_1f93e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-playing-handball_1f93e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-playing-handball_1f93e-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "esporte",
+      "handebol",
+      "mulher",
+      "quadra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F93E;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#129342;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A4%BE%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h9091o",
+      "Bytes (UTF-8)": "F0 9F A4 BE E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD3E\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f93e\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F93E \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F93E}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F93E}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

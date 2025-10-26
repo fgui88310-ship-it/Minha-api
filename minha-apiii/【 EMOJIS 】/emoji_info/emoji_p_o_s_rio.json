@@ -1,0 +1,75 @@
+{
+  "emoji": "🫓",
+  "nome": "🫓 Pão sírio",
+  "categoria": "flatbread",
+  "url": "https://emojigraph.org/pt/flatbread/",
+  "detalhes": {
+    "explicacao": "Pão sírio foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flatbread_1fad3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flatbread_1fad3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flatbread_1fad3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flatbread_1fad3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flatbread_1fad3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/flatbread_1fad3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flatbread_1fad3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flatbread_1fad3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flatbread_1fad3.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/flatbread_1fad3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arepa",
+      "lavash",
+      "naan",
+      "pão sírio",
+      "pita",
+      "alimento",
+      "comida",
+      "pão",
+      "pão folha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAD3;",
+      "HTML dec": "&#129747;",
+      "URL escape code": "%F0%9F%AB%93",
+      "Punycode": "xn--o29h",
+      "Bytes (UTF-8)": "F0 9F AB 93",
+      "JavaScript, JSON, Java": "\\uD83E\\uDED3",
+      "C, C++, Python": "\\U0001fad3",
+      "CSS": "\\01FAD3",
+      "PHP, Ruby": "\\u{1FAD3}",
+      "Perl": "\\x{1FAD3}"
+    }
+  }
+}

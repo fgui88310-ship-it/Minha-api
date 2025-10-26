@@ -1,0 +1,98 @@
+{
+  "emoji": "😩",
+  "nome": "😩 Rosto desolado",
+  "categoria": "Weary Face",
+  "url": "https://emojigraph.org/pt/weary-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com os olhos fechados, sobrancelhas franzida, e um amplo e aberto franzir de testa, como se perturbada a ponto de desistir. Geralmente mostrado com dentes superiores e, por vezes, a língua.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/weary-face_1f629.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/weary-face_1f629.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cansado",
+      "rosto",
+      "rosto desolado",
+      "aborrecido",
+      "cansei",
+      "exausto",
+      "infeliz",
+      "perdi"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F629;",
+      "HTML dec": "&#128553;",
+      "URL escape code": "%F0%9F%98%A9",
+      "Punycode": "xn--k38h",
+      "Bytes (UTF-8)": "F0 9F 98 A9",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE29",
+      "C, C++, Python": "\\U0001f629",
+      "CSS": "\\01F629",
+      "PHP, Ruby": "\\u{1F629}",
+      "Perl": "\\x{1F629}"
+    }
+  }
+}

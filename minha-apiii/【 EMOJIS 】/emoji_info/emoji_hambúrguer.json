@@ -1,0 +1,94 @@
+{
+  "emoji": "🍔",
+  "nome": "🍔 Hambúrguer",
+  "categoria": "Hamburger",
+  "url": "https://emojigraph.org/pt/hamburger/",
+  "detalhes": {
+    "explicacao": "Um pão com um hambúrguer de carne, geralmente representado em um pão de gergelim com queijo, alface e tomate - a refeição americana mais popular. Frequentemente usado no contexto de alimentos e refeições. Oficialmente chamado Hambúrguer.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/hamburger_1f354.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/hamburger_1f354.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "búrguer",
+      "hambúrguer",
+      "cheese burguer",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F354;",
+      "HTML dec": "&#127828;",
+      "URL escape code": "%F0%9F%8D%94",
+      "Punycode": "xn--ui8h",
+      "Bytes (UTF-8)": "F0 9F 8D 94",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF54",
+      "C, C++, Python": "\\U0001f354",
+      "CSS": "\\01F354",
+      "PHP, Ruby": "\\u{1F354}",
+      "Perl": "\\x{1F354}"
+    }
+  }
+}

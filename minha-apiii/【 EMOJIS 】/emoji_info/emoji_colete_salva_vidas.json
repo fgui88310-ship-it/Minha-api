@@ -1,0 +1,69 @@
+{
+  "emoji": "🦺",
+  "nome": "🦺 Colete salva-vidas",
+  "categoria": "safety vest",
+  "url": "https://emojigraph.org/pt/safety-vest/",
+  "detalhes": {
+    "explicacao": "Uma colorida colete geralmente usado em canteiros de obras ou de áreas que requerem alta visibilidade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/safety-vest_1f9ba.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/safety-vest_1f9ba.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/safety-vest_1f9ba.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/safety-vest_1f9ba.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/safety-vest_1f9ba.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/safety-vest_1f9ba.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/safety-vest_1f9ba.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/safety-vest_1f9ba.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/safety-vest_1f9ba.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/safety-vest_1f9ba.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "colete",
+      "emergência",
+      "segurança"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9BA;",
+      "HTML dec": "&#129466;",
+      "URL escape code": "%F0%9F%A6%BA",
+      "Punycode": "xn--nu9h",
+      "Bytes (UTF-8)": "F0 9F A6 BA",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDBA",
+      "C, C++, Python": "\\U0001f9ba",
+      "CSS": "\\01F9BA",
+      "PHP, Ruby": "\\u{1F9BA}",
+      "Perl": "\\x{1F9BA}"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "emoji": "👌",
+  "nome": "👌 Sinal de ok",
+  "categoria": "ok hand",
+  "url": "https://emojigraph.org/pt/ok-hand/",
+  "detalhes": {
+    "explicacao": "Um gesto mostrando o dedo indicador e o polegar tocando a fazer um círculo aberto. Representa o \"eu estou bem\", ou \"sim, isso é correto / bom\".",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ok-hand_1f44c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ok-hand_1f44c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mão",
+      "ok",
+      "sinal",
+      "sinal de ok",
+      "beliscar",
+      "certo",
+      "concordo",
+      "ótimo",
+      "rude",
+      "sinalizando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F44C;",
+      "HTML dec": "&#128076;",
+      "URL escape code": "%F0%9F%91%8C",
+      "Punycode": "xn--xp8h",
+      "Bytes (UTF-8)": "F0 9F 91 8C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC4C",
+      "C, C++, Python": "\\U0001f44c",
+      "CSS": "\\01F44C",
+      "PHP, Ruby": "\\u{1F44C}",
+      "Perl": "\\x{1F44C}"
+    }
+  }
+}

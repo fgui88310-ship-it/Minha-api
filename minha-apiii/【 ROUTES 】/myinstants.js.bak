@@ -1,0 +1,23 @@
+// api/endpoints/myinstants.js
+import express from 'express';
+import { searchMyInstants } from '../【 SCRAPERS 】/myinstantsService.js';
+import { onlyEmojisRegex } from '../config.js';
+const router = express.Router();
+
+router.get('/', async (req, res, next) => {
+  const { query } = req.query;
+  if (!query) return res.status(400).json({ error: 'Passe ?query=' });
+  if (onlyEmojisRegex.test(query)) return res.status(400).json({ error: 'O campo nao pode ser somente emojis.' });
+  
+  try {
+    const results = await searchMyInstants(query);
+    if (!results || results.length === 0)
+      return res.status(404).json({ error: 'Nenhum áudio encontrado' });
+
+    res.json(results);
+  } catch (err) {
+    next(err);
+  }
+});
+
+export default router;

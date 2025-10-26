@@ -1,0 +1,96 @@
+{
+  "emoji": "",
+  "nome": "⛽ Posto de gasolina",
+  "categoria": "fuel pump",
+  "url": "https://emojigraph.org/pt/fuel-pump/",
+  "detalhes": {
+    "explicacao": "Uma bomba de combustível, utilizada para o preenchimento de um veículo com gás / gasolina.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fuel-pump_26fd.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/fuel-pump_26fd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "combustível",
+      "gasolina",
+      "posto",
+      "abastecer",
+      "álcool",
+      "bomba"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26FD;",
+      "HTML dec": "&#9981;",
+      "URL escape code": "%E2%9B%BD",
+      "Punycode": "xn--sbi",
+      "Bytes (UTF-8)": "E2 9B BD",
+      "JavaScript, JSON, Java": "\\u26FD",
+      "C, C++, Python": "\\u26FD",
+      "CSS": "\\26FD",
+      "PHP, Ruby": "\\u{26FD}",
+      "Perl": "\\x{26FD}"
+    }
+  }
+}

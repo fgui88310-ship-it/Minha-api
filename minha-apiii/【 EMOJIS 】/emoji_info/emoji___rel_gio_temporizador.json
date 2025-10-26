@@ -1,0 +1,68 @@
+{
+  "emoji": "",
+  "nome": "⏲️ Relógio temporizador",
+  "categoria": "timer clock",
+  "url": "https://emojigraph.org/pt/timer-clock/",
+  "detalhes": {
+    "explicacao": "O tempo! Um conjunto de temporizador de contagem regressiva e soar um alarme depois de um período designado de tempo, como usado na cozinha. A aparência varia de plataforma. Comumente utilizado para vários conteúdos relativos a tempo, incluindo contagens regressivas e prazos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/timer-clock_23f2-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/timer-clock_23f2-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/timer-clock_23f2-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/timer-clock_23f2-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/timer-clock_23f2-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/timer-clock_23f2-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/timer-clock_23f2-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/timer-clock_23f2-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/timer-clock_23f2-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/timer-clock_23f2-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cronômetro",
+      "relógio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x23F2;&#xFE0F;",
+      "HTML dec": "&#9202;&#65039;",
+      "URL escape code": "%E2%8F%B2%EF%B8%8F",
+      "Punycode": "xn--joh",
+      "Bytes (UTF-8)": "E2 8F B2 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u23F2\\uFE0F",
+      "C, C++, Python": "\\u23F2\\uFE0F",
+      "CSS": "\\23F2 \\FE0F",
+      "PHP, Ruby": "\\u{23F2}\\u{FE0F}",
+      "Perl": "\\x{23F2}\\x{FE0F}"
+    }
+  }
+}

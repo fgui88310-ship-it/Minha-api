@@ -1,0 +1,67 @@
+{
+  "emoji": "🇩🇰",
+  "nome": "🇩🇰 Bandeira: Dinamarca",
+  "categoria": "flag denmark",
+  "url": "https://emojigraph.org/pt/flag-denmark/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Dinamarca. Este símbolo é uma seqüência de caracteres 🇩 Símbolo Indicador Regional Letra D e 🇰 Símbolo Indicador Regional Letra K. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras DK em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-denmark_1f1e9-1f1f0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-denmark_1f1e9-1f1f0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-denmark_1f1e9-1f1f0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-denmark_1f1e9-1f1f0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-denmark_1f1e9-1f1f0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-denmark_1f1e9-1f1f0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-denmark_1f1e9-1f1f0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-denmark_1f1e9-1f1f0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-denmark_1f1e9-1f1f0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-denmark_1f1e9-1f1f0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E9;&#x1F1F0;",
+      "HTML dec": "&#127465;&#127472;",
+      "URL escape code": "%F0%9F%87%A9%F0%9F%87%B0",
+      "Punycode": "xn--h77hoa",
+      "Bytes (UTF-8)": "F0 9F 87 A9 F0 9F 87 B0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE9\\uD83C\\uDDF0",
+      "C, C++, Python": "\\U0001f1e9\\U0001f1f0",
+      "CSS": "\\01F1E9 \\01F1F0",
+      "PHP, Ruby": "\\u{1F1E9}\\u{1F1F0}",
+      "Perl": "\\x{1F1E9}\\x{1F1F0}"
+    }
+  }
+}

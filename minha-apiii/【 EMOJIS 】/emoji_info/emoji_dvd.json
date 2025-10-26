@@ -1,0 +1,97 @@
+{
+  "emoji": "📀",
+  "nome": "📀 DVD",
+  "categoria": "Dvd",
+  "url": "https://emojigraph.org/pt/dvd/",
+  "detalhes": {
+    "explicacao": "Um disco versátil digital (DVD), um tipo de disco óptico usado para reproduzir filmes antes do surgimento da tecnologia de streaming. Geralmente retratado em ouro, ainda que Facebook é cinza azulado, como um leitor de Blu-ray.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/dvd_1f4c0.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/dvd_1f4c0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "blu-ray",
+      "computador",
+      "disco",
+      "dvd",
+      "DVD",
+      "óptico",
+      "cd"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4C0;",
+      "HTML dec": "&#128192;",
+      "URL escape code": "%F0%9F%93%80",
+      "Punycode": "xn--8s8h",
+      "Bytes (UTF-8)": "F0 9F 93 80",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCC0",
+      "C, C++, Python": "\\U0001f4c0",
+      "CSS": "\\01F4C0",
+      "PHP, Ruby": "\\u{1F4C0}",
+      "Perl": "\\x{1F4C0}"
+    }
+  }
+}

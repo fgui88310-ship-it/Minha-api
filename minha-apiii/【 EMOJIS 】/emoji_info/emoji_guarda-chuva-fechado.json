@@ -1,0 +1,93 @@
+{
+  "emoji": "🌂",
+  "nome": "🌂 Guarda-chuva fechado",
+  "categoria": "Closed Umbrella",
+  "url": "https://emojigraph.org/pt/closed-umbrella/",
+  "detalhes": {
+    "explicacao": "Um guarda-chuva que está fechada, provavelmente como resultado do colapso-lo antes de entrar dentro de casa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/closed-umbrella_1f302.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/closed-umbrella_1f302.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chuva",
+      "chuvoso",
+      "guarda-chuva"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F302;",
+      "HTML dec": "&#127746;",
+      "URL escape code": "%F0%9F%8C%82",
+      "Punycode": "xn--ig8h",
+      "Bytes (UTF-8)": "F0 9F 8C 82",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF02",
+      "C, C++, Python": "\\U0001f302",
+      "CSS": "\\01F302",
+      "PHP, Ruby": "\\u{1F302}",
+      "Perl": "\\x{1F302}"
+    }
+  }
+}

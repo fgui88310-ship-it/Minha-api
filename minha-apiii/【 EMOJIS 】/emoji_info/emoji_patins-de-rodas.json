@@ -1,0 +1,64 @@
+{
+  "emoji": "🛼",
+  "nome": "🛼 Patins de rodas",
+  "categoria": "Roller Skate",
+  "url": "https://emojigraph.org/pt/roller-skate/",
+  "detalhes": {
+    "explicacao": "Patins foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/roller-skate_1f6fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/roller-skate_1f6fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/roller-skate_1f6fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/roller-skate_1f6fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/roller-skate_1f6fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/roller-skate_1f6fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/roller-skate_1f6fc.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/roller-skate_1f6fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "patins",
+      "patins de rodas",
+      "rodas",
+      "esporte",
+      "patinação",
+      "roller"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6FC;",
+      "HTML dec": "&#128764;",
+      "URL escape code": "%F0%9F%9B%BC",
+      "Punycode": "xn--l98h",
+      "Bytes (UTF-8)": "F0 9F 9B BC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEFC",
+      "C, C++, Python": "\\U0001f6fc",
+      "CSS": "\\01F6FC",
+      "PHP, Ruby": "\\u{1F6FC}",
+      "Perl": "\\x{1F6FC}"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "emoji": "🥩",
+  "nome": "🥩 Corte de carne",
+  "categoria": "Cut Of Meat",
+  "url": "https://emojigraph.org/pt/cut-of-meat/",
+  "detalhes": {
+    "explicacao": "Um corte de cozidas, carne vermelha, como uma T-bone ou olho de lombo bife, com a luz, branca de gordura de marmoreio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cut-of-meat_1f969.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cut-of-meat_1f969.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cut-of-meat_1f969.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cut-of-meat_1f969.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cut-of-meat_1f969.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cut-of-meat_1f969.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cut-of-meat_1f969.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cut-of-meat_1f969.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cut-of-meat_1f969.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cut-of-meat_1f969.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bife",
+      "corte de carne",
+      "carne",
+      "carne vermelha",
+      "costeleta",
+      "porco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F969;",
+      "HTML dec": "&#129385;",
+      "URL escape code": "%F0%9F%A5%A9",
+      "Punycode": "xn--cs9h",
+      "Bytes (UTF-8)": "F0 9F A5 A9",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD69",
+      "C, C++, Python": "\\U0001f969",
+      "CSS": "\\01F969",
+      "PHP, Ruby": "\\u{1F969}",
+      "Perl": "\\x{1F969}"
+    }
+  }
+}

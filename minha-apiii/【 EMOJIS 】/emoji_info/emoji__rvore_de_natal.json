@@ -1,0 +1,95 @@
+{
+  "emoji": "🎄",
+  "nome": "🎄 Árvore de natal",
+  "categoria": "christmas tree",
+  "url": "https://emojigraph.org/pt/christmas-tree/",
+  "detalhes": {
+    "explicacao": "Um clássico da árvore de Natal, um pinheiro decorado com luzes e enfeites para celebrar o Natal. Representado circularmente, variedades coloridas ornamentos e coberto com uma estrela amarela.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/christmas-tree_1f384.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/christmas-tree_1f384.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "árvore",
+      "árvore de natal",
+      "comemoração",
+      "Natal",
+      "pinheirinho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F384;",
+      "HTML dec": "&#127876;",
+      "URL escape code": "%F0%9F%8E%84",
+      "Punycode": "xn--7j8h",
+      "Bytes (UTF-8)": "F0 9F 8E 84",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF84",
+      "C, C++, Python": "\\U0001f384",
+      "CSS": "\\01F384",
+      "PHP, Ruby": "\\u{1F384}",
+      "Perl": "\\x{1F384}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇵🇬",
+  "nome": "🇵🇬 Bandeira: Papua-Nova Guiné",
+  "categoria": "flag papua new guinea",
+  "url": "https://emojigraph.org/pt/flag-papua-new-guinea/",
+  "detalhes": {
+    "explicacao": "A bandeira para o Papua Nova Guiné, que pode mostrar como as letras PG em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-papua-new-guinea_1f1f5-1f1ec.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-papua-new-guinea_1f1f5-1f1ec.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-papua-new-guinea_1f1f5-1f1ec.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-papua-new-guinea_1f1f5-1f1ec.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-papua-new-guinea_1f1f5-1f1ec.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-papua-new-guinea_1f1f5-1f1ec.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-papua-new-guinea_1f1f5-1f1ec.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-papua-new-guinea_1f1f5-1f1ec.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F5;&#x1F1EC;",
+      "HTML dec": "&#127477;&#127468;",
+      "URL escape code": "%F0%9F%87%B5%F0%9F%87%AC",
+      "Punycode": "xn--k77hra",
+      "Bytes (UTF-8)": "F0 9F 87 B5 F0 9F 87 AC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF5\\uD83C\\uDDEC",
+      "C, C++, Python": "\\U0001f1f5\\U0001f1ec",
+      "CSS": "\\01F1F5 \\01F1EC",
+      "PHP, Ruby": "\\u{1F1F5}\\u{1F1EC}",
+      "Perl": "\\x{1F1F5}\\x{1F1EC}"
+    }
+  }
+}

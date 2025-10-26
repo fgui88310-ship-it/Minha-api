@@ -1,0 +1,97 @@
+{
+  "emoji": "👦",
+  "nome": "👦 Menino",
+  "categoria": "Boy",
+  "url": "https://emojigraph.org/pt/boy/",
+  "detalhes": {
+    "explicacao": "O rosto de um menino, sorrindo. homem emoji no Android através do uso de um boné, e o iOS com a falta de pêlos faciais.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/boy_1f466.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/boy_1f466.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/boy_1f466.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/boy_1f466.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/boy_1f466.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/boy_1f466.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/boy_1f466.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/boy_1f466.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/boy_1f466.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/boy_1f466.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/boy_1f466.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/boy_1f466.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/boy_1f466.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/boy_1f466.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/boy_1f466.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/boy_1f466.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "jovem",
+      "menino",
+      "garoto",
+      "guri",
+      "loiro",
+      "pessoas",
+      "piá"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F466;",
+      "HTML dec": "&#128102;",
+      "URL escape code": "%F0%9F%91%A6",
+      "Punycode": "xn--oq8h",
+      "Bytes (UTF-8)": "F0 9F 91 A6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC66",
+      "C, C++, Python": "\\U0001f466",
+      "CSS": "\\01F466",
+      "PHP, Ruby": "\\u{1F466}",
+      "Perl": "\\x{1F466}"
+    }
+  }
+}

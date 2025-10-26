@@ -1,0 +1,93 @@
+{
+  "emoji": "🔖",
+  "nome": "🔖 Marcador de página",
+  "categoria": "bookmark",
+  "url": "https://emojigraph.org/pt/bookmark/",
+  "detalhes": {
+    "explicacao": "Um indicador, usado para marcar o seu lugar em um livro. Também pode representar favoritos de um navegador para internet. A aparência varia entre plataformas, mas, geralmente, é representado em um ângulo de 45°, como um fino, branco ou vermelho, faixa com um laço decorativo e design, tais como flores ou estrelas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bookmark_1f516.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bookmark_1f516.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "marcador",
+      "página",
+      "livro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F516;",
+      "HTML dec": "&#128278;",
+      "URL escape code": "%F0%9F%94%96",
+      "Punycode": "xn--pv8h",
+      "Bytes (UTF-8)": "F0 9F 94 96",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD16",
+      "C, C++, Python": "\\U0001f516",
+      "CSS": "\\01F516",
+      "PHP, Ruby": "\\u{1F516}",
+      "Perl": "\\x{1F516}"
+    }
+  }
+}

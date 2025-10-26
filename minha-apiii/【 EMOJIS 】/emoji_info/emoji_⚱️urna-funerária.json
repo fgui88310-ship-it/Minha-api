@@ -1,0 +1,71 @@
+{
+  "emoji": "",
+  "nome": "⚱️ Urna funerária",
+  "categoria": "Funeral Urn",
+  "url": "https://emojigraph.org/pt/funeral-urn/",
+  "detalhes": {
+    "explicacao": "Uma urna, como usado para manter o cremado, as cinzas dos mortos. A aparência varia, mas geralmente retratado como um coberto, bronze recipiente com um corpo arredondado e afilado pé.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/funeral-urn_26b1-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/funeral-urn_26b1-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/funeral-urn_26b1-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/funeral-urn_26b1-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/funeral-urn_26b1-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/funeral-urn_26b1-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/funeral-urn_26b1-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/funeral-urn_26b1-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/funeral-urn_26b1-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/funeral-urn_26b1-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cinzas",
+      "funeral",
+      "morte",
+      "urna",
+      "urna funerária"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26B1;&#xFE0F;",
+      "HTML dec": "&#9905;&#65039;",
+      "URL escape code": "%E2%9A%B1%EF%B8%8F",
+      "Punycode": "xn--m8h",
+      "Bytes (UTF-8)": "E2 9A B1 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26B1\\uFE0F",
+      "C, C++, Python": "\\u26B1\\uFE0F",
+      "CSS": "\\26B1 \\FE0F",
+      "PHP, Ruby": "\\u{26B1}\\u{FE0F}",
+      "Perl": "\\x{26B1}\\x{FE0F}"
+    }
+  }
+}

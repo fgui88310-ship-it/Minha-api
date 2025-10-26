@@ -1,0 +1,86 @@
+{
+  "emoji": "🌒",
+  "nome": "🌒 Lua crescente côncava",
+  "categoria": "Waxing Crescent Moon",
+  "url": "https://emojigraph.org/pt/waxing-crescent-moon/",
+  "detalhes": {
+    "explicacao": "Um quarto crescente (aparecendo para se tornar maior), o segundo dos oito fases da lua. Retrata a lua como um crateras disco, lado direito iluminado em uma fina, de ouro ou de prata crescente, o seu resto escuro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/waxing-crescent-moon_1f312.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/waxing-crescent-moon_1f312.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "côncava",
+      "crescente",
+      "lua",
+      "noite"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F312;",
+      "HTML dec": "&#127762;",
+      "URL escape code": "%F0%9F%8C%92",
+      "Punycode": "xn--yg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 92",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF12",
+      "C, C++, Python": "\\U0001f312",
+      "CSS": "\\01F312",
+      "PHP, Ruby": "\\u{1F312}",
+      "Perl": "\\x{1F312}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇼🇸",
+  "nome": "🇼🇸 Bandeira: Samoa",
+  "categoria": "flag samoa",
+  "url": "https://emojigraph.org/pt/flag-samoa/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Samoa. Este símbolo é uma seqüência de caracteres 🇼 Símbolo Indicador Regional Letra W e 🇸 Símbolo Indicador Regional Letra S. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras WS em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-samoa_1f1fc-1f1f8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-samoa_1f1fc-1f1f8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-samoa_1f1fc-1f1f8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-samoa_1f1fc-1f1f8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-samoa_1f1fc-1f1f8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-samoa_1f1fc-1f1f8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-samoa_1f1fc-1f1f8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-samoa_1f1fc-1f1f8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FC;&#x1F1F8;",
+      "HTML dec": "&#127484;&#127480;",
+      "URL escape code": "%F0%9F%87%BC%F0%9F%87%B8",
+      "Punycode": "xn--w77hha",
+      "Bytes (UTF-8)": "F0 9F 87 BC F0 9F 87 B8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFC\\uD83C\\uDDF8",
+      "C, C++, Python": "\\U0001f1fc\\U0001f1f8",
+      "CSS": "\\01F1FC \\01F1F8",
+      "PHP, Ruby": "\\u{1F1FC}\\u{1F1F8}",
+      "Perl": "\\x{1F1FC}\\x{1F1F8}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇽🇰",
+  "nome": "🇽🇰 Bandeira: Kosovo",
+  "categoria": "flag kosovo",
+  "url": "https://emojigraph.org/pt/flag-kosovo/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Kosovo. Este símbolo é uma seqüência de caracteres 🇽 Símbolo Indicador Regional Letra X e 🇰 Símbolo Indicador Regional Letra K. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras XK em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-kosovo_1f1fd-1f1f0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-kosovo_1f1fd-1f1f0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-kosovo_1f1fd-1f1f0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-kosovo_1f1fd-1f1f0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-kosovo_1f1fd-1f1f0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-kosovo_1f1fd-1f1f0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-kosovo_1f1fd-1f1f0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-kosovo_1f1fd-1f1f0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FD;&#x1F1F0;",
+      "HTML dec": "&#127485;&#127472;",
+      "URL escape code": "%F0%9F%87%BD%F0%9F%87%B0",
+      "Punycode": "xn--o77hza",
+      "Bytes (UTF-8)": "F0 9F 87 BD F0 9F 87 B0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFD\\uD83C\\uDDF0",
+      "C, C++, Python": "\\U0001f1fd\\U0001f1f0",
+      "CSS": "\\01F1FD \\01F1F0",
+      "PHP, Ruby": "\\u{1F1FD}\\u{1F1F0}",
+      "Perl": "\\x{1F1FD}\\x{1F1F0}"
+    }
+  }
+}

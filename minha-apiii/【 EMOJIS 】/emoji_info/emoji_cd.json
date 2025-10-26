@@ -1,0 +1,97 @@
+{
+  "emoji": "💿",
+  "nome": "💿 Cd",
+  "categoria": "Optical Disk",
+  "url": "https://emojigraph.org/pt/optical-disk/",
+  "detalhes": {
+    "explicacao": "Uma prata de disco óptico, como um CD ou DVD, usado para tocar música ou de filmes antes da ascensão da tecnologia de streaming. Comumente usado para representar CDs, DVDs, Blu-rays, e relacionadas com o cinema e a música de conteúdo, especialmente álbuns.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/optical-disk_1f4bf.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/optical-disk_1f4bf.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cd",
+      "computador",
+      "disco",
+      "óptico",
+      "blu-ray",
+      "CD",
+      "DVD"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4BF;",
+      "HTML dec": "&#128191;",
+      "URL escape code": "%F0%9F%92%BF",
+      "Punycode": "xn--7s8h",
+      "Bytes (UTF-8)": "F0 9F 92 BF",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCBF",
+      "C, C++, Python": "\\U0001f4bf",
+      "CSS": "\\01F4BF",
+      "PHP, Ruby": "\\u{1F4BF}",
+      "Perl": "\\x{1F4BF}"
+    }
+  }
+}

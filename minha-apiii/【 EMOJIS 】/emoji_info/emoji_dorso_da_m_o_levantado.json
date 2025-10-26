@@ -1,0 +1,71 @@
+{
+  "emoji": "🤚",
+  "nome": "🤚 Dorso da mão levantado",
+  "categoria": "raised back of hand",
+  "url": "https://emojigraph.org/pt/raised-back-of-hand/",
+  "detalhes": {
+    "explicacao": "Uma mão levantada, mostrando o lado de trás da palma da mão. Pode ser emparelhado com a frente virada para mão levantada emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/raised-back-of-hand_1f91a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/raised-back-of-hand_1f91a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/raised-back-of-hand_1f91a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/raised-back-of-hand_1f91a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/raised-back-of-hand_1f91a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/raised-back-of-hand_1f91a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/raised-back-of-hand_1f91a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/raised-back-of-hand_1f91a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/raised-back-of-hand_1f91a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/raised-back-of-hand_1f91a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "levantada",
+      "mão",
+      "palma",
+      "pare",
+      "para tudo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F91A;",
+      "HTML dec": "&#129306;",
+      "URL escape code": "%F0%9F%A4%9A",
+      "Punycode": "xn--2p9h",
+      "Bytes (UTF-8)": "F0 9F A4 9A",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD1A",
+      "C, C++, Python": "\\U0001f91a",
+      "CSS": "\\01F91A",
+      "PHP, Ruby": "\\u{1F91A}",
+      "Perl": "\\x{1F91A}"
+    }
+  }
+}

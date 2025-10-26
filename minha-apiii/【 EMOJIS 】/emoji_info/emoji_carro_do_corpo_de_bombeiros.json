@@ -1,0 +1,95 @@
+{
+  "emoji": "🚒",
+  "nome": "🚒 Carro do corpo de bombeiros",
+  "categoria": "fire engine",
+  "url": "https://emojigraph.org/pt/fire-engine/",
+  "detalhes": {
+    "explicacao": "Um vermelho caminhão de bombeiros, uma parte essencial dos serviços de emergência, junto com um carro de polícia ou ambulância.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fire-engine_1f692.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/fire-engine_1f692.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carro",
+      "fogo",
+      "veículo",
+      "bombeiro",
+      "incêndio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F692;",
+      "HTML dec": "&#128658;",
+      "URL escape code": "%F0%9F%9A%92",
+      "Punycode": "xn--k68h",
+      "Bytes (UTF-8)": "F0 9F 9A 92",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE92",
+      "C, C++, Python": "\\U0001f692",
+      "CSS": "\\01F692",
+      "PHP, Ruby": "\\u{1F692}",
+      "Perl": "\\x{1F692}"
+    }
+  }
+}

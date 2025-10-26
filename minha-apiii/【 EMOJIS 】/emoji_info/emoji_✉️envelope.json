@@ -1,0 +1,95 @@
+{
+  "emoji": "",
+  "nome": "✉️ Envelope",
+  "categoria": "Envelope",
+  "url": "https://emojigraph.org/pt/envelope/",
+  "detalhes": {
+    "explicacao": "As costas de um envelope, como é usado para enviar uma carta ou um cartão na caixa de correio. Geralmente representado em branco, embora no Google seja amarelo. Utilizado para vários conteúdos relativos a correios e mensagens, incluindo e-mail.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/envelope_2709-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/envelope_2709-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carta",
+      "correspondência",
+      "e-mail",
+      "email",
+      "envelope"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2709;&#xFE0F;",
+      "HTML dec": "&#9993;&#65039;",
+      "URL escape code": "%E2%9C%89%EF%B8%8F",
+      "Punycode": "xn--4bi",
+      "Bytes (UTF-8)": "E2 9C 89 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2709\\uFE0F",
+      "C, C++, Python": "\\u2709\\uFE0F",
+      "CSS": "\\2709 \\FE0F",
+      "PHP, Ruby": "\\u{2709}\\u{FE0F}",
+      "Perl": "\\x{2709}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "🐭",
+  "nome": "🐭 Rosto de camundongo",
+  "categoria": "mouse face",
+  "url": "https://emojigraph.org/pt/mouse-face/",
+  "detalhes": {
+    "explicacao": "Um amigável, cartoon-estilo rosto de um rato, olhando para a frente. Geralmente retratado como um cinza ou branco mouse face com a grande e redonda, orelhas, cor-de-rosa, apontou o nariz, e o whiskers.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/mouse-face_1f42d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/mouse-face_1f42d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "camundongo",
+      "rosto",
+      "ratinho",
+      "rato"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F42D;",
+      "HTML dec": "&#128045;",
+      "URL escape code": "%F0%9F%90%AD",
+      "Punycode": "xn--1o8h",
+      "Bytes (UTF-8)": "F0 9F 90 AD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC2D",
+      "C, C++, Python": "\\U0001f42d",
+      "CSS": "\\01F42D",
+      "PHP, Ruby": "\\u{1F42D}",
+      "Perl": "\\x{1F42D}"
+    }
+  }
+}

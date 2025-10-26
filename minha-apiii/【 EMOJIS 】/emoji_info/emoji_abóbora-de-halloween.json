@@ -1,0 +1,96 @@
+{
+  "emoji": "🎃",
+  "nome": "🎃 Abóbora de halloween",
+  "categoria": "Jack O Lantern",
+  "url": "https://emojigraph.org/pt/jack-o-lantern/",
+  "detalhes": {
+    "explicacao": "Uma laranja abóbora esculpida em forma de um rosto e comumente conhecido como um Jack-o'-lantern*. Ver também o dia das bruxas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/jack-o-lantern_1f383.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/jack-o-lantern_1f383.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "abóbora",
+      "comemoração",
+      "halloween",
+      "jack",
+      "lanterna",
+      "dia das bruxas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F383;",
+      "HTML dec": "&#127875;",
+      "URL escape code": "%F0%9F%8E%83",
+      "Punycode": "xn--6j8h",
+      "Bytes (UTF-8)": "F0 9F 8E 83",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF83",
+      "C, C++, Python": "\\U0001f383",
+      "CSS": "\\01F383",
+      "PHP, Ruby": "\\u{1F383}",
+      "Perl": "\\x{1F383}"
+    }
+  }
+}

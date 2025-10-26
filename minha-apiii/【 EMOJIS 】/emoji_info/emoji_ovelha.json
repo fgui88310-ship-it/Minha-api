@@ -1,0 +1,94 @@
+{
+  "emoji": "🐑",
+  "nome": "🐑 Ovelha",
+  "categoria": "Ewe",
+  "url": "https://emojigraph.org/pt/ewe/",
+  "detalhes": {
+    "explicacao": "Uma ovelha, ou ovelha fêmea criados para a sua lã, carne e leite e sem a espiral de chifres de um carneiro. Retratado no perfil completo e todas as quatro patas viradas para a esquerda, branco polar e preto, com pele cinza ou branca.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ewe_1f411.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/ewe_1f411.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "ovelha",
+      "fazenda",
+      "lã"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F411;",
+      "HTML dec": "&#128017;",
+      "URL escape code": "%F0%9F%90%91",
+      "Punycode": "xn--8n8h",
+      "Bytes (UTF-8)": "F0 9F 90 91",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC11",
+      "C, C++, Python": "\\U0001f411",
+      "CSS": "\\01F411",
+      "PHP, Ruby": "\\u{1F411}",
+      "Perl": "\\x{1F411}"
+    }
+  }
+}

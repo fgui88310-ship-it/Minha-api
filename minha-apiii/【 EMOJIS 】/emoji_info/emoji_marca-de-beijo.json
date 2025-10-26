@@ -1,0 +1,94 @@
+{
+  "emoji": "💋",
+  "nome": "💋 Marca de beijo",
+  "categoria": "Kiss Mark",
+  "url": "https://emojigraph.org/pt/kiss-mark/",
+  "detalhes": {
+    "explicacao": "A marca deixada após uma pressão em beijo com batom brilhante. Usado no lugar de 'xxx' (beijos), ou para enviar um beijo para alguém. Mais sedutor do que o beijo emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/kiss-mark_1f48b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/kiss-mark_1f48b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "beijo",
+      "lábios",
+      "marca de beijo",
+      "romance"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F48B;",
+      "HTML dec": "&#128139;",
+      "URL escape code": "%F0%9F%92%8B",
+      "Punycode": "xn--qr8h",
+      "Bytes (UTF-8)": "F0 9F 92 8B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC8B",
+      "C, C++, Python": "\\U0001f48b",
+      "CSS": "\\01F48B",
+      "PHP, Ruby": "\\u{1F48B}",
+      "Perl": "\\x{1F48B}"
+    }
+  }
+}

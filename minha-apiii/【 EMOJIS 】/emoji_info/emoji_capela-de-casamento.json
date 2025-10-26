@@ -1,0 +1,93 @@
+{
+  "emoji": "💒",
+  "nome": "💒 Capela de casamento",
+  "categoria": "Wedding",
+  "url": "https://emojigraph.org/pt/wedding/",
+  "detalhes": {
+    "explicacao": "Um emoji para retratar um casamento, apresentada pela maioria dos fornecedores como uma igreja Cristã e uma cruz ou um sino no prédio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/wedding_1f492.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/wedding_1f492.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "capela",
+      "casamento",
+      "romance"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F492;",
+      "HTML dec": "&#128146;",
+      "URL escape code": "%F0%9F%92%92",
+      "Punycode": "xn--xr8h",
+      "Bytes (UTF-8)": "F0 9F 92 92",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC92",
+      "C, C++, Python": "\\U0001f492",
+      "CSS": "\\01F492",
+      "PHP, Ruby": "\\u{1F492}",
+      "Perl": "\\x{1F492}"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🔧 Mecânico",
+  "categoria": "man mechanic",
+  "url": "https://emojigraph.org/pt/man-mechanic/",
+  "detalhes": {
+    "explicacao": "O Homem Mecânico emoji é uma sequência do 👨 Homem e 🔧 Chave emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-mechanic_1f468-200d-1f527.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-mechanic_1f468-200d-1f527.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-mechanic_1f468-200d-1f527.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-mechanic_1f468-200d-1f527.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-mechanic_1f468-200d-1f527.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-mechanic_1f468-200d-1f527.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-mechanic_1f468-200d-1f527.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-mechanic_1f468-200d-1f527.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-mechanic_1f468-200d-1f527.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-mechanic_1f468-200d-1f527.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "eletricista",
+      "encanador",
+      "homem",
+      "mecânico"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F527;",
+      "HTML dec": "&#128104;&#8205;&#128295;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%94%A7",
+      "Punycode": "xn--qq8h4l",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 94 A7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83D\\uDD27",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f527",
+      "CSS": "\\01F468 \\200D \\01F527",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F527}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F527}"
+    }
+  }
+}

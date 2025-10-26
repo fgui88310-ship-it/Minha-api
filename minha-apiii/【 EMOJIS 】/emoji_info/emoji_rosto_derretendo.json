@@ -1,0 +1,80 @@
+{
+  "emoji": "🫠",
+  "nome": "🫠 Rosto derretendo",
+  "categoria": "melting face",
+  "url": "https://emojigraph.org/pt/melting-face/",
+  "detalhes": {
+    "explicacao": "Um rosto sorridente amarelo como o ☺️ Rosto sorridente, mas derretido no estado líquido ou macio na parte inferior. Pode transmitir duas emoções contraditórias simultaneamente. Pode ser usado para esconder a dor ou a tristeza por trás do sorriso ou descrever uma reação ao clima extremamente quente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/melting-face_1fae0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/melting-face_1fae0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/melting-face_1fae0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/melting-face_1fae0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/melting-face_1fae0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/melting-face_1fae0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/melting-face_1fae0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/melting-face_1fae0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/melting-face_1fae0.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/melting-face_1fae0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "derreter",
+      "desaparecer",
+      "dissolver",
+      "líquido",
+      "calor",
+      "derretendo",
+      "envergonhada",
+      "envergonhado",
+      "haha",
+      "quente",
+      "sarcasmo",
+      "sarcástica",
+      "sarcástico",
+      "smiley"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAE0;",
+      "HTML dec": "&#129760;",
+      "URL escape code": "%F0%9F%AB%A0",
+      "Punycode": "xn--129h",
+      "Bytes (UTF-8)": "f0 9f ab a0",
+      "JavaScript, JSON, Java": "\\ud83e\\udee0",
+      "C, C++, Python": "\\U0001fae0",
+      "CSS": "\\01FAE0",
+      "PHP, Ruby": "\\u{1FAE0}",
+      "Perl": "\\x{1FAE0}"
+    }
+  }
+}

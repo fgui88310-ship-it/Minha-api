@@ -1,0 +1,87 @@
+{
+  "emoji": "🌳",
+  "nome": "🌳 Árvore caidiça",
+  "categoria": "deciduous tree",
+  "url": "https://emojigraph.org/pt/deciduous-tree/",
+  "detalhes": {
+    "explicacao": "Uma árvore caducifólia, cujas folhas mudam de cor antes de caírem como 🍂 Folha caída, no outono. Desenhada como uma árvore genérica com copa redonda, exuberante, folhosa e tronco marrom.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/deciduous-tree_1f333.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/deciduous-tree_1f333.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "árvore",
+      "caidiça",
+      "desfolha",
+      "árvore cheia",
+      "natureza"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F333;",
+      "HTML dec": "&#127795;",
+      "URL escape code": "%F0%9F%8C%B3",
+      "Punycode": "xn--wh8h",
+      "Bytes (UTF-8)": "F0 9F 8C B3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF33",
+      "C, C++, Python": "\\U0001f333",
+      "CSS": "\\01F333",
+      "PHP, Ruby": "\\u{1F333}",
+      "Perl": "\\x{1F333}"
+    }
+  }
+}

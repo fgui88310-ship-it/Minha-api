@@ -1,0 +1,96 @@
+{
+  "emoji": "👷",
+  "nome": "👷 Trabalhador de construção civil",
+  "categoria": "construction worker",
+  "url": "https://emojigraph.org/pt/construction-worker/",
+  "detalhes": {
+    "explicacao": "Um trabalhador da construção civil, vestindo um capacete (capacete de segurança). Tem uma alta visibilidade colete ou um martelo em algumas variações.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/construction-worker_1f477.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/construction-worker_1f477.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chapéu",
+      "construção",
+      "trabalhador",
+      "capacete",
+      "construir",
+      "pessoa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F477;",
+      "HTML dec": "&#128119;",
+      "URL escape code": "%F0%9F%91%B7",
+      "Punycode": "xn--5q8h",
+      "Bytes (UTF-8)": "F0 9F 91 B7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC77",
+      "C, C++, Python": "\\U0001f477",
+      "CSS": "\\01F477",
+      "PHP, Ruby": "\\u{1F477}",
+      "Perl": "\\x{1F477}"
+    }
+  }
+}

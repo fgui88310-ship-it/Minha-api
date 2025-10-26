@@ -1,0 +1,99 @@
+{
+  "emoji": "💁",
+  "nome": "💁 Pessoa com a palma virada para cima",
+  "categoria": "person tipping hand",
+  "url": "https://emojigraph.org/pt/person-tipping-hand/",
+  "detalhes": {
+    "explicacao": "Um balcão de informações pessoa, anteriormente representado em várias plataformas, como uma mulher segurando a mão dela como se ela fosse uma garçonete carregando uma invisível bandeja de bebidas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-tipping-hand_1f481.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/person-tipping-hand_1f481.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ajuda",
+      "informações",
+      "mão",
+      "diva",
+      "divo",
+      "fala sério",
+      "fofoca",
+      "pessoa",
+      "sarcasmo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F481;",
+      "HTML dec": "&#128129;",
+      "URL escape code": "%F0%9F%92%81",
+      "Punycode": "xn--gr8h",
+      "Bytes (UTF-8)": "F0 9F 92 81",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC81",
+      "C, C++, Python": "\\U0001f481",
+      "CSS": "\\01F481",
+      "PHP, Ruby": "\\u{1F481}",
+      "Perl": "\\x{1F481}"
+    }
+  }
+}

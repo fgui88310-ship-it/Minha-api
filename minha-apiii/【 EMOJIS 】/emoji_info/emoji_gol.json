@@ -1,0 +1,72 @@
+{
+  "emoji": "🥅",
+  "nome": "🥅 Gol",
+  "categoria": "Goal Net",
+  "url": "https://emojigraph.org/pt/goal-net/",
+  "detalhes": {
+    "explicacao": "Objetivo Net foi aprovado como parte do Unicode 9.0 em 2016e acrescentou para o Emoji 3.0 em 2016.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/goal-net_1f945.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/goal-net_1f945.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/goal-net_1f945.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/goal-net_1f945.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/goal-net_1f945.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/goal-net_1f945.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/goal-net_1f945.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/goal-net_1f945.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/goal-net_1f945.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/goal-net_1f945.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esporte",
+      "gol",
+      "rede",
+      "futebol",
+      "goleira",
+      "goleiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F945;",
+      "HTML dec": "&#129349;",
+      "URL escape code": "%F0%9F%A5%85",
+      "Punycode": "xn--br9h",
+      "Bytes (UTF-8)": "F0 9F A5 85",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD45",
+      "C, C++, Python": "\\U0001f945",
+      "CSS": "\\01F945",
+      "PHP, Ruby": "\\u{1F945}",
+      "Perl": "\\x{1F945}"
+    }
+  }
+}

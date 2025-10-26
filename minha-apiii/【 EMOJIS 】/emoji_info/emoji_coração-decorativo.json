@@ -1,0 +1,93 @@
+{
+  "emoji": "💟",
+  "nome": "💟 Coração decorativo",
+  "categoria": "Heart Decoration",
+  "url": "https://emojigraph.org/pt/heart-decoration/",
+  "detalhes": {
+    "explicacao": "Decorativo de coração que exibe em dispositivos da Apple como um branco em forma de coração recorte em cor-de-rosa ou roxo roundrect.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/heart-decoration_1f49f.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/heart-decoration_1f49f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coração",
+      "amor",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F49F;",
+      "HTML dec": "&#128159;",
+      "URL escape code": "%F0%9F%92%9F",
+      "Punycode": "xn--bs8h",
+      "Bytes (UTF-8)": "F0 9F 92 9F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC9F",
+      "C, C++, Python": "\\U0001f49f",
+      "CSS": "\\01F49F",
+      "PHP, Ruby": "\\u{1F49F}",
+      "Perl": "\\x{1F49F}"
+    }
+  }
+}

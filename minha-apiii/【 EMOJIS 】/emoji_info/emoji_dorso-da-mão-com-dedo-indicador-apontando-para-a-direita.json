@@ -1,0 +1,93 @@
+{
+  "emoji": "👉",
+  "nome": "👉 Dorso da mão com dedo indicador apontando para a direita",
+  "categoria": "Backhand Index Pointing Right",
+  "url": "https://emojigraph.org/pt/backhand-index-pointing-right/",
+  "detalhes": {
+    "explicacao": "O dedo indicador apontando para a direita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/backhand-index-pointing-right_1f449.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/backhand-index-pointing-right_1f449.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "costas da mão",
+      "dedo",
+      "dedo indicador"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F449;",
+      "HTML dec": "&#128073;",
+      "URL escape code": "%F0%9F%91%89",
+      "Punycode": "xn--up8h",
+      "Bytes (UTF-8)": "F0 9F 91 89",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC49",
+      "C, C++, Python": "\\U0001f449",
+      "CSS": "\\01F449",
+      "PHP, Ruby": "\\u{1F449}",
+      "Perl": "\\x{1F449}"
+    }
+  }
+}

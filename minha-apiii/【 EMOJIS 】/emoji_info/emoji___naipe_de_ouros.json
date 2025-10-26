@@ -1,0 +1,96 @@
+{
+  "emoji": "",
+  "nome": "♦️ Naipe de ouros",
+  "categoria": "diamond suit",
+  "url": "https://emojigraph.org/pt/diamond-suit/",
+  "detalhes": {
+    "explicacao": "Um símbolo de diamante emoji, que é usado em jogos de cartão para o naipe de ouros diamantes.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/diamond-suit_2666-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/diamond-suit_2666-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "baralho",
+      "carta",
+      "jogo",
+      "naipe",
+      "naipe de ouros",
+      "ouro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2666;&#xFE0F;",
+      "HTML dec": "&#9830;&#65039;",
+      "URL escape code": "%E2%99%A6%EF%B8%8F",
+      "Punycode": "xn--h6h",
+      "Bytes (UTF-8)": "E2 99 A6 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2666\\uFE0F",
+      "C, C++, Python": "\\u2666\\uFE0F",
+      "CSS": "\\2666 \\FE0F",
+      "PHP, Ruby": "\\u{2666}\\u{FE0F}",
+      "Perl": "\\x{2666}\\x{FE0F}"
+    }
+  }
+}

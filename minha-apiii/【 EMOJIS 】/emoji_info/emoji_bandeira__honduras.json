@@ -1,0 +1,59 @@
+{
+  "emoji": "🇭🇳",
+  "nome": "🇭🇳 Bandeira: Honduras",
+  "categoria": "flag honduras",
+  "url": "https://emojigraph.org/pt/flag-honduras/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Honduras. Este símbolo é uma seqüência de caracteres 🇭 Símbolo Indicador Regional Letra H e 🇳 Símbolo Indicador Regional Letra N. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras HN em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-honduras_1f1ed-1f1f3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-honduras_1f1ed-1f1f3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-honduras_1f1ed-1f1f3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-honduras_1f1ed-1f1f3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-honduras_1f1ed-1f1f3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-honduras_1f1ed-1f1f3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-honduras_1f1ed-1f1f3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-honduras_1f1ed-1f1f3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1ED;&#x1F1F3;",
+      "HTML dec": "&#127469;&#127475;",
+      "URL escape code": "%F0%9F%87%AD%F0%9F%87%B3",
+      "Punycode": "xn--l77hma",
+      "Bytes (UTF-8)": "F0 9F 87 AD F0 9F 87 B3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDED\\uD83C\\uDDF3",
+      "C, C++, Python": "\\U0001f1ed\\U0001f1f3",
+      "CSS": "\\01F1ED \\01F1F3",
+      "PHP, Ruby": "\\u{1F1ED}\\u{1F1F3}",
+      "Perl": "\\x{1F1ED}\\x{1F1F3}"
+    }
+  }
+}

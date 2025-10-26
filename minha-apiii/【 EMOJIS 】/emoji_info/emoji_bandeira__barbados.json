@@ -1,0 +1,59 @@
+{
+  "emoji": "🇧🇧",
+  "nome": "🇧🇧 Bandeira: Barbados",
+  "categoria": "flag barbados",
+  "url": "https://emojigraph.org/pt/flag-barbados/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Barbados. Este símbolo é uma seqüência de caracteres 🇧 Símbolo Indicador Regional Letra B e 🇧 Símbolo Indicador Regional Letra B. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras BB em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-barbados_1f1e7-1f1e7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-barbados_1f1e7-1f1e7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-barbados_1f1e7-1f1e7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-barbados_1f1e7-1f1e7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-barbados_1f1e7-1f1e7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-barbados_1f1e7-1f1e7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-barbados_1f1e7-1f1e7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-barbados_1f1e7-1f1e7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1E7;",
+      "HTML dec": "&#127463;&#127463;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%A7",
+      "Punycode": "xn--f77ha",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 A7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDE7",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1e7",
+      "CSS": "\\01F1E7 \\01F1E7",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1E7}",
+      "Perl": "\\x{1F1E7}\\x{1F1E7}"
+    }
+  }
+}

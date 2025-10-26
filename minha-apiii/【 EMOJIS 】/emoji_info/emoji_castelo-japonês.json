@@ -1,0 +1,96 @@
+{
+  "emoji": "🏯",
+  "nome": "🏯 Castelo japonês",
+  "categoria": "Japanese Castle",
+  "url": "https://emojigraph.org/pt/japanese-castle/",
+  "detalhes": {
+    "explicacao": "Um tradicional Japonês Castelo, geralmente feitas de pedra e madeira.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/japanese-castle_1f3ef.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/japanese-castle_1f3ef.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "castelo",
+      "castelo japonês",
+      "prédio",
+      "japonês",
+      "pagoda",
+      "pagode"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3EF;",
+      "HTML dec": "&#127983;",
+      "URL escape code": "%F0%9F%8F%AF",
+      "Punycode": "xn--9m8h",
+      "Bytes (UTF-8)": "F0 9F 8F AF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFEF",
+      "C, C++, Python": "\\U0001f3ef",
+      "CSS": "\\01F3EF",
+      "PHP, Ruby": "\\u{1F3EF}",
+      "Perl": "\\x{1F3EF}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emoji": "",
+  "nome": "⛓️ Correntes",
+  "categoria": "Chains",
+  "url": "https://emojigraph.org/pt/chains/",
+  "detalhes": {
+    "explicacao": "Em paralelo, os comprimentos de corrente de prata. Ocasionalmente usado como um ícone antes de uma hiperligação ou para uma conexão metafórica ou correntes, por exemplo, a gíria off o chains.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/chains_26d3-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/chains_26d3-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/chains_26d3-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/chains_26d3-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/chains_26d3-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/chains_26d3-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/chains_26d3-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/chains_26d3-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/chains_26d3-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/chains_26d3-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "corrente",
+      "correntes"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26D3;&#xFE0F;",
+      "HTML dec": "&#9939;&#65039;",
+      "URL escape code": "%E2%9B%93%EF%B8%8F",
+      "Punycode": "xn--l9h",
+      "Bytes (UTF-8)": "E2 9B 93 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26D3\\uFE0F",
+      "C, C++, Python": "\\u26D3\\uFE0F",
+      "CSS": "\\26D3 \\FE0F",
+      "PHP, Ruby": "\\u{26D3}\\u{FE0F}",
+      "Perl": "\\x{26D3}\\x{FE0F}"
+    }
+  }
+}

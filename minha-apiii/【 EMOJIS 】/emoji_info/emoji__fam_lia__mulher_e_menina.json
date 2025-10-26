@@ -1,0 +1,73 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍👧 Família: mulher e menina",
+  "categoria": "family woman girl",
+  "url": "https://emojigraph.org/pt/family-woman-girl/",
+  "detalhes": {
+    "explicacao": "A Família: Mulher, Menina, emoji é uma sequência do 👩 Mulher e 👧 Menina emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/family-woman-girl_1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/family-woman-girl_1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/family-woman-girl_1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/family-woman-girl_1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/family-woman-girl_1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/family-woman-girl_1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/family-woman-girl_1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/family-woman-girl_1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/family-woman-girl_1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/family-woman-girl_1f469-200d-1f467.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "família",
+      "filho",
+      "mãe",
+      "menina",
+      "mulher",
+      "pai",
+      "pessoas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F467;",
+      "HTML dec": "&#128105;&#8205;&#128103;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7",
+      "Punycode": "xn--pq8hd",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F 91 A7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83D\\uDC67",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f467",
+      "CSS": "\\01F469 \\200D \\01F467",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F467}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F467}"
+    }
+  }
+}

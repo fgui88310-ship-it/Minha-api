@@ -1,0 +1,68 @@
+{
+  "emoji": "🏚",
+  "nome": "🏚️ Casa abandonada",
+  "categoria": "derelict house",
+  "url": "https://emojigraph.org/pt/derelict-house/",
+  "detalhes": {
+    "explicacao": "Uma casa que está desocupado, e tornou-se abandonados. Em um estado de abandono.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/derelict-house_1f3da-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/derelict-house_1f3da-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/derelict-house_1f3da-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/derelict-house_1f3da-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/derelict-house_1f3da-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/derelict-house_1f3da-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/derelict-house_1f3da-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/derelict-house_1f3da-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/derelict-house_1f3da-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/derelict-house_1f3da-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "casa",
+      "casa abandonada"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3DA;&#xFE0F;",
+      "HTML dec": "&#127962;&#65039;",
+      "URL escape code": "%F0%9F%8F%9A%EF%B8%8F",
+      "Punycode": "xn--om8h",
+      "Bytes (UTF-8)": "F0 9F 8F 9A EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFDA\\uFE0F",
+      "C, C++, Python": "\\U0001f3da\\uFE0F",
+      "CSS": "\\01F3DA \\FE0F",
+      "PHP, Ruby": "\\u{1F3DA}\\u{FE0F}",
+      "Perl": "\\x{1F3DA}\\x{FE0F}"
+    }
+  }
+}

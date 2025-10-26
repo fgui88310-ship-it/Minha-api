@@ -1,0 +1,93 @@
+{
+  "emoji": "🎸",
+  "nome": "🎸 Guitarra",
+  "categoria": "Guitar",
+  "url": "https://emojigraph.org/pt/guitar/",
+  "detalhes": {
+    "explicacao": "Uma guitarra, que é geralmente apresentado como uma guitarra elétrica e, geralmente, de um modo geral, vermelho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/guitar_1f3b8.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/guitar_1f3b8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "guitarra",
+      "instrumento",
+      "música"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3B8;",
+      "HTML dec": "&#127928;",
+      "URL escape code": "%F0%9F%8E%B8",
+      "Punycode": "xn--pl8h",
+      "Bytes (UTF-8)": "F0 9F 8E B8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFB8",
+      "C, C++, Python": "\\U0001f3b8",
+      "CSS": "\\01F3B8",
+      "PHP, Ruby": "\\u{1F3B8}",
+      "Perl": "\\x{1F3B8}"
+    }
+  }
+}

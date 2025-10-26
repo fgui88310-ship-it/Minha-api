@@ -1,0 +1,71 @@
+{
+  "emoji": "🧵",
+  "nome": "🧵 Carretel",
+  "categoria": "Thread",
+  "url": "https://emojigraph.org/pt/thread/",
+  "detalhes": {
+    "explicacao": "Um carretel de linha, como o usado para a costura. Thread cor varia entre plataformas, embora muitas vezes representado em vermelho ou azul e em um carretel de madeira. Às vezes, mostrado com um fim de desvendar.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/thread_1f9f5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/thread_1f9f5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/thread_1f9f5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/thread_1f9f5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/thread_1f9f5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/thread_1f9f5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/thread_1f9f5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/thread_1f9f5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/thread_1f9f5.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/thread_1f9f5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "agulha",
+      "barbante",
+      "carretel",
+      "costura",
+      "linha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9F5;",
+      "HTML dec": "&#129525;",
+      "URL escape code": "%F0%9F%A7%B5",
+      "Punycode": "xn--cw9h",
+      "Bytes (UTF-8)": "F0 9F A7 B5",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDF5",
+      "C, C++, Python": "\\U0001f9f5",
+      "CSS": "\\01F9F5",
+      "PHP, Ruby": "\\u{1F9F5}",
+      "Perl": "\\x{1F9F5}"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "emoji": "🦣",
+  "nome": "🦣 Mamute",
+  "categoria": "Mammoth",
+  "url": "https://emojigraph.org/pt/mammoth/",
+  "detalhes": {
+    "explicacao": "Mamute foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mammoth_1f9a3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mammoth_1f9a3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mammoth_1f9a3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mammoth_1f9a3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mammoth_1f9a3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mammoth_1f9a3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mammoth_1f9a3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mammoth_1f9a3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "extinto",
+      "grande",
+      "lanoso",
+      "mamute",
+      "presa",
+      "animal",
+      "pré-histórico"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9A3;",
+      "HTML dec": "&#129443;",
+      "URL escape code": "%F0%9F%A6%A3",
+      "Punycode": "xn--zt9h",
+      "Bytes (UTF-8)": "F0 9F A6 A3",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDA3",
+      "C, C++, Python": "\\U0001f9a3",
+      "CSS": "\\01F9A3",
+      "PHP, Ruby": "\\u{1F9A3}",
+      "Perl": "\\x{1F9A3}"
+    }
+  }
+}

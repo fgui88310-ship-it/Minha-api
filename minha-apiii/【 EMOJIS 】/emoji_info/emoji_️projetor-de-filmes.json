@@ -1,0 +1,70 @@
+{
+  "emoji": "📽",
+  "nome": "📽️ Projetor de filmes",
+  "categoria": "Film Projector",
+  "url": "https://emojigraph.org/pt/film-projector/",
+  "detalhes": {
+    "explicacao": "Um clássico projetor de filmes, como os projetos de cinema em uma tela de visualização. Geralmente retratado como um preto ou cinza projetor com dois cilindros montados e a lente apontada para a direita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/film-projector_1f4fd-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/film-projector_1f4fd-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/film-projector_1f4fd-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/film-projector_1f4fd-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/film-projector_1f4fd-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/film-projector_1f4fd-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/film-projector_1f4fd-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/film-projector_1f4fd-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/film-projector_1f4fd-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/film-projector_1f4fd-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cinema",
+      "filme",
+      "projetor",
+      "vídeo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4FD;&#xFE0F;",
+      "HTML dec": "&#128253;&#65039;",
+      "URL escape code": "%F0%9F%93%BD%EF%B8%8F",
+      "Punycode": "xn--zu8h",
+      "Bytes (UTF-8)": "F0 9F 93 BD EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCFD\\uFE0F",
+      "C, C++, Python": "\\U0001f4fd\\uFE0F",
+      "CSS": "\\01F4FD \\FE0F",
+      "PHP, Ruby": "\\u{1F4FD}\\u{FE0F}",
+      "Perl": "\\x{1F4FD}\\x{FE0F}"
+    }
+  }
+}

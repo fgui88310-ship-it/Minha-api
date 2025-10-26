@@ -1,0 +1,96 @@
+{
+  "emoji": "💕",
+  "nome": "💕 Dois corações",
+  "categoria": "two hearts",
+  "url": "https://emojigraph.org/pt/two-hearts/",
+  "detalhes": {
+    "explicacao": "Dois corações cor-de-cor de amor. Um maior que o outro. Pode ser usado para mostrar que \"o amor está no ar\".",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/two-hearts_1f495.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/two-hearts_1f495.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amantes",
+      "amor",
+      "dois corações",
+      "emoção",
+      "coração",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F495;",
+      "HTML dec": "&#128149;",
+      "URL escape code": "%F0%9F%92%95",
+      "Punycode": "xn--0r8h",
+      "Bytes (UTF-8)": "F0 9F 92 95",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC95",
+      "C, C++, Python": "\\U0001f495",
+      "CSS": "\\01F495",
+      "PHP, Ruby": "\\u{1F495}",
+      "Perl": "\\x{1F495}"
+    }
+  }
+}

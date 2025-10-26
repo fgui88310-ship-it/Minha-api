@@ -1,0 +1,71 @@
+{
+  "emoji": "🧚",
+  "nome": "🧚 Fada",
+  "categoria": "Fairy",
+  "url": "https://emojigraph.org/pt/fairy/",
+  "detalhes": {
+    "explicacao": "Fada foi aprovado como parte do Unicode 10.0 em 2017e acrescentou para o Emoji 5.0 em 2017.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fairy_1f9da.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fairy_1f9da.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fairy_1f9da.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fairy_1f9da.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fairy_1f9da.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fairy_1f9da.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fairy_1f9da.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fairy_1f9da.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fairy_1f9da.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/fairy_1f9da.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fada",
+      "asas",
+      "conto de fadas",
+      "fantasia",
+      "ser encantado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9DA;",
+      "HTML dec": "&#129498;",
+      "URL escape code": "%F0%9F%A7%9A",
+      "Punycode": "xn--kv9h",
+      "Bytes (UTF-8)": "F0 9F A7 9A",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDDA",
+      "C, C++, Python": "\\U0001f9da",
+      "CSS": "\\01F9DA",
+      "PHP, Ruby": "\\u{1F9DA}",
+      "Perl": "\\x{1F9DA}"
+    }
+  }
+}

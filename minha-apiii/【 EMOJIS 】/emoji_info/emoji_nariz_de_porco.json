@@ -1,0 +1,95 @@
+{
+  "emoji": "🐽",
+  "nome": "🐽 Nariz de porco",
+  "categoria": "pig nose",
+  "url": "https://emojigraph.org/pt/pig-nose/",
+  "detalhes": {
+    "explicacao": "O focinho de um porco. Descrito como uma rosa oval ou ligeiramente em forma de pêra nariz com dois negros narinas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pig-nose_1f43d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pig-nose_1f43d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "nariz",
+      "nariz de porco",
+      "porco",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F43D;",
+      "HTML dec": "&#128061;",
+      "URL escape code": "%F0%9F%90%BD",
+      "Punycode": "xn--ip8h",
+      "Bytes (UTF-8)": "F0 9F 90 BD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC3D",
+      "C, C++, Python": "\\U0001f43d",
+      "CSS": "\\01F43D",
+      "PHP, Ruby": "\\u{1F43D}",
+      "Perl": "\\x{1F43D}"
+    }
+  }
+}

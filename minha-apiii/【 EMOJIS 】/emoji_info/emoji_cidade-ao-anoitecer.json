@@ -1,0 +1,96 @@
+{
+  "emoji": "🌆",
+  "nome": "🌆 Cidade ao anoitecer",
+  "categoria": "Cityscape At Dusk",
+  "url": "https://emojigraph.org/pt/cityscape-at-dusk/",
+  "detalhes": {
+    "explicacao": "Um modo de exibição de edifícios da cidade, como a última luz desaparece do céu. Uma laranja (ou azul) brilho persiste, antes que as estrelas do céu, à noite, se tornam visíveis.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cityscape-at-dusk_1f306.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cityscape-at-dusk_1f306.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "anoitecer",
+      "cidade",
+      "noite",
+      "paisagem",
+      "pôr do sol",
+      "prédio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F306;",
+      "HTML dec": "&#127750;",
+      "URL escape code": "%F0%9F%8C%86",
+      "Punycode": "xn--mg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 86",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF06",
+      "C, C++, Python": "\\U0001f306",
+      "CSS": "\\01F306",
+      "PHP, Ruby": "\\u{1F306}",
+      "Perl": "\\x{1F306}"
+    }
+  }
+}

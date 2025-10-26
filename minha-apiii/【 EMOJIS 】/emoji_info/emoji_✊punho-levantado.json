@@ -1,0 +1,95 @@
+{
+  "emoji": "",
+  "nome": "✊ Punho levantado",
+  "categoria": "Raised Fist",
+  "url": "https://emojigraph.org/pt/raised-fist/",
+  "detalhes": {
+    "explicacao": "O punho levantado no ar que pode ser usado como um gesto de comemoração: bomba de punho. Também pode ser usado para representar o zero, devido a falta do sinal de zero do indicador com polegar.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/raised-fist_270a.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/raised-fist_270a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "punho erguido",
+      "punho levantado",
+      "pedra",
+      "punho",
+      "solidariedade"
+    ],
+    "codigos": {
+      "HTML hex": "&#x270A;",
+      "HTML dec": "&#9994;",
+      "URL escape code": "%E2%9C%8A",
+      "Punycode": "xn--5bi",
+      "Bytes (UTF-8)": "E2 9C 8A",
+      "JavaScript, JSON, Java": "\\u270A",
+      "C, C++, Python": "\\u270A",
+      "CSS": "\\270A",
+      "PHP, Ruby": "\\u{270A}",
+      "Perl": "\\x{270A}"
+    }
+  }
+}

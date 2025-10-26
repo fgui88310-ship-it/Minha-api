@@ -1,0 +1,70 @@
+{
+  "emoji": "🥀",
+  "nome": "🥀 Flor murcha",
+  "categoria": "wilted flower",
+  "url": "https://emojigraph.org/pt/wilted-flower/",
+  "detalhes": {
+    "explicacao": "Uma flor que murcha, ou está morrendo. Geralmente retratado como vacilante, rosa vermelha desbotada a decair para a direita em um seco tronco-verde, derramando uma pétala.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/wilted-flower_1f940.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/wilted-flower_1f940.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/wilted-flower_1f940.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/wilted-flower_1f940.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/wilted-flower_1f940.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/wilted-flower_1f940.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/wilted-flower_1f940.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/wilted-flower_1f940.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/wilted-flower_1f940.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/wilted-flower_1f940.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "flor",
+      "murcha",
+      "murchando",
+      "morrendo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F940;",
+      "HTML dec": "&#129344;",
+      "URL escape code": "%F0%9F%A5%80",
+      "Punycode": "xn--5q9h",
+      "Bytes (UTF-8)": "F0 9F A5 80",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD40",
+      "C, C++, Python": "\\U0001f940",
+      "CSS": "\\01F940",
+      "PHP, Ruby": "\\u{1F940}",
+      "Perl": "\\x{1F940}"
+    }
+  }
+}

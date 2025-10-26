@@ -1,0 +1,51 @@
+{
+  "emoji": "🇩🇬",
+  "nome": "🇩🇬 Bandeira: Diego Garcia",
+  "categoria": "flag diego garcia",
+  "url": "https://emojigraph.org/pt/flag-diego-garcia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Diego Garcia. Este símbolo é uma seqüência de caracteres 🇩 Símbolo Indicador Regional Letra D e 🇬 Símbolo Indicador Regional Letra G. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras DG em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-diego-garcia_1f1e9-1f1ec.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-diego-garcia_1f1e9-1f1ec.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-diego-garcia_1f1e9-1f1ec.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-diego-garcia_1f1e9-1f1ec.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-diego-garcia_1f1e9-1f1ec.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-diego-garcia_1f1e9-1f1ec.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E9;&#x1F1EC;",
+      "HTML dec": "&#127465;&#127468;",
+      "URL escape code": "%F0%9F%87%A9%F0%9F%87%AC",
+      "Punycode": "xn--h77hga",
+      "Bytes (UTF-8)": "F0 9F 87 A9 F0 9F 87 AC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE9\\uD83C\\uDDEC",
+      "C, C++, Python": "\\U0001f1e9\\U0001f1ec",
+      "CSS": "\\01F1E9 \\01F1EC",
+      "PHP, Ruby": "\\u{1F1E9}\\u{1F1EC}",
+      "Perl": "\\x{1F1E9}\\x{1F1EC}"
+    }
+  }
+}

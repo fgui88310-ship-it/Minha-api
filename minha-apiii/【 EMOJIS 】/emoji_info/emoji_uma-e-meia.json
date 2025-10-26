@@ -1,0 +1,88 @@
+{
+  "emoji": "🕜",
+  "nome": "🕜 Uma e meia",
+  "categoria": "One Thirty",
+  "url": "https://emojigraph.org/pt/one-thirty/",
+  "detalhes": {
+    "explicacao": "Um-Trinta foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio Um-Trinta\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/one-thirty_1f55c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/one-thirty_1f55c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "1h30",
+      "relógio",
+      "uma e meia",
+      "1:30",
+      "13:30",
+      "13h30"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F55C;",
+      "HTML dec": "&#128348;",
+      "URL escape code": "%F0%9F%95%9C",
+      "Punycode": "xn--px8h",
+      "Bytes (UTF-8)": "F0 9F 95 9C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD5C",
+      "C, C++, Python": "\\U0001f55c",
+      "CSS": "\\01F55C",
+      "PHP, Ruby": "\\u{1F55C}",
+      "Perl": "\\x{1F55C}"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "emoji": "💯",
+  "nome": "💯 Cem pontos",
+  "categoria": "hundred points",
+  "url": "https://emojigraph.org/pt/hundred-points/",
+  "detalhes": {
+    "explicacao": "100 emoji: o número de uma centena, escritas em vermelho, sublinhado duas vezes para dar ênfase.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/hundred-points_1f4af.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/hundred-points_1f4af.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "100",
+      "100 pontos",
+      "cem pontos",
+      "pontuação",
+      "pontuação total",
+      "certamente",
+      "certeza",
+      "conte comigo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4AF;",
+      "HTML dec": "&#128175;",
+      "URL escape code": "%F0%9F%92%AF",
+      "Punycode": "xn--rs8h",
+      "Bytes (UTF-8)": "F0 9F 92 AF",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCAF",
+      "C, C++, Python": "\\U0001f4af",
+      "CSS": "\\01F4AF",
+      "PHP, Ruby": "\\u{1F4AF}",
+      "Perl": "\\x{1F4AF}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emoji": "👁",
+  "nome": "👁️‍🗨️ Olho no balão de diálogo",
+  "categoria": "eye in speech bubble",
+  "url": "https://emojigraph.org/pt/eye-in-speech-bubble/",
+  "detalhes": {
+    "explicacao": "Um balão de diálogo mostrando um olho dentro. Quando utilizar o texto-para-fala em plataformas da Apple, este emoji é ler em voz alta: \"de Olho no balão representando anti-bullying campanha\". Este emoji foi lançado em conjunto com o Anúncio do Conselho para o Sou Testemunha de campanha.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "olho",
+      "testemunha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F;",
+      "HTML dec": "&#128065;&#65039;&#8205;&#128488;&#65039;",
+      "URL escape code": "%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F",
+      "Punycode": "xn--mp8ho0a",
+      "Bytes (UTF-8)": "F0 9F 91 81 EF B8 8F E2 80 8D F0 9F 97 A8 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC41\\uFE0F\\u200D\\uD83D\\uDDE8\\uFE0F",
+      "C, C++, Python": "\\U0001f441\\uFE0F\\u200D\\U0001f5e8\\uFE0F",
+      "CSS": "\\01F441 \\FE0F \\200D \\01F5E8 \\FE0F",
+      "PHP, Ruby": "\\u{1F441}\\u{FE0F}\\u{200D}\\u{1F5E8}\\u{FE0F}",
+      "Perl": "\\x{1F441}\\x{FE0F}\\x{200D}\\x{1F5E8}\\x{FE0F}"
+    }
+  }
+}

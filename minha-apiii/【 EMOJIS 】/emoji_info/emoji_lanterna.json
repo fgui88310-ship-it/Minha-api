@@ -1,0 +1,94 @@
+{
+  "emoji": "🔦",
+  "nome": "🔦 Lanterna",
+  "categoria": "Flashlight",
+  "url": "https://emojigraph.org/pt/flashlight/",
+  "detalhes": {
+    "explicacao": "Um diário lanterna elétrica da tocha), como usado quando o poder sai, acampamento, ou contando histórias assustadoras. Geralmente retratado em um ângulo de 45°, como cinza e preto dispositivo com um interruptor mostrado iluminado em muitas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/flashlight_1f526.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/flashlight_1f526.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "elétrica",
+      "ferramenta",
+      "lanterna",
+      "luz"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F526;",
+      "HTML dec": "&#128294;",
+      "URL escape code": "%F0%9F%94%A6",
+      "Punycode": "xn--5v8h",
+      "Bytes (UTF-8)": "F0 9F 94 A6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD26",
+      "C, C++, Python": "\\U0001f526",
+      "CSS": "\\01F526",
+      "PHP, Ruby": "\\u{1F526}",
+      "Perl": "\\x{1F526}"
+    }
+  }
+}

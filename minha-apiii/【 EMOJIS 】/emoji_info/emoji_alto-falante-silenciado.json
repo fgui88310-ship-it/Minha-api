@@ -1,0 +1,88 @@
+{
+  "emoji": "🔇",
+  "nome": "🔇 Alto-falante silenciado",
+  "categoria": "Muted Speaker",
+  "url": "https://emojigraph.org/pt/muted-speaker/",
+  "detalhes": {
+    "explicacao": "Um alto-falante com uma linha vermelha, indicando silenciado volume ou silenciar o áudio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/muted-speaker_1f507.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/muted-speaker_1f507.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alto-falante",
+      "mudo",
+      "quieto",
+      "silenciar",
+      "silêncio",
+      "mute"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F507;",
+      "HTML dec": "&#128263;",
+      "URL escape code": "%F0%9F%94%87",
+      "Punycode": "xn--9u8h",
+      "Bytes (UTF-8)": "F0 9F 94 87",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD07",
+      "C, C++, Python": "\\U0001f507",
+      "CSS": "\\01F507",
+      "PHP, Ruby": "\\u{1F507}",
+      "Perl": "\\x{1F507}"
+    }
+  }
+}

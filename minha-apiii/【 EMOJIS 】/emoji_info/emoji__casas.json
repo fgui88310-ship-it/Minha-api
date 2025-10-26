@@ -1,0 +1,67 @@
+{
+  "emoji": "🏘",
+  "nome": "🏘️ Casas",
+  "categoria": "houses",
+  "url": "https://emojigraph.org/pt/houses/",
+  "detalhes": {
+    "explicacao": "Várias casas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/houses_1f3d8-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/houses_1f3d8-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/houses_1f3d8-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/houses_1f3d8-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/houses_1f3d8-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/houses_1f3d8-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/houses_1f3d8-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/houses_1f3d8-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/houses_1f3d8-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/houses_1f3d8-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "casas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3D8;&#xFE0F;",
+      "HTML dec": "&#127960;&#65039;",
+      "URL escape code": "%F0%9F%8F%98%EF%B8%8F",
+      "Punycode": "xn--mm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 98 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFD8\\uFE0F",
+      "C, C++, Python": "\\U0001f3d8\\uFE0F",
+      "CSS": "\\01F3D8 \\FE0F",
+      "PHP, Ruby": "\\u{1F3D8}\\u{FE0F}",
+      "Perl": "\\x{1F3D8}\\x{FE0F}"
+    }
+  }
+}

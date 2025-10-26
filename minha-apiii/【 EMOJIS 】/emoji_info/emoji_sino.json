@@ -1,0 +1,92 @@
+{
+  "emoji": "🔔",
+  "nome": "🔔 Sino",
+  "categoria": "Bell",
+  "url": "https://emojigraph.org/pt/bell/",
+  "detalhes": {
+    "explicacao": "Um sino de ouro ou amarelo, que é comumente usado em celulares como um ícone de notificações ou sons de toque.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bell_1f514.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bell_1f514.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bell_1f514.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bell_1f514.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bell_1f514.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bell_1f514.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bell_1f514.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bell_1f514.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bell_1f514.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bell_1f514.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bell_1f514.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bell_1f514.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bell_1f514.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bell_1f514.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bell_1f514.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bell_1f514.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "sino",
+      "capela"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F514;",
+      "HTML dec": "&#128276;",
+      "URL escape code": "%F0%9F%94%94",
+      "Punycode": "xn--nv8h",
+      "Bytes (UTF-8)": "F0 9F 94 94",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD14",
+      "C, C++, Python": "\\U0001f514",
+      "CSS": "\\01F514",
+      "PHP, Ruby": "\\u{1F514}",
+      "Perl": "\\x{1F514}"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "emoji": "🧼",
+  "nome": "🧼 Sabonete",
+  "categoria": "Soap",
+  "url": "https://emojigraph.org/pt/soap/",
+  "detalhes": {
+    "explicacao": "Uma barra de sabão, como usado no chuveiro, banheira ou para lavagem à mão. Geralmente mostrado com ensaboado bolhas. Representado em várias cores, muitas vezes cor-de-rosa, e em diferentes ângulos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/soap_1f9fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/soap_1f9fc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/soap_1f9fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/soap_1f9fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/soap_1f9fc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/soap_1f9fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/soap_1f9fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/soap_1f9fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/soap_1f9fc.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/soap_1f9fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "banho",
+      "barra",
+      "espuma",
+      "limpeza",
+      "sabonete",
+      "saboneteira",
+      "limpar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9FC;",
+      "HTML dec": "&#129532;",
+      "URL escape code": "%F0%9F%A7%BC",
+      "Punycode": "xn--jw9h",
+      "Bytes (UTF-8)": "F0 9F A7 BC",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDFC",
+      "C, C++, Python": "\\U0001f9fc",
+      "CSS": "\\01F9FC",
+      "PHP, Ruby": "\\u{1F9FC}",
+      "Perl": "\\x{1F9FC}"
+    }
+  }
+}

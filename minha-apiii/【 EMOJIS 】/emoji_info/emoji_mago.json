@@ -1,0 +1,75 @@
+{
+  "emoji": "🧙",
+  "nome": "🧙 Mago",
+  "categoria": "Mage",
+  "url": "https://emojigraph.org/pt/mage/",
+  "detalhes": {
+    "explicacao": "Um emoji sem gênero de um mago com barba, capuz e bastão. Muitas vezes, um símbolo de fantasia e magia. Mago foi aprovado como parte do Unicode 10.0 em 2017e acrescentou para o Emoji 5.0 em 2017.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mage_1f9d9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mage_1f9d9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mage_1f9d9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mage_1f9d9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mage_1f9d9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mage_1f9d9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mage_1f9d9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mage_1f9d9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mage_1f9d9.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/mage_1f9d9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bruxa",
+      "feiticeira",
+      "maga",
+      "mago",
+      "fantasia",
+      "feiticeiro",
+      "feitiço",
+      "magia",
+      "rpg"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D9;",
+      "HTML dec": "&#129497;",
+      "URL escape code": "%F0%9F%A7%99",
+      "Punycode": "xn--jv9h",
+      "Bytes (UTF-8)": "F0 9F A7 99",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD9",
+      "C, C++, Python": "\\U0001f9d9",
+      "CSS": "\\01F9D9",
+      "PHP, Ruby": "\\u{1F9D9}",
+      "Perl": "\\x{1F9D9}"
+    }
+  }
+}

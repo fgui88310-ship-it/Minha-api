@@ -1,0 +1,76 @@
+{
+  "emoji": "🦮",
+  "nome": "🦮 Cão-guia",
+  "categoria": "Guide Dog",
+  "url": "https://emojigraph.org/pt/guide-dog/",
+  "detalhes": {
+    "explicacao": "Um guia (ou Olhos de Ver) cão, treinado para ajudar a conduzir a uma pessoa que é cega ou com deficiência visual. Geralmente retratado como um marrom-amarelado Labrador Retriever de quatro virada para a esquerda, equipado com um cinto e alça. Muitas plataformas além disso incluem uma coleira.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/guide-dog_1f9ae.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/guide-dog_1f9ae.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/guide-dog_1f9ae.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/guide-dog_1f9ae.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/guide-dog_1f9ae.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/guide-dog_1f9ae.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/guide-dog_1f9ae.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/guide-dog_1f9ae.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/guide-dog_1f9ae.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/guide-dog_1f9ae.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade",
+      "cão-guia",
+      "cegueira",
+      "guia",
+      "cachorro",
+      "cadela",
+      "cão",
+      "cega",
+      "cego",
+      "labrador"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9AE;",
+      "HTML dec": "&#129454;",
+      "URL escape code": "%F0%9F%A6%AE",
+      "Punycode": "xn--bu9h",
+      "Bytes (UTF-8)": "F0 9F A6 AE",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDAE",
+      "C, C++, Python": "\\U0001f9ae",
+      "CSS": "\\01F9AE",
+      "PHP, Ruby": "\\u{1F9AE}",
+      "Perl": "\\x{1F9AE}"
+    }
+  }
+}

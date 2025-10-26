@@ -1,0 +1,70 @@
+{
+  "emoji": "🥭",
+  "nome": "🥭 Manga",
+  "categoria": "Mango",
+  "url": "https://emojigraph.org/pt/mango/",
+  "detalhes": {
+    "explicacao": "O fruto maduro de um tropical de manga. Diversamente representada em tons de amarelo, vermelho, laranja e verde com um único, verde folha e caule.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mango_1f96d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mango_1f96d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mango_1f96d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mango_1f96d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mango_1f96d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mango_1f96d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mango_1f96d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mango_1f96d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mango_1f96d.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/mango_1f96d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fruta",
+      "manga",
+      "tropical",
+      "comida"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F96D;",
+      "HTML dec": "&#129389;",
+      "URL escape code": "%F0%9F%A5%AD",
+      "Punycode": "xn--gs9h",
+      "Bytes (UTF-8)": "F0 9F A5 AD",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD6D",
+      "C, C++, Python": "\\U0001f96d",
+      "CSS": "\\01F96D",
+      "PHP, Ruby": "\\u{1F96D}",
+      "Perl": "\\x{1F96D}"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "emoji": "🤔",
+  "nome": "🤔 Rosto pensativo",
+  "categoria": "thinking face",
+  "url": "https://emojigraph.org/pt/thinking-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com sobrancelhas franzidas olhando para cima com o polegar e o dedo indicador descansando em seu queixo. Pretende-se mostrar uma pessoa em reflexão ou afundada em pensamentos. Muitas vezes usado para questionar ou desprezar algo ou alguém, como se dizendo: Hmm, eu não sei sobre isso. O tom varia, incluindo sincero, brincalhão, intrigado, céticos, e escárnio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/thinking-face_1f914.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/thinking-face_1f914.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/thinking-face_1f914.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/thinking-face_1f914.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/thinking-face_1f914.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/thinking-face_1f914.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/thinking-face_1f914.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/thinking-face_1f914.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/thinking-face_1f914.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/thinking-face_1f914.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/thinking-face_1f914.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/thinking-face_1f914.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mão no queixo",
+      "pensando",
+      "rosto",
+      "rosto pensativo",
+      "curiosa",
+      "curioso",
+      "dúvida",
+      "hmm",
+      "ideia",
+      "ideias",
+      "pensativa",
+      "pensativo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F914;",
+      "HTML dec": "&#129300;",
+      "URL escape code": "%F0%9F%A4%94",
+      "Punycode": "xn--wp9h",
+      "Bytes (UTF-8)": "F0 9F A4 94",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD14",
+      "C, C++, Python": "\\U0001f914",
+      "CSS": "\\01F914",
+      "PHP, Ruby": "\\u{1F914}",
+      "Perl": "\\x{1F914}"
+    }
+  }
+}

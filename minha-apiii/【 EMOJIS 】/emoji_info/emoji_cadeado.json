@@ -1,0 +1,93 @@
+{
+  "emoji": "🔒",
+  "nome": "🔒 Cadeado",
+  "categoria": "Locked",
+  "url": "https://emojigraph.org/pt/locked/",
+  "detalhes": {
+    "explicacao": "Um cadeado bloqueado (fechado), como usado para proteger um trinco ou uma gaiola, ou como um ícone de uma conexão de internet segura, conta privada, ou dispositivo bloqueado. Geralmente representado com uma base de ouro e prata manilha. No WhatsApp é prateado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/locked_1f512.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/locked_1f512.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/locked_1f512.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/locked_1f512.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/locked_1f512.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/locked_1f512.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/locked_1f512.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/locked_1f512.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/locked_1f512.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/locked_1f512.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/locked_1f512.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/locked_1f512.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/locked_1f512.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/locked_1f512.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/locked_1f512.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/locked_1f512.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cadeado",
+      "fechado",
+      "trancado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F512;",
+      "HTML dec": "&#128274;",
+      "URL escape code": "%F0%9F%94%92",
+      "Punycode": "xn--lv8h",
+      "Bytes (UTF-8)": "F0 9F 94 92",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD12",
+      "C, C++, Python": "\\U0001f512",
+      "CSS": "\\01F512",
+      "PHP, Ruby": "\\u{1F512}",
+      "Perl": "\\x{1F512}"
+    }
+  }
+}

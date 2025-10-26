@@ -1,0 +1,100 @@
+{
+  "emoji": "🍜",
+  "nome": "🍜 Lámen",
+  "categoria": "steaming bowl",
+  "url": "https://emojigraph.org/pt/steaming-bowl/",
+  "detalhes": {
+    "explicacao": "Uma tigela de vapor-comida quente. Retratado como o Japonês ramen (macarrão em caldo) com pauzinhos na maioria das plataformas, que pode representar uma refeição quente em geral. O design da Samsung semelhante Pote de Comida.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/steaming-bowl_1f35c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/steaming-bowl_1f35c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "lámen",
+      "ramen",
+      "tigela",
+      "comida",
+      "fome",
+      "macarrão",
+      "miojo",
+      "quentinha",
+      "restaurante",
+      "sopa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F35C;",
+      "HTML dec": "&#127836;",
+      "URL escape code": "%F0%9F%8D%9C",
+      "Punycode": "xn--2i8h",
+      "Bytes (UTF-8)": "F0 9F 8D 9C",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF5C",
+      "C, C++, Python": "\\U0001f35c",
+      "CSS": "\\01F35C",
+      "PHP, Ruby": "\\u{1F35C}",
+      "Perl": "\\x{1F35C}"
+    }
+  }
+}

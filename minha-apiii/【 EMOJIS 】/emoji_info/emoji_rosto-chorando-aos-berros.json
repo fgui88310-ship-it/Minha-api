@@ -1,0 +1,97 @@
+{
+  "emoji": "😭",
+  "nome": "😭 Rosto chorando aos berros",
+  "categoria": "Loudly Crying Face",
+  "url": "https://emojigraph.org/pt/loudly-crying-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com a boca aberta em choro e fluxos de pesadas lágrimas fluindo de olhos fechados. Pode transmitir tristeza inconsolável, mas também outros sentimentos intensos, como o riso incontrolável ou a grande alegria.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/loudly-crying-face_1f62d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/loudly-crying-face_1f62d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chorando",
+      "chorar",
+      "lágrimas",
+      "rosto",
+      "chorando alto",
+      "infeliz",
+      "triste"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F62D;",
+      "HTML dec": "&#128557;",
+      "URL escape code": "%F0%9F%98%AD",
+      "Punycode": "xn--o38h",
+      "Bytes (UTF-8)": "F0 9F 98 AD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE2D",
+      "C, C++, Python": "\\U0001f62d",
+      "CSS": "\\01F62D",
+      "PHP, Ruby": "\\u{1F62D}",
+      "Perl": "\\x{1F62D}"
+    }
+  }
+}

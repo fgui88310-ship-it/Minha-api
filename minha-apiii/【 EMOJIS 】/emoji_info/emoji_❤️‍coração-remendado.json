@@ -1,0 +1,72 @@
+{
+  "emoji": "",
+  "nome": "❤️‍🩹 Coração remendado",
+  "categoria": "Mending Heart",
+  "url": "https://emojigraph.org/pt/mending-heart/",
+  "detalhes": {
+    "explicacao": "Um coração vermelho com uma bandagem branca amarrada ao redor. A bandagem é amarrada do canto inferior esquerdo ao canto superior direito na maioria das plataformas. Usado para representar um processo de recuperação ou cura de feridas físicas ou mentais, ou para oferecer empatia, condolências e apoio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mending-heart_2764-fe0f-200d-1fa79.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mending-heart_2764-fe0f-200d-1fa79.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mending-heart_2764-fe0f-200d-1fa79.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mending-heart_2764-fe0f-200d-1fa79.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mending-heart_2764-fe0f-200d-1fa79.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mending-heart_2764-fe0f-200d-1fa79.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mending-heart_2764-fe0f-200d-1fa79.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mending-heart_2764-fe0f-200d-1fa79.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mending-heart_2764-fe0f-200d-1fa79.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/mending-heart_2764-fe0f-200d-1fa79.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bem",
+      "bom",
+      "curando",
+      "mais saudável",
+      "melhorando",
+      "recuperação"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2764;&#xfe0f;&#x200d;&#x1fa79;",
+      "HTML dec": "&#10084;&#65039;&#8205;&#129657;",
+      "URL escape code": "%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9",
+      "Punycode": "xn--qei5550n",
+      "Bytes (UTF-8)": "e2 9d a4 ef b8 8f e2 80 8d f0 9f a9 b9",
+      "JavaScript, JSON, Java": "\\u2764\\ufe0f\\u200d\\ud83e\\ude79",
+      "C, C++, Python": "\\U0002764\\u000fe0f\\u000200d\\u0001fa79",
+      "CSS": "\\02764 \\0FE0F \\0200D \\01FA79",
+      "PHP, Ruby": "\\u{2764}\\u{FE0F}\\u{200D}\\u{1FA79}",
+      "Perl": "\\x{2764}\\x{FE0F}\\x{200D}\\x{1FA79}"
+    }
+  }
+}

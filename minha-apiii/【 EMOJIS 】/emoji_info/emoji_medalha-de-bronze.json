@@ -1,0 +1,71 @@
+{
+  "emoji": "🥉",
+  "nome": "🥉 Medalha de bronze",
+  "categoria": "3rd Place Medal",
+  "url": "https://emojigraph.org/pt/3rd-place-medal/",
+  "detalhes": {
+    "explicacao": "Uma imagem dos desenhos animados de uma medalha de bronze conectada a uma fita. O número 3 está na medalha de bronze. Dado àqueles que conquistam o terceiro lugar em um concurso ou evento esportivo. 3º Lugar Medalha foi aprovado como parte do Unicode 9.0 em 2016sob o nome de \"Terceiro Lugar Medalha\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/3rd-place-medal_1f949.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/3rd-place-medal_1f949.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/3rd-place-medal_1f949.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/3rd-place-medal_1f949.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/3rd-place-medal_1f949.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/3rd-place-medal_1f949.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/3rd-place-medal_1f949.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/3rd-place-medal_1f949.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/3rd-place-medal_1f949.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/3rd-place-medal_1f949.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "3º. lugar",
+      "bronze",
+      "medalha",
+      "terceiro",
+      "3o. lugar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F949;",
+      "HTML dec": "&#129353;",
+      "URL escape code": "%F0%9F%A5%89",
+      "Punycode": "xn--fr9h",
+      "Bytes (UTF-8)": "F0 9F A5 89",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD49",
+      "C, C++, Python": "\\U0001f949",
+      "CSS": "\\01F949",
+      "PHP, Ruby": "\\u{1F949}",
+      "Perl": "\\x{1F949}"
+    }
+  }
+}

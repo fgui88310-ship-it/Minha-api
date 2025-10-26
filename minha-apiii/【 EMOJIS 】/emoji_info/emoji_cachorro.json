@@ -1,0 +1,85 @@
+{
+  "emoji": "🐕",
+  "nome": "🐕 Cachorro",
+  "categoria": "Dog",
+  "url": "https://emojigraph.org/pt/dog/",
+  "detalhes": {
+    "explicacao": "Um cão, um fiel, amado animal de estimação. Descrito como um cão de cor marrom, de várias raças, em perfil completo com todas as quatro patas viradas para a esquerda, com um longa cauda enrolada mantida ereta e orelhas pontiagudas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dog_1f415.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dog_1f415.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dog_1f415.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dog_1f415.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dog_1f415.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dog_1f415.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dog_1f415.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dog_1f415.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dog_1f415.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dog_1f415.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dog_1f415.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dog_1f415.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dog_1f415.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dog_1f415.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "cachorro",
+      "cão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F415;",
+      "HTML dec": "&#128021;",
+      "URL escape code": "%F0%9F%90%95",
+      "Punycode": "xn--do8h",
+      "Bytes (UTF-8)": "F0 9F 90 95",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC15",
+      "C, C++, Python": "\\U0001f415",
+      "CSS": "\\01F415",
+      "PHP, Ruby": "\\u{1F415}",
+      "Perl": "\\x{1F415}"
+    }
+  }
+}

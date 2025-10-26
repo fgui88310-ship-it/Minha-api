@@ -1,0 +1,74 @@
+{
+  "emoji": "🫚",
+  "nome": "🫚 Gengibre",
+  "categoria": "Ginger Root",
+  "url": "https://emojigraph.org/pt/ginger-root/",
+  "detalhes": {
+    "explicacao": "O emoji de gengibre é exibido como um rizoma grosso e ramificado com uma camada externa marrom clara e um centro amarelo. Pode ser usado como um símbolo para 🍂 outono, ❄️ inverno, ou tempo frio, como uma metáfora para 🧑‍🦰 ruivas, ou para representar a gengibre ou qualquer outra raiz, como a curcuma.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ginger-root_1fada.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ginger-root_1fada.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ginger-root_1fada.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ginger-root_1fada.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ginger-root_1fada.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ginger-root_1fada.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ginger-root_1fada.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ginger-root_1fada.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ginger-root_1fada.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/ginger-root_1fada.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cerveja",
+      "gengibre",
+      "raiz",
+      "tempero",
+      "comida",
+      "erva",
+      "especiaria",
+      "natural",
+      "saúde"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FADA;",
+      "HTML dec": "&#129754;",
+      "URL escape code": "%F0%9F%AB%9A",
+      "Bytes (UTF-8)": "f0 9f ab 9a",
+      "JavaScript, JSON, Java": "\\ud83e\\udeda",
+      "C, C++, Python": "\\U0001fada",
+      "CSS": "\\01FADA",
+      "PHP, Ruby": "\\u{1FADA}",
+      "Perl": "\\x{1FADA}"
+    }
+  }
+}

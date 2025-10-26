@@ -1,0 +1,97 @@
+{
+  "emoji": "🙆",
+  "nome": "🙆 Pessoa fazendo gesto de “OK”",
+  "categoria": "Person Gesturing Ok",
+  "url": "https://emojigraph.org/pt/person-gesturing-ok/",
+  "detalhes": {
+    "explicacao": "Uma pessoa com os braços acima de sua cabeça, fazendo um 'OK' sinal (círculo) com todo o corpo. Nenhum gênero é especificado, mas este emoji é geralmente apresentada como uma mulher.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-gesturing-ok_1f646.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-gesturing-ok_1f646.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gesto",
+      "mão",
+      "OK",
+      "exercício",
+      "gesto para OK",
+      "mãos para cima",
+      "pessoa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F646;",
+      "HTML dec": "&#128582;",
+      "URL escape code": "%F0%9F%99%86",
+      "Punycode": "xn--e48h",
+      "Bytes (UTF-8)": "F0 9F 99 86",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE46",
+      "C, C++, Python": "\\U0001f646",
+      "CSS": "\\01F646",
+      "PHP, Ruby": "\\u{1F646}",
+      "Perl": "\\x{1F646}"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "emoji": "🧹",
+  "nome": "🧹 Vassoura",
+  "categoria": "Broom",
+  "url": "https://emojigraph.org/pt/broom/",
+  "detalhes": {
+    "explicacao": "Uma tradicional vassoura, como as usadas para varrer — ou montado por bruxas. Mostrado em um ângulo de 45°, com um cabo de madeira e cerdas amarelas na parte inferior esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/broom_1f9f9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/broom_1f9f9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/broom_1f9f9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/broom_1f9f9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/broom_1f9f9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/broom_1f9f9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/broom_1f9f9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/broom_1f9f9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/broom_1f9f9.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/broom_1f9f9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bruxa",
+      "limpar",
+      "varrer",
+      "vassoura",
+      "limpeza"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9F9;",
+      "HTML dec": "&#129529;",
+      "URL escape code": "%F0%9F%A7%B9",
+      "Punycode": "xn--gw9h",
+      "Bytes (UTF-8)": "F0 9F A7 B9",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDF9",
+      "C, C++, Python": "\\U0001f9f9",
+      "CSS": "\\01F9F9",
+      "PHP, Ruby": "\\u{1F9F9}",
+      "Perl": "\\x{1F9F9}"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "emoji": "🪘",
+  "nome": "🪘 Tambor comprido",
+  "categoria": "long drum",
+  "url": "https://emojigraph.org/pt/long-drum/",
+  "detalhes": {
+    "explicacao": "Tempo de Tambor foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/long-drum_1fa98.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/long-drum_1fa98.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/long-drum_1fa98.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/long-drum_1fa98.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/long-drum_1fa98.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/long-drum_1fa98.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/long-drum_1fa98.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/long-drum_1fa98.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "batida",
+      "conga",
+      "ritmo",
+      "tambor",
+      "tambor comprido",
+      "atabaque",
+      "instrumento",
+      "percurssão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA98;",
+      "HTML dec": "&#129688;",
+      "URL escape code": "%F0%9F%AA%98",
+      "Punycode": "xn--z09h",
+      "Bytes (UTF-8)": "F0 9F AA 98",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE98",
+      "C, C++, Python": "\\U0001fa98",
+      "CSS": "\\01FA98",
+      "PHP, Ruby": "\\u{1FA98}",
+      "Perl": "\\x{1FA98}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "😰",
+  "nome": "😰 Rosto ansioso com gota de suor",
+  "categoria": "Anxious Face With Sweat",
+  "url": "https://emojigraph.org/pt/anxious-face-with-sweat/",
+  "detalhes": {
+    "explicacao": "Um rosto com os olhos abertos e uma pequena boca aberta. Suas sobrancelhas são arqueadas, com uma única gota de suor frio escorrendo, e a sua testa é em azul pálido, como se tivesse um calafrio. O design da Samsung mostra os dentes de cima e a língua.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/anxious-face-with-sweat_1f630.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/anxious-face-with-sweat_1f630.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boca aberta",
+      "rosto",
+      "suor frio",
+      "nervoso",
+      "suando frio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F630;",
+      "HTML dec": "&#128560;",
+      "URL escape code": "%F0%9F%98%B0",
+      "Punycode": "xn--r38h",
+      "Bytes (UTF-8)": "F0 9F 98 B0",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE30",
+      "C, C++, Python": "\\U0001f630",
+      "CSS": "\\01F630",
+      "PHP, Ruby": "\\u{1F630}",
+      "Perl": "\\x{1F630}"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "emoji": "🌀",
+  "nome": "🌀 Ciclone",
+  "categoria": "Cyclone",
+  "url": "https://emojigraph.org/pt/cyclone/",
+  "detalhes": {
+    "explicacao": "Um ícone usado para representar um ciclone. Algumas versões deste emoji mostram de uma forma em espiral, que pode ser utilizado para fins decorativos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cyclone_1f300.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cyclone_1f300.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ciclone",
+      "furacão",
+      "twister",
+      "zonzo",
+      "clima",
+      "espiral",
+      "tonto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F300;",
+      "HTML dec": "&#127744;",
+      "URL escape code": "%F0%9F%8C%80",
+      "Punycode": "xn--gg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 80",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF00",
+      "C, C++, Python": "\\U0001f300",
+      "CSS": "\\01F300",
+      "PHP, Ruby": "\\u{1F300}",
+      "Perl": "\\x{1F300}"
+    }
+  }
+}

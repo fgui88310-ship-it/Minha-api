@@ -1,0 +1,59 @@
+{
+  "emoji": "🍄",
+  "nome": "🍄‍🟫 Cogumelo marrom",
+  "categoria": "brown mushroom",
+  "url": "https://emojigraph.org/pt/brown-mushroom/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/brown-mushroom_1f344-200d-1f7eb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/brown-mushroom_1f344-200d-1f7eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/brown-mushroom_1f344-200d-1f7eb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/brown-mushroom_1f344-200d-1f7eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/brown-mushroom_1f344-200d-1f7eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/brown-mushroom_1f344-200d-1f7eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "champignon",
+      "cogumelo",
+      "cogumelo marrom",
+      "comida",
+      "fungo",
+      "fungos",
+      "natureza",
+      "trufa",
+      "vegetal",
+      "vegetariano"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F344;&#x200D;&#x1F7EB;",
+      "HTML dec": "&#127812;&#8205;&#129003;",
+      "URL escape code": "%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB",
+      "Bytes (UTF-8)": "f0 9f 8d 84 e2 80 8d f0 9f 9f ab",
+      "JavaScript, JSON, Java": "\\ud83c\\udf44\\u200d\\ud83d\\udfeb",
+      "C, C++, Python": "\\U0001f344\\u000200d\\u0001f7eb",
+      "CSS": "\\01F344 \\0200D \\01F7EB",
+      "PHP, Ruby": "\\u{1F344}\\u{200D}\\u{1F7EB}",
+      "Perl": "\\x{1F344}\\x{200D}\\x{1F7EB}"
+    }
+  }
+}

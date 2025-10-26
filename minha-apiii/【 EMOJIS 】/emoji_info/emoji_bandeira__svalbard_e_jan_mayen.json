@@ -1,0 +1,59 @@
+{
+  "emoji": "🇸🇯",
+  "nome": "🇸🇯 Bandeira: Svalbard e Jan Mayen",
+  "categoria": "flag svalbard jan mayen",
+  "url": "https://emojigraph.org/pt/flag-svalbard-jan-mayen/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Svalbard & Jan Mayen. Este símbolo é uma seqüência de caracteres 🇸 Símbolo Indicador Regional Letra S e 🇯 Símbolo Indicador Regional Letra J. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras SJ em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-svalbard-jan-mayen_1f1f8-1f1ef.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-svalbard-jan-mayen_1f1f8-1f1ef.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-svalbard-jan-mayen_1f1f8-1f1ef.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-svalbard-jan-mayen_1f1f8-1f1ef.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-svalbard-jan-mayen_1f1f8-1f1ef.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-svalbard-jan-mayen_1f1f8-1f1ef.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-svalbard-jan-mayen_1f1f8-1f1ef.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-svalbard-jan-mayen_1f1f8-1f1ef.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F8;&#x1F1EF;",
+      "HTML dec": "&#127480;&#127471;",
+      "URL escape code": "%F0%9F%87%B8%F0%9F%87%AF",
+      "Punycode": "xn--n77hra",
+      "Bytes (UTF-8)": "F0 9F 87 B8 F0 9F 87 AF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF8\\uD83C\\uDDEF",
+      "C, C++, Python": "\\U0001f1f8\\U0001f1ef",
+      "CSS": "\\01F1F8 \\01F1EF",
+      "PHP, Ruby": "\\u{1F1F8}\\u{1F1EF}",
+      "Perl": "\\x{1F1F8}\\x{1F1EF}"
+    }
+  }
+}

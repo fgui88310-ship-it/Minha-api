@@ -1,0 +1,69 @@
+{
+  "emoji": "🦍",
+  "nome": "🦍 Gorila",
+  "categoria": "Gorilla",
+  "url": "https://emojigraph.org/pt/gorilla/",
+  "detalhes": {
+    "explicacao": "Um gorila, o poderoso, o preto de cabelos grandes primatas. Diversamente representada no perfil completo em todos os fours virada para a esquerda ou como um amistoso, cartoon-estilo gorila rosto olhando diretamente para a frente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/gorilla_1f98d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/gorilla_1f98d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/gorilla_1f98d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/gorilla_1f98d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/gorilla_1f98d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/gorilla_1f98d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/gorilla_1f98d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/gorilla_1f98d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/gorilla_1f98d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/gorilla_1f98d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "gorila",
+      "macaco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F98D;",
+      "HTML dec": "&#129421;",
+      "URL escape code": "%F0%9F%A6%8D",
+      "Punycode": "xn--dt9h",
+      "Bytes (UTF-8)": "F0 9F A6 8D",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD8D",
+      "C, C++, Python": "\\U0001f98d",
+      "CSS": "\\01F98D",
+      "PHP, Ruby": "\\u{1F98D}",
+      "Perl": "\\x{1F98D}"
+    }
+  }
+}

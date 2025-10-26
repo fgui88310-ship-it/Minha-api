@@ -1,0 +1,102 @@
+{
+  "emoji": "💤",
+  "nome": "💤 Zzz",
+  "categoria": "Zzz",
+  "url": "https://emojigraph.org/pt/zzz/",
+  "detalhes": {
+    "explicacao": "Uma série de três Zs faz um Zzz. Representa sono, ronco, sonhando, ou qualquer coisa relacionado com o estado dormir. Também pode ser utilizado em alguns contextos para representar algo que é chato.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/zzz_1f4a4.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/zzz_1f4a4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dormindo",
+      "emoção",
+      "engraçado",
+      "roncando",
+      "zzz",
+      "Zzz",
+      "boa noite",
+      "cansada",
+      "cansado",
+      "com sono",
+      "dormir",
+      "sono"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4A4;",
+      "HTML dec": "&#128164;",
+      "URL escape code": "%F0%9F%92%A4",
+      "Punycode": "xn--gs8h",
+      "Bytes (UTF-8)": "F0 9F 92 A4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCA4",
+      "C, C++, Python": "\\U0001f4a4",
+      "CSS": "\\01F4A4",
+      "PHP, Ruby": "\\u{1F4A4}",
+      "Perl": "\\x{1F4A4}"
+    }
+  }
+}

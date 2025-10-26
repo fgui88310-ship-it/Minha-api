@@ -1,0 +1,69 @@
+{
+  "emoji": "🎙",
+  "nome": "🎙️ Microfone de estúdio",
+  "categoria": "Studio Microphone",
+  "url": "https://emojigraph.org/pt/studio-microphone/",
+  "detalhes": {
+    "explicacao": "Um microfone, usado para transmissão de rádio ou gravação em estúdio. A maioria das plataformas retratam um vintage, prata microfone, como o Shure Unidyne 55.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/studio-microphone_1f399-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/studio-microphone_1f399-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/studio-microphone_1f399-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/studio-microphone_1f399-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/studio-microphone_1f399-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/studio-microphone_1f399-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/studio-microphone_1f399-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/studio-microphone_1f399-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/studio-microphone_1f399-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/studio-microphone_1f399-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "estúdio",
+      "microfone",
+      "música"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F399;&#xFE0F;",
+      "HTML dec": "&#127897;&#65039;",
+      "URL escape code": "%F0%9F%8E%99%EF%B8%8F",
+      "Punycode": "xn--tk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 99 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF99\\uFE0F",
+      "C, C++, Python": "\\U0001f399\\uFE0F",
+      "CSS": "\\01F399 \\FE0F",
+      "PHP, Ruby": "\\u{1F399}\\u{FE0F}",
+      "Perl": "\\x{1F399}\\x{FE0F}"
+    }
+  }
+}

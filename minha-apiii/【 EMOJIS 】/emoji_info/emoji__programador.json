@@ -1,0 +1,55 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍💻 Programador",
+  "categoria": "technologist",
+  "url": "https://emojigraph.org/pt/technologist/",
+  "detalhes": {
+    "explicacao": "O Tecnólogo emoji é uma sequência do 🧑 Adultos e 💻 Computador Pessoal emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/technologist_1f9d1-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/technologist_1f9d1-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/technologist_1f9d1-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/technologist_1f9d1-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/technologist_1f9d1-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/technologist_1f9d1-200d-1f4bb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "desenvolvedor",
+      "inventor",
+      "programador",
+      "software",
+      "tecnólogo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F4BB;",
+      "HTML dec": "&#129489;&#8205;&#128187;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB",
+      "Punycode": "xn--3s8hl5f",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F 92 BB",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83D\\uDCBB",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f4bb",
+      "CSS": "\\01F9D1 \\200D \\01F4BB",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F4BB}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F4BB}"
+    }
+  }
+}

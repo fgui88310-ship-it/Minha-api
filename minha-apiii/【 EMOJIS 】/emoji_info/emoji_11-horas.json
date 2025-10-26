@@ -1,0 +1,87 @@
+{
+  "emoji": "🕚",
+  "nome": "🕚 11 horas",
+  "categoria": "Eleven Oclock",
+  "url": "https://emojigraph.org/pt/eleven-oclock/",
+  "detalhes": {
+    "explicacao": "Onze Horas foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio, Onze Horas\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/eleven-oclock_1f55a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/eleven-oclock_1f55a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "11 horas",
+      "11h00",
+      "onze",
+      "relógio",
+      "11:00"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F55A;",
+      "HTML dec": "&#128346;",
+      "URL escape code": "%F0%9F%95%9A",
+      "Punycode": "xn--nx8h",
+      "Bytes (UTF-8)": "F0 9F 95 9A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD5A",
+      "C, C++, Python": "\\U0001f55a",
+      "CSS": "\\01F55A",
+      "PHP, Ruby": "\\u{1F55A}",
+      "Perl": "\\x{1F55A}"
+    }
+  }
+}

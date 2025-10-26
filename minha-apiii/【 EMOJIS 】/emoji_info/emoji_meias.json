@@ -1,0 +1,69 @@
+{
+  "emoji": "🧦",
+  "nome": "🧦 Meias",
+  "categoria": "Socks",
+  "url": "https://emojigraph.org/pt/socks/",
+  "detalhes": {
+    "explicacao": "Meias foi aprovado como parte do Unicode 10.0 em 2017e acrescentou para o Emoji 5.0 em 2017.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/socks_1f9e6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/socks_1f9e6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/socks_1f9e6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/socks_1f9e6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/socks_1f9e6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/socks_1f9e6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/socks_1f9e6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/socks_1f9e6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/socks_1f9e6.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/socks_1f9e6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "meias",
+      "meia",
+      "meião"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9E6;",
+      "HTML dec": "&#129510;",
+      "URL escape code": "%F0%9F%A7%A6",
+      "Punycode": "xn--wv9h",
+      "Bytes (UTF-8)": "F0 9F A7 A6",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDE6",
+      "C, C++, Python": "\\U0001f9e6",
+      "CSS": "\\01F9E6",
+      "PHP, Ruby": "\\u{1F9E6}",
+      "Perl": "\\x{1F9E6}"
+    }
+  }
+}

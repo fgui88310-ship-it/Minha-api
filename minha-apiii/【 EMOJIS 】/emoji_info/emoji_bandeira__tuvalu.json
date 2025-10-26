@@ -1,0 +1,59 @@
+{
+  "emoji": "🇹🇻",
+  "nome": "🇹🇻 Bandeira: Tuvalu",
+  "categoria": "flag tuvalu",
+  "url": "https://emojigraph.org/pt/flag-tuvalu/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Tuvalu. Este símbolo é uma seqüência de caracteres 🇹 Símbolo Indicador Regional Letra T e 🇻 Símbolo Indicador Regional Letra V. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras TV em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-tuvalu_1f1f9-1f1fb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-tuvalu_1f1f9-1f1fb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-tuvalu_1f1f9-1f1fb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-tuvalu_1f1f9-1f1fb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-tuvalu_1f1f9-1f1fb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-tuvalu_1f1f9-1f1fb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-tuvalu_1f1f9-1f1fb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-tuvalu_1f1f9-1f1fb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F9;&#x1F1FB;",
+      "HTML dec": "&#127481;&#127483;",
+      "URL escape code": "%F0%9F%87%B9%F0%9F%87%BB",
+      "Punycode": "xn--x77hea",
+      "Bytes (UTF-8)": "F0 9F 87 B9 F0 9F 87 BB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF9\\uD83C\\uDDFB",
+      "C, C++, Python": "\\U0001f1f9\\U0001f1fb",
+      "CSS": "\\01F1F9 \\01F1FB",
+      "PHP, Ruby": "\\u{1F1F9}\\u{1F1FB}",
+      "Perl": "\\x{1F1F9}\\x{1F1FB}"
+    }
+  }
+}

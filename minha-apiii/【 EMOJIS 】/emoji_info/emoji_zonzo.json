@@ -1,0 +1,95 @@
+{
+  "emoji": "💫",
+  "nome": "💫 Zonzo",
+  "categoria": "Dizzy",
+  "url": "https://emojigraph.org/pt/dizzy/",
+  "detalhes": {
+    "explicacao": "Um desenho animado no estilo de representação de tontura. Geralmente retratado como um ou mais amarelo estrelas rodando em um amarelo ou azul círculo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/dizzy_1f4ab.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/dizzy_1f4ab.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "emoção",
+      "engraçado",
+      "estrelas",
+      "zonzo",
+      "brilhante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4AB;",
+      "HTML dec": "&#128171;",
+      "URL escape code": "%F0%9F%92%AB",
+      "Punycode": "xn--ns8h",
+      "Bytes (UTF-8)": "F0 9F 92 AB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCAB",
+      "C, C++, Python": "\\U0001f4ab",
+      "CSS": "\\01F4AB",
+      "PHP, Ruby": "\\u{1F4AB}",
+      "Perl": "\\x{1F4AB}"
+    }
+  }
+}

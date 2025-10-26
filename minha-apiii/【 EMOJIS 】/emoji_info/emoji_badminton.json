@@ -1,0 +1,70 @@
+{
+  "emoji": "🏸",
+  "nome": "🏸 Badminton",
+  "categoria": "Badminton",
+  "url": "https://emojigraph.org/pt/badminton/",
+  "detalhes": {
+    "explicacao": "Badminton foi aprovado como parte do Unicode 8.0 em 2015sob o nome de \"Badminton Raquete e Peteca\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/badminton_1f3f8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/badminton_1f3f8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/badminton_1f3f8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/badminton_1f3f8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/badminton_1f3f8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/badminton_1f3f8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/badminton_1f3f8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/badminton_1f3f8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/badminton_1f3f8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/badminton_1f3f8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "badminton",
+      "jogo",
+      "peteca",
+      "raquete"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3F8;",
+      "HTML dec": "&#127992;",
+      "URL escape code": "%F0%9F%8F%B8",
+      "Punycode": "xn--jn8h",
+      "Bytes (UTF-8)": "F0 9F 8F B8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFF8",
+      "C, C++, Python": "\\U0001f3f8",
+      "CSS": "\\01F3F8",
+      "PHP, Ruby": "\\u{1F3F8}",
+      "Perl": "\\x{1F3F8}"
+    }
+  }
+}

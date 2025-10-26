@@ -1,0 +1,103 @@
+{
+  "emoji": "😹",
+  "nome": "😹 Rosto de gato com lágrimas de alegria",
+  "categoria": "Cat With Tears Of Joy",
+  "url": "https://emojigraph.org/pt/cat-with-tears-of-joy/",
+  "detalhes": {
+    "explicacao": "Um gato dos desenhos animados com 😂 Rosto Com Lágrimas de Alegria. Descrito como amarelo nas principais plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cat-with-tears-of-joy_1f639.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cat-with-tears-of-joy_1f639.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alegria",
+      "gato",
+      "lágrimas",
+      "rosto",
+      "chorando",
+      "chorando de rir",
+      "choro",
+      "engraçado",
+      "felicidade",
+      "feliz",
+      "rindo",
+      "risos",
+      "rosto de gato"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F639;",
+      "HTML dec": "&#128569;",
+      "URL escape code": "%F0%9F%98%B9",
+      "Punycode": "xn--038h",
+      "Bytes (UTF-8)": "F0 9F 98 B9",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE39",
+      "C, C++, Python": "\\U0001f639",
+      "CSS": "\\01F639",
+      "PHP, Ruby": "\\u{1F639}",
+      "Perl": "\\x{1F639}"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "emoji": "🥁",
+  "nome": "🥁 Tambor",
+  "categoria": "Drum",
+  "url": "https://emojigraph.org/pt/drum/",
+  "detalhes": {
+    "explicacao": "Um tambor mostrado com baquetas. Um instrumento de percussão que é susceptível de ser apresentado como uma caixa de bateria.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/drum_1f941.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/drum_1f941.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/drum_1f941.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/drum_1f941.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/drum_1f941.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/drum_1f941.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/drum_1f941.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/drum_1f941.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/drum_1f941.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/drum_1f941.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "baquetas",
+      "música",
+      "percussão",
+      "tambor"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F941;",
+      "HTML dec": "&#129345;",
+      "URL escape code": "%F0%9F%A5%81",
+      "Punycode": "xn--6q9h",
+      "Bytes (UTF-8)": "F0 9F A5 81",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD41",
+      "C, C++, Python": "\\U0001f941",
+      "CSS": "\\01F941",
+      "PHP, Ruby": "\\u{1F941}",
+      "Perl": "\\x{1F941}"
+    }
+  }
+}

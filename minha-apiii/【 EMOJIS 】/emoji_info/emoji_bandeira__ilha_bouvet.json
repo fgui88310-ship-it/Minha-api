@@ -1,0 +1,59 @@
+{
+  "emoji": "🇧🇻",
+  "nome": "🇧🇻 Bandeira: Ilha Bouvet",
+  "categoria": "flag bouvet island",
+  "url": "https://emojigraph.org/pt/flag-bouvet-island/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Ilha Bouvet. Este símbolo é uma seqüência de caracteres 🇧 Símbolo Indicador Regional Letra B e 🇻 Símbolo Indicador Regional Letra V. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras BV em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-bouvet-island_1f1e7-1f1fb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-bouvet-island_1f1e7-1f1fb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-bouvet-island_1f1e7-1f1fb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-bouvet-island_1f1e7-1f1fb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-bouvet-island_1f1e7-1f1fb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-bouvet-island_1f1e7-1f1fb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-bouvet-island_1f1e7-1f1fb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-bouvet-island_1f1e7-1f1fb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1FB;",
+      "HTML dec": "&#127463;&#127483;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%BB",
+      "Punycode": "xn--f77hib",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 BB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDFB",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1fb",
+      "CSS": "\\01F1E7 \\01F1FB",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1FB}",
+      "Perl": "\\x{1F1E7}\\x{1F1FB}"
+    }
+  }
+}

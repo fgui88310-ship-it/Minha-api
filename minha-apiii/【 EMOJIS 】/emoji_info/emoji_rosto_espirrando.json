@@ -1,0 +1,80 @@
+{
+  "emoji": "🤧",
+  "nome": "🤧 Rosto espirrando",
+  "categoria": "sneezing face",
+  "url": "https://emojigraph.org/pt/sneezing-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com sobrancelhas franzidas, formato dos olhos em X, espirros ou assuando o nariz em um tecido branco, devido um resfriado ou alergia. Muitas vezes representado com um Rosto Perplexo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sneezing-face_1f927.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sneezing-face_1f927.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sneezing-face_1f927.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sneezing-face_1f927.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sneezing-face_1f927.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sneezing-face_1f927.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sneezing-face_1f927.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sneezing-face_1f927.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sneezing-face_1f927.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sneezing-face_1f927.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sneezing-face_1f927.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/sneezing-face_1f927.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "espirrando",
+      "espirro",
+      "de cama",
+      "doente",
+      "gripado",
+      "resfriado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F927;",
+      "HTML dec": "&#129319;",
+      "URL escape code": "%F0%9F%A4%A7",
+      "Punycode": "xn--gq9h",
+      "Bytes (UTF-8)": "F0 9F A4 A7",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD27",
+      "C, C++, Python": "\\U0001f927",
+      "CSS": "\\01F927",
+      "PHP, Ruby": "\\u{1F927}",
+      "Perl": "\\x{1F927}"
+    }
+  }
+}

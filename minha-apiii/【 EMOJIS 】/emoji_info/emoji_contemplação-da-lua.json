@@ -1,0 +1,93 @@
+{
+  "emoji": "🎑",
+  "nome": "🎑 Contemplação da lua",
+  "categoria": "Moon Viewing Ceremony",
+  "url": "https://emojigraph.org/pt/moon-viewing-ceremony/",
+  "detalhes": {
+    "explicacao": "Lua Visualização de Cerimônias (chamada Tsukimi no Japão) são realizados a cada ano no outono para celebrar a lua cheia e a lua no Japão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/moon-viewing-ceremony_1f391.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/moon-viewing-ceremony_1f391.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comemoração",
+      "contemplação",
+      "lua"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F391;",
+      "HTML dec": "&#127889;",
+      "URL escape code": "%F0%9F%8E%91",
+      "Punycode": "xn--lk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 91",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF91",
+      "C, C++, Python": "\\U0001f391",
+      "CSS": "\\01F391",
+      "PHP, Ruby": "\\u{1F391}",
+      "Perl": "\\x{1F391}"
+    }
+  }
+}

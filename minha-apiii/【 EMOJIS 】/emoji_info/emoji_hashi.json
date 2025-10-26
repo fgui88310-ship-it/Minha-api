@@ -1,0 +1,69 @@
+{
+  "emoji": "🥢",
+  "nome": "🥢 Hashi",
+  "categoria": "Chopsticks",
+  "url": "https://emojigraph.org/pt/chopsticks/",
+  "detalhes": {
+    "explicacao": "Um par de igual comprimento pauzinhos, comendo um utensílio usado em toda a Ásia Oriental. O Design e a cor variam amplamente pela plataforma, embora, muitas vezes, de vermelho ou de madeira, coloridas e com pontas em ângulo juntos. Destaque em muitas plataformas' Taça Fumegante de Comida e Takeout Caixa. Uma contrapartida para os utensílios, tais como Garfo e Faca e Colher.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/chopsticks_1f962.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/chopsticks_1f962.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/chopsticks_1f962.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/chopsticks_1f962.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/chopsticks_1f962.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/chopsticks_1f962.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/chopsticks_1f962.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/chopsticks_1f962.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/chopsticks_1f962.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/chopsticks_1f962.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "hashi",
+      "pauzinhos",
+      "comida japonesa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F962;",
+      "HTML dec": "&#129378;",
+      "URL escape code": "%F0%9F%A5%A2",
+      "Punycode": "xn--4r9h",
+      "Bytes (UTF-8)": "F0 9F A5 A2",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD62",
+      "C, C++, Python": "\\U0001f962",
+      "CSS": "\\01F962",
+      "PHP, Ruby": "\\u{1F962}",
+      "Perl": "\\x{1F962}"
+    }
+  }
+}

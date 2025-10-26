@@ -1,0 +1,86 @@
+{
+  "emoji": "😕",
+  "nome": "😕 Rosto confuso",
+  "categoria": "confused face",
+  "url": "https://emojigraph.org/pt/confused-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com os olhos abertos, e com um mínimo franzir de testa, está como se amassando suas bochechas ou mastigando seus lábios. Um olhar inseguro. No design do Google aumenta o sentimento de perplexidade, incluindo sobrancelhas contorcidas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/confused-face_1f615.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/confused-face_1f615.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "confuso",
+      "indeciso",
+      "rosto",
+      "não entendi"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F615;",
+      "HTML dec": "&#128533;",
+      "URL escape code": "%F0%9F%98%95",
+      "Punycode": "xn--z28h",
+      "Bytes (UTF-8)": "F0 9F 98 95",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE15",
+      "C, C++, Python": "\\U0001f615",
+      "CSS": "\\01F615",
+      "PHP, Ruby": "\\u{1F615}",
+      "Perl": "\\x{1F615}"
+    }
+  }
+}

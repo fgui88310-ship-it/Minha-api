@@ -1,0 +1,95 @@
+{
+  "emoji": "🍱",
+  "nome": "🍱 Bentô",
+  "categoria": "Bento Box",
+  "url": "https://emojigraph.org/pt/bento-box/",
+  "detalhes": {
+    "explicacao": "Um Japonês bento, uma caixa de almoço dividido em porções de arroz, legumes, carne ou frutos do mar, tais como o sushi ou camarão frito.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bento-box_1f371.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bento-box_1f371.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bentô",
+      "caixa",
+      "caixa de bentô",
+      "almoço japonês",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F371;",
+      "HTML dec": "&#127857;",
+      "URL escape code": "%F0%9F%8D%B1",
+      "Punycode": "xn--oj8h",
+      "Bytes (UTF-8)": "F0 9F 8D B1",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF71",
+      "C, C++, Python": "\\U0001f371",
+      "CSS": "\\01F371",
+      "PHP, Ruby": "\\u{1F371}",
+      "Perl": "\\x{1F371}"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "emoji": "📟",
+  "nome": "📟 Pager",
+  "categoria": "Pager",
+  "url": "https://emojigraph.org/pt/pager/",
+  "detalhes": {
+    "explicacao": "Um pager, como a usada na cintura para alertar uma pessoa a uma chamada de telefone ou mensagens de texto curtas. Popular na década de 1980–90, antes de telefones celulares, embora ainda utilizado por alguns médicos e pessoal de emergência. Muito ocasionalmente usado para representar alertas, comunicação digital, ou a nostalgia de uma tecnologia antiga.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pager_1f4df.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pager_1f4df.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comunicação",
+      "pager"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4DF;",
+      "HTML dec": "&#128223;",
+      "URL escape code": "%F0%9F%93%9F",
+      "Punycode": "xn--4t8h",
+      "Bytes (UTF-8)": "F0 9F 93 9F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCDF",
+      "C, C++, Python": "\\U0001f4df",
+      "CSS": "\\01F4DF",
+      "PHP, Ruby": "\\u{1F4DF}",
+      "Perl": "\\x{1F4DF}"
+    }
+  }
+}

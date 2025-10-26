@@ -1,0 +1,59 @@
+{
+  "emoji": "🇨🇩",
+  "nome": "🇨🇩 Bandeira: Congo - Kinshasa",
+  "categoria": "flag congo kinshasa",
+  "url": "https://emojigraph.org/pt/flag-congo-kinshasa/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Congo – Kinshasa. Este símbolo é uma seqüência de caracteres 🇨 Símbolo Indicador Regional Letra C e 🇩 Símbolo Indicador Regional Letra D. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras CD em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-congo-kinshasa_1f1e8-1f1e9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-congo-kinshasa_1f1e8-1f1e9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-congo-kinshasa_1f1e8-1f1e9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-congo-kinshasa_1f1e8-1f1e9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-congo-kinshasa_1f1e8-1f1e9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-congo-kinshasa_1f1e8-1f1e9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-congo-kinshasa_1f1e8-1f1e9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-congo-kinshasa_1f1e8-1f1e9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E8;&#x1F1E9;",
+      "HTML dec": "&#127464;&#127465;",
+      "URL escape code": "%F0%9F%87%A8%F0%9F%87%A9",
+      "Punycode": "xn--g77hc",
+      "Bytes (UTF-8)": "F0 9F 87 A8 F0 9F 87 A9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE8\\uD83C\\uDDE9",
+      "C, C++, Python": "\\U0001f1e8\\U0001f1e9",
+      "CSS": "\\01F1E8 \\01F1E9",
+      "PHP, Ruby": "\\u{1F1E8}\\u{1F1E9}",
+      "Perl": "\\x{1F1E8}\\x{1F1E9}"
+    }
+  }
+}

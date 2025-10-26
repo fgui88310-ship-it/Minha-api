@@ -1,0 +1,71 @@
+{
+  "emoji": "",
+  "nome": "⛱️ Guarda-sol",
+  "categoria": "Umbrella On Ground",
+  "url": "https://emojigraph.org/pt/umbrella-on-ground/",
+  "detalhes": {
+    "explicacao": "Um grande guarda-chuva aberto, como fornece sombra em uma praia ou para o pátio. Geralmente retratado como um listrado de guarda-chuva inserido em um trecho de areia, e inclinado para a direita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/umbrella-on-ground_26f1-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/umbrella-on-ground_26f1-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/umbrella-on-ground_26f1-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/umbrella-on-ground_26f1-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/umbrella-on-ground_26f1-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/umbrella-on-ground_26f1-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/umbrella-on-ground_26f1-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/umbrella-on-ground_26f1-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/umbrella-on-ground_26f1-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/umbrella-on-ground_26f1-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chuva",
+      "clima",
+      "guarda-sol",
+      "sol",
+      "sombrinha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26F1;&#xFE0F;",
+      "HTML dec": "&#9969;&#65039;",
+      "URL escape code": "%E2%9B%B1%EF%B8%8F",
+      "Punycode": "xn--gbi",
+      "Bytes (UTF-8)": "E2 9B B1 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26F1\\uFE0F",
+      "C, C++, Python": "\\u26F1\\uFE0F",
+      "CSS": "\\26F1 \\FE0F",
+      "PHP, Ruby": "\\u{26F1}\\u{FE0F}",
+      "Perl": "\\x{26F1}\\x{FE0F}"
+    }
+  }
+}

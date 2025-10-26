@@ -1,0 +1,96 @@
+{
+  "emoji": "🎿",
+  "nome": "🎿 Esqui",
+  "categoria": "Skis",
+  "url": "https://emojigraph.org/pt/skis/",
+  "detalhes": {
+    "explicacao": "Um par de esquis, que são mostrados em algumas plataformas ao lado de bastões de esqui e/ou botas de esqui. A cor e o design de esquis varia de plataforma, com algumas versões também mostrando os esquis de se mover em velocidade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/skis_1f3bf.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/skis_1f3bf.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bota",
+      "esporte",
+      "esqui",
+      "esqui e bota",
+      "esquiar",
+      "neve"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3BF;",
+      "HTML dec": "&#127935;",
+      "URL escape code": "%F0%9F%8E%BF",
+      "Punycode": "xn--wl8h",
+      "Bytes (UTF-8)": "F0 9F 8E BF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFBF",
+      "C, C++, Python": "\\U0001f3bf",
+      "CSS": "\\01F3BF",
+      "PHP, Ruby": "\\u{1F3BF}",
+      "Perl": "\\x{1F3BF}"
+    }
+  }
+}

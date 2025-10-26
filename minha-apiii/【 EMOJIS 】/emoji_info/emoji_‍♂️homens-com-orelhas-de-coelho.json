@@ -1,0 +1,69 @@
+{
+  "emoji": "👯",
+  "nome": "👯‍♂️ Homens com orelhas de coelho",
+  "categoria": "Men With Bunny Ears",
+  "url": "https://emojigraph.org/pt/men-with-bunny-ears/",
+  "detalhes": {
+    "explicacao": "A versão masculina do 👯 Mulher Com Orelhas de Coelho emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/men-with-bunny-ears_1f46f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/men-with-bunny-ears_1f46f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/men-with-bunny-ears_1f46f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/men-with-bunny-ears_1f46f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/men-with-bunny-ears_1f46f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/men-with-bunny-ears_1f46f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/men-with-bunny-ears_1f46f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/men-with-bunny-ears_1f46f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/men-with-bunny-ears_1f46f-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/men-with-bunny-ears_1f46f-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dançarino",
+      "festa",
+      "homens"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F46F;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#128111;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%91%AF%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h7410o",
+      "Bytes (UTF-8)": "F0 9F 91 AF E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC6F\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f46f\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F46F \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F46F}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F46F}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

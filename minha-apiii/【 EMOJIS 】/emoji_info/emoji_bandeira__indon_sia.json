@@ -1,0 +1,67 @@
+{
+  "emoji": "🇮🇩",
+  "nome": "🇮🇩 Bandeira: Indonésia",
+  "categoria": "flag indonesia",
+  "url": "https://emojigraph.org/pt/flag-indonesia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Indonésia. Este símbolo é uma seqüência de caracteres 🇮 Símbolo Indicador Regional Letra I e 🇩 Símbolo Indicador Regional Letra D. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras ID em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-indonesia_1f1ee-1f1e9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-indonesia_1f1ee-1f1e9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-indonesia_1f1ee-1f1e9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-indonesia_1f1ee-1f1e9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-indonesia_1f1ee-1f1e9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-indonesia_1f1ee-1f1e9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-indonesia_1f1ee-1f1e9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-indonesia_1f1ee-1f1e9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-indonesia_1f1ee-1f1e9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-indonesia_1f1ee-1f1e9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EE;&#x1F1E9;",
+      "HTML dec": "&#127470;&#127465;",
+      "URL escape code": "%F0%9F%87%AE%F0%9F%87%A9",
+      "Punycode": "xn--h77hja",
+      "Bytes (UTF-8)": "F0 9F 87 AE F0 9F 87 A9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEE\\uD83C\\uDDE9",
+      "C, C++, Python": "\\U0001f1ee\\U0001f1e9",
+      "CSS": "\\01F1EE \\01F1E9",
+      "PHP, Ruby": "\\u{1F1EE}\\u{1F1E9}",
+      "Perl": "\\x{1F1EE}\\x{1F1E9}"
+    }
+  }
+}

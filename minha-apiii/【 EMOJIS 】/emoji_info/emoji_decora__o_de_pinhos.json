@@ -1,0 +1,94 @@
+{
+  "emoji": "🎍",
+  "nome": "🎍 Decoração de pinhos",
+  "categoria": "pine decoration",
+  "url": "https://emojigraph.org/pt/pine-decoration/",
+  "detalhes": {
+    "explicacao": "Um Japonês kadomatsu, composto por pinheiros folhas e brotos de bambu. Tradicionalmente colocado fora de casas no Japão por volta do Ano Novo de boas-vindas de espíritos de um abundante, feliz ano antes.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pine-decoration_1f38d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pine-decoration_1f38d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bambu",
+      "comemoração",
+      "japonês",
+      "pinha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F38D;",
+      "HTML dec": "&#127885;",
+      "URL escape code": "%F0%9F%8E%8D",
+      "Punycode": "xn--hk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 8D",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF8D",
+      "C, C++, Python": "\\U0001f38d",
+      "CSS": "\\01F38D",
+      "PHP, Ruby": "\\u{1F38D}",
+      "Perl": "\\x{1F38D}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇫🇯",
+  "nome": "🇫🇯 Bandeira: Fiji",
+  "categoria": "flag fiji",
+  "url": "https://emojigraph.org/pt/flag-fiji/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional das ilhas Fiji. Este símbolo é uma seqüência de caracteres 🇫 Símbolo Indicador Regional Letra F e 🇯 Símbolo Indicador Regional Letra J. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras FJ em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-fiji_1f1eb-1f1ef.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-fiji_1f1eb-1f1ef.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-fiji_1f1eb-1f1ef.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-fiji_1f1eb-1f1ef.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-fiji_1f1eb-1f1ef.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-fiji_1f1eb-1f1ef.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-fiji_1f1eb-1f1ef.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-fiji_1f1eb-1f1ef.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EB;&#x1F1EF;",
+      "HTML dec": "&#127467;&#127471;",
+      "URL escape code": "%F0%9F%87%AB%F0%9F%87%AF",
+      "Punycode": "xn--j77hia",
+      "Bytes (UTF-8)": "F0 9F 87 AB F0 9F 87 AF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEB\\uD83C\\uDDEF",
+      "C, C++, Python": "\\U0001f1eb\\U0001f1ef",
+      "CSS": "\\01F1EB \\01F1EF",
+      "PHP, Ruby": "\\u{1F1EB}\\u{1F1EF}",
+      "Perl": "\\x{1F1EB}\\x{1F1EF}"
+    }
+  }
+}

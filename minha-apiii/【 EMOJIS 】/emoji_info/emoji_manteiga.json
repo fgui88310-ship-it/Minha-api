@@ -1,0 +1,69 @@
+{
+  "emoji": "🧈",
+  "nome": "🧈 Manteiga",
+  "categoria": "Butter",
+  "url": "https://emojigraph.org/pt/butter/",
+  "detalhes": {
+    "explicacao": "Uma imagem dos desenhos animados de um pedaço de manteiga em um prato de manteiga. A manteiga é um ingrediente versátil na cozinha e é usada desde o cozimento até para fritar. Frequentemente usado no contexto de alimentos. Manteiga foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/butter_1f9c8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/butter_1f9c8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/butter_1f9c8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/butter_1f9c8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/butter_1f9c8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/butter_1f9c8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/butter_1f9c8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/butter_1f9c8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/butter_1f9c8.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/butter_1f9c8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "laticínio",
+      "manteiga",
+      "margarina"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9C8;",
+      "HTML dec": "&#129480;",
+      "URL escape code": "%F0%9F%A7%88",
+      "Punycode": "xn--1u9h",
+      "Bytes (UTF-8)": "F0 9F A7 88",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDC8",
+      "C, C++, Python": "\\U0001f9c8",
+      "CSS": "\\01F9C8",
+      "PHP, Ruby": "\\u{1F9C8}",
+      "Perl": "\\x{1F9C8}"
+    }
+  }
+}

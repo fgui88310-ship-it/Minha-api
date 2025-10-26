@@ -1,0 +1,68 @@
+{
+  "emoji": "🖋",
+  "nome": "🖋️ Caneta tinteiro",
+  "categoria": "fountain pen",
+  "url": "https://emojigraph.org/pt/fountain-pen/",
+  "detalhes": {
+    "explicacao": "Um preto caneta-tinteiro com uma prata de ponta, como o usado para assinar documentos importantes. Muitas vezes representada com hardware de ouro. Posicionado em um ângulo de 45°, com a sua ponta no canto inferior esquerdo. Como ✒️ Preto Nib, comumente usado para vários conteúdos relativos a escrita, o desenho, e a assinatura (por exemplo, leis, acordos, em esportes).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fountain-pen_1f58b-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fountain-pen_1f58b-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fountain-pen_1f58b-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fountain-pen_1f58b-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fountain-pen_1f58b-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fountain-pen_1f58b-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fountain-pen_1f58b-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fountain-pen_1f58b-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fountain-pen_1f58b-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fountain-pen_1f58b-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caneta",
+      "tinteiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F58B;&#xFE0F;",
+      "HTML dec": "&#128395;&#65039;",
+      "URL escape code": "%F0%9F%96%8B%EF%B8%8F",
+      "Punycode": "xn--1y8h",
+      "Bytes (UTF-8)": "F0 9F 96 8B EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD8B\\uFE0F",
+      "C, C++, Python": "\\U0001f58b\\uFE0F",
+      "CSS": "\\01F58B \\FE0F",
+      "PHP, Ruby": "\\u{1F58B}\\u{FE0F}",
+      "Perl": "\\x{1F58B}\\x{FE0F}"
+    }
+  }
+}

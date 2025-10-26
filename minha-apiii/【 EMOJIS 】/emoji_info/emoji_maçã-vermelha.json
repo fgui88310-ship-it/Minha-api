@@ -1,0 +1,93 @@
+{
+  "emoji": "🍎",
+  "nome": "🍎 Maçã vermelha",
+  "categoria": "Red Apple",
+  "url": "https://emojigraph.org/pt/red-apple/",
+  "detalhes": {
+    "explicacao": "Um vermelho clássico da apple, apresentado com uma haste única, folha verde nas principais plataformas. Comumente associada com médicos, professores, e Nova York.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/red-apple_1f34e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/red-apple_1f34e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fruta",
+      "maçã",
+      "vermelha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F34E;",
+      "HTML dec": "&#127822;",
+      "URL escape code": "%F0%9F%8D%8E",
+      "Punycode": "xn--oi8h",
+      "Bytes (UTF-8)": "F0 9F 8D 8E",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF4E",
+      "C, C++, Python": "\\U0001f34e",
+      "CSS": "\\01F34E",
+      "PHP, Ruby": "\\u{1F34E}",
+      "Perl": "\\x{1F34E}"
+    }
+  }
+}

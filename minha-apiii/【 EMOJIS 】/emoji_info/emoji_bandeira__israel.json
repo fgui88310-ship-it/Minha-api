@@ -1,0 +1,67 @@
+{
+  "emoji": "🇮🇱",
+  "nome": "🇮🇱 Bandeira: Israel",
+  "categoria": "flag israel",
+  "url": "https://emojigraph.org/pt/flag-israel/",
+  "detalhes": {
+    "explicacao": "A bandeira de Israel, que pode mostrar como as letras IL em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-israel_1f1ee-1f1f1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-israel_1f1ee-1f1f1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-israel_1f1ee-1f1f1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-israel_1f1ee-1f1f1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-israel_1f1ee-1f1f1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-israel_1f1ee-1f1f1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-israel_1f1ee-1f1f1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-israel_1f1ee-1f1f1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-israel_1f1ee-1f1f1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-israel_1f1ee-1f1f1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EE;&#x1F1F1;",
+      "HTML dec": "&#127470;&#127473;",
+      "URL escape code": "%F0%9F%87%AE%F0%9F%87%B1",
+      "Punycode": "xn--m77hga",
+      "Bytes (UTF-8)": "F0 9F 87 AE F0 9F 87 B1",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEE\\uD83C\\uDDF1",
+      "C, C++, Python": "\\U0001f1ee\\U0001f1f1",
+      "CSS": "\\01F1EE \\01F1F1",
+      "PHP, Ruby": "\\u{1F1EE}\\u{1F1F1}",
+      "Perl": "\\x{1F1EE}\\x{1F1F1}"
+    }
+  }
+}

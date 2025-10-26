@@ -1,0 +1,70 @@
+{
+  "emoji": "🪓",
+  "nome": "🪓 Machado",
+  "categoria": "Axe",
+  "url": "https://emojigraph.org/pt/axe/",
+  "detalhes": {
+    "explicacao": "Machado foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/axe_1fa93.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/axe_1fa93.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/axe_1fa93.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/axe_1fa93.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/axe_1fa93.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/axe_1fa93.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/axe_1fa93.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/axe_1fa93.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/axe_1fa93.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/axe_1fa93.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cortar",
+      "machado",
+      "madeira",
+      "partir"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA93;",
+      "HTML dec": "&#129683;",
+      "URL escape code": "%F0%9F%AA%93",
+      "Punycode": "xn--u09h",
+      "Bytes (UTF-8)": "F0 9F AA 93",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE93",
+      "C, C++, Python": "\\U0001fa93",
+      "CSS": "\\01FA93",
+      "PHP, Ruby": "\\u{1FA93}",
+      "Perl": "\\x{1FA93}"
+    }
+  }
+}

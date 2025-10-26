@@ -1,0 +1,59 @@
+{
+  "emoji": "🇳🇺",
+  "nome": "🇳🇺 Bandeira: Niue",
+  "categoria": "flag niue",
+  "url": "https://emojigraph.org/pt/flag-niue/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Niue. Este símbolo é uma seqüência de caracteres 🇳 Símbolo Indicador Regional Letra N e 🇺 Símbolo Indicador Regional Letra U. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras NU em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-niue_1f1f3-1f1fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-niue_1f1f3-1f1fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-niue_1f1f3-1f1fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-niue_1f1f3-1f1fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-niue_1f1f3-1f1fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-niue_1f1f3-1f1fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-niue_1f1f3-1f1fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-niue_1f1f3-1f1fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F3;&#x1F1FA;",
+      "HTML dec": "&#127475;&#127482;",
+      "URL escape code": "%F0%9F%87%B3%F0%9F%87%BA",
+      "Punycode": "xn--r77hoa",
+      "Bytes (UTF-8)": "F0 9F 87 B3 F0 9F 87 BA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF3\\uD83C\\uDDFA",
+      "C, C++, Python": "\\U0001f1f3\\U0001f1fa",
+      "CSS": "\\01F1F3 \\01F1FA",
+      "PHP, Ruby": "\\u{1F1F3}\\u{1F1FA}",
+      "Perl": "\\x{1F1F3}\\x{1F1FA}"
+    }
+  }
+}

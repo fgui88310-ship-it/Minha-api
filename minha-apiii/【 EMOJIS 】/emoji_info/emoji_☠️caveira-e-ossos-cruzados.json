@@ -1,0 +1,70 @@
+{
+  "emoji": "",
+  "nome": "☠️ Caveira e ossos cruzados",
+  "categoria": "Skull And Crossbones",
+  "url": "https://emojigraph.org/pt/skull-and-crossbones/",
+  "detalhes": {
+    "explicacao": "Um desenho animado crânio humano sobreposto sobre um X em forma de ossos, como em uma bandeira de pirata ou símbolo de veneno. O design da Samsung apresentava anteriormente um crânio e ossos cruzados em um triângulo amarelo, indicando um material perigoso.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/skull-and-crossbones_2620-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/skull-and-crossbones_2620-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/skull-and-crossbones_2620-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/skull-and-crossbones_2620-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/skull-and-crossbones_2620-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/skull-and-crossbones_2620-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/skull-and-crossbones_2620-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/skull-and-crossbones_2620-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/skull-and-crossbones_2620-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/skull-and-crossbones_2620-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caveira",
+      "morte",
+      "ossos cruzados",
+      "pirata"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2620;&#xFE0F;",
+      "HTML dec": "&#9760;&#65039;",
+      "URL escape code": "%E2%98%A0%EF%B8%8F",
+      "Punycode": "xn--h4h",
+      "Bytes (UTF-8)": "E2 98 A0 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2620\\uFE0F",
+      "C, C++, Python": "\\u2620\\uFE0F",
+      "CSS": "\\2620 \\FE0F",
+      "PHP, Ruby": "\\u{2620}\\u{FE0F}",
+      "Perl": "\\x{2620}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "",
+  "nome": "⛺ Barraca",
+  "categoria": "tent",
+  "url": "https://emojigraph.org/pt/tent/",
+  "detalhes": {
+    "explicacao": "Uma tenda, utilizado para a proteção do vento e da chuva quando acampamento. Muitas vezes mostrado durante a noite, sob as estrelas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tent_26fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tent_26fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tent_26fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tent_26fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tent_26fa.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tent_26fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tent_26fa.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tent_26fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tent_26fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tent_26fa.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tent_26fa.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tent_26fa.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tent_26fa.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tent_26fa.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tent_26fa.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tent_26fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acampamento",
+      "barraca",
+      "acampar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26FA;",
+      "HTML dec": "&#9978;",
+      "URL escape code": "%E2%9B%BA",
+      "Punycode": "xn--pbi",
+      "Bytes (UTF-8)": "E2 9B BA",
+      "JavaScript, JSON, Java": "\\u26FA",
+      "C, C++, Python": "\\u26FA",
+      "CSS": "\\26FA",
+      "PHP, Ruby": "\\u{26FA}",
+      "Perl": "\\x{26FA}"
+    }
+  }
+}

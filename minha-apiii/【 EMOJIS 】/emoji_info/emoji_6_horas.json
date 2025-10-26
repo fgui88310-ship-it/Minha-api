@@ -1,0 +1,95 @@
+{
+  "emoji": "🕕",
+  "nome": "🕕 6 horas",
+  "categoria": "six oclock",
+  "url": "https://emojigraph.org/pt/six-oclock/",
+  "detalhes": {
+    "explicacao": "Seis Horas foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Seis Horas\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/six-oclock_1f555.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/six-oclock_1f555.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "6 horas",
+      "6h00",
+      "relógio",
+      "seis",
+      "18h"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F555;",
+      "HTML dec": "&#128341;",
+      "URL escape code": "%F0%9F%95%95",
+      "Punycode": "xn--ix8h",
+      "Bytes (UTF-8)": "F0 9F 95 95",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD55",
+      "C, C++, Python": "\\U0001f555",
+      "CSS": "\\01F555",
+      "PHP, Ruby": "\\u{1F555}",
+      "Perl": "\\x{1F555}"
+    }
+  }
+}

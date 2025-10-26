@@ -1,0 +1,97 @@
+{
+  "emoji": "🍹",
+  "nome": "🍹 Bebida tropical",
+  "categoria": "tropical drink",
+  "url": "https://emojigraph.org/pt/tropical-drink/",
+  "detalhes": {
+    "explicacao": "Uma bebida tropical, pôr-do-sol cor-de-laranja, em uma taça de vidro, como um punch rum ou mai tai. Servido com uma palha de frutas. Muitas plataformas incluem um cocktail de guarda-chuva, daí drinque com guarda-chuva. Na Samsung anteriormente continha uma mistura azul-eléctrica. Ver também o Copo de Coquetel.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tropical-drink_1f379.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tropical-drink_1f379.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bar",
+      "bebida",
+      "drink",
+      "tropical",
+      "coquetel",
+      "happy hour",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F379;",
+      "HTML dec": "&#127865;",
+      "URL escape code": "%F0%9F%8D%B9",
+      "Punycode": "xn--wj8h",
+      "Bytes (UTF-8)": "F0 9F 8D B9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF79",
+      "C, C++, Python": "\\U0001f379",
+      "CSS": "\\01F379",
+      "PHP, Ruby": "\\u{1F379}",
+      "Perl": "\\x{1F379}"
+    }
+  }
+}

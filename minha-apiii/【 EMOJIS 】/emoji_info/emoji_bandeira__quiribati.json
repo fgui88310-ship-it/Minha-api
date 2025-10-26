@@ -1,0 +1,59 @@
+{
+  "emoji": "🇰🇮",
+  "nome": "🇰🇮 Bandeira: Quiribati",
+  "categoria": "flag kiribati",
+  "url": "https://emojigraph.org/pt/flag-kiribati/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da república do Kiribati. Este símbolo é uma seqüência de caracteres 🇰 Símbolo Indicador Regional Letra K e 🇮 Símbolo Indicador Regional Letra I. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras KI em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-kiribati_1f1f0-1f1ee.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-kiribati_1f1f0-1f1ee.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-kiribati_1f1f0-1f1ee.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-kiribati_1f1f0-1f1ee.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-kiribati_1f1f0-1f1ee.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-kiribati_1f1f0-1f1ee.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-kiribati_1f1f0-1f1ee.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-kiribati_1f1f0-1f1ee.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F0;&#x1F1EE;",
+      "HTML dec": "&#127472;&#127470;",
+      "URL escape code": "%F0%9F%87%B0%F0%9F%87%AE",
+      "Punycode": "xn--m77hd",
+      "Bytes (UTF-8)": "F0 9F 87 B0 F0 9F 87 AE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF0\\uD83C\\uDDEE",
+      "C, C++, Python": "\\U0001f1f0\\U0001f1ee",
+      "CSS": "\\01F1F0 \\01F1EE",
+      "PHP, Ruby": "\\u{1F1F0}\\u{1F1EE}",
+      "Perl": "\\x{1F1F0}\\x{1F1EE}"
+    }
+  }
+}

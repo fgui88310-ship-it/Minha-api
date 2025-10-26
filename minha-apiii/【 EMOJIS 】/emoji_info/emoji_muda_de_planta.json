@@ -1,0 +1,97 @@
+{
+  "emoji": "🌱",
+  "nome": "🌱 Muda de planta",
+  "categoria": "seedling",
+  "url": "https://emojigraph.org/pt/seedling/",
+  "detalhes": {
+    "explicacao": "Uma muda, ou de uma planta jovem, como um recém-nascido árvore. Descrito como um pequeno ponto de luz-planta verde com um tronco curto e duas folhas. Muitas vezes mostrado recém-surgido a partir de um pequeno monte de terra marrom.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/seedling_1f331.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/seedling_1f331.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "muda",
+      "muda de planta",
+      "plantinha",
+      "brotar",
+      "broto",
+      "jovem",
+      "planta jovem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F331;",
+      "HTML dec": "&#127793;",
+      "URL escape code": "%F0%9F%8C%B1",
+      "Punycode": "xn--uh8h",
+      "Bytes (UTF-8)": "F0 9F 8C B1",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF31",
+      "C, C++, Python": "\\U0001f331",
+      "CSS": "\\01F331",
+      "PHP, Ruby": "\\u{1F331}",
+      "Perl": "\\x{1F331}"
+    }
+  }
+}

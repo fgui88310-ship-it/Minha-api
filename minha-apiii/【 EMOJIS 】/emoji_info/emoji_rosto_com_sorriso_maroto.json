@@ -1,0 +1,95 @@
+{
+  "emoji": "😏",
+  "nome": "😏 Rosto com sorriso maroto",
+  "categoria": "smirking face",
+  "url": "https://emojigraph.org/pt/smirking-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com um manhoso, presunçoso, travesso, ou sugestiva expressão facial. Dispõe de um meio-sorriso, levantou as sobrancelhas e os olhos olhando para o lado. Muitas vezes usada para transmitir flerte ou insinuação sexual.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/smirking-face_1f60f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/smirking-face_1f60f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "sorriso maroto",
+      "flerte",
+      "sorriso maldoso",
+      "suspeito"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F60F;",
+      "HTML dec": "&#128527;",
+      "URL escape code": "%F0%9F%98%8F",
+      "Punycode": "xn--t28h",
+      "Bytes (UTF-8)": "F0 9F 98 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE0F",
+      "C, C++, Python": "\\U0001f60f",
+      "CSS": "\\01F60F",
+      "PHP, Ruby": "\\u{1F60F}",
+      "Perl": "\\x{1F60F}"
+    }
+  }
+}

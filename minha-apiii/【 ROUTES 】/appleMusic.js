@@ -1,0 +1,62 @@
+// api/endpoints/appleMusic.js
+import express from 'express';
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+
+const router = express.Router();
+
+router.get('/', async (req, res, next) => {
+  const { query, limit = 5 } = req.query;
+  if (!query) return res.status(400).json({ error: 'Passe ?query= para buscar músicas' });
+
+  try {
+    const searchUrl = `https://music.apple.com/us/search?term=${encodeURIComponent(query)}`;
+    const { data } = await axios.get(searchUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+      },
+      timeout: 5000,
+    });
+
+    const $ = cheerio.load(data);
+    const results = [];
+
+    $('li.shelf-grid__list-item').each((i, el) => {
+      if (results.length >= limit) return false; // limitar resultados
+
+      const trackLockup = $(el).find('.track-lockup');
+      const title = trackLockup.find('.track-lockup__title a').text().trim();
+
+      const artists = [];
+      const artistUrls = [];
+      trackLockup.find('.track-lockup__subtitle a').each((i, artistEl) => {
+        const artistName = $(artistEl).text().trim();
+        const artistUrl = $(artistEl).attr('href');
+        if (artistName) artists.push(artistName);
+        if (artistUrl) artistUrls.push(artistUrl);
+      });
+
+      const songUrl = trackLockup.find('.track-lockup__title a').attr('href');
+
+      if (title && artists.length > 0) {
+        results.push({
+          title,
+          artistInfo: {
+            name: artists.join(', '),
+            url: artistUrls[0] || '',
+          },
+          songUrl: songUrl || '',
+        });
+      }
+    });
+
+    if (results.length === 0) return res.status(404).json({ error: 'Nenhum resultado encontrado' });
+
+    res.json(results);
+  } catch (err) {
+    next(err);
+  }
+});
+
+export default router;

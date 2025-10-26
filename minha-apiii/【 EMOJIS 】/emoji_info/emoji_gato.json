@@ -1,0 +1,85 @@
+{
+  "emoji": "🐈",
+  "nome": "🐈 Gato",
+  "categoria": "Cat",
+  "url": "https://emojigraph.org/pt/cat/",
+  "detalhes": {
+    "explicacao": "Um gato doméstico, amado como um animal de estimação. Geralmente retratado como um gato de cor laranja com listras, em perfil completo com todas os quatro patas viradas para a esquerda, com a sua longa cauda subindo para cima de seu corpo",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cat_1f408.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cat_1f408.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cat_1f408.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cat_1f408.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cat_1f408.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cat_1f408.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cat_1f408.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cat_1f408.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cat_1f408.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cat_1f408.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cat_1f408.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cat_1f408.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cat_1f408.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cat_1f408.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "gato",
+      "felino"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F408;",
+      "HTML dec": "&#128008;",
+      "URL escape code": "%F0%9F%90%88",
+      "Punycode": "xn--zn8h",
+      "Bytes (UTF-8)": "F0 9F 90 88",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC08",
+      "C, C++, Python": "\\U0001f408",
+      "CSS": "\\01F408",
+      "PHP, Ruby": "\\u{1F408}",
+      "Perl": "\\x{1F408}"
+    }
+  }
+}

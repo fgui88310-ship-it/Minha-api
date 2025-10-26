@@ -1,0 +1,96 @@
+{
+  "emoji": "🕓",
+  "nome": "🕓 4 horas",
+  "categoria": "Four Oclock",
+  "url": "https://emojigraph.org/pt/four-oclock/",
+  "detalhes": {
+    "explicacao": "Quatro Horas foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Quatro Horas\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/four-oclock_1f553.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/four-oclock_1f553.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "4 horas",
+      "4h00",
+      "quatro",
+      "relógio",
+      "4:00",
+      "horário"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F553;",
+      "HTML dec": "&#128339;",
+      "URL escape code": "%F0%9F%95%93",
+      "Punycode": "xn--gx8h",
+      "Bytes (UTF-8)": "F0 9F 95 93",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD53",
+      "C, C++, Python": "\\U0001f553",
+      "CSS": "\\01F553",
+      "PHP, Ruby": "\\u{1F553}",
+      "Perl": "\\x{1F553}"
+    }
+  }
+}

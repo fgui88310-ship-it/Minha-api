@@ -1,0 +1,95 @@
+{
+  "emoji": "🐾",
+  "nome": "🐾 Patas",
+  "categoria": "Paw Prints",
+  "url": "https://emojigraph.org/pt/paw-prints/",
+  "detalhes": {
+    "explicacao": "Um par de pegadas, como se deixadas na posição esquerda por um animal de estimação, 🐈 gato ou 🐕 cão Geralmente retratado como duas pegadas, irregulares, de cor escura, cada uma mostrando quatro dedos e uma almofadinha da pata.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/paw-prints_1f43e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/paw-prints_1f43e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pata",
+      "patas",
+      "pegada",
+      "pegada de pata",
+      "animal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F43E;",
+      "HTML dec": "&#128062;",
+      "URL escape code": "%F0%9F%90%BE",
+      "Punycode": "xn--jp8h",
+      "Bytes (UTF-8)": "F0 9F 90 BE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC3E",
+      "C, C++, Python": "\\U0001f43e",
+      "CSS": "\\01F43E",
+      "PHP, Ruby": "\\u{1F43E}",
+      "Perl": "\\x{1F43E}"
+    }
+  }
+}

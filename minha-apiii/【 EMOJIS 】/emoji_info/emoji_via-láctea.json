@@ -1,0 +1,94 @@
+{
+  "emoji": "🌌",
+  "nome": "🌌 Via láctea",
+  "categoria": "Milky Way",
+  "url": "https://emojigraph.org/pt/milky-way/",
+  "detalhes": {
+    "explicacao": "A via Láctea – a galáxia de bilhões de estrelas que inclui o nosso próprio sistema solar e do planeta Terra.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/milky-way_1f30c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/milky-way_1f30c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "céu",
+      "estrelado",
+      "via láctea",
+      "espaço"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F30C;",
+      "HTML dec": "&#127756;",
+      "URL escape code": "%F0%9F%8C%8C",
+      "Punycode": "xn--sg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 8C",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF0C",
+      "C, C++, Python": "\\U0001f30c",
+      "CSS": "\\01F30C",
+      "PHP, Ruby": "\\u{1F30C}",
+      "Perl": "\\x{1F30C}"
+    }
+  }
+}

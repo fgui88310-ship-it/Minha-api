@@ -1,0 +1,95 @@
+{
+  "emoji": "😼",
+  "nome": "😼 Rosto de gato com sorriso irônico",
+  "categoria": "cat with wry smile",
+  "url": "https://emojigraph.org/pt/cat-with-wry-smile/",
+  "detalhes": {
+    "explicacao": "Um gato dos desenhos animados variante de 😏 Sorridente Rosto. Descrito como amarelo nas principais plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cat-with-wry-smile_1f63c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cat-with-wry-smile_1f63c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gato",
+      "irônico",
+      "rosto",
+      "rosto de gato",
+      "sorriso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F63C;",
+      "HTML dec": "&#128572;",
+      "URL escape code": "%F0%9F%98%BC",
+      "Punycode": "xn--338h",
+      "Bytes (UTF-8)": "F0 9F 98 BC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE3C",
+      "C, C++, Python": "\\U0001f63c",
+      "CSS": "\\01F63C",
+      "PHP, Ruby": "\\u{1F63C}",
+      "Perl": "\\x{1F63C}"
+    }
+  }
+}

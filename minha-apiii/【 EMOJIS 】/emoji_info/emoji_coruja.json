@@ -1,0 +1,69 @@
+{
+  "emoji": "🦉",
+  "nome": "🦉 Coruja",
+  "categoria": "Owl",
+  "url": "https://emojigraph.org/pt/owl/",
+  "detalhes": {
+    "explicacao": "Uma coruja, com seus grandes olhos, conhecido como o pássaro da noite. Descrito como uma coruja marrom-avermelhada e virado para a frente. Mostrado com a grande armação dourada ao redor dos olhos, pés enrolados em um galho, asas dobradas, e seu distinto 'chifre' feito de tufos de penas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/owl_1f989.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/owl_1f989.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/owl_1f989.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/owl_1f989.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/owl_1f989.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/owl_1f989.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/owl_1f989.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/owl_1f989.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/owl_1f989.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/owl_1f989.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coruja",
+      "pássaro",
+      "sabedoria"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F989;",
+      "HTML dec": "&#129417;",
+      "URL escape code": "%F0%9F%A6%89",
+      "Punycode": "xn--8s9h",
+      "Bytes (UTF-8)": "F0 9F A6 89",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD89",
+      "C, C++, Python": "\\U0001f989",
+      "CSS": "\\01F989",
+      "PHP, Ruby": "\\u{1F989}",
+      "Perl": "\\x{1F989}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇸🇮",
+  "nome": "🇸🇮 Bandeira: Eslovênia",
+  "categoria": "flag slovenia",
+  "url": "https://emojigraph.org/pt/flag-slovenia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Eslovénia. Este símbolo é uma seqüência de caracteres 🇸 Símbolo Indicador Regional Letra S e 🇮 Símbolo Indicador Regional Letra I. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras SI em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-slovenia_1f1f8-1f1ee.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-slovenia_1f1f8-1f1ee.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-slovenia_1f1f8-1f1ee.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-slovenia_1f1f8-1f1ee.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-slovenia_1f1f8-1f1ee.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-slovenia_1f1f8-1f1ee.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-slovenia_1f1f8-1f1ee.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-slovenia_1f1f8-1f1ee.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F8;&#x1F1EE;",
+      "HTML dec": "&#127480;&#127470;",
+      "URL escape code": "%F0%9F%87%B8%F0%9F%87%AE",
+      "Punycode": "xn--m77hta",
+      "Bytes (UTF-8)": "F0 9F 87 B8 F0 9F 87 AE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF8\\uD83C\\uDDEE",
+      "C, C++, Python": "\\U0001f1f8\\U0001f1ee",
+      "CSS": "\\01F1F8 \\01F1EE",
+      "PHP, Ruby": "\\u{1F1F8}\\u{1F1EE}",
+      "Perl": "\\x{1F1F8}\\x{1F1EE}"
+    }
+  }
+}

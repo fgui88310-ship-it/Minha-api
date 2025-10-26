@@ -1,0 +1,39 @@
+import { execSync } from 'child_process';
+import fs from 'fs';
+import { PATHS } from '../config.js';
+
+export async function downloadInstagramMedia(url) {
+  // Limpa a URL (remove parâmetros)
+  const cleanUrl = url.split('?')[0];
+  console.log('🔍 [DOWNLOAD] URL limpa:', cleanUrl);
+
+  // Verifica se existe o arquivo de cookies
+  if (!fs.existsSync(PATHS.cookiesInsta)) {
+    console.error('❌ [COOKIES] Arquivo de cookies não encontrado');
+    return null;
+  }
+  
+  const outputTemplate = `${PATHS.downloadsDir}/%(id)s.%(ext)s`;
+
+  // Monta o comando do yt-dlp para baixar vídeo e áudio separados
+  const command = [
+    `yt-dlp`,
+    `"${cleanUrl}"`,
+    `--cookies "${PATHS.cookiesInsta}"`,
+    `-o "${outputTemplate}"`,            // caminho e nome do arquivo
+    `--format "bestvideo+bestaudio/best"`, // melhor vídeo e áudio
+    `--merge-output-format mp4`,         // junta vídeo e áudio em mp4
+    `--no-progress`
+  ].join(' ');
+
+  try {
+    console.time('yt-dlp-download');
+    execSync(command, { stdio: 'inherit', timeout: 60000 }); // exibe progressos no console
+    console.timeEnd('yt-dlp-download');
+    console.log('✅ [DOWNLOAD] Concluído com sucesso!');
+    return true;
+  } catch (error) {
+    console.error('❌ [DOWNLOAD] Falha ao baixar mídia:', error.message);
+    return null;
+  }
+}

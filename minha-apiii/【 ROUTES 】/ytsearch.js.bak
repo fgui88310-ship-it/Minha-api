@@ -1,0 +1,141 @@
+import express from 'express';
+import fetch from 'node-fetch';
+import { setCache, getCache } from '../【 MODULES 】/libs.js';
+const router = express.Router();
+
+// Função auxiliar para extrair videoId (pode ser usada se o usuário passar URL)
+function extractVideoId(input) {
+  try {
+    const url = new URL(input);
+    if (url.hostname.includes("youtube.com")) return url.searchParams.get("v");
+    if (url.hostname.includes("youtu.be")) return url.pathname.split("/")[1];
+    return null;
+  } catch {
+    return null;
+  }
+}
+
+// Nova função para buscar múltiplos vídeos
+async function searchYouTubeMultiple(queryOrUrl, limit = 5) {
+  const startTime = Date.now();
+  let videoId = extractVideoId(queryOrUrl);
+
+  try {
+    let results = [];
+
+    if (!videoId) {
+      // Busca via API interna do YouTube (youtubei)
+      const searchEndpoint = `https://www.youtube.com/youtubei/v1/search?key=AIzaSyA-EXEMPLO`;
+      const searchBody = {
+        context: { client: { clientName: "WEB", clientVersion: "2.20251021.00.00" } },
+        query: queryOrUrl
+      };
+
+      const searchResp = await fetch(searchEndpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(searchBody)
+      });
+      const searchData = await searchResp.json();
+
+      const items = searchData.contents?.twoColumnSearchResultsRenderer?.primaryContents
+        ?.sectionListRenderer?.contents?.[0]?.itemSectionRenderer?.contents
+        ?.filter(item => item.videoRenderer)
+        .slice(0, limit); // limitar quantidade
+
+      if (!items || items.length === 0) return null;
+
+      // Montar array de resultados
+      for (const item of items) {
+        const vidId = item.videoRenderer.videoId;
+
+        // Pega detalhes do vídeo
+        const playerEndpoint = `https://www.youtube.com/youtubei/v1/player?key=AIzaSyA-EXEMPLO`;
+        const playerBody = {
+          context: { client: { clientName: "WEB", clientVersion: "2.20251021.00.00" } },
+          videoId: vidId
+        };
+
+        const playerResp = await fetch(playerEndpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(playerBody)
+        });
+        const playerData = await playerResp.json();
+        const vr = playerData.videoDetails;
+        const micro = playerData.microformat?.playerMicroformatRenderer;
+
+        results.push({
+          title: vr.title,
+          videoId: vr.videoId,
+          url: `https://www.youtube.com/watch?v=${vr.videoId}`,
+          description: vr.shortDescription,
+          duration: vr.lengthSeconds + "s",
+          views: vr.viewCount,
+          channel: vr.author,
+          thumbnails: vr.thumbnail?.thumbnails || [],
+          published: micro?.uploadDate || "Não encontrado",
+        });
+      }
+    } else {
+      // Se o usuário passou URL direta, apenas retorna esse vídeo
+      const playerEndpoint = `https://www.youtube.com/youtubei/v1/player?key=AIzaSyA-EXEMPLO`;
+      const playerBody = {
+        context: { client: { clientName: "WEB", clientVersion: "2.20251021.00.00" } },
+        videoId
+      };
+      const playerResp = await fetch(playerEndpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(playerBody)
+      });
+      const playerData = await playerResp.json();
+      const vr = playerData.videoDetails;
+      const micro = playerData.microformat?.playerMicroformatRenderer;
+
+      results.push({
+        title: vr.title,
+        videoId: vr.videoId,
+        url: `https://www.youtube.com/watch?v=${vr.videoId}`,
+        description: vr.shortDescription,
+        duration: vr.lengthSeconds + "s",
+        views: vr.viewCount,
+        channel: vr.author,
+        thumbnails: vr.thumbnail?.thumbnails || [],
+        published: micro?.uploadDate || "Não encontrado",
+      });
+    }
+
+    return {
+      results,
+      searchTimeMs: Date.now() - startTime
+    };
+
+  } catch (err) {
+    console.error("[YOUTUBE SCRAPER MULTIPLE] Erro:", err.message);
+    return null;
+  }
+}
+
+// Endpoint GET /ytsearch?query=
+router.get('/', async (req, res) => {
+  const { query, url, limit } = req.query;
+  if (!query && !url) return res.status(400).json({ error: 'Passe ?query= ou ?url=' });
+
+  const cacheKey = query ? `ytsearch:q:${query}` : `ytsearch:u:${url}`;
+  const cached = getCache(cacheKey);
+  if (cached) return res.json(cached);
+
+  try {
+    const result = await searchYouTubeMultiple(query || url, Number(limit) || 5);
+    if (!result) return res.status(404).json({ error: 'Nenhum vídeo encontrado' });
+
+    setCache(cacheKey, result);
+    res.json(result);
+  } catch (err) {
+    console.error("[YOUTUBE SEARCH ENDPOINT] Erro:", err.message);
+    res.status(500).json({ error: 'Erro interno' });
+  }
+});
+
+export default router;

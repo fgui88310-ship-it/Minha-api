@@ -1,0 +1,90 @@
+{
+  "emoji": "😶",
+  "nome": "😶 Rosto sem boca",
+  "categoria": "Face Without Mouth",
+  "url": "https://emojigraph.org/pt/face-without-mouth/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com uma simples expressão, os olhos abertos e nenhuma boca, como se tivesse perdido as palavras. Seu ignificado varia bastante, mas geralmente transmite ''sem palavras, ''nada a comentar'', humildade e silêncio. Também pode transmitir moderadamente emoções negativas, como a decepção, a frustração ou tristeza.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/face-without-mouth_1f636.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/face-without-mouth_1f636.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "calado",
+      "quieto",
+      "rosto",
+      "rosto sem boca",
+      "sem boca",
+      "calada",
+      "sem comentários",
+      "sem palavras"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F636;",
+      "HTML dec": "&#128566;",
+      "URL escape code": "%F0%9F%98%B6",
+      "Punycode": "xn--x38h",
+      "Bytes (UTF-8)": "F0 9F 98 B6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE36",
+      "C, C++, Python": "\\U0001f636",
+      "CSS": "\\01F636",
+      "PHP, Ruby": "\\u{1F636}",
+      "Perl": "\\x{1F636}"
+    }
+  }
+}

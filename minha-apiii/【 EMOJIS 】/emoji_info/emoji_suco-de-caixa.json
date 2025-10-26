@@ -1,0 +1,70 @@
+{
+  "emoji": "🧃",
+  "nome": "🧃 Suco de caixa",
+  "categoria": "Beverage Box",
+  "url": "https://emojigraph.org/pt/beverage-box/",
+  "detalhes": {
+    "explicacao": "Bebidas Caixa foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/beverage-box_1f9c3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/beverage-box_1f9c3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/beverage-box_1f9c3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/beverage-box_1f9c3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/beverage-box_1f9c3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/beverage-box_1f9c3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/beverage-box_1f9c3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/beverage-box_1f9c3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/beverage-box_1f9c3.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/beverage-box_1f9c3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caixa de suco",
+      "suco de caixa",
+      "suco",
+      "suquinho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9C3;",
+      "HTML dec": "&#129475;",
+      "URL escape code": "%F0%9F%A7%83",
+      "Punycode": "xn--wu9h",
+      "Bytes (UTF-8)": "F0 9F A7 83",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDC3",
+      "C, C++, Python": "\\U0001f9c3",
+      "CSS": "\\01F9C3",
+      "PHP, Ruby": "\\u{1F9C3}",
+      "Perl": "\\x{1F9C3}"
+    }
+  }
+}

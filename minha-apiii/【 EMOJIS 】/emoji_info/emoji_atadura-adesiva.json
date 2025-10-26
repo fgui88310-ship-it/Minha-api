@@ -1,0 +1,72 @@
+{
+  "emoji": "🩹",
+  "nome": "🩹 Atadura adesiva",
+  "categoria": "Adhesive Bandage",
+  "url": "https://emojigraph.org/pt/adhesive-bandage/",
+  "detalhes": {
+    "explicacao": "Adesivo Curativo foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/adhesive-bandage_1fa79.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/adhesive-bandage_1fa79.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/adhesive-bandage_1fa79.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/adhesive-bandage_1fa79.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/adhesive-bandage_1fa79.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/adhesive-bandage_1fa79.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/adhesive-bandage_1fa79.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/adhesive-bandage_1fa79.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/adhesive-bandage_1fa79.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/adhesive-bandage_1fa79.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "atadura adesiva",
+      "curativo",
+      "adesiva",
+      "atadura",
+      "bandaid",
+      "bandeide"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA79;",
+      "HTML dec": "&#129657;",
+      "URL escape code": "%F0%9F%A9%B9",
+      "Punycode": "xn--3z9h",
+      "Bytes (UTF-8)": "F0 9F A9 B9",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE79",
+      "C, C++, Python": "\\U0001fa79",
+      "CSS": "\\01FA79",
+      "PHP, Ruby": "\\u{1FA79}",
+      "Perl": "\\x{1FA79}"
+    }
+  }
+}

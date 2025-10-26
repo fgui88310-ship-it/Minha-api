@@ -1,0 +1,97 @@
+{
+  "emoji": "🍪",
+  "nome": "🍪 Biscoito",
+  "categoria": "Cookie",
+  "url": "https://emojigraph.org/pt/cookie/",
+  "detalhes": {
+    "explicacao": "Dourado com gotas marrons de chocolate, cookies ou biscoitos,  representando o prato ou cozinhar de forma mais geral. A Samsung, possui um par de cookies, exibida anteriormente como duas bolachas de água e sal.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cookie_1f36a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cookie_1f36a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "biscoito",
+      "bolacha",
+      "cookie",
+      "doce",
+      "comida",
+      "fome",
+      "sobremesa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F36A;",
+      "HTML dec": "&#127850;",
+      "URL escape code": "%F0%9F%8D%AA",
+      "Punycode": "xn--hj8h",
+      "Bytes (UTF-8)": "F0 9F 8D AA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF6A",
+      "C, C++, Python": "\\U0001f36a",
+      "CSS": "\\01F36A",
+      "PHP, Ruby": "\\u{1F36A}",
+      "Perl": "\\x{1F36A}"
+    }
+  }
+}

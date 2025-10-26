@@ -1,0 +1,77 @@
+{
+  "emoji": "",
+  "nome": "☹️ Rosto descontente",
+  "categoria": "frowning face",
+  "url": "https://emojigraph.org/pt/frowning-face/",
+  "detalhes": {
+    "explicacao": "Um clássico rosto triste. Uma face amarela com a simples expressão, olhos abertos e amplos, boca em carranca. Pode transmitir sentimentos como moderada preocupação ou de decepção e tristeza solidária, como quando em falta de um ente querido. O seu sentimento é geralmente mais intenso do que 🙁 um Pouco Carrancudo Rosto, que tem um pequeno franzir de testa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/frowning-face_2639-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/frowning-face_2639-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/frowning-face_2639-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/frowning-face_2639-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/frowning-face_2639-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/frowning-face_2639-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/frowning-face_2639-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/frowning-face_2639-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/frowning-face_2639-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/frowning-face_2639-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/frowning-face_2639-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/frowning-face_2639-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "descontente",
+      "rosto",
+      "triste"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2639;&#xFE0F;",
+      "HTML dec": "&#9785;&#65039;",
+      "URL escape code": "%E2%98%B9%EF%B8%8F",
+      "Punycode": "xn--64h",
+      "Bytes (UTF-8)": "E2 98 B9 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2639\\uFE0F",
+      "C, C++, Python": "\\u2639\\uFE0F",
+      "CSS": "\\2639 \\FE0F",
+      "PHP, Ruby": "\\u{2639}\\u{FE0F}",
+      "Perl": "\\x{2639}\\x{FE0F}"
+    }
+  }
+}

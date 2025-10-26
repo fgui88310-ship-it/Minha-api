@@ -1,0 +1,67 @@
+{
+  "emoji": "🦼",
+  "nome": "🦼 Cadeira de rodas motorizada",
+  "categoria": "Motorized Wheelchair",
+  "url": "https://emojigraph.org/pt/motorized-wheelchair/",
+  "detalhes": {
+    "explicacao": "Uma cadeira de rodas com um motor. Distinta da ♿ Símbolo de Cadeira de rodas, que é usada como sinalização para indicar instalações acessíveis. Ver também a Mulher na Cadeira de rodas Motorizada ou um Homem na Cadeira de rodas Motorizada.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/motorized-wheelchair_1f9bc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/motorized-wheelchair_1f9bc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/motorized-wheelchair_1f9bc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/motorized-wheelchair_1f9bc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/motorized-wheelchair_1f9bc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/motorized-wheelchair_1f9bc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/motorized-wheelchair_1f9bc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/motorized-wheelchair_1f9bc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/motorized-wheelchair_1f9bc.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/motorized-wheelchair_1f9bc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9BC;",
+      "HTML dec": "&#129468;",
+      "URL escape code": "%F0%9F%A6%BC",
+      "Punycode": "xn--pu9h",
+      "Bytes (UTF-8)": "F0 9F A6 BC",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDBC",
+      "C, C++, Python": "\\U0001f9bc",
+      "CSS": "\\01F9BC",
+      "PHP, Ruby": "\\u{1F9BC}",
+      "Perl": "\\x{1F9BC}"
+    }
+  }
+}

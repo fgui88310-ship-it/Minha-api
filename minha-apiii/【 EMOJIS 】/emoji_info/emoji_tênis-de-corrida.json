@@ -1,0 +1,96 @@
+{
+  "emoji": "👟",
+  "nome": "👟 Tênis de corrida",
+  "categoria": "Running Shoe",
+  "url": "https://emojigraph.org/pt/running-shoe/",
+  "detalhes": {
+    "explicacao": "Um tênis, um sapato confortável usado em esportes como tênis ou golfe, ou para fins de moda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/running-shoe_1f45f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/running-shoe_1f45f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "tênis",
+      "acessório",
+      "correr",
+      "corrida",
+      "esportivo",
+      "sapato"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F45F;",
+      "HTML dec": "&#128095;",
+      "URL escape code": "%F0%9F%91%9F",
+      "Punycode": "xn--hq8h",
+      "Bytes (UTF-8)": "F0 9F 91 9F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC5F",
+      "C, C++, Python": "\\U0001f45f",
+      "CSS": "\\01F45F",
+      "PHP, Ruby": "\\u{1F45F}",
+      "Perl": "\\x{1F45F}"
+    }
+  }
+}

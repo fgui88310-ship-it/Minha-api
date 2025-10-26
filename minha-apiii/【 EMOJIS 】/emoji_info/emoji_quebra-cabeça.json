@@ -1,0 +1,70 @@
+{
+  "emoji": "🧩",
+  "nome": "🧩 Quebra-cabeça",
+  "categoria": "Puzzle Piece",
+  "url": "https://emojigraph.org/pt/puzzle-piece/",
+  "detalhes": {
+    "explicacao": "Peça de quebra-cabeça foi aprovado como parte do Unicode 11.0 em 2018sob o nome de \"Jigsaw Peça do Quebra-cabeça\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/puzzle-piece_1f9e9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/puzzle-piece_1f9e9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/puzzle-piece_1f9e9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/puzzle-piece_1f9e9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/puzzle-piece_1f9e9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/puzzle-piece_1f9e9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/puzzle-piece_1f9e9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/puzzle-piece_1f9e9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/puzzle-piece_1f9e9.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/puzzle-piece_1f9e9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dica",
+      "encaixe",
+      "peça",
+      "quebra-cabeça"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9E9;",
+      "HTML dec": "&#129513;",
+      "URL escape code": "%F0%9F%A7%A9",
+      "Punycode": "xn--zv9h",
+      "Bytes (UTF-8)": "F0 9F A7 A9",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDE9",
+      "C, C++, Python": "\\U0001f9e9",
+      "CSS": "\\01F9E9",
+      "PHP, Ruby": "\\u{1F9E9}",
+      "Perl": "\\x{1F9E9}"
+    }
+  }
+}

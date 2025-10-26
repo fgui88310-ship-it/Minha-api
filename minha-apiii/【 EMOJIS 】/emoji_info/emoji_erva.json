@@ -1,0 +1,93 @@
+{
+  "emoji": "🌿",
+  "nome": "🌿 Erva",
+  "categoria": "Herb",
+  "url": "https://emojigraph.org/pt/herb/",
+  "detalhes": {
+    "explicacao": "Uma planta. Uma planta usada na culinária ou na medicina. Descrito como um raminho verde, como de manjericão, sálvia ou orégano, geralmente com cinco ou sete folhas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/herb_1f33f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/herb_1f33f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "erva",
+      "folha",
+      "planta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F33F;",
+      "HTML dec": "&#127807;",
+      "URL escape code": "%F0%9F%8C%BF",
+      "Punycode": "xn--8h8h",
+      "Bytes (UTF-8)": "F0 9F 8C BF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF3F",
+      "C, C++, Python": "\\U0001f33f",
+      "CSS": "\\01F33F",
+      "PHP, Ruby": "\\u{1F33F}",
+      "Perl": "\\x{1F33F}"
+    }
+  }
+}

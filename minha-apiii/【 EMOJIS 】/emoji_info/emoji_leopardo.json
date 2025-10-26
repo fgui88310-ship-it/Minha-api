@@ -1,0 +1,85 @@
+{
+  "emoji": "🐆",
+  "nome": "🐆 Leopardo",
+  "categoria": "Leopard",
+  "url": "https://emojigraph.org/pt/leopard/",
+  "detalhes": {
+    "explicacao": "Um leopardo, um grande gato com um amarelado-casaco marrom e preto-e-ouro manchas. Retratado no perfil completo em todos os fours virada para a esquerda, com uma longa cauda e seu padrão distinto.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/leopard_1f406.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/leopard_1f406.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "leopardo",
+      "onça"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F406;",
+      "HTML dec": "&#128006;",
+      "URL escape code": "%F0%9F%90%86",
+      "Punycode": "xn--xn8h",
+      "Bytes (UTF-8)": "F0 9F 90 86",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC06",
+      "C, C++, Python": "\\U0001f406",
+      "CSS": "\\01F406",
+      "PHP, Ruby": "\\u{1F406}",
+      "Perl": "\\x{1F406}"
+    }
+  }
+}

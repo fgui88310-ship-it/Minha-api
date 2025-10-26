@@ -1,0 +1,68 @@
+{
+  "emoji": "👳",
+  "nome": "👳‍♀️ Mulher com turbante",
+  "categoria": "woman wearing turban",
+  "url": "https://emojigraph.org/pt/woman-wearing-turban/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 👳 Homem Vestindo um Turbante emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-wearing-turban_1f473-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-wearing-turban_1f473-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-wearing-turban_1f473-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-wearing-turban_1f473-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-wearing-turban_1f473-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-wearing-turban_1f473-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-wearing-turban_1f473-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-wearing-turban_1f473-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-wearing-turban_1f473-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-wearing-turban_1f473-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mulher",
+      "turbante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F473;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128115;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%91%B3%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h5510o",
+      "Bytes (UTF-8)": "F0 9F 91 B3 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC73\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f473\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F473 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F473}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F473}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

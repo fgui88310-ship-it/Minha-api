@@ -1,0 +1,93 @@
+{
+  "emoji": "🎺",
+  "nome": "🎺 Trompete",
+  "categoria": "Trumpet",
+  "url": "https://emojigraph.org/pt/trumpet/",
+  "detalhes": {
+    "explicacao": "Uma trompete, um instrumento de sopro tocou em bandas de jazz.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/trumpet_1f3ba.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/trumpet_1f3ba.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "instrumento",
+      "música",
+      "trompete"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3BA;",
+      "HTML dec": "&#127930;",
+      "URL escape code": "%F0%9F%8E%BA",
+      "Punycode": "xn--rl8h",
+      "Bytes (UTF-8)": "F0 9F 8E BA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFBA",
+      "C, C++, Python": "\\U0001f3ba",
+      "CSS": "\\01F3BA",
+      "PHP, Ruby": "\\u{1F3BA}",
+      "Perl": "\\x{1F3BA}"
+    }
+  }
+}

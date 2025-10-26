@@ -1,0 +1,68 @@
+{
+  "emoji": "🛴",
+  "nome": "🛴 Patinete",
+  "categoria": "Kick Scooter",
+  "url": "https://emojigraph.org/pt/kick-scooter/",
+  "detalhes": {
+    "explicacao": "Um não-motorizados scooter, com duas rodas e alças.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/kick-scooter_1f6f4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/kick-scooter_1f6f4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/kick-scooter_1f6f4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/kick-scooter_1f6f4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/kick-scooter_1f6f4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/kick-scooter_1f6f4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/kick-scooter_1f6f4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/kick-scooter_1f6f4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/kick-scooter_1f6f4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/kick-scooter_1f6f4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "brinquedo",
+      "patinete"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6F4;",
+      "HTML dec": "&#128756;",
+      "URL escape code": "%F0%9F%9B%B4",
+      "Punycode": "xn--d98h",
+      "Bytes (UTF-8)": "F0 9F 9B B4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEF4",
+      "C, C++, Python": "\\U0001f6f4",
+      "CSS": "\\01F6F4",
+      "PHP, Ruby": "\\u{1F6F4}",
+      "Perl": "\\x{1F6F4}"
+    }
+  }
+}

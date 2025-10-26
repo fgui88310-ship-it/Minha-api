@@ -1,0 +1,70 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍🏫 Professora",
+  "categoria": "woman teacher",
+  "url": "https://emojigraph.org/pt/woman-teacher/",
+  "detalhes": {
+    "explicacao": "Uma mulher de pé em frente a um quadro-negro (aka quadro negro) com a intenção de ensinar uma classe.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-teacher_1f469-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-teacher_1f469-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-teacher_1f469-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-teacher_1f469-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-teacher_1f469-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-teacher_1f469-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-teacher_1f469-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-teacher_1f469-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-teacher_1f469-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-teacher_1f469-200d-1f3eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "instrutora",
+      "mestra",
+      "mulher",
+      "professora"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F3EB;",
+      "HTML dec": "&#128105;&#8205;&#127979;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%8F%AB",
+      "Punycode": "xn--5m8h1h",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F 8F AB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83C\\uDFEB",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f3eb",
+      "CSS": "\\01F469 \\200D \\01F3EB",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F3EB}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F3EB}"
+    }
+  }
+}

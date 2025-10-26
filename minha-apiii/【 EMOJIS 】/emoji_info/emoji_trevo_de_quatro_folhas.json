@@ -1,0 +1,97 @@
+{
+  "emoji": "🍀",
+  "nome": "🍀 Trevo de quatro folhas",
+  "categoria": "four leaf clover",
+  "url": "https://emojigraph.org/pt/four-leaf-clover/",
+  "detalhes": {
+    "explicacao": "Um trevo de quatro folhas, um símbolo de boa sorte. Descrito como um raminho de trevo verde brilhante, com quatro folhas em forma de coração.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/four-leaf-clover_1f340.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/four-leaf-clover_1f340.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "folhas",
+      "quatro",
+      "trevo",
+      "irlandês",
+      "planta",
+      "sorte",
+      "sortudo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F340;",
+      "HTML dec": "&#127808;",
+      "URL escape code": "%F0%9F%8D%80",
+      "Punycode": "xn--9h8h",
+      "Bytes (UTF-8)": "F0 9F 8D 80",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF40",
+      "C, C++, Python": "\\U0001f340",
+      "CSS": "\\01F340",
+      "PHP, Ruby": "\\u{1F340}",
+      "Perl": "\\x{1F340}"
+    }
+  }
+}

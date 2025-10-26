@@ -1,0 +1,86 @@
+{
+  "emoji": "🚿",
+  "nome": "🚿 Chuveiro",
+  "categoria": "Shower",
+  "url": "https://emojigraph.org/pt/shower/",
+  "detalhes": {
+    "explicacao": "Uma de prata na cabeça de chuveiro, fluxo de água para a esquerda. Nível de pressão varia entre plataformas. 🧼 Sabão não fornecidos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/shower_1f6bf.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/shower_1f6bf.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "água",
+      "banho",
+      "chuveiro",
+      "ducha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6BF;",
+      "HTML dec": "&#128703;",
+      "URL escape code": "%F0%9F%9A%BF",
+      "Punycode": "xn--u78h",
+      "Bytes (UTF-8)": "F0 9F 9A BF",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEBF",
+      "C, C++, Python": "\\U0001f6bf",
+      "CSS": "\\01F6BF",
+      "PHP, Ruby": "\\u{1F6BF}",
+      "Perl": "\\x{1F6BF}"
+    }
+  }
+}

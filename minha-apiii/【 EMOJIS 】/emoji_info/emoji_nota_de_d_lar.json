@@ -1,0 +1,96 @@
+{
+  "emoji": "💵",
+  "nome": "💵 Nota de dólar",
+  "categoria": "dollar banknote",
+  "url": "https://emojigraph.org/pt/dollar-banknote/",
+  "detalhes": {
+    "explicacao": "Dinheiro, dinheiro! Uma pilha de um dólar dos EUA, de notas de banco, papel-moeda dos Estados Unidos da América. Tonalidade verde e detalhes variam entre plataformas, mas exibido com o sinal de cifrão $. Comumente utilizado para vários conteúdos relativos a riqueza e o dinheiro, não se limita aos EUA.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/dollar-banknote_1f4b5.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/dollar-banknote_1f4b5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dinheiro",
+      "dólar",
+      "moeda",
+      "nota",
+      "nota bancária",
+      "nota de dólar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4B5;",
+      "HTML dec": "&#128181;",
+      "URL escape code": "%F0%9F%92%B5",
+      "Punycode": "xn--xs8h",
+      "Bytes (UTF-8)": "F0 9F 92 B5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCB5",
+      "C, C++, Python": "\\U0001f4b5",
+      "CSS": "\\01F4B5",
+      "PHP, Ruby": "\\u{1F4B5}",
+      "Perl": "\\x{1F4B5}"
+    }
+  }
+}

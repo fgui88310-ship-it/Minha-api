@@ -1,0 +1,62 @@
+{
+  "emoji": "🙋",
+  "nome": "🙋‍♀️ Mulher levantando a mão",
+  "categoria": "Woman Raising Hand",
+  "url": "https://emojigraph.org/pt/woman-raising-hand/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 🙋 Pessoa Feliz, Levantando Uma Mão emoji. Atualmente idêntico em aparência a não-gênero da base de dados de emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-raising-hand_1f64b-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-raising-hand_1f64b-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-raising-hand_1f64b-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-raising-hand_1f64b-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-raising-hand_1f64b-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-raising-hand_1f64b-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-raising-hand_1f64b-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-raising-hand_1f64b-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gesto",
+      "mão",
+      "mulher",
+      "pedir a palavra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F64B;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128587;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5hx380o",
+      "Bytes (UTF-8)": "F0 9F 99 8B E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE4B\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f64b\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F64B \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F64B}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F64B}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

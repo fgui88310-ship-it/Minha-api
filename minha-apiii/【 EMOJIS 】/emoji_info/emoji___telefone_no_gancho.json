@@ -1,0 +1,92 @@
+{
+  "emoji": "",
+  "nome": "☎️ Telefone no gancho",
+  "categoria": "telephone",
+  "url": "https://emojigraph.org/pt/telephone/",
+  "detalhes": {
+    "explicacao": "Um clássico telefone, como telefone fixo, telefone de casa. A maioria das plataformas retratam o vermelho, o botão de telefone com o auscultador na base.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/telephone_260e-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/telephone_260e-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gancho",
+      "telefone"
+    ],
+    "codigos": {
+      "HTML hex": "&#x260E;&#xFE0F;",
+      "HTML dec": "&#9742;&#65039;",
+      "URL escape code": "%E2%98%8E%EF%B8%8F",
+      "Punycode": "xn--y3h",
+      "Bytes (UTF-8)": "E2 98 8E EF B8 8F",
+      "JavaScript, JSON, Java": "\\u260E\\uFE0F",
+      "C, C++, Python": "\\u260E\\uFE0F",
+      "CSS": "\\260E \\FE0F",
+      "PHP, Ruby": "\\u{260E}\\u{FE0F}",
+      "Perl": "\\x{260E}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍🔬 Cientista mulher",
+  "categoria": "Woman Scientist",
+  "url": "https://emojigraph.org/pt/woman-scientist/",
+  "detalhes": {
+    "explicacao": "A Mulher Cientista emoji é uma sequência do 👩 Mulher e 🔬 Microscópio emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-scientist_1f469-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-scientist_1f469-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-scientist_1f469-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-scientist_1f469-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-scientist_1f469-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-scientist_1f469-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-scientist_1f469-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-scientist_1f469-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-scientist_1f469-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-scientist_1f469-200d-1f52c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bióloga",
+      "física",
+      "mulher",
+      "professora",
+      "química"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F52C;",
+      "HTML dec": "&#128105;&#8205;&#128300;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%94%AC",
+      "Punycode": "xn--rq8hgm",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F 94 AC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83D\\uDD2C",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f52c",
+      "CSS": "\\01F469 \\200D \\01F52C",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F52C}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F52C}"
+    }
+  }
+}

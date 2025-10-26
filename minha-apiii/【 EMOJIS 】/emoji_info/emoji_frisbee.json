@@ -1,0 +1,71 @@
+{
+  "emoji": "🥏",
+  "nome": "🥏 Frisbee",
+  "categoria": "Flying Disc",
+  "url": "https://emojigraph.org/pt/flying-disc/",
+  "detalhes": {
+    "explicacao": "Um disco voador, mais comumente conhecido como um frisbee. Usado no esporte, Ultimate ou o disco de golfe.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flying-disc_1f94f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flying-disc_1f94f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flying-disc_1f94f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flying-disc_1f94f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flying-disc_1f94f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/flying-disc_1f94f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flying-disc_1f94f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flying-disc_1f94f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flying-disc_1f94f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/flying-disc_1f94f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "frisbee",
+      "ultimate",
+      "disco",
+      "esporte",
+      "voador"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F94F;",
+      "HTML dec": "&#129359;",
+      "URL escape code": "%F0%9F%A5%8F",
+      "Punycode": "xn--lr9h",
+      "Bytes (UTF-8)": "F0 9F A5 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD4F",
+      "C, C++, Python": "\\U0001f94f",
+      "CSS": "\\01F94F",
+      "PHP, Ruby": "\\u{1F94F}",
+      "Perl": "\\x{1F94F}"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "emoji": "🐻",
+  "nome": "🐻 Rosto de urso",
+  "categoria": "bear",
+  "url": "https://emojigraph.org/pt/bear/",
+  "detalhes": {
+    "explicacao": "Um amigável, cartoon-estilo cara de urso, olhando para a frente. Descrito como um urso marrom com orelhas redondas e um bronzeado focinho. É semelhante a um urso de pelúcia.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bear_1f43b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bear_1f43b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "rosto",
+      "rosto de urso",
+      "urso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F43B;",
+      "HTML dec": "&#128059;",
+      "URL escape code": "%F0%9F%90%BB",
+      "Punycode": "xn--gp8h",
+      "Bytes (UTF-8)": "F0 9F 90 BB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC3B",
+      "C, C++, Python": "\\U0001f43b",
+      "CSS": "\\01F43B",
+      "PHP, Ruby": "\\u{1F43B}",
+      "Perl": "\\x{1F43B}"
+    }
+  }
+}

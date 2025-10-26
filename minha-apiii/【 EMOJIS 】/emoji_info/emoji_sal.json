@@ -1,0 +1,72 @@
+{
+  "emoji": "🧂",
+  "nome": "🧂 Sal",
+  "categoria": "Salt",
+  "url": "https://emojigraph.org/pt/salt/",
+  "detalhes": {
+    "explicacao": "Um vidro transparente shaker de sal com uma tampa de prata, como emparelhado com pimenta para temperar a comida, quando comer em um restaurante.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/salt_1f9c2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/salt_1f9c2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/salt_1f9c2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/salt_1f9c2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/salt_1f9c2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/salt_1f9c2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/salt_1f9c2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/salt_1f9c2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/salt_1f9c2.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/salt_1f9c2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "condimento",
+      "sal",
+      "saleiro",
+      "comida",
+      "sabor",
+      "salgado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9C2;",
+      "HTML dec": "&#129474;",
+      "URL escape code": "%F0%9F%A7%82",
+      "Punycode": "xn--vu9h",
+      "Bytes (UTF-8)": "F0 9F A7 82",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDC2",
+      "C, C++, Python": "\\U0001f9c2",
+      "CSS": "\\01F9C2",
+      "PHP, Ruby": "\\u{1F9C2}",
+      "Perl": "\\x{1F9C2}"
+    }
+  }
+}

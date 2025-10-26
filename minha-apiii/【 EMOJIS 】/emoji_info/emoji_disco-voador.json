@@ -1,0 +1,68 @@
+{
+  "emoji": "🛸",
+  "nome": "🛸 Disco voador",
+  "categoria": "Flying Saucer",
+  "url": "https://emojigraph.org/pt/flying-saucer/",
+  "detalhes": {
+    "explicacao": "Um disco voador, por vezes referido como um Objeto Voador não identificado (OVNI). Mostrado em algumas plataformas com um estrangeiro no controle e/ou de um feixe de luz emitida a partir da base.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flying-saucer_1f6f8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flying-saucer_1f6f8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flying-saucer_1f6f8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flying-saucer_1f6f8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flying-saucer_1f6f8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/flying-saucer_1f6f8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flying-saucer_1f6f8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flying-saucer_1f6f8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flying-saucer_1f6f8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flying-saucer_1f6f8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "disco voador",
+      "OVNI"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6F8;",
+      "HTML dec": "&#128760;",
+      "URL escape code": "%F0%9F%9B%B8",
+      "Punycode": "xn--h98h",
+      "Bytes (UTF-8)": "F0 9F 9B B8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEF8",
+      "C, C++, Python": "\\U0001f6f8",
+      "CSS": "\\01F6F8",
+      "PHP, Ruby": "\\u{1F6F8}",
+      "Perl": "\\x{1F6F8}"
+    }
+  }
+}

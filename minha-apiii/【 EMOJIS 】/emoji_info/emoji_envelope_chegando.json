@@ -1,0 +1,98 @@
+{
+  "emoji": "📨",
+  "nome": "📨 Envelope chegando",
+  "categoria": "incoming envelope",
+  "url": "https://emojigraph.org/pt/incoming-envelope/",
+  "detalhes": {
+    "explicacao": "As costas de um envelope, mostrado próximos em uma caixa de entrada ou chegar com movimento linhas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/incoming-envelope_1f4e8.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/incoming-envelope_1f4e8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carta",
+      "comunicação",
+      "correspondência",
+      "e-mail",
+      "envelope",
+      "nova",
+      "chegando",
+      "recebida"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4E8;",
+      "HTML dec": "&#128232;",
+      "URL escape code": "%F0%9F%93%A8",
+      "Punycode": "xn--eu8h",
+      "Bytes (UTF-8)": "F0 9F 93 A8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCE8",
+      "C, C++, Python": "\\U0001f4e8",
+      "CSS": "\\01F4E8",
+      "PHP, Ruby": "\\u{1F4E8}",
+      "Perl": "\\x{1F4E8}"
+    }
+  }
+}

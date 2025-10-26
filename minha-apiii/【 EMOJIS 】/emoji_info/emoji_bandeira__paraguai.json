@@ -1,0 +1,59 @@
+{
+  "emoji": "🇵🇾",
+  "nome": "🇵🇾 Bandeira: Paraguai",
+  "categoria": "flag paraguay",
+  "url": "https://emojigraph.org/pt/flag-paraguay/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional, do Paraguai. Este símbolo é uma seqüência de caracteres 🇵 Símbolo Indicador Regional Letra P e 🇾 Símbolo Indicador Regional Letra Y. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras PY em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-paraguay_1f1f5-1f1fe.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-paraguay_1f1f5-1f1fe.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-paraguay_1f1f5-1f1fe.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-paraguay_1f1f5-1f1fe.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-paraguay_1f1f5-1f1fe.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-paraguay_1f1f5-1f1fe.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-paraguay_1f1f5-1f1fe.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-paraguay_1f1f5-1f1fe.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F5;&#x1F1FE;",
+      "HTML dec": "&#127477;&#127486;",
+      "URL escape code": "%F0%9F%87%B5%F0%9F%87%BE",
+      "Punycode": "xn--t77hsa",
+      "Bytes (UTF-8)": "F0 9F 87 B5 F0 9F 87 BE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF5\\uD83C\\uDDFE",
+      "C, C++, Python": "\\U0001f1f5\\U0001f1fe",
+      "CSS": "\\01F1F5 \\01F1FE",
+      "PHP, Ruby": "\\u{1F1F5}\\u{1F1FE}",
+      "Perl": "\\x{1F1F5}\\x{1F1FE}"
+    }
+  }
+}

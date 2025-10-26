@@ -1,0 +1,58 @@
+// api/modules/threadsScraper.js
+import { axios, parseHtml, saveToJson, USER_AGENTS } from '../【 MODULES 】/libs.js';
+
+export async function tryDirectScraping(url, attempt = 1, forceSave = false) {
+  const userAgent = USER_AGENTS[(attempt - 1) % USER_AGENTS.length];
+  try {
+    const embedUrl = url + '/embed';
+    const headers = { 'User-Agent': userAgent, 'Accept': 'text/html' };
+    const response = await axios.get(embedUrl, { headers, responseEncoding: 'utf8', maxRedirects: 0, validateStatus: s => s < 500 });
+    let html = response.data;
+
+    // redirecionamento
+    if (response.status >= 300 && response.status < 400) {
+      const redirectUrl = response.headers.location;
+      const redirectResponse = await axios.get(redirectUrl, { headers: { 'User-Agent': userAgent, 'Referer': embedUrl }, maxRedirects: 3 });
+      html = redirectResponse.data;
+      await saveToJson({ html, url: redirectUrl, type: 'redirect_html', userAgent, status: redirectResponse.status }, 'redirect_html');
+    } else {
+      await saveToJson({ html, url: embedUrl, type: 'no_redirect_html', userAgent, status: response.status }, 'no_redirect_html');
+    }
+
+    if (html.length < 1000 && !forceSave) throw new Error(`HTML muito pequeno (${html.length} chars)`);
+
+    const parsed = parseHtml(html, url);
+    parsed.html = html;
+    parsed.userAgent = userAgent;
+
+    if (parsed.username !== 'unknown' || parsed.title !== 'Conteúdo não disponível' || parsed.engagement.likes > 0 || html.includes('BarcelonaEmbedHelper')) {
+      return parsed;
+    }
+    throw new Error('Parsing não encontrou conteúdo útil');
+
+  } catch (err) {
+    if (forceSave) await saveToJson({ url, attempt, error: err.message, userAgent, type: 'failed_attempt', timestamp: Date.now() }, `failed_attempt_${attempt}`);
+    return null;
+  }
+}
+
+export async function scrapeSinglePost(url, getBasicInfo, saveToJson) {
+  const result = getBasicInfo(url);
+  const cleanUrl = url.split('?')[0];
+
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    const scrapeResult = await tryDirectScraping(cleanUrl, attempt);
+    if (scrapeResult && (scrapeResult.title || scrapeResult.mediaItems.length || scrapeResult.engagement.likes > 0)) {
+      const jsonFile = await saveToJson({ ...scrapeResult, url: cleanUrl, userAgent: scrapeResult.userAgent || '' }, 'threads_success');
+      scrapeResult.jsonFile = jsonFile;
+      return scrapeResult;
+    }
+    if (attempt < 3) await new Promise(r => setTimeout(r, 1000));
+  }
+
+  const basicResult = { ...result, url: cleanUrl };
+  const lastAttempt = await tryDirectScraping(cleanUrl, 3, true);
+  if (lastAttempt?.html) basicResult.html = lastAttempt.html;
+  await saveToJson(basicResult, 'threads_failed');
+  return basicResult;
+}

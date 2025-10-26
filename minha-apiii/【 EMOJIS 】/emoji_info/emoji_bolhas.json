@@ -1,0 +1,77 @@
+{
+  "emoji": "🫧",
+  "nome": "🫧 Bolhas",
+  "categoria": "Bubbles",
+  "url": "https://emojigraph.org/pt/bubbles/",
+  "detalhes": {
+    "explicacao": "Algumas, geralmente três, bolhas de tamanhos diferentes. Pode representar bolhas de ar, espuma de sabão, água com gás ou outras bebidas à base de refrigerante. Pode ser usado como uma metáfora para bolhas financeiras.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bubbles_1fae7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bubbles_1fae7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bubbles_1fae7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bubbles_1fae7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bubbles_1fae7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bubbles_1fae7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bubbles_1fae7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bubbles_1fae7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bubbles_1fae7.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/bubbles_1fae7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arroto",
+      "bolhas",
+      "embaixo d’água",
+      "limpo",
+      "sabão",
+      "água",
+      "aquática",
+      "aquático",
+      "bolha",
+      "flutuar",
+      "pérolas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAE7;",
+      "HTML dec": "&#129767;",
+      "URL escape code": "%F0%9F%AB%A7",
+      "Punycode": "xn--829h",
+      "Bytes (UTF-8)": "f0 9f ab a7",
+      "JavaScript, JSON, Java": "\\ud83e\\udee7",
+      "C, C++, Python": "\\U0001fae7",
+      "CSS": "\\01FAE7",
+      "PHP, Ruby": "\\u{1FAE7}",
+      "Perl": "\\x{1FAE7}"
+    }
+  }
+}

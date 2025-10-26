@@ -1,0 +1,59 @@
+{
+  "emoji": "🇵🇼",
+  "nome": "🇵🇼 Bandeira: Palau",
+  "categoria": "flag palau",
+  "url": "https://emojigraph.org/pt/flag-palau/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Palau. Este símbolo é uma seqüência de caracteres 🇵 Símbolo Indicador Regional Letra P e 🇼 Símbolo Indicador Regional Letra W. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras PW em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-palau_1f1f5-1f1fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-palau_1f1f5-1f1fc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-palau_1f1f5-1f1fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-palau_1f1f5-1f1fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-palau_1f1f5-1f1fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-palau_1f1f5-1f1fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-palau_1f1f5-1f1fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-palau_1f1f5-1f1fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F5;&#x1F1FC;",
+      "HTML dec": "&#127477;&#127484;",
+      "URL escape code": "%F0%9F%87%B5%F0%9F%87%BC",
+      "Punycode": "xn--t77hoa",
+      "Bytes (UTF-8)": "F0 9F 87 B5 F0 9F 87 BC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF5\\uD83C\\uDDFC",
+      "C, C++, Python": "\\U0001f1f5\\U0001f1fc",
+      "CSS": "\\01F1F5 \\01F1FC",
+      "PHP, Ruby": "\\u{1F1F5}\\u{1F1FC}",
+      "Perl": "\\x{1F1F5}\\x{1F1FC}"
+    }
+  }
+}

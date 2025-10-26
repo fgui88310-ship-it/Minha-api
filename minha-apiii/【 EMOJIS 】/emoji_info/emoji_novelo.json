@@ -1,0 +1,72 @@
+{
+  "emoji": "🧶",
+  "nome": "🧶 Novelo",
+  "categoria": "Yarn",
+  "url": "https://emojigraph.org/pt/yarn/",
+  "detalhes": {
+    "explicacao": "Uma bola de lã, usada para tricotar um cachecol. A cor varia entre plataformas, mas muitas vezes representado em verde, azul ou magenta e mostrado com um fim de desvendar. Às vezes representado com um par de agulhas de tricô preso na bola.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/yarn_1f9f6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/yarn_1f9f6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/yarn_1f9f6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/yarn_1f9f6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/yarn_1f9f6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/yarn_1f9f6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/yarn_1f9f6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/yarn_1f9f6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/yarn_1f9f6.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/yarn_1f9f6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "crochê",
+      "novelo",
+      "tricô",
+      "lã",
+      "tricotar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9F6;",
+      "HTML dec": "&#129526;",
+      "URL escape code": "%F0%9F%A7%B6",
+      "Punycode": "xn--dw9h",
+      "Bytes (UTF-8)": "F0 9F A7 B6",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDF6",
+      "C, C++, Python": "\\U0001f9f6",
+      "CSS": "\\01F9F6",
+      "PHP, Ruby": "\\u{1F9F6}",
+      "Perl": "\\x{1F9F6}"
+    }
+  }
+}

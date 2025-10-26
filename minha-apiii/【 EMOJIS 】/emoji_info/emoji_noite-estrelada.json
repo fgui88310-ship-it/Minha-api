@@ -1,0 +1,95 @@
+{
+  "emoji": "🌃",
+  "nome": "🌃 Noite estrelada",
+  "categoria": "Night With Stars",
+  "url": "https://emojigraph.org/pt/night-with-stars/",
+  "detalhes": {
+    "explicacao": "Um céu com estrelas, representado nas principais plataformas como uma paisagem durante a noite.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/night-with-stars_1f303.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/night-with-stars_1f303.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "estrelas",
+      "noite",
+      "noite estrelada",
+      "cidade à noite",
+      "prédios"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F303;",
+      "HTML dec": "&#127747;",
+      "URL escape code": "%F0%9F%8C%83",
+      "Punycode": "xn--jg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 83",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF03",
+      "C, C++, Python": "\\U0001f303",
+      "CSS": "\\01F303",
+      "PHP, Ruby": "\\u{1F303}",
+      "Perl": "\\x{1F303}"
+    }
+  }
+}

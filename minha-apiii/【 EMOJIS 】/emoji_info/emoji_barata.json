@@ -1,0 +1,65 @@
+{
+  "emoji": "🪳",
+  "nome": "🪳 Barata",
+  "categoria": "Cockroach",
+  "url": "https://emojigraph.org/pt/cockroach/",
+  "detalhes": {
+    "explicacao": "Barata foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cockroach_1fab3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cockroach_1fab3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cockroach_1fab3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cockroach_1fab3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cockroach_1fab3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cockroach_1fab3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cockroach_1fab3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cockroach_1fab3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barata",
+      "baratas",
+      "inseto",
+      "praga",
+      "animal",
+      "nojento",
+      "nojo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAB3;",
+      "HTML dec": "&#129715;",
+      "URL escape code": "%F0%9F%AA%B3",
+      "Punycode": "xn--r19h",
+      "Bytes (UTF-8)": "F0 9F AA B3",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEB3",
+      "C, C++, Python": "\\U0001fab3",
+      "CSS": "\\01FAB3",
+      "PHP, Ruby": "\\u{1FAB3}",
+      "Perl": "\\x{1FAB3}"
+    }
+  }
+}

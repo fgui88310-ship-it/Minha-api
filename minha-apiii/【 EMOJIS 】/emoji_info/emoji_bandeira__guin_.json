@@ -1,0 +1,67 @@
+{
+  "emoji": "🇬🇳",
+  "nome": "🇬🇳 Bandeira: Guiné",
+  "categoria": "flag guinea",
+  "url": "https://emojigraph.org/pt/flag-guinea/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Guiné. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇳 Símbolo Indicador Regional Letra N. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GN em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-guinea_1f1ec-1f1f3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-guinea_1f1ec-1f1f3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-guinea_1f1ec-1f1f3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-guinea_1f1ec-1f1f3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-guinea_1f1ec-1f1f3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-guinea_1f1ec-1f1f3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-guinea_1f1ec-1f1f3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-guinea_1f1ec-1f1f3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-guinea_1f1ec-1f1f3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-guinea_1f1ec-1f1f3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1F3;",
+      "HTML dec": "&#127468;&#127475;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%B3",
+      "Punycode": "xn--k77hoa",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 B3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDF3",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1f3",
+      "CSS": "\\01F1EC \\01F1F3",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1F3}",
+      "Perl": "\\x{1F1EC}\\x{1F1F3}"
+    }
+  }
+}

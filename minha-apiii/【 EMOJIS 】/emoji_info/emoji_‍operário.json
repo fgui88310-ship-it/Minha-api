@@ -1,0 +1,71 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🏭 Operário",
+  "categoria": "Man Factory Worker",
+  "url": "https://emojigraph.org/pt/man-factory-worker/",
+  "detalhes": {
+    "explicacao": "O Homem Trabalhador de Fábrica, emoji é uma sequência do 👨 Homem e 🏭 Fábrica emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-factory-worker_1f468-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-factory-worker_1f468-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-factory-worker_1f468-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-factory-worker_1f468-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-factory-worker_1f468-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-factory-worker_1f468-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-factory-worker_1f468-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-factory-worker_1f468-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-factory-worker_1f468-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-factory-worker_1f468-200d-1f3ed.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fábrica",
+      "homem",
+      "indústria",
+      "operário",
+      "trabalhador"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F3ED;",
+      "HTML dec": "&#128104;&#8205;&#127981;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AD",
+      "Punycode": "xn--7m8hvh",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 8F AD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83C\\uDFED",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f3ed",
+      "CSS": "\\01F468 \\200D \\01F3ED",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F3ED}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F3ED}"
+    }
+  }
+}

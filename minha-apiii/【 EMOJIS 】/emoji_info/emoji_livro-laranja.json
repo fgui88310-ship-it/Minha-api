@@ -1,0 +1,94 @@
+{
+  "emoji": "📙",
+  "nome": "📙 Livro laranja",
+  "categoria": "Orange Book",
+  "url": "https://emojigraph.org/pt/orange-book/",
+  "detalhes": {
+    "explicacao": "Fechado, laranja, livro de capa dura, semelhante ao Emojipedia logotipo 📙😃. Comumente utilizado para vários conteúdos relativos a leitura, a escrita, a aprendizagem e a educação. Também pode ser usado como um laranja cor de destaque.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/orange-book_1f4d9.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/orange-book_1f4d9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "laranja",
+      "livro",
+      "apostila",
+      "cartilha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4D9;",
+      "HTML dec": "&#128217;",
+      "URL escape code": "%F0%9F%93%99",
+      "Punycode": "xn--yt8h",
+      "Bytes (UTF-8)": "F0 9F 93 99",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCD9",
+      "C, C++, Python": "\\U0001f4d9",
+      "CSS": "\\01F4D9",
+      "PHP, Ruby": "\\u{1F4D9}",
+      "Perl": "\\x{1F4D9}"
+    }
+  }
+}

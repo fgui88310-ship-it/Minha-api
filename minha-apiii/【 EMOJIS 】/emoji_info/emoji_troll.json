@@ -1,0 +1,72 @@
+{
+  "emoji": "🧌",
+  "nome": "🧌 Troll",
+  "categoria": "Troll",
+  "url": "https://emojigraph.org/pt/troll/",
+  "detalhes": {
+    "explicacao": "Um troll verde com um taco de madeira na mão esquerda ou direita. Usado tanto literalmente como fantasia ou ser mitológico, quanto para descrever uma pessoa que se envolve de maneira provocadora, agressiva ou desagradável nas conversas na internet ou na vida real.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/troll_1f9cc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/troll_1f9cc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/troll_1f9cc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/troll_1f9cc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/troll_1f9cc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/troll_1f9cc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/troll_1f9cc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/troll_1f9cc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/troll_1f9cc.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/troll_1f9cc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "conto de fadas",
+      "fantasia",
+      "monstro",
+      "troll",
+      "gigante",
+      "ogro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9CC;",
+      "HTML dec": "&#129484;",
+      "URL escape code": "%F0%9F%A7%8C",
+      "Punycode": "xn--5u9h",
+      "Bytes (UTF-8)": "f0 9f a7 8c",
+      "JavaScript, JSON, Java": "\\ud83e\\uddcc",
+      "C, C++, Python": "\\U0001f9cc",
+      "CSS": "\\01F9CC",
+      "PHP, Ruby": "\\u{1F9CC}",
+      "Perl": "\\x{1F9CC}"
+    }
+  }
+}

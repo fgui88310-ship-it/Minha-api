@@ -1,0 +1,94 @@
+{
+  "emoji": "🔪",
+  "nome": "🔪 Faca de cozinha",
+  "categoria": "kitchen knife",
+  "url": "https://emojigraph.org/pt/kitchen-knife/",
+  "detalhes": {
+    "explicacao": "Uma faca com uma longa lâmina de aço, como um chef usa para cortar carne ou legumes. Representado com preto ou marrom, alça posicionada em um ângulo de 45°, muitas vezes, com o seu ponto mais alto no canto inferior direito.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/kitchen-knife_1f52a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/kitchen-knife_1f52a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "faca",
+      "faca de cozinha",
+      "chef",
+      "cozinhar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F52A;",
+      "HTML dec": "&#128298;",
+      "URL escape code": "%F0%9F%94%AA",
+      "Punycode": "xn--9v8h",
+      "Bytes (UTF-8)": "F0 9F 94 AA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD2A",
+      "C, C++, Python": "\\U0001f52a",
+      "CSS": "\\01F52A",
+      "PHP, Ruby": "\\u{1F52A}",
+      "Perl": "\\x{1F52A}"
+    }
+  }
+}

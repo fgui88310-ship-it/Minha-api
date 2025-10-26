@@ -1,0 +1,89 @@
+{
+  "emoji": "💭",
+  "nome": "💭 Balão de pensamento",
+  "categoria": "Thought Balloon",
+  "url": "https://emojigraph.org/pt/thought-balloon/",
+  "detalhes": {
+    "explicacao": "Uma grande nuvem-como a forma mais comumente conhecido como um balão de pensamento.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/thought-balloon_1f4ad.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/thought-balloon_1f4ad.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balão",
+      "engraçado",
+      "pensamento",
+      "ideia",
+      "invenção",
+      "inventando",
+      "pensando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4AD;",
+      "HTML dec": "&#128173;",
+      "URL escape code": "%F0%9F%92%AD",
+      "Punycode": "xn--ps8h",
+      "Bytes (UTF-8)": "F0 9F 92 AD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCAD",
+      "C, C++, Python": "\\U0001f4ad",
+      "CSS": "\\01F4AD",
+      "PHP, Ruby": "\\u{1F4AD}",
+      "Perl": "\\x{1F4AD}"
+    }
+  }
+}

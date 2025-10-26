@@ -1,0 +1,74 @@
+{
+  "emoji": "🪒",
+  "nome": "🪒 Lâmina",
+  "categoria": "razor",
+  "url": "https://emojigraph.org/pt/razor/",
+  "detalhes": {
+    "explicacao": "Uma lâmina de barbear, que pode ser exibido como uma máquina de barbear ou um barbear de segurança.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/razor_1fa92.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/razor_1fa92.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/razor_1fa92.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/razor_1fa92.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/razor_1fa92.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/razor_1fa92.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/razor_1fa92.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/razor_1fa92.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/razor_1fa92.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/razor_1fa92.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "afiada",
+      "barbear",
+      "lâmina",
+      "afiado",
+      "barbeador",
+      "depilar",
+      "gilete",
+      "raspar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA92;",
+      "HTML dec": "&#129682;",
+      "URL escape code": "%F0%9F%AA%92",
+      "Punycode": "xn--t09h",
+      "Bytes (UTF-8)": "F0 9F AA 92",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE92",
+      "C, C++, Python": "\\U0001fa92",
+      "CSS": "\\01FA92",
+      "PHP, Ruby": "\\u{1FA92}",
+      "Perl": "\\x{1FA92}"
+    }
+  }
+}

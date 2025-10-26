@@ -1,0 +1,98 @@
+{
+  "emoji": "🎮",
+  "nome": "🎮 Videogame",
+  "categoria": "Video Game",
+  "url": "https://emojigraph.org/pt/video-game/",
+  "detalhes": {
+    "explicacao": "Um jogo de vídeo, emoji, mostrado nas principais plataformas como um console de comando com um D-pad, joysticks e botões.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/video-game_1f3ae.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/video-game_1f3ae.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "controle",
+      "game",
+      "jogo",
+      "videogame",
+      "jogos",
+      "playstation",
+      "video",
+      "xbox"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3AE;",
+      "HTML dec": "&#127918;",
+      "URL escape code": "%F0%9F%8E%AE",
+      "Punycode": "xn--fl8h",
+      "Bytes (UTF-8)": "F0 9F 8E AE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFAE",
+      "C, C++, Python": "\\U0001f3ae",
+      "CSS": "\\01F3AE",
+      "PHP, Ruby": "\\u{1F3AE}",
+      "Perl": "\\x{1F3AE}"
+    }
+  }
+}

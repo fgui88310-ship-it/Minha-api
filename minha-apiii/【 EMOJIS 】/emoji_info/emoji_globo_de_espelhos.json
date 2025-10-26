@@ -1,0 +1,78 @@
+{
+  "emoji": "🪩",
+  "nome": "🪩 Globo de espelhos",
+  "categoria": "mirror ball",
+  "url": "https://emojigraph.org/pt/mirror-ball/",
+  "detalhes": {
+    "explicacao": "Uma bola de espelhos também é conhecida como bola de discoteca. Uma esfera coberta com centenas ou milhares de pequenos 🪞 espelhos refletindo luz em todas as direções. Usado para representar festa, música, dança e glamour.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mirror-ball_1faa9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mirror-ball_1faa9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mirror-ball_1faa9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mirror-ball_1faa9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mirror-ball_1faa9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mirror-ball_1faa9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mirror-ball_1faa9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mirror-ball_1faa9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mirror-ball_1faa9.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/mirror-ball_1faa9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balada",
+      "brilho",
+      "dançar",
+      "discoteca",
+      "festa",
+      "boate",
+      "bola",
+      "dança",
+      "espelhado",
+      "espelho",
+      "globo",
+      "night"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAA9;",
+      "HTML dec": "&#129705;",
+      "URL escape code": "%F0%9F%AA%A9",
+      "Punycode": "xn--h19h",
+      "Bytes (UTF-8)": "f0 9f aa a9",
+      "JavaScript, JSON, Java": "\\ud83e\\udea9",
+      "C, C++, Python": "\\U0001faa9",
+      "CSS": "\\01FAA9",
+      "PHP, Ruby": "\\u{1FAA9}",
+      "Perl": "\\x{1FAA9}"
+    }
+  }
+}

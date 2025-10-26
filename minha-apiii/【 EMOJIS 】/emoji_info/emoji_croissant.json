@@ -1,0 +1,71 @@
+{
+  "emoji": "🥐",
+  "nome": "🥐 Croissant",
+  "categoria": "Croissant",
+  "url": "https://emojigraph.org/pt/croissant/",
+  "detalhes": {
+    "explicacao": "O esquisito, marrom-dourado crescente de um croissant, um café da manhã de pastelaria associados com a França e a Áustria.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/croissant_1f950.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/croissant_1f950.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/croissant_1f950.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/croissant_1f950.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/croissant_1f950.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/croissant_1f950.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/croissant_1f950.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/croissant_1f950.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/croissant_1f950.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/croissant_1f950.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comida",
+      "croissant",
+      "pão",
+      "café da manhã",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F950;",
+      "HTML dec": "&#129360;",
+      "URL escape code": "%F0%9F%A5%90",
+      "Punycode": "xn--mr9h",
+      "Bytes (UTF-8)": "F0 9F A5 90",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD50",
+      "C, C++, Python": "\\U0001f950",
+      "CSS": "\\01F950",
+      "PHP, Ruby": "\\u{1F950}",
+      "Perl": "\\x{1F950}"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "emoji": "😒",
+  "nome": "😒 Rosto aborrecido",
+  "categoria": "unamused face",
+  "url": "https://emojigraph.org/pt/unamused-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com um leve levantar de sobrancelhas, um franzir na testa, e os olhos olhando para o lado. Pode transmitir uma variedade de emoções negativas, incluindo irritação, descontentamento, teimosia, e o ceticismo, como se estivesse revirando os olhos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/unamused-face_1f612.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/unamused-face_1f612.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "blasé",
+      "rosto",
+      "aff",
+      "nada engraçado",
+      "não achou graça",
+      "não está feliz"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F612;",
+      "HTML dec": "&#128530;",
+      "URL escape code": "%F0%9F%98%92",
+      "Punycode": "xn--w28h",
+      "Bytes (UTF-8)": "F0 9F 98 92",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE12",
+      "C, C++, Python": "\\U0001f612",
+      "CSS": "\\01F612",
+      "PHP, Ruby": "\\u{1F612}",
+      "Perl": "\\x{1F612}"
+    }
+  }
+}

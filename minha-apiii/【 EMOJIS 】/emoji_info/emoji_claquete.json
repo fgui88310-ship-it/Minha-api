@@ -1,0 +1,95 @@
+{
+  "emoji": "🎬",
+  "nome": "🎬 Claquete",
+  "categoria": "Clapper Board",
+  "url": "https://emojigraph.org/pt/clapper-board/",
+  "detalhes": {
+    "explicacao": "Uma placa que contém o nome de cena, o número e o filme. Uma pessoa 'bate palmas' a clave fecha no topo, enquanto dizendo: \"Ação\" ou \"Corta\" para indicar o início e o fim de uma cena que está sendo filmada.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/clapper-board_1f3ac.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/clapper-board_1f3ac.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cena",
+      "claquete",
+      "entretenimento",
+      "filme",
+      "tomada"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3AC;",
+      "HTML dec": "&#127916;",
+      "URL escape code": "%F0%9F%8E%AC",
+      "Punycode": "xn--dl8h",
+      "Bytes (UTF-8)": "F0 9F 8E AC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFAC",
+      "C, C++, Python": "\\U0001f3ac",
+      "CSS": "\\01F3AC",
+      "PHP, Ruby": "\\u{1F3AC}",
+      "Perl": "\\x{1F3AC}"
+    }
+  }
+}

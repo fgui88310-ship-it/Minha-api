@@ -1,0 +1,51 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍🚒 Bombeiro",
+  "categoria": "Firefighter",
+  "url": "https://emojigraph.org/pt/firefighter/",
+  "detalhes": {
+    "explicacao": "O Bombeiro emoji é uma sequência do 🧑 Adultos e 🚒 de bombeiros emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/firefighter_1f9d1-200d-1f692.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/firefighter_1f9d1-200d-1f692.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/firefighter_1f9d1-200d-1f692.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/firefighter_1f9d1-200d-1f692.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/firefighter_1f9d1-200d-1f692.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/firefighter_1f9d1-200d-1f692.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bombeiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F692;",
+      "HTML dec": "&#129489;&#8205;&#128658;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%9A%92",
+      "Punycode": "xn--k68h35c",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F 9A 92",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83D\\uDE92",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f692",
+      "CSS": "\\01F9D1 \\200D \\01F692",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F692}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F692}"
+    }
+  }
+}

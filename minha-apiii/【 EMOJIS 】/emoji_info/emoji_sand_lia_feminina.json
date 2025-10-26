@@ -1,0 +1,93 @@
+{
+  "emoji": "👡",
+  "nome": "👡 Sandália feminina",
+  "categoria": "womans sandal",
+  "url": "https://emojigraph.org/pt/womans-sandal/",
+  "detalhes": {
+    "explicacao": "Uma sandália usado por uma mulher no verão, a primavera, ou outro tempo que se adapte ao abrir o bico do calçado. Tem um calcanhar na parte de trás, proporcionando maior altura para o utente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/womans-sandal_1f461.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/womans-sandal_1f461.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "feminino",
+      "sandálias"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F461;",
+      "HTML dec": "&#128097;",
+      "URL escape code": "%F0%9F%91%A1",
+      "Punycode": "xn--jq8h",
+      "Bytes (UTF-8)": "F0 9F 91 A1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC61",
+      "C, C++, Python": "\\U0001f461",
+      "CSS": "\\01F461",
+      "PHP, Ruby": "\\u{1F461}",
+      "Perl": "\\x{1F461}"
+    }
+  }
+}

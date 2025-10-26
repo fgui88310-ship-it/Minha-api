@@ -1,0 +1,91 @@
+{
+  "emoji": "😈",
+  "nome": "😈 Rosto sorridente com chifres",
+  "categoria": "Smiling Face With Horns",
+  "url": "https://emojigraph.org/pt/smiling-face-with-horns/",
+  "detalhes": {
+    "explicacao": "Uma cara, normalmente, roxo, com os chifres do diabo, um largo sorriso, as sobrancelhas e olhos franzidos para baixo, da mesma maneira como 😠 Cara de brava na maioria das plataformas. O do Google é vermelho e no Facebook tem chifres pretos e olhos verdes.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/smiling-face-with-horns_1f608.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/smiling-face-with-horns_1f608.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chifres",
+      "rosto",
+      "sorriso",
+      "cara",
+      "diabinho",
+      "diabo",
+      "malícia",
+      "roxa",
+      "sorridente"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F608;",
+      "HTML dec": "&#128520;",
+      "URL escape code": "%F0%9F%98%88",
+      "Punycode": "xn--m28h",
+      "Bytes (UTF-8)": "F0 9F 98 88",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE08",
+      "C, C++, Python": "\\U0001f608",
+      "CSS": "\\01F608",
+      "PHP, Ruby": "\\u{1F608}",
+      "Perl": "\\x{1F608}"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "emoji": "👞",
+  "nome": "👞 Sapato masculino",
+  "categoria": "mans shoe",
+  "url": "https://emojigraph.org/pt/mans-shoe/",
+  "detalhes": {
+    "explicacao": "Um sapato usado por um homem, para trabalhar, jantar, ou outra ocasião, que requer calçado. Ao contrário de sapatos de mulher, este sapato é susceptível de ser confortável.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/mans-shoe_1f45e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/mans-shoe_1f45e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "sapatos"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F45E;",
+      "HTML dec": "&#128094;",
+      "URL escape code": "%F0%9F%91%9E",
+      "Punycode": "xn--gq8h",
+      "Bytes (UTF-8)": "F0 9F 91 9E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC5E",
+      "C, C++, Python": "\\U0001f45e",
+      "CSS": "\\01F45E",
+      "PHP, Ruby": "\\u{1F45E}",
+      "Perl": "\\x{1F45E}"
+    }
+  }
+}

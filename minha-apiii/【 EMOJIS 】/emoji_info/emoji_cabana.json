@@ -1,0 +1,54 @@
+{
+  "emoji": "🛖",
+  "nome": "🛖 Cabana",
+  "categoria": "Hut",
+  "url": "https://emojigraph.org/pt/hut/",
+  "detalhes": {
+    "explicacao": "Uma imagem de desenho animado de uma casa que normalmente é feita de palha e madeira, como se vê nas antigas aldeias. Simples e eficaz para manter as pessoas seguras. Freqüentemente usado em seu significado direto. A cabana foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hut_1f6d6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hut_1f6d6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hut_1f6d6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hut_1f6d6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hut_1f6d6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hut_1f6d6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cabana",
+      "casa",
+      "yurt",
+      "abrigo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6D6;",
+      "HTML dec": "&#128726;",
+      "URL escape code": "%F0%9F%9B%96",
+      "Punycode": "xn--i88h",
+      "Bytes (UTF-8)": "F0 9F 9B 96",
+      "JavaScript, JSON, Java": "\\uD83D\\uDED6",
+      "C, C++, Python": "\\U0001f6d6",
+      "CSS": "\\01F6D6",
+      "PHP, Ruby": "\\u{1F6D6}",
+      "Perl": "\\x{1F6D6}"
+    }
+  }
+}

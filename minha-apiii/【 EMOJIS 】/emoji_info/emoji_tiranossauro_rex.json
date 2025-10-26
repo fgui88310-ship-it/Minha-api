@@ -1,0 +1,69 @@
+{
+  "emoji": "🦖",
+  "nome": "🦖 Tiranossauro rex",
+  "categoria": "t rex",
+  "url": "https://emojigraph.org/pt/t-rex/",
+  "detalhes": {
+    "explicacao": "Um Tiranossauro rex, um enorme dinossauro carnívoro com enormes garras, pequenos braços, e uma longa cauda. Descrito como verde ou marrom, em pé sobre suas patas traseiras viradas para a esquerda, muitas vezes com uma textura de plac, dentes afiados e garras nos dedos do pé.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/t-rex_1f996.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/t-rex_1f996.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/t-rex_1f996.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/t-rex_1f996.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/t-rex_1f996.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/t-rex_1f996.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/t-rex_1f996.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/t-rex_1f996.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/t-rex_1f996.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/t-rex_1f996.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "T-Rex",
+      "dinossauro",
+      "t-rex"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F996;",
+      "HTML dec": "&#129430;",
+      "URL escape code": "%F0%9F%A6%96",
+      "Punycode": "xn--mt9h",
+      "Bytes (UTF-8)": "F0 9F A6 96",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD96",
+      "C, C++, Python": "\\U0001f996",
+      "CSS": "\\01F996",
+      "PHP, Ruby": "\\u{1F996}",
+      "Perl": "\\x{1F996}"
+    }
+  }
+}

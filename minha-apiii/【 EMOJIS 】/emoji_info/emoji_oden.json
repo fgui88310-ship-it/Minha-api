@@ -1,0 +1,94 @@
+{
+  "emoji": "🍢",
+  "nome": "🍢 Oden",
+  "categoria": "Oden",
+  "url": "https://emojigraph.org/pt/oden/",
+  "detalhes": {
+    "explicacao": "Um espeto de três mordidas do Japonês oden, um inverno prato feito com fishcakes, tofu, konnyaku, e uma variedade de outros ingredientes, incluindo os ovos cozidos. Muitas vezes servido como um guisado ou espetada e mergulhado em molho de soja. Assemelha-se a Dango e pode ser usado para outros espetada alimentos (por exemplo, shish kebab, assar marshmallows) ou lanças.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/oden_1f362.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/oden_1f362.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/oden_1f362.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/oden_1f362.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/oden_1f362.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/oden_1f362.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/oden_1f362.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/oden_1f362.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/oden_1f362.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/oden_1f362.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/oden_1f362.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/oden_1f362.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/oden_1f362.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/oden_1f362.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/oden_1f362.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/oden_1f362.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "espetinho",
+      "frutos do mar",
+      "oden",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F362;",
+      "HTML dec": "&#127842;",
+      "URL escape code": "%F0%9F%8D%A2",
+      "Punycode": "xn--8i8h",
+      "Bytes (UTF-8)": "F0 9F 8D A2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF62",
+      "C, C++, Python": "\\U0001f362",
+      "CSS": "\\01F362",
+      "PHP, Ruby": "\\u{1F362}",
+      "Perl": "\\x{1F362}"
+    }
+  }
+}

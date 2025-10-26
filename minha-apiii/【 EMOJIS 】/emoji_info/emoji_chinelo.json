@@ -1,0 +1,65 @@
+{
+  "emoji": "🩴",
+  "nome": "🩴 Chinelo",
+  "categoria": "Thong Sandal",
+  "url": "https://emojigraph.org/pt/thong-sandal/",
+  "detalhes": {
+    "explicacao": "Tanga Sandália foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/thong-sandal_1fa74.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/thong-sandal_1fa74.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/thong-sandal_1fa74.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/thong-sandal_1fa74.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/thong-sandal_1fa74.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/thong-sandal_1fa74.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/thong-sandal_1fa74.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/thong-sandal_1fa74.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alpargatas",
+      "chinelo",
+      "rasteirinha",
+      "flip flop",
+      "piscina",
+      "praia",
+      "sandália"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA74;",
+      "HTML dec": "&#129652;",
+      "URL escape code": "%F0%9F%A9%B4",
+      "Punycode": "xn--yz9h",
+      "Bytes (UTF-8)": "F0 9F A9 B4",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE74",
+      "C, C++, Python": "\\U0001fa74",
+      "CSS": "\\01FA74",
+      "PHP, Ruby": "\\u{1FA74}",
+      "Perl": "\\x{1FA74}"
+    }
+  }
+}

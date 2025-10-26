@@ -1,0 +1,99 @@
+{
+  "emoji": "😁",
+  "nome": "😁 Rosto contente com olhos sorridentes",
+  "categoria": "Beaming Face With Smiling Eyes",
+  "url": "https://emojigraph.org/pt/beaming-face-with-smiling-eyes/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com olhos sorridentes e cheios de dentes no sorriso, como se dizendo: xiiis! para a câmera. Os dentes podem ser lisos ou cruzados. Muitas vezes, expressa uma radiante, felicidade. O tom varia, incluindo quente, bobo, divertido, ou orgulho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/beaming-face-with-smiling-eyes_1f601.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/beaming-face-with-smiling-eyes_1f601.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "olho",
+      "rosto",
+      "sorriso",
+      "sorriso aberto",
+      "feliz",
+      "olhos sorrindo",
+      "rindo",
+      "sorridente",
+      "sorrindo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F601;",
+      "HTML dec": "&#128513;",
+      "URL escape code": "%F0%9F%98%81",
+      "Punycode": "xn--f28h",
+      "Bytes (UTF-8)": "F0 9F 98 81",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE01",
+      "C, C++, Python": "\\U0001f601",
+      "CSS": "\\01F601",
+      "PHP, Ruby": "\\u{1F601}",
+      "Perl": "\\x{1F601}"
+    }
+  }
+}

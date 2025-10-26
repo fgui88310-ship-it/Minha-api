@@ -1,0 +1,85 @@
+{
+  "emoji": "🚍",
+  "nome": "🚍 Ônibus se aproximando",
+  "categoria": "Oncoming Bus",
+  "url": "https://emojigraph.org/pt/oncoming-bus/",
+  "detalhes": {
+    "explicacao": "A frente de um carro, com o pára-brisas, bem como espelhos em algumas versões do emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/oncoming-bus_1f68d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/oncoming-bus_1f68d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ônibus",
+      "se aproximando",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F68D;",
+      "HTML dec": "&#128653;",
+      "URL escape code": "%F0%9F%9A%8D",
+      "Punycode": "xn--f68h",
+      "Bytes (UTF-8)": "F0 9F 9A 8D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE8D",
+      "C, C++, Python": "\\U0001f68d",
+      "CSS": "\\01F68D",
+      "PHP, Ruby": "\\u{1F68D}",
+      "Perl": "\\x{1F68D}"
+    }
+  }
+}

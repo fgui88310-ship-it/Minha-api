@@ -1,0 +1,93 @@
+{
+  "emoji": "🐔",
+  "nome": "🐔 Galinha",
+  "categoria": "Chicken",
+  "url": "https://emojigraph.org/pt/chicken/",
+  "detalhes": {
+    "explicacao": "Uma galinha, um pássaro utilizado para consumo de sua carne e ovos. Geralmente retratado com a cabeça branca de um frango (galinha ou galo) olhando para a esquerda, com um bico amarelo, crista vermelha, e barbela vermelha.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/chicken_1f414.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/chicken_1f414.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ave",
+      "galinha",
+      "animal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F414;",
+      "HTML dec": "&#128020;",
+      "URL escape code": "%F0%9F%90%94",
+      "Punycode": "xn--co8h",
+      "Bytes (UTF-8)": "F0 9F 90 94",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC14",
+      "C, C++, Python": "\\U0001f414",
+      "CSS": "\\01F414",
+      "PHP, Ruby": "\\u{1F414}",
+      "Perl": "\\x{1F414}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🍳 Cozinheiro",
+  "categoria": "man cook",
+  "url": "https://emojigraph.org/pt/man-cook/",
+  "detalhes": {
+    "explicacao": "O Homem Cozinhar emoji é uma sequência do 👨 Homem e 🍳 Cozinhar emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-cook_1f468-200d-1f373.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-cook_1f468-200d-1f373.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-cook_1f468-200d-1f373.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-cook_1f468-200d-1f373.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-cook_1f468-200d-1f373.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-cook_1f468-200d-1f373.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-cook_1f468-200d-1f373.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-cook_1f468-200d-1f373.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-cook_1f468-200d-1f373.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-cook_1f468-200d-1f373.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chef",
+      "cozinheiro",
+      "homem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F373;",
+      "HTML dec": "&#128104;&#8205;&#127859;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%8D%B3",
+      "Punycode": "xn--qj8hjp",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 8D B3",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83C\\uDF73",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f373",
+      "CSS": "\\01F468 \\200D \\01F373",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F373}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F373}"
+    }
+  }
+}

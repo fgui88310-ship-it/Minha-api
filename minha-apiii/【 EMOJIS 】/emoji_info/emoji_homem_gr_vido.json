@@ -1,0 +1,77 @@
+{
+  "emoji": "🫃",
+  "nome": "🫃 Homem grávido",
+  "categoria": "pregnant man",
+  "url": "https://emojigraph.org/pt/pregnant-man/",
+  "detalhes": {
+    "explicacao": "Um homem com uma barriga grande como se estivesse grávido. Adicionado junto com o 🫄 Pessoa grávida para inclusão de gênero. Pode ser usado para representar uma barriga de cerveja ou satisfação depois de comer uma ótima refeição.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pregnant-man_1fac3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pregnant-man_1fac3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pregnant-man_1fac3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pregnant-man_1fac3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pregnant-man_1fac3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pregnant-man_1fac3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pregnant-man_1fac3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pregnant-man_1fac3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pregnant-man_1fac3.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/pregnant-man_1fac3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barriga",
+      "cheio",
+      "grávido",
+      "homem grávido",
+      "inchado",
+      "cheia",
+      "comi demais",
+      "excesso de peso",
+      "gravidez",
+      "homem",
+      "pessoa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAC3;",
+      "HTML dec": "&#129731;",
+      "URL escape code": "%F0%9F%AB%83",
+      "Punycode": "xn--719h",
+      "Bytes (UTF-8)": "f0 9f ab 83",
+      "JavaScript, JSON, Java": "\\ud83e\\udec3",
+      "C, C++, Python": "\\U0001fac3",
+      "CSS": "\\01FAC3",
+      "PHP, Ruby": "\\u{1FAC3}",
+      "Perl": "\\x{1FAC3}"
+    }
+  }
+}

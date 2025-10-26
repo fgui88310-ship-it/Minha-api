@@ -1,0 +1,96 @@
+{
+  "emoji": "",
+  "nome": "⛵ Barco a vela",
+  "categoria": "sailboat",
+  "url": "https://emojigraph.org/pt/sailboat/",
+  "detalhes": {
+    "explicacao": "Um veleiro, também conhecido como um barco de vela ou iate. Utiliza o vento como fonte de propulsão para mover-se em torno de um corpo de água.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sailboat_26f5.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/sailboat_26f5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barco",
+      "barco a vela",
+      "iate",
+      "resort",
+      "resort marítimo",
+      "navegar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26F5;",
+      "HTML dec": "&#9973;",
+      "URL escape code": "%E2%9B%B5",
+      "Punycode": "xn--kbi",
+      "Bytes (UTF-8)": "E2 9B B5",
+      "JavaScript, JSON, Java": "\\u26F5",
+      "C, C++, Python": "\\u26F5",
+      "CSS": "\\26F5",
+      "PHP, Ruby": "\\u{26F5}",
+      "Perl": "\\x{26F5}"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "emoji": "😉",
+  "nome": "😉 Rosto com olho piscando",
+  "categoria": "winking face",
+  "url": "https://emojigraph.org/pt/winking-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, com um ligeiro sorriso e piscando, geralmente o seu olho esquerdo. Pode ser sinal de uma piada, flerte, ou significado oculto, ou geral a positividade. O tom varia, incluindo brincalhão, carinhoso, sugestivo ou irônico.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/winking-face_1f609.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/winking-face_1f609.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "piscada",
+      "rosto",
+      "flerte",
+      "rosto piscando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F609;",
+      "HTML dec": "&#128521;",
+      "URL escape code": "%F0%9F%98%89",
+      "Punycode": "xn--n28h",
+      "Bytes (UTF-8)": "F0 9F 98 89",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE09",
+      "C, C++, Python": "\\U0001f609",
+      "CSS": "\\01F609",
+      "PHP, Ruby": "\\u{1F609}",
+      "Perl": "\\x{1F609}"
+    }
+  }
+}

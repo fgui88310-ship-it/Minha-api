@@ -1,0 +1,86 @@
+{
+  "emoji": "🍐",
+  "nome": "🍐 Pera",
+  "categoria": "Pear",
+  "url": "https://emojigraph.org/pt/pear/",
+  "detalhes": {
+    "explicacao": "Uma luz verde variedade de comum pêra, mostrado com uma haste e, às vezes, de folha verde.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pear_1f350.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pear_1f350.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pear_1f350.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pear_1f350.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pear_1f350.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pear_1f350.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pear_1f350.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pear_1f350.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pear_1f350.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pear_1f350.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pear_1f350.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pear_1f350.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pear_1f350.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pear_1f350.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fruta",
+      "pera",
+      "comida",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F350;",
+      "HTML dec": "&#127824;",
+      "URL escape code": "%F0%9F%8D%90",
+      "Punycode": "xn--qi8h",
+      "Bytes (UTF-8)": "F0 9F 8D 90",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF50",
+      "C, C++, Python": "\\U0001f350",
+      "CSS": "\\01F350",
+      "PHP, Ruby": "\\u{1F350}",
+      "Perl": "\\x{1F350}"
+    }
+  }
+}

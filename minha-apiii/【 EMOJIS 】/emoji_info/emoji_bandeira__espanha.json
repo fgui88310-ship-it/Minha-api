@@ -1,0 +1,83 @@
+{
+  "emoji": "🇪🇸",
+  "nome": "🇪🇸 Bandeira: Espanha",
+  "categoria": "flag spain",
+  "url": "https://emojigraph.org/pt/flag-spain/",
+  "detalhes": {
+    "explicacao": "A bandeira de Espanha, o que pode mostrar como as letras ES em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/flag-spain_1f1ea-1f1f8.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/flag-spain_1f1ea-1f1f8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EA;&#x1F1F8;",
+      "HTML dec": "&#127466;&#127480;",
+      "URL escape code": "%F0%9F%87%AA%F0%9F%87%B8",
+      "Punycode": "xn--i77h2a",
+      "Bytes (UTF-8)": "F0 9F 87 AA F0 9F 87 B8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEA\\uD83C\\uDDF8",
+      "C, C++, Python": "\\U0001f1ea\\U0001f1f8",
+      "CSS": "\\01F1EA \\01F1F8",
+      "PHP, Ruby": "\\u{1F1EA}\\u{1F1F8}",
+      "Perl": "\\x{1F1EA}\\x{1F1F8}"
+    }
+  }
+}

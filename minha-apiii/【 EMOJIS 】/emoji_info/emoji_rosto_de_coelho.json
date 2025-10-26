@@ -1,0 +1,94 @@
+{
+  "emoji": "🐰",
+  "nome": "🐰 Rosto de coelho",
+  "categoria": "rabbit face",
+  "url": "https://emojigraph.org/pt/rabbit-face/",
+  "detalhes": {
+    "explicacao": "Um amigável, cartoon-estilo rosto de um coelho, olhando para a frente. Geralmente retratado como um cinza e/ou coelho branco de cara com orelhas eretas e cor-de-rosa nariz e orelhas, dente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/rabbit-face_1f430.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/rabbit-face_1f430.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "coelho",
+      "rosto",
+      "rosto de coelho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F430;",
+      "HTML dec": "&#128048;",
+      "URL escape code": "%F0%9F%90%B0",
+      "Punycode": "xn--4o8h",
+      "Bytes (UTF-8)": "F0 9F 90 B0",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC30",
+      "C, C++, Python": "\\U0001f430",
+      "CSS": "\\01F430",
+      "PHP, Ruby": "\\u{1F430}",
+      "Perl": "\\x{1F430}"
+    }
+  }
+}

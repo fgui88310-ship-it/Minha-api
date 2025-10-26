@@ -1,0 +1,97 @@
+{
+  "emoji": "",
+  "nome": "⏰ Despertador",
+  "categoria": "alarm clock",
+  "url": "https://emojigraph.org/pt/alarm-clock/",
+  "detalhes": {
+    "explicacao": "Um relógio, com seus dois sinos. A aparência varia entre plataformas, mas retratado como um clássico relógio com guinchos, ou despertador de cabeceira, muitas vezes, de cor vermelha.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/alarm-clock_23f0.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/alarm-clock_23f0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alarme",
+      "despertador",
+      "relógio",
+      "atrasada",
+      "atrasado",
+      "hora",
+      "horário"
+    ],
+    "codigos": {
+      "HTML hex": "&#x23F0;",
+      "HTML dec": "&#9200;",
+      "URL escape code": "%E2%8F%B0",
+      "Punycode": "xn--hoh",
+      "Bytes (UTF-8)": "E2 8F B0",
+      "JavaScript, JSON, Java": "\\u23F0",
+      "C, C++, Python": "\\u23F0",
+      "CSS": "\\23F0",
+      "PHP, Ruby": "\\u{23F0}",
+      "Perl": "\\x{23F0}"
+    }
+  }
+}

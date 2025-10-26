@@ -1,0 +1,87 @@
+{
+  "emoji": "🕘",
+  "nome": "🕘 9 horas",
+  "categoria": "Nine Oclock",
+  "url": "https://emojigraph.org/pt/nine-oclock/",
+  "detalhes": {
+    "explicacao": "As nove Horas foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Relógio Enfrentar Nove Horas\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/nine-oclock_1f558.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/nine-oclock_1f558.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "9 horas",
+      "9h00",
+      "nove",
+      "relógio",
+      "21h"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F558;",
+      "HTML dec": "&#128344;",
+      "URL escape code": "%F0%9F%95%98",
+      "Punycode": "xn--lx8h",
+      "Bytes (UTF-8)": "F0 9F 95 98",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD58",
+      "C, C++, Python": "\\U0001f558",
+      "CSS": "\\01F558",
+      "PHP, Ruby": "\\u{1F558}",
+      "Perl": "\\x{1F558}"
+    }
+  }
+}

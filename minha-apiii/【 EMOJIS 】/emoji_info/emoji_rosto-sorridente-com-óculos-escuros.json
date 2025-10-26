@@ -1,0 +1,89 @@
+{
+  "emoji": "😎",
+  "nome": "😎 Rosto sorridente com óculos escuros",
+  "categoria": "Smiling Face With Sunglasses",
+  "url": "https://emojigraph.org/pt/smiling-face-with-sunglasses/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, com um amplo sorriso fechado vestindo óculos escuros, como um par de óculoclássicos. Muitas vezes usada para transmitir a gíria sensação de frieza. Pode-se também expressar confiança, atitude despreocupada, ou que algo é excelente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/smiling-face-with-sunglasses_1f60e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/smiling-face-with-sunglasses_1f60e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "óculos escuros",
+      "rosto",
+      "sol",
+      "sorrindo",
+      "muito sol",
+      "na boa",
+      "to legal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F60E;",
+      "HTML dec": "&#128526;",
+      "URL escape code": "%F0%9F%98%8E",
+      "Punycode": "xn--s28h",
+      "Bytes (UTF-8)": "F0 9F 98 8E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE0E",
+      "C, C++, Python": "\\U0001f60e",
+      "CSS": "\\01F60E",
+      "PHP, Ruby": "\\u{1F60E}",
+      "Perl": "\\x{1F60E}"
+    }
+  }
+}

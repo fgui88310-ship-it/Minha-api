@@ -1,0 +1,52 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍🏫 Professora na escola",
+  "categoria": "Teacher",
+  "url": "https://emojigraph.org/pt/teacher/",
+  "detalhes": {
+    "explicacao": "O Professor emoji é uma sequência do 🧑 Adultos e 🏫 Escola emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/teacher_1f9d1-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/teacher_1f9d1-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/teacher_1f9d1-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/teacher_1f9d1-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/teacher_1f9d1-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/teacher_1f9d1-200d-1f3eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "instrutora",
+      "professora"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F3EB;",
+      "HTML dec": "&#129489;&#8205;&#127979;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB",
+      "Punycode": "xn--5m8hl8g",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F 8F AB",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83C\\uDFEB",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f3eb",
+      "CSS": "\\01F9D1 \\200D \\01F3EB",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F3EB}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F3EB}"
+    }
+  }
+}

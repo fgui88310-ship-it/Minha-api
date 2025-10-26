@@ -1,0 +1,75 @@
+{
+  "emoji": "🩼",
+  "nome": "🩼 Muleta",
+  "categoria": "Crutch",
+  "url": "https://emojigraph.org/pt/crutch/",
+  "detalhes": {
+    "explicacao": "Uma muleta axilar (axilar) clássica usada para fornecer suporte para pacientes com restrição temporária de movimento. Usado para representar alguém após uma lesão na perna ou no pé.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crutch_1fa7c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crutch_1fa7c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crutch_1fa7c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crutch_1fa7c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crutch_1fa7c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crutch_1fa7c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crutch_1fa7c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crutch_1fa7c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crutch_1fa7c.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/crutch_1fa7c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bastão",
+      "bengala",
+      "deficiência",
+      "machucar",
+      "muleta",
+      "ajuda",
+      "desculpa",
+      "lesão",
+      "mobilidade"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA7C;",
+      "HTML dec": "&#129660;",
+      "URL escape code": "%F0%9F%A9%BC",
+      "Punycode": "xn--6z9h",
+      "Bytes (UTF-8)": "f0 9f a9 bc",
+      "JavaScript, JSON, Java": "\\ud83e\\ude7c",
+      "C, C++, Python": "\\U0001fa7c",
+      "CSS": "\\01FA7C",
+      "PHP, Ruby": "\\u{1FA7C}",
+      "Perl": "\\x{1FA7C}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emoji": "🖊",
+  "nome": "🖊️ Caneta",
+  "categoria": "pen",
+  "url": "https://emojigraph.org/pt/pen/",
+  "detalhes": {
+    "explicacao": "Um azul ou preta caneta esferográfica, como os usados para o dia-a escrita. Representado com a sua respectiva tampa removida para o seu fim ou como retrátil caneta. Posicionado em um ângulo de 45°, suas pontas na parte inferior esquerda. Comumente utilizado para vários conteúdos relativos a escrita (por exemplo, criativo, profissional), bem como a assinatura de (acordos, leis, em esportes).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pen_1f58a-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pen_1f58a-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pen_1f58a-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pen_1f58a-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pen_1f58a-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pen_1f58a-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pen_1f58a-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pen_1f58a-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pen_1f58a-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pen_1f58a-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caneta",
+      "esferográfica"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F58A;&#xFE0F;",
+      "HTML dec": "&#128394;&#65039;",
+      "URL escape code": "%F0%9F%96%8A%EF%B8%8F",
+      "Punycode": "xn--0y8h",
+      "Bytes (UTF-8)": "F0 9F 96 8A EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD8A\\uFE0F",
+      "C, C++, Python": "\\U0001f58a\\uFE0F",
+      "CSS": "\\01F58A \\FE0F",
+      "PHP, Ruby": "\\u{1F58A}\\u{FE0F}",
+      "Perl": "\\x{1F58A}\\x{FE0F}"
+    }
+  }
+}

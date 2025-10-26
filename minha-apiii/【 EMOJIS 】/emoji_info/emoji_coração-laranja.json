@@ -1,0 +1,70 @@
+{
+  "emoji": "🧡",
+  "nome": "🧡 Coração laranja",
+  "categoria": "Orange Heart",
+  "url": "https://emojigraph.org/pt/orange-heart/",
+  "detalhes": {
+    "explicacao": "Laranja Coração foi aprovado como parte do Unicode 10.0 em 2017e acrescentou para o Emoji 5.0 em 2017.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/orange-heart_1f9e1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/orange-heart_1f9e1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/orange-heart_1f9e1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/orange-heart_1f9e1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/orange-heart_1f9e1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/orange-heart_1f9e1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/orange-heart_1f9e1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/orange-heart_1f9e1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/orange-heart_1f9e1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/orange-heart_1f9e1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coração",
+      "emoção",
+      "laranja",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9E1;",
+      "HTML dec": "&#129505;",
+      "URL escape code": "%F0%9F%A7%A1",
+      "Punycode": "xn--rv9h",
+      "Bytes (UTF-8)": "F0 9F A7 A1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDE1",
+      "C, C++, Python": "\\U0001f9e1",
+      "CSS": "\\01F9E1",
+      "PHP, Ruby": "\\u{1F9E1}",
+      "Perl": "\\x{1F9E1}"
+    }
+  }
+}

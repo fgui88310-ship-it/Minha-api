@@ -1,0 +1,70 @@
+{
+  "emoji": "🖤",
+  "nome": "🖤 Coração preto",
+  "categoria": "black heart",
+  "url": "https://emojigraph.org/pt/black-heart/",
+  "detalhes": {
+    "explicacao": "Um coração sombreado completamente preto. Pode ser usado para expressar a morbidade, a tristeza, ou uma forma de humor negro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/black-heart_1f5a4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/black-heart_1f5a4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/black-heart_1f5a4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/black-heart_1f5a4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/black-heart_1f5a4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/black-heart_1f5a4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/black-heart_1f5a4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/black-heart_1f5a4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/black-heart_1f5a4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/black-heart_1f5a4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coração",
+      "negro",
+      "preto",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5A4;",
+      "HTML dec": "&#128420;",
+      "URL escape code": "%F0%9F%96%A4",
+      "Punycode": "xn--rz8h",
+      "Bytes (UTF-8)": "F0 9F 96 A4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDA4",
+      "C, C++, Python": "\\U0001f5a4",
+      "CSS": "\\01F5A4",
+      "PHP, Ruby": "\\u{1F5A4}",
+      "Perl": "\\x{1F5A4}"
+    }
+  }
+}

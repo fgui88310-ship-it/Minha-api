@@ -1,0 +1,68 @@
+{
+  "emoji": "🥜",
+  "nome": "🥜 Amendoim",
+  "categoria": "Peanuts",
+  "url": "https://emojigraph.org/pt/peanuts/",
+  "detalhes": {
+    "explicacao": "O amendoim, mostrado em sua casca, casca com ranhuras de cor marrom claro. Apple mostra-o em par.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/peanuts_1f95c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/peanuts_1f95c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/peanuts_1f95c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/peanuts_1f95c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/peanuts_1f95c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/peanuts_1f95c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/peanuts_1f95c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/peanuts_1f95c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/peanuts_1f95c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/peanuts_1f95c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amendoim",
+      "comida"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F95C;",
+      "HTML dec": "&#129372;",
+      "URL escape code": "%F0%9F%A5%9C",
+      "Punycode": "xn--yr9h",
+      "Bytes (UTF-8)": "F0 9F A5 9C",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD5C",
+      "C, C++, Python": "\\U0001f95c",
+      "CSS": "\\01F95C",
+      "PHP, Ruby": "\\u{1F95C}",
+      "Perl": "\\x{1F95C}"
+    }
+  }
+}

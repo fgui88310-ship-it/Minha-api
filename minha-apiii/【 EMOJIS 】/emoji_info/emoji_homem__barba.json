@@ -1,0 +1,71 @@
+{
+  "emoji": "🧔",
+  "nome": "🧔 Homem: barba",
+  "categoria": "person beard",
+  "url": "https://emojigraph.org/pt/person-beard/",
+  "detalhes": {
+    "explicacao": "Uma pessoa com um visível barba. Geralmente apresentado com uma aparência masculina.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-beard_1f9d4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-beard_1f9d4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-beard_1f9d4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-beard_1f9d4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-beard_1f9d4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-beard_1f9d4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-beard_1f9d4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-beard_1f9d4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-beard_1f9d4.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/man-beard_1f9d4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barba",
+      "barbudo",
+      "homem",
+      "homem: barba",
+      "pessoa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D4;",
+      "HTML dec": "&#129492;",
+      "URL escape code": "%F0%9F%A7%94",
+      "Punycode": "xn--ev9h",
+      "Bytes (UTF-8)": "F0 9F A7 94",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD4",
+      "C, C++, Python": "\\U0001f9d4",
+      "CSS": "\\01F9D4",
+      "PHP, Ruby": "\\u{1F9D4}",
+      "Perl": "\\x{1F9D4}"
+    }
+  }
+}

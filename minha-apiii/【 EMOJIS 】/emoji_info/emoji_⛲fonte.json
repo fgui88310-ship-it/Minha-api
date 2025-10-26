@@ -1,0 +1,94 @@
+{
+  "emoji": "",
+  "nome": "⛲ Fonte",
+  "categoria": "Fountain",
+  "url": "https://emojigraph.org/pt/fountain/",
+  "detalhes": {
+    "explicacao": "Uma fonte de água, encontrados em um parque ou outro espaço público. Utilizado para fins decorativos. Uma variedade de estilos de fonte são mostrados em diferentes plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fountain_26f2.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/fountain_26f2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chafariz",
+      "fonte",
+      "água",
+      "praça"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26F2;",
+      "HTML dec": "&#9970;",
+      "URL escape code": "%E2%9B%B2",
+      "Punycode": "xn--hbi",
+      "Bytes (UTF-8)": "E2 9B B2",
+      "JavaScript, JSON, Java": "\\u26F2",
+      "C, C++, Python": "\\u26F2",
+      "CSS": "\\26F2",
+      "PHP, Ruby": "\\u{26F2}",
+      "Perl": "\\x{26F2}"
+    }
+  }
+}

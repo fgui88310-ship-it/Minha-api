@@ -1,0 +1,100 @@
+{
+  "emoji": "🙎",
+  "nome": "🙎 Pessoa fazendo bico",
+  "categoria": "person pouting",
+  "url": "https://emojigraph.org/pt/person-pouting/",
+  "detalhes": {
+    "explicacao": "Uma pessoa com uma expressão séria, mostrando insatisfação com a situação. Poderiam ser considerados reservados ou estóicos, em resposta, como esta pessoa não é visível com raiva.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-pouting_1f64e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-pouting_1f64e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fazendo bico",
+      "gesto",
+      "pessoa",
+      "beicinho",
+      "beiço",
+      "careta",
+      "chateada",
+      "chateado",
+      "emburrada",
+      "emburrado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F64E;",
+      "HTML dec": "&#128590;",
+      "URL escape code": "%F0%9F%99%8E",
+      "Punycode": "xn--m48h",
+      "Bytes (UTF-8)": "F0 9F 99 8E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE4E",
+      "C, C++, Python": "\\U0001f64e",
+      "CSS": "\\01F64E",
+      "PHP, Ruby": "\\u{1F64E}",
+      "Perl": "\\x{1F64E}"
+    }
+  }
+}

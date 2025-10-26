@@ -1,0 +1,93 @@
+{
+  "emoji": "💂",
+  "nome": "💂 Guarda",
+  "categoria": "Guard",
+  "url": "https://emojigraph.org/pt/guard/",
+  "detalhes": {
+    "explicacao": "Uma Britânica de guarda, conhecido como um guarda de pé. Usa um grande chapéu preto com amarelo tira do queixo. Deve-se olhar diretamente para a frente em todos os momentos, mesmo quando os turistas tentativa de distraí-los.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/guard_1f482.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/guard_1f482.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/guard_1f482.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/guard_1f482.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/guard_1f482.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/guard_1f482.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/guard_1f482.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/guard_1f482.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/guard_1f482.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/guard_1f482.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/guard_1f482.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/guard_1f482.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/guard_1f482.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/guard_1f482.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/guard_1f482.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/guard_1f482.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "guarda",
+      "segurança",
+      "pessoas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F482;",
+      "HTML dec": "&#128130;",
+      "URL escape code": "%F0%9F%92%82",
+      "Punycode": "xn--hr8h",
+      "Bytes (UTF-8)": "F0 9F 92 82",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC82",
+      "C, C++, Python": "\\U0001f482",
+      "CSS": "\\01F482",
+      "PHP, Ruby": "\\u{1F482}",
+      "Perl": "\\x{1F482}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "🐯",
+  "nome": "🐯 Rosto de tigre",
+  "categoria": "tiger face",
+  "url": "https://emojigraph.org/pt/tiger-face/",
+  "detalhes": {
+    "explicacao": "Um amigável, caricaturado rosto de um tigre, olhando diretamente para a frente. Geralmente representado em laranja-amarelado, com listras pretas em sua testa e bochechas, um branco do focinho, e a expressão neutra.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tiger-face_1f42f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tiger-face_1f42f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "rosto de tigre",
+      "tigre"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F42F;",
+      "HTML dec": "&#128047;",
+      "URL escape code": "%F0%9F%90%AF",
+      "Punycode": "xn--3o8h",
+      "Bytes (UTF-8)": "F0 9F 90 AF",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC2F",
+      "C, C++, Python": "\\U0001f42f",
+      "CSS": "\\01F42F",
+      "PHP, Ruby": "\\u{1F42F}",
+      "Perl": "\\x{1F42F}"
+    }
+  }
+}

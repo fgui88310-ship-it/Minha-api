@@ -1,0 +1,69 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🎨 Artista plástico",
+  "categoria": "man artist",
+  "url": "https://emojigraph.org/pt/man-artist/",
+  "detalhes": {
+    "explicacao": "O Homem Artista emoji é uma sequência do 👨 Homem e 🎨 Artista Paleta de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-artist_1f468-200d-1f3a8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-artist_1f468-200d-1f3a8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-artist_1f468-200d-1f3a8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-artist_1f468-200d-1f3a8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-artist_1f468-200d-1f3a8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-artist_1f468-200d-1f3a8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-artist_1f468-200d-1f3a8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-artist_1f468-200d-1f3a8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-artist_1f468-200d-1f3a8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-artist_1f468-200d-1f3a8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "artista",
+      "homem",
+      "pintura"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F3A8;",
+      "HTML dec": "&#128104;&#8205;&#127912;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%8E%A8",
+      "Punycode": "xn--8k8h5l",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 8E A8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83C\\uDFA8",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f3a8",
+      "CSS": "\\01F468 \\200D \\01F3A8",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F3A8}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F3A8}"
+    }
+  }
+}

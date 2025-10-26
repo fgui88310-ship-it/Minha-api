@@ -1,0 +1,92 @@
+{
+  "emoji": "🍑",
+  "nome": "🍑 Pêssego",
+  "categoria": "peach",
+  "url": "https://emojigraph.org/pt/peach/",
+  "detalhes": {
+    "explicacao": "Carnuda, laranja-rosada, mostrado com folhas verdes e, por vezes, com um tronco.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/peach_1f351.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/peach_1f351.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/peach_1f351.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/peach_1f351.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/peach_1f351.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/peach_1f351.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/peach_1f351.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/peach_1f351.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/peach_1f351.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/peach_1f351.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/peach_1f351.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/peach_1f351.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/peach_1f351.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/peach_1f351.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/peach_1f351.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/peach_1f351.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fruta",
+      "pêssego"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F351;",
+      "HTML dec": "&#127825;",
+      "URL escape code": "%F0%9F%8D%91",
+      "Punycode": "xn--ri8h",
+      "Bytes (UTF-8)": "F0 9F 8D 91",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF51",
+      "C, C++, Python": "\\U0001f351",
+      "CSS": "\\01F351",
+      "PHP, Ruby": "\\u{1F351}",
+      "Perl": "\\x{1F351}"
+    }
+  }
+}

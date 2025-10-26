@@ -1,0 +1,67 @@
+{
+  "emoji": "🇸🇪",
+  "nome": "🇸🇪 Bandeira: Suécia",
+  "categoria": "flag sweden",
+  "url": "https://emojigraph.org/pt/flag-sweden/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Suécia. Este símbolo é uma seqüência de caracteres 🇸 Símbolo Indicador Regional Letra S e 🇪 Símbolo Indicador Regional Letra E. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras SE em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-sweden_1f1f8-1f1ea.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-sweden_1f1f8-1f1ea.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-sweden_1f1f8-1f1ea.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-sweden_1f1f8-1f1ea.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-sweden_1f1f8-1f1ea.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-sweden_1f1f8-1f1ea.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-sweden_1f1f8-1f1ea.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-sweden_1f1f8-1f1ea.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-sweden_1f1f8-1f1ea.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-sweden_1f1f8-1f1ea.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F8;&#x1F1EA;",
+      "HTML dec": "&#127480;&#127466;",
+      "URL escape code": "%F0%9F%87%B8%F0%9F%87%AA",
+      "Punycode": "xn--i77h1a",
+      "Bytes (UTF-8)": "F0 9F 87 B8 F0 9F 87 AA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF8\\uD83C\\uDDEA",
+      "C, C++, Python": "\\U0001f1f8\\U0001f1ea",
+      "CSS": "\\01F1F8 \\01F1EA",
+      "PHP, Ruby": "\\u{1F1F8}\\u{1F1EA}",
+      "Perl": "\\x{1F1F8}\\x{1F1EA}"
+    }
+  }
+}

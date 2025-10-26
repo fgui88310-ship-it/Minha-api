@@ -1,0 +1,72 @@
+{
+  "emoji": "🦞",
+  "nome": "🦞 Lagosta",
+  "categoria": "Lobster",
+  "url": "https://emojigraph.org/pt/lobster/",
+  "detalhes": {
+    "explicacao": "Uma lagosta, um grande crustáceo com uma proeminente cauda e antenas. Descrito como laranja-avermelhada (como cozidos), com um longo corpo e cauda curta, os olhos em hastes parecidas com tentáculos, e dez pernas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lobster_1f99e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lobster_1f99e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lobster_1f99e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lobster_1f99e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lobster_1f99e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lobster_1f99e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lobster_1f99e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lobster_1f99e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lobster_1f99e.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/lobster_1f99e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bisque",
+      "caldo",
+      "fruto do mar",
+      "garras",
+      "lagosta",
+      "animal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F99E;",
+      "HTML dec": "&#129438;",
+      "URL escape code": "%F0%9F%A6%9E",
+      "Punycode": "xn--ut9h",
+      "Bytes (UTF-8)": "F0 9F A6 9E",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD9E",
+      "C, C++, Python": "\\U0001f99e",
+      "CSS": "\\01F99E",
+      "PHP, Ruby": "\\u{1F99E}",
+      "Perl": "\\x{1F99E}"
+    }
+  }
+}

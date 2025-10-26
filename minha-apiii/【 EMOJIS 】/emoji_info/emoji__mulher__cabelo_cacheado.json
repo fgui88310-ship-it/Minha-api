@@ -1,0 +1,74 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍🦱 Mulher: cabelo cacheado",
+  "categoria": "woman curly hair",
+  "url": "https://emojigraph.org/pt/woman-curly-hair/",
+  "detalhes": {
+    "explicacao": "A Mulher: Cabelos Cacheados emoji é uma sequência do 👩 Mulher e 🦱 Emoji Componente de Cabelo Encaracolado emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-curly-hair_1f469-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-curly-hair_1f469-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-curly-hair_1f469-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-curly-hair_1f469-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-curly-hair_1f469-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-curly-hair_1f469-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-curly-hair_1f469-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-curly-hair_1f469-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-curly-hair_1f469-200d-1f9b1.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/woman-curly-hair_1f469-200d-1f9b1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "adulta",
+      "cabelo cacheado",
+      "mulher",
+      "garota",
+      "guria",
+      "loira",
+      "menina",
+      "mina"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F9B1;",
+      "HTML dec": "&#128105;&#8205;&#129457;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%A6%B1",
+      "Punycode": "xn--rq8hq8f",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F A6 B1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83E\\uDDB1",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f9b1",
+      "CSS": "\\01F469 \\200D \\01F9B1",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F9B1}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F9B1}"
+    }
+  }
+}

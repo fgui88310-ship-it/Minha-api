@@ -1,0 +1,68 @@
+{
+  "emoji": "🧍",
+  "nome": "🧍 Pessoa em pé",
+  "categoria": "person standing",
+  "url": "https://emojigraph.org/pt/person-standing/",
+  "detalhes": {
+    "explicacao": "Uma pessoa de pé. Pode ser usado para representar humano em um sentido geral, ou mostrado na seqüência de implicar, de mãos dadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-standing_1f9cd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-standing_1f9cd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-standing_1f9cd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-standing_1f9cd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-standing_1f9cd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-standing_1f9cd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-standing_1f9cd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-standing_1f9cd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-standing_1f9cd.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/person-standing_1f9cd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "de pé",
+      "pessoa em pé"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9CD;",
+      "HTML dec": "&#129485;",
+      "URL escape code": "%F0%9F%A7%8D",
+      "Punycode": "xn--6u9h",
+      "Bytes (UTF-8)": "F0 9F A7 8D",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDCD",
+      "C, C++, Python": "\\U0001f9cd",
+      "CSS": "\\01F9CD",
+      "PHP, Ruby": "\\u{1F9CD}",
+      "Perl": "\\x{1F9CD}"
+    }
+  }
+}

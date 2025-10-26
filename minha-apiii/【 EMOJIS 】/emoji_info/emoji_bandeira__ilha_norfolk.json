@@ -1,0 +1,59 @@
+{
+  "emoji": "🇳🇫",
+  "nome": "🇳🇫 Bandeira: Ilha Norfolk",
+  "categoria": "flag norfolk island",
+  "url": "https://emojigraph.org/pt/flag-norfolk-island/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Ilha Norfolk. Este símbolo é uma seqüência de caracteres 🇳 Símbolo Indicador Regional Letra N e 🇫 Símbolo Indicador Regional Letra F. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras NF em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-norfolk-island_1f1f3-1f1eb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-norfolk-island_1f1f3-1f1eb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-norfolk-island_1f1f3-1f1eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-norfolk-island_1f1f3-1f1eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-norfolk-island_1f1f3-1f1eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-norfolk-island_1f1f3-1f1eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-norfolk-island_1f1f3-1f1eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-norfolk-island_1f1f3-1f1eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F3;&#x1F1EB;",
+      "HTML dec": "&#127475;&#127467;",
+      "URL escape code": "%F0%9F%87%B3%F0%9F%87%AB",
+      "Punycode": "xn--j77hpa",
+      "Bytes (UTF-8)": "F0 9F 87 B3 F0 9F 87 AB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF3\\uD83C\\uDDEB",
+      "C, C++, Python": "\\U0001f1f3\\U0001f1eb",
+      "CSS": "\\01F1F3 \\01F1EB",
+      "PHP, Ruby": "\\u{1F1F3}\\u{1F1EB}",
+      "Perl": "\\x{1F1F3}\\x{1F1EB}"
+    }
+  }
+}

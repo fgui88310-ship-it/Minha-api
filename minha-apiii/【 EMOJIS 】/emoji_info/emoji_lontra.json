@@ -1,0 +1,69 @@
+{
+  "emoji": "🦦",
+  "nome": "🦦 Lontra",
+  "categoria": "Otter",
+  "url": "https://emojigraph.org/pt/otter/",
+  "detalhes": {
+    "explicacao": "Uma lontra, o lúdico água de mamíferos no weasel família. Descrito como uma luz marrom-lontra em sua volta, com suas patas realizada em conjunto e myotis rosto para a esquerda, em geral, com a sua longa cauda enrolado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/otter_1f9a6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/otter_1f9a6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/otter_1f9a6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/otter_1f9a6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/otter_1f9a6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/otter_1f9a6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/otter_1f9a6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/otter_1f9a6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/otter_1f9a6.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/otter_1f9a6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "brincalhona",
+      "lontra",
+      "pesca"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9A6;",
+      "HTML dec": "&#129446;",
+      "URL escape code": "%F0%9F%A6%A6",
+      "Punycode": "xn--2t9h",
+      "Bytes (UTF-8)": "F0 9F A6 A6",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDA6",
+      "C, C++, Python": "\\U0001f9a6",
+      "CSS": "\\01F9A6",
+      "PHP, Ruby": "\\u{1F9A6}",
+      "Perl": "\\x{1F9A6}"
+    }
+  }
+}

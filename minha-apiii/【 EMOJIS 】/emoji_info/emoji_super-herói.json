@@ -1,0 +1,75 @@
+{
+  "emoji": "🦸",
+  "nome": "🦸 Super-herói",
+  "categoria": "Superhero",
+  "url": "https://emojigraph.org/pt/superhero/",
+  "detalhes": {
+    "explicacao": "Um herói que pode ser apresentado como um homem, uma mulher ou de gênero neutro / gênero inclusivo, dependendo da plataforma. Este emoji base não especifica um gênero, mas é usado para criar os emojis para o super-herói homem e super-herói mulher.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/superhero_1f9b8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/superhero_1f9b8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/superhero_1f9b8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/superhero_1f9b8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/superhero_1f9b8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/superhero_1f9b8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/superhero_1f9b8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/superhero_1f9b8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/superhero_1f9b8.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/superhero_1f9b8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boa",
+      "bom",
+      "herói",
+      "heroína",
+      "super-herói",
+      "superpoder",
+      "bem",
+      "super-homem",
+      "superman"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9B8;",
+      "HTML dec": "&#129464;",
+      "URL escape code": "%F0%9F%A6%B8",
+      "Punycode": "xn--lu9h",
+      "Bytes (UTF-8)": "F0 9F A6 B8",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDB8",
+      "C, C++, Python": "\\U0001f9b8",
+      "CSS": "\\01F9B8",
+      "PHP, Ruby": "\\u{1F9B8}",
+      "Perl": "\\x{1F9B8}"
+    }
+  }
+}

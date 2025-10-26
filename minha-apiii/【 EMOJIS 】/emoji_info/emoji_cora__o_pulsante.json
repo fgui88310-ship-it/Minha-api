@@ -1,0 +1,96 @@
+{
+  "emoji": "💓",
+  "nome": "💓 Coração pulsante",
+  "categoria": "beating heart",
+  "url": "https://emojigraph.org/pt/beating-heart/",
+  "detalhes": {
+    "explicacao": "Um coração com vibração / movimento linhas acima, indicando que é um coração batendo. Exibido em cor-de-rosa ou vermelho na maioria das plataformas, este emoji é destinado a ser usado como um coração pulsante, representando a vida, ou o amor.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/beating-heart_1f493.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/beating-heart_1f493.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amor",
+      "batendo",
+      "coração",
+      "emoção",
+      "pulsante",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F493;",
+      "HTML dec": "&#128147;",
+      "URL escape code": "%F0%9F%92%93",
+      "Punycode": "xn--yr8h",
+      "Bytes (UTF-8)": "F0 9F 92 93",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC93",
+      "C, C++, Python": "\\U0001f493",
+      "CSS": "\\01F493",
+      "PHP, Ruby": "\\u{1F493}",
+      "Perl": "\\x{1F493}"
+    }
+  }
+}

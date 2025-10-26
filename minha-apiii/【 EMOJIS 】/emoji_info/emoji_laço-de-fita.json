@@ -1,0 +1,94 @@
+{
+  "emoji": "🎀",
+  "nome": "🎀 Laço de fita",
+  "categoria": "Ribbon",
+  "url": "https://emojigraph.org/pt/ribbon/",
+  "detalhes": {
+    "explicacao": "Uma fita cor-de-rosa ou vermelha, como se estivessem em um presente ou em um chapéu de mulher.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ribbon_1f380.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ribbon_1f380.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comemoração",
+      "fita",
+      "laço",
+      "presente"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F380;",
+      "HTML dec": "&#127872;",
+      "URL escape code": "%F0%9F%8E%80",
+      "Punycode": "xn--3j8h",
+      "Bytes (UTF-8)": "F0 9F 8E 80",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF80",
+      "C, C++, Python": "\\U0001f380",
+      "CSS": "\\01F380",
+      "PHP, Ruby": "\\u{1F380}",
+      "Perl": "\\x{1F380}"
+    }
+  }
+}

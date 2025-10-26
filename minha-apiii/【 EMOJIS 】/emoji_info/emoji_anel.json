@@ -1,0 +1,93 @@
+{
+  "emoji": "💍",
+  "nome": "💍 Anel",
+  "categoria": "Ring",
+  "url": "https://emojigraph.org/pt/ring/",
+  "detalhes": {
+    "explicacao": "Um anel com a exibição de uma pedra de gema de algum tipo em cima, provávelmente um diamante. Esta peça de joalharia é freqüentemente associada com uma proposta de posterior casamento.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ring_1f48d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ring_1f48d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "anel",
+      "diamante",
+      "romance"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F48D;",
+      "HTML dec": "&#128141;",
+      "URL escape code": "%F0%9F%92%8D",
+      "Punycode": "xn--sr8h",
+      "Bytes (UTF-8)": "F0 9F 92 8D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC8D",
+      "C, C++, Python": "\\U0001f48d",
+      "CSS": "\\01F48D",
+      "PHP, Ruby": "\\u{1F48D}",
+      "Perl": "\\x{1F48D}"
+    }
+  }
+}

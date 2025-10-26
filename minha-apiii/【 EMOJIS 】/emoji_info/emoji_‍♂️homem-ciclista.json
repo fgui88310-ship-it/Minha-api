@@ -1,0 +1,63 @@
+{
+  "emoji": "🚴",
+  "nome": "🚴‍♂️ Homem ciclista",
+  "categoria": "Man Biking",
+  "url": "https://emojigraph.org/pt/man-biking/",
+  "detalhes": {
+    "explicacao": "A versão masculina do 🚴 Ciclista emoji. Atualmente idêntico em aparência a não-gênero da base de dados de emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-biking_1f6b4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-biking_1f6b4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-biking_1f6b4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-biking_1f6b4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-biking_1f6b4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-biking_1f6b4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-biking_1f6b4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-biking_1f6b4-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bicicleta",
+      "esporte",
+      "homem",
+      "homem ciclista",
+      "passeio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6B4;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#128692;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%9A%B4%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h7790o",
+      "Bytes (UTF-8)": "F0 9F 9A B4 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEB4\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f6b4\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F6B4 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F6B4}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F6B4}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

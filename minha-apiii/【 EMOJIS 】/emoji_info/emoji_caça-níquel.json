@@ -1,0 +1,94 @@
+{
+  "emoji": "🎰",
+  "nome": "🎰 Caça-níquel",
+  "categoria": "Slot Machine",
+  "url": "https://emojigraph.org/pt/slot-machine/",
+  "detalhes": {
+    "explicacao": "Uma máquina de jogo geralmente encontrados em cassinos. Mostra três rodas, com uma alavanca para o lado. A maioria das plataformas de exibição de três 7 dígitos neste emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/slot-machine_1f3b0.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/slot-machine_1f3b0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caça-níquel",
+      "jogo de azar",
+      "aposta",
+      "cassino"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3B0;",
+      "HTML dec": "&#127920;",
+      "URL escape code": "%F0%9F%8E%B0",
+      "Punycode": "xn--hl8h",
+      "Bytes (UTF-8)": "F0 9F 8E B0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFB0",
+      "C, C++, Python": "\\U0001f3b0",
+      "CSS": "\\01F3B0",
+      "PHP, Ruby": "\\u{1F3B0}",
+      "Perl": "\\x{1F3B0}"
+    }
+  }
+}

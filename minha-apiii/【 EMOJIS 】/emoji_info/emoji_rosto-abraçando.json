@@ -1,0 +1,81 @@
+{
+  "emoji": "🤗",
+  "nome": "🤗 Rosto abraçando",
+  "categoria": "Hugging Face",
+  "url": "https://emojigraph.org/pt/hugging-face/",
+  "detalhes": {
+    "explicacao": "Um emoji amarelo, sorrindo com as mãos abertas, como se estivesse dando um abraço. Muitas plataformas apresentam a mesma expressão que a sua 😊 Rosto sorridente com olhos sorridentes.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hugging-face_1f917.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hugging-face_1f917.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hugging-face_1f917.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hugging-face_1f917.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hugging-face_1f917.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hugging-face_1f917.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hugging-face_1f917.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hugging-face_1f917.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hugging-face_1f917.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hugging-face_1f917.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hugging-face_1f917.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hugging-face_1f917.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "abraço",
+      "mãos abraçando",
+      "rosto",
+      "rosto abraçando",
+      "carinho",
+      "feliz",
+      "rosto sorrindo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F917;",
+      "HTML dec": "&#129303;",
+      "URL escape code": "%F0%9F%A4%97",
+      "Punycode": "xn--zp9h",
+      "Bytes (UTF-8)": "F0 9F A4 97",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD17",
+      "C, C++, Python": "\\U0001f917",
+      "CSS": "\\01F917",
+      "PHP, Ruby": "\\u{1F917}",
+      "Perl": "\\x{1F917}"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "emoji": "🐵",
+  "nome": "🐵 Rosto de macaco",
+  "categoria": "monkey face",
+  "url": "https://emojigraph.org/pt/monkey-face/",
+  "detalhes": {
+    "explicacao": "Um amigável, cartoon-estilo rosto de um macaco, olhando para a frente. Descrito como uma de cabelos castanhos macaco com um bronzeado ou rosado, de rosto redondo, orelhas, narinas e boca aberta sorriso.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/monkey-face_1f435.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/monkey-face_1f435.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "macaco",
+      "rosto",
+      "rosto de macaco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F435;",
+      "HTML dec": "&#128053;",
+      "URL escape code": "%F0%9F%90%B5",
+      "Punycode": "xn--9o8h",
+      "Bytes (UTF-8)": "F0 9F 90 B5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC35",
+      "C, C++, Python": "\\U0001f435",
+      "CSS": "\\01F435",
+      "PHP, Ruby": "\\u{1F435}",
+      "Perl": "\\x{1F435}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "🦿",
+  "nome": "🦿 Perna mecânica",
+  "categoria": "mechanical leg",
+  "url": "https://emojigraph.org/pt/mechanical-leg/",
+  "detalhes": {
+    "explicacao": "Um mecânico ou prótese de perna.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mechanical-leg_1f9bf.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mechanical-leg_1f9bf.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mechanical-leg_1f9bf.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mechanical-leg_1f9bf.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mechanical-leg_1f9bf.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mechanical-leg_1f9bf.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mechanical-leg_1f9bf.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mechanical-leg_1f9bf.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mechanical-leg_1f9bf.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/mechanical-leg_1f9bf.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade",
+      "perna mecânica",
+      "prótese"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9BF;",
+      "HTML dec": "&#129471;",
+      "URL escape code": "%F0%9F%A6%BF",
+      "Punycode": "xn--su9h",
+      "Bytes (UTF-8)": "F0 9F A6 BF",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDBF",
+      "C, C++, Python": "\\U0001f9bf",
+      "CSS": "\\01F9BF",
+      "PHP, Ruby": "\\u{1F9BF}",
+      "Perl": "\\x{1F9BF}"
+    }
+  }
+}

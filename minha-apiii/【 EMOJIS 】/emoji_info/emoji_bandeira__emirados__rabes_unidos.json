@@ -1,0 +1,67 @@
+{
+  "emoji": "🇦🇪",
+  "nome": "🇦🇪 Bandeira: Emirados Árabes Unidos",
+  "categoria": "flag united arab emirates",
+  "url": "https://emojigraph.org/pt/flag-united-arab-emirates/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional dos emirados Árabes Unidos. Este símbolo é uma seqüência de caracteres 🇦 Símbolo Indicador Regional Letra A e 🇪 Símbolo Indicador Regional Letra E. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras AE em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-united-arab-emirates_1f1e6-1f1ea.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-united-arab-emirates_1f1e6-1f1ea.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-united-arab-emirates_1f1e6-1f1ea.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-united-arab-emirates_1f1e6-1f1ea.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-united-arab-emirates_1f1e6-1f1ea.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-united-arab-emirates_1f1e6-1f1ea.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-united-arab-emirates_1f1e6-1f1ea.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-united-arab-emirates_1f1e6-1f1ea.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-united-arab-emirates_1f1e6-1f1ea.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-united-arab-emirates_1f1e6-1f1ea.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E6;&#x1F1EA;",
+      "HTML dec": "&#127462;&#127466;",
+      "URL escape code": "%F0%9F%87%A6%F0%9F%87%AA",
+      "Punycode": "xn--e77hia",
+      "Bytes (UTF-8)": "F0 9F 87 A6 F0 9F 87 AA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE6\\uD83C\\uDDEA",
+      "C, C++, Python": "\\U0001f1e6\\U0001f1ea",
+      "CSS": "\\01F1E6 \\01F1EA",
+      "PHP, Ruby": "\\u{1F1E6}\\u{1F1EA}",
+      "Perl": "\\x{1F1E6}\\x{1F1EA}"
+    }
+  }
+}

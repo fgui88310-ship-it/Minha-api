@@ -1,0 +1,59 @@
+{
+  "emoji": "🇨🇰",
+  "nome": "🇨🇰 Bandeira: Ilhas Cook",
+  "categoria": "flag cook islands",
+  "url": "https://emojigraph.org/pt/flag-cook-islands/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional das Ilhas Cook. Este símbolo é uma seqüência de caracteres 🇨 Símbolo Indicador Regional Letra C e 🇰 Símbolo Indicador Regional Letra K. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras CK em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-cook-islands_1f1e8-1f1f0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-cook-islands_1f1e8-1f1f0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-cook-islands_1f1e8-1f1f0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-cook-islands_1f1e8-1f1f0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-cook-islands_1f1e8-1f1f0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-cook-islands_1f1e8-1f1f0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-cook-islands_1f1e8-1f1f0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-cook-islands_1f1e8-1f1f0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E8;&#x1F1F0;",
+      "HTML dec": "&#127464;&#127472;",
+      "URL escape code": "%F0%9F%87%A8%F0%9F%87%B0",
+      "Punycode": "xn--g77hqa",
+      "Bytes (UTF-8)": "F0 9F 87 A8 F0 9F 87 B0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE8\\uD83C\\uDDF0",
+      "C, C++, Python": "\\U0001f1e8\\U0001f1f0",
+      "CSS": "\\01F1E8 \\01F1F0",
+      "PHP, Ruby": "\\u{1F1E8}\\u{1F1F0}",
+      "Perl": "\\x{1F1E8}\\x{1F1F0}"
+    }
+  }
+}

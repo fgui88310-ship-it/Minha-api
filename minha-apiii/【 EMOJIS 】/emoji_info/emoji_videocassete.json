@@ -1,0 +1,95 @@
+{
+  "emoji": "📼",
+  "nome": "📼 Videocassete",
+  "categoria": "Videocassette",
+  "url": "https://emojigraph.org/pt/videocassette/",
+  "detalhes": {
+    "explicacao": "Uma fita de vídeo cassete, como uma fita VHS usado para assistir a filmes ou gravar programas de TV no Videocassete antes de DVDs, gravador de vídeo digital e fluxo contínuo. Geralmente retratado como um preto cassete com uma etiqueta branca entre suas bobinas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/videocassette_1f4fc.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/videocassette_1f4fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fita",
+      "vhs",
+      "vídeo",
+      "videocassete",
+      "cassete"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4FC;",
+      "HTML dec": "&#128252;",
+      "URL escape code": "%F0%9F%93%BC",
+      "Punycode": "xn--yu8h",
+      "Bytes (UTF-8)": "F0 9F 93 BC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCFC",
+      "C, C++, Python": "\\U0001f4fc",
+      "CSS": "\\01F4FC",
+      "PHP, Ruby": "\\u{1F4FC}",
+      "Perl": "\\x{1F4FC}"
+    }
+  }
+}

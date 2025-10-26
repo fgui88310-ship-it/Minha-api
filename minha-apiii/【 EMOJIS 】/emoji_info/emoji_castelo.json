@@ -1,0 +1,93 @@
+{
+  "emoji": "🏰",
+  "nome": "🏰 Castelo",
+  "categoria": "Castle",
+  "url": "https://emojigraph.org/pt/castle/",
+  "detalhes": {
+    "explicacao": "Um castelo, em um estilo que pode ser encontrado na França e em outras partes da Europa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/castle_1f3f0.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/castle_1f3f0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "castelo",
+      "castelo europeu",
+      "prédio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3F0;",
+      "HTML dec": "&#127984;",
+      "URL escape code": "%F0%9F%8F%B0",
+      "Punycode": "xn--bn8h",
+      "Bytes (UTF-8)": "F0 9F 8F B0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFF0",
+      "C, C++, Python": "\\U0001f3f0",
+      "CSS": "\\01F3F0",
+      "PHP, Ruby": "\\u{1F3F0}",
+      "Perl": "\\x{1F3F0}"
+    }
+  }
+}

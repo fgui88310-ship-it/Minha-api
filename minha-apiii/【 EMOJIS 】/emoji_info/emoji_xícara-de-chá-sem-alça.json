@@ -1,0 +1,95 @@
+{
+  "emoji": "🍵",
+  "nome": "🍵 Xícara de chá sem alça",
+  "categoria": "Teacup Without Handle",
+  "url": "https://emojigraph.org/pt/teacup-without-handle/",
+  "detalhes": {
+    "explicacao": "Uma xícara de chá verde, como o de hortelã cor verde matcha, geralmente mostrado na madeira (mat. Matcha é tradicionalmente servido em uma tigela pequena, que se assemelha a uma xícara sem asa. Muitas vezes tomado como uma tigela de sopa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/teacup-without-handle_1f375.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/teacup-without-handle_1f375.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bebida",
+      "chá",
+      "xícara",
+      "xícara de chá",
+      "chá verde"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F375;",
+      "HTML dec": "&#127861;",
+      "URL escape code": "%F0%9F%8D%B5",
+      "Punycode": "xn--sj8h",
+      "Bytes (UTF-8)": "F0 9F 8D B5",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF75",
+      "C, C++, Python": "\\U0001f375",
+      "CSS": "\\01F375",
+      "PHP, Ruby": "\\u{1F375}",
+      "Perl": "\\x{1F375}"
+    }
+  }
+}

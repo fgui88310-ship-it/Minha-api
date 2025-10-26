@@ -1,0 +1,74 @@
+{
+  "emoji": "🧟",
+  "nome": "🧟 Zumbi",
+  "categoria": "Zombie",
+  "url": "https://emojigraph.org/pt/zombie/",
+  "detalhes": {
+    "explicacao": "Um reanimado humano, muitas vezes encontradas em obras de ficção de horror. Pode ter uma aparência feminina ou masculina.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/zombie_1f9df.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/zombie_1f9df.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/zombie_1f9df.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/zombie_1f9df.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/zombie_1f9df.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/zombie_1f9df.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/zombie_1f9df.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/zombie_1f9df.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/zombie_1f9df.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/zombie_1f9df.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cazumbi",
+      "zumbi",
+      "apocalipse",
+      "assustador",
+      "dia das bruxas",
+      "halloween",
+      "morto-vivo",
+      "terror"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9DF;",
+      "HTML dec": "&#129503;",
+      "URL escape code": "%F0%9F%A7%9F",
+      "Punycode": "xn--pv9h",
+      "Bytes (UTF-8)": "F0 9F A7 9F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDDF",
+      "C, C++, Python": "\\U0001f9df",
+      "CSS": "\\01F9DF",
+      "PHP, Ruby": "\\u{1F9DF}",
+      "Perl": "\\x{1F9DF}"
+    }
+  }
+}

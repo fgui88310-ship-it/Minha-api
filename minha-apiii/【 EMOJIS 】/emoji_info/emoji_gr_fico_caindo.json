@@ -1,0 +1,94 @@
+{
+  "emoji": "📉",
+  "nome": "📉 Gráfico caindo",
+  "categoria": "chart decreasing",
+  "url": "https://emojigraph.org/pt/chart-decreasing/",
+  "detalhes": {
+    "explicacao": "Um gráfico mostrando a cor da linha de tendência, muitas vezes azul, diminuindo ao longo do tempo, como os preços das ações ou das receitas. Comumente usado para representar vários tipos de diminuir, a partir do numeral de dados para ser metaforicamente para baixo. Também pode representar fatos, figuras e gráficos em geral.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/chart-decreasing_1f4c9.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/chart-decreasing_1f4c9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "diagrama",
+      "gráfico",
+      "gráfico caindo",
+      "negativa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4C9;",
+      "HTML dec": "&#128201;",
+      "URL escape code": "%F0%9F%93%89",
+      "Punycode": "xn--it8h",
+      "Bytes (UTF-8)": "F0 9F 93 89",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCC9",
+      "C, C++, Python": "\\U0001f4c9",
+      "CSS": "\\01F4C9",
+      "PHP, Ruby": "\\u{1F4C9}",
+      "Perl": "\\x{1F4C9}"
+    }
+  }
+}

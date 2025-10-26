@@ -1,0 +1,96 @@
+{
+  "emoji": "👨",
+  "nome": "👨 Homem",
+  "categoria": "Man",
+  "url": "https://emojigraph.org/pt/man/",
+  "detalhes": {
+    "explicacao": "Um homem de idade adulta, mostrado em algumas plataformas com um bigode.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man_1f468.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man_1f468.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man_1f468.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man_1f468.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man_1f468.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man_1f468.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man_1f468.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/man_1f468.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man_1f468.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man_1f468.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man_1f468.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/man_1f468.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/man_1f468.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/man_1f468.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/man_1f468.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/man_1f468.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "adulto",
+      "homem",
+      "amigo",
+      "irmão",
+      "marido",
+      "namorado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;",
+      "HTML dec": "&#128104;",
+      "URL escape code": "%F0%9F%91%A8",
+      "Punycode": "xn--qq8h",
+      "Bytes (UTF-8)": "F0 9F 91 A8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68",
+      "C, C++, Python": "\\U0001f468",
+      "CSS": "\\01F468",
+      "PHP, Ruby": "\\u{1F468}",
+      "Perl": "\\x{1F468}"
+    }
+  }
+}

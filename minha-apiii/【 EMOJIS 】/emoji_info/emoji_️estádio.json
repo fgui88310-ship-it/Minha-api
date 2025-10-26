@@ -1,0 +1,67 @@
+{
+  "emoji": "🏟",
+  "nome": "🏟️ Estádio",
+  "categoria": "Stadium",
+  "url": "https://emojigraph.org/pt/stadium/",
+  "detalhes": {
+    "explicacao": "Um grande estádio com capacidade para, com uma grande quantidade de lugares para os fãs de esportivos, ou pessoas a participar de outra mostra hospedado em um estádio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/stadium_1f3df-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/stadium_1f3df-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/stadium_1f3df-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/stadium_1f3df-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/stadium_1f3df-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/stadium_1f3df-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/stadium_1f3df-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/stadium_1f3df-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/stadium_1f3df-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/stadium_1f3df-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "estádio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3DF;&#xFE0F;",
+      "HTML dec": "&#127967;&#65039;",
+      "URL escape code": "%F0%9F%8F%9F%EF%B8%8F",
+      "Punycode": "xn--tm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 9F EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFDF\\uFE0F",
+      "C, C++, Python": "\\U0001f3df\\uFE0F",
+      "CSS": "\\01F3DF \\FE0F",
+      "PHP, Ruby": "\\u{1F3DF}\\u{FE0F}",
+      "Perl": "\\x{1F3DF}\\x{FE0F}"
+    }
+  }
+}

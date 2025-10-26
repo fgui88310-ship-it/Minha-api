@@ -1,0 +1,85 @@
+{
+  "emoji": "🚜",
+  "nome": "🚜 Trator",
+  "categoria": "Tractor",
+  "url": "https://emojigraph.org/pt/tractor/",
+  "detalhes": {
+    "explicacao": "Um trator, pode ser usado por um fazendeiro ou outra ocupação de terras.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tractor_1f69c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tractor_1f69c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "trator",
+      "veículo",
+      "obra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F69C;",
+      "HTML dec": "&#128668;",
+      "URL escape code": "%F0%9F%9A%9C",
+      "Punycode": "xn--u68h",
+      "Bytes (UTF-8)": "F0 9F 9A 9C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE9C",
+      "C, C++, Python": "\\U0001f69c",
+      "CSS": "\\01F69C",
+      "PHP, Ruby": "\\u{1F69C}",
+      "Perl": "\\x{1F69C}"
+    }
+  }
+}

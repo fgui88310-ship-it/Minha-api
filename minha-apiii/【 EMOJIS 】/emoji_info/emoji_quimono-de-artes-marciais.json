@@ -1,0 +1,74 @@
+{
+  "emoji": "🥋",
+  "nome": "🥋 Quimono de artes marciais",
+  "categoria": "Martial Arts Uniform",
+  "url": "https://emojigraph.org/pt/martial-arts-uniform/",
+  "detalhes": {
+    "explicacao": "Um uniforme branco usado em artes conjugais, tais como judô ou karatê. Realizada em conjunto usando uma correia de material. Conhecido como keikogi em Japonês.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/martial-arts-uniform_1f94b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/martial-arts-uniform_1f94b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/martial-arts-uniform_1f94b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/martial-arts-uniform_1f94b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/martial-arts-uniform_1f94b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/martial-arts-uniform_1f94b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/martial-arts-uniform_1f94b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/martial-arts-uniform_1f94b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/martial-arts-uniform_1f94b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/martial-arts-uniform_1f94b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "artes marciais",
+      "judô",
+      "karatê",
+      "quimono",
+      "taekwondo",
+      "esporte",
+      "faixa preta",
+      "uniforme"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F94B;",
+      "HTML dec": "&#129355;",
+      "URL escape code": "%F0%9F%A5%8B",
+      "Punycode": "xn--hr9h",
+      "Bytes (UTF-8)": "F0 9F A5 8B",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD4B",
+      "C, C++, Python": "\\U0001f94b",
+      "CSS": "\\01F94B",
+      "PHP, Ruby": "\\u{1F94B}",
+      "Perl": "\\x{1F94B}"
+    }
+  }
+}

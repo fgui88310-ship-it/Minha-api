@@ -1,0 +1,98 @@
+{
+  "emoji": "💴",
+  "nome": "💴 Nota de iene",
+  "categoria": "yen banknote",
+  "url": "https://emojigraph.org/pt/yen-banknote/",
+  "detalhes": {
+    "explicacao": "Um em faixas pilha de ienes notas de banco, papel-moeda do Japão. Cores e detalhes variam entre plataformas, mas geralmente mostrados em verde, amarelo ou cor-de-rosa com o símbolo do iene, ¥. Comumente utilizado para vários conteúdos relativos a dinheiro e a riqueza, não restrito ao Japão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/yen-banknote_1f4b4.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/yen-banknote_1f4b4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dinheiro",
+      "iene",
+      "moeda",
+      "nota",
+      "nota bancária",
+      "nota de iene",
+      "cédula",
+      "grana"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4B4;",
+      "HTML dec": "&#128180;",
+      "URL escape code": "%F0%9F%92%B4",
+      "Punycode": "xn--ws8h",
+      "Bytes (UTF-8)": "F0 9F 92 B4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCB4",
+      "C, C++, Python": "\\U0001f4b4",
+      "CSS": "\\01F4B4",
+      "PHP, Ruby": "\\u{1F4B4}",
+      "Perl": "\\x{1F4B4}"
+    }
+  }
+}

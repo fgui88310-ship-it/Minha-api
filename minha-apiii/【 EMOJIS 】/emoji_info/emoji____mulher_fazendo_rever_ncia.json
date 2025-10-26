@@ -1,0 +1,71 @@
+{
+  "emoji": "🙇",
+  "nome": "🙇‍♀️ Mulher fazendo reverência",
+  "categoria": "woman bowing",
+  "url": "https://emojigraph.org/pt/woman-bowing/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 🙇 Pessoa Curvando-se Profundamente emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-bowing_1f647-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-bowing_1f647-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-bowing_1f647-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-bowing_1f647-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-bowing_1f647-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-bowing_1f647-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-bowing_1f647-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-bowing_1f647-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-bowing_1f647-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-bowing_1f647-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "desculpas",
+      "gesto",
+      "mulher",
+      "respeito",
+      "reverência"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F647;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128583;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%99%87%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h3280o",
+      "Bytes (UTF-8)": "F0 9F 99 87 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE47\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f647\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F647 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F647}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F647}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

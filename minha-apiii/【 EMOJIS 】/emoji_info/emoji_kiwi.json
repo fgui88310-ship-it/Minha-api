@@ -1,0 +1,69 @@
+{
+  "emoji": "🥝",
+  "nome": "🥝 Kiwi",
+  "categoria": "Kiwi Fruit",
+  "url": "https://emojigraph.org/pt/kiwi-fruit/",
+  "detalhes": {
+    "explicacao": "Um kiwi, ou groselha chinesa, com a sua difusa, pele marrom cortada aberta para mostrar a sua cor verde,  centro branco e sementes pretas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/kiwi-fruit_1f95d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/kiwi-fruit_1f95d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/kiwi-fruit_1f95d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/kiwi-fruit_1f95d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/kiwi-fruit_1f95d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/kiwi-fruit_1f95d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/kiwi-fruit_1f95d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/kiwi-fruit_1f95d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/kiwi-fruit_1f95d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/kiwi-fruit_1f95d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comida",
+      "fruta",
+      "kiwi"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F95D;",
+      "HTML dec": "&#129373;",
+      "URL escape code": "%F0%9F%A5%9D",
+      "Punycode": "xn--zr9h",
+      "Bytes (UTF-8)": "F0 9F A5 9D",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD5D",
+      "C, C++, Python": "\\U0001f95d",
+      "CSS": "\\01F95D",
+      "PHP, Ruby": "\\u{1F95D}",
+      "Perl": "\\x{1F95D}"
+    }
+  }
+}

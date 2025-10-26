@@ -1,0 +1,95 @@
+{
+  "emoji": "🔐",
+  "nome": "🔐 Cadeado fechado com chave",
+  "categoria": "locked with key",
+  "url": "https://emojigraph.org/pt/locked-with-key/",
+  "detalhes": {
+    "explicacao": "Um bloqueado (fechado) cadeado com uma posição vertical de chave no seu direito. Fornecedores de implementar o mesmo projetos como a sua 🔒 Bloqueado e 🔑 Chave.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/locked-with-key_1f510.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/locked-with-key_1f510.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "seguro",
+      "cadeado",
+      "chave",
+      "fechado",
+      "trancado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F510;",
+      "HTML dec": "&#128272;",
+      "URL escape code": "%F0%9F%94%90",
+      "Punycode": "xn--jv8h",
+      "Bytes (UTF-8)": "F0 9F 94 90",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD10",
+      "C, C++, Python": "\\U0001f510",
+      "CSS": "\\01F510",
+      "PHP, Ruby": "\\u{1F510}",
+      "Perl": "\\x{1F510}"
+    }
+  }
+}

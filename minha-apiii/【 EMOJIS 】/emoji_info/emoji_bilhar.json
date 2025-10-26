@@ -1,0 +1,93 @@
+{
+  "emoji": "🎱",
+  "nome": "🎱 Bilhar",
+  "categoria": "Pool 8 Ball",
+  "url": "https://emojigraph.org/pt/pool-8-ball/",
+  "detalhes": {
+    "explicacao": "Jogo de bilhar, de que a piscina é uma versão comum. Este emoji exibe o preto bola 8 na maioria das plataformas, que é semelhante ao Magic 8-Bola de brinquedo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pool-8-ball_1f3b1.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pool-8-ball_1f3b1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bilhar",
+      "bola oito",
+      "jogo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3B1;",
+      "HTML dec": "&#127921;",
+      "URL escape code": "%F0%9F%8E%B1",
+      "Punycode": "xn--il8h",
+      "Bytes (UTF-8)": "F0 9F 8E B1",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFB1",
+      "C, C++, Python": "\\U0001f3b1",
+      "CSS": "\\01F3B1",
+      "PHP, Ruby": "\\u{1F3B1}",
+      "Perl": "\\x{1F3B1}"
+    }
+  }
+}

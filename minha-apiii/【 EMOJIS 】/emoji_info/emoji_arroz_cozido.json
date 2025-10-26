@@ -1,0 +1,95 @@
+{
+  "emoji": "🍚",
+  "nome": "🍚 Arroz cozido",
+  "categoria": "cooked rice",
+  "url": "https://emojigraph.org/pt/cooked-rice/",
+  "detalhes": {
+    "explicacao": "Uma tigela de arroz branco cozido no vapor, um grampo componente de cozinha em toda a Ásia. Tigela de cores varia entre plataformas, o que muitas vezes é branco.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cooked-rice_1f35a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cooked-rice_1f35a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arroz",
+      "arroz cozido",
+      "comida",
+      "fome",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F35A;",
+      "HTML dec": "&#127834;",
+      "URL escape code": "%F0%9F%8D%9A",
+      "Punycode": "xn--0i8h",
+      "Bytes (UTF-8)": "F0 9F 8D 9A",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF5A",
+      "C, C++, Python": "\\U0001f35a",
+      "CSS": "\\01F35A",
+      "PHP, Ruby": "\\u{1F35A}",
+      "Perl": "\\x{1F35A}"
+    }
+  }
+}

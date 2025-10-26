@@ -1,0 +1,86 @@
+{
+  "emoji": "🌞",
+  "nome": "🌞 Rosto do sol",
+  "categoria": "sun with face",
+  "url": "https://emojigraph.org/pt/sun-with-face/",
+  "detalhes": {
+    "explicacao": "Um sol com um sorriso no rosto, como o Sol de Maio. Geralmente retratado como um disco amarelo-dourado com um sorriso, muitas vezes, o rosto do homem com um nariz triangular irradiando raios, representa o sol, o calor e a luz.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sun-with-face_1f31e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sun-with-face_1f31e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "rosto do sol",
+      "sol",
+      "praia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F31E;",
+      "HTML dec": "&#127774;",
+      "URL escape code": "%F0%9F%8C%9E",
+      "Punycode": "xn--bh8h",
+      "Bytes (UTF-8)": "F0 9F 8C 9E",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF1E",
+      "C, C++, Python": "\\U0001f31e",
+      "CSS": "\\01F31E",
+      "PHP, Ruby": "\\u{1F31E}",
+      "Perl": "\\x{1F31E}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "📦",
+  "nome": "📦 Pacote",
+  "categoria": "Package",
+  "url": "https://emojigraph.org/pt/package/",
+  "detalhes": {
+    "explicacao": "Um pacote (parcela), como contesse itens encomendados online. Representado em diferentes ângulos, como uma cor marrom leve, caixa de papelão, com uma etiqueta de remessa e suas abertura principal fechada.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/package_1f4e6.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/package_1f4e6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caixa",
+      "embrulho",
+      "pacote"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4E6;",
+      "HTML dec": "&#128230;",
+      "URL escape code": "%F0%9F%93%A6",
+      "Punycode": "xn--cu8h",
+      "Bytes (UTF-8)": "F0 9F 93 A6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCE6",
+      "C, C++, Python": "\\U0001f4e6",
+      "CSS": "\\01F4E6",
+      "PHP, Ruby": "\\u{1F4E6}",
+      "Perl": "\\x{1F4E6}"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "emoji": "💞",
+  "nome": "💞 Corações girando",
+  "categoria": "revolving hearts",
+  "url": "https://emojigraph.org/pt/revolving-hearts/",
+  "detalhes": {
+    "explicacao": "Corações que giram em torno de um ou mais outros corações. Este emoji foi originalmente animado em um número de dispositivos Japoneses.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/revolving-hearts_1f49e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/revolving-hearts_1f49e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "girando",
+      "adorável",
+      "amor",
+      "bonitinho",
+      "coração",
+      "corações",
+      "emoção",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F49E;",
+      "HTML dec": "&#128158;",
+      "URL escape code": "%F0%9F%92%9E",
+      "Punycode": "xn--9r8h",
+      "Bytes (UTF-8)": "F0 9F 92 9E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC9E",
+      "C, C++, Python": "\\U0001f49e",
+      "CSS": "\\01F49E",
+      "PHP, Ruby": "\\u{1F49E}",
+      "Perl": "\\x{1F49E}"
+    }
+  }
+}

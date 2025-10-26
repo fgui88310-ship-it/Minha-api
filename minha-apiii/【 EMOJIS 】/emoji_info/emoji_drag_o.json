@@ -1,0 +1,85 @@
+{
+  "emoji": "🐉",
+  "nome": "🐉 Dragão",
+  "categoria": "dragon",
+  "url": "https://emojigraph.org/pt/dragon/",
+  "detalhes": {
+    "explicacao": "Um dragão, uma criatura mítica semelhante a um réptil gigante encontrado no folclore de muitas culturas. Descrito como um verde, Chinês-estilo dragão em pleno perfil voltado para a esquerda. Geralmente mostrado com uma curvatura, o que parece uma cobra corpo, pés com garras, escalas amareladas no seu traseiro, buzina-estruturas como em sua cabeça, e o whiskers como tentáculos por suas narinas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dragon_1f409.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dragon_1f409.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "dragão",
+      "game of thrones"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F409;",
+      "HTML dec": "&#128009;",
+      "URL escape code": "%F0%9F%90%89",
+      "Punycode": "xn--0n8h",
+      "Bytes (UTF-8)": "F0 9F 90 89",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC09",
+      "C, C++, Python": "\\U0001f409",
+      "CSS": "\\01F409",
+      "PHP, Ruby": "\\u{1F409}",
+      "Perl": "\\x{1F409}"
+    }
+  }
+}

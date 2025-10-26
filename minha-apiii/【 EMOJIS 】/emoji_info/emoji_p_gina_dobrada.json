@@ -1,0 +1,94 @@
+{
+  "emoji": "📃",
+  "nome": "📃 Página dobrada",
+  "categoria": "page with curl",
+  "url": "https://emojigraph.org/pt/page-with-curl/",
+  "detalhes": {
+    "explicacao": "Um pedaço de papel branco, enrolado na parte inferior para a esquerda ou para a direita, com o texto impresso, como uma carta de negócios. Comumente usado para conteúdo sobre os diversos tipos de documentos e escrita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/page-with-curl_1f4c3.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/page-with-curl_1f4c3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dobrado",
+      "documento",
+      "página",
+      "página dobrada"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4C3;",
+      "HTML dec": "&#128195;",
+      "URL escape code": "%F0%9F%93%83",
+      "Punycode": "xn--ct8h",
+      "Bytes (UTF-8)": "F0 9F 93 83",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCC3",
+      "C, C++, Python": "\\U0001f4c3",
+      "CSS": "\\01F4C3",
+      "PHP, Ruby": "\\u{1F4C3}",
+      "Perl": "\\x{1F4C3}"
+    }
+  }
+}

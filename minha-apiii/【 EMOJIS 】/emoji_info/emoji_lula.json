@@ -1,0 +1,70 @@
+{
+  "emoji": "🦑",
+  "nome": "🦑 Lula",
+  "categoria": "Squid",
+  "url": "https://emojigraph.org/pt/squid/",
+  "detalhes": {
+    "explicacao": "Uma lula, um polvo-como de animais do mar, com dez braços. Geralmente retratada como uma rosa-laranja lula gigante, virados para a frente ou em ângulo, à esquerda, com um fino, como uma flecha corpo, os olhos pequenos, e dois longos braços levantados em seus lados. Plataformas geralmente retratam seis braços.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/squid_1f991.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/squid_1f991.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/squid_1f991.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/squid_1f991.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/squid_1f991.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/squid_1f991.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/squid_1f991.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/squid_1f991.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/squid_1f991.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/squid_1f991.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comida",
+      "lula",
+      "molusco",
+      "animal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F991;",
+      "HTML dec": "&#129425;",
+      "URL escape code": "%F0%9F%A6%91",
+      "Punycode": "xn--ht9h",
+      "Bytes (UTF-8)": "F0 9F A6 91",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD91",
+      "C, C++, Python": "\\U0001f991",
+      "CSS": "\\01F991",
+      "PHP, Ruby": "\\u{1F991}",
+      "Perl": "\\x{1F991}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "🐴",
+  "nome": "🐴 Rosto de cavalo",
+  "categoria": "Horse Face",
+  "url": "https://emojigraph.org/pt/horse-face/",
+  "detalhes": {
+    "explicacao": "A cara de um cavalo, geralmente virada para a esquerda. Descrito como uma luz ou um marrom-avermelhado cavalo com um marrom escuro ou preto mane, e, em muitas plataformas, uma luz cor-de-focinho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/horse-face_1f434.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/horse-face_1f434.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "cavalo",
+      "rosto",
+      "rosto de cavalo",
+      "equino"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F434;",
+      "HTML dec": "&#128052;",
+      "URL escape code": "%F0%9F%90%B4",
+      "Punycode": "xn--8o8h",
+      "Bytes (UTF-8)": "F0 9F 90 B4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC34",
+      "C, C++, Python": "\\U0001f434",
+      "CSS": "\\01F434",
+      "PHP, Ruby": "\\u{1F434}",
+      "Perl": "\\x{1F434}"
+    }
+  }
+}

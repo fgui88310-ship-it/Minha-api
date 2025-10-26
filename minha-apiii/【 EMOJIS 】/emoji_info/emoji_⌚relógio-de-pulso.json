@@ -1,0 +1,93 @@
+{
+  "emoji": "",
+  "nome": "⌚ Relógio de pulso",
+  "categoria": "Watch",
+  "url": "https://emojigraph.org/pt/watch/",
+  "detalhes": {
+    "explicacao": "Um relógio de pulso, usado para contar o tempo. A aparência varia entre plataformas, mas amplamente retratado como um relógio analógico, com um rosto branco e marrom ou preto de alças.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/watch_231a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/watch_231a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/watch_231a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/watch_231a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/watch_231a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/watch_231a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/watch_231a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/watch_231a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/watch_231a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/watch_231a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/watch_231a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/watch_231a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/watch_231a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/watch_231a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/watch_231a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/watch_231a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "relógio",
+      "hora",
+      "tempo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x231A;",
+      "HTML dec": "&#8986;",
+      "URL escape code": "%E2%8C%9A",
+      "Punycode": "xn--dih",
+      "Bytes (UTF-8)": "E2 8C 9A",
+      "JavaScript, JSON, Java": "\\u231A",
+      "C, C++, Python": "\\u231A",
+      "CSS": "\\231A",
+      "PHP, Ruby": "\\u{231A}",
+      "Perl": "\\x{231A}"
+    }
+  }
+}

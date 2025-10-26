@@ -1,0 +1,96 @@
+{
+  "emoji": "👪",
+  "nome": "👪 Família",
+  "categoria": "Family",
+  "url": "https://emojigraph.org/pt/family/",
+  "detalhes": {
+    "explicacao": "Uma unidade familiar mostrado com dois adultos e uma criança. Anteriormente apresentados com o mesmo design como 👨👩👦 Família: Homem, Mulher, Menino na maioria das plataformas, mas agora tem o seu próprio gênero, inclusive a aparência.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/family_1f46a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/family_1f46a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/family_1f46a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/family_1f46a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/family_1f46a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/family_1f46a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/family_1f46a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/family_1f46a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/family_1f46a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/family_1f46a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/family_1f46a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/family_1f46a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/family_1f46a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/family_1f46a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/family_1f46a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/family_1f46a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "família",
+      "filho",
+      "mãe",
+      "pai",
+      "pessoas",
+      "um filho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F46A;",
+      "HTML dec": "&#128106;",
+      "URL escape code": "%F0%9F%91%AA",
+      "Punycode": "xn--sq8h",
+      "Bytes (UTF-8)": "F0 9F 91 AA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC6A",
+      "C, C++, Python": "\\U0001f46a",
+      "CSS": "\\01F46A",
+      "PHP, Ruby": "\\u{1F46A}",
+      "Perl": "\\x{1F46A}"
+    }
+  }
+}

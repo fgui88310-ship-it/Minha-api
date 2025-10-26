@@ -1,0 +1,68 @@
+{
+  "emoji": "🏳",
+  "nome": "🏳️ Bandeira branca",
+  "categoria": "white flag",
+  "url": "https://emojigraph.org/pt/white-flag/",
+  "detalhes": {
+    "explicacao": "Uma bandeira branca, mostrada acenando em um post. Usado tradicionalmente como um sinal de rendição, o que significa esta bandeira como emoji é menos definida.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/white-flag_1f3f3-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/white-flag_1f3f3-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/white-flag_1f3f3-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/white-flag_1f3f3-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/white-flag_1f3f3-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/white-flag_1f3f3-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/white-flag_1f3f3-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/white-flag_1f3f3-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/white-flag_1f3f3-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/white-flag_1f3f3-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira branca",
+      "tremulando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3F3;&#xFE0F;",
+      "HTML dec": "&#127987;&#65039;",
+      "URL escape code": "%F0%9F%8F%B3%EF%B8%8F",
+      "Punycode": "xn--en8h",
+      "Bytes (UTF-8)": "F0 9F 8F B3 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFF3\\uFE0F",
+      "C, C++, Python": "\\U0001f3f3\\uFE0F",
+      "CSS": "\\01F3F3 \\FE0F",
+      "PHP, Ruby": "\\u{1F3F3}\\u{FE0F}",
+      "Perl": "\\x{1F3F3}\\x{FE0F}"
+    }
+  }
+}

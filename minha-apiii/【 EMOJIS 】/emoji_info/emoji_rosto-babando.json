@@ -1,0 +1,79 @@
+{
+  "emoji": "🤤",
+  "nome": "🤤 Rosto babando",
+  "categoria": "Drooling Face",
+  "url": "https://emojigraph.org/pt/drooling-face/",
+  "detalhes": {
+    "explicacao": "Uma cara amarela, geralmente mostrado com os olhos fechados e sobrancelhas levantadas, com a saliva babando de um canto de sua boca. Muitas vezes usado para mostrar o desejo de uma pessoa (sexy, atraente) ou objeto (por exemplo, comida deliciosa). Também pode representar alguém está cansado ou com sono.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/drooling-face_1f924.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/drooling-face_1f924.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/drooling-face_1f924.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/drooling-face_1f924.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/drooling-face_1f924.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/drooling-face_1f924.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/drooling-face_1f924.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/drooling-face_1f924.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/drooling-face_1f924.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/drooling-face_1f924.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/drooling-face_1f924.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/drooling-face_1f924.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "babando",
+      "babar",
+      "rosto babando",
+      "rosto",
+      "salivando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F924;",
+      "HTML dec": "&#129316;",
+      "URL escape code": "%F0%9F%A4%A4",
+      "Punycode": "xn--dq9h",
+      "Bytes (UTF-8)": "F0 9F A4 A4",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD24",
+      "C, C++, Python": "\\U0001f924",
+      "CSS": "\\01F924",
+      "PHP, Ruby": "\\u{1F924}",
+      "Perl": "\\x{1F924}"
+    }
+  }
+}

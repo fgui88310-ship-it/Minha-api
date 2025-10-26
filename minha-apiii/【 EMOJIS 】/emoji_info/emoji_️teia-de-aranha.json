@@ -1,0 +1,70 @@
+{
+  "emoji": "🕸",
+  "nome": "🕸️ Teia de aranha",
+  "categoria": "Spider Web",
+  "url": "https://emojigraph.org/pt/spider-web/",
+  "detalhes": {
+    "explicacao": "Um clássico teia de aranha (cobweb), como fiado por um 🕷️ Aranha para pegar presas. Descrito como um branco, simétrica, roda em forma de web, como uma teia circular, com seis ou oito setores iguais.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/spider-web_1f578-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/spider-web_1f578-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/spider-web_1f578-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/spider-web_1f578-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/spider-web_1f578-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/spider-web_1f578-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/spider-web_1f578-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/spider-web_1f578-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/spider-web_1f578-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/spider-web_1f578-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aranha",
+      "inseto",
+      "teia",
+      "teia de aranha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F578;&#xFE0F;",
+      "HTML dec": "&#128376;&#65039;",
+      "URL escape code": "%F0%9F%95%B8%EF%B8%8F",
+      "Punycode": "xn--iy8h",
+      "Bytes (UTF-8)": "F0 9F 95 B8 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD78\\uFE0F",
+      "C, C++, Python": "\\U0001f578\\uFE0F",
+      "CSS": "\\01F578 \\FE0F",
+      "PHP, Ruby": "\\u{1F578}\\u{FE0F}",
+      "Perl": "\\x{1F578}\\x{FE0F}"
+    }
+  }
+}

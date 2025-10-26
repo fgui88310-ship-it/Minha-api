@@ -1,0 +1,74 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍👩‍👧 Família: homem, mulher e menina",
+  "categoria": "family man woman girl",
+  "url": "https://emojigraph.org/pt/family-man-woman-girl/",
+  "detalhes": {
+    "explicacao": "Uma família com um pai, uma mãe e uma filha.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "família",
+      "filho",
+      "homem",
+      "mãe",
+      "menina",
+      "mulher",
+      "pai",
+      "pessoas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;",
+      "HTML dec": "&#128104;&#8205;&#128105;&#8205;&#128103;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7",
+      "Punycode": "xn--pq8hbd",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 91 A9 E2 80 8D F0 9F 91 A7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83D\\uDC69\\u200D\\uD83D\\uDC67",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f469\\u200D\\U0001f467",
+      "CSS": "\\01F468 \\200D \\01F469 \\200D \\01F467",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F469}\\u{200D}\\u{1F467}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F469}\\x{200D}\\x{1F467}"
+    }
+  }
+}

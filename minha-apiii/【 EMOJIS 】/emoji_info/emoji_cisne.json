@@ -1,0 +1,71 @@
+{
+  "emoji": "🦢",
+  "nome": "🦢 Cisne",
+  "categoria": "Swan",
+  "url": "https://emojigraph.org/pt/swan/",
+  "detalhes": {
+    "explicacao": "Um cisne, uma das aves aquáticas com penas brancas e um longo pescoço. Retratado no perfil completo virada para a esquerda, com uma curva do pescoço de laranja, de projeto de lei, de olho preto marcação, e as asas e as pernas dobradas, como se deslizando na água.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/swan_1f9a2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/swan_1f9a2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/swan_1f9a2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/swan_1f9a2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/swan_1f9a2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/swan_1f9a2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/swan_1f9a2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/swan_1f9a2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/swan_1f9a2.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/swan_1f9a2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cisne",
+      "pássaro",
+      "patinho feio",
+      "animal",
+      "ave"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9A2;",
+      "HTML dec": "&#129442;",
+      "URL escape code": "%F0%9F%A6%A2",
+      "Punycode": "xn--yt9h",
+      "Bytes (UTF-8)": "F0 9F A6 A2",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDA2",
+      "C, C++, Python": "\\U0001f9a2",
+      "CSS": "\\01F9A2",
+      "PHP, Ruby": "\\u{1F9A2}",
+      "Perl": "\\x{1F9A2}"
+    }
+  }
+}

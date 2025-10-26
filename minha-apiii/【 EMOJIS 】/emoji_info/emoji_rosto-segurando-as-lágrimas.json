@@ -1,0 +1,79 @@
+{
+  "emoji": "🥹",
+  "nome": "🥹 Rosto segurando as lágrimas",
+  "categoria": "Face Holding Back Tears",
+  "url": "https://emojigraph.org/pt/face-holding-back-tears/",
+  "detalhes": {
+    "explicacao": "Um rosto amarelo com grandes olhos lacrimejantes e uma boca ligeiramente aberta. As lágrimas estão no fundo dos olhos e prontas para cair ou se tornar um fluxo de lágrimas. O design é semelhante a 🥺 Rosto implorando e 🥲 Smiling Face que também pode ser usado em um contexto semelhante. Pode ser usado para indicar uma variedade de emoções, incluindo orgulho, gratidão, tristeza, raiva e medo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-holding-back-tears_1f979.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-holding-back-tears_1f979.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-holding-back-tears_1f979.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-holding-back-tears_1f979.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-holding-back-tears_1f979.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-holding-back-tears_1f979.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-holding-back-tears_1f979.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-holding-back-tears_1f979.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-holding-back-tears_1f979.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/face-holding-back-tears_1f979.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chorar",
+      "com raiva",
+      "orgulhoso",
+      "resistir",
+      "triste",
+      "admiração",
+      "emoção",
+      "gratidão",
+      "iti malia",
+      "orgulho",
+      "por favor",
+      "smiley",
+      "tristeza"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F979;",
+      "HTML dec": "&#129401;",
+      "URL escape code": "%F0%9F%A5%B9",
+      "Punycode": "xn--ss9h",
+      "Bytes (UTF-8)": "f0 9f a5 b9",
+      "JavaScript, JSON, Java": "\\ud83e\\udd79",
+      "C, C++, Python": "\\U0001f979",
+      "CSS": "\\01F979",
+      "PHP, Ruby": "\\u{1F979}",
+      "Perl": "\\x{1F979}"
+    }
+  }
+}

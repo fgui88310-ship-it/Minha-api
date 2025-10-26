@@ -1,0 +1,85 @@
+{
+  "emoji": "🏤",
+  "nome": "🏤 Correio",
+  "categoria": "Post Office",
+  "url": "https://emojigraph.org/pt/post-office/",
+  "detalhes": {
+    "explicacao": "Um estilo Europeu post office. Um postal chifre pode ser visto na frente, que é comumente encontrado em logos Europeia de Serviços Postais.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/post-office_1f3e4.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/post-office_1f3e4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "correio",
+      "europeu",
+      "prédio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3E4;",
+      "HTML dec": "&#127972;",
+      "URL escape code": "%F0%9F%8F%A4",
+      "Punycode": "xn--ym8h",
+      "Bytes (UTF-8)": "F0 9F 8F A4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFE4",
+      "C, C++, Python": "\\U0001f3e4",
+      "CSS": "\\01F3E4",
+      "PHP, Ruby": "\\u{1F3E4}",
+      "Perl": "\\x{1F3E4}"
+    }
+  }
+}

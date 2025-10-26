@@ -1,0 +1,59 @@
+{
+  "emoji": "🇨🇼",
+  "nome": "🇨🇼 Bandeira: Curaçao",
+  "categoria": "flag curacao",
+  "url": "https://emojigraph.org/pt/flag-curacao/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Curaçao. Este símbolo é uma seqüência de caracteres 🇨 Símbolo Indicador Regional Letra C e 🇼 Símbolo Indicador Regional Letra W. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras CW em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-curacao_1f1e8-1f1fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-curacao_1f1e8-1f1fc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-curacao_1f1e8-1f1fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-curacao_1f1e8-1f1fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-curacao_1f1e8-1f1fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-curacao_1f1e8-1f1fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-curacao_1f1e8-1f1fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-curacao_1f1e8-1f1fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E8;&#x1F1FC;",
+      "HTML dec": "&#127464;&#127484;",
+      "URL escape code": "%F0%9F%87%A8%F0%9F%87%BC",
+      "Punycode": "xn--g77hib",
+      "Bytes (UTF-8)": "F0 9F 87 A8 F0 9F 87 BC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE8\\uD83C\\uDDFC",
+      "C, C++, Python": "\\U0001f1e8\\U0001f1fc",
+      "CSS": "\\01F1E8 \\01F1FC",
+      "PHP, Ruby": "\\u{1F1E8}\\u{1F1FC}",
+      "Perl": "\\x{1F1E8}\\x{1F1FC}"
+    }
+  }
+}

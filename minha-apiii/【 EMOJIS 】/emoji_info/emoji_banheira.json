@@ -1,0 +1,84 @@
+{
+  "emoji": "🛁",
+  "nome": "🛁 Banheira",
+  "categoria": "Bathtub",
+  "url": "https://emojigraph.org/pt/bathtub/",
+  "detalhes": {
+    "explicacao": "Um branco banheira com uma de prata na cabeça de chuveiro. Muitas vezes descrito como uma de ferro fundido, com banheira de garra-pé pernas. Comumente utilizado para vários conteúdos relativos tomar banho, lavar roupa, limpeza e banheiros em geral.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bathtub_1f6c1.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bathtub_1f6c1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "banheira",
+      "banho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6C1;",
+      "HTML dec": "&#128705;",
+      "URL escape code": "%F0%9F%9B%81",
+      "Punycode": "xn--w78h",
+      "Bytes (UTF-8)": "F0 9F 9B 81",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEC1",
+      "C, C++, Python": "\\U0001f6c1",
+      "CSS": "\\01F6C1",
+      "PHP, Ruby": "\\u{1F6C1}",
+      "Perl": "\\x{1F6C1}"
+    }
+  }
+}

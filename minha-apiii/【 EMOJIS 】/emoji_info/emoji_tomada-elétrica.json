@@ -1,0 +1,95 @@
+{
+  "emoji": "🔌",
+  "nome": "🔌 Tomada elétrica",
+  "categoria": "Electric Plug",
+  "url": "https://emojigraph.org/pt/electric-plug/",
+  "detalhes": {
+    "explicacao": "Um plugue elétrico, como inserido na tomada do poder de um dispositivo. Descrito como um preto, duas frentes, plug em diferentes ângulos, no final de um cabo. Garras são de prata ou de ouro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/electric-plug_1f50c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/electric-plug_1f50c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "elétrica",
+      "eletricidade",
+      "plugue",
+      "tomada elétrica",
+      "cabo de energia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F50C;",
+      "HTML dec": "&#128268;",
+      "URL escape code": "%F0%9F%94%8C",
+      "Punycode": "xn--fv8h",
+      "Bytes (UTF-8)": "F0 9F 94 8C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD0C",
+      "C, C++, Python": "\\U0001f50c",
+      "CSS": "\\01F50C",
+      "PHP, Ruby": "\\u{1F50C}",
+      "Perl": "\\x{1F50C}"
+    }
+  }
+}

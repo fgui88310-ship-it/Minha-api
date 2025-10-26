@@ -1,0 +1,94 @@
+{
+  "emoji": "🍊",
+  "nome": "🍊 Tangerina",
+  "categoria": "Tangerine",
+  "url": "https://emojigraph.org/pt/tangerine/",
+  "detalhes": {
+    "explicacao": "Uma de cor laranja, frutas cítricas com um verde folha ou folhas e caule. Oficialmente representando uma tangerina, um tipo de mandarim (_mikan _in Japão). Muitas vezes usado como um jardim-variedade de laranja. De qualquer forma, uma boa fonte de vitamina C.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tangerine_1f34a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tangerine_1f34a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fruta",
+      "laranja",
+      "tangerina",
+      "cítrica"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F34A;",
+      "HTML dec": "&#127818;",
+      "URL escape code": "%F0%9F%8D%8A",
+      "Punycode": "xn--ki8h",
+      "Bytes (UTF-8)": "F0 9F 8D 8A",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF4A",
+      "C, C++, Python": "\\U0001f34a",
+      "CSS": "\\01F34A",
+      "PHP, Ruby": "\\u{1F34A}",
+      "Perl": "\\x{1F34A}"
+    }
+  }
+}

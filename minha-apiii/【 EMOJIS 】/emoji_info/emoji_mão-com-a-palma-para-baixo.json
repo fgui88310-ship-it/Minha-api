@@ -1,0 +1,74 @@
+{
+  "emoji": "🫳",
+  "nome": "🫳 Mão com a palma para baixo",
+  "categoria": "Palm Down Hand",
+  "url": "https://emojigraph.org/pt/palm-down-hand/",
+  "detalhes": {
+    "explicacao": "Uma mão amarela com a palma voltada para baixo como se estivesse caindo ou alcançando algo. Há muitas maneiras de usá-lo com outros emojis. Você pode soltar 🫳 🎤 Microfone ou outros 💎 Objetos emojis.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/palm-down-hand_1faf3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/palm-down-hand_1faf3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/palm-down-hand_1faf3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/palm-down-hand_1faf3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/palm-down-hand_1faf3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/palm-down-hand_1faf3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/palm-down-hand_1faf3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/palm-down-hand_1faf3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/palm-down-hand_1faf3.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/palm-down-hand_1faf3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cair",
+      "descartar",
+      "xô",
+      "derrubar",
+      "mão",
+      "pegar",
+      "segurar",
+      "soltar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAF3;",
+      "HTML dec": "&#129779;",
+      "URL escape code": "%F0%9F%AB%B3",
+      "Punycode": "xn--l39h",
+      "Bytes (UTF-8)": "f0 9f ab b3",
+      "JavaScript, JSON, Java": "\\ud83e\\udef3",
+      "C, C++, Python": "\\U0001faf3",
+      "CSS": "\\01FAF3",
+      "PHP, Ruby": "\\u{1FAF3}",
+      "Perl": "\\x{1FAF3}"
+    }
+  }
+}

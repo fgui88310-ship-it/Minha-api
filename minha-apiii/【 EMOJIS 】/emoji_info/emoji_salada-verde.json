@@ -1,0 +1,71 @@
+{
+  "emoji": "🥗",
+  "nome": "🥗 Salada verde",
+  "categoria": "Green Salad",
+  "url": "https://emojigraph.org/pt/green-salad/",
+  "detalhes": {
+    "explicacao": "Uma roupa salada em uma tigela com folhosos verde-alface e outros ingredientes como tomate, cebola roxa e azeitonas pretas. Comumente associado a uma alimentação saudável e vida.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/green-salad_1f957.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/green-salad_1f957.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/green-salad_1f957.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/green-salad_1f957.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/green-salad_1f957.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/green-salad_1f957.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/green-salad_1f957.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/green-salad_1f957.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/green-salad_1f957.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/green-salad_1f957.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comida",
+      "salada",
+      "verde",
+      "fome",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F957;",
+      "HTML dec": "&#129367;",
+      "URL escape code": "%F0%9F%A5%97",
+      "Punycode": "xn--tr9h",
+      "Bytes (UTF-8)": "F0 9F A5 97",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD57",
+      "C, C++, Python": "\\U0001f957",
+      "CSS": "\\01F957",
+      "PHP, Ruby": "\\u{1F957}",
+      "Perl": "\\x{1F957}"
+    }
+  }
+}

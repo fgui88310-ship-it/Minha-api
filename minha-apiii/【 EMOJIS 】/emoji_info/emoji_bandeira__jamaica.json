@@ -1,0 +1,67 @@
+{
+  "emoji": "🇯🇲",
+  "nome": "🇯🇲 Bandeira: Jamaica",
+  "categoria": "flag jamaica",
+  "url": "https://emojigraph.org/pt/flag-jamaica/",
+  "detalhes": {
+    "explicacao": "A bandeira da Jamaica, que pode mostrar como as letras JM em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-jamaica_1f1ef-1f1f2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-jamaica_1f1ef-1f1f2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-jamaica_1f1ef-1f1f2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-jamaica_1f1ef-1f1f2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-jamaica_1f1ef-1f1f2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-jamaica_1f1ef-1f1f2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-jamaica_1f1ef-1f1f2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-jamaica_1f1ef-1f1f2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-jamaica_1f1ef-1f1f2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-jamaica_1f1ef-1f1f2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EF;&#x1F1F2;",
+      "HTML dec": "&#127471;&#127474;",
+      "URL escape code": "%F0%9F%87%AF%F0%9F%87%B2",
+      "Punycode": "xn--n77hga",
+      "Bytes (UTF-8)": "F0 9F 87 AF F0 9F 87 B2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEF\\uD83C\\uDDF2",
+      "C, C++, Python": "\\U0001f1ef\\U0001f1f2",
+      "CSS": "\\01F1EF \\01F1F2",
+      "PHP, Ruby": "\\u{1F1EF}\\u{1F1F2}",
+      "Perl": "\\x{1F1EF}\\x{1F1F2}"
+    }
+  }
+}

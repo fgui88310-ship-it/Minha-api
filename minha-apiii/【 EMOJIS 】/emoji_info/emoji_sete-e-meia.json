@@ -1,0 +1,78 @@
+{
+  "emoji": "🕢",
+  "nome": "🕢 Sete e meia",
+  "categoria": "Seven Thirty",
+  "url": "https://emojigraph.org/pt/seven-thirty/",
+  "detalhes": {
+    "explicacao": "Sete e meia, foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Sete e Trinta\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/seven-thirty_1f562.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/seven-thirty_1f562.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/seven-thirty_1f562.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/seven-thirty_1f562.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/seven-thirty_1f562.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/seven-thirty_1f562.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/seven-thirty_1f562.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/seven-thirty_1f562.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/seven-thirty_1f562.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/seven-thirty_1f562.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/seven-thirty_1f562.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/seven-thirty_1f562.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "7h30",
+      "relógio",
+      "sete e meia",
+      "7:30"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F562;",
+      "HTML dec": "&#128354;",
+      "URL escape code": "%F0%9F%95%A2",
+      "Punycode": "xn--vx8h",
+      "Bytes (UTF-8)": "F0 9F 95 A2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD62",
+      "C, C++, Python": "\\U0001f562",
+      "CSS": "\\01F562",
+      "PHP, Ruby": "\\u{1F562}",
+      "Perl": "\\x{1F562}"
+    }
+  }
+}

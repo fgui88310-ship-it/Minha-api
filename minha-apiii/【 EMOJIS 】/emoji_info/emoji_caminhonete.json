@@ -1,0 +1,68 @@
+{
+  "emoji": "🛻",
+  "nome": "🛻 Caminhonete",
+  "categoria": "Pickup Truck",
+  "url": "https://emojigraph.org/pt/pickup-truck/",
+  "detalhes": {
+    "explicacao": "Caminhonete foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pickup-truck_1f6fb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pickup-truck_1f6fb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pickup-truck_1f6fb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pickup-truck_1f6fb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pickup-truck_1f6fb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pickup-truck_1f6fb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pickup-truck_1f6fb.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/pickup-truck_1f6fb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caminhonete",
+      "pick-up",
+      "veículo",
+      "automóvel",
+      "caçamba",
+      "caminhão",
+      "carro",
+      "picape",
+      "pickup",
+      "transporte"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6FB;",
+      "HTML dec": "&#128763;",
+      "URL escape code": "%F0%9F%9B%BB",
+      "Punycode": "xn--k98h",
+      "Bytes (UTF-8)": "F0 9F 9B BB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEFB",
+      "C, C++, Python": "\\U0001f6fb",
+      "CSS": "\\01F6FB",
+      "PHP, Ruby": "\\u{1F6FB}",
+      "Perl": "\\x{1F6FB}"
+    }
+  }
+}

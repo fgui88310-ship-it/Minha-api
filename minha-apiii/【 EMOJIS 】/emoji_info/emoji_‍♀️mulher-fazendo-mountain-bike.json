@@ -1,0 +1,61 @@
+{
+  "emoji": "🚵",
+  "nome": "🚵‍♀️ Mulher fazendo mountain bike",
+  "categoria": "Woman Mountain Biking",
+  "url": "https://emojigraph.org/pt/woman-mountain-biking/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 🚵 Montanha Ciclista emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-mountain-biking_1f6b5-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-mountain-biking_1f6b5-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-mountain-biking_1f6b5-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-mountain-biking_1f6b5-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-mountain-biking_1f6b5-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-mountain-biking_1f6b5-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-mountain-biking_1f6b5-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-mountain-biking_1f6b5-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bicicleta",
+      "ciclista",
+      "mountain bike"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6B5;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128693;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%9A%B5%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5hz890o",
+      "Bytes (UTF-8)": "F0 9F 9A B5 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEB5\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f6b5\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F6B5 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F6B5}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F6B5}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "emoji": "😳",
+  "nome": "😳 Rosto ruborizado",
+  "categoria": "flushed face",
+  "url": "https://emojigraph.org/pt/flushed-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com as as sobrancelhas levantadas, uma pequena boca fechada, olhos olhando diretamente para a frente, e as bochechas coradas. Pretende-se descrever tais sentimentos como vergonha, mas o significado pode variar bastante. Outros significados incluem bajulação, surpresa, descrença, admiração, afeto e emoção.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/flushed-face_1f633.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/flushed-face_1f633.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "atordoado",
+      "rosto",
+      "deslumbrado",
+      "horrorizado",
+      "impressionado",
+      "ruborizado",
+      "vergonha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F633;",
+      "HTML dec": "&#128563;",
+      "URL escape code": "%F0%9F%98%B3",
+      "Punycode": "xn--u38h",
+      "Bytes (UTF-8)": "F0 9F 98 B3",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE33",
+      "C, C++, Python": "\\U0001f633",
+      "CSS": "\\01F633",
+      "PHP, Ruby": "\\u{1F633}",
+      "Perl": "\\x{1F633}"
+    }
+  }
+}

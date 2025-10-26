@@ -1,0 +1,98 @@
+{
+  "emoji": "💔",
+  "nome": "💔 Coração partido",
+  "categoria": "Broken Heart",
+  "url": "https://emojigraph.org/pt/broken-heart/",
+  "detalhes": {
+    "explicacao": "Um coração de amor, quebrado em dois. Este emoji representa a dor que cada um sente quando estão perdendo a pessoa que se ama.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/broken-heart_1f494.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/broken-heart_1f494.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coração",
+      "coração partido",
+      "emoção",
+      "rompimento",
+      "s2",
+      "sofrendo",
+      "sofrimento",
+      "triste"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F494;",
+      "HTML dec": "&#128148;",
+      "URL escape code": "%F0%9F%92%94",
+      "Punycode": "xn--zr8h",
+      "Bytes (UTF-8)": "F0 9F 92 94",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC94",
+      "C, C++, Python": "\\U0001f494",
+      "CSS": "\\01F494",
+      "PHP, Ruby": "\\u{1F494}",
+      "Perl": "\\x{1F494}"
+    }
+  }
+}

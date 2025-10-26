@@ -1,0 +1,77 @@
+{
+  "emoji": "🪬",
+  "nome": "🪬 Hamsá",
+  "categoria": "Hamsa",
+  "url": "https://emojigraph.org/pt/hamsa/",
+  "detalhes": {
+    "explicacao": "Uma mão azul ou cinza com um olho no centro da palma e um segundo polegar em vez do mindinho. Usado para representar o antigo símbolo religioso que significa sorte, orientação, confiança, fé, unidade e poder feminino.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hamsa_1faac.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hamsa_1faac.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hamsa_1faac.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hamsa_1faac.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hamsa_1faac.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hamsa_1faac.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hamsa_1faac.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hamsa_1faac.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hamsa_1faac.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/hamsa_1faac.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amuleto",
+      "Fátima",
+      "hamsá",
+      "mão",
+      "Maria",
+      "Miriam",
+      "proteção",
+      "guia",
+      "hamsa",
+      "palma",
+      "sorte"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAAC;",
+      "HTML dec": "&#129708;",
+      "URL escape code": "%F0%9F%AA%AC",
+      "Punycode": "xn--k19h",
+      "Bytes (UTF-8)": "f0 9f aa ac",
+      "JavaScript, JSON, Java": "\\ud83e\\udeac",
+      "C, C++, Python": "\\U0001faac",
+      "CSS": "\\01FAAC",
+      "PHP, Ruby": "\\u{1FAAC}",
+      "Perl": "\\x{1FAAC}"
+    }
+  }
+}

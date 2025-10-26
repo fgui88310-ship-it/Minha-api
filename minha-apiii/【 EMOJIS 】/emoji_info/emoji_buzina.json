@@ -1,0 +1,96 @@
+{
+  "emoji": "📢",
+  "nome": "📢 Buzina",
+  "categoria": "Loudspeaker",
+  "url": "https://emojigraph.org/pt/loudspeaker/",
+  "detalhes": {
+    "explicacao": "Um alto-falante usado para fazer anúncios em áreas públicas, tais como escolas, ou eventos esportivos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/loudspeaker_1f4e2.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/loudspeaker_1f4e2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alto",
+      "alto-falante",
+      "buzina",
+      "megafone",
+      "comunicação",
+      "megafone em uso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4E2;",
+      "HTML dec": "&#128226;",
+      "URL escape code": "%F0%9F%93%A2",
+      "Punycode": "xn--7t8h",
+      "Bytes (UTF-8)": "F0 9F 93 A2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCE2",
+      "C, C++, Python": "\\U0001f4e2",
+      "CSS": "\\01F4E2",
+      "PHP, Ruby": "\\u{1F4E2}",
+      "Perl": "\\x{1F4E2}"
+    }
+  }
+}

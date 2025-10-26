@@ -1,0 +1,61 @@
+{
+  "emoji": "👰",
+  "nome": "👰‍♂️ Noivo com véu",
+  "categoria": "man with veil",
+  "url": "https://emojigraph.org/pt/man-with-veil/",
+  "detalhes": {
+    "explicacao": "O Homem com um Véu emoji é uma sequência do 👰 de Noiva com Véu e ♂ Masculino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-with-veil_1f470-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-with-veil_1f470-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-with-veil_1f470-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-with-veil_1f470-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-with-veil_1f470-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-with-veil_1f470-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-with-veil_1f470-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-with-veil_1f470-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "noivo",
+      "noivo com véu",
+      "véu"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F470;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#128112;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%91%B0%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h9410o",
+      "Bytes (UTF-8)": "F0 9F 91 B0 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC70\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f470\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F470 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F470}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F470}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

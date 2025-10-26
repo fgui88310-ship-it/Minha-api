@@ -1,0 +1,69 @@
+{
+  "emoji": "🧙",
+  "nome": "🧙‍♀️ Maga",
+  "categoria": "Woman Mage",
+  "url": "https://emojigraph.org/pt/woman-mage/",
+  "detalhes": {
+    "explicacao": "A Mulher Mago emoji é uma sequência do 🧙 Mago e ♀ Feminino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-mage_1f9d9-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-mage_1f9d9-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-mage_1f9d9-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-mage_1f9d9-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-mage_1f9d9-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-mage_1f9d9-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-mage_1f9d9-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-mage_1f9d9-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-mage_1f9d9-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/woman-mage_1f9d9-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bruxa",
+      "feiticeira",
+      "maga"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D9;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#129497;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5hx312o",
+      "Bytes (UTF-8)": "F0 9F A7 99 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD9\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f9d9\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F9D9 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F9D9}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F9D9}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

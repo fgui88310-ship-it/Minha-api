@@ -1,0 +1,72 @@
+{
+  "emoji": "🏒",
+  "nome": "🏒 Hóquei no gelo",
+  "categoria": "ice hockey",
+  "url": "https://emojigraph.org/pt/ice-hockey/",
+  "detalhes": {
+    "explicacao": "Um taco de hóquei e puck, usadas na modalidade de hóquei no gelo. Não deve ser confundido com o stick de hóquei em campo e bola.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ice-hockey_1f3d2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ice-hockey_1f3d2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ice-hockey_1f3d2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ice-hockey_1f3d2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ice-hockey_1f3d2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ice-hockey_1f3d2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ice-hockey_1f3d2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ice-hockey_1f3d2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ice-hockey_1f3d2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ice-hockey_1f3d2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "disco",
+      "gelo",
+      "hóquei",
+      "hóquei no gelo",
+      "jogo",
+      "taco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3D2;",
+      "HTML dec": "&#127954;",
+      "URL escape code": "%F0%9F%8F%92",
+      "Punycode": "xn--gm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 92",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFD2",
+      "C, C++, Python": "\\U0001f3d2",
+      "CSS": "\\01F3D2",
+      "PHP, Ruby": "\\u{1F3D2}",
+      "Perl": "\\x{1F3D2}"
+    }
+  }
+}

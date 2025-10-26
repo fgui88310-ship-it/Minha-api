@@ -1,0 +1,69 @@
+{
+  "emoji": "🖲",
+  "nome": "🖲️ Trackball",
+  "categoria": "trackball",
+  "url": "https://emojigraph.org/pt/trackball/",
+  "detalhes": {
+    "explicacao": "Um trackball, como girado para controlar um cursor em um computador. Uma alternativa ou complemento a um computador mouse ou touchpad. Geralmente retratado como um dispositivo sem fio com um azul ou bola vermelha em uma cilíndrico, preto ou cinza soquete.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/trackball_1f5b2-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/trackball_1f5b2-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/trackball_1f5b2-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/trackball_1f5b2-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/trackball_1f5b2-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/trackball_1f5b2-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/trackball_1f5b2-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/trackball_1f5b2-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/trackball_1f5b2-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/trackball_1f5b2-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "computador",
+      "mouse",
+      "trackball"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5B2;&#xFE0F;",
+      "HTML dec": "&#128434;&#65039;",
+      "URL escape code": "%F0%9F%96%B2%EF%B8%8F",
+      "Punycode": "xn--5z8h",
+      "Bytes (UTF-8)": "F0 9F 96 B2 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDB2\\uFE0F",
+      "C, C++, Python": "\\U0001f5b2\\uFE0F",
+      "CSS": "\\01F5B2 \\FE0F",
+      "PHP, Ruby": "\\u{1F5B2}\\u{FE0F}",
+      "Perl": "\\x{1F5B2}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "emoji": "🧲",
+  "nome": "🧲 Ímã",
+  "categoria": "Magnet",
+  "url": "https://emojigraph.org/pt/magnet/",
+  "detalhes": {
+    "explicacao": "Um ímã de ferradura, como costumava pegar de ferro. Retratado em diversos ângulos em vermelho com prata na ponta dos pólos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/magnet_1f9f2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/magnet_1f9f2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/magnet_1f9f2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/magnet_1f9f2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/magnet_1f9f2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/magnet_1f9f2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/magnet_1f9f2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/magnet_1f9f2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/magnet_1f9f2.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/magnet_1f9f2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "atração",
+      "ferradura",
+      "ímã",
+      "magnético"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9F2;",
+      "HTML dec": "&#129522;",
+      "URL escape code": "%F0%9F%A7%B2",
+      "Punycode": "xn--8v9h",
+      "Bytes (UTF-8)": "F0 9F A7 B2",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDF2",
+      "C, C++, Python": "\\U0001f9f2",
+      "CSS": "\\01F9F2",
+      "PHP, Ruby": "\\u{1F9F2}",
+      "Perl": "\\x{1F9F2}"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "emoji": "🐛",
+  "nome": "🐛 Inseto",
+  "categoria": "Bug",
+  "url": "https://emojigraph.org/pt/bug/",
+  "detalhes": {
+    "explicacao": "Uma lagarta, que se transforma em uma 🦋 Borboleta. Mostrado em perfil completo virado para a esquerda, movendo-se para cima na parte de trás de seu verde corpo segmentado. Muitas vezes com listras pretas ou pontos amarelos e tentáculos na cabeça.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bug_1f41b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bug_1f41b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "centopeia",
+      "inseto",
+      "lagarta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F41B;",
+      "HTML dec": "&#128027;",
+      "URL escape code": "%F0%9F%90%9B",
+      "Punycode": "xn--jo8h",
+      "Bytes (UTF-8)": "F0 9F 90 9B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC1B",
+      "C, C++, Python": "\\U0001f41b",
+      "CSS": "\\01F41B",
+      "PHP, Ruby": "\\u{1F41B}",
+      "Perl": "\\x{1F41B}"
+    }
+  }
+}

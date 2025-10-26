@@ -1,0 +1,67 @@
+{
+  "emoji": "🤲",
+  "nome": "🤲 Palmas unidas para cima",
+  "categoria": "palms up together",
+  "url": "https://emojigraph.org/pt/palms-up-together/",
+  "detalhes": {
+    "explicacao": "Duas mãos, realizada em parceria com a abrir as palmas voltadas para cima, em um pouco concha maneira.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/palms-up-together_1f932.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/palms-up-together_1f932.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/palms-up-together_1f932.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/palms-up-together_1f932.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/palms-up-together_1f932.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/palms-up-together_1f932.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/palms-up-together_1f932.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/palms-up-together_1f932.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/palms-up-together_1f932.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/palms-up-together_1f932.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "oração"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F932;",
+      "HTML dec": "&#129330;",
+      "URL escape code": "%F0%9F%A4%B2",
+      "Punycode": "xn--rq9h",
+      "Bytes (UTF-8)": "F0 9F A4 B2",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD32",
+      "C, C++, Python": "\\U0001f932",
+      "CSS": "\\01F932",
+      "PHP, Ruby": "\\u{1F932}",
+      "Perl": "\\x{1F932}"
+    }
+  }
+}

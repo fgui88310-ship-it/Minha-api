@@ -1,0 +1,96 @@
+{
+  "emoji": "🃏",
+  "nome": "🃏 Curinga",
+  "categoria": "Joker",
+  "url": "https://emojigraph.org/pt/joker/",
+  "detalhes": {
+    "explicacao": "O coringa em um baralho de cartas, geralmente aparecendo como um bobo da corte.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/joker_1f0cf.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/joker_1f0cf.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "baralho",
+      "carta",
+      "curinga",
+      "joker",
+      "coringa",
+      "jogo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F0CF;",
+      "HTML dec": "&#127183;",
+      "URL escape code": "%F0%9F%83%8F",
+      "Punycode": "xn--fz7h",
+      "Bytes (UTF-8)": "F0 9F 83 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDCCF",
+      "C, C++, Python": "\\U0001f0cf",
+      "CSS": "\\01F0CF",
+      "PHP, Ruby": "\\u{1F0CF}",
+      "Perl": "\\x{1F0CF}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "🎻",
+  "nome": "🎻 Violino",
+  "categoria": "Violin",
+  "url": "https://emojigraph.org/pt/violin/",
+  "detalhes": {
+    "explicacao": "Um violino emoji. Por vezes utilizado no contexto mais pequena do mundo violino.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/violin_1f3bb.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/violin_1f3bb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "instrumento",
+      "música",
+      "violino"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3BB;",
+      "HTML dec": "&#127931;",
+      "URL escape code": "%F0%9F%8E%BB",
+      "Punycode": "xn--sl8h",
+      "Bytes (UTF-8)": "F0 9F 8E BB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFBB",
+      "C, C++, Python": "\\U0001f3bb",
+      "CSS": "\\01F3BB",
+      "PHP, Ruby": "\\u{1F3BB}",
+      "Perl": "\\x{1F3BB}"
+    }
+  }
+}

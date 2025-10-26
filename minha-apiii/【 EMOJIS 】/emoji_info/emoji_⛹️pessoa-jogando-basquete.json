@@ -1,0 +1,69 @@
+{
+  "emoji": "",
+  "nome": "⛹️ Pessoa jogando basquete",
+  "categoria": "Person Bouncing Ball",
+  "url": "https://emojigraph.org/pt/person-bouncing-ball/",
+  "detalhes": {
+    "explicacao": "Uma pessoa com uma bola, que geralmente é apresentado como um basketballer execução e drible (bouncing) a bola de basquete.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-bouncing-ball_26f9-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-bouncing-ball_26f9-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-bouncing-ball_26f9-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-bouncing-ball_26f9-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-bouncing-ball_26f9-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-bouncing-ball_26f9-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-bouncing-ball_26f9-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-bouncing-ball_26f9-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-bouncing-ball_26f9-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-bouncing-ball_26f9-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "basquete",
+      "bola",
+      "esporte"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26F9;&#xFE0F;",
+      "HTML dec": "&#9977;&#65039;",
+      "URL escape code": "%E2%9B%B9%EF%B8%8F",
+      "Punycode": "xn--obi",
+      "Bytes (UTF-8)": "E2 9B B9 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26F9\\uFE0F",
+      "C, C++, Python": "\\u26F9\\uFE0F",
+      "CSS": "\\26F9 \\FE0F",
+      "PHP, Ruby": "\\u{26F9}\\u{FE0F}",
+      "Perl": "\\x{26F9}\\x{FE0F}"
+    }
+  }
+}

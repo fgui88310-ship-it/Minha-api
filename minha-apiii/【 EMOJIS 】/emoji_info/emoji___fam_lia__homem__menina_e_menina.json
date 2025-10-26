@@ -1,0 +1,73 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍👧‍👧 Família: homem, menina e menina",
+  "categoria": "family man girl girl",
+  "url": "https://emojigraph.org/pt/family-man-girl-girl/",
+  "detalhes": {
+    "explicacao": "A Família: o Homem, Menina, Menina, emoji é uma sequência do 👨 Homem, 👧 Menina e 👧 Menina emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/family-man-girl-girl_1f468-200d-1f467-200d-1f467.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/family-man-girl-girl_1f468-200d-1f467-200d-1f467.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/family-man-girl-girl_1f468-200d-1f467-200d-1f467.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/family-man-girl-girl_1f468-200d-1f467-200d-1f467.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/family-man-girl-girl_1f468-200d-1f467-200d-1f467.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/family-man-girl-girl_1f468-200d-1f467-200d-1f467.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/family-man-girl-girl_1f468-200d-1f467-200d-1f467.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/family-man-girl-girl_1f468-200d-1f467-200d-1f467.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/family-man-girl-girl_1f468-200d-1f467-200d-1f467.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/family-man-girl-girl_1f468-200d-1f467-200d-1f467.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "família",
+      "filho",
+      "homem",
+      "mãe",
+      "menina",
+      "pai",
+      "pessoas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467;",
+      "HTML dec": "&#128104;&#8205;&#128103;&#8205;&#128103;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A7",
+      "Punycode": "xn--pq8hab",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 91 A7 E2 80 8D F0 9F 91 A7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83D\\uDC67\\u200D\\uD83D\\uDC67",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f467\\u200D\\U0001f467",
+      "CSS": "\\01F468 \\200D \\01F467 \\200D \\01F467",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F467}\\u{200D}\\u{1F467}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F467}\\x{200D}\\x{1F467}"
+    }
+  }
+}

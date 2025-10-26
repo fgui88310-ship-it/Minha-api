@@ -1,0 +1,92 @@
+{
+  "emoji": "🌰",
+  "nome": "🌰 Castanha",
+  "categoria": "Chestnut",
+  "url": "https://emojigraph.org/pt/chestnut/",
+  "detalhes": {
+    "explicacao": "A marrom-avermelhada, de bolota em forma de castanha, afinando para a ponta afiada de sua luz marrom base na maioria das plataformas. Um popular assada lanche associadas com o outono e Natal.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/chestnut_1f330.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/chestnut_1f330.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "castanha",
+      "planta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F330;",
+      "HTML dec": "&#127792;",
+      "URL escape code": "%F0%9F%8C%B0",
+      "Punycode": "xn--th8h",
+      "Bytes (UTF-8)": "F0 9F 8C B0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF30",
+      "C, C++, Python": "\\U0001f330",
+      "CSS": "\\01F330",
+      "PHP, Ruby": "\\u{1F330}",
+      "Perl": "\\x{1F330}"
+    }
+  }
+}

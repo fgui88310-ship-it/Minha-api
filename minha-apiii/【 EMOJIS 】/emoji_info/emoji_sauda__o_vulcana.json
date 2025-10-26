@@ -1,0 +1,72 @@
+{
+  "emoji": "🖖",
+  "nome": "🖖 Saudação vulcana",
+  "categoria": "vulcan salute",
+  "url": "https://emojigraph.org/pt/vulcan-salute/",
+  "detalhes": {
+    "explicacao": "Uma mão levantada, com os dedos separados entre o dedo anelar e o dedo do meio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/vulcan-salute_1f596.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/vulcan-salute_1f596.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/vulcan-salute_1f596.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/vulcan-salute_1f596.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/vulcan-salute_1f596.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/vulcan-salute_1f596.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/vulcan-salute_1f596.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/vulcan-salute_1f596.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/vulcan-salute_1f596.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/vulcan-salute_1f596.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dedos",
+      "mão",
+      "saudação",
+      "spock",
+      "star trek",
+      "startrek"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F596;",
+      "HTML dec": "&#128406;",
+      "URL escape code": "%F0%9F%96%96",
+      "Punycode": "xn--dz8h",
+      "Bytes (UTF-8)": "F0 9F 96 96",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD96",
+      "C, C++, Python": "\\U0001f596",
+      "CSS": "\\01F596",
+      "PHP, Ruby": "\\u{1F596}",
+      "Perl": "\\x{1F596}"
+    }
+  }
+}

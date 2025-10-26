@@ -1,0 +1,95 @@
+{
+  "emoji": "🌸",
+  "nome": "🌸 Flor de cerejeira",
+  "categoria": "Cherry Blossom",
+  "url": "https://emojigraph.org/pt/cherry-blossom/",
+  "detalhes": {
+    "explicacao": "A flor rosa da árvore cerejeira. Representado como uma única, flor cor-de-rosa de cerejeira com cinco pétalas, entalhado nas pétalas está gotas de vermelho com pontas de estames em um centro amarelo ou branco.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cherry-blossom_1f338.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cherry-blossom_1f338.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cereja",
+      "cerejeira",
+      "flor",
+      "planta",
+      "primavera"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F338;",
+      "HTML dec": "&#127800;",
+      "URL escape code": "%F0%9F%8C%B8",
+      "Punycode": "xn--1h8h",
+      "Bytes (UTF-8)": "F0 9F 8C B8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF38",
+      "C, C++, Python": "\\U0001f338",
+      "CSS": "\\01F338",
+      "PHP, Ruby": "\\u{1F338}",
+      "Perl": "\\x{1F338}"
+    }
+  }
+}

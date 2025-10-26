@@ -1,0 +1,70 @@
+{
+  "emoji": "",
+  "nome": "♟️ Peão de xadrez",
+  "categoria": "chess pawn",
+  "url": "https://emojigraph.org/pt/chess-pawn/",
+  "detalhes": {
+    "explicacao": "Xadrez Peão foi aprovado como parte do Unicode 1.1 em 1993sob o nome de \"Preto de Xadrez Peão\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/chess-pawn_265f-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/chess-pawn_265f-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/chess-pawn_265f-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/chess-pawn_265f-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/chess-pawn_265f-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/chess-pawn_265f-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/chess-pawn_265f-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/chess-pawn_265f-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/chess-pawn_265f-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/chess-pawn_265f-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "peão",
+      "peão de xadrez",
+      "truque",
+      "xadrez"
+    ],
+    "codigos": {
+      "HTML hex": "&#x265F;&#xFE0F;",
+      "HTML dec": "&#9823;&#65039;",
+      "URL escape code": "%E2%99%9F%EF%B8%8F",
+      "Punycode": "xn--95h",
+      "Bytes (UTF-8)": "E2 99 9F EF B8 8F",
+      "JavaScript, JSON, Java": "\\u265F\\uFE0F",
+      "C, C++, Python": "\\u265F\\uFE0F",
+      "CSS": "\\265F \\FE0F",
+      "PHP, Ruby": "\\u{265F}\\u{FE0F}",
+      "Perl": "\\x{265F}\\x{FE0F}"
+    }
+  }
+}

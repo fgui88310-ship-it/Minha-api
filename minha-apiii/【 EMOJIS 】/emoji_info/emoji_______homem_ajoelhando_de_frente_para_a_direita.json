@@ -1,0 +1,51 @@
+{
+  "emoji": "🧎",
+  "nome": "🧎‍♂️‍➡️ Homem ajoelhando de frente para a direita",
+  "categoria": "man kneeling facing right",
+  "url": "https://emojigraph.org/pt/man-kneeling-facing-right/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-kneeling-facing-right_1f9ce-200d-2642-fe0f-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-kneeling-facing-right_1f9ce-200d-2642-fe0f-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-kneeling-facing-right_1f9ce-200d-2642-fe0f-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-kneeling-facing-right_1f9ce-200d-2642-fe0f-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-kneeling-facing-right_1f9ce-200d-2642-fe0f-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/man-kneeling-facing-right_1f9ce-200d-2642-fe0f-200d-27a1-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ajoelhado",
+      "homem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9CE;&#x200D;&#x2642;&#xFE0F;&#x200D;&#x27A1;&#xFE0F;",
+      "HTML dec": "&#129486;&#8205;&#9794;&#65039;&#8205;&#10145;&#65039;",
+      "URL escape code": "%F0%9F%A7%8E%E2%80%8D%E2%99%82%EF%B8%8F%E2%80%8D%E2%9E%A1%EF%B8%8F",
+      "Bytes (UTF-8)": "f0 9f a7 8e e2 80 8d e2 99 82 ef b8 8f e2 80 8d e2 9e a1 ef b8 8f",
+      "JavaScript, JSON, Java": "\\ud83e\\uddce\\u200d\\u2642\\ufe0f\\u200d\\u27a1\\ufe0f",
+      "C, C++, Python": "\\U0001f9ce\\u000200d\\u0002642\\u000fe0f\\u000200d\\u00027a1\\u000fe0f",
+      "CSS": "\\01F9CE \\0200D \\02642 \\0FE0F \\0200D \\027A1 \\0FE0F",
+      "PHP, Ruby": "\\u{1F9CE}\\u{200D}\\u{2642}\\u{FE0F}\\u{200D}\\u{27A1}\\u{FE0F}",
+      "Perl": "\\x{1F9CE}\\x{200D}\\x{2642}\\x{FE0F}\\x{200D}\\x{27A1}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "emoji": "💽",
+  "nome": "💽 Minidisc",
+  "categoria": "Computer Disk",
+  "url": "https://emojigraph.org/pt/computer-disk/",
+  "detalhes": {
+    "explicacao": "Um minidisc, descrito como um pequeno, prata ou ouro, disco óptico, situado em uma praça de cartucho, sua obturador posicionado à direita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/computer-disk_1f4bd.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/computer-disk_1f4bd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "computador",
+      "disco",
+      "MD",
+      "mini disc",
+      "minidisc",
+      "minidisk",
+      "computação"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4BD;",
+      "HTML dec": "&#128189;",
+      "URL escape code": "%F0%9F%92%BD",
+      "Punycode": "xn--5s8h",
+      "Bytes (UTF-8)": "F0 9F 92 BD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCBD",
+      "C, C++, Python": "\\U0001f4bd",
+      "CSS": "\\01F4BD",
+      "PHP, Ruby": "\\u{1F4BD}",
+      "Perl": "\\x{1F4BD}"
+    }
+  }
+}

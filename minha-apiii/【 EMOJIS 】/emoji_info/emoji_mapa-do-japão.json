@@ -1,0 +1,93 @@
+{
+  "emoji": "🗾",
+  "nome": "🗾 Mapa do Japão",
+  "categoria": "Map Of Japan",
+  "url": "https://emojigraph.org/pt/map-of-japan/",
+  "detalhes": {
+    "explicacao": "Mostra o mapa de um país do Japão, que é o único país a ter o seu próprio emoji mapa. Outros países pode ser encontrada em várias globo emojis, ou o mapa do mundo, emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/map-of-japan_1f5fe.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/map-of-japan_1f5fe.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "Japão",
+      "mapa",
+      "mapa do Japão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5FE;",
+      "HTML dec": "&#128510;",
+      "URL escape code": "%F0%9F%97%BE",
+      "Punycode": "xn--c28h",
+      "Bytes (UTF-8)": "F0 9F 97 BE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDFE",
+      "C, C++, Python": "\\U0001f5fe",
+      "CSS": "\\01F5FE",
+      "PHP, Ruby": "\\u{1F5FE}",
+      "Perl": "\\x{1F5FE}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "",
+  "nome": "❄️ Floco de neve",
+  "categoria": "snowflake",
+  "url": "https://emojigraph.org/pt/snowflake/",
+  "detalhes": {
+    "explicacao": "Floco de neve, cristais de gelo de um floco de neve. Descrito como um branco-azulado floco de neve com seis, intrincados, ramos simétricos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/snowflake_2744-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/snowflake_2744-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "clima",
+      "floco",
+      "floco de neve",
+      "frio",
+      "neve"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2744;&#xFE0F;",
+      "HTML dec": "&#10052;&#65039;",
+      "URL escape code": "%E2%9D%84%EF%B8%8F",
+      "Punycode": "xn--tdi",
+      "Bytes (UTF-8)": "E2 9D 84 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2744\\uFE0F",
+      "C, C++, Python": "\\u2744\\uFE0F",
+      "CSS": "\\2744 \\FE0F",
+      "PHP, Ruby": "\\u{2744}\\u{FE0F}",
+      "Perl": "\\x{2744}\\x{FE0F}"
+    }
+  }
+}

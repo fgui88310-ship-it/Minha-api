@@ -1,0 +1,77 @@
+{
+  "emoji": "🤦",
+  "nome": "🤦 Pessoa decepcionada",
+  "categoria": "Person Facepalming",
+  "url": "https://emojigraph.org/pt/person-facepalming/",
+  "detalhes": {
+    "explicacao": "Uma mão mostrada pressionando contra a cabeça de uma pessoa, normalmente escrito como facepalm. Usado para exibir a frustração ou o embaraço à inépcia de uma pessoa ou situação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-facepalming_1f926.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-facepalming_1f926.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-facepalming_1f926.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-facepalming_1f926.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-facepalming_1f926.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-facepalming_1f926.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-facepalming_1f926.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-facepalming_1f926.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-facepalming_1f926.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-facepalming_1f926.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "decepção",
+      "desapontamento",
+      "como assim",
+      "decepcionada",
+      "decepcionado",
+      "descrença",
+      "inacreditável",
+      "meu deus",
+      "não acredito",
+      "não é possível",
+      "pessoa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F926;",
+      "HTML dec": "&#129318;",
+      "URL escape code": "%F0%9F%A4%A6",
+      "Punycode": "xn--fq9h",
+      "Bytes (UTF-8)": "F0 9F A4 A6",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD26",
+      "C, C++, Python": "\\U0001f926",
+      "CSS": "\\01F926",
+      "PHP, Ruby": "\\u{1F926}",
+      "Perl": "\\x{1F926}"
+    }
+  }
+}

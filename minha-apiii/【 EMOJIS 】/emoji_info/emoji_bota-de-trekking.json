@@ -1,0 +1,75 @@
+{
+  "emoji": "🥾",
+  "nome": "🥾 Bota de trekking",
+  "categoria": "Hiking Boot",
+  "url": "https://emojigraph.org/pt/hiking-boot/",
+  "detalhes": {
+    "explicacao": "Um estilo de arranque comumente usado em longas caminhadas ou para caminhadas. Geralmente distinta de outras calçado-relacionados emojis pela grande aderência na sola do sapato.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hiking-boot_1f97e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hiking-boot_1f97e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hiking-boot_1f97e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hiking-boot_1f97e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hiking-boot_1f97e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hiking-boot_1f97e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hiking-boot_1f97e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hiking-boot_1f97e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hiking-boot_1f97e.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/hiking-boot_1f97e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acampar",
+      "bota",
+      "caminhada",
+      "mochilão",
+      "trilha",
+      "acampamento",
+      "marrom",
+      "natureza",
+      "sapato"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F97E;",
+      "HTML dec": "&#129406;",
+      "URL escape code": "%F0%9F%A5%BE",
+      "Punycode": "xn--xs9h",
+      "Bytes (UTF-8)": "F0 9F A5 BE",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD7E",
+      "C, C++, Python": "\\U0001f97e",
+      "CSS": "\\01F97E",
+      "PHP, Ruby": "\\u{1F97E}",
+      "Perl": "\\x{1F97E}"
+    }
+  }
+}

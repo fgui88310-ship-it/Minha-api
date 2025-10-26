@@ -1,0 +1,70 @@
+{
+  "emoji": "🍿",
+  "nome": "🍿 Pipoca",
+  "categoria": "Popcorn",
+  "url": "https://emojigraph.org/pt/popcorn/",
+  "detalhes": {
+    "explicacao": "Pipoca cheia em um clássico recipiente vermelho e branco listrado, para comer em uma sala de cinema",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/popcorn_1f37f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/popcorn_1f37f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/popcorn_1f37f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/popcorn_1f37f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/popcorn_1f37f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/popcorn_1f37f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/popcorn_1f37f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/popcorn_1f37f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/popcorn_1f37f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/popcorn_1f37f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balde de pipoca",
+      "pipoca",
+      "balde",
+      "cinema"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F37F;",
+      "HTML dec": "&#127871;",
+      "URL escape code": "%F0%9F%8D%BF",
+      "Punycode": "xn--2j8h",
+      "Bytes (UTF-8)": "F0 9F 8D BF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF7F",
+      "C, C++, Python": "\\U0001f37f",
+      "CSS": "\\01F37F",
+      "PHP, Ruby": "\\u{1F37F}",
+      "Perl": "\\x{1F37F}"
+    }
+  }
+}

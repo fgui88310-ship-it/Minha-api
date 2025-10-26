@@ -1,0 +1,59 @@
+{
+  "emoji": "🇧🇱",
+  "nome": "🇧🇱 Bandeira: São Bartolomeu",
+  "categoria": "flag st barthelemy",
+  "url": "https://emojigraph.org/pt/flag-st-barthelemy/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de St. Barthélemy. Este símbolo é uma seqüência de caracteres 🇧 Símbolo Indicador Regional Letra B e 🇱 Símbolo Indicador Regional Letra L. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras BL em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-st-barthelemy_1f1e7-1f1f1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-st-barthelemy_1f1e7-1f1f1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-st-barthelemy_1f1e7-1f1f1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-st-barthelemy_1f1e7-1f1f1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-st-barthelemy_1f1e7-1f1f1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-st-barthelemy_1f1e7-1f1f1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-st-barthelemy_1f1e7-1f1f1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-st-barthelemy_1f1e7-1f1f1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1F1;",
+      "HTML dec": "&#127463;&#127473;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%B1",
+      "Punycode": "xn--f77hua",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 B1",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDF1",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1f1",
+      "CSS": "\\01F1E7 \\01F1F1",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1F1}",
+      "Perl": "\\x{1F1E7}\\x{1F1F1}"
+    }
+  }
+}

@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gerador de Banner de Nome</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      background: #f0f0f0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    #bannerImage {
+      max-width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+    #errorMessage {
+      color: red;
+      font-size: 18px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div id="container" style="display: none;"></div>
+  <canvas id="bannerCanvas" style="display: none;"></canvas>
+  <img id="bannerImage" />
+  <div id="errorMessage"></div>
+
+  <script>
+    async function generateBanner() {
+      // Pegar o parâmetro 'name' da URL
+      const urlParams = new URLSearchParams(window.location.search);
+      const name = urlParams.get('name');
+
+      if (!name) {
+        document.getElementById('errorMessage').textContent = 'Por favor, forneça um nome na URL (ex.: ?name=Maria)';
+        return;
+      }
+
+      try {
+        // Fazer a requisição ao servidor
+        const response = await fetch(`http://localhost:3000/api/name?name=${encodeURIComponent(name)}`);
+        if (!response.ok) {
+          const errorData = await response.text();
+          throw new Error(`Erro na requisição: ${response.status} - ${errorData}`);
+        }
+
+        // Tentar parsear o JSON
+        let data;
+        try {
+          data = await response.json();
+        } catch (jsonError) {
+          console.error('Resposta recebida:', await response.text());
+          throw new Error('A resposta do servidor não é um JSON válido');
+        }
+
+        const { html, css, width, height, font } = data;
+        if (!html || !css || !width || !height || !font) {
+          throw new Error('Dados incompletos recebidos do servidor');
+        }
+
+        // Criar um elemento temporário para renderizar o HTML
+        const container = document.getElementById('container');
+        container.innerHTML = html;
+
+        // Adicionar o CSS
+        const style = document.createElement('style');
+        style.textContent = css;
+        document.head.appendChild(style);
+
+        // Carregar a fonte do Google Fonts
+        const link = document.createElement('link');
+        link.href = `https://fonts.googleapis.com/css2?family=${font}&display=swap`;
+        link.rel = 'stylesheet';
+        document.head.appendChild(link);
+
+        // Esperar a fonte carregar
+        await document.fonts.ready;
+
+        // Renderizar o elemento HTML como imagem usando html2canvas
+        const canvas = await html2canvas(container, {
+          width,
+          height,
+          scale: 2,
+          backgroundColor: null,
+        });
+
+        // Exibir a imagem gerada
+        const img = document.getElementById('bannerImage');
+        img.src = canvas.toDataURL('image/png');
+
+        // Limpar o container e o estilo
+        container.innerHTML = '';
+        document.head.removeChild(style);
+        document.head.removeChild(link);
+      } catch (error) {
+        console.error('Erro ao gerar o banner:', error);
+        document.getElementById('errorMessage').textContent = 'Erro ao gerar o banner: ' + error.message;
+      }
+    }
+
+    // Chamar a função automaticamente ao carregar a página
+    window.onload = generateBanner;
+  </script>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gerador de Banner de Nome</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      background: #f0f0f0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    #bannerImage {
+      max-width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+    #errorMessage {
+      color: red;
+      font-size: 18px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div id="container" style="display: none;"></div>
+  <canvas id="bannerCanvas" style="display: none;"></canvas>
+  <img id="bannerImage" />
+  <div id="errorMessage"></div>
+
+  <script>
+    async function generateBanner() {
+      // Pegar o parâmetro 'name' da URL
+      const urlParams = new URLSearchParams(window.location.search);
+      const name = urlParams.get('name');
+
+      if (!name) {
+        document.getElementById('errorMessage').textContent = 'Por favor, forneça um nome na URL (ex.: ?name=Maria)';
+        return;
+      }
+
+      try {
+        // Fazer a requisição ao servidor
+        const response = await fetch(`http://localhost:3000/api/name?name=${encodeURIComponent(name)}`);
+        if (!response.ok) {
+          const errorData = await response.text();
+          throw new Error(`Erro na requisição: ${response.status} - ${errorData}`);
+        }
+
+        // Tentar parsear o JSON
+        let data;
+        try {
+          data = await response.json();
+        } catch (jsonError) {
+          console.error('Resposta recebida:', await response.text());
+          throw new Error('A resposta do servidor não é um JSON válido');
+        }
+
+        const { html, css, width, height, font } = data;
+        if (!html || !css || !width || !height || !font) {
+          throw new Error('Dados incompletos recebidos do servidor');
+        }
+
+        // Criar um elemento temporário para renderizar o HTML
+        const container = document.getElementById('container');
+        container.innerHTML = html;
+
+        // Adicionar o CSS
+        const style = document.createElement('style');
+        style.textContent = css;
+        document.head.appendChild(style);
+
+        // Carregar a fonte do Google Fonts
+        const link = document.createElement('link');
+        link.href = `https://fonts.googleapis.com/css2?family=${font}&display=swap`;
+        link.rel = 'stylesheet';
+        document.head.appendChild(link);
+
+        // Esperar a fonte carregar
+        await document.fonts.ready;
+
+        // Renderizar o elemento HTML como imagem usando html2canvas
+        const canvas = await html2canvas(container, {
+          width,
+          height,
+          scale: 2,
+          backgroundColor: null,
+        });
+
+        // Exibir a imagem gerada
+        const img = document.getElementById('bannerImage');
+        img.src = canvas.toDataURL('image/png');
+
+        // Limpar o container e o estilo
+        container.innerHTML = '';
+        document.head.removeChild(style);
+        document.head.removeChild(link);
+      } catch (error) {
+        console.error('Erro ao gerar o banner:', error);
+        document.getElementById('errorMessage').textContent = 'Erro ao gerar o banner: ' + error.message;
+      }
+    }
+
+    // Chamar a função automaticamente ao carregar a página
+    window.onload = generateBanner;
+  </script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+{
+  "emoji": "🚢",
+  "nome": "🚢 Navio",
+  "categoria": "Ship",
+  "url": "https://emojigraph.org/pt/ship/",
+  "detalhes": {
+    "explicacao": "Um navio de grande porte, utilizados para o transporte de pessoas ou de carga em todo o oceano. Pode ser um navio de cruzeiro, comumente encontrados em torno de locais tropicais.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ship_1f6a2.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ship_1f6a2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "navio",
+      "barco",
+      "cruzeiro",
+      "férias",
+      "viagem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6A2;",
+      "HTML dec": "&#128674;",
+      "URL escape code": "%F0%9F%9A%A2",
+      "Punycode": "xn--068h",
+      "Bytes (UTF-8)": "F0 9F 9A A2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEA2",
+      "C, C++, Python": "\\U0001f6a2",
+      "CSS": "\\01F6A2",
+      "PHP, Ruby": "\\u{1F6A2}",
+      "Perl": "\\x{1F6A2}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emoji": "🕰",
+  "nome": "🕰️ Relógio de mesa",
+  "categoria": "mantelpiece clock",
+  "url": "https://emojigraph.org/pt/mantelpiece-clock/",
+  "detalhes": {
+    "explicacao": "Um antigo estilo de mantel relógio com uma base plana e arredondado caso, como feito de madeira e bronze e colocada acima de uma lareira.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mantelpiece-clock_1f570-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mantelpiece-clock_1f570-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mantelpiece-clock_1f570-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mantelpiece-clock_1f570-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mantelpiece-clock_1f570-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mantelpiece-clock_1f570-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mantelpiece-clock_1f570-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mantelpiece-clock_1f570-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mantelpiece-clock_1f570-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mantelpiece-clock_1f570-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "relógio",
+      "relógio de mesa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F570;&#xFE0F;",
+      "HTML dec": "&#128368;&#65039;",
+      "URL escape code": "%F0%9F%95%B0%EF%B8%8F",
+      "Punycode": "xn--9x8h",
+      "Bytes (UTF-8)": "F0 9F 95 B0 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD70\\uFE0F",
+      "C, C++, Python": "\\U0001f570\\uFE0F",
+      "CSS": "\\01F570 \\FE0F",
+      "PHP, Ruby": "\\u{1F570}\\u{FE0F}",
+      "Perl": "\\x{1F570}\\x{FE0F}"
+    }
+  }
+}

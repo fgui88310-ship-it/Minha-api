@@ -1,0 +1,85 @@
+{
+  "emoji": "😟",
+  "nome": "😟 Rosto preocupado",
+  "categoria": "Worried Face",
+  "url": "https://emojigraph.org/pt/worried-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com os olhos abertos, criados ou franzida sobrancelhas, e uma ampla carranca. Pode transmitir uma variedade de moderadamente triste ou tenso emoções, incluindo a preocupação, a ansiedade, o alarme, a frustração e a infelicidade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/worried-face_1f61f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/worried-face_1f61f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "decepcionado",
+      "preocupado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F61F;",
+      "HTML dec": "&#128543;",
+      "URL escape code": "%F0%9F%98%9F",
+      "Punycode": "xn--928h",
+      "Bytes (UTF-8)": "F0 9F 98 9F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE1F",
+      "C, C++, Python": "\\U0001f61f",
+      "CSS": "\\01F61F",
+      "PHP, Ruby": "\\u{1F61F}",
+      "Perl": "\\x{1F61F}"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "emoji": "🌬",
+  "nome": "🌬️ Rosto de vento",
+  "categoria": "Wind Face",
+  "url": "https://emojigraph.org/pt/wind-face/",
+  "detalhes": {
+    "explicacao": "Um rosto, soprando o vento, como uma personificação da natureza (por exemplo, a mãe natureza, o vento do norte), que cria o vento, soprando o ar de sua boca. Retratado como cinza, o perfil de um rosto humano, geralmente com uma aparência feminina, soprando redemoinhos de sua boca para a direita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/wind-face_1f32c-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/wind-face_1f32c-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/wind-face_1f32c-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/wind-face_1f32c-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/wind-face_1f32c-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/wind-face_1f32c-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/wind-face_1f32c-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/wind-face_1f32c-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/wind-face_1f32c-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/wind-face_1f32c-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "clima",
+      "nuvem",
+      "rosto",
+      "rosto de vento",
+      "sopro",
+      "vento"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F32C;&#xFE0F;",
+      "HTML dec": "&#127788;&#65039;",
+      "URL escape code": "%F0%9F%8C%AC%EF%B8%8F",
+      "Punycode": "xn--ph8h",
+      "Bytes (UTF-8)": "F0 9F 8C AC EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF2C\\uFE0F",
+      "C, C++, Python": "\\U0001f32c\\uFE0F",
+      "CSS": "\\01F32C \\FE0F",
+      "PHP, Ruby": "\\u{1F32C}\\u{FE0F}",
+      "Perl": "\\x{1F32C}\\x{FE0F}"
+    }
+  }
+}

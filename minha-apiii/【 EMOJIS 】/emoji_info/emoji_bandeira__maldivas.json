@@ -1,0 +1,59 @@
+{
+  "emoji": "🇲🇻",
+  "nome": "🇲🇻 Bandeira: Maldivas",
+  "categoria": "flag maldives",
+  "url": "https://emojigraph.org/pt/flag-maldives/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional das Maldivas. Este símbolo é uma seqüência de caracteres 🇲 Símbolo Indicador Regional Letra М e 🇻 Símbolo Indicador Regional Letra V. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras MV em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-maldives_1f1f2-1f1fb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-maldives_1f1f2-1f1fb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-maldives_1f1f2-1f1fb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-maldives_1f1f2-1f1fb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-maldives_1f1f2-1f1fb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-maldives_1f1f2-1f1fb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-maldives_1f1f2-1f1fb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-maldives_1f1f2-1f1fb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F2;&#x1F1FB;",
+      "HTML dec": "&#127474;&#127483;",
+      "URL escape code": "%F0%9F%87%B2%F0%9F%87%BB",
+      "Punycode": "xn--q77hsa",
+      "Bytes (UTF-8)": "F0 9F 87 B2 F0 9F 87 BB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF2\\uD83C\\uDDFB",
+      "C, C++, Python": "\\U0001f1f2\\U0001f1fb",
+      "CSS": "\\01F1F2 \\01F1FB",
+      "PHP, Ruby": "\\u{1F1F2}\\u{1F1FB}",
+      "Perl": "\\x{1F1F2}\\x{1F1FB}"
+    }
+  }
+}

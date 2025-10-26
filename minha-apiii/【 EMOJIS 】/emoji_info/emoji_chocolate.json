@@ -1,0 +1,94 @@
+{
+  "emoji": "🍫",
+  "nome": "🍫 Chocolate",
+  "categoria": "Chocolate Bar",
+  "url": "https://emojigraph.org/pt/chocolate-bar/",
+  "detalhes": {
+    "explicacao": "Um bloco de chocolate escuro, geralmente mostrado com uma embalagem em folha vermelha aberto para mostrar quadrados dos doces. O WhatsApp exibe a embalagem em roxo, uma cor geralmente associada com chocolate Cadbury.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/chocolate-bar_1f36b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/chocolate-bar_1f36b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barra",
+      "chocolate",
+      "doce",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F36B;",
+      "HTML dec": "&#127851;",
+      "URL escape code": "%F0%9F%8D%AB",
+      "Punycode": "xn--ij8h",
+      "Bytes (UTF-8)": "F0 9F 8D AB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF6B",
+      "C, C++, Python": "\\U0001f36b",
+      "CSS": "\\01F36B",
+      "PHP, Ruby": "\\u{1F36B}",
+      "Perl": "\\x{1F36B}"
+    }
+  }
+}

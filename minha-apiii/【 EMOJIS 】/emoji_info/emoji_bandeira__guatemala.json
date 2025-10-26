@@ -1,0 +1,59 @@
+{
+  "emoji": "🇬🇹",
+  "nome": "🇬🇹 Bandeira: Guatemala",
+  "categoria": "flag guatemala",
+  "url": "https://emojigraph.org/pt/flag-guatemala/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Guatemala. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇹 Símbolo Indicador Regional Letra T. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GT em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-guatemala_1f1ec-1f1f9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-guatemala_1f1ec-1f1f9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-guatemala_1f1ec-1f1f9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-guatemala_1f1ec-1f1f9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-guatemala_1f1ec-1f1f9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-guatemala_1f1ec-1f1f9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-guatemala_1f1ec-1f1f9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-guatemala_1f1ec-1f1f9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1F9;",
+      "HTML dec": "&#127468;&#127481;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%B9",
+      "Punycode": "xn--k77h0a",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 B9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDF9",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1f9",
+      "CSS": "\\01F1EC \\01F1F9",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1F9}",
+      "Perl": "\\x{1F1EC}\\x{1F1F9}"
+    }
+  }
+}

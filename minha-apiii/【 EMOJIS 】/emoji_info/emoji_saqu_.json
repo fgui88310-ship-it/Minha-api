@@ -1,0 +1,97 @@
+{
+  "emoji": "🍶",
+  "nome": "🍶 Saquê",
+  "categoria": "sake",
+  "url": "https://emojigraph.org/pt/sake/",
+  "detalhes": {
+    "explicacao": "Saquê japonês, uma bebida alcoólica feita de arroz. Mostrado como uma causa definida com uma garrafa (tokkuri) e copo de beber (choko). A cor varia muito de plataforma, com a Apple, WhatsApp e Twitter com azul, a tradicional cerâmica de cor. Samsung apresenta o script Japonês para \"amor\" em vermelho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sake_1f376.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sake_1f376.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sake_1f376.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sake_1f376.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sake_1f376.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sake_1f376.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sake_1f376.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sake_1f376.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sake_1f376.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sake_1f376.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sake_1f376.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sake_1f376.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sake_1f376.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sake_1f376.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sake_1f376.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/sake_1f376.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bar",
+      "bebida",
+      "copo",
+      "garrafa",
+      "saquê",
+      "japonês",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F376;",
+      "HTML dec": "&#127862;",
+      "URL escape code": "%F0%9F%8D%B6",
+      "Punycode": "xn--tj8h",
+      "Bytes (UTF-8)": "F0 9F 8D B6",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF76",
+      "C, C++, Python": "\\U0001f376",
+      "CSS": "\\01F376",
+      "PHP, Ruby": "\\u{1F376}",
+      "Perl": "\\x{1F376}"
+    }
+  }
+}

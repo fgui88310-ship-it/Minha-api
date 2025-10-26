@@ -1,0 +1,68 @@
+{
+  "emoji": "🎟",
+  "nome": "🎟️ Ingresso de cinema",
+  "categoria": "admission tickets",
+  "url": "https://emojigraph.org/pt/admission-tickets/",
+  "detalhes": {
+    "explicacao": "Um bilhete de cinema. Mostrado em cor-de-rosa ou amarelo na maioria das plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/admission-tickets_1f39f-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/admission-tickets_1f39f-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/admission-tickets_1f39f-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/admission-tickets_1f39f-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/admission-tickets_1f39f-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/admission-tickets_1f39f-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/admission-tickets_1f39f-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/admission-tickets_1f39f-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/admission-tickets_1f39f-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/admission-tickets_1f39f-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "entrada",
+      "ingresso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F39F;&#xFE0F;",
+      "HTML dec": "&#127903;&#65039;",
+      "URL escape code": "%F0%9F%8E%9F%EF%B8%8F",
+      "Punycode": "xn--zk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 9F EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF9F\\uFE0F",
+      "C, C++, Python": "\\U0001f39f\\uFE0F",
+      "CSS": "\\01F39F \\FE0F",
+      "PHP, Ruby": "\\u{1F39F}\\u{FE0F}",
+      "Perl": "\\x{1F39F}\\x{FE0F}"
+    }
+  }
+}

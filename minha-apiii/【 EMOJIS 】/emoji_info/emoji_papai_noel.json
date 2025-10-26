@@ -1,0 +1,98 @@
+{
+  "emoji": "🎅",
+  "nome": "🎅 Papai Noel",
+  "categoria": "santa claus",
+  "url": "https://emojigraph.org/pt/santa-claus/",
+  "detalhes": {
+    "explicacao": "Papai Noel, por vezes referido como Pai Natal, traz alegria para as crianças na época do Natal. Apresentado com uma barba vermelha e festivo chapéu.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/santa-claus_1f385.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/santa-claus_1f385.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comemoração",
+      "Natal",
+      "Noel",
+      "Papai Noel",
+      "festas",
+      "natal",
+      "noel",
+      "papai"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F385;",
+      "HTML dec": "&#127877;",
+      "URL escape code": "%F0%9F%8E%85",
+      "Punycode": "xn--8j8h",
+      "Bytes (UTF-8)": "F0 9F 8E 85",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF85",
+      "C, C++, Python": "\\U0001f385",
+      "CSS": "\\01F385",
+      "PHP, Ruby": "\\u{1F385}",
+      "Perl": "\\x{1F385}"
+    }
+  }
+}

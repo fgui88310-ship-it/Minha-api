@@ -1,0 +1,70 @@
+{
+  "emoji": "🥿",
+  "nome": "🥿 Sapatilha",
+  "categoria": "Flat Shoe",
+  "url": "https://emojigraph.org/pt/flat-shoe/",
+  "detalhes": {
+    "explicacao": "Uma televisão de sapato, em um estilo normalmente usado por mulheres. Mais prático do que um salto alto do sapato.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flat-shoe_1f97f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flat-shoe_1f97f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flat-shoe_1f97f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flat-shoe_1f97f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flat-shoe_1f97f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/flat-shoe_1f97f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flat-shoe_1f97f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flat-shoe_1f97f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flat-shoe_1f97f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/flat-shoe_1f97f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "sapatilha",
+      "sapato",
+      "sem fivela",
+      "confortável"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F97F;",
+      "HTML dec": "&#129407;",
+      "URL escape code": "%F0%9F%A5%BF",
+      "Punycode": "xn--ys9h",
+      "Bytes (UTF-8)": "F0 9F A5 BF",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD7F",
+      "C, C++, Python": "\\U0001f97f",
+      "CSS": "\\01F97F",
+      "PHP, Ruby": "\\u{1F97F}",
+      "Perl": "\\x{1F97F}"
+    }
+  }
+}

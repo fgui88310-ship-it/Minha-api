@@ -1,0 +1,68 @@
+{
+  "emoji": "🥷",
+  "nome": "🥷 Ninja",
+  "categoria": "Ninja",
+  "url": "https://emojigraph.org/pt/ninja/",
+  "detalhes": {
+    "explicacao": "Ninja foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ninja_1f977.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ninja_1f977.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ninja_1f977.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ninja_1f977.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ninja_1f977.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ninja_1f977.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ninja_1f977.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ninja_1f977.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "furtividade",
+      "lutador",
+      "ninja",
+      "oculto",
+      "assassino",
+      "guerra",
+      "habilidades",
+      "luta",
+      "pessoa",
+      "soldado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F977;",
+      "HTML dec": "&#129399;",
+      "URL escape code": "%F0%9F%A5%B7",
+      "Punycode": "xn--qs9h",
+      "Bytes (UTF-8)": "F0 9F A5 B7",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD77",
+      "C, C++, Python": "\\U0001f977",
+      "CSS": "\\01F977",
+      "PHP, Ruby": "\\u{1F977}",
+      "Perl": "\\x{1F977}"
+    }
+  }
+}

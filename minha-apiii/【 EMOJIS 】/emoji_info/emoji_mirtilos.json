@@ -1,0 +1,75 @@
+{
+  "emoji": "🫐",
+  "nome": "🫐 Mirtilos",
+  "categoria": "Blueberries",
+  "url": "https://emojigraph.org/pt/blueberries/",
+  "detalhes": {
+    "explicacao": "Uma imagem dos desenhos animados das pequenas bagas arroxeadas. Freqüentemente usado em seu significado direto ou quando se fala em dieta. Uva foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/blueberries_1fad0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/blueberries_1fad0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/blueberries_1fad0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/blueberries_1fad0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/blueberries_1fad0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/blueberries_1fad0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/blueberries_1fad0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/blueberries_1fad0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/blueberries_1fad0.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/blueberries_1fad0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "azul",
+      "baga",
+      "blueberry",
+      "mirtilo",
+      "mirtilos",
+      "alimento",
+      "comida",
+      "fruta",
+      "silvestre"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAD0;",
+      "HTML dec": "&#129744;",
+      "URL escape code": "%F0%9F%AB%90",
+      "Punycode": "xn--l29h",
+      "Bytes (UTF-8)": "F0 9F AB 90",
+      "JavaScript, JSON, Java": "\\uD83E\\uDED0",
+      "C, C++, Python": "\\U0001fad0",
+      "CSS": "\\01FAD0",
+      "PHP, Ruby": "\\u{1FAD0}",
+      "Perl": "\\x{1FAD0}"
+    }
+  }
+}

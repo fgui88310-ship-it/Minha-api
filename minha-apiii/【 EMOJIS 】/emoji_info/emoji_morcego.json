@@ -1,0 +1,69 @@
+{
+  "emoji": "🦇",
+  "nome": "🦇 Morcego",
+  "categoria": "Bat",
+  "url": "https://emojigraph.org/pt/bat/",
+  "detalhes": {
+    "explicacao": "Um morcego, o mamífero voador da noite. Comumente descrito como marrom, preto, cinza ou grafite, com asas particuladas e orelhas pontudas, viradas para a frente ou para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bat_1f987.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bat_1f987.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bat_1f987.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bat_1f987.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bat_1f987.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bat_1f987.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bat_1f987.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bat_1f987.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bat_1f987.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bat_1f987.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "morcego",
+      "vampiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F987;",
+      "HTML dec": "&#129415;",
+      "URL escape code": "%F0%9F%A6%87",
+      "Punycode": "xn--6s9h",
+      "Bytes (UTF-8)": "F0 9F A6 87",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD87",
+      "C, C++, Python": "\\U0001f987",
+      "CSS": "\\01F987",
+      "PHP, Ruby": "\\u{1F987}",
+      "Perl": "\\x{1F987}"
+    }
+  }
+}

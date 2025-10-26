@@ -1,0 +1,57 @@
+{
+  "emoji": "🪢",
+  "nome": "🪢 Nó",
+  "categoria": "knot",
+  "url": "https://emojigraph.org/pt/knot/",
+  "detalhes": {
+    "explicacao": "Nó foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/knot_1faa2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/knot_1faa2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/knot_1faa2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/knot_1faa2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/knot_1faa2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/knot_1faa2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amarrar",
+      "corda",
+      "cordel",
+      "emaranhado",
+      "fio",
+      "nó",
+      "laço"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAA2;",
+      "HTML dec": "&#129698;",
+      "URL escape code": "%F0%9F%AA%A2",
+      "Punycode": "xn--909h",
+      "Bytes (UTF-8)": "F0 9F AA A2",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEA2",
+      "C, C++, Python": "\\U0001faa2",
+      "CSS": "\\01FAA2",
+      "PHP, Ruby": "\\u{1FAA2}",
+      "Perl": "\\x{1FAA2}"
+    }
+  }
+}

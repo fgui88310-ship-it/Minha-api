@@ -1,0 +1,94 @@
+{
+  "emoji": "🍒",
+  "nome": "🍒 Cereja",
+  "categoria": "Cherries",
+  "url": "https://emojigraph.org/pt/cherries/",
+  "detalhes": {
+    "explicacao": "Duas cerejas vermelhas, com uma folha verde e juntas em uma única haste.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cherries_1f352.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cherries_1f352.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cereja",
+      "fruta",
+      "comida",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F352;",
+      "HTML dec": "&#127826;",
+      "URL escape code": "%F0%9F%8D%92",
+      "Punycode": "xn--si8h",
+      "Bytes (UTF-8)": "F0 9F 8D 92",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF52",
+      "C, C++, Python": "\\U0001f352",
+      "CSS": "\\01F352",
+      "PHP, Ruby": "\\u{1F352}",
+      "Perl": "\\x{1F352}"
+    }
+  }
+}

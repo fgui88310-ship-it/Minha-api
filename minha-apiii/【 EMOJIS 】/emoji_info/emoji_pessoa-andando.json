@@ -1,0 +1,97 @@
+{
+  "emoji": "🚶",
+  "nome": "🚶 Pessoa andando",
+  "categoria": "Person Walking",
+  "url": "https://emojigraph.org/pt/person-walking/",
+  "detalhes": {
+    "explicacao": "Uma pessoa vai para uma caminhada. Tomar um lento ritmo médio, essa pessoa seria um corredor, se eles pegaram a sua velocidade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-walking_1f6b6.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-walking_1f6b6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "andar",
+      "caminhar",
+      "pessoa andando",
+      "caminhada",
+      "passo",
+      "pedestre",
+      "perambulando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6B6;",
+      "HTML dec": "&#128694;",
+      "URL escape code": "%F0%9F%9A%B6",
+      "Punycode": "xn--l78h",
+      "Bytes (UTF-8)": "F0 9F 9A B6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEB6",
+      "C, C++, Python": "\\U0001f6b6",
+      "CSS": "\\01F6B6",
+      "PHP, Ruby": "\\u{1F6B6}",
+      "Perl": "\\x{1F6B6}"
+    }
+  }
+}

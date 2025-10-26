@@ -1,0 +1,52 @@
+{
+  "emoji": "🙂",
+  "nome": "🙂‍↔️ Cabeça virando de um lado para o outro",
+  "categoria": "head shaking horizontally",
+  "url": "https://emojigraph.org/pt/head-shaking-horizontally/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/head-shaking-horizontally_1f642-200d-2194-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/head-shaking-horizontally_1f642-200d-2194-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/head-shaking-horizontally_1f642-200d-2194-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/head-shaking-horizontally_1f642-200d-2194-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/head-shaking-horizontally_1f642-200d-2194-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/head-shaking-horizontally_1f642-200d-2194-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balançar",
+      "não",
+      "negar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F642;&#x200D;&#x2194;&#xFE0F;",
+      "HTML dec": "&#128578;&#8205;&#8596;&#65039;",
+      "URL escape code": "%F0%9F%99%82%E2%80%8D%E2%86%94%EF%B8%8F",
+      "Bytes (UTF-8)": "f0 9f 99 82 e2 80 8d e2 86 94 ef b8 8f",
+      "JavaScript, JSON, Java": "\\ud83d\\ude42\\u200d\\u2194\\ufe0f",
+      "C, C++, Python": "\\U0001f642\\u000200d\\u0002194\\u000fe0f",
+      "CSS": "\\01F642 \\0200D \\02194 \\0FE0F",
+      "PHP, Ruby": "\\u{1F642}\\u{200D}\\u{2194}\\u{FE0F}",
+      "Perl": "\\x{1F642}\\x{200D}\\x{2194}\\x{FE0F}"
+    }
+  }
+}

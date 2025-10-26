@@ -1,0 +1,97 @@
+{
+  "emoji": "👏",
+  "nome": "👏 Mãos aplaudindo",
+  "categoria": "Clapping Hands",
+  "url": "https://emojigraph.org/pt/clapping-hands/",
+  "detalhes": {
+    "explicacao": "Duas mãos batendo palmas emoji, que quando usado várias vezes pode ser usado como uma ronda de aplausos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/clapping-hands_1f44f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/clapping-hands_1f44f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aplauso",
+      "mãos",
+      "mãos aplaudindo",
+      "sinal",
+      "bom trabalho",
+      "palmas",
+      "parabéns"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F44F;",
+      "HTML dec": "&#128079;",
+      "URL escape code": "%F0%9F%91%8F",
+      "Punycode": "xn--0p8h",
+      "Bytes (UTF-8)": "F0 9F 91 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC4F",
+      "C, C++, Python": "\\U0001f44f",
+      "CSS": "\\01F44F",
+      "PHP, Ruby": "\\u{1F44F}",
+      "Perl": "\\x{1F44F}"
+    }
+  }
+}

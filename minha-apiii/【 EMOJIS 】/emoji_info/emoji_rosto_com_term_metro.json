@@ -1,0 +1,80 @@
+{
+  "emoji": "🤒",
+  "nome": "🤒 Rosto com termômetro",
+  "categoria": "face with thermometer",
+  "url": "https://emojigraph.org/pt/face-with-thermometer/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela, com relevo ou sulcada de sobrancelhas e um termômetro em sua boca. Muitas vezes representada com bochechas vermelhas, como se febril. Pode ser usado para representar um paciente de hospital ou de uma pessoa com um resfriado ou gripe.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-thermometer_1f912.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-thermometer_1f912.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-thermometer_1f912.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-thermometer_1f912.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-thermometer_1f912.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-thermometer_1f912.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-thermometer_1f912.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-thermometer_1f912.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-thermometer_1f912.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/face-with-thermometer_1f912.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/face-with-thermometer_1f912.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/face-with-thermometer_1f912.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "de cama",
+      "febre",
+      "febril",
+      "rosto",
+      "termômetro",
+      "doente"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F912;",
+      "HTML dec": "&#129298;",
+      "URL escape code": "%F0%9F%A4%92",
+      "Punycode": "xn--up9h",
+      "Bytes (UTF-8)": "F0 9F A4 92",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD12",
+      "C, C++, Python": "\\U0001f912",
+      "CSS": "\\01F912",
+      "PHP, Ruby": "\\u{1F912}",
+      "Perl": "\\x{1F912}"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "emoji": "",
+  "nome": "⛈️ Chuva com trovão",
+  "categoria": "Cloud With Lightning And Rain",
+  "url": "https://emojigraph.org/pt/cloud-with-lightning-and-rain/",
+  "detalhes": {
+    "explicacao": "Azul gotas de chuva caindo de uma nuvem branca, com um raio de piscar.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cloud-with-lightning-and-rain_26c8-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cloud-with-lightning-and-rain_26c8-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cloud-with-lightning-and-rain_26c8-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cloud-with-lightning-and-rain_26c8-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cloud-with-lightning-and-rain_26c8-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cloud-with-lightning-and-rain_26c8-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cloud-with-lightning-and-rain_26c8-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cloud-with-lightning-and-rain_26c8-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cloud-with-lightning-and-rain_26c8-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cloud-with-lightning-and-rain_26c8-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chuva",
+      "clima",
+      "nuvem",
+      "trovão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26C8;&#xFE0F;",
+      "HTML dec": "&#9928;&#65039;",
+      "URL escape code": "%E2%9B%88%EF%B8%8F",
+      "Punycode": "xn--98h",
+      "Bytes (UTF-8)": "E2 9B 88 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26C8\\uFE0F",
+      "C, C++, Python": "\\u26C8\\uFE0F",
+      "CSS": "\\26C8 \\FE0F",
+      "PHP, Ruby": "\\u{26C8}\\u{FE0F}",
+      "Perl": "\\x{26C8}\\x{FE0F}"
+    }
+  }
+}

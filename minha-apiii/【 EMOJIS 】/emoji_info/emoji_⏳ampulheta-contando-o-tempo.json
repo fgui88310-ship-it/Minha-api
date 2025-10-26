@@ -1,0 +1,98 @@
+{
+  "emoji": "",
+  "nome": "⏳ Ampulheta contando o tempo",
+  "categoria": "Hourglass Not Done",
+  "url": "https://emojigraph.org/pt/hourglass-not-done/",
+  "detalhes": {
+    "explicacao": "Um clássico ampulheta, sua areia ainda que flui a partir do topo até a parte inferior do bulbo. Indica o tempo é ainda de passar, mas a vida é curta. A cor varia entre plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/hourglass-not-done_23f3.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/hourglass-not-done_23f3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "relógio",
+      "ampulheta",
+      "areia",
+      "cheia",
+      "contando",
+      "em cima",
+      "hora",
+      "tempo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x23F3;",
+      "HTML dec": "&#9203;",
+      "URL escape code": "%E2%8F%B3",
+      "Punycode": "xn--koh",
+      "Bytes (UTF-8)": "E2 8F B3",
+      "JavaScript, JSON, Java": "\\u23F3",
+      "C, C++, Python": "\\u23F3",
+      "CSS": "\\23F3",
+      "PHP, Ruby": "\\u{23F3}",
+      "Perl": "\\x{23F3}"
+    }
+  }
+}

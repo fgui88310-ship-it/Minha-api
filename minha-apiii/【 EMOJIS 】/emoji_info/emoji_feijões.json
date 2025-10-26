@@ -1,0 +1,72 @@
+{
+  "emoji": "🫘",
+  "nome": "🫘 Feijões",
+  "categoria": "Beans",
+  "url": "https://emojigraph.org/pt/beans/",
+  "detalhes": {
+    "explicacao": "Feijões usado como vegetais para alimentação humana ou animal. O Feijões é um ingrediente-chave em muitos pratos nas cozinhas de todo o mundo. Pode representar diferentes tipos de sementes, desde fava até grãos de café. Pode ser usado para se referir à cabeça de alguém ou revelar seus segredos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/beans_1fad8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/beans_1fad8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/beans_1fad8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/beans_1fad8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/beans_1fad8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/beans_1fad8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/beans_1fad8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/beans_1fad8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/beans_1fad8.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/beans_1fad8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alimento",
+      "comida",
+      "feijões",
+      "legume",
+      "feijão",
+      "grão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAD8;",
+      "HTML dec": "&#129752;",
+      "URL escape code": "%F0%9F%AB%98",
+      "Punycode": "xn--t29h",
+      "Bytes (UTF-8)": "f0 9f ab 98",
+      "JavaScript, JSON, Java": "\\ud83e\\uded8",
+      "C, C++, Python": "\\U0001fad8",
+      "CSS": "\\01FAD8",
+      "PHP, Ruby": "\\u{1FAD8}",
+      "Perl": "\\x{1FAD8}"
+    }
+  }
+}

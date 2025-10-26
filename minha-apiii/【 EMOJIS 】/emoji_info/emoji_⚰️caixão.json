@@ -1,0 +1,70 @@
+{
+  "emoji": "",
+  "nome": "⚰️ Caixão",
+  "categoria": "Coffin",
+  "url": "https://emojigraph.org/pt/coffin/",
+  "detalhes": {
+    "explicacao": "Um caixão tradicional, como os usados para enterrar os mortos. Representado em diferentes ângulos, fechado, de seis lados, caixão de madeira, com alças alças douradas nos pés e cabeça.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/coffin_26b0-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/coffin_26b0-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/coffin_26b0-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/coffin_26b0-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/coffin_26b0-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/coffin_26b0-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/coffin_26b0-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/coffin_26b0-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/coffin_26b0-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/coffin_26b0-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caixão",
+      "funeral",
+      "morte",
+      "velório"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26B0;&#xFE0F;",
+      "HTML dec": "&#9904;&#65039;",
+      "URL escape code": "%E2%9A%B0%EF%B8%8F",
+      "Punycode": "xn--l8h",
+      "Bytes (UTF-8)": "E2 9A B0 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26B0\\uFE0F",
+      "C, C++, Python": "\\u26B0\\uFE0F",
+      "CSS": "\\26B0 \\FE0F",
+      "PHP, Ruby": "\\u{26B0}\\u{FE0F}",
+      "Perl": "\\x{26B0}\\x{FE0F}"
+    }
+  }
+}

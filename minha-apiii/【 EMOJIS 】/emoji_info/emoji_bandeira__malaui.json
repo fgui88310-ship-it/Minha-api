@@ -1,0 +1,59 @@
+{
+  "emoji": "🇲🇼",
+  "nome": "🇲🇼 Bandeira: Malaui",
+  "categoria": "flag malawi",
+  "url": "https://emojigraph.org/pt/flag-malawi/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Malawi. Este símbolo é uma seqüência de caracteres 🇲 Símbolo Indicador Regional Letra М e 🇼 Símbolo Indicador Regional Letra W. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras MW em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-malawi_1f1f2-1f1fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-malawi_1f1f2-1f1fc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-malawi_1f1f2-1f1fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-malawi_1f1f2-1f1fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-malawi_1f1f2-1f1fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-malawi_1f1f2-1f1fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-malawi_1f1f2-1f1fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-malawi_1f1f2-1f1fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F2;&#x1F1FC;",
+      "HTML dec": "&#127474;&#127484;",
+      "URL escape code": "%F0%9F%87%B2%F0%9F%87%BC",
+      "Punycode": "xn--q77hua",
+      "Bytes (UTF-8)": "F0 9F 87 B2 F0 9F 87 BC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF2\\uD83C\\uDDFC",
+      "C, C++, Python": "\\U0001f1f2\\U0001f1fc",
+      "CSS": "\\01F1F2 \\01F1FC",
+      "PHP, Ruby": "\\u{1F1F2}\\u{1F1FC}",
+      "Perl": "\\x{1F1F2}\\x{1F1FC}"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "emoji": "👹",
+  "nome": "👹 Ogro",
+  "categoria": "Ogre",
+  "url": "https://emojigraph.org/pt/ogre/",
+  "detalhes": {
+    "explicacao": "Um rosto grotesco, vermelho, com chifres, os olhos arregalados, um grande nariz torto, presas, e uma franja de cabelo desgrenhado. Retrata um oni, uma espécie de horrível ogro no folclore Japonês.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ogre_1f479.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ogre_1f479.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "conto de fadas",
+      "monstro",
+      "ogro",
+      "ogro japonês",
+      "oni",
+      "assustador",
+      "demoníaco",
+      "malvado",
+      "máscara",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F479;",
+      "HTML dec": "&#128121;",
+      "URL escape code": "%F0%9F%91%B9",
+      "Punycode": "xn--7q8h",
+      "Bytes (UTF-8)": "F0 9F 91 B9",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC79",
+      "C, C++, Python": "\\U0001f479",
+      "CSS": "\\01F479",
+      "PHP, Ruby": "\\u{1F479}",
+      "Perl": "\\x{1F479}"
+    }
+  }
+}

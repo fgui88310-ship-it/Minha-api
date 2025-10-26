@@ -1,0 +1,95 @@
+{
+  "emoji": "🎩",
+  "nome": "🎩 Cartola",
+  "categoria": "Top Hat",
+  "url": "https://emojigraph.org/pt/top-hat/",
+  "detalhes": {
+    "explicacao": "Um chapéu, usado nos tradicionais casamentos britânicos e outras ocasiões formais. Este é também uma popular peça no Jogo Monopoly.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/top-hat_1f3a9.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/top-hat_1f3a9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cartola",
+      "chapéu",
+      "roupa",
+      "chique",
+      "entretenimento"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3A9;",
+      "HTML dec": "&#127913;",
+      "URL escape code": "%F0%9F%8E%A9",
+      "Punycode": "xn--9k8h",
+      "Bytes (UTF-8)": "F0 9F 8E A9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFA9",
+      "C, C++, Python": "\\U0001f3a9",
+      "CSS": "\\01F3A9",
+      "PHP, Ruby": "\\u{1F3A9}",
+      "Perl": "\\x{1F3A9}"
+    }
+  }
+}

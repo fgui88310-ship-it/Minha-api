@@ -1,0 +1,59 @@
+{
+  "emoji": "🇿🇲",
+  "nome": "🇿🇲 Bandeira: Zâmbia",
+  "categoria": "flag zambia",
+  "url": "https://emojigraph.org/pt/flag-zambia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Zâmbia. Este símbolo é uma seqüência de caracteres 🇿 Símbolo Indicador Regional Letra Z e 🇲 Símbolo Indicador Regional Letra М. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras ZM em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-zambia_1f1ff-1f1f2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-zambia_1f1ff-1f1f2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-zambia_1f1ff-1f1f2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-zambia_1f1ff-1f1f2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-zambia_1f1ff-1f1f2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-zambia_1f1ff-1f1f2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-zambia_1f1ff-1f1f2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-zambia_1f1ff-1f1f2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FF;&#x1F1F2;",
+      "HTML dec": "&#127487;&#127474;",
+      "URL escape code": "%F0%9F%87%BF%F0%9F%87%B2",
+      "Punycode": "xn--q77hza",
+      "Bytes (UTF-8)": "F0 9F 87 BF F0 9F 87 B2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFF\\uD83C\\uDDF2",
+      "C, C++, Python": "\\U0001f1ff\\U0001f1f2",
+      "CSS": "\\01F1FF \\01F1F2",
+      "PHP, Ruby": "\\u{1F1FF}\\u{1F1F2}",
+      "Perl": "\\x{1F1FF}\\x{1F1F2}"
+    }
+  }
+}

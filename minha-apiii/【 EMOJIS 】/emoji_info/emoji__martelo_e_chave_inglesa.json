@@ -1,0 +1,70 @@
+{
+  "emoji": "🛠",
+  "nome": "🛠️ Martelo e chave-inglesa",
+  "categoria": "hammer and wrench",
+  "url": "https://emojigraph.org/pt/hammer-and-wrench/",
+  "detalhes": {
+    "explicacao": "Um martelo e uma chave, como a mantida em uma caixa de ferramentas, cruzados em forma de X. Representado com ferramentas de metal voltado para cima, o martelo posicionado na parte superior esquerda. A maioria dos fornecedores de implementar o mesmo projeto como para a sua 🔨 Martelo e 🔧 Chave.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hammer-and-wrench_1f6e0-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hammer-and-wrench_1f6e0-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hammer-and-wrench_1f6e0-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hammer-and-wrench_1f6e0-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hammer-and-wrench_1f6e0-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hammer-and-wrench_1f6e0-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hammer-and-wrench_1f6e0-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hammer-and-wrench_1f6e0-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hammer-and-wrench_1f6e0-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hammer-and-wrench_1f6e0-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chave",
+      "chave-inglesa",
+      "ferramenta",
+      "martelo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6E0;&#xFE0F;",
+      "HTML dec": "&#128736;&#65039;",
+      "URL escape code": "%F0%9F%9B%A0%EF%B8%8F",
+      "Punycode": "xn--s88h",
+      "Bytes (UTF-8)": "F0 9F 9B A0 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEE0\\uFE0F",
+      "C, C++, Python": "\\U0001f6e0\\uFE0F",
+      "CSS": "\\01F6E0 \\FE0F",
+      "PHP, Ruby": "\\u{1F6E0}\\u{FE0F}",
+      "Perl": "\\x{1F6E0}\\x{FE0F}"
+    }
+  }
+}

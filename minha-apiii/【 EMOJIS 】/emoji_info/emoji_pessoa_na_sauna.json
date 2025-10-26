@@ -1,0 +1,71 @@
+{
+  "emoji": "🧖",
+  "nome": "🧖 Pessoa na sauna",
+  "categoria": "person in steamy room",
+  "url": "https://emojigraph.org/pt/person-in-steamy-room/",
+  "detalhes": {
+    "explicacao": "Uma pessoa em uma sauna, segurando uma concha para derramar água sobre as pedras quentes, que cria o vapor meio ambiente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-in-steamy-room_1f9d6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-in-steamy-room_1f9d6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-in-steamy-room_1f9d6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-in-steamy-room_1f9d6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-in-steamy-room_1f9d6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-in-steamy-room_1f9d6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-in-steamy-room_1f9d6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-in-steamy-room_1f9d6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-in-steamy-room_1f9d6.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/person-in-steamy-room_1f9d6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pessoa na sauna",
+      "sauna",
+      "mulher na sauna",
+      "relaxar",
+      "spa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D6;",
+      "HTML dec": "&#129494;",
+      "URL escape code": "%F0%9F%A7%96",
+      "Punycode": "xn--gv9h",
+      "Bytes (UTF-8)": "F0 9F A7 96",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD6",
+      "C, C++, Python": "\\U0001f9d6",
+      "CSS": "\\01F9D6",
+      "PHP, Ruby": "\\u{1F9D6}",
+      "Perl": "\\x{1F9D6}"
+    }
+  }
+}

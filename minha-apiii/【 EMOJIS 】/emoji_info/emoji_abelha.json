@@ -1,0 +1,94 @@
+{
+  "emoji": "🐝",
+  "nome": "🐝 Abelha",
+  "categoria": "Honeybee",
+  "url": "https://emojigraph.org/pt/honeybee/",
+  "detalhes": {
+    "explicacao": "Uma abelha, em movimento, inseto voador que vive em colméias e faz mel. Descrito como uma abelha preto-e-amarelo com claras ou brancas asas e um ferrão. Diversamente virada para a esquerda na íntegra ou perfil mostrado acima.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/honeybee_1f41d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/honeybee_1f41d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "abelha",
+      "inseto",
+      "animal",
+      "natureza"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F41D;",
+      "HTML dec": "&#128029;",
+      "URL escape code": "%F0%9F%90%9D",
+      "Punycode": "xn--lo8h",
+      "Bytes (UTF-8)": "F0 9F 90 9D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC1D",
+      "C, C++, Python": "\\U0001f41d",
+      "CSS": "\\01F41D",
+      "PHP, Ruby": "\\u{1F41D}",
+      "Perl": "\\x{1F41D}"
+    }
+  }
+}

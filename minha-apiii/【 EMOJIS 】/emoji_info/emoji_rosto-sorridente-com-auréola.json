@@ -1,0 +1,88 @@
+{
+  "emoji": "😇",
+  "nome": "😇 Rosto sorridente com auréola",
+  "categoria": "Smiling Face With Halo",
+  "url": "https://emojigraph.org/pt/smiling-face-with-halo/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com olhos sorridentes, fechado sorriso, e halo, geralmente azul, a sobrecarga. Muitas vezes, representa anjos, orações e bênçãos. Também pode transmitir angelic comportamento, por exemplo, fazendo boas obras. Veja também 👼 Bebê Anjo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/smiling-face-with-halo_1f607.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/smiling-face-with-halo_1f607.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "anjo",
+      "auréola",
+      "inocente",
+      "rosto",
+      "anjinho",
+      "sorriso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F607;",
+      "HTML dec": "&#128519;",
+      "URL escape code": "%F0%9F%98%87",
+      "Punycode": "xn--l28h",
+      "Bytes (UTF-8)": "F0 9F 98 87",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE07",
+      "C, C++, Python": "\\U0001f607",
+      "CSS": "\\01F607",
+      "PHP, Ruby": "\\u{1F607}",
+      "Perl": "\\x{1F607}"
+    }
+  }
+}

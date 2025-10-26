@@ -1,0 +1,71 @@
+{
+  "emoji": "🧯",
+  "nome": "🧯 Extintor de incêndio",
+  "categoria": "Fire Extinguisher",
+  "url": "https://emojigraph.org/pt/fire-extinguisher/",
+  "detalhes": {
+    "explicacao": "Um extintor de incêndio, como os usados para colocar pequenos incêndios. Descrito como um vermelho tanque de preto, com mangueira e medidor de pressão. A maioria das plataformas de incluir uma imagem de uma chama em uma etiqueta branca.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fire-extinguisher_1f9ef.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fire-extinguisher_1f9ef.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fire-extinguisher_1f9ef.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fire-extinguisher_1f9ef.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fire-extinguisher_1f9ef.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fire-extinguisher_1f9ef.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fire-extinguisher_1f9ef.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fire-extinguisher_1f9ef.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fire-extinguisher_1f9ef.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/fire-extinguisher_1f9ef.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "apagar",
+      "extinguir",
+      "incêndio",
+      "extintor",
+      "fogo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9EF;",
+      "HTML dec": "&#129519;",
+      "URL escape code": "%F0%9F%A7%AF",
+      "Punycode": "xn--5v9h",
+      "Bytes (UTF-8)": "F0 9F A7 AF",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDEF",
+      "C, C++, Python": "\\U0001f9ef",
+      "CSS": "\\01F9EF",
+      "PHP, Ruby": "\\u{1F9EF}",
+      "Perl": "\\x{1F9EF}"
+    }
+  }
+}

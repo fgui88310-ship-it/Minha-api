@@ -1,0 +1,59 @@
+{
+  "emoji": "🇧🇿",
+  "nome": "🇧🇿 Bandeira: Belize",
+  "categoria": "flag belize",
+  "url": "https://emojigraph.org/pt/flag-belize/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Belize. Este símbolo é uma seqüência de caracteres 🇧 Símbolo Indicador Regional Letra B e 🇿 Símbolo Indicador Regional Letra Z. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras BZ em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-belize_1f1e7-1f1ff.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-belize_1f1e7-1f1ff.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-belize_1f1e7-1f1ff.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-belize_1f1e7-1f1ff.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-belize_1f1e7-1f1ff.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-belize_1f1e7-1f1ff.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-belize_1f1e7-1f1ff.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-belize_1f1e7-1f1ff.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1FF;",
+      "HTML dec": "&#127463;&#127487;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%BF",
+      "Punycode": "xn--f77hqb",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 BF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDFF",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1ff",
+      "CSS": "\\01F1E7 \\01F1FF",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1FF}",
+      "Perl": "\\x{1F1E7}\\x{1F1FF}"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "emoji": "🏩",
+  "nome": "🏩 Motel",
+  "categoria": "Love Hotel",
+  "url": "https://emojigraph.org/pt/love-hotel/",
+  "detalhes": {
+    "explicacao": "Um love hotel é um hotel que podem ser alugados por hora, em vez de como alojamento para a noite.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/love-hotel_1f3e9.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/love-hotel_1f3e9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amor",
+      "hotel",
+      "motel",
+      "prédio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3E9;",
+      "HTML dec": "&#127977;",
+      "URL escape code": "%F0%9F%8F%A9",
+      "Punycode": "xn--3m8h",
+      "Bytes (UTF-8)": "F0 9F 8F A9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFE9",
+      "C, C++, Python": "\\U0001f3e9",
+      "CSS": "\\01F3E9",
+      "PHP, Ruby": "\\u{1F3E9}",
+      "Perl": "\\x{1F3E9}"
+    }
+  }
+}

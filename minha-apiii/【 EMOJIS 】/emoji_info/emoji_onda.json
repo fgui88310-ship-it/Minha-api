@@ -1,0 +1,94 @@
+{
+  "emoji": "🌊",
+  "nome": "🌊 Onda",
+  "categoria": "Water Wave",
+  "url": "https://emojigraph.org/pt/water-wave/",
+  "detalhes": {
+    "explicacao": "Uma onda de água, como quebrando na praia. Descrito como uma onda azul com uma espuma, branca na crista, enrolando-a para a direita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/water-wave_1f30a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/water-wave_1f30a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "onda",
+      "onda de água",
+      "onda do oceano",
+      "tsunami"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F30A;",
+      "HTML dec": "&#127754;",
+      "URL escape code": "%F0%9F%8C%8A",
+      "Punycode": "xn--qg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 8A",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF0A",
+      "C, C++, Python": "\\U0001f30a",
+      "CSS": "\\01F30A",
+      "PHP, Ruby": "\\u{1F30A}",
+      "Perl": "\\x{1F30A}"
+    }
+  }
+}

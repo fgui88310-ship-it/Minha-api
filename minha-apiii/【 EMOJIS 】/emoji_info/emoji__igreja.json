@@ -1,0 +1,97 @@
+{
+  "emoji": "",
+  "nome": "⛪ Igreja",
+  "categoria": "church",
+  "url": "https://emojigraph.org/pt/church/",
+  "detalhes": {
+    "explicacao": "A construção da igreja, geralmente associado com denominações Cristãs. Além disso, a oração, igrejas realizar regularmente os cultos, casamentos, baptizados e funerais.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/church_26ea.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/church_26ea.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/church_26ea.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/church_26ea.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/church_26ea.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/church_26ea.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/church_26ea.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/church_26ea.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/church_26ea.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/church_26ea.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/church_26ea.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/church_26ea.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/church_26ea.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/church_26ea.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/church_26ea.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/church_26ea.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "igreja",
+      "prédio",
+      "capela",
+      "cristã",
+      "cristão",
+      "missa",
+      "religião"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26EA;",
+      "HTML dec": "&#9962;",
+      "URL escape code": "%E2%9B%AA",
+      "Punycode": "xn--89h",
+      "Bytes (UTF-8)": "E2 9B AA",
+      "JavaScript, JSON, Java": "\\u26EA",
+      "C, C++, Python": "\\u26EA",
+      "CSS": "\\26EA",
+      "PHP, Ruby": "\\u{26EA}",
+      "Perl": "\\x{26EA}"
+    }
+  }
+}

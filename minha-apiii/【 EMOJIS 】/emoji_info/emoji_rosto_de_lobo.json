@@ -1,0 +1,94 @@
+{
+  "emoji": "🐺",
+  "nome": "🐺 Rosto de lobo",
+  "categoria": "wolf",
+  "url": "https://emojigraph.org/pt/wolf/",
+  "detalhes": {
+    "explicacao": "O rosto de um lobo, uma espécie canina que caça em bandos. Geralmente retratado como um desenho animado no estilo de rosto de um lobo cinzento com as pontas das orelhas em riste, rosto cinza e focinho branco, com nariz preto.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/wolf_1f43a.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/wolf_1f43a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "lobo",
+      "rosto",
+      "rosto de lobo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F43A;",
+      "HTML dec": "&#128058;",
+      "URL escape code": "%F0%9F%90%BA",
+      "Punycode": "xn--fp8h",
+      "Bytes (UTF-8)": "F0 9F 90 BA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC3A",
+      "C, C++, Python": "\\U0001f43a",
+      "CSS": "\\01F43A",
+      "PHP, Ruby": "\\u{1F43A}",
+      "Perl": "\\x{1F43A}"
+    }
+  }
+}

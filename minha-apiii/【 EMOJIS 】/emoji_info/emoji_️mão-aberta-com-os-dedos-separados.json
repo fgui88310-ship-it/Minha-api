@@ -1,0 +1,70 @@
+{
+  "emoji": "🖐",
+  "nome": "🖐️ Mão aberta com os dedos separados",
+  "categoria": "Hand With Fingers Splayed",
+  "url": "https://emojigraph.org/pt/hand-with-fingers-splayed/",
+  "detalhes": {
+    "explicacao": "Uma mão levantada com uma parte entre cada dedo e o polegar. Realizada de uma forma que pode indicar o número cinco. Semelhante a um acenar de mão, sem qualquer movimento.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hand-with-fingers-splayed_1f590-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hand-with-fingers-splayed_1f590-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hand-with-fingers-splayed_1f590-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hand-with-fingers-splayed_1f590-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hand-with-fingers-splayed_1f590-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hand-with-fingers-splayed_1f590-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hand-with-fingers-splayed_1f590-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hand-with-fingers-splayed_1f590-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hand-with-fingers-splayed_1f590-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hand-with-fingers-splayed_1f590-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cinco dedos",
+      "dedos",
+      "mão",
+      "palma da mão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F590;&#xFE0F;",
+      "HTML dec": "&#128400;&#65039;",
+      "URL escape code": "%F0%9F%96%90%EF%B8%8F",
+      "Punycode": "xn--6y8h",
+      "Bytes (UTF-8)": "F0 9F 96 90 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD90\\uFE0F",
+      "C, C++, Python": "\\U0001f590\\uFE0F",
+      "CSS": "\\01F590 \\FE0F",
+      "PHP, Ruby": "\\u{1F590}\\u{FE0F}",
+      "Perl": "\\x{1F590}\\x{FE0F}"
+    }
+  }
+}

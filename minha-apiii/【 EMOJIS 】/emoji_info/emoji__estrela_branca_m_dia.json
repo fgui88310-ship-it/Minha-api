@@ -1,0 +1,91 @@
+{
+  "emoji": "",
+  "nome": "⭐ Estrela branca média",
+  "categoria": "star",
+  "url": "https://emojigraph.org/pt/star/",
+  "detalhes": {
+    "explicacao": "Um clássico, estreal de cinco pontas de ouro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/star_2b50.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/star_2b50.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/star_2b50.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/star_2b50.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/star_2b50.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/star_2b50.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/star_2b50.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/star_2b50.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/star_2b50.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/star_2b50.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/star_2b50.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/star_2b50.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/star_2b50.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/star_2b50.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/star_2b50.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/star_2b50.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "estrela"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2B50;",
+      "HTML dec": "&#11088;",
+      "URL escape code": "%E2%AD%90",
+      "Punycode": "xn--f7i",
+      "Bytes (UTF-8)": "E2 AD 90",
+      "JavaScript, JSON, Java": "\\u2B50",
+      "C, C++, Python": "\\u2B50",
+      "CSS": "\\2B50",
+      "PHP, Ruby": "\\u{2B50}",
+      "Perl": "\\x{2B50}"
+    }
+  }
+}

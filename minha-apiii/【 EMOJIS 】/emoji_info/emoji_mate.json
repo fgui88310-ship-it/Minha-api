@@ -1,0 +1,70 @@
+{
+  "emoji": "🧉",
+  "nome": "🧉 Mate",
+  "categoria": "Mate",
+  "url": "https://emojigraph.org/pt/mate/",
+  "detalhes": {
+    "explicacao": "Mate é um com cafeína da bebida popular em muitos países da América do Sul. Na cor verde (a partir de um ingrediente-chave: folhas secas de erva-mate) e consumido através de um metal de palha.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mate_1f9c9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mate_1f9c9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mate_1f9c9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mate_1f9c9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mate_1f9c9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mate_1f9c9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mate_1f9c9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mate_1f9c9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mate_1f9c9.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/mate_1f9c9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bebida",
+      "mate",
+      "chimarrão",
+      "tereré"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9C9;",
+      "HTML dec": "&#129481;",
+      "URL escape code": "%F0%9F%A7%89",
+      "Punycode": "xn--2u9h",
+      "Bytes (UTF-8)": "F0 9F A7 89",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDC9",
+      "C, C++, Python": "\\U0001f9c9",
+      "CSS": "\\01F9C9",
+      "PHP, Ruby": "\\u{1F9C9}",
+      "Perl": "\\x{1F9C9}"
+    }
+  }
+}

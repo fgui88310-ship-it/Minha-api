@@ -1,0 +1,96 @@
+{
+  "emoji": "",
+  "nome": "☕ Café",
+  "categoria": "hot beverage",
+  "url": "https://emojigraph.org/pt/hot-beverage/",
+  "detalhes": {
+    "explicacao": "Uma xícara de café quente, geralmente tomado como o café ou o chá. Às vezes, mostrado em um pires. Na versão da samsung apresenta espuma em design.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/hot-beverage_2615.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/hot-beverage_2615.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "café",
+      "cafezinho",
+      "chá",
+      "cafeína",
+      "inverno",
+      "quente"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2615;",
+      "HTML dec": "&#9749;",
+      "URL escape code": "%E2%98%95",
+      "Punycode": "xn--53h",
+      "Bytes (UTF-8)": "E2 98 95",
+      "JavaScript, JSON, Java": "\\u2615",
+      "C, C++, Python": "\\u2615",
+      "CSS": "\\2615",
+      "PHP, Ruby": "\\u{2615}",
+      "Perl": "\\x{2615}"
+    }
+  }
+}

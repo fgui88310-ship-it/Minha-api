@@ -1,0 +1,97 @@
+{
+  "emoji": "🙍",
+  "nome": "🙍 Franzindo a sobrancelha",
+  "categoria": "person frowning",
+  "url": "https://emojigraph.org/pt/person-frowning/",
+  "detalhes": {
+    "explicacao": "Uma dor de pessoa, franzindo a testa com espanto. O sexo não é especificado, mas, geralmente, é mostrada como uma mulher.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-frowning_1f64d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-frowning_1f64d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gesto",
+      "pessoa",
+      "brava",
+      "bravo",
+      "chateada",
+      "chateado",
+      "triste"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F64D;",
+      "HTML dec": "&#128589;",
+      "URL escape code": "%F0%9F%99%8D",
+      "Punycode": "xn--l48h",
+      "Bytes (UTF-8)": "F0 9F 99 8D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE4D",
+      "C, C++, Python": "\\U0001f64d",
+      "CSS": "\\01F64D",
+      "PHP, Ruby": "\\u{1F64D}",
+      "Perl": "\\x{1F64D}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇭🇲",
+  "nome": "🇭🇲 Bandeira: Ilhas Heard e McDonald",
+  "categoria": "flag heard mcdonald islands",
+  "url": "https://emojigraph.org/pt/flag-heard-mcdonald-islands/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Ouvido & Mcdonald. Este símbolo é uma seqüência de caracteres 🇭 Símbolo Indicador Regional Letra H e 🇲 Símbolo Indicador Regional Letra М. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras HM em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-heard-mcdonald-islands_1f1ed-1f1f2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-heard-mcdonald-islands_1f1ed-1f1f2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-heard-mcdonald-islands_1f1ed-1f1f2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-heard-mcdonald-islands_1f1ed-1f1f2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-heard-mcdonald-islands_1f1ed-1f1f2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-heard-mcdonald-islands_1f1ed-1f1f2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-heard-mcdonald-islands_1f1ed-1f1f2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-heard-mcdonald-islands_1f1ed-1f1f2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1ED;&#x1F1F2;",
+      "HTML dec": "&#127469;&#127474;",
+      "URL escape code": "%F0%9F%87%AD%F0%9F%87%B2",
+      "Punycode": "xn--l77hka",
+      "Bytes (UTF-8)": "F0 9F 87 AD F0 9F 87 B2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDED\\uD83C\\uDDF2",
+      "C, C++, Python": "\\U0001f1ed\\U0001f1f2",
+      "CSS": "\\01F1ED \\01F1F2",
+      "PHP, Ruby": "\\u{1F1ED}\\u{1F1F2}",
+      "Perl": "\\x{1F1ED}\\x{1F1F2}"
+    }
+  }
+}

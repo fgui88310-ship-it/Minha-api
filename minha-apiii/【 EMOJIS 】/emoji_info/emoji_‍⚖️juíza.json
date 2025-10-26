@@ -1,0 +1,70 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍⚖️ Juíza",
+  "categoria": "Woman Judge",
+  "url": "https://emojigraph.org/pt/woman-judge/",
+  "detalhes": {
+    "explicacao": "A Mulher Juiz emoji é uma sequência do 👩 Mulher e ⚖ Escalas emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-judge_1f469-200d-2696-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-judge_1f469-200d-2696-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-judge_1f469-200d-2696-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-judge_1f469-200d-2696-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-judge_1f469-200d-2696-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-judge_1f469-200d-2696-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-judge_1f469-200d-2696-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-judge_1f469-200d-2696-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-judge_1f469-200d-2696-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-judge_1f469-200d-2696-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balança",
+      "juíza",
+      "justiça",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x2696;&#xFE0F;",
+      "HTML dec": "&#128105;&#8205;&#9878;&#65039;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%E2%9A%96%EF%B8%8F",
+      "Punycode": "xn--u7h9100o",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D E2 9A 96 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\u2696\\uFE0F",
+      "C, C++, Python": "\\U0001f469\\u200D\\u2696\\uFE0F",
+      "CSS": "\\01F469 \\200D \\2696 \\FE0F",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{2696}\\u{FE0F}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{2696}\\x{FE0F}"
+    }
+  }
+}

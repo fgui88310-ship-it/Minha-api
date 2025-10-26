@@ -1,0 +1,99 @@
+{
+  "emoji": "📥",
+  "nome": "📥 Bandeja de entrada",
+  "categoria": "inbox tray",
+  "url": "https://emojigraph.org/pt/inbox-tray/",
+  "detalhes": {
+    "explicacao": "Uma bandeja de papel com uma seta para baixo na parte superior, como um símbolo para uma caixa de entrada de email. Geralmente retratado como um branco ou de madeira, tente com uma seta vermelha ou verde.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/inbox-tray_1f4e5.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/inbox-tray_1f4e5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeja",
+      "caixa",
+      "comunicação",
+      "correspondência",
+      "recebida",
+      "e-mail",
+      "email",
+      "entrada",
+      "recebido"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4E5;",
+      "HTML dec": "&#128229;",
+      "URL escape code": "%F0%9F%93%A5",
+      "Punycode": "xn--bu8h",
+      "Bytes (UTF-8)": "F0 9F 93 A5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCE5",
+      "C, C++, Python": "\\U0001f4e5",
+      "CSS": "\\01F4E5",
+      "PHP, Ruby": "\\u{1F4E5}",
+      "Perl": "\\x{1F4E5}"
+    }
+  }
+}

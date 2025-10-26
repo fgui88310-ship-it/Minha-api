@@ -1,0 +1,95 @@
+{
+  "emoji": "🍛",
+  "nome": "🍛 Arroz com curry",
+  "categoria": "curry rice",
+  "url": "https://emojigraph.org/pt/curry-rice/",
+  "detalhes": {
+    "explicacao": "Um prato de laranja-marrom curry com legumes ou carne, servido com um monte de arroz branco. Pode representar kare-raisu, ou curry Japonês, embora comumente associada com a Índia e outros Asiática.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/curry-rice_1f35b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/curry-rice_1f35b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arroz",
+      "arroz com curry",
+      "curry",
+      "curry e arroz",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F35B;",
+      "HTML dec": "&#127835;",
+      "URL escape code": "%F0%9F%8D%9B",
+      "Punycode": "xn--1i8h",
+      "Bytes (UTF-8)": "F0 9F 8D 9B",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF5B",
+      "C, C++, Python": "\\U0001f35b",
+      "CSS": "\\01F35B",
+      "PHP, Ruby": "\\u{1F35B}",
+      "Perl": "\\x{1F35B}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emoji": "🕺",
+  "nome": "🕺 Homem dançando",
+  "categoria": "man dancing",
+  "url": "https://emojigraph.org/pt/man-dancing/",
+  "detalhes": {
+    "explicacao": "Um homem dançando, adicionado como um gênero par para a 💃 MulherDançando. Mostrado na maioria das plataformas. Dos anos 70 anos de terno, e uma mão no ar em uma estilo de dança de discoteca.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-dancing_1f57a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-dancing_1f57a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-dancing_1f57a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-dancing_1f57a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-dancing_1f57a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-dancing_1f57a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-dancing_1f57a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-dancing_1f57a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-dancing_1f57a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-dancing_1f57a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dançando",
+      "homem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F57A;",
+      "HTML dec": "&#128378;",
+      "URL escape code": "%F0%9F%95%BA",
+      "Punycode": "xn--ky8h",
+      "Bytes (UTF-8)": "F0 9F 95 BA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD7A",
+      "C, C++, Python": "\\U0001f57a",
+      "CSS": "\\01F57A",
+      "PHP, Ruby": "\\u{1F57A}",
+      "Perl": "\\x{1F57A}"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "emoji": "🩺",
+  "nome": "🩺 Estetoscópio",
+  "categoria": "stethoscope",
+  "url": "https://emojigraph.org/pt/stethoscope/",
+  "detalhes": {
+    "explicacao": "Estetoscópio foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/stethoscope_1fa7a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/stethoscope_1fa7a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/stethoscope_1fa7a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/stethoscope_1fa7a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/stethoscope_1fa7a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/stethoscope_1fa7a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/stethoscope_1fa7a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/stethoscope_1fa7a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/stethoscope_1fa7a.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/stethoscope_1fa7a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coração",
+      "estetoscópio",
+      "medicina",
+      "médico",
+      "médica",
+      "tum tum"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA7A;",
+      "HTML dec": "&#129658;",
+      "URL escape code": "%F0%9F%A9%BA",
+      "Punycode": "xn--4z9h",
+      "Bytes (UTF-8)": "F0 9F A9 BA",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE7A",
+      "C, C++, Python": "\\U0001fa7a",
+      "CSS": "\\01FA7A",
+      "PHP, Ruby": "\\u{1FA7A}",
+      "Perl": "\\x{1FA7A}"
+    }
+  }
+}

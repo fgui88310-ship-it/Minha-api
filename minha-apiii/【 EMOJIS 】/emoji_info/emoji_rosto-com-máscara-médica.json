@@ -1,0 +1,96 @@
+{
+  "emoji": "😷",
+  "nome": "😷 Rosto com máscara médica",
+  "categoria": "Face With Medical Mask",
+  "url": "https://emojigraph.org/pt/face-with-medical-mask/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com os olhos fechados vestindo máscara cirúrgica, como o usado por profissionais de saúde em hospitais. Também usado para evitar a contaminação de doenças ou a propagação de doenças aerotransmissoras.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/face-with-medical-mask_1f637.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/face-with-medical-mask_1f637.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "doente",
+      "gripado",
+      "máscara",
+      "máscara médica",
+      "resfriado",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F637;",
+      "HTML dec": "&#128567;",
+      "URL escape code": "%F0%9F%98%B7",
+      "Punycode": "xn--y38h",
+      "Bytes (UTF-8)": "F0 9F 98 B7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE37",
+      "C, C++, Python": "\\U0001f637",
+      "CSS": "\\01F637",
+      "PHP, Ruby": "\\u{1F637}",
+      "Perl": "\\x{1F637}"
+    }
+  }
+}

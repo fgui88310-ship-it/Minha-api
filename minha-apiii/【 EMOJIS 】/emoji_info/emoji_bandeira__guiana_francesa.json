@@ -1,0 +1,59 @@
+{
+  "emoji": "🇬🇫",
+  "nome": "🇬🇫 Bandeira: Guiana Francesa",
+  "categoria": "flag french guiana",
+  "url": "https://emojigraph.org/pt/flag-french-guiana/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Guiana francesa. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇫 Símbolo Indicador Regional Letra F. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GF em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-french-guiana_1f1ec-1f1eb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-french-guiana_1f1ec-1f1eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-french-guiana_1f1ec-1f1eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-french-guiana_1f1ec-1f1eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-french-guiana_1f1ec-1f1eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-french-guiana_1f1ec-1f1eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-french-guiana_1f1ec-1f1eb.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-french-guiana_1f1ec-1f1eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1EB;",
+      "HTML dec": "&#127468;&#127467;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%AB",
+      "Punycode": "xn--j77hb",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 AB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDEB",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1eb",
+      "CSS": "\\01F1EC \\01F1EB",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1EB}",
+      "Perl": "\\x{1F1EC}\\x{1F1EB}"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍🎤 Cantora",
+  "categoria": "woman singer",
+  "url": "https://emojigraph.org/pt/woman-singer/",
+  "detalhes": {
+    "explicacao": "Uma mulher, cantora ou uma estrela de rock geralmente apresentado com um microfone, e, por vezes, as notas musicais.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-singer_1f469-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-singer_1f469-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-singer_1f469-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-singer_1f469-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-singer_1f469-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-singer_1f469-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-singer_1f469-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-singer_1f469-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-singer_1f469-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-singer_1f469-200d-1f3a4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "artista",
+      "atriz",
+      "cantora",
+      "mulher",
+      "pop",
+      "rock"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F3A4;",
+      "HTML dec": "&#128105;&#8205;&#127908;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%8E%A4",
+      "Punycode": "xn--4k8hjm",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F 8E A4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83C\\uDFA4",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f3a4",
+      "CSS": "\\01F469 \\200D \\01F3A4",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F3A4}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F3A4}"
+    }
+  }
+}

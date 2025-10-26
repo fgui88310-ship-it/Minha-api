@@ -1,0 +1,97 @@
+{
+  "emoji": "🙅",
+  "nome": "🙅 Pessoa fazendo gesto de “não”",
+  "categoria": "Person Gesturing No",
+  "url": "https://emojigraph.org/pt/person-gesturing-no/",
+  "detalhes": {
+    "explicacao": "Uma pessoa com os braços cruzados, formando um \" X \"para indicar\" não \" ou \"não é boa'. Este movimento é usado no jogo de TV Deal or no Deal para indicar 'Deal'. Se pretende ser de gênero neutro, mas mostrado como uma mulher na maioria das plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-gesturing-no_1f645.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-gesturing-no_1f645.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gesto",
+      "mão",
+      "proibido",
+      "de jeito nenhum",
+      "não",
+      "não pode",
+      "sem chance"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F645;",
+      "HTML dec": "&#128581;",
+      "URL escape code": "%F0%9F%99%85",
+      "Punycode": "xn--d48h",
+      "Bytes (UTF-8)": "F0 9F 99 85",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE45",
+      "C, C++, Python": "\\U0001f645",
+      "CSS": "\\01F645",
+      "PHP, Ruby": "\\u{1F645}",
+      "Perl": "\\x{1F645}"
+    }
+  }
+}

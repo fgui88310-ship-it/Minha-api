@@ -1,0 +1,69 @@
+{
+  "emoji": "🤷",
+  "nome": "🤷‍♂️ Homem dando de ombros",
+  "categoria": "man shrugging",
+  "url": "https://emojigraph.org/pt/man-shrugging/",
+  "detalhes": {
+    "explicacao": "O Homem Encolhendo emoji é uma sequência do 🤷 Pessoa Dando Ombros e ♂ Sinal Masculino de emoji. Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentam-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-shrugging_1f937-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-shrugging_1f937-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-shrugging_1f937-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-shrugging_1f937-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-shrugging_1f937-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-shrugging_1f937-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-shrugging_1f937-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-shrugging_1f937-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-shrugging_1f937-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-shrugging_1f937-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dar de ombros",
+      "homem",
+      "indiferença"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F937;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#129335;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h5981o",
+      "Bytes (UTF-8)": "F0 9F A4 B7 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD37\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f937\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F937 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F937}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F937}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "",
+  "nome": "❣️ Exclamação de coração",
+  "categoria": "Heart Exclamation",
+  "url": "https://emojigraph.org/pt/heart-exclamation/",
+  "detalhes": {
+    "explicacao": "Um decorativo ponto de exclamação, onde um coração constitui a parte superior do símbolo, e um círculo a parte inferior.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/heart-exclamation_2763-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/heart-exclamation_2763-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/heart-exclamation_2763-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/heart-exclamation_2763-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/heart-exclamation_2763-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/heart-exclamation_2763-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/heart-exclamation_2763-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/heart-exclamation_2763-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/heart-exclamation_2763-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/heart-exclamation_2763-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "exclamação",
+      "pontuação",
+      "sinal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2763;&#xFE0F;",
+      "HTML dec": "&#10083;&#65039;",
+      "URL escape code": "%E2%9D%A3%EF%B8%8F",
+      "Punycode": "xn--pei",
+      "Bytes (UTF-8)": "E2 9D A3 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2763\\uFE0F",
+      "C, C++, Python": "\\u2763\\uFE0F",
+      "CSS": "\\2763 \\FE0F",
+      "PHP, Ruby": "\\u{2763}\\u{FE0F}",
+      "Perl": "\\x{2763}\\x{FE0F}"
+    }
+  }
+}

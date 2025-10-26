@@ -1,0 +1,93 @@
+{
+  "emoji": "🚨",
+  "nome": "🚨 Sirene",
+  "categoria": "Police Car Light",
+  "url": "https://emojigraph.org/pt/police-car-light/",
+  "detalhes": {
+    "explicacao": "Uma luz vermelha giratória visto no topo de um carro de polícia. Muitas vezes usado em circunstâncias de emergência, além de uma sirene par fazer um alto som de aviso.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/police-car-light_1f6a8.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/police-car-light_1f6a8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "farol policial",
+      "luz giratória",
+      "sirene"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6A8;",
+      "HTML dec": "&#128680;",
+      "URL escape code": "%F0%9F%9A%A8",
+      "Punycode": "xn--668h",
+      "Bytes (UTF-8)": "F0 9F 9A A8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEA8",
+      "C, C++, Python": "\\U0001f6a8",
+      "CSS": "\\01F6A8",
+      "PHP, Ruby": "\\u{1F6A8}",
+      "Perl": "\\x{1F6A8}"
+    }
+  }
+}

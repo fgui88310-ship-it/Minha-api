@@ -1,0 +1,93 @@
+{
+  "emoji": "😵",
+  "nome": "😵 Rosto atordoado",
+  "categoria": "Dizzy Face",
+  "url": "https://emojigraph.org/pt/dizzy-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com X ou espirais para os olhos, de boca aberta. Muitas vezes com a sobrancelha representada em relevo ou sulcada. Na versão do Facebook apresenta um roxo na testa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/dizzy-face_1f635.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/dizzy-face_1f635.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "rosto atordoado",
+      "tontura"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F635;",
+      "HTML dec": "&#128565;",
+      "URL escape code": "%F0%9F%98%B5",
+      "Punycode": "xn--w38h",
+      "Bytes (UTF-8)": "F0 9F 98 B5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE35",
+      "C, C++, Python": "\\U0001f635",
+      "CSS": "\\01F635",
+      "PHP, Ruby": "\\u{1F635}",
+      "Perl": "\\x{1F635}"
+    }
+  }
+}

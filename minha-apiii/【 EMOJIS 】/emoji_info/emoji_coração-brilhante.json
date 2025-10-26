@@ -1,0 +1,95 @@
+{
+  "emoji": "💖",
+  "nome": "💖 Coração brilhante",
+  "categoria": "Sparkling Heart",
+  "url": "https://emojigraph.org/pt/sparkling-heart/",
+  "detalhes": {
+    "explicacao": "Um coração cor-de-rosa do amor, com as estrelas em torno dele, fazendo parecer que ele é cintilante ou cintila.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sparkling-heart_1f496.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/sparkling-heart_1f496.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amor",
+      "brilhante",
+      "emoção",
+      "emocionante",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F496;",
+      "HTML dec": "&#128150;",
+      "URL escape code": "%F0%9F%92%96",
+      "Punycode": "xn--1r8h",
+      "Bytes (UTF-8)": "F0 9F 92 96",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC96",
+      "C, C++, Python": "\\U0001f496",
+      "CSS": "\\01F496",
+      "PHP, Ruby": "\\u{1F496}",
+      "Perl": "\\x{1F496}"
+    }
+  }
+}

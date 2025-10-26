@@ -1,0 +1,201 @@
+// api/utils/mediaDownloader.js
+import { fsSync, fs, axios } from '../【 MODULES 】/libs.js';
+import https from 'https';
+import { fileURLToPath } from 'url';
+import { dirname, join } from 'path';
+import { PATHS } from '../config.js';
+
+export function loadCookiesFromFile(nomecookie) {
+  try {
+    const cookieFilePath = path.join(PATHS.cookiesInsta);
+    const cookiesContent = fsSync.readFileSync(cookieFilePath, 'utf8');
+    const cookies = cookiesContent
+      .split('
+')
+      .filter(line => line && !line.startsWith('#') && line.includes('\t'))
+      .map(line => {
+        const parts = line.split('\t');
+        if (parts.length < 6) {
+          console.error('[ERROR] Linha de cookie inválida:', line);
+          return null;
+        }
+        const [domain, , , , name, value] = parts;
+        return { name, value };
+      })
+      .filter(cookie => cookie)
+      .reduce((acc, { name, value }) => ({ ...acc, [name]: value }), {});
+
+    if (!cookies.sessionid || !cookies.csrftoken) {
+      console.error('[ERROR] Cookies obrigatórios (sessionid, csrftoken) não encontrados em cookies.txt');
+      throw new Error('Cookies obrigatórios (sessionid, csrftoken) não encontrados');
+    }
+    console.log('[DEBUG] Cookies carregados com sucesso:', cookies);
+    return cookies;
+  } catch (err) {
+    console.error('[ERROR] Falha ao carregar cookies.txt:', err.message);
+    return {};
+  }
+}
+
+export function decodeBaseN(code, chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_') {
+  let pk = 0;
+  for (let i = 0; i < code.length; i++) {
+    pk = pk * 64 + chars.indexOf(code[i]);
+  }
+  return pk;
+}
+
+export async function getVideoInfoFromApi(shortcode) {
+  const pk = decodeBaseN(shortcode);
+  const url = `https://i.instagram.com/api/v1/media/${pk}/info/`;
+
+  const cookies = loadCookiesFromFile('instagram');
+  const cookieHeader = Object.entries(cookies)
+    .map(([name, value]) => `${name}=${value}`)
+    .join('; ');
+
+  const headers = {
+    'X-IG-App-ID': '936619743392459',
+    'X-ASBD-ID': '198387',
+    'X-IG-WWW-Claim': '0',
+    'Origin': 'https://www.instagram.com',
+    'Accept': '*/*',
+    'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36',
+    'Cookie': cookieHeader
+  };
+
+  try {
+    console.log(`[DEBUG] Buscando info do vídeo via API para pk: ${pk}`);
+    const response = await axios.get(url, { headers });
+    const videoUrl = traverseObj(response.data, ['items', 0, 'video_url']);
+    if (!videoUrl) {
+      throw new Error('URL do vídeo não encontrada na resposta da API');
+    }
+    return videoUrl;
+  } catch (err) {
+    console.error('[API INFO] Erro ao obter info do vídeo:', err.message, err.response?.status);
+    throw err;
+  }
+}
+
+export function traverseObj(obj, path) {
+  let current = obj;
+  for (const key of path) {
+    if (current && typeof current === 'object' && key in current) {
+      current = current[key];
+    } else {
+      return undefined;
+    }
+  }
+  return current;
+}
+
+export async function downloadMedia(mediaUrl, threadsScraperUrl) {
+  try {
+    // Extrair shortcode da URL se necessário
+    const shortcodeMatch = mediaUrl.match(/instagram\.com\/(?:p|reel|tv)\/([^/?]+)/);
+    let shortcode = shortcodeMatch ? shortcodeMatch[1] : null;
+
+    if (shortcode) {
+      // Obter URL fresca do vídeo via API
+      mediaUrl = await getVideoInfoFromApi(shortcode);
+      console.log('[DEBUG] URL fresca do vídeo obtida:', mediaUrl.substring(0, 60) + '...');
+    }
+
+    let mediaUrlToDownload = mediaUrl.split('?')[0];
+    let mediaType = 'unknown';
+    let format = mediaUrlToDownload.match(/\.([a-zA-Z0-9]+)(?:\?|$)/)?.[1]?.toLowerCase() || 'bin';
+    console.log('[THREADS DOWNLOAD] URL recebida:', mediaUrlToDownload.substring(0, 60) + '...');
+
+    if (!mediaUrlToDownload || (!mediaUrlToDownload.includes('scontent') && !mediaUrlToDownload.includes('fbcdn'))) {
+      console.log('[THREADS DOWNLOAD] URL rejeitada por validação:', mediaUrlToDownload.substring(0, 60) + '...');
+      throw new Error('URL de mídia inválida (deve ser do Threads/Facebook/Instagram CDN)');
+    }
+
+    console.log('[THREADS DOWNLOAD] Baixando mídia:', mediaUrlToDownload.substring(0, 60) + '...');
+
+    const cookies = loadCookiesFromFile('instagram');
+    const cookieHeader = Object.entries(cookies)
+      .map(([name, value]) => `${name}=${value}`)
+      .join('; ');
+    console.log('[DEBUG] Cookies para download:', cookieHeader);
+
+    const headers = {
+      'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36',
+      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+      'Accept-Encoding': 'gzip, deflate, br',
+      'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
+      'Sec-Ch-Ua': '"Chromium";v="137", "Not/A)Brand";v="24"',
+      'Sec-Ch-Ua-Mobile': '?1',
+      'Sec-Ch-Ua-Platform': '"Android"',
+      'Sec-Fetch-Dest': 'document',
+      'Sec-Fetch-Mode': 'navigate',
+      'Sec-Fetch-Site': 'none',
+      'Upgrade-Insecure-Requests': '1',
+      'Connection': 'keep-alive',
+      'Priority': 'u=1, i',
+      'X-IG-App-ID': '936619743392459',
+      'X-ASBD-ID': '198387',
+      'X-IG-WWW-Claim': '0',
+      'Origin': 'https://www.instagram.com',
+      'Referer': 'https://www.instagram.com/',
+      'X-CSRFToken': cookies.csrftoken || '',
+      'X-Requested-With': 'XMLHttpRequest',
+      'Cookie': cookieHeader
+    };
+
+    const axiosInstance = axios.create({
+      httpsAgent: new https.Agent({
+        keepAlive: true,
+        rejectUnauthorized: true,
+        ciphers: 'TLS_AES_128_GCM_SHA256:TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-GCM-SHA384',
+        minVersion: 'TLSv1.2',
+        maxVersion: 'TLSv1.3'
+      })
+    });
+
+    let response;
+    try {
+      console.log('[DEBUG] Tentando baixar com cookies...');
+      response = await axiosInstance.get(mediaUrl, {
+        responseType: 'stream',
+        timeout: 30000,
+        headers
+      });
+    } catch (err) {
+      if (err.response?.status === 403) {
+        console.log('[THREADS DOWNLOAD] Erro 403 com cookies, tentando sem cookies...');
+        delete headers.Cookie;
+        response = await axiosInstance.get(mediaUrl, {
+          responseType: 'stream',
+          timeout: 30000,
+          headers
+        });
+      } else {
+        throw err;
+      }
+    }
+
+    if (response.status !== 200) {
+      throw new Error(`Status HTTP ${response.status}: ${response.statusText}`);
+    }
+
+    const mimeType = 'video/mp4';
+    const timestamp = Date.now();
+    const filename = `media_${timestamp}.mp4`;
+
+    return { stream: response.data, mimeType, filename };
+  } catch (err) {
+    console.error('[THREADS DOWNLOAD] Erro ao baixar mídia:', err.message, err.response?.data);
+    throw err;
+  }
+}
+
+export async function cleanupFiles(filePath) {
+  try {
+    await fs.unlink(filePath);
+    console.log('[DEBUG] Arquivo temporário removido:', filePath);
+  } catch (err) {
+    console.error('[ERROR] Falha ao remover arquivo temporário:', err.message);
+  }
+}

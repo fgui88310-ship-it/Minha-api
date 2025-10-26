@@ -1,0 +1,71 @@
+{
+  "emoji": "",
+  "nome": "☄️ Cometa",
+  "categoria": "comet",
+  "url": "https://emojigraph.org/pt/comet/",
+  "detalhes": {
+    "explicacao": "Um cometa, um gelado, rocky espaço de objeto que pode formar uma cauda de gás e poeira quando perto do sol. Geralmente retratado como um gelado-azul cometa, como se os riscos para baixo em uma noite de céu.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/comet_2604-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/comet_2604-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/comet_2604-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/comet_2604-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/comet_2604-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/comet_2604-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/comet_2604-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/comet_2604-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/comet_2604-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/comet_2604-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cometa",
+      "espaço",
+      "estrela cadente",
+      "meteoro",
+      "satélite"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2604;&#xFE0F;",
+      "HTML dec": "&#9732;&#65039;",
+      "URL escape code": "%E2%98%84%EF%B8%8F",
+      "Punycode": "xn--o3h",
+      "Bytes (UTF-8)": "E2 98 84 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2604\\uFE0F",
+      "C, C++, Python": "\\u2604\\uFE0F",
+      "CSS": "\\2604 \\FE0F",
+      "PHP, Ruby": "\\u{2604}\\u{FE0F}",
+      "Perl": "\\x{2604}\\x{FE0F}"
+    }
+  }
+}

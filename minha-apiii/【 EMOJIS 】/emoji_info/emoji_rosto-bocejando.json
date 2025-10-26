@@ -1,0 +1,75 @@
+{
+  "emoji": "🥱",
+  "nome": "🥱 Rosto bocejando",
+  "categoria": "Yawning Face",
+  "url": "https://emojigraph.org/pt/yawning-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com os olhos fechados e a boca aberta, coberta por uma mão. Capturado meados de bocejar, isso pode representar uma falta de sono, ou implicar com o tédio de uma pessoa ou de um tema.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/yawning-face_1f971.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/yawning-face_1f971.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/yawning-face_1f971.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/yawning-face_1f971.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/yawning-face_1f971.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/yawning-face_1f971.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/yawning-face_1f971.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/yawning-face_1f971.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/yawning-face_1f971.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/yawning-face_1f971.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bocejo",
+      "cansado",
+      "entediado",
+      "rosto bocejando",
+      "cansada",
+      "com sono",
+      "entediada",
+      "sono",
+      "zzz"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F971;",
+      "HTML dec": "&#129393;",
+      "URL escape code": "%F0%9F%A5%B1",
+      "Punycode": "xn--ks9h",
+      "Bytes (UTF-8)": "F0 9F A5 B1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD71",
+      "C, C++, Python": "\\U0001f971",
+      "CSS": "\\01F971",
+      "PHP, Ruby": "\\u{1F971}",
+      "Perl": "\\x{1F971}"
+    }
+  }
+}

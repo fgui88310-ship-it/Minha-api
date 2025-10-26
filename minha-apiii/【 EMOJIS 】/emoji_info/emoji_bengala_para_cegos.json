@@ -1,0 +1,73 @@
+{
+  "emoji": "🦯",
+  "nome": "🦯 Bengala para cegos",
+  "categoria": "white cane",
+  "url": "https://emojigraph.org/pt/white-cane/",
+  "detalhes": {
+    "explicacao": "Uma sondagem de cana, usados por algumas pessoas que são cegas ou deficientes visuais. Difere de uma suporte de cana-de -, e é por vezes referido como uma bengala branca. Veja também 👩🦯 Mulher Com Sondagem e Cana-de - 👨 🦯 Homem Com a Sondagem de Cana.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/white-cane_1f9af.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/white-cane_1f9af.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/white-cane_1f9af.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/white-cane_1f9af.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/white-cane_1f9af.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/white-cane_1f9af.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/white-cane_1f9af.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/white-cane_1f9af.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/white-cane_1f9af.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/white-cane_1f9af.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade",
+      "cegueira",
+      "bengala",
+      "cega",
+      "cego",
+      "deficiente",
+      "visual"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9AF;",
+      "HTML dec": "&#129455;",
+      "URL escape code": "%F0%9F%A6%AF",
+      "Punycode": "xn--cu9h",
+      "Bytes (UTF-8)": "F0 9F A6 AF",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDAF",
+      "C, C++, Python": "\\U0001f9af",
+      "CSS": "\\01F9AF",
+      "PHP, Ruby": "\\u{1F9AF}",
+      "Perl": "\\x{1F9AF}"
+    }
+  }
+}

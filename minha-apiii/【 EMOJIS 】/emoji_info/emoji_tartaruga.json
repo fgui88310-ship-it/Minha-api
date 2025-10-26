@@ -1,0 +1,92 @@
+{
+  "emoji": "🐢",
+  "nome": "🐢 Tartaruga",
+  "categoria": "Turtle",
+  "url": "https://emojigraph.org/pt/turtle/",
+  "detalhes": {
+    "explicacao": "Uma tartaruga, um lento movimento de répteis, com uma concha. Descrito como uma cor verde, tartaruga no perfil virada para a esquerda, com um pescoço longo e verde.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/turtle_1f422.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/turtle_1f422.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "tartaruga"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F422;",
+      "HTML dec": "&#128034;",
+      "URL escape code": "%F0%9F%90%A2",
+      "Punycode": "xn--qo8h",
+      "Bytes (UTF-8)": "F0 9F 90 A2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC22",
+      "C, C++, Python": "\\U0001f422",
+      "CSS": "\\01F422",
+      "PHP, Ruby": "\\u{1F422}",
+      "Perl": "\\x{1F422}"
+    }
+  }
+}

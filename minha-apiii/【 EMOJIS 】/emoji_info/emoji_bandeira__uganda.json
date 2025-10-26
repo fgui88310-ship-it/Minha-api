@@ -1,0 +1,59 @@
+{
+  "emoji": "🇺🇬",
+  "nome": "🇺🇬 Bandeira: Uganda",
+  "categoria": "flag uganda",
+  "url": "https://emojigraph.org/pt/flag-uganda/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Uganda. Este símbolo é uma seqüência de caracteres 🇺 Símbolo Indicador Regional Letra U e 🇬 Símbolo Indicador Regional Letra G. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras UG em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-uganda_1f1fa-1f1ec.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-uganda_1f1fa-1f1ec.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-uganda_1f1fa-1f1ec.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-uganda_1f1fa-1f1ec.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-uganda_1f1fa-1f1ec.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-uganda_1f1fa-1f1ec.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-uganda_1f1fa-1f1ec.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-uganda_1f1fa-1f1ec.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FA;&#x1F1EC;",
+      "HTML dec": "&#127482;&#127468;",
+      "URL escape code": "%F0%9F%87%BA%F0%9F%87%AC",
+      "Punycode": "xn--k77h1a",
+      "Bytes (UTF-8)": "F0 9F 87 BA F0 9F 87 AC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFA\\uD83C\\uDDEC",
+      "C, C++, Python": "\\U0001f1fa\\U0001f1ec",
+      "CSS": "\\01F1FA \\01F1EC",
+      "PHP, Ruby": "\\u{1F1FA}\\u{1F1EC}",
+      "Perl": "\\x{1F1FA}\\x{1F1EC}"
+    }
+  }
+}

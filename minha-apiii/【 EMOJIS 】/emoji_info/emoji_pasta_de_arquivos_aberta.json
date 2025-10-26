@@ -1,0 +1,94 @@
+{
+  "emoji": "📂",
+  "nome": "📂 Pasta de arquivos aberta",
+  "categoria": "open file folder",
+  "url": "https://emojigraph.org/pt/open-file-folder/",
+  "detalhes": {
+    "explicacao": "Um pouco de abrir abas pasta, como o usado para arquivo de documentos em um armário ou como um ícone de uma pasta aberta quando utilizar um computador. A maioria das plataformas retratam uma pasta amarela, como manila, com o guia ilustrado à esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/open-file-folder_1f4c2.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/open-file-folder_1f4c2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aberta",
+      "arquivo",
+      "pasta",
+      "abrir"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4C2;",
+      "HTML dec": "&#128194;",
+      "URL escape code": "%F0%9F%93%82",
+      "Punycode": "xn--bt8h",
+      "Bytes (UTF-8)": "F0 9F 93 82",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCC2",
+      "C, C++, Python": "\\U0001f4c2",
+      "CSS": "\\01F4C2",
+      "PHP, Ruby": "\\u{1F4C2}",
+      "Perl": "\\x{1F4C2}"
+    }
+  }
+}

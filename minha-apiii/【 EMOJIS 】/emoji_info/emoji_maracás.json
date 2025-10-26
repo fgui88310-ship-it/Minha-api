@@ -1,0 +1,76 @@
+{
+  "emoji": "🪇",
+  "nome": "🪇 Maracás",
+  "categoria": "Maracas",
+  "url": "https://emojigraph.org/pt/maracas/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/maracas_1fa87.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/maracas_1fa87.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/maracas_1fa87.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/maracas_1fa87.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/maracas_1fa87.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/maracas_1fa87.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/maracas_1fa87.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/maracas_1fa87.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/maracas_1fa87.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/maracas_1fa87.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chocalho",
+      "instrumento",
+      "maracás",
+      "mexer",
+      "música",
+      "percussão",
+      "chacoalhar",
+      "dança",
+      "festa",
+      "maraca",
+      "maracas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA87;",
+      "HTML dec": "&#129671;",
+      "URL escape code": "%F0%9F%AA%87",
+      "Bytes (UTF-8)": "f0 9f aa 87",
+      "JavaScript, JSON, Java": "\\ud83e\\ude87",
+      "C, C++, Python": "\\U0001fa87",
+      "CSS": "\\01FA87",
+      "PHP, Ruby": "\\u{1FA87}",
+      "Perl": "\\x{1FA87}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇳🇨",
+  "nome": "🇳🇨 Bandeira: Nova Caledônia",
+  "categoria": "flag new caledonia",
+  "url": "https://emojigraph.org/pt/flag-new-caledonia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Nova Caledônia. Este símbolo é uma seqüência de caracteres 🇳 Símbolo Indicador Regional Letra N e 🇨 Símbolo Indicador Regional Letra C. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras NC em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-new-caledonia_1f1f3-1f1e8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-new-caledonia_1f1f3-1f1e8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-new-caledonia_1f1f3-1f1e8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-new-caledonia_1f1f3-1f1e8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-new-caledonia_1f1f3-1f1e8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-new-caledonia_1f1f3-1f1e8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-new-caledonia_1f1f3-1f1e8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-new-caledonia_1f1f3-1f1e8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F3;&#x1F1E8;",
+      "HTML dec": "&#127475;&#127464;",
+      "URL escape code": "%F0%9F%87%B3%F0%9F%87%A8",
+      "Punycode": "xn--g77hva",
+      "Bytes (UTF-8)": "F0 9F 87 B3 F0 9F 87 A8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF3\\uD83C\\uDDE8",
+      "C, C++, Python": "\\U0001f1f3\\U0001f1e8",
+      "CSS": "\\01F1F3 \\01F1E8",
+      "PHP, Ruby": "\\u{1F1F3}\\u{1F1E8}",
+      "Perl": "\\x{1F1F3}\\x{1F1E8}"
+    }
+  }
+}

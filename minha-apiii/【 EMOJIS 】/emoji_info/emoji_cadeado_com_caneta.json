@@ -1,0 +1,96 @@
+{
+  "emoji": "🔏",
+  "nome": "🔏 Cadeado com caneta",
+  "categoria": "locked with pen",
+  "url": "https://emojigraph.org/pt/locked-with-pen/",
+  "detalhes": {
+    "explicacao": "Um bloqueado (fechado) cadeado com uma caneta-tinteiro ou transferência bancária para o nib posicionada em diferentes ângulos, em frente a ela. Fornecedores de implementar o mesmo projeto como o seu 🔒 Bloqueado e o mesmo ou semelhante design como seu 🖋️ Caneta-tinteiro ou ✒️ Preto Nib.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/locked-with-pen_1f50f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/locked-with-pen_1f50f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caneta tinteiro",
+      "privacidade",
+      "cadeado",
+      "caneta",
+      "privado",
+      "tinteiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F50F;",
+      "HTML dec": "&#128271;",
+      "URL escape code": "%F0%9F%94%8F",
+      "Punycode": "xn--iv8h",
+      "Bytes (UTF-8)": "F0 9F 94 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD0F",
+      "C, C++, Python": "\\U0001f50f",
+      "CSS": "\\01F50F",
+      "PHP, Ruby": "\\u{1F50F}",
+      "Perl": "\\x{1F50F}"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "emoji": "🎽",
+  "nome": "🎽 Camiseta de corrida",
+  "categoria": "running shirt",
+  "url": "https://emojigraph.org/pt/running-shirt/",
+  "detalhes": {
+    "explicacao": "Um singleto ou executando camisa. Mostrado com uma faixa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/running-shirt_1f3bd.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/running-shirt_1f3bd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "camiseta",
+      "corrida",
+      "esporte",
+      "faixa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3BD;",
+      "HTML dec": "&#127933;",
+      "URL escape code": "%F0%9F%8E%BD",
+      "Punycode": "xn--ul8h",
+      "Bytes (UTF-8)": "F0 9F 8E BD",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFBD",
+      "C, C++, Python": "\\U0001f3bd",
+      "CSS": "\\01F3BD",
+      "PHP, Ruby": "\\u{1F3BD}",
+      "Perl": "\\x{1F3BD}"
+    }
+  }
+}

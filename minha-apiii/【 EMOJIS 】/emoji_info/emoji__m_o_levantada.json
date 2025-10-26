@@ -1,0 +1,98 @@
+{
+  "emoji": "",
+  "nome": "✋ Mão levantada",
+  "categoria": "raised hand",
+  "url": "https://emojigraph.org/pt/raised-hand/",
+  "detalhes": {
+    "explicacao": "Uma mão para cima, mostrando a sua palma. Pode ser usado para significar pare, ou como um toca aqui.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/raised-hand_270b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/raised-hand_270b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mão erguida",
+      "mão levantada",
+      "5",
+      "cinco",
+      "high five",
+      "mão",
+      "papel",
+      "pare"
+    ],
+    "codigos": {
+      "HTML hex": "&#x270B;",
+      "HTML dec": "&#9995;",
+      "URL escape code": "%E2%9C%8B",
+      "Punycode": "xn--6bi",
+      "Bytes (UTF-8)": "E2 9C 8B",
+      "JavaScript, JSON, Java": "\\u270B",
+      "C, C++, Python": "\\u270B",
+      "CSS": "\\270B",
+      "PHP, Ruby": "\\u{270B}",
+      "Perl": "\\x{270B}"
+    }
+  }
+}

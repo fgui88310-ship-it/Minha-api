@@ -1,0 +1,97 @@
+{
+  "emoji": "🎨",
+  "nome": "🎨 Paleta de tintas",
+  "categoria": "Artist Palette",
+  "url": "https://emojigraph.org/pt/artist-palette/",
+  "detalhes": {
+    "explicacao": "Uma paleta de cores usadas pelo artista ao pintar, para armazenar e misturar as cores de tinta.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/artist-palette_1f3a8.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/artist-palette_1f3a8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arte",
+      "artista",
+      "paleta",
+      "pintura",
+      "museu",
+      "pintor",
+      "tinta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3A8;",
+      "HTML dec": "&#127912;",
+      "URL escape code": "%F0%9F%8E%A8",
+      "Punycode": "xn--8k8h",
+      "Bytes (UTF-8)": "F0 9F 8E A8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFA8",
+      "C, C++, Python": "\\U0001f3a8",
+      "CSS": "\\01F3A8",
+      "PHP, Ruby": "\\u{1F3A8}",
+      "Perl": "\\x{1F3A8}"
+    }
+  }
+}

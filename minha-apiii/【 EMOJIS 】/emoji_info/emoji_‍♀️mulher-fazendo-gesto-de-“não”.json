@@ -1,0 +1,70 @@
+{
+  "emoji": "🙅",
+  "nome": "🙅‍♀️ Mulher fazendo gesto de “não”",
+  "categoria": "Woman Gesturing No",
+  "url": "https://emojigraph.org/pt/woman-gesturing-no/",
+  "detalhes": {
+    "explicacao": "Uma mulher com os braços cruzados, formando um \" X \"para indicar \"não\" ou \"não é boa''. Este movimento é usado no jogo de ''TV Deal or no Deal'' para indicar 'Deal'. De gênero neutro, mas mostrado como uma mulher na maioria das plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-gesturing-no_1f645-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-gesturing-no_1f645-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-gesturing-no_1f645-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-gesturing-no_1f645-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-gesturing-no_1f645-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-gesturing-no_1f645-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-gesturing-no_1f645-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-gesturing-no_1f645-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-gesturing-no_1f645-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-gesturing-no_1f645-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gesto",
+      "mão",
+      "mulher",
+      "proibido"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F645;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128581;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%99%85%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5hz280o",
+      "Bytes (UTF-8)": "F0 9F 99 85 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE45\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f645\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F645 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F645}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F645}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "",
+  "nome": "✨ Brilhos",
+  "categoria": "Sparkles",
+  "url": "https://emojigraph.org/pt/sparkles/",
+  "detalhes": {
+    "explicacao": "O brilho de flashes de brilhos. Geralmente retratado como um grupo de três, quatro pontos amarelos de estrelas, com um grande brilho e dois pequenos para a esquerda ou para a direita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sparkles_2728.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/sparkles_2728.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "*",
+      "brilhos",
+      "estrelas",
+      "faíscas",
+      "mágica"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2728;",
+      "HTML dec": "&#10024;",
+      "URL escape code": "%E2%9C%A8",
+      "Punycode": "xn--0ci",
+      "Bytes (UTF-8)": "E2 9C A8",
+      "JavaScript, JSON, Java": "\\u2728",
+      "C, C++, Python": "\\u2728",
+      "CSS": "\\2728",
+      "PHP, Ruby": "\\u{2728}",
+      "Perl": "\\x{2728}"
+    }
+  }
+}

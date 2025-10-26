@@ -1,0 +1,73 @@
+{
+  "emoji": "🪮",
+  "nome": "🪮 Pente de cabelo",
+  "categoria": "Hair Pick",
+  "url": "https://emojigraph.org/pt/hair-pick/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hair-pick_1faae.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hair-pick_1faae.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hair-pick_1faae.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hair-pick_1faae.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hair-pick_1faae.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hair-pick_1faae.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hair-pick_1faae.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hair-pick_1faae.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hair-pick_1faae.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/hair-pick_1faae.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "afro",
+      "cabelo",
+      "pente",
+      "pente de cabelo",
+      "retrô",
+      "crespo",
+      "pente garfo",
+      "pentear"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAAE;",
+      "HTML dec": "&#129710;",
+      "URL escape code": "%F0%9F%AA%AE",
+      "Bytes (UTF-8)": "f0 9f aa ae",
+      "JavaScript, JSON, Java": "\\ud83e\\udeae",
+      "C, C++, Python": "\\U0001faae",
+      "CSS": "\\01FAAE",
+      "PHP, Ruby": "\\u{1FAAE}",
+      "Perl": "\\x{1FAAE}"
+    }
+  }
+}

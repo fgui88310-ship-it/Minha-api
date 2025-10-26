@@ -1,0 +1,97 @@
+{
+  "emoji": "😔",
+  "nome": "😔 Rosto deprimido",
+  "categoria": "Pensive Face",
+  "url": "https://emojigraph.org/pt/pensive-face/",
+  "detalhes": {
+    "explicacao": "Um rosto pensativo e arrependido. Triste com a vida. Calmamente, considerando que as coisas deram errado. Retratado como uma cara amarela com triste, olhos fechados, sobrancelhas franzidas, e uma ligeira linha na boca.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pensive-face_1f614.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pensive-face_1f614.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "deprimido",
+      "desanimado",
+      "rosto",
+      "abatido",
+      "chateado",
+      "pensativo",
+      "pra baixo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F614;",
+      "HTML dec": "&#128532;",
+      "URL escape code": "%F0%9F%98%94",
+      "Punycode": "xn--y28h",
+      "Bytes (UTF-8)": "F0 9F 98 94",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE14",
+      "C, C++, Python": "\\U0001f614",
+      "CSS": "\\01F614",
+      "PHP, Ruby": "\\u{1F614}",
+      "Perl": "\\x{1F614}"
+    }
+  }
+}

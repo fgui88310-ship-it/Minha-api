@@ -1,0 +1,72 @@
+{
+  "emoji": "",
+  "nome": "⚖️ Balança",
+  "categoria": "balance scale",
+  "url": "https://emojigraph.org/pt/balance-scale/",
+  "detalhes": {
+    "explicacao": "Uma balança, historicamente usado para medir peso. Um símbolo da justiça, e do signo de Libra, a balança. Retratado como dois pratos de prata ou de ouro suspensos a partir de um feixe e apoiado sobre uma base.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/balance-scale_2696-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/balance-scale_2696-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/balance-scale_2696-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/balance-scale_2696-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/balance-scale_2696-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/balance-scale_2696-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/balance-scale_2696-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/balance-scale_2696-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/balance-scale_2696-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/balance-scale_2696-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balança",
+      "ferramenta",
+      "justiça",
+      "libra",
+      "peso",
+      "zodíaco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2696;&#xFE0F;",
+      "HTML dec": "&#9878;&#65039;",
+      "URL escape code": "%E2%9A%96%EF%B8%8F",
+      "Punycode": "xn--u7h",
+      "Bytes (UTF-8)": "E2 9A 96 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2696\\uFE0F",
+      "C, C++, Python": "\\u2696\\uFE0F",
+      "CSS": "\\2696 \\FE0F",
+      "PHP, Ruby": "\\u{2696}\\u{FE0F}",
+      "Perl": "\\x{2696}\\x{FE0F}"
+    }
+  }
+}

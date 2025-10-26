@@ -1,0 +1,91 @@
+{
+  "emoji": "📇",
+  "nome": "📇 Índice de cartões",
+  "categoria": "Card Index",
+  "url": "https://emojigraph.org/pt/card-index/",
+  "detalhes": {
+    "explicacao": "Um cartão de índice, como um Fichário, uma vez usado para organizar e cartões de acesso, contendo as informações pessoais ou contatos de negócios. Descrito como um preto ou cinza dispositivo de giro com um cartão de contacto apresentado, incluindo um gráfico e texto.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/card-index_1f4c7.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/card-index_1f4c7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "índice"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4C7;",
+      "HTML dec": "&#128199;",
+      "URL escape code": "%F0%9F%93%87",
+      "Punycode": "xn--gt8h",
+      "Bytes (UTF-8)": "F0 9F 93 87",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCC7",
+      "C, C++, Python": "\\U0001f4c7",
+      "CSS": "\\01F4C7",
+      "PHP, Ruby": "\\u{1F4C7}",
+      "Perl": "\\x{1F4C7}"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "emoji": "🧿",
+  "nome": "🧿 Olho grego",
+  "categoria": "nazar amulet",
+  "url": "https://emojigraph.org/pt/nazar-amulet/",
+  "detalhes": {
+    "explicacao": "Um nazar, um ''olho grego'' em forma de amuleto acreditavam proteger contra o mau-olhado, especialmente na cultura turca. Descrito como um tom rico  de azul, circular em um cordão, com um ponto preto no centro alinhsdo com branco e azul, semelhante a um olho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/nazar-amulet_1f9ff.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/nazar-amulet_1f9ff.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/nazar-amulet_1f9ff.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/nazar-amulet_1f9ff.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/nazar-amulet_1f9ff.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/nazar-amulet_1f9ff.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/nazar-amulet_1f9ff.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/nazar-amulet_1f9ff.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/nazar-amulet_1f9ff.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/nazar-amulet_1f9ff.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amuleto",
+      "mau-olhado",
+      "miçanga",
+      "nazar",
+      "olho turco",
+      "talismã",
+      "olho grego",
+      "conta",
+      "grego",
+      "olho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9FF;",
+      "HTML dec": "&#129535;",
+      "URL escape code": "%F0%9F%A7%BF",
+      "Punycode": "xn--mw9h",
+      "Bytes (UTF-8)": "F0 9F A7 BF",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDFF",
+      "C, C++, Python": "\\U0001f9ff",
+      "CSS": "\\01F9FF",
+      "PHP, Ruby": "\\u{1F9FF}",
+      "Perl": "\\x{1F9FF}"
+    }
+  }
+}

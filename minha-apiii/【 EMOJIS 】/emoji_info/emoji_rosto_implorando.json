@@ -1,0 +1,74 @@
+{
+  "emoji": "🥺",
+  "nome": "🥺 Rosto implorando",
+  "categoria": "pleading face",
+  "url": "https://emojigraph.org/pt/pleading-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com sobrancelhas franzidas, um pequeno franzir na testa, e grande olhos de \"cachorro\", como se pedisse algo. Pode também representar a adoração ou sentindo-se tocado por um gesto de amor.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pleading-face_1f97a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pleading-face_1f97a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pleading-face_1f97a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pleading-face_1f97a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pleading-face_1f97a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pleading-face_1f97a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pleading-face_1f97a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pleading-face_1f97a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pleading-face_1f97a.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/pleading-face_1f97a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "implorando",
+      "perdão",
+      "olhos grandes",
+      "por favor",
+      "por que não",
+      "pq não",
+      "rosto",
+      "triste"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F97A;",
+      "HTML dec": "&#129402;",
+      "URL escape code": "%F0%9F%A5%BA",
+      "Punycode": "xn--ts9h",
+      "Bytes (UTF-8)": "F0 9F A5 BA",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD7A",
+      "C, C++, Python": "\\U0001f97a",
+      "CSS": "\\01F97A",
+      "PHP, Ruby": "\\u{1F97A}",
+      "Perl": "\\x{1F97A}"
+    }
+  }
+}

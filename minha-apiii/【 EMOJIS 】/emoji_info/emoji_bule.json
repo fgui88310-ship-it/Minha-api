@@ -1,0 +1,57 @@
+{
+  "emoji": "🫖",
+  "nome": "🫖 Bule",
+  "categoria": "Teapot",
+  "url": "https://emojigraph.org/pt/teapot/",
+  "detalhes": {
+    "explicacao": "Uma imagem dos desenhos animados de uma panela de cerâmica que é usada para fazer a água aquecer. Freqüentemente usado em seu significado direto e como representação de alguém que está quente por fora, mas que está uma bagunça por dentro. Chá foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/teapot_1fad6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/teapot_1fad6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/teapot_1fad6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/teapot_1fad6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/teapot_1fad6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/teapot_1fad6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bebida",
+      "bule",
+      "chá",
+      "chaleira",
+      "alimento",
+      "comida",
+      "infusão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAD6;",
+      "HTML dec": "&#129750;",
+      "URL escape code": "%F0%9F%AB%96",
+      "Punycode": "xn--r29h",
+      "Bytes (UTF-8)": "F0 9F AB 96",
+      "JavaScript, JSON, Java": "\\uD83E\\uDED6",
+      "C, C++, Python": "\\U0001fad6",
+      "CSS": "\\01FAD6",
+      "PHP, Ruby": "\\u{1FAD6}",
+      "Perl": "\\x{1FAD6}"
+    }
+  }
+}

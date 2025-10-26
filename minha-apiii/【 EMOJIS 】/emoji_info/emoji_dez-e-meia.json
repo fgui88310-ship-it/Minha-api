@@ -1,0 +1,78 @@
+{
+  "emoji": "🕥",
+  "nome": "🕥 Dez e meia",
+  "categoria": "Ten Thirty",
+  "url": "https://emojigraph.org/pt/ten-thirty/",
+  "detalhes": {
+    "explicacao": "Dez e meia, foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Dez a Trinta\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ten-thirty_1f565.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ten-thirty_1f565.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ten-thirty_1f565.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ten-thirty_1f565.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ten-thirty_1f565.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ten-thirty_1f565.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ten-thirty_1f565.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ten-thirty_1f565.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ten-thirty_1f565.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ten-thirty_1f565.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ten-thirty_1f565.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ten-thirty_1f565.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "10h30",
+      "dez e meia",
+      "relógio",
+      "22h30"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F565;",
+      "HTML dec": "&#128357;",
+      "URL escape code": "%F0%9F%95%A5",
+      "Punycode": "xn--yx8h",
+      "Bytes (UTF-8)": "F0 9F 95 A5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD65",
+      "C, C++, Python": "\\U0001f565",
+      "CSS": "\\01F565",
+      "PHP, Ruby": "\\u{1F565}",
+      "Perl": "\\x{1F565}"
+    }
+  }
+}

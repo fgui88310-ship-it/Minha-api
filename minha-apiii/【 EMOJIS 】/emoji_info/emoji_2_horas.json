@@ -1,0 +1,96 @@
+{
+  "emoji": "🕑",
+  "nome": "🕑 2 horas",
+  "categoria": "two oclock",
+  "url": "https://emojigraph.org/pt/two-oclock/",
+  "detalhes": {
+    "explicacao": "Duas Horas foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio Duas Horas\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/two-oclock_1f551.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/two-oclock_1f551.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "2 horas",
+      "2h00",
+      "duas",
+      "relógio",
+      "14h",
+      "2h"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F551;",
+      "HTML dec": "&#128337;",
+      "URL escape code": "%F0%9F%95%91",
+      "Punycode": "xn--ex8h",
+      "Bytes (UTF-8)": "F0 9F 95 91",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD51",
+      "C, C++, Python": "\\U0001f551",
+      "CSS": "\\01F551",
+      "PHP, Ruby": "\\u{1F551}",
+      "Perl": "\\x{1F551}"
+    }
+  }
+}

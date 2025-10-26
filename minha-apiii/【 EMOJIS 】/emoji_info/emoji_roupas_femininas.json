@@ -1,0 +1,93 @@
+{
+  "emoji": "👚",
+  "nome": "👚 Roupas femininas",
+  "categoria": "womans clothes",
+  "url": "https://emojigraph.org/pt/womans-clothes/",
+  "detalhes": {
+    "explicacao": "Uma blusa usado por mulheres em um puro-ambiente casual.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/womans-clothes_1f45a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/womans-clothes_1f45a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "roupas",
+      "blusa rosa",
+      "camiseta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F45A;",
+      "HTML dec": "&#128090;",
+      "URL escape code": "%F0%9F%91%9A",
+      "Punycode": "xn--cq8h",
+      "Bytes (UTF-8)": "F0 9F 91 9A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC5A",
+      "C, C++, Python": "\\U0001f45a",
+      "CSS": "\\01F45A",
+      "PHP, Ruby": "\\u{1F45A}",
+      "Perl": "\\x{1F45A}"
+    }
+  }
+}

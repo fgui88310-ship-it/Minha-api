@@ -1,0 +1,69 @@
+{
+  "emoji": "🦆",
+  "nome": "🦆 Pato",
+  "categoria": "Duck",
+  "url": "https://emojigraph.org/pt/duck/",
+  "detalhes": {
+    "explicacao": "Quá! Um pato, uma das aves aquáticas com pés de pato. Representado como um macho (drakes) pato-real em perfil completamente virado para a esquerda, de pé sobre suas patas, com penas cinzentas e castanhas, um bico amarelo, e sua distinta cabeça verde.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/duck_1f986.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/duck_1f986.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/duck_1f986.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/duck_1f986.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/duck_1f986.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/duck_1f986.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/duck_1f986.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/duck_1f986.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/duck_1f986.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/duck_1f986.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pássaro",
+      "pato",
+      "animal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F986;",
+      "HTML dec": "&#129414;",
+      "URL escape code": "%F0%9F%A6%86",
+      "Punycode": "xn--5s9h",
+      "Bytes (UTF-8)": "F0 9F A6 86",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD86",
+      "C, C++, Python": "\\U0001f986",
+      "CSS": "\\01F986",
+      "PHP, Ruby": "\\u{1F986}",
+      "Perl": "\\x{1F986}"
+    }
+  }
+}

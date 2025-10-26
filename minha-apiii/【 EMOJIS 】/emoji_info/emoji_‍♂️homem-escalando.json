@@ -1,0 +1,68 @@
+{
+  "emoji": "🧗",
+  "nome": "🧗‍♂️ Homem escalando",
+  "categoria": "Man Climbing",
+  "url": "https://emojigraph.org/pt/man-climbing/",
+  "detalhes": {
+    "explicacao": "Um macho alpinista, mostrado subir uma formação rochosa. Algumas plataformas de mostrar o alpinista com um capacete, e/ou de corda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-climbing_1f9d7-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-climbing_1f9d7-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-climbing_1f9d7-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-climbing_1f9d7-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-climbing_1f9d7-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-climbing_1f9d7-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-climbing_1f9d7-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-climbing_1f9d7-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-climbing_1f9d7-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/man-climbing_1f9d7-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "escalar",
+      "homem escalando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D7;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#129495;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%A7%97%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h3212o",
+      "Bytes (UTF-8)": "F0 9F A7 97 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD7\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f9d7\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F9D7 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F9D7}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F9D7}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

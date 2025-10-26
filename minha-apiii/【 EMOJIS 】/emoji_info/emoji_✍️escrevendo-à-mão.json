@@ -1,0 +1,69 @@
+{
+  "emoji": "",
+  "nome": "✍️ Escrevendo à mão",
+  "categoria": "Writing Hand",
+  "url": "https://emojigraph.org/pt/writing-hand/",
+  "detalhes": {
+    "explicacao": "Uma mão direita segurando uma caneta ou lápis e escrever. Mostrado com uma caneta azul em todas as plataformas, exceto a Apple, que tem uma caneta preta.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/writing-hand_270d-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/writing-hand_270d-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/writing-hand_270d-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/writing-hand_270d-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/writing-hand_270d-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/writing-hand_270d-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/writing-hand_270d-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/writing-hand_270d-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/writing-hand_270d-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/writing-hand_270d-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caneta",
+      "escrevendo",
+      "mão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x270D;&#xFE0F;",
+      "HTML dec": "&#9997;&#65039;",
+      "URL escape code": "%E2%9C%8D%EF%B8%8F",
+      "Punycode": "xn--8bi",
+      "Bytes (UTF-8)": "E2 9C 8D EF B8 8F",
+      "JavaScript, JSON, Java": "\\u270D\\uFE0F",
+      "C, C++, Python": "\\u270D\\uFE0F",
+      "CSS": "\\270D \\FE0F",
+      "PHP, Ruby": "\\u{270D}\\u{FE0F}",
+      "Perl": "\\x{270D}\\x{FE0F}"
+    }
+  }
+}

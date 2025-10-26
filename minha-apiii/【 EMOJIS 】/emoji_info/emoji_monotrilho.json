@@ -1,0 +1,85 @@
+{
+  "emoji": "🚝",
+  "nome": "🚝 Monotrilho",
+  "categoria": "Monorail",
+  "url": "https://emojigraph.org/pt/monorail/",
+  "detalhes": {
+    "explicacao": "Semelhante a um trem, mas com uma única pista. Monocarris são muitas vezes encontradas em parques temáticos, ou de outros destinos turísticos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/monorail_1f69d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/monorail_1f69d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "monotrilho",
+      "veículo",
+      "trem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F69D;",
+      "HTML dec": "&#128669;",
+      "URL escape code": "%F0%9F%9A%9D",
+      "Punycode": "xn--v68h",
+      "Bytes (UTF-8)": "F0 9F 9A 9D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE9D",
+      "C, C++, Python": "\\U0001f69d",
+      "CSS": "\\01F69D",
+      "PHP, Ruby": "\\u{1F69D}",
+      "Perl": "\\x{1F69D}"
+    }
+  }
+}

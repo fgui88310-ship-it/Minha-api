@@ -1,0 +1,61 @@
+{
+  "emoji": "🪣",
+  "nome": "🪣 Balde",
+  "categoria": "Bucket",
+  "url": "https://emojigraph.org/pt/bucket/",
+  "detalhes": {
+    "explicacao": "Balde foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bucket_1faa3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bucket_1faa3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bucket_1faa3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bucket_1faa3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bucket_1faa3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bucket_1faa3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bucket_1faa3.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/bucket_1faa3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balde",
+      "barril",
+      "baldinho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAA3;",
+      "HTML dec": "&#129699;",
+      "URL escape code": "%F0%9F%AA%A3",
+      "Punycode": "xn--b19h",
+      "Bytes (UTF-8)": "F0 9F AA A3",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEA3",
+      "C, C++, Python": "\\U0001faa3",
+      "CSS": "\\01FAA3",
+      "PHP, Ruby": "\\u{1FAA3}",
+      "Perl": "\\x{1FAA3}"
+    }
+  }
+}

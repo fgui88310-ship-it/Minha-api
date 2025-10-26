@@ -1,0 +1,98 @@
+{
+  "emoji": "😱",
+  "nome": "😱 Rosto gritando de medo",
+  "categoria": "Face Screaming In Fear",
+  "url": "https://emojigraph.org/pt/face-screaming-in-fear/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, gritando de medo, representado pelos amplos olhos brancos, um longo ''som'' de boca aberta, as mãos pressionadas nas bochechas, e um azul pálido na testa, como se tivesse perdido sua cor. Sua expressão evoca Edvard Munch da icônica pintura O grito.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/face-screaming-in-fear_1f631.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/face-screaming-in-fear_1f631.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "assustado",
+      "medo",
+      "rosto",
+      "temeroso",
+      "assustada",
+      "gritando",
+      "grito",
+      "susto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F631;",
+      "HTML dec": "&#128561;",
+      "URL escape code": "%F0%9F%98%B1",
+      "Punycode": "xn--s38h",
+      "Bytes (UTF-8)": "F0 9F 98 B1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE31",
+      "C, C++, Python": "\\U0001f631",
+      "CSS": "\\01F631",
+      "PHP, Ruby": "\\u{1F631}",
+      "Perl": "\\x{1F631}"
+    }
+  }
+}

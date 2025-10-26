@@ -1,0 +1,59 @@
+{
+  "emoji": "🇬🇾",
+  "nome": "🇬🇾 Bandeira: Guiana",
+  "categoria": "flag guyana",
+  "url": "https://emojigraph.org/pt/flag-guyana/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Guiana. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇾 Símbolo Indicador Regional Letra Y. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GY em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-guyana_1f1ec-1f1fe.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-guyana_1f1ec-1f1fe.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-guyana_1f1ec-1f1fe.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-guyana_1f1ec-1f1fe.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-guyana_1f1ec-1f1fe.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-guyana_1f1ec-1f1fe.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-guyana_1f1ec-1f1fe.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-guyana_1f1ec-1f1fe.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1FE;",
+      "HTML dec": "&#127468;&#127486;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%BE",
+      "Punycode": "xn--k77heb",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 BE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDFE",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1fe",
+      "CSS": "\\01F1EC \\01F1FE",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1FE}",
+      "Perl": "\\x{1F1EC}\\x{1F1FE}"
+    }
+  }
+}

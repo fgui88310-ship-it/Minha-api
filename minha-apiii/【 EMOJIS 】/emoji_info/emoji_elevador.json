@@ -1,0 +1,55 @@
+{
+  "emoji": "🛗",
+  "nome": "🛗 Elevador",
+  "categoria": "Elevator",
+  "url": "https://emojigraph.org/pt/elevator/",
+  "detalhes": {
+    "explicacao": "Uma imagem do elevador. O elevador leva pessoas para cima e para baixo nos edifícios. É mais fácil e mais confortável comparado ao uso de um lance de escadas. Elevador foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/elevator_1f6d7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/elevator_1f6d7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/elevator_1f6d7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/elevator_1f6d7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/elevator_1f6d7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/elevator_1f6d7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade",
+      "elevador",
+      "elevar",
+      "subir",
+      "descer"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6D7;",
+      "HTML dec": "&#128727;",
+      "URL escape code": "%F0%9F%9B%97",
+      "Punycode": "xn--j88h",
+      "Bytes (UTF-8)": "F0 9F 9B 97",
+      "JavaScript, JSON, Java": "\\uD83D\\uDED7",
+      "C, C++, Python": "\\U0001f6d7",
+      "CSS": "\\01F6D7",
+      "PHP, Ruby": "\\u{1F6D7}",
+      "Perl": "\\x{1F6D7}"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "emoji": "🥸",
+  "nome": "🥸 Rosto disfarçado",
+  "categoria": "Disguised Face",
+  "url": "https://emojigraph.org/pt/disguised-face/",
+  "detalhes": {
+    "explicacao": "Um rosto sorridente usando um nariz grande e uma peça de óculos de sobrancelha. Essas parafernálias cômicas são usadas para se disfarçar. Freqüentemente usado para denotar esconder-se de alguém ou de algo. Disfarçado Face foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/disguised-face_1f978.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/disguised-face_1f978.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/disguised-face_1f978.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/disguised-face_1f978.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/disguised-face_1f978.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/disguised-face_1f978.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/disguised-face_1f978.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/disguised-face_1f978.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/disguised-face_1f978.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/disguised-face_1f978.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "disfarce",
+      "incógnito",
+      "nariz",
+      "óculos",
+      "rosto",
+      "bigode",
+      "espião",
+      "pessoa",
+      "sobrancelha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F978;",
+      "HTML dec": "&#129400;",
+      "URL escape code": "%F0%9F%A5%B8",
+      "Punycode": "xn--rs9h",
+      "Bytes (UTF-8)": "F0 9F A5 B8",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD78",
+      "C, C++, Python": "\\U0001f978",
+      "CSS": "\\01F978",
+      "PHP, Ruby": "\\u{1F978}",
+      "Perl": "\\x{1F978}"
+    }
+  }
+}

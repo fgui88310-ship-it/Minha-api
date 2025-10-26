@@ -1,0 +1,93 @@
+{
+  "emoji": "🎡",
+  "nome": "🎡 Roda gigante",
+  "categoria": "Ferris Wheel",
+  "url": "https://emojigraph.org/pt/ferris-wheel/",
+  "detalhes": {
+    "explicacao": "Um grande rotação da roda, muitas vezes encontrado em um carnaval ou justo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ferris-wheel_1f3a1.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ferris-wheel_1f3a1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "entretenimento",
+      "gigante",
+      "roda"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3A1;",
+      "HTML dec": "&#127905;",
+      "URL escape code": "%F0%9F%8E%A1",
+      "Punycode": "xn--1k8h",
+      "Bytes (UTF-8)": "F0 9F 8E A1",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFA1",
+      "C, C++, Python": "\\U0001f3a1",
+      "CSS": "\\01F3A1",
+      "PHP, Ruby": "\\u{1F3A1}",
+      "Perl": "\\x{1F3A1}"
+    }
+  }
+}

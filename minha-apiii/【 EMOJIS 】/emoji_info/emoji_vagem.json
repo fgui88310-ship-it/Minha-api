@@ -1,0 +1,75 @@
+{
+  "emoji": "🫛",
+  "nome": "🫛 Vagem",
+  "categoria": "Pea Pod",
+  "url": "https://emojigraph.org/pt/pea-pod/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pea-pod_1fadb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pea-pod_1fadb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pea-pod_1fadb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pea-pod_1fadb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pea-pod_1fadb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pea-pod_1fadb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pea-pod_1fadb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pea-pod_1fadb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pea-pod_1fadb.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/pea-pod_1fadb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "edamame",
+      "ervilha",
+      "feijão",
+      "leguminosa",
+      "vagem",
+      "vegetal",
+      "comida",
+      "grão",
+      "legume",
+      "pé de feijão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FADB;",
+      "HTML dec": "&#129755;",
+      "URL escape code": "%F0%9F%AB%9B",
+      "Bytes (UTF-8)": "f0 9f ab 9b",
+      "JavaScript, JSON, Java": "\\ud83e\\udedb",
+      "C, C++, Python": "\\U0001fadb",
+      "CSS": "\\01FADB",
+      "PHP, Ruby": "\\u{1FADB}",
+      "Perl": "\\x{1FADB}"
+    }
+  }
+}

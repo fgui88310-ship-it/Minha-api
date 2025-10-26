@@ -1,0 +1,77 @@
+{
+  "emoji": "🫷",
+  "nome": "🫷 Mão empurrando para a esquerda",
+  "categoria": "leftwards pushing hand",
+  "url": "https://emojigraph.org/pt/leftwards-pushing-hand/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/leftwards-pushing-hand_1faf7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/leftwards-pushing-hand_1faf7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/leftwards-pushing-hand_1faf7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/leftwards-pushing-hand_1faf7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/leftwards-pushing-hand_1faf7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/leftwards-pushing-hand_1faf7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/leftwards-pushing-hand_1faf7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/leftwards-pushing-hand_1faf7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/leftwards-pushing-hand_1faf7.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/leftwards-pushing-hand_1faf7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "empurrar",
+      "esperar",
+      "esquerda",
+      "parar",
+      "recusar",
+      "toca aqui",
+      "bate aqui",
+      "bloquear",
+      "high five",
+      "mão",
+      "para a esquerda",
+      "pausar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAF7;",
+      "HTML dec": "&#129783;",
+      "URL escape code": "%F0%9F%AB%B7",
+      "Bytes (UTF-8)": "f0 9f ab b7",
+      "JavaScript, JSON, Java": "\\ud83e\\udef7",
+      "C, C++, Python": "\\U0001faf7",
+      "CSS": "\\01FAF7",
+      "PHP, Ruby": "\\u{1FAF7}",
+      "Perl": "\\x{1FAF7}"
+    }
+  }
+}

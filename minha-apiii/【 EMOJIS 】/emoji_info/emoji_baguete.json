@@ -1,0 +1,71 @@
+{
+  "emoji": "🥖",
+  "nome": "🥖 Baguete",
+  "categoria": "Baguette Bread",
+  "url": "https://emojigraph.org/pt/baguette-bread/",
+  "detalhes": {
+    "explicacao": "O longa, fina de pão de baguete, com pontuação em sua marrom-dourado crosta. Um pão comumente associada com a França.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/baguette-bread_1f956.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/baguette-bread_1f956.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/baguette-bread_1f956.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/baguette-bread_1f956.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/baguette-bread_1f956.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/baguette-bread_1f956.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/baguette-bread_1f956.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/baguette-bread_1f956.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/baguette-bread_1f956.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/baguette-bread_1f956.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "baguete",
+      "bisnaga",
+      "comida",
+      "pão",
+      "pão francês"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F956;",
+      "HTML dec": "&#129366;",
+      "URL escape code": "%F0%9F%A5%96",
+      "Punycode": "xn--sr9h",
+      "Bytes (UTF-8)": "F0 9F A5 96",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD56",
+      "C, C++, Python": "\\U0001f956",
+      "CSS": "\\01F956",
+      "PHP, Ruby": "\\u{1F956}",
+      "Perl": "\\x{1F956}"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "emoji": "📧",
+  "nome": "📧 E-mail",
+  "categoria": "e mail",
+  "url": "https://emojigraph.org/pt/e-mail/",
+  "detalhes": {
+    "explicacao": "Um símbolo para o e-mail. Retratado comum envelope impresso com uma letra maiúscula E (para eletrônica) ou @ (no) sinal. Comumente usado como um ícone antes de um endereço de e-mail.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/e-mail_1f4e7.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/e-mail_1f4e7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carta",
+      "comunicação",
+      "correspondência",
+      "e-mail"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4E7;",
+      "HTML dec": "&#128231;",
+      "URL escape code": "%F0%9F%93%A7",
+      "Punycode": "xn--du8h",
+      "Bytes (UTF-8)": "F0 9F 93 A7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCE7",
+      "C, C++, Python": "\\U0001f4e7",
+      "CSS": "\\01F4E7",
+      "PHP, Ruby": "\\u{1F4E7}",
+      "Perl": "\\x{1F4E7}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "💐",
+  "nome": "💐 Buquê",
+  "categoria": "Bouquet",
+  "url": "https://emojigraph.org/pt/bouquet/",
+  "detalhes": {
+    "explicacao": "Um buquê de flores de cores vivas. Geralmente descrito como uma coleção de cor-de-rosa e flores amarelas com hastes verdes amarrados. Posicionada em diferentes ângulos, através de plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bouquet_1f490.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bouquet_1f490.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "buquê",
+      "flor",
+      "aniversário",
+      "planta",
+      "romance"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F490;",
+      "HTML dec": "&#128144;",
+      "URL escape code": "%F0%9F%92%90",
+      "Punycode": "xn--vr8h",
+      "Bytes (UTF-8)": "F0 9F 92 90",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC90",
+      "C, C++, Python": "\\U0001f490",
+      "CSS": "\\01F490",
+      "PHP, Ruby": "\\u{1F490}",
+      "Perl": "\\x{1F490}"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "emoji": "🇮🇳",
+  "nome": "🇮🇳 Bandeira: Índia",
+  "categoria": "flag india",
+  "url": "https://emojigraph.org/pt/flag-india/",
+  "detalhes": {
+    "explicacao": "A bandeira para a Índia, o que pode mostrar como as letras EM em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-india_1f1ee-1f1f3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-india_1f1ee-1f1f3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-india_1f1ee-1f1f3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-india_1f1ee-1f1f3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-india_1f1ee-1f1f3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-india_1f1ee-1f1f3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-india_1f1ee-1f1f3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-india_1f1ee-1f1f3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-india_1f1ee-1f1f3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-india_1f1ee-1f1f3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EE;&#x1F1F3;",
+      "HTML dec": "&#127470;&#127475;",
+      "URL escape code": "%F0%9F%87%AE%F0%9F%87%B3",
+      "Punycode": "xn--m77hka",
+      "Bytes (UTF-8)": "F0 9F 87 AE F0 9F 87 B3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEE\\uD83C\\uDDF3",
+      "C, C++, Python": "\\U0001f1ee\\U0001f1f3",
+      "CSS": "\\01F1EE \\01F1F3",
+      "PHP, Ruby": "\\u{1F1EE}\\u{1F1F3}",
+      "Perl": "\\x{1F1EE}\\x{1F1F3}"
+    }
+  }
+}

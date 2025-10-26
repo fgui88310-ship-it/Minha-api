@@ -1,0 +1,77 @@
+{
+  "emoji": "👁",
+  "nome": "👁️ Olho",
+  "categoria": "Eye",
+  "url": "https://emojigraph.org/pt/eye/",
+  "detalhes": {
+    "explicacao": "Um único olho humano, olhando para a frente. Este olho está em um formato diferente e estilo diferente em comparação com o par de olhos, que são mais arredondados, e olhando para um lado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/eye_1f441-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/eye_1f441-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/eye_1f441-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/eye_1f441-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/eye_1f441-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/eye_1f441-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/eye_1f441-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/eye_1f441-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/eye_1f441-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/eye_1f441-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/eye_1f441-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/eye_1f441-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "olho",
+      "parte do corpo",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F441;&#xFE0F;",
+      "HTML dec": "&#128065;&#65039;",
+      "URL escape code": "%F0%9F%91%81%EF%B8%8F",
+      "Punycode": "xn--mp8h",
+      "Bytes (UTF-8)": "F0 9F 91 81 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC41\\uFE0F",
+      "C, C++, Python": "\\U0001f441\\uFE0F",
+      "CSS": "\\01F441 \\FE0F",
+      "PHP, Ruby": "\\u{1F441}\\u{FE0F}",
+      "Perl": "\\x{1F441}\\x{FE0F}"
+    }
+  }
+}

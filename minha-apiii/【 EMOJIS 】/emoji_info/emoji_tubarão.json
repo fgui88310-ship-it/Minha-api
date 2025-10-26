@@ -1,0 +1,68 @@
+{
+  "emoji": "🦈",
+  "nome": "🦈 Tubarão",
+  "categoria": "Shark",
+  "url": "https://emojigraph.org/pt/shark/",
+  "detalhes": {
+    "explicacao": "Um tubarão grande, peixe rápido e com muitos dentes. Geralmente retratado como cinza em perfil completo virada para a esquerda, como um tigre, touro, ou o grande tubarão branco caçando na água. Mostrado com uma parte inferior branca e três brânquias, suas pontas do nariz curvando-se para baixo a uma forte barbatana dorsal longo e pontiagudo e cauda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shark_1f988.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shark_1f988.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shark_1f988.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shark_1f988.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shark_1f988.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shark_1f988.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shark_1f988.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shark_1f988.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shark_1f988.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/shark_1f988.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "peixe",
+      "tubarão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F988;",
+      "HTML dec": "&#129416;",
+      "URL escape code": "%F0%9F%A6%88",
+      "Punycode": "xn--7s9h",
+      "Bytes (UTF-8)": "F0 9F A6 88",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD88",
+      "C, C++, Python": "\\U0001f988",
+      "CSS": "\\01F988",
+      "PHP, Ruby": "\\u{1F988}",
+      "Perl": "\\x{1F988}"
+    }
+  }
+}

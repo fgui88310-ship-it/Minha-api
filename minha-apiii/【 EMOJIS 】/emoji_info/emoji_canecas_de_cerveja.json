@@ -1,0 +1,98 @@
+{
+  "emoji": "🍻",
+  "nome": "🍻 Canecas de cerveja",
+  "categoria": "clinking beer mugs",
+  "url": "https://emojigraph.org/pt/clinking-beer-mugs/",
+  "detalhes": {
+    "explicacao": "Duas canecas de cerveja gelada com espuma sendo chocadas em um brinde juntas, como feito em uma comemoração ou em brinde (\"Saúde!\"). Várias plataformas incluem linhas estilizadas para marcar o som das canecas brindando.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/clinking-beer-mugs_1f37b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/clinking-beer-mugs_1f37b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bar",
+      "caneca",
+      "canecas",
+      "cerveja",
+      "chopp",
+      "chope",
+      "Chopp",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F37B;",
+      "HTML dec": "&#127867;",
+      "URL escape code": "%F0%9F%8D%BB",
+      "Punycode": "xn--yj8h",
+      "Bytes (UTF-8)": "F0 9F 8D BB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF7B",
+      "C, C++, Python": "\\U0001f37b",
+      "CSS": "\\01F37B",
+      "PHP, Ruby": "\\u{1F37B}",
+      "Perl": "\\x{1F37B}"
+    }
+  }
+}

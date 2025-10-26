@@ -1,0 +1,73 @@
+{
+  "emoji": "🪹",
+  "nome": "🪹 Ninho vazio",
+  "categoria": "Empty Nest",
+  "url": "https://emojigraph.org/pt/empty-nest/",
+  "detalhes": {
+    "explicacao": "O ninho de pássaro vazio em forma de taça. Apesar da representação literal de um ninho, ele pode ser usado como símbolos de 🏠 a casa e segurança. A versão vazia também pode representar a \"síndrome do ninho vazio\" - um sentimento de vazio experimentado pelos pais depois que seus 🧒 crianças saíram de casa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/empty-nest_1fab9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/empty-nest_1fab9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/empty-nest_1fab9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/empty-nest_1fab9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/empty-nest_1fab9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/empty-nest_1fab9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/empty-nest_1fab9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/empty-nest_1fab9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/empty-nest_1fab9.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/empty-nest_1fab9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aninhando",
+      "ninho vazio",
+      "galhos",
+      "lar",
+      "ninho",
+      "passarinho",
+      "pássaro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAB9;",
+      "HTML dec": "&#129721;",
+      "URL escape code": "%F0%9F%AA%B9",
+      "Punycode": "xn--x19h",
+      "Bytes (UTF-8)": "f0 9f aa b9",
+      "JavaScript, JSON, Java": "\\ud83e\\udeb9",
+      "C, C++, Python": "\\U0001fab9",
+      "CSS": "\\01FAB9",
+      "PHP, Ruby": "\\u{1FAB9}",
+      "Perl": "\\x{1FAB9}"
+    }
+  }
+}

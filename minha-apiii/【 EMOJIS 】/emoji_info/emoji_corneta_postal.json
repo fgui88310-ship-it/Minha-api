@@ -1,0 +1,85 @@
+{
+  "emoji": "📯",
+  "nome": "📯 Corneta postal",
+  "categoria": "postal horn",
+  "url": "https://emojigraph.org/pt/postal-horn/",
+  "detalhes": {
+    "explicacao": "Um postal corno post (chifre). Representado como uma espiral, valveless, latão chifre, como um clarim ou trompete, com duas franjas vermelhas. Por vezes utilizado para marcar anúncios, bem como para vários conteúdos relativos a instrumentos de sopro, música, ou e-mail.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/postal-horn_1f4ef.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/postal-horn_1f4ef.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "corneta",
+      "correios",
+      "postal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4EF;",
+      "HTML dec": "&#128239;",
+      "URL escape code": "%F0%9F%93%AF",
+      "Punycode": "xn--lu8h",
+      "Bytes (UTF-8)": "F0 9F 93 AF",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCEF",
+      "C, C++, Python": "\\U0001f4ef",
+      "CSS": "\\01F4EF",
+      "PHP, Ruby": "\\u{1F4EF}",
+      "Perl": "\\x{1F4EF}"
+    }
+  }
+}

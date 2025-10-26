@@ -1,0 +1,59 @@
+{
+  "emoji": "🇮🇴",
+  "nome": "🇮🇴 Bandeira: Território Britânico do Oceano Índico",
+  "categoria": "flag british indian ocean territory",
+  "url": "https://emojigraph.org/pt/flag-british-indian-ocean-territory/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Território Britânico do Oceano Índico. Este símbolo é uma seqüência de caracteres 🇮 Símbolo Indicador Regional Letra I e 🇴 Símbolo Indicador Regional Letra O. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras IO em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-british-indian-ocean-territory_1f1ee-1f1f4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-british-indian-ocean-territory_1f1ee-1f1f4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-british-indian-ocean-territory_1f1ee-1f1f4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-british-indian-ocean-territory_1f1ee-1f1f4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-british-indian-ocean-territory_1f1ee-1f1f4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-british-indian-ocean-territory_1f1ee-1f1f4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-british-indian-ocean-territory_1f1ee-1f1f4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-british-indian-ocean-territory_1f1ee-1f1f4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EE;&#x1F1F4;",
+      "HTML dec": "&#127470;&#127476;",
+      "URL escape code": "%F0%9F%87%AE%F0%9F%87%B4",
+      "Punycode": "xn--m77hma",
+      "Bytes (UTF-8)": "F0 9F 87 AE F0 9F 87 B4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEE\\uD83C\\uDDF4",
+      "C, C++, Python": "\\U0001f1ee\\U0001f1f4",
+      "CSS": "\\01F1EE \\01F1F4",
+      "PHP, Ruby": "\\u{1F1EE}\\u{1F1F4}",
+      "Perl": "\\x{1F1EE}\\x{1F1F4}"
+    }
+  }
+}

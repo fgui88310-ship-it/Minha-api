@@ -1,0 +1,61 @@
+{
+  "emoji": "🍋",
+  "nome": "🍋‍🟩 Lima",
+  "categoria": "lime",
+  "url": "https://emojigraph.org/pt/lime/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lime_1f34b-200d-1f7e9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lime_1f34b-200d-1f7e9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lime_1f34b-200d-1f7e9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lime_1f34b-200d-1f7e9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lime_1f34b-200d-1f7e9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lime_1f34b-200d-1f7e9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acidez",
+      "caipirinha",
+      "cítrica",
+      "cítrico",
+      "drink",
+      "fruta",
+      "lima",
+      "limão",
+      "limonada",
+      "tequila",
+      "tropical",
+      "verde"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F34B;&#x200D;&#x1F7E9;",
+      "HTML dec": "&#127819;&#8205;&#129001;",
+      "URL escape code": "%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9",
+      "Bytes (UTF-8)": "f0 9f 8d 8b e2 80 8d f0 9f 9f a9",
+      "JavaScript, JSON, Java": "\\ud83c\\udf4b\\u200d\\ud83d\\udfe9",
+      "C, C++, Python": "\\U0001f34b\\u000200d\\u0001f7e9",
+      "CSS": "\\01F34B \\0200D \\01F7E9",
+      "PHP, Ruby": "\\u{1F34B}\\u{200D}\\u{1F7E9}",
+      "Perl": "\\x{1F34B}\\x{200D}\\x{1F7E9}"
+    }
+  }
+}

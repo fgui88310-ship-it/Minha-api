@@ -1,0 +1,86 @@
+{
+  "emoji": "🐋",
+  "nome": "🐋 Baleia",
+  "categoria": "Whale",
+  "url": "https://emojigraph.org/pt/whale/",
+  "detalhes": {
+    "explicacao": "Uma baleia, o maciço mamífero marinho. Geralmente retratado como uma baleia de cor azul, em perfil completo virada para a esquerda, com a sua cauda curvando-se para cima em direção à enorme boca. Mostrado com uma textura branca na parte de baixo, textura, como uma baleia-jubarte ou baleia azul.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/whale_1f40b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/whale_1f40b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "baleia",
+      "mar",
+      "oceano"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F40B;",
+      "HTML dec": "&#128011;",
+      "URL escape code": "%F0%9F%90%8B",
+      "Punycode": "xn--2n8h",
+      "Bytes (UTF-8)": "F0 9F 90 8B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC0B",
+      "C, C++, Python": "\\U0001f40b",
+      "CSS": "\\01F40B",
+      "PHP, Ruby": "\\u{1F40B}",
+      "Perl": "\\x{1F40B}"
+    }
+  }
+}

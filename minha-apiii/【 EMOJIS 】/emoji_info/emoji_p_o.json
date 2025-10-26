@@ -1,0 +1,96 @@
+{
+  "emoji": "🍞",
+  "nome": "🍞 Pão",
+  "categoria": "bread",
+  "url": "https://emojigraph.org/pt/bread/",
+  "detalhes": {
+    "explicacao": "Um pão branco ou pão de trigo, como antes ele é fatiado para brinde ou sanduíches.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bread_1f35e.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/bread_1f35e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pão",
+      "pão de forma",
+      "pão para fatiar",
+      "restaurante",
+      "torrada",
+      "tostex"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F35E;",
+      "HTML dec": "&#127838;",
+      "URL escape code": "%F0%9F%8D%9E",
+      "Punycode": "xn--4i8h",
+      "Bytes (UTF-8)": "F0 9F 8D 9E",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF5E",
+      "C, C++, Python": "\\U0001f35e",
+      "CSS": "\\01F35E",
+      "PHP, Ruby": "\\u{1F35E}",
+      "Perl": "\\x{1F35E}"
+    }
+  }
+}

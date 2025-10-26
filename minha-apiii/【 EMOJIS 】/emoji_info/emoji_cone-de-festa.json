@@ -1,0 +1,97 @@
+{
+  "emoji": "🎉",
+  "nome": "🎉 Cone de festa",
+  "categoria": "Party Popper",
+  "url": "https://emojigraph.org/pt/party-popper/",
+  "detalhes": {
+    "explicacao": "Uma cone de festa, que explode em uma chuva de confetes e serpentinas em uma celebração. Geralmente retratado como um chapéu de festa amarelo, distribuído em algumas plataformas, em um ângulo de 45°, com multicores confetes e serpentinas vinda desde a sua abertura no canto superior direito. O cone é vermelho no Twitter.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/party-popper_1f389.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/party-popper_1f389.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alegria",
+      "comemoração",
+      "cone de festa",
+      "festa",
+      "aniversário",
+      "celebrar",
+      "parabéns"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F389;",
+      "HTML dec": "&#127881;",
+      "URL escape code": "%F0%9F%8E%89",
+      "Punycode": "xn--dk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 89",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF89",
+      "C, C++, Python": "\\U0001f389",
+      "CSS": "\\01F389",
+      "PHP, Ruby": "\\u{1F389}",
+      "Perl": "\\x{1F389}"
+    }
+  }
+}

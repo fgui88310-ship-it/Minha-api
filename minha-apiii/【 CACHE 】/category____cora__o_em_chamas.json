@@ -1,0 +1,658 @@
+[
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/"
+  },
+  {
+    "nome": "😃Smileys e Emoção",
+    "href": "/pt/smileys-emotion/"
+  },
+  {
+    "nome": "🤦‍♀️Pessoas e Corpo",
+    "href": "/pt/people-body/"
+  },
+  {
+    "nome": "🐶Animais e Natureza",
+    "href": "/pt/animals-nature/"
+  },
+  {
+    "nome": "🍩Alimentação e bebida",
+    "href": "/pt/food-drink/"
+  },
+  {
+    "nome": "🚗Viagens e lugares",
+    "href": "/pt/travel-places/"
+  },
+  {
+    "nome": "🏀Atividades",
+    "href": "/pt/activities/"
+  },
+  {
+    "nome": "💎Objetos",
+    "href": "/pt/objects/"
+  },
+  {
+    "nome": "✅Símbolos",
+    "href": "/pt/symbols/"
+  },
+  {
+    "nome": "🏁Bandeiras",
+    "href": "/pt/flags/"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "❤️ Coração vermelho",
+    "href": "/pt/red-heart/"
+  },
+  {
+    "nome": "🔥 Fogo",
+    "href": "/pt/fire/"
+  },
+  {
+    "nome": "Apple",
+    "href": "/pt/apple/"
+  },
+  {
+    "nome": "Google",
+    "href": "/pt/google/"
+  },
+  {
+    "nome": "Facebook",
+    "href": "/pt/facebook/"
+  },
+  {
+    "nome": "Twitter",
+    "href": "/pt/twitter/"
+  },
+  {
+    "nome": "Samsung",
+    "href": "/pt/samsung/"
+  },
+  {
+    "nome": "Microsoft",
+    "href": "/pt/microsoft/"
+  },
+  {
+    "nome": "Whatsapp",
+    "href": "/pt/whatsapp/"
+  },
+  {
+    "nome": "Joypixels",
+    "href": "/pt/joypixels/"
+  },
+  {
+    "nome": "Openmoji",
+    "href": "/pt/openmoji/"
+  },
+  {
+    "nome": "Emojipedia",
+    "href": "/pt/emojipedia/"
+  },
+  {
+    "nome": "amor",
+    "href": "/pt/search/?q=amor&searchLang=pt"
+  },
+  {
+    "nome": "chamas",
+    "href": "/pt/search/?q=chamas&searchLang=pt"
+  },
+  {
+    "nome": "coração",
+    "href": "/pt/search/?q=coração&searchLang=pt"
+  },
+  {
+    "nome": "coração sagrado",
+    "href": "/pt/search/?q=coração sagrado&searchLang=pt"
+  },
+  {
+    "nome": "fogo",
+    "href": "/pt/search/?q=fogo&searchLang=pt"
+  },
+  {
+    "nome": "luxúria",
+    "href": "/pt/search/?q=luxúria&searchLang=pt"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "😂Rosto chorando de rir",
+    "href": "/pt/face-with-tears-of-joy/"
+  },
+  {
+    "nome": "🥰Rosto sorridente com 3 corações",
+    "href": "/pt/smiling-face-with-hearts/"
+  },
+  {
+    "nome": "🥲Rosto sorridente com lágrima",
+    "href": "/pt/smiling-face-with-tear/"
+  },
+  {
+    "nome": "🥺Rosto implorando",
+    "href": "/pt/pleading-face/"
+  },
+  {
+    "nome": "❤️‍🔥Coração em chamas",
+    "href": "/pt/heart-on-fire/"
+  },
+  {
+    "nome": "❤️Coração vermelho",
+    "href": "/pt/red-heart/"
+  },
+  {
+    "nome": "👍Polegar para cima",
+    "href": "/pt/thumbs-up/"
+  },
+  {
+    "nome": "🔥Fogo",
+    "href": "/pt/fire/"
+  },
+  {
+    "nome": "🇺🇦Bandeira: Ucrânia",
+    "href": "/pt/flag-ukraine/"
+  },
+  {
+    "nome": "🎉 Tema",
+    "href": "/pt/theme/"
+  },
+  {
+    "nome": "❤️️Ame",
+    "href": "/pt/theme/love/"
+  },
+  {
+    "nome": "😄Amigos",
+    "href": "/pt/theme/friends-sitcom/"
+  },
+  {
+    "nome": "🎂Aniversário",
+    "href": "/pt/theme/birthday/"
+  },
+  {
+    "nome": "👑Aniversário Da Rainha",
+    "href": "/pt/theme/queens-birthday/"
+  },
+  {
+    "nome": "🦃Ação De Graças",
+    "href": "/pt/theme/thanksgiving/"
+  },
+  {
+    "nome": "🦁Biologia",
+    "href": "/pt/theme/biology/"
+  },
+  {
+    "nome": "✊🏿Black Lives Matter",
+    "href": "/pt/theme/black-lives-matter/"
+  },
+  {
+    "nome": "☢️Cair",
+    "href": "/pt/theme/fallout/"
+  },
+  {
+    "nome": "🇧🇷Carnaval",
+    "href": "/pt/theme/carnaval/"
+  },
+  {
+    "nome": "🚗Carros",
+    "href": "/pt/theme/cars-movie/"
+  },
+  {
+    "nome": "👰Casamento / Casamento",
+    "href": "/pt/theme/wedding-marriage/"
+  },
+  {
+    "nome": "🎰Cassino",
+    "href": "/pt/theme/casino/"
+  },
+  {
+    "nome": "🌧Clima",
+    "href": "/pt/theme/weather/"
+  },
+  {
+    "nome": "⚽Copa Do Mundo",
+    "href": "/pt/theme/world-cup/"
+  },
+  {
+    "nome": "💕Corações",
+    "href": "/pt/theme/hearts/"
+  },
+  {
+    "nome": "🦠Coronavírus",
+    "href": "/pt/theme/coronavirus/"
+  },
+  {
+    "nome": "🏎Corridas",
+    "href": "/pt/theme/racing/"
+  },
+  {
+    "nome": "👱Dia Internacional Do Homem",
+    "href": "/pt/theme/international-mens-day/"
+  },
+  {
+    "nome": "📩Dia Internacional Sem Internet",
+    "href": "/pt/theme/international-internet-free-day/"
+  },
+  {
+    "nome": "🥤Dia Mundial Da Sobriedade E Controle Do Álcool",
+    "href": "/pt/theme/world-day-of-sobriety-and-alcohol-control/"
+  },
+  {
+    "nome": "🌎Dia Mundial Do Emoji",
+    "href": "/pt/theme/world-emoji-day/"
+  },
+  {
+    "nome": "🇦🇺Dia Da Austrália",
+    "href": "/pt/theme/australia-day/"
+  },
+  {
+    "nome": "🇺🇸Dia Da Independência",
+    "href": "/pt/theme/independence-day/"
+  },
+  {
+    "nome": "🙆‍♂️Dia Da Mentira",
+    "href": "/pt/theme/april-fools-day/"
+  },
+  {
+    "nome": "🗺️Dia Da Terra",
+    "href": "/pt/theme/earth-day/"
+  },
+  {
+    "nome": "🚴Dia Da Bicicleta",
+    "href": "/pt/theme/bicycle-day/"
+  },
+  {
+    "nome": "🤱Dia Das Mães",
+    "href": "/pt/theme/mothers-day/"
+  },
+  {
+    "nome": "⛵️Dia De Colombo",
+    "href": "/pt/theme/columbus-day/"
+  },
+  {
+    "nome": "☘️Dia De São Patricio",
+    "href": "/pt/theme/st-patricks-day/"
+  },
+  {
+    "nome": "🚬Dia De Não Fumadores",
+    "href": "/pt/theme/no-smoking-day/"
+  },
+  {
+    "nome": "🇨🇦Dia Do Canadá",
+    "href": "/pt/theme/canada-day/"
+  },
+  {
+    "nome": "⚒️Dia Do Trabalho",
+    "href": "/pt/theme/labour-day/"
+  },
+  {
+    "nome": "👨Dia Dos Pais",
+    "href": "/pt/theme/fathers-day/"
+  },
+  {
+    "nome": "💘Dia Dos Namorados",
+    "href": "/pt/theme/valentines-day/"
+  },
+  {
+    "nome": "👩Dia Internacional Da Mulher",
+    "href": "/pt/theme/international-womens-day/"
+  },
+  {
+    "nome": "🕯Diwali",
+    "href": "/pt/theme/diwali/"
+  },
+  {
+    "nome": "🎥Emoji Movie",
+    "href": "/pt/theme/emoji-movie/"
+  },
+  {
+    "nome": "👽Espaço",
+    "href": "/pt/theme/space/"
+  },
+  {
+    "nome": "🤓Faculdade",
+    "href": "/pt/theme/college/"
+  },
+  {
+    "nome": "🎉Festa",
+    "href": "/pt/theme/party/"
+  },
+  {
+    "nome": "🇨🇳Festival Do Barco-Dragão",
+    "href": "/pt/theme/dragon-boat-festival/"
+  },
+  {
+    "nome": "💪Festivus",
+    "href": "/pt/theme/festivus/"
+  },
+  {
+    "nome": "🎬Filme",
+    "href": "/pt/theme/movie/"
+  },
+  {
+    "nome": "📙Filosofia",
+    "href": "/pt/theme/philosophy/"
+  },
+  {
+    "nome": "🌠Física",
+    "href": "/pt/theme/physics/"
+  },
+  {
+    "nome": "🏃Gta",
+    "href": "/pt/theme/gta/"
+  },
+  {
+    "nome": "🌈Gay",
+    "href": "/pt/theme/gay/"
+  },
+  {
+    "nome": "🗺Geografia",
+    "href": "/pt/theme/geography/"
+  },
+  {
+    "nome": "🎓Graduação",
+    "href": "/pt/theme/graduation/"
+  },
+  {
+    "nome": "🌌Guerra Das Estrelas",
+    "href": "/pt/theme/star-wars/"
+  },
+  {
+    "nome": "❄️Guerra Dos Tronos",
+    "href": "/pt/theme/game-of-thrones/"
+  },
+  {
+    "nome": "🔥Guy Fawkes",
+    "href": "/pt/theme/guy-fawkes/"
+  },
+  {
+    "nome": "🕎Hanukkah",
+    "href": "/pt/theme/hanukkah/"
+  },
+  {
+    "nome": "🧙Harry Potter",
+    "href": "/pt/theme/harry-potter/"
+  },
+  {
+    "nome": "📖História",
+    "href": "/pt/theme/history/"
+  },
+  {
+    "nome": "🕉Holi",
+    "href": "/pt/theme/holi/"
+  },
+  {
+    "nome": "⛄Inverno",
+    "href": "/pt/theme/winter/"
+  },
+  {
+    "nome": "🤵James Bond",
+    "href": "/pt/theme/james-bond/"
+  },
+  {
+    "nome": "🏊Jogos Olímpicos",
+    "href": "/pt/theme/olympics/"
+  },
+  {
+    "nome": "🖖Jornada Nas Estrelas",
+    "href": "/pt/theme/star-trek/"
+  },
+  {
+    "nome": "📜Lei",
+    "href": "/pt/theme/law/"
+  },
+  {
+    "nome": "➗Matemática",
+    "href": "/pt/theme/math/"
+  },
+  {
+    "nome": "🕴️Matriz",
+    "href": "/pt/theme/matrix/"
+  },
+  {
+    "nome": "🧘Meditação",
+    "href": "/pt/theme/meditation/"
+  },
+  {
+    "nome": "🧱Minecraft",
+    "href": "/pt/theme/minecraft/"
+  },
+  {
+    "nome": "💪Motivação",
+    "href": "/pt/theme/motivation/"
+  },
+  {
+    "nome": "🎅Natal",
+    "href": "/pt/theme/christmas/"
+  },
+  {
+    "nome": "🎿Olimpíadas De Inverno",
+    "href": "/pt/theme/winter-olympics/"
+  },
+  {
+    "nome": "🏳️‍🌈Orgulho / Lgbtq+",
+    "href": "/pt/theme/pride/"
+  },
+  {
+    "nome": "🍂Outono",
+    "href": "/pt/theme/fall-autumn/"
+  },
+  {
+    "nome": "🌱Primavera",
+    "href": "/pt/theme/spring/"
+  },
+  {
+    "nome": "🐰Páscoa",
+    "href": "/pt/theme/easter/"
+  },
+  {
+    "nome": "🌿Quatro Vinte / 420",
+    "href": "/pt/theme/420/"
+  },
+  {
+    "nome": "☪️Ramadã",
+    "href": "/pt/theme/ramadan/"
+  },
+  {
+    "nome": "⛪️Religião",
+    "href": "/pt/theme/religion/"
+  },
+  {
+    "nome": "💊Saúde",
+    "href": "/pt/theme/health/"
+  },
+  {
+    "nome": "💏Sexo",
+    "href": "/pt/theme/sex/"
+  },
+  {
+    "nome": "🛍Sexta-Feira Preta",
+    "href": "/pt/theme/black-friday/"
+  },
+  {
+    "nome": "🕵️Sherlock",
+    "href": "/pt/theme/sherlock/"
+  },
+  {
+    "nome": "🏈Super Bowl",
+    "href": "/pt/theme/super-bowl/"
+  },
+  {
+    "nome": "🏡Trabalhar Em Casa",
+    "href": "/pt/theme/working-from-home/"
+  },
+  {
+    "nome": "☀️Verão",
+    "href": "/pt/theme/summer/"
+  },
+  {
+    "nome": "🎊Véspera De Ano Novo",
+    "href": "/pt/theme/new-years-eve/"
+  },
+  {
+    "nome": "🐉Ano Novo Chinês",
+    "href": "/pt/theme/chinese-new-year/"
+  },
+  {
+    "nome": "🇲🇽Cinco De Maio",
+    "href": "/pt/theme/cinco-de-mayo/"
+  },
+  {
+    "nome": "🇫🇷Dia Da Bastilha",
+    "href": "/pt/theme/bastille-day/"
+  },
+  {
+    "nome": "🎃Dia Das Bruxas",
+    "href": "/pt/theme/halloween/"
+  },
+  {
+    "nome": "💦Água",
+    "href": "/pt/theme/water/"
+  },
+  {
+    "nome": "Apple",
+    "href": "/pt/apple/"
+  },
+  {
+    "nome": "Google",
+    "href": "/pt/google/"
+  },
+  {
+    "nome": "Facebook",
+    "href": "/pt/facebook/"
+  },
+  {
+    "nome": "Twitter",
+    "href": "/pt/twitter/"
+  },
+  {
+    "nome": "Samsung",
+    "href": "/pt/samsung/"
+  },
+  {
+    "nome": "Microsoft",
+    "href": "/pt/microsoft/"
+  },
+  {
+    "nome": "Whatsapp",
+    "href": "/pt/whatsapp/"
+  },
+  {
+    "nome": "Messenger",
+    "href": "/pt/messenger/"
+  },
+  {
+    "nome": "Joypixels",
+    "href": "/pt/joypixels/"
+  },
+  {
+    "nome": "Openmoji",
+    "href": "/pt/openmoji/"
+  },
+  {
+    "nome": "Emojidex",
+    "href": "/pt/emojidex/"
+  },
+  {
+    "nome": "Htc",
+    "href": "/pt/htc/"
+  },
+  {
+    "nome": "Lg",
+    "href": "/pt/lg/"
+  },
+  {
+    "nome": "Mozilla",
+    "href": "/pt/mozilla/"
+  },
+  {
+    "nome": "Softbank",
+    "href": "/pt/softbank/"
+  },
+  {
+    "nome": "Au-Kddi",
+    "href": "/pt/au-kddi/"
+  },
+  {
+    "nome": "Docomo",
+    "href": "/pt/docomo/"
+  },
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/emojigraph/"
+  },
+  {
+    "nome": "Emojipedia",
+    "href": "/pt/emojipedia/"
+  },
+  {
+    "nome": "Emoji 1.0",
+    "href": "/pt/emoji-1.0/"
+  },
+  {
+    "nome": "Emoji 2.0",
+    "href": "/pt/emoji-2.0/"
+  },
+  {
+    "nome": "Emoji 3.0",
+    "href": "/pt/emoji-3.0/"
+  },
+  {
+    "nome": "Emoji 4.0",
+    "href": "/pt/emoji-4.0/"
+  },
+  {
+    "nome": "Emoji 5.0",
+    "href": "/pt/emoji-5.0/"
+  },
+  {
+    "nome": "Emoji 11.0",
+    "href": "/pt/emoji-11.0/"
+  },
+  {
+    "nome": "Emoji 12.0",
+    "href": "/pt/emoji-12.0/"
+  },
+  {
+    "nome": "Emoji 12.1",
+    "href": "/pt/emoji-12.1/"
+  },
+  {
+    "nome": "Emoji 13.0",
+    "href": "/pt/emoji-13.0/"
+  },
+  {
+    "nome": "Emoji 13.1",
+    "href": "/pt/emoji-13.1/"
+  },
+  {
+    "nome": "Emoji 14.0",
+    "href": "/pt/emoji-14.0/"
+  },
+  {
+    "nome": "Emoji 15.0",
+    "href": "/pt/emoji-15.0/"
+  },
+  {
+    "nome": "Emoji 15.1",
+    "href": "/pt/emoji-15.1/"
+  },
+  {
+    "nome": "Emoji 16.0",
+    "href": "/pt/emoji-16.0/"
+  },
+  {
+    "nome": "Política de Privacidade",
+    "href": "/pt/privacy-policy/"
+  }
+]

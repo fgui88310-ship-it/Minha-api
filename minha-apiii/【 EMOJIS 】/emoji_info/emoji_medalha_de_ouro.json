@@ -1,0 +1,72 @@
+{
+  "emoji": "🥇",
+  "nome": "🥇 Medalha de ouro",
+  "categoria": "1st place medal",
+  "url": "https://emojigraph.org/pt/1st-place-medal/",
+  "detalhes": {
+    "explicacao": "Uma medalha de ouro conectada a uma fita. Freqüentemente usado para indicar ser o melhor e merecedor de um prêmio. 1º Lugar Medalha foi aprovado como parte do Unicode 9.0 em 2016sob o nome de \"Primeiro Lugar Medalha\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/1st-place-medal_1f947.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/1st-place-medal_1f947.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/1st-place-medal_1f947.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/1st-place-medal_1f947.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/1st-place-medal_1f947.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/1st-place-medal_1f947.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/1st-place-medal_1f947.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/1st-place-medal_1f947.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/1st-place-medal_1f947.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/1st-place-medal_1f947.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "1º. lugar",
+      "medalha",
+      "medalha de ouro",
+      "ouro",
+      "vitória",
+      "1o. lugar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F947;",
+      "HTML dec": "&#129351;",
+      "URL escape code": "%F0%9F%A5%87",
+      "Punycode": "xn--dr9h",
+      "Bytes (UTF-8)": "F0 9F A5 87",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD47",
+      "C, C++, Python": "\\U0001f947",
+      "CSS": "\\01F947",
+      "PHP, Ruby": "\\u{1F947}",
+      "Perl": "\\x{1F947}"
+    }
+  }
+}

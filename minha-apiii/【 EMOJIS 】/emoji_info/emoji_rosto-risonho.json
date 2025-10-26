@@ -1,0 +1,91 @@
+{
+  "emoji": "😀",
+  "nome": "😀 Rosto risonho",
+  "categoria": "Grinning Face",
+  "url": "https://emojigraph.org/pt/grinning-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela, com simples olhos abertos e um largo, sorriso aberto, mostrando os dentes de cima e a língua em algumas plataformas. Muitas vezes transmite geral, prazer e bom ânimo ou humor.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/grinning-face_1f600.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/grinning-face_1f600.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "lol",
+      "rindo",
+      "risada",
+      "rosto",
+      "rosto risonho",
+      "engraçado",
+      "feliz",
+      "riso",
+      "sorridente"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F600;",
+      "HTML dec": "&#128512;",
+      "URL escape code": "%F0%9F%98%80",
+      "Punycode": "xn--e28h",
+      "Bytes (UTF-8)": "F0 9F 98 80",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE00",
+      "C, C++, Python": "\\U0001f600",
+      "CSS": "\\01F600",
+      "PHP, Ruby": "\\u{1F600}",
+      "Perl": "\\x{1F600}"
+    }
+  }
+}

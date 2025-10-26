@@ -1,0 +1,98 @@
+{
+  "emoji": "🙊",
+  "nome": "🙊 Macaco que não fala nada",
+  "categoria": "Speak No Evil Monkey",
+  "url": "https://emojigraph.org/pt/speak-no-evil-monkey/",
+  "detalhes": {
+    "explicacao": "O não fale o mal macaco, chamado Iwazaru (Japonês para \"não fale o mal\"), um dos Três Macacos Sábios. Descrito como marrom 🐵 Rosto de Macaco, com mãos bronzeadas ou rosadas cobrindo a boca.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/speak-no-evil-monkey_1f64a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/speak-no-evil-monkey_1f64a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boca tapada",
+      "macaco",
+      "animal",
+      "não",
+      "não posso falar",
+      "segredo",
+      "silencio",
+      "ups"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F64A;",
+      "HTML dec": "&#128586;",
+      "URL escape code": "%F0%9F%99%8A",
+      "Punycode": "xn--i48h",
+      "Bytes (UTF-8)": "F0 9F 99 8A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE4A",
+      "C, C++, Python": "\\U0001f64a",
+      "CSS": "\\01F64A",
+      "PHP, Ruby": "\\u{1F64A}",
+      "Perl": "\\x{1F64A}"
+    }
+  }
+}

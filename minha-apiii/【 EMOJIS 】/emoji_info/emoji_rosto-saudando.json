@@ -1,0 +1,79 @@
+{
+  "emoji": "🫡",
+  "nome": "🫡 Rosto saudando",
+  "categoria": "Saluting Face",
+  "url": "https://emojigraph.org/pt/saluting-face/",
+  "detalhes": {
+    "explicacao": "Um emoji de rosto amarelo com uma mão fazendo gesto de saudação. Principalmente usado para honrar ou prestar respeito.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/saluting-face_1fae1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/saluting-face_1fae1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/saluting-face_1fae1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/saluting-face_1fae1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/saluting-face_1fae1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/saluting-face_1fae1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/saluting-face_1fae1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/saluting-face_1fae1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/saluting-face_1fae1.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/saluting-face_1fae1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ensolarado",
+      "ok",
+      "rosto saudando",
+      "saudação",
+      "sim",
+      "tropas",
+      "boa sorte",
+      "exército",
+      "respeito",
+      "sim senhor",
+      "sim senhora",
+      "smiley",
+      "tropa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAE1;",
+      "HTML dec": "&#129761;",
+      "URL escape code": "%F0%9F%AB%A1",
+      "Punycode": "xn--229h",
+      "Bytes (UTF-8)": "f0 9f ab a1",
+      "JavaScript, JSON, Java": "\\ud83e\\udee1",
+      "C, C++, Python": "\\U0001fae1",
+      "CSS": "\\01FAE1",
+      "PHP, Ruby": "\\u{1FAE1}",
+      "Perl": "\\x{1FAE1}"
+    }
+  }
+}

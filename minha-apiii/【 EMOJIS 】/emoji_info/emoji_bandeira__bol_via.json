@@ -1,0 +1,59 @@
+{
+  "emoji": "🇧🇴",
+  "nome": "🇧🇴 Bandeira: Bolívia",
+  "categoria": "flag bolivia",
+  "url": "https://emojigraph.org/pt/flag-bolivia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Bolívia. Este símbolo é uma seqüência de caracteres 🇧 Símbolo Indicador Regional Letra B e 🇴 Símbolo Indicador Regional Letra O. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras BO em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-bolivia_1f1e7-1f1f4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-bolivia_1f1e7-1f1f4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-bolivia_1f1e7-1f1f4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-bolivia_1f1e7-1f1f4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-bolivia_1f1e7-1f1f4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-bolivia_1f1e7-1f1f4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-bolivia_1f1e7-1f1f4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-bolivia_1f1e7-1f1f4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1F4;",
+      "HTML dec": "&#127463;&#127476;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%B4",
+      "Punycode": "xn--f77h0a",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 B4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDF4",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1f4",
+      "CSS": "\\01F1E7 \\01F1F4",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1F4}",
+      "Perl": "\\x{1F1E7}\\x{1F1F4}"
+    }
+  }
+}

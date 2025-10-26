@@ -1,0 +1,97 @@
+{
+  "emoji": "🚩",
+  "nome": "🚩 Bandeira triangular",
+  "categoria": "triangular flag",
+  "url": "https://emojigraph.org/pt/triangular-flag/",
+  "detalhes": {
+    "explicacao": "Triangular com bandeira vermelha em um post. Mais comumente associados com o golfe, como mostra a bandeira no buraco emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/triangular-flag_1f6a9.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/triangular-flag_1f6a9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "poste",
+      "bandeira",
+      "informações",
+      "localização",
+      "triangular",
+      "vermelha",
+      "vermelho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6A9;",
+      "HTML dec": "&#128681;",
+      "URL escape code": "%F0%9F%9A%A9",
+      "Punycode": "xn--768h",
+      "Bytes (UTF-8)": "F0 9F 9A A9",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEA9",
+      "C, C++, Python": "\\U0001f6a9",
+      "CSS": "\\01F6A9",
+      "PHP, Ruby": "\\u{1F6A9}",
+      "Perl": "\\x{1F6A9}"
+    }
+  }
+}

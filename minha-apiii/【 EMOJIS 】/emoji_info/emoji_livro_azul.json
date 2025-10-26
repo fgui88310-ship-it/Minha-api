@@ -1,0 +1,95 @@
+{
+  "emoji": "📘",
+  "nome": "📘 Livro azul",
+  "categoria": "blue book",
+  "url": "https://emojigraph.org/pt/blue-book/",
+  "detalhes": {
+    "explicacao": "Fechado, azul, livro de capa dura. Comumente utilizado para vários conteúdos relativos a leitura, a escrita, a aprendizagem e a educação. Também pode ser usado como uma cor azul de destaque.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/blue-book_1f4d8.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/blue-book_1f4d8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "azul",
+      "livro",
+      "apostila azul",
+      "estudo",
+      "leitura"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4D8;",
+      "HTML dec": "&#128216;",
+      "URL escape code": "%F0%9F%93%98",
+      "Punycode": "xn--xt8h",
+      "Bytes (UTF-8)": "F0 9F 93 98",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCD8",
+      "C, C++, Python": "\\U0001f4d8",
+      "CSS": "\\01F4D8",
+      "PHP, Ruby": "\\u{1F4D8}",
+      "Perl": "\\x{1F4D8}"
+    }
+  }
+}

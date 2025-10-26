@@ -1,0 +1,96 @@
+{
+  "emoji": "🙏",
+  "nome": "🙏 Mãos juntas",
+  "categoria": "Folded Hands",
+  "url": "https://emojigraph.org/pt/folded-hands/",
+  "detalhes": {
+    "explicacao": "Duas mãos firmemente juntos, que significa please ou obrigado na cultura Japonesa. Uma alternativa comum para usar esta emoji é para a oração, usando o mesmo gesto como rezar de mãos. Raramente: um high-five.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/folded-hands_1f64f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/folded-hands_1f64f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gesto",
+      "mão",
+      "mãos juntas",
+      "reza",
+      "rezando",
+      "rezar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F64F;",
+      "HTML dec": "&#128591;",
+      "URL escape code": "%F0%9F%99%8F",
+      "Punycode": "xn--n48h",
+      "Bytes (UTF-8)": "F0 9F 99 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE4F",
+      "C, C++, Python": "\\U0001f64f",
+      "CSS": "\\01F64F",
+      "PHP, Ruby": "\\u{1F64F}",
+      "Perl": "\\x{1F64F}"
+    }
+  }
+}

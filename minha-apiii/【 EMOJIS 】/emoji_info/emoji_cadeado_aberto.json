@@ -1,0 +1,93 @@
+{
+  "emoji": "🔓",
+  "nome": "🔓 Cadeado aberto",
+  "categoria": "unlocked",
+  "url": "https://emojigraph.org/pt/unlocked/",
+  "detalhes": {
+    "explicacao": "Um desbloqueado cadeado, como usado para proteger um trinco ou a cadeia, ou como um ícone de uma ligação não segura ou online em acesso aberto. Geralmente representado com uma base de ouro e prata manilha, como um abrir 🔒 Bloqueado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/unlocked_1f513.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/unlocked_1f513.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aberto",
+      "cadeado",
+      "destrancado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F513;",
+      "HTML dec": "&#128275;",
+      "URL escape code": "%F0%9F%94%93",
+      "Punycode": "xn--mv8h",
+      "Bytes (UTF-8)": "F0 9F 94 93",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD13",
+      "C, C++, Python": "\\U0001f513",
+      "CSS": "\\01F513",
+      "PHP, Ruby": "\\u{1F513}",
+      "Perl": "\\x{1F513}"
+    }
+  }
+}

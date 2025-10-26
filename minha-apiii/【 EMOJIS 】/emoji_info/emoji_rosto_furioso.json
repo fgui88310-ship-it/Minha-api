@@ -1,0 +1,98 @@
+{
+  "emoji": "😡",
+  "nome": "😡 Rosto furioso",
+  "categoria": "pouting face",
+  "url": "https://emojigraph.org/pt/pouting-face/",
+  "detalhes": {
+    "explicacao": "O rosto vermelho, com uma expressão de raiva: franzindo o cenho, boca,olhos e sobrancelhas franzidas para baixo. Tem a mesma expressão o emoji 😠 Cara de Brava na maioria das plataformas e pode transmitir mais intensos graus de raiva, por exemplo, o ódio ou a raiva.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pouting-face_1f621.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pouting-face_1f621.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "irado",
+      "rosto",
+      "rosto furioso",
+      "rosto vermelho",
+      "zangado",
+      "bravo",
+      "furioso",
+      "vermelho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F621;",
+      "HTML dec": "&#128545;",
+      "URL escape code": "%F0%9F%98%A1",
+      "Punycode": "xn--c38h",
+      "Bytes (UTF-8)": "F0 9F 98 A1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE21",
+      "C, C++, Python": "\\U0001f621",
+      "CSS": "\\01F621",
+      "PHP, Ruby": "\\u{1F621}",
+      "Perl": "\\x{1F621}"
+    }
+  }
+}

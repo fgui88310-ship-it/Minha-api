@@ -1,0 +1,83 @@
+{
+  "emoji": "🩵",
+  "nome": "🩵 Coração azul-claro",
+  "categoria": "light blue heart",
+  "url": "https://emojigraph.org/pt/light-blue-heart/",
+  "detalhes": {
+    "explicacao": "O emoji de coração azul-claro transmite amor, carinho, amizade ou uma cor azul claro ou azul celeste.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/light-blue-heart_1fa75.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/light-blue-heart_1fa75.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/light-blue-heart_1fa75.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/light-blue-heart_1fa75.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/light-blue-heart_1fa75.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/light-blue-heart_1fa75.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/light-blue-heart_1fa75.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/light-blue-heart_1fa75.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/light-blue-heart_1fa75.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/light-blue-heart_1fa75.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "azul-claro",
+      "ciano",
+      "coração",
+      "verde-azulado",
+      "adorar",
+      "adorei",
+      "amo você",
+      "amor",
+      "azul",
+      "azul claro",
+      "cor do céu",
+      "emoção",
+      "especial",
+      "eu te amo",
+      "fofo",
+      "gostar",
+      "gostei",
+      "te amo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA75;",
+      "HTML dec": "&#129653;",
+      "URL escape code": "%F0%9F%A9%B5",
+      "Bytes (UTF-8)": "f0 9f a9 b5",
+      "JavaScript, JSON, Java": "\\ud83e\\ude75",
+      "C, C++, Python": "\\U0001fa75",
+      "CSS": "\\01FA75",
+      "PHP, Ruby": "\\u{1FA75}",
+      "Perl": "\\x{1FA75}"
+    }
+  }
+}

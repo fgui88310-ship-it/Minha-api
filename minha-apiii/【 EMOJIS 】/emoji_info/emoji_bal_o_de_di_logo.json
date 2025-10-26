@@ -1,0 +1,93 @@
+{
+  "emoji": "💬",
+  "nome": "💬 Balão de diálogo",
+  "categoria": "speech balloon",
+  "url": "https://emojigraph.org/pt/speech-balloon/",
+  "detalhes": {
+    "explicacao": "Um balão estilo-cartoon usado para representar a palavra falada em quadrinhos. Às vezes, utilizado na comunicação em apps para indicar que a outra pessoa está digitando uma mensagem.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/speech-balloon_1f4ac.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/speech-balloon_1f4ac.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balão",
+      "diálogo",
+      "engraçado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4AC;",
+      "HTML dec": "&#128172;",
+      "URL escape code": "%F0%9F%92%AC",
+      "Punycode": "xn--os8h",
+      "Bytes (UTF-8)": "F0 9F 92 AC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCAC",
+      "C, C++, Python": "\\U0001f4ac",
+      "CSS": "\\01F4AC",
+      "PHP, Ruby": "\\u{1F4AC}",
+      "Perl": "\\x{1F4AC}"
+    }
+  }
+}

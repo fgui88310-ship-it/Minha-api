@@ -1,0 +1,70 @@
+{
+  "emoji": "🗺",
+  "nome": "🗺️ Mapa-múndi",
+  "categoria": "world map",
+  "url": "https://emojigraph.org/pt/world-map/",
+  "detalhes": {
+    "explicacao": "Mapa do mundo, retangular. Geralmente retratado como um mapa de papel amassado em suas dobras, a superfície da Terra mostrada em verde e azul oceano.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/world-map_1f5fa-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/world-map_1f5fa-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/world-map_1f5fa-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/world-map_1f5fa-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/world-map_1f5fa-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/world-map_1f5fa-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/world-map_1f5fa-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/world-map_1f5fa-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/world-map_1f5fa-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/world-map_1f5fa-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "geografia",
+      "mapa",
+      "mapa-múndi",
+      "mundo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5FA;&#xFE0F;",
+      "HTML dec": "&#128506;&#65039;",
+      "URL escape code": "%F0%9F%97%BA%EF%B8%8F",
+      "Punycode": "xn--718h",
+      "Bytes (UTF-8)": "F0 9F 97 BA EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDFA\\uFE0F",
+      "C, C++, Python": "\\U0001f5fa\\uFE0F",
+      "CSS": "\\01F5FA \\FE0F",
+      "PHP, Ruby": "\\u{1F5FA}\\u{FE0F}",
+      "Perl": "\\x{1F5FA}\\x{FE0F}"
+    }
+  }
+}

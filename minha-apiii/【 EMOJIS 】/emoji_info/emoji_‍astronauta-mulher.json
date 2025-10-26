@@ -1,0 +1,69 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍🚀 Astronauta mulher",
+  "categoria": "Woman Astronaut",
+  "url": "https://emojigraph.org/pt/woman-astronaut/",
+  "detalhes": {
+    "explicacao": "Uma mulher astronauta ou cosmonauta mostrado vestindo um traje espacial e capacete.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-astronaut_1f469-200d-1f680.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-astronaut_1f469-200d-1f680.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-astronaut_1f469-200d-1f680.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-astronaut_1f469-200d-1f680.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-astronaut_1f469-200d-1f680.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-astronaut_1f469-200d-1f680.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-astronaut_1f469-200d-1f680.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-astronaut_1f469-200d-1f680.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-astronaut_1f469-200d-1f680.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-astronaut_1f469-200d-1f680.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "espaço",
+      "foguete",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F680;",
+      "HTML dec": "&#128105;&#8205;&#128640;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%9A%80",
+      "Punycode": "xn--rq8ho7a",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F 9A 80",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83D\\uDE80",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f680",
+      "CSS": "\\01F469 \\200D \\01F680",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F680}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F680}"
+    }
+  }
+}

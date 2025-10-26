@@ -1,0 +1,95 @@
+{
+  "emoji": "",
+  "nome": "⛅ Sol por trás das nuvens",
+  "categoria": "sun behind cloud",
+  "url": "https://emojigraph.org/pt/sun-behind-cloud/",
+  "detalhes": {
+    "explicacao": "Um sol amarelo metade coberto por uma nuvem branca. A posição do sol varia entre plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sun-behind-cloud_26c5.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/sun-behind-cloud_26c5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "nuvem",
+      "sol",
+      "sol com nuvens",
+      "clima",
+      "nublado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26C5;",
+      "HTML dec": "&#9925;",
+      "URL escape code": "%E2%9B%85",
+      "Punycode": "xn--68h",
+      "Bytes (UTF-8)": "E2 9B 85",
+      "JavaScript, JSON, Java": "\\u26C5",
+      "C, C++, Python": "\\u26C5",
+      "CSS": "\\26C5",
+      "PHP, Ruby": "\\u{26C5}",
+      "Perl": "\\x{26C5}"
+    }
+  }
+}

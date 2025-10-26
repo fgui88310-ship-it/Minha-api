@@ -1,0 +1,68 @@
+{
+  "emoji": "🧝",
+  "nome": "🧝‍♀️ Elfa",
+  "categoria": "Woman Elf",
+  "url": "https://emojigraph.org/pt/woman-elf/",
+  "detalhes": {
+    "explicacao": "A Mulher Elf emoji é uma sequência do 🧝 Elf e ♀ Feminino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-elf_1f9dd-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-elf_1f9dd-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-elf_1f9dd-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-elf_1f9dd-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-elf_1f9dd-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-elf_1f9dd-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-elf_1f9dd-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-elf_1f9dd-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-elf_1f9dd-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/woman-elf_1f9dd-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "duende mulher",
+      "elfa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9DD;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#129501;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A7%9D%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h5312o",
+      "Bytes (UTF-8)": "F0 9F A7 9D E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDDD\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f9dd\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F9DD \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F9DD}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F9DD}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

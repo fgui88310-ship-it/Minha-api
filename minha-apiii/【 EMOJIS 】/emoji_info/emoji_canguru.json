@@ -1,0 +1,75 @@
+{
+  "emoji": "🦘",
+  "nome": "🦘 Canguru",
+  "categoria": "Kangaroo",
+  "url": "https://emojigraph.org/pt/kangaroo/",
+  "detalhes": {
+    "explicacao": "Um canguru, um marsupial, com uma grande cauda e pernas. Representada em castanho-amarelada, em perfil completo virada para a esquerda, com grandes orelhas aguçado, mostrada tanto em repouso sobre as patas traseiras e a cauda ou pulando.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/kangaroo_1f998.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/kangaroo_1f998.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/kangaroo_1f998.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/kangaroo_1f998.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/kangaroo_1f998.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/kangaroo_1f998.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/kangaroo_1f998.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/kangaroo_1f998.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/kangaroo_1f998.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/kangaroo_1f998.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "Austrália",
+      "canguru",
+      "joey",
+      "marsupial",
+      "pula",
+      "animal",
+      "filhote",
+      "pulo",
+      "salto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F998;",
+      "HTML dec": "&#129432;",
+      "URL escape code": "%F0%9F%A6%98",
+      "Punycode": "xn--ot9h",
+      "Bytes (UTF-8)": "F0 9F A6 98",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD98",
+      "C, C++, Python": "\\U0001f998",
+      "CSS": "\\01F998",
+      "PHP, Ruby": "\\u{1F998}",
+      "Perl": "\\x{1F998}"
+    }
+  }
+}

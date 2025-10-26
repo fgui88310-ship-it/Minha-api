@@ -1,0 +1,83 @@
+{
+  "emoji": "🇬🇧",
+  "nome": "🇬🇧 Bandeira: Reino Unido",
+  "categoria": "flag united kingdom",
+  "url": "https://emojigraph.org/pt/flag-united-kingdom/",
+  "detalhes": {
+    "explicacao": "A bandeira para o Reino Unido da Grã-Bretanha, o que pode mostrar como as letras GB em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/flag-united-kingdom_1f1ec-1f1e7.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/flag-united-kingdom_1f1ec-1f1e7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1E7;",
+      "HTML dec": "&#127468;&#127463;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%A7",
+      "Punycode": "xn--f77hja",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 A7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDE7",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1e7",
+      "CSS": "\\01F1EC \\01F1E7",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1E7}",
+      "Perl": "\\x{1F1EC}\\x{1F1E7}"
+    }
+  }
+}

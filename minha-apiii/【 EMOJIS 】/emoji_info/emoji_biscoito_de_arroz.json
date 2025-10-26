@@ -1,0 +1,92 @@
+{
+  "emoji": "🍘",
+  "nome": "🍘 Biscoito de arroz",
+  "categoria": "rice cracker",
+  "url": "https://emojigraph.org/pt/rice-cracker/",
+  "detalhes": {
+    "explicacao": "Um Japonês senbei, ou bolacha de arroz, envolveu-a com uma folha de nori, ou de algas, um snack-comumente apreciado com chá verde.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/rice-cracker_1f358.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/rice-cracker_1f358.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arroz",
+      "cracker"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F358;",
+      "HTML dec": "&#127832;",
+      "URL escape code": "%F0%9F%8D%98",
+      "Punycode": "xn--yi8h",
+      "Bytes (UTF-8)": "F0 9F 8D 98",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF58",
+      "C, C++, Python": "\\U0001f358",
+      "CSS": "\\01F358",
+      "PHP, Ruby": "\\u{1F358}",
+      "Perl": "\\x{1F358}"
+    }
+  }
+}

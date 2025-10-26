@@ -1,0 +1,70 @@
+{
+  "emoji": "🌫",
+  "nome": "🌫️ Neblina",
+  "categoria": "fog",
+  "url": "https://emojigraph.org/pt/fog/",
+  "detalhes": {
+    "explicacao": "De nevoeiro, como obscurece a visibilidade. Geralmente representado como um quadrado de um cinzento, nublado, nuvem, como a massa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fog_1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fog_1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fog_1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fog_1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fog_1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fog_1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fog_1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fog_1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fog_1f32b-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fog_1f32b-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "clima",
+      "furacão",
+      "neblina",
+      "nuvem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F32B;&#xFE0F;",
+      "HTML dec": "&#127787;&#65039;",
+      "URL escape code": "%F0%9F%8C%AB%EF%B8%8F",
+      "Punycode": "xn--oh8h",
+      "Bytes (UTF-8)": "F0 9F 8C AB EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF2B\\uFE0F",
+      "C, C++, Python": "\\U0001f32b\\uFE0F",
+      "CSS": "\\01F32B \\FE0F",
+      "PHP, Ruby": "\\u{1F32B}\\u{FE0F}",
+      "Perl": "\\x{1F32B}\\x{FE0F}"
+    }
+  }
+}

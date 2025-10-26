@@ -1,0 +1,76 @@
+{
+  "emoji": "🥶",
+  "nome": "🥶 Rosto gelado",
+  "categoria": "Cold Face",
+  "url": "https://emojigraph.org/pt/cold-face/",
+  "detalhes": {
+    "explicacao": "Um rosto azul com dentes rangendo, geralmente representado com pingentes flocos de neve junto às suas bochechas ou mandíbula, como se congelados de frio extremo. Também pode representar frieza.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cold-face_1f976.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cold-face_1f976.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cold-face_1f976.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cold-face_1f976.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cold-face_1f976.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cold-face_1f976.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cold-face_1f976.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cold-face_1f976.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cold-face_1f976.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/cold-face_1f976.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "congelando",
+      "frio",
+      "gélido",
+      "glacial",
+      "rosto gelado",
+      "abaixo de zero",
+      "congelei",
+      "rosto",
+      "rosto azul",
+      "roxo de frio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F976;",
+      "HTML dec": "&#129398;",
+      "URL escape code": "%F0%9F%A5%B6",
+      "Punycode": "xn--ps9h",
+      "Bytes (UTF-8)": "F0 9F A5 B6",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD76",
+      "C, C++, Python": "\\U0001f976",
+      "CSS": "\\01F976",
+      "PHP, Ruby": "\\u{1F976}",
+      "Perl": "\\x{1F976}"
+    }
+  }
+}

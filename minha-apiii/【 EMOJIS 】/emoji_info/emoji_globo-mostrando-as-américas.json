@@ -1,0 +1,85 @@
+{
+  "emoji": "🌎",
+  "nome": "🌎 Globo mostrando as Américas",
+  "categoria": "Globe Showing Americas",
+  "url": "https://emojigraph.org/pt/globe-showing-americas/",
+  "detalhes": {
+    "explicacao": "Um globo, mostrando os continentes da américa do Norte, América do Sul, em verde contra azul do oceano.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/globe-showing-americas_1f30e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/globe-showing-americas_1f30e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "América",
+      "as Américas",
+      "Terra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F30E;",
+      "HTML dec": "&#127758;",
+      "URL escape code": "%F0%9F%8C%8E",
+      "Punycode": "xn--ug8h",
+      "Bytes (UTF-8)": "F0 9F 8C 8E",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF0E",
+      "C, C++, Python": "\\U0001f30e",
+      "CSS": "\\01F30E",
+      "PHP, Ruby": "\\u{1F30E}",
+      "Perl": "\\x{1F30E}"
+    }
+  }
+}

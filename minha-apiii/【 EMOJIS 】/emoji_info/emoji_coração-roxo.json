@@ -1,0 +1,95 @@
+{
+  "emoji": "💜",
+  "nome": "💜 Coração roxo",
+  "categoria": "Purple Heart",
+  "url": "https://emojigraph.org/pt/purple-heart/",
+  "detalhes": {
+    "explicacao": "Um coração roxo emoji. Mostrado como cor-de-rosa no Android 4.4.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/purple-heart_1f49c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/purple-heart_1f49c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coração",
+      "emoção",
+      "roxo",
+      "coração lilás",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F49C;",
+      "HTML dec": "&#128156;",
+      "URL escape code": "%F0%9F%92%9C",
+      "Punycode": "xn--7r8h",
+      "Bytes (UTF-8)": "F0 9F 92 9C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC9C",
+      "C, C++, Python": "\\U0001f49c",
+      "CSS": "\\01F49C",
+      "PHP, Ruby": "\\u{1F49C}",
+      "Perl": "\\x{1F49C}"
+    }
+  }
+}

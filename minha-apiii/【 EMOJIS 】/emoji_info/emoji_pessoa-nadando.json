@@ -1,0 +1,95 @@
+{
+  "emoji": "🏊",
+  "nome": "🏊 Pessoa nadando",
+  "categoria": "Person Swimming",
+  "url": "https://emojigraph.org/pt/person-swimming/",
+  "detalhes": {
+    "explicacao": "Uma pessoa nadando em uma piscina, o mar, ou outro corpo de água. Faltou óculos em versões anteriores do iOS.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-swimming_1f3ca.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-swimming_1f3ca.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esporte",
+      "nadar",
+      "pessoa nadando",
+      "natação",
+      "triatlo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3CA;",
+      "HTML dec": "&#127946;",
+      "URL escape code": "%F0%9F%8F%8A",
+      "Punycode": "xn--7l8h",
+      "Bytes (UTF-8)": "F0 9F 8F 8A",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFCA",
+      "C, C++, Python": "\\U0001f3ca",
+      "CSS": "\\01F3CA",
+      "PHP, Ruby": "\\u{1F3CA}",
+      "Perl": "\\x{1F3CA}"
+    }
+  }
+}

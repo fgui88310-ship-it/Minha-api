@@ -1,0 +1,75 @@
+{
+  "emoji": "🙃",
+  "nome": "🙃 Rosto de cabeça para baixo",
+  "categoria": "Upside Down Face",
+  "url": "https://emojigraph.org/pt/upside-down-face/",
+  "detalhes": {
+    "explicacao": "Um clássico sorriso, virado de cabeça para baixo. Implementado como uma versão invertida de 🙂 Ligeiramente Sorridente na maioria das plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/upside-down-face_1f643.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/upside-down-face_1f643.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/upside-down-face_1f643.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/upside-down-face_1f643.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/upside-down-face_1f643.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/upside-down-face_1f643.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/upside-down-face_1f643.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/upside-down-face_1f643.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/upside-down-face_1f643.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/upside-down-face_1f643.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/upside-down-face_1f643.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/upside-down-face_1f643.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto invertido"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F643;",
+      "HTML dec": "&#128579;",
+      "URL escape code": "%F0%9F%99%83",
+      "Punycode": "xn--b48h",
+      "Bytes (UTF-8)": "F0 9F 99 83",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE43",
+      "C, C++, Python": "\\U0001f643",
+      "CSS": "\\01F643",
+      "PHP, Ruby": "\\u{1F643}",
+      "Perl": "\\x{1F643}"
+    }
+  }
+}

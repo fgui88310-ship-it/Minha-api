@@ -1,0 +1,67 @@
+{
+  "emoji": "🇵🇹",
+  "nome": "🇵🇹 Bandeira: Portugal",
+  "categoria": "flag portugal",
+  "url": "https://emojigraph.org/pt/flag-portugal/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Portugal. Este símbolo é uma seqüência de caracteres 🇵 Símbolo Indicador Regional Letra P e 🇹 Símbolo Indicador Regional Letra T. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras PT em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-portugal_1f1f5-1f1f9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-portugal_1f1f5-1f1f9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-portugal_1f1f5-1f1f9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-portugal_1f1f5-1f1f9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-portugal_1f1f5-1f1f9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-portugal_1f1f5-1f1f9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-portugal_1f1f5-1f1f9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-portugal_1f1f5-1f1f9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-portugal_1f1f5-1f1f9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-portugal_1f1f5-1f1f9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F5;&#x1F1F9;",
+      "HTML dec": "&#127477;&#127481;",
+      "URL escape code": "%F0%9F%87%B5%F0%9F%87%B9",
+      "Punycode": "xn--t77hia",
+      "Bytes (UTF-8)": "F0 9F 87 B5 F0 9F 87 B9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF5\\uD83C\\uDDF9",
+      "C, C++, Python": "\\U0001f1f5\\U0001f1f9",
+      "CSS": "\\01F1F5 \\01F1F9",
+      "PHP, Ruby": "\\u{1F1F5}\\u{1F1F9}",
+      "Perl": "\\x{1F1F5}\\x{1F1F9}"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "emoji": "👎",
+  "nome": "👎 Polegar para baixo",
+  "categoria": "Thumbs Down",
+  "url": "https://emojigraph.org/pt/thumbs-down/",
+  "detalhes": {
+    "explicacao": "Polegar para baixo gesto indicando reprovação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/thumbs-down_1f44e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/thumbs-down_1f44e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dedão",
+      "mão",
+      "para baixo",
+      "sinal",
+      "desaprovação",
+      "desaprovado",
+      "não",
+      "não gostei",
+      "ruim"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F44E;",
+      "HTML dec": "&#128078;",
+      "URL escape code": "%F0%9F%91%8E",
+      "Punycode": "xn--zp8h",
+      "Bytes (UTF-8)": "F0 9F 91 8E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC4E",
+      "C, C++, Python": "\\U0001f44e",
+      "CSS": "\\01F44E",
+      "PHP, Ruby": "\\u{1F44E}",
+      "Perl": "\\x{1F44E}"
+    }
+  }
+}

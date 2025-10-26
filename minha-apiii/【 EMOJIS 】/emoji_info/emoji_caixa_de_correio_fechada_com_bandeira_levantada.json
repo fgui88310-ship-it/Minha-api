@@ -1,0 +1,96 @@
+{
+  "emoji": "📫",
+  "nome": "📫 Caixa de correio fechada com bandeira levantada",
+  "categoria": "closed mailbox with raised flag",
+  "url": "https://emojigraph.org/pt/closed-mailbox-with-raised-flag/",
+  "detalhes": {
+    "explicacao": "Uma calçada de caixa de correio (caixa de correio, caixa de correio) com a porta fechada fechada, e o sinal de bandeira levantada. Geralmente representadas em azul ou cinza, com uma bandeira vermelha. Utilizado para vários conteúdos relativos a envios postais e de e-mail.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/closed-mailbox-with-raised-flag_1f4eb.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/closed-mailbox-with-raised-flag_1f4eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira",
+      "correspondência",
+      "fechada",
+      "caixa",
+      "correio",
+      "levantada"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4EB;",
+      "HTML dec": "&#128235;",
+      "URL escape code": "%F0%9F%93%AB",
+      "Punycode": "xn--hu8h",
+      "Bytes (UTF-8)": "F0 9F 93 AB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCEB",
+      "C, C++, Python": "\\U0001f4eb",
+      "CSS": "\\01F4EB",
+      "PHP, Ruby": "\\u{1F4EB}",
+      "Perl": "\\x{1F4EB}"
+    }
+  }
+}

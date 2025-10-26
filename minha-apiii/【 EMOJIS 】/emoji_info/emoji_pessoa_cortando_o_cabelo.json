@@ -1,0 +1,95 @@
+{
+  "emoji": "💇",
+  "nome": "💇 Pessoa cortando o cabelo",
+  "categoria": "person getting haircut",
+  "url": "https://emojigraph.org/pt/person-getting-haircut/",
+  "detalhes": {
+    "explicacao": "Uma pessoa em processo de obtenção do seu corte de cabelo. Este emoji destina-se a ser de gênero neutro, mas normalmente é mostrado como uma menina ou mulher sorrindo, com uma tesoura mostrado aberto ao lado da de cabelo na cabeça.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-getting-haircut_1f487.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-getting-haircut_1f487.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "beleza",
+      "corte de cabelo",
+      "salão",
+      "salão de beleza",
+      "pessoa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F487;",
+      "HTML dec": "&#128135;",
+      "URL escape code": "%F0%9F%92%87",
+      "Punycode": "xn--mr8h",
+      "Bytes (UTF-8)": "F0 9F 92 87",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC87",
+      "C, C++, Python": "\\U0001f487",
+      "CSS": "\\01F487",
+      "PHP, Ruby": "\\u{1F487}",
+      "Perl": "\\x{1F487}"
+    }
+  }
+}

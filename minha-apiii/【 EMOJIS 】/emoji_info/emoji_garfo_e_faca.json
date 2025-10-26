@@ -1,0 +1,101 @@
+{
+  "emoji": "🍴",
+  "nome": "🍴 Garfo e faca",
+  "categoria": "fork and knife",
+  "url": "https://emojigraph.org/pt/fork-and-knife/",
+  "detalhes": {
+    "explicacao": "Um garfo de prata para a esquerda de uma faca, faqueiro ou talheres usados para comer uma refeição. Muitas vezes usado mais genericamente para comer e jantar. Pode ser emparelhado com uma Colher ou com Garfo e Faca Com a Placa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fork-and-knife_1f374.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/fork-and-knife_1f374.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "faca",
+      "garfo",
+      "garfo e faca",
+      "talher",
+      "almoço",
+      "comer",
+      "comida",
+      "fome",
+      "jantar",
+      "restaurante",
+      "talheres"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F374;",
+      "HTML dec": "&#127860;",
+      "URL escape code": "%F0%9F%8D%B4",
+      "Punycode": "xn--rj8h",
+      "Bytes (UTF-8)": "F0 9F 8D B4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF74",
+      "C, C++, Python": "\\U0001f374",
+      "CSS": "\\01F374",
+      "PHP, Ruby": "\\u{1F374}",
+      "Perl": "\\x{1F374}"
+    }
+  }
+}

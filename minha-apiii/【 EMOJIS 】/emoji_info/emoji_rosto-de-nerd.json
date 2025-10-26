@@ -1,0 +1,85 @@
+{
+  "emoji": "🤓",
+  "nome": "🤓 Rosto de nerd",
+  "categoria": "Nerd Face",
+  "url": "https://emojigraph.org/pt/nerd-face/",
+  "detalhes": {
+    "explicacao": "Um amarelo, sorrindo com espessura, aro preto, óculos e buck dentes na maioria das plataformas. Estilo depois de um estereótipo do nerd, com buck dentes uma caricatura racista, historicamente, zombando do Leste asiático. Alguns apresentam branco-gravado óculos, outro nerd tropo. O sorriso e os óculos variam entre plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/nerd-face_1f913.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/nerd-face_1f913.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/nerd-face_1f913.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/nerd-face_1f913.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/nerd-face_1f913.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/nerd-face_1f913.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/nerd-face_1f913.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/nerd-face_1f913.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/nerd-face_1f913.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/nerd-face_1f913.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/nerd-face_1f913.png"
+      },
+      {
+        "plataforma": "Emojigraph",
+        "urlImagem": "/media/emojigraph/nerd-face_1f913.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cdf",
+      "estudioso",
+      "nerd",
+      "rosto de nerd",
+      "sabe-tudo",
+      "esperto",
+      "inteligência",
+      "inteligente",
+      "óculos",
+      "óculos de grau",
+      "sabe tudo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F913;",
+      "HTML dec": "&#129299;",
+      "URL escape code": "%F0%9F%A4%93",
+      "Punycode": "xn--vp9h",
+      "Bytes (UTF-8)": "F0 9F A4 93",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD13",
+      "C, C++, Python": "\\U0001f913",
+      "CSS": "\\01F913",
+      "PHP, Ruby": "\\u{1F913}",
+      "Perl": "\\x{1F913}"
+    }
+  }
+}

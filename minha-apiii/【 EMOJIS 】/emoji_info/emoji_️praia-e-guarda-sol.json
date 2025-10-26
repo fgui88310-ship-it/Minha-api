@@ -1,0 +1,68 @@
+{
+  "emoji": "🏖",
+  "nome": "🏖️ Praia e guarda-sol",
+  "categoria": "Beach With Umbrella",
+  "url": "https://emojigraph.org/pt/beach-with-umbrella/",
+  "detalhes": {
+    "explicacao": "Uma praia mostrando a areia, e um guarda-chuva para se proteger do sol.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/beach-with-umbrella_1f3d6-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/beach-with-umbrella_1f3d6-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/beach-with-umbrella_1f3d6-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/beach-with-umbrella_1f3d6-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/beach-with-umbrella_1f3d6-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/beach-with-umbrella_1f3d6-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/beach-with-umbrella_1f3d6-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/beach-with-umbrella_1f3d6-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/beach-with-umbrella_1f3d6-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/beach-with-umbrella_1f3d6-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "guarda-sol",
+      "praia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3D6;&#xFE0F;",
+      "HTML dec": "&#127958;&#65039;",
+      "URL escape code": "%F0%9F%8F%96%EF%B8%8F",
+      "Punycode": "xn--km8h",
+      "Bytes (UTF-8)": "F0 9F 8F 96 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFD6\\uFE0F",
+      "C, C++, Python": "\\U0001f3d6\\uFE0F",
+      "CSS": "\\01F3D6 \\FE0F",
+      "PHP, Ruby": "\\u{1F3D6}\\u{FE0F}",
+      "Perl": "\\x{1F3D6}\\x{FE0F}"
+    }
+  }
+}

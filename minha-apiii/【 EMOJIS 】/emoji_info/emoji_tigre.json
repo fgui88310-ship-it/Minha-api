@@ -1,0 +1,84 @@
+{
+  "emoji": "🐅",
+  "nome": "🐅 Tigre",
+  "categoria": "Tiger",
+  "url": "https://emojigraph.org/pt/tiger/",
+  "detalhes": {
+    "explicacao": "Um tigre, um grande gato com um casaco laranja e preto de listras. Retratado no perfil completo em todos os fours virada para a esquerda, com uma longa cauda, os seus distintos listras, e, em algumas plataformas, manchas brancas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tiger_1f405.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tiger_1f405.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "tigre"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F405;",
+      "HTML dec": "&#128005;",
+      "URL escape code": "%F0%9F%90%85",
+      "Punycode": "xn--wn8h",
+      "Bytes (UTF-8)": "F0 9F 90 85",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC05",
+      "C, C++, Python": "\\U0001f405",
+      "CSS": "\\01F405",
+      "PHP, Ruby": "\\u{1F405}",
+      "Perl": "\\x{1F405}"
+    }
+  }
+}

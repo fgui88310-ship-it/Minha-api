@@ -1,0 +1,71 @@
+{
+  "emoji": "🏓",
+  "nome": "🏓 Pingue-pongue",
+  "categoria": "ping pong",
+  "url": "https://emojigraph.org/pt/ping-pong/",
+  "detalhes": {
+    "explicacao": "Uma pá e bola de ping pong usado no esporte de tênis de mesa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ping-pong_1f3d3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ping-pong_1f3d3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ping-pong_1f3d3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ping-pong_1f3d3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ping-pong_1f3d3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ping-pong_1f3d3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ping-pong_1f3d3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ping-pong_1f3d3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ping-pong_1f3d3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ping-pong_1f3d3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mesa",
+      "pingue-pongue",
+      "raquete",
+      "tênis de mesa",
+      "pingpong"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3D3;",
+      "HTML dec": "&#127955;",
+      "URL escape code": "%F0%9F%8F%93",
+      "Punycode": "xn--hm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 93",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFD3",
+      "C, C++, Python": "\\U0001f3d3",
+      "CSS": "\\01F3D3",
+      "PHP, Ruby": "\\u{1F3D3}",
+      "Perl": "\\x{1F3D3}"
+    }
+  }
+}

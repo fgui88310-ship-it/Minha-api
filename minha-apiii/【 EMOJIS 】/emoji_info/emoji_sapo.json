@@ -1,0 +1,94 @@
+{
+  "emoji": "🐸",
+  "nome": "🐸 Sapo",
+  "categoria": "Frog",
+  "url": "https://emojigraph.org/pt/frog/",
+  "detalhes": {
+    "explicacao": "A cara de um sapo, o hopping de anfíbios. Geralmente retratado como um amistoso, desenhos animados e de estilo, a luz-verde-sapo olhando diretamente para a frente, com os olhos grandes, abra ligeiramente a boca e narinas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/frog_1f438.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/frog_1f438.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/frog_1f438.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/frog_1f438.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/frog_1f438.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/frog_1f438.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/frog_1f438.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/frog_1f438.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/frog_1f438.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/frog_1f438.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/frog_1f438.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/frog_1f438.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/frog_1f438.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/frog_1f438.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/frog_1f438.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/frog_1f438.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "rosto",
+      "rosto de sapo",
+      "sapo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F438;",
+      "HTML dec": "&#128056;",
+      "URL escape code": "%F0%9F%90%B8",
+      "Punycode": "xn--dp8h",
+      "Bytes (UTF-8)": "F0 9F 90 B8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC38",
+      "C, C++, Python": "\\U0001f438",
+      "CSS": "\\01F438",
+      "PHP, Ruby": "\\u{1F438}",
+      "Perl": "\\x{1F438}"
+    }
+  }
+}

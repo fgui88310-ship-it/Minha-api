@@ -1,0 +1,69 @@
+{
+  "emoji": "🗯",
+  "nome": "🗯️ Balão de raiva à direita",
+  "categoria": "Right Anger Bubble",
+  "url": "https://emojigraph.org/pt/right-anger-bubble/",
+  "detalhes": {
+    "explicacao": "Uma forma de balão de fala utilizado com bordas angulares, usado para indicar a fala rude em quadrinhos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/right-anger-bubble_1f5ef-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/right-anger-bubble_1f5ef-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/right-anger-bubble_1f5ef-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/right-anger-bubble_1f5ef-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/right-anger-bubble_1f5ef-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/right-anger-bubble_1f5ef-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/right-anger-bubble_1f5ef-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/right-anger-bubble_1f5ef-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/right-anger-bubble_1f5ef-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/right-anger-bubble_1f5ef-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "enérgico",
+      "irado",
+      "raiva"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5EF;&#xFE0F;",
+      "HTML dec": "&#128495;&#65039;",
+      "URL escape code": "%F0%9F%97%AF%EF%B8%8F",
+      "Punycode": "xn--w18h",
+      "Bytes (UTF-8)": "F0 9F 97 AF EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDEF\\uFE0F",
+      "C, C++, Python": "\\U0001f5ef\\uFE0F",
+      "CSS": "\\01F5EF \\FE0F",
+      "PHP, Ruby": "\\u{1F5EF}\\u{FE0F}",
+      "Perl": "\\x{1F5EF}\\x{FE0F}"
+    }
+  }
+}

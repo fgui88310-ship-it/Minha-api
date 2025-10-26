@@ -1,0 +1,67 @@
+{
+  "emoji": "🇸🇾",
+  "nome": "🇸🇾 Bandeira: Síria",
+  "categoria": "flag syria",
+  "url": "https://emojigraph.org/pt/flag-syria/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Síria. Este símbolo é uma seqüência de caracteres 🇸 Símbolo Indicador Regional Letra S e 🇾 Símbolo Indicador Regional Letra Y. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras SY em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-syria_1f1f8-1f1fe.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-syria_1f1f8-1f1fe.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-syria_1f1f8-1f1fe.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-syria_1f1f8-1f1fe.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-syria_1f1f8-1f1fe.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-syria_1f1f8-1f1fe.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-syria_1f1f8-1f1fe.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-syria_1f1f8-1f1fe.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-syria_1f1f8-1f1fe.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-syria_1f1f8-1f1fe.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F8;&#x1F1FE;",
+      "HTML dec": "&#127480;&#127486;",
+      "URL escape code": "%F0%9F%87%B8%F0%9F%87%BE",
+      "Punycode": "xn--w77hma",
+      "Bytes (UTF-8)": "F0 9F 87 B8 F0 9F 87 BE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF8\\uD83C\\uDDFE",
+      "C, C++, Python": "\\U0001f1f8\\U0001f1fe",
+      "CSS": "\\01F1F8 \\01F1FE",
+      "PHP, Ruby": "\\u{1F1F8}\\u{1F1FE}",
+      "Perl": "\\x{1F1F8}\\x{1F1FE}"
+    }
+  }
+}

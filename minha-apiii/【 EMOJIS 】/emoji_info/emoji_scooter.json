@@ -1,0 +1,71 @@
+{
+  "emoji": "🛵",
+  "nome": "🛵 Scooter",
+  "categoria": "Motor Scooter",
+  "url": "https://emojigraph.org/pt/motor-scooter/",
+  "detalhes": {
+    "explicacao": "Um scooter do motor, que pode ser exibido como qualquer tipo de moto, com ou sem um passo-a-frame. Distinta da moto de corrida, que é usado para o esporte, não de transporte.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/motor-scooter_1f6f5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/motor-scooter_1f6f5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/motor-scooter_1f6f5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/motor-scooter_1f6f5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/motor-scooter_1f6f5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/motor-scooter_1f6f5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/motor-scooter_1f6f5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/motor-scooter_1f6f5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/motor-scooter_1f6f5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/motor-scooter_1f6f5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "moto",
+      "scooter",
+      "monareta",
+      "motinho",
+      "motoca"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6F5;",
+      "HTML dec": "&#128757;",
+      "URL escape code": "%F0%9F%9B%B5",
+      "Punycode": "xn--e98h",
+      "Bytes (UTF-8)": "F0 9F 9B B5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEF5",
+      "C, C++, Python": "\\U0001f6f5",
+      "CSS": "\\01F6F5",
+      "PHP, Ruby": "\\u{1F6F5}",
+      "Perl": "\\x{1F6F5}"
+    }
+  }
+}

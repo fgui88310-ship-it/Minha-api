@@ -1,0 +1,63 @@
+{
+  "emoji": "🤹",
+  "nome": "🤹‍♀️ Mulher malabarista",
+  "categoria": "woman juggling",
+  "url": "https://emojigraph.org/pt/woman-juggling/",
+  "detalhes": {
+    "explicacao": "A Mulher Malabarismo emoji é uma sequência do 🤹 Malabarismo e ♀ Feminino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-juggling_1f939-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-juggling_1f939-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-juggling_1f939-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-juggling_1f939-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-juggling_1f939-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-juggling_1f939-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-juggling_1f939-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-juggling_1f939-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "equilíbrio",
+      "habilidade",
+      "malabarismo",
+      "mulher",
+      "multitarefa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F939;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#129337;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A4%B9%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5hz091o",
+      "Bytes (UTF-8)": "F0 9F A4 B9 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD39\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f939\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F939 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F939}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F939}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

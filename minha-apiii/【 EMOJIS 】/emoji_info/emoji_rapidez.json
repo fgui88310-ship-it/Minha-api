@@ -1,0 +1,96 @@
+{
+  "emoji": "💨",
+  "nome": "💨 Rapidez",
+  "categoria": "Dashing Away",
+  "url": "https://emojigraph.org/pt/dashing-away/",
+  "detalhes": {
+    "explicacao": "Um cartoon-estilo rajada de ar. Descrito como uma pequena nuvem cinza com movimento e linhas, apressando-se para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/dashing-away_1f4a8.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/dashing-away_1f4a8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "correr",
+      "emoção",
+      "engraçado",
+      "fugir",
+      "rapidez",
+      "corrida"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4A8;",
+      "HTML dec": "&#128168;",
+      "URL escape code": "%F0%9F%92%A8",
+      "Punycode": "xn--ks8h",
+      "Bytes (UTF-8)": "F0 9F 92 A8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCA8",
+      "C, C++, Python": "\\U0001f4a8",
+      "CSS": "\\01F4A8",
+      "PHP, Ruby": "\\u{1F4A8}",
+      "Perl": "\\x{1F4A8}"
+    }
+  }
+}

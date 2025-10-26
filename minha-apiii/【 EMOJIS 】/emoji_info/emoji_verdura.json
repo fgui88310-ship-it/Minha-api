@@ -1,0 +1,75 @@
+{
+  "emoji": "🥬",
+  "nome": "🥬 Verdura",
+  "categoria": "Leafy Green",
+  "url": "https://emojigraph.org/pt/leafy-green/",
+  "detalhes": {
+    "explicacao": "Uma cabeça de um rico verde folha vegetal, geralmente mostrado com branco colmos. Pode ser usado para representar uma variedade de verduras, incluindo o alface, acelga e repolho Chinês, como bok choy, como comumente cozido em Asiática.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/leafy-green_1f96c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/leafy-green_1f96c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/leafy-green_1f96c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/leafy-green_1f96c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/leafy-green_1f96c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/leafy-green_1f96c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/leafy-green_1f96c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/leafy-green_1f96c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/leafy-green_1f96c.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/leafy-green_1f96c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alface",
+      "bok choy",
+      "couve",
+      "repolho",
+      "verdura",
+      "comida",
+      "hambúrguer",
+      "repolho chinês",
+      "salada"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F96C;",
+      "HTML dec": "&#129388;",
+      "URL escape code": "%F0%9F%A5%AC",
+      "Punycode": "xn--fs9h",
+      "Bytes (UTF-8)": "F0 9F A5 AC",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD6C",
+      "C, C++, Python": "\\U0001f96c",
+      "CSS": "\\01F96C",
+      "PHP, Ruby": "\\u{1F96C}",
+      "Perl": "\\x{1F96C}"
+    }
+  }
+}

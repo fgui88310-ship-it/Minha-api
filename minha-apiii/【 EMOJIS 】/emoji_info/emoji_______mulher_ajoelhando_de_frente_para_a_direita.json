@@ -1,0 +1,51 @@
+{
+  "emoji": "🧎",
+  "nome": "🧎‍♀️‍➡️ Mulher ajoelhando de frente para a direita",
+  "categoria": "woman kneeling facing right",
+  "url": "https://emojigraph.org/pt/woman-kneeling-facing-right/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-kneeling-facing-right_1f9ce-200d-2640-fe0f-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-kneeling-facing-right_1f9ce-200d-2640-fe0f-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-kneeling-facing-right_1f9ce-200d-2640-fe0f-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-kneeling-facing-right_1f9ce-200d-2640-fe0f-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-kneeling-facing-right_1f9ce-200d-2640-fe0f-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/woman-kneeling-facing-right_1f9ce-200d-2640-fe0f-200d-27a1-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ajoelhada",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9CE;&#x200D;&#x2640;&#xFE0F;&#x200D;&#x27A1;&#xFE0F;",
+      "HTML dec": "&#129486;&#8205;&#9792;&#65039;&#8205;&#10145;&#65039;",
+      "URL escape code": "%F0%9F%A7%8E%E2%80%8D%E2%99%80%EF%B8%8F%E2%80%8D%E2%9E%A1%EF%B8%8F",
+      "Bytes (UTF-8)": "f0 9f a7 8e e2 80 8d e2 99 80 ef b8 8f e2 80 8d e2 9e a1 ef b8 8f",
+      "JavaScript, JSON, Java": "\\ud83e\\uddce\\u200d\\u2640\\ufe0f\\u200d\\u27a1\\ufe0f",
+      "C, C++, Python": "\\U0001f9ce\\u000200d\\u0002640\\u000fe0f\\u000200d\\u00027a1\\u000fe0f",
+      "CSS": "\\01F9CE \\0200D \\02640 \\0FE0F \\0200D \\027A1 \\0FE0F",
+      "PHP, Ruby": "\\u{1F9CE}\\u{200D}\\u{2640}\\u{FE0F}\\u{200D}\\u{27A1}\\u{FE0F}",
+      "Perl": "\\x{1F9CE}\\x{200D}\\x{2640}\\x{FE0F}\\x{200D}\\x{27A1}\\x{FE0F}"
+    }
+  }
+}

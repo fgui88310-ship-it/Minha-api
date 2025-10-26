@@ -1,0 +1,74 @@
+{
+  "emoji": "🦕",
+  "nome": "🦕 Saurópode",
+  "categoria": "Sauropod",
+  "url": "https://emojigraph.org/pt/sauropod/",
+  "detalhes": {
+    "explicacao": "Um saurópode, uma enorme fábrica de comer, dinossauro com um pescoço longo e unhas. Descrito como um azul, cinza ou verde. Mostrado no perfil completo em todos os fours virada para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sauropod_1f995.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sauropod_1f995.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sauropod_1f995.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sauropod_1f995.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sauropod_1f995.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sauropod_1f995.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sauropod_1f995.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sauropod_1f995.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sauropod_1f995.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sauropod_1f995.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "braquiossauro",
+      "brontossuro",
+      "diplódoco",
+      "saurópode",
+      "braquiosaurus",
+      "brontossauro",
+      "dinossauro",
+      "diplodocus"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F995;",
+      "HTML dec": "&#129429;",
+      "URL escape code": "%F0%9F%A6%95",
+      "Punycode": "xn--lt9h",
+      "Bytes (UTF-8)": "F0 9F A6 95",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD95",
+      "C, C++, Python": "\\U0001f995",
+      "CSS": "\\01F995",
+      "PHP, Ruby": "\\u{1F995}",
+      "Perl": "\\x{1F995}"
+    }
+  }
+}

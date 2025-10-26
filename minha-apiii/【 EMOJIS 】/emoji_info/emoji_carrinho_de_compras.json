@@ -1,0 +1,70 @@
+{
+  "emoji": "🛒",
+  "nome": "🛒 Carrinho de compras",
+  "categoria": "shopping cart",
+  "url": "https://emojigraph.org/pt/shopping-cart/",
+  "detalhes": {
+    "explicacao": "Uma imagem dos desenhos animados de um carrinho de compras cinza. Freqüentemente usado no contexto de compras de supermercado. Carrinho de compras foi aprovado como parte do Unicode 9.0 em 2016sob o nome de \"Carrinho de Compras\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shopping-cart_1f6d2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shopping-cart_1f6d2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shopping-cart_1f6d2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shopping-cart_1f6d2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shopping-cart_1f6d2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shopping-cart_1f6d2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shopping-cart_1f6d2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shopping-cart_1f6d2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shopping-cart_1f6d2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/shopping-cart_1f6d2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carrinho",
+      "compras",
+      "mercado",
+      "supermercado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6D2;",
+      "HTML dec": "&#128722;",
+      "URL escape code": "%F0%9F%9B%92",
+      "Punycode": "xn--e88h",
+      "Bytes (UTF-8)": "F0 9F 9B 92",
+      "JavaScript, JSON, Java": "\\uD83D\\uDED2",
+      "C, C++, Python": "\\U0001f6d2",
+      "CSS": "\\01F6D2",
+      "PHP, Ruby": "\\u{1F6D2}",
+      "Perl": "\\x{1F6D2}"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "emoji": "🧛",
+  "nome": "🧛 Vampiro",
+  "categoria": "Vampire",
+  "url": "https://emojigraph.org/pt/vampire/",
+  "detalhes": {
+    "explicacao": "Um vampiro mostrado vestindo uma capa escura, e com presas escondidas. Este emoji suporta tons de pele, e variações que são do sexo feminino ou masculino.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/vampire_1f9db.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/vampire_1f9db.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/vampire_1f9db.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/vampire_1f9db.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/vampire_1f9db.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/vampire_1f9db.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/vampire_1f9db.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/vampire_1f9db.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/vampire_1f9db.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/vampire_1f9db.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "Drácula",
+      "vampiro",
+      "assustador",
+      "dia das bruxas",
+      "drácula",
+      "fantasia",
+      "halloween",
+      "monstro",
+      "sangue",
+      "terror"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9DB;",
+      "HTML dec": "&#129499;",
+      "URL escape code": "%F0%9F%A7%9B",
+      "Punycode": "xn--lv9h",
+      "Bytes (UTF-8)": "F0 9F A7 9B",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDDB",
+      "C, C++, Python": "\\U0001f9db",
+      "CSS": "\\01F9DB",
+      "PHP, Ruby": "\\u{1F9DB}",
+      "Perl": "\\x{1F9DB}"
+    }
+  }
+}

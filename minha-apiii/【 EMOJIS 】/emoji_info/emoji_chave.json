@@ -1,0 +1,94 @@
+{
+  "emoji": "🔑",
+  "nome": "🔑 Chave",
+  "categoria": "Key",
+  "url": "https://emojigraph.org/pt/key/",
+  "detalhes": {
+    "explicacao": "Uma chave abre uma porta ou fechadura. Retratado em um ângulo de 45°, como ouro, de bronze, de cobre. Chave com uma cabeça redonda e entalhado de lâmina. Comumente usado para figurativa sentidos da tecla, por exemplo, a chave para o sucesso, sendo tecla (\"crucial\").",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/key_1f511.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/key_1f511.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/key_1f511.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/key_1f511.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/key_1f511.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/key_1f511.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/key_1f511.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/key_1f511.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/key_1f511.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/key_1f511.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/key_1f511.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/key_1f511.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/key_1f511.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/key_1f511.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/key_1f511.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/key_1f511.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chave",
+      "senha",
+      "trancado",
+      "trancar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F511;",
+      "HTML dec": "&#128273;",
+      "URL escape code": "%F0%9F%94%91",
+      "Punycode": "xn--kv8h",
+      "Bytes (UTF-8)": "F0 9F 94 91",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD11",
+      "C, C++, Python": "\\U0001f511",
+      "CSS": "\\01F511",
+      "PHP, Ruby": "\\u{1F511}",
+      "Perl": "\\x{1F511}"
+    }
+  }
+}

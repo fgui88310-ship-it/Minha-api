@@ -1,0 +1,73 @@
+{
+  "emoji": "🦜",
+  "nome": "🦜 Papagaio",
+  "categoria": "Parrot",
+  "url": "https://emojigraph.org/pt/parrot/",
+  "detalhes": {
+    "explicacao": "Um papagaio, uma colorida ave tropical conhecida por sua capacidade de mimetizar a voz. Representado em pleno perfil voltado para a esquerda em pé sobre suas pernas. Diversamente se assemelha a um Agapornis verde (com o vermelho e amarelo na ponta de suas asas) ou uma arara-piranga (com o azul e amarelo listrado em suas asas).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/parrot_1f99c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/parrot_1f99c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/parrot_1f99c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/parrot_1f99c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/parrot_1f99c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/parrot_1f99c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/parrot_1f99c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/parrot_1f99c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/parrot_1f99c.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/parrot_1f99c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fala",
+      "papagaio",
+      "pássaro",
+      "pirata",
+      "animal",
+      "ave",
+      "repete"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F99C;",
+      "HTML dec": "&#129436;",
+      "URL escape code": "%F0%9F%A6%9C",
+      "Punycode": "xn--st9h",
+      "Bytes (UTF-8)": "F0 9F A6 9C",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD9C",
+      "C, C++, Python": "\\U0001f99c",
+      "CSS": "\\01F99C",
+      "PHP, Ruby": "\\u{1F99C}",
+      "Perl": "\\x{1F99C}"
+    }
+  }
+}

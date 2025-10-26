@@ -1,0 +1,95 @@
+{
+  "emoji": "📲",
+  "nome": "📲 Telefone celular com seta",
+  "categoria": "mobile phone with arrow",
+  "url": "https://emojigraph.org/pt/mobile-phone-with-arrow/",
+  "detalhes": {
+    "explicacao": "Um telefone móvel (celular), com um para a direita seta apontada para ele a partir da esquerda. Se pretende para indicar uma chamada ou uma mensagem, mas usado para representar telefones celulares, tecnologia, e comunicação em geral.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/mobile-phone-with-arrow_1f4f2.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/mobile-phone-with-arrow_1f4f2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "celular",
+      "receber",
+      "seta",
+      "telefone",
+      "telefone móvel"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4F2;",
+      "HTML dec": "&#128242;",
+      "URL escape code": "%F0%9F%93%B2",
+      "Punycode": "xn--ou8h",
+      "Bytes (UTF-8)": "F0 9F 93 B2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCF2",
+      "C, C++, Python": "\\U0001f4f2",
+      "CSS": "\\01F4F2",
+      "PHP, Ruby": "\\u{1F4F2}",
+      "Perl": "\\x{1F4F2}"
+    }
+  }
+}

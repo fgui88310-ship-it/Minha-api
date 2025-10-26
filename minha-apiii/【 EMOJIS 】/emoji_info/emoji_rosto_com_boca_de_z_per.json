@@ -1,0 +1,82 @@
+{
+  "emoji": "🤐",
+  "nome": "🤐 Rosto com boca de zíper",
+  "categoria": "zipper mouth face",
+  "url": "https://emojigraph.org/pt/zipper-mouth-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela, com simples olhos abertos e fechados com zíper para uma boca. Significado varia bastante, mas geralmente transmite um segredo ou que alguém irá mantê-um (por exemplo, minha lábios são sealed). Também pode ser usado para dizer a alguém para parar de falar (por exemplo, Z_ip-lo! or eu vou calar a boca now_).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/zipper-mouth-face_1f910.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/zipper-mouth-face_1f910.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/zipper-mouth-face_1f910.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/zipper-mouth-face_1f910.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/zipper-mouth-face_1f910.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/zipper-mouth-face_1f910.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/zipper-mouth-face_1f910.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/zipper-mouth-face_1f910.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/zipper-mouth-face_1f910.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/zipper-mouth-face_1f910.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/zipper-mouth-face_1f910.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/zipper-mouth-face_1f910.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "zíper",
+      "boca fechada",
+      "calada",
+      "calado",
+      "quieta",
+      "quieto",
+      "segredo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F910;",
+      "HTML dec": "&#129296;",
+      "URL escape code": "%F0%9F%A4%90",
+      "Punycode": "xn--sp9h",
+      "Bytes (UTF-8)": "F0 9F A4 90",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD10",
+      "C, C++, Python": "\\U0001f910",
+      "CSS": "\\01F910",
+      "PHP, Ruby": "\\u{1F910}",
+      "Perl": "\\x{1F910}"
+    }
+  }
+}

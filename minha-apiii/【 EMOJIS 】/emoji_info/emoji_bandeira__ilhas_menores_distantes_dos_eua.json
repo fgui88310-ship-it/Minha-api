@@ -1,0 +1,59 @@
+{
+  "emoji": "🇺🇲",
+  "nome": "🇺🇲 Bandeira: Ilhas Menores Distantes dos EUA",
+  "categoria": "flag us outlying islands",
+  "url": "https://emojigraph.org/pt/flag-us-outlying-islands/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional dos EUA Ilhas Periféricas. Este símbolo é uma seqüência de caracteres 🇺 Símbolo Indicador Regional Letra U e 🇲 Símbolo Indicador Regional Letra М. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras UM em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-us-outlying-islands_1f1fa-1f1f2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-us-outlying-islands_1f1fa-1f1f2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-us-outlying-islands_1f1fa-1f1f2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-us-outlying-islands_1f1fa-1f1f2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-us-outlying-islands_1f1fa-1f1f2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-us-outlying-islands_1f1fa-1f1f2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-us-outlying-islands_1f1fa-1f1f2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-us-outlying-islands_1f1fa-1f1f2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FA;&#x1F1F2;",
+      "HTML dec": "&#127482;&#127474;",
+      "URL escape code": "%F0%9F%87%BA%F0%9F%87%B2",
+      "Punycode": "xn--q77hpa",
+      "Bytes (UTF-8)": "F0 9F 87 BA F0 9F 87 B2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFA\\uD83C\\uDDF2",
+      "C, C++, Python": "\\U0001f1fa\\U0001f1f2",
+      "CSS": "\\01F1FA \\01F1F2",
+      "PHP, Ruby": "\\u{1F1FA}\\u{1F1F2}",
+      "Perl": "\\x{1F1FA}\\x{1F1F2}"
+    }
+  }
+}

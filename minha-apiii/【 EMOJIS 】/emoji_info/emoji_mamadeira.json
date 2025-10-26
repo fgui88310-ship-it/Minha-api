@@ -1,0 +1,88 @@
+{
+  "emoji": "🍼",
+  "nome": "🍼 Mamadeira",
+  "categoria": "Baby Bottle",
+  "url": "https://emojigraph.org/pt/baby-bottle/",
+  "detalhes": {
+    "explicacao": "Uma garrafa de leite ou fórmula, ou alimentados para um bebê, com o azulado de uma tampa de borracha, bico ou chupeta. Posicionado na vertical ou em ângulo de 45°, e encheu a vários níveis, às vezes, mostrando linhas de enchimento. Muitas vezes usado para recém-nascidos e childrearing. Ver também a amamentar.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/baby-bottle_1f37c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/baby-bottle_1f37c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bebê",
+      "leite",
+      "leitinho",
+      "mamadeira",
+      "neném",
+      "mamar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F37C;",
+      "HTML dec": "&#127868;",
+      "URL escape code": "%F0%9F%8D%BC",
+      "Punycode": "xn--zj8h",
+      "Bytes (UTF-8)": "F0 9F 8D BC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF7C",
+      "C, C++, Python": "\\U0001f37c",
+      "CSS": "\\01F37C",
+      "PHP, Ruby": "\\u{1F37C}",
+      "Perl": "\\x{1F37C}"
+    }
+  }
+}

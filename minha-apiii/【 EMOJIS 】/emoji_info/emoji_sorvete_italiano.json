@@ -1,0 +1,94 @@
+{
+  "emoji": "🍦",
+  "nome": "🍦 Sorvete italiano",
+  "categoria": "soft ice cream",
+  "url": "https://emojigraph.org/pt/soft-ice-cream/",
+  "detalhes": {
+    "explicacao": "Um sorvete em um cone, branco ou cor de creme, como baunilha, na maioria das plataformas. No projeto do Facebook sugere morango. Pode ser usado mais genericamente para sorvete e o iogurte congelado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/soft-ice-cream_1f366.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/soft-ice-cream_1f366.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "sorvete",
+      "doce",
+      "fome",
+      "sobremesa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F366;",
+      "HTML dec": "&#127846;",
+      "URL escape code": "%F0%9F%8D%A6",
+      "Punycode": "xn--dj8h",
+      "Bytes (UTF-8)": "F0 9F 8D A6",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF66",
+      "C, C++, Python": "\\U0001f366",
+      "CSS": "\\01F366",
+      "PHP, Ruby": "\\u{1F366}",
+      "Perl": "\\x{1F366}"
+    }
+  }
+}

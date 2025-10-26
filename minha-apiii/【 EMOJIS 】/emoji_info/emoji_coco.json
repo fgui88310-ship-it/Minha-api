@@ -1,0 +1,70 @@
+{
+  "emoji": "🥥",
+  "nome": "🥥 Coco",
+  "categoria": "Coconut",
+  "url": "https://emojigraph.org/pt/coconut/",
+  "detalhes": {
+    "explicacao": "O peludo shell de um tropical de coco, rachado no meio para mostrar a sua leitoso-carne branca. O Google exibe um todo de coco ao lado de um meia-shell.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/coconut_1f965.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/coconut_1f965.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/coconut_1f965.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/coconut_1f965.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/coconut_1f965.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/coconut_1f965.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/coconut_1f965.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/coconut_1f965.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/coconut_1f965.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/coconut_1f965.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coco",
+      "fruta",
+      "palmeira",
+      "piña colada"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F965;",
+      "HTML dec": "&#129381;",
+      "URL escape code": "%F0%9F%A5%A5",
+      "Punycode": "xn--7r9h",
+      "Bytes (UTF-8)": "F0 9F A5 A5",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD65",
+      "C, C++, Python": "\\U0001f965",
+      "CSS": "\\01F965",
+      "PHP, Ruby": "\\u{1F965}",
+      "Perl": "\\x{1F965}"
+    }
+  }
+}

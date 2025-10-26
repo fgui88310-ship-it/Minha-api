@@ -1,0 +1,88 @@
+{
+  "emoji": "🌲",
+  "nome": "🌲 Conífera",
+  "categoria": "evergreen tree",
+  "url": "https://emojigraph.org/pt/evergreen-tree/",
+  "detalhes": {
+    "explicacao": "Uma árvore de folha perene, que mantém folhas verdes durante todo o ano. Descrito como alta, de cor verde escura, em forma de cone, em camadas de folhas, como um pinheiro ou abeto, mostrando um tronco marrom.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/evergreen-tree_1f332.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/evergreen-tree_1f332.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "árvore",
+      "conífera",
+      "floresta",
+      "natal",
+      "pinheirinho",
+      "pinheiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F332;",
+      "HTML dec": "&#127794;",
+      "URL escape code": "%F0%9F%8C%B2",
+      "Punycode": "xn--vh8h",
+      "Bytes (UTF-8)": "F0 9F 8C B2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF32",
+      "C, C++, Python": "\\U0001f332",
+      "CSS": "\\01F332",
+      "PHP, Ruby": "\\u{1F332}",
+      "Perl": "\\x{1F332}"
+    }
+  }
+}

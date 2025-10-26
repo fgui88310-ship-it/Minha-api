@@ -1,0 +1,93 @@
+{
+  "emoji": "📄",
+  "nome": "📄 Página voltada para cima",
+  "categoria": "page facing up",
+  "url": "https://emojigraph.org/pt/page-facing-up/",
+  "detalhes": {
+    "explicacao": "Um pedaço de papel branco, seu canto superior direito enrolado ou cão de orelhas compridas, com o texto impresso, como uma letra ou ícone de um documento em um computador. Comumente usado para conteúdo sobre os diversos tipos de documentos e escrita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/page-facing-up_1f4c4.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/page-facing-up_1f4c4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "documento",
+      "página",
+      "folha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4C4;",
+      "HTML dec": "&#128196;",
+      "URL escape code": "%F0%9F%93%84",
+      "Punycode": "xn--dt8h",
+      "Bytes (UTF-8)": "F0 9F 93 84",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCC4",
+      "C, C++, Python": "\\U0001f4c4",
+      "CSS": "\\01F4C4",
+      "PHP, Ruby": "\\u{1F4C4}",
+      "Perl": "\\x{1F4C4}"
+    }
+  }
+}

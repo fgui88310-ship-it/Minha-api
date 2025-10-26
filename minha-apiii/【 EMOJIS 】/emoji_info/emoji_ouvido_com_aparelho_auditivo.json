@@ -1,0 +1,69 @@
+{
+  "emoji": "🦻",
+  "nome": "🦻 Ouvido com aparelho auditivo",
+  "categoria": "ear with hearing aid",
+  "url": "https://emojigraph.org/pt/ear-with-hearing-aid/",
+  "detalhes": {
+    "explicacao": "Uma orelha mostrado com um auxiliar de audição, usado por uma pessoa com perda auditiva. O estilo mostrado no Atrás Da Orelha (BTE), mas isso pode representar qualquer forma de auxiliar de audição colocado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ear-with-hearing-aid_1f9bb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ear-with-hearing-aid_1f9bb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ear-with-hearing-aid_1f9bb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ear-with-hearing-aid_1f9bb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ear-with-hearing-aid_1f9bb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ear-with-hearing-aid_1f9bb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ear-with-hearing-aid_1f9bb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ear-with-hearing-aid_1f9bb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ear-with-hearing-aid_1f9bb.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/ear-with-hearing-aid_1f9bb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade",
+      "surda",
+      "surdo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9BB;",
+      "HTML dec": "&#129467;",
+      "URL escape code": "%F0%9F%A6%BB",
+      "Punycode": "xn--ou9h",
+      "Bytes (UTF-8)": "F0 9F A6 BB",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDBB",
+      "C, C++, Python": "\\U0001f9bb",
+      "CSS": "\\01F9BB",
+      "PHP, Ruby": "\\u{1F9BB}",
+      "Perl": "\\x{1F9BB}"
+    }
+  }
+}

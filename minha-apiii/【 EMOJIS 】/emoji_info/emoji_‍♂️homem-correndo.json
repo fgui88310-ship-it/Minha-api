@@ -1,0 +1,63 @@
+{
+  "emoji": "🏃",
+  "nome": "🏃‍♂️ Homem correndo",
+  "categoria": "Man Running",
+  "url": "https://emojigraph.org/pt/man-running/",
+  "detalhes": {
+    "explicacao": "A versão masculina do 🏃 Corredor emoji. Atualmente idêntico em aparência a não-gênero da base de dados de emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-running_1f3c3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-running_1f3c3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-running_1f3c3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-running_1f3c3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-running_1f3c3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-running_1f3c3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-running_1f3c3-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-running_1f3c3-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "corrida",
+      "esporte",
+      "homem",
+      "homem correndo",
+      "maratona"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3C3;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#127939;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5hz099n",
+      "Bytes (UTF-8)": "F0 9F 8F 83 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFC3\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f3c3\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F3C3 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F3C3}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F3C3}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

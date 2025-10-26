@@ -1,0 +1,97 @@
+{
+  "emoji": "💪",
+  "nome": "💪 Bíceps",
+  "categoria": "flexed biceps",
+  "url": "https://emojigraph.org/pt/flexed-biceps/",
+  "detalhes": {
+    "explicacao": "Um braço flexionado para mostrar o seu músculo bíceps. Representa a força, ou malhar.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/flexed-biceps_1f4aa.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/flexed-biceps_1f4aa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bíceps",
+      "contraído",
+      "engraçado",
+      "forte",
+      "músculo",
+      "academia",
+      "musculação"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4AA;",
+      "HTML dec": "&#128170;",
+      "URL escape code": "%F0%9F%92%AA",
+      "Punycode": "xn--ms8h",
+      "Bytes (UTF-8)": "F0 9F 92 AA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCAA",
+      "C, C++, Python": "\\U0001f4aa",
+      "CSS": "\\01F4AA",
+      "PHP, Ruby": "\\u{1F4AA}",
+      "Perl": "\\x{1F4AA}"
+    }
+  }
+}

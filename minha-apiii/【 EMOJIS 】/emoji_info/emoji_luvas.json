@@ -1,0 +1,71 @@
+{
+  "emoji": "🧤",
+  "nome": "🧤 Luvas",
+  "categoria": "Gloves",
+  "url": "https://emojigraph.org/pt/gloves/",
+  "detalhes": {
+    "explicacao": "Luvas foi aprovado como parte do Unicode 10.0 em 2017e acrescentou para o Emoji 5.0 em 2017.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/gloves_1f9e4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/gloves_1f9e4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/gloves_1f9e4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/gloves_1f9e4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/gloves_1f9e4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/gloves_1f9e4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/gloves_1f9e4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/gloves_1f9e4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/gloves_1f9e4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/gloves_1f9e4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "inverno",
+      "luvas",
+      "mãos",
+      "luva",
+      "mão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9E4;",
+      "HTML dec": "&#129508;",
+      "URL escape code": "%F0%9F%A7%A4",
+      "Punycode": "xn--uv9h",
+      "Bytes (UTF-8)": "F0 9F A7 A4",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDE4",
+      "C, C++, Python": "\\U0001f9e4",
+      "CSS": "\\01F9E4",
+      "PHP, Ruby": "\\u{1F9E4}",
+      "Perl": "\\x{1F9E4}"
+    }
+  }
+}

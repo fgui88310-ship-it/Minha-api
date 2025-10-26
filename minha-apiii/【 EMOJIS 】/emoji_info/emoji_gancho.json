@@ -1,0 +1,63 @@
+{
+  "emoji": "🪝",
+  "nome": "🪝 Gancho",
+  "categoria": "Hook",
+  "url": "https://emojigraph.org/pt/hook/",
+  "detalhes": {
+    "explicacao": "Gancho foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hook_1fa9d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hook_1fa9d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hook_1fa9d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hook_1fa9d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hook_1fa9d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hook_1fa9d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hook_1fa9d.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/hook_1fa9d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandido",
+      "curva",
+      "gancho",
+      "pegar",
+      "prender"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA9D;",
+      "HTML dec": "&#129693;",
+      "URL escape code": "%F0%9F%AA%9D",
+      "Punycode": "xn--409h",
+      "Bytes (UTF-8)": "F0 9F AA 9D",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE9D",
+      "C, C++, Python": "\\U0001fa9d",
+      "CSS": "\\01FA9D",
+      "PHP, Ruby": "\\u{1FA9D}",
+      "Perl": "\\x{1FA9D}"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "emoji": "🌧",
+  "nome": "🌧️ Nuvem com chuva",
+  "categoria": "cloud with rain",
+  "url": "https://emojigraph.org/pt/cloud-with-rain/",
+  "detalhes": {
+    "explicacao": "Uma nuvem de chuva. Mantenha-se seco com o ☔ Guarda-chuva com as gotas de chuva. Descrito como: gotas azuis de chuva caindo de uma nuvem branca. A maioria das plataformas retratam as gotas de chuva caindo para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cloud-with-rain_1f327-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cloud-with-rain_1f327-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cloud-with-rain_1f327-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cloud-with-rain_1f327-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cloud-with-rain_1f327-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cloud-with-rain_1f327-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cloud-with-rain_1f327-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cloud-with-rain_1f327-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cloud-with-rain_1f327-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cloud-with-rain_1f327-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chuva",
+      "clima",
+      "nuvem",
+      "nuvem com chuva"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F327;&#xFE0F;",
+      "HTML dec": "&#127783;&#65039;",
+      "URL escape code": "%F0%9F%8C%A7%EF%B8%8F",
+      "Punycode": "xn--kh8h",
+      "Bytes (UTF-8)": "F0 9F 8C A7 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF27\\uFE0F",
+      "C, C++, Python": "\\U0001f327\\uFE0F",
+      "CSS": "\\01F327 \\FE0F",
+      "PHP, Ruby": "\\u{1F327}\\u{FE0F}",
+      "Perl": "\\x{1F327}\\x{FE0F}"
+    }
+  }
+}

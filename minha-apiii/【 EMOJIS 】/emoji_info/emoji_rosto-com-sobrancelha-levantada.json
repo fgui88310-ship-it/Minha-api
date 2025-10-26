@@ -1,0 +1,74 @@
+{
+  "emoji": "🤨",
+  "nome": "🤨 Rosto com sobrancelha levantada",
+  "categoria": "Face With Raised Eyebrow",
+  "url": "https://emojigraph.org/pt/face-with-raised-eyebrow/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com uma expressão neutra a boca e sobrancelhas franzidas, a sua esquerda levantada mais alta do que a sua direita. Transmite uma grande variedade de sentimentos, incluindo suspeita, o ceticismo, a preocupação, a consideração, a descrença, e a reprovação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-raised-eyebrow_1f928.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-raised-eyebrow_1f928.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-raised-eyebrow_1f928.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-raised-eyebrow_1f928.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-raised-eyebrow_1f928.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-raised-eyebrow_1f928.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-raised-eyebrow_1f928.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-raised-eyebrow_1f928.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-raised-eyebrow_1f928.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/face-with-raised-eyebrow_1f928.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cético",
+      "desconfiança",
+      "cética",
+      "ceticismo",
+      "confusa",
+      "confuso",
+      "desconfiada",
+      "desconfiado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F928;",
+      "HTML dec": "&#129320;",
+      "URL escape code": "%F0%9F%A4%A8",
+      "Punycode": "xn--hq9h",
+      "Bytes (UTF-8)": "F0 9F A4 A8",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD28",
+      "C, C++, Python": "\\U0001f928",
+      "CSS": "\\01F928",
+      "PHP, Ruby": "\\u{1F928}",
+      "Perl": "\\x{1F928}"
+    }
+  }
+}

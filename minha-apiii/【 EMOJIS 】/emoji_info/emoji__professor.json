@@ -1,0 +1,70 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🏫 Professor",
+  "categoria": "man teacher",
+  "url": "https://emojigraph.org/pt/man-teacher/",
+  "detalhes": {
+    "explicacao": "Um homem de pé em frente a um quadro-negro (aka quadro negro) com a intenção de ensinar uma classe.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-teacher_1f468-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-teacher_1f468-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-teacher_1f468-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-teacher_1f468-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-teacher_1f468-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-teacher_1f468-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-teacher_1f468-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-teacher_1f468-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-teacher_1f468-200d-1f3eb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-teacher_1f468-200d-1f3eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "homem",
+      "instrutor",
+      "mestre",
+      "professor"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F3EB;",
+      "HTML dec": "&#128104;&#8205;&#127979;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB",
+      "Punycode": "xn--5m8hzh",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 8F AB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83C\\uDFEB",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f3eb",
+      "CSS": "\\01F468 \\200D \\01F3EB",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F3EB}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F3EB}"
+    }
+  }
+}

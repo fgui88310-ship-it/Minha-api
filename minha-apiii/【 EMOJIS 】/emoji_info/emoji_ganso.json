@@ -1,0 +1,74 @@
+{
+  "emoji": "🪿",
+  "nome": "🪿 Ganso",
+  "categoria": "Goose",
+  "url": "https://emojigraph.org/pt/goose/",
+  "detalhes": {
+    "explicacao": "Um ganso branco ou cinza com patas e bico laranja. O emoji de ganso pode simbolizar alerta e proteção ou tolice. Não confundir com os emojis 🦆 Pato ou 🦢 Cisne .",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/goose_1fabf.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/goose_1fabf.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/goose_1fabf.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/goose_1fabf.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/goose_1fabf.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/goose_1fabf.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/goose_1fabf.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/goose_1fabf.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/goose_1fabf.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/goose_1fabf.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ave",
+      "bobo",
+      "ganso",
+      "grasno",
+      "pássaro",
+      "animal",
+      "gansos",
+      "marreco",
+      "pato"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FABF;",
+      "HTML dec": "&#129727;",
+      "URL escape code": "%F0%9F%AA%BF",
+      "Bytes (UTF-8)": "f0 9f aa bf",
+      "JavaScript, JSON, Java": "\\ud83e\\udebf",
+      "C, C++, Python": "\\U0001fabf",
+      "CSS": "\\01FABF",
+      "PHP, Ruby": "\\u{1FABF}",
+      "Perl": "\\x{1FABF}"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "emoji": "🪱",
+  "nome": "🪱 Minhoca",
+  "categoria": "Worm",
+  "url": "https://emojigraph.org/pt/worm/",
+  "detalhes": {
+    "explicacao": "Worm foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/worm_1fab1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/worm_1fab1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/worm_1fab1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/worm_1fab1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/worm_1fab1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/worm_1fab1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/worm_1fab1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/worm_1fab1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/worm_1fab1.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/worm_1fab1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "anelídeo",
+      "minhoca",
+      "parasita",
+      "animal",
+      "verme"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAB1;",
+      "HTML dec": "&#129713;",
+      "URL escape code": "%F0%9F%AA%B1",
+      "Punycode": "xn--p19h",
+      "Bytes (UTF-8)": "F0 9F AA B1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEB1",
+      "C, C++, Python": "\\U0001fab1",
+      "CSS": "\\01FAB1",
+      "PHP, Ruby": "\\u{1FAB1}",
+      "Perl": "\\x{1FAB1}"
+    }
+  }
+}

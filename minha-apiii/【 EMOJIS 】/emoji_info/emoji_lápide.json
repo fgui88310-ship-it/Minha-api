@@ -1,0 +1,66 @@
+{
+  "emoji": "🪦",
+  "nome": "🪦 Lápide",
+  "categoria": "Headstone",
+  "url": "https://emojigraph.org/pt/headstone/",
+  "detalhes": {
+    "explicacao": "Uma imagem de desenho animado de uma lápide, usada para comemorar o nome dos que partiram. Frequentemente associado à morte. Lápide foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/headstone_1faa6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/headstone_1faa6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/headstone_1faa6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/headstone_1faa6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/headstone_1faa6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/headstone_1faa6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/headstone_1faa6.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/headstone_1faa6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cemitério",
+      "lápide",
+      "sepultura",
+      "descanse em paz",
+      "morto",
+      "rip",
+      "tumba",
+      "túmulo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAA6;",
+      "HTML dec": "&#129702;",
+      "URL escape code": "%F0%9F%AA%A6",
+      "Punycode": "xn--e19h",
+      "Bytes (UTF-8)": "F0 9F AA A6",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEA6",
+      "C, C++, Python": "\\U0001faa6",
+      "CSS": "\\01FAA6",
+      "PHP, Ruby": "\\u{1FAA6}",
+      "Perl": "\\x{1FAA6}"
+    }
+  }
+}

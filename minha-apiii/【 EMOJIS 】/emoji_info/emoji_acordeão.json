@@ -1,0 +1,55 @@
+{
+  "emoji": "🪗",
+  "nome": "🪗 Acordeão",
+  "categoria": "Accordion",
+  "url": "https://emojigraph.org/pt/accordion/",
+  "detalhes": {
+    "explicacao": "Uma imagem de desenho animado do que muitos consideram um piano flexível, usado em uma variedade de músicas, como a polca. Acordeão foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/accordion_1fa97.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/accordion_1fa97.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/accordion_1fa97.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/accordion_1fa97.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/accordion_1fa97.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/accordion_1fa97.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acordeão",
+      "concertina",
+      "sanfona",
+      "instrumento",
+      "música"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA97;",
+      "HTML dec": "&#129687;",
+      "URL escape code": "%F0%9F%AA%97",
+      "Punycode": "xn--y09h",
+      "Bytes (UTF-8)": "F0 9F AA 97",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE97",
+      "C, C++, Python": "\\U0001fa97",
+      "CSS": "\\01FA97",
+      "PHP, Ruby": "\\u{1FA97}",
+      "Perl": "\\x{1FA97}"
+    }
+  }
+}

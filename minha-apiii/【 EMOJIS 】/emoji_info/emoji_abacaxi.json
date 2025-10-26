@@ -1,0 +1,94 @@
+{
+  "emoji": "🍍",
+  "nome": "🍍 Abacaxi",
+  "categoria": "Pineapple",
+  "url": "https://emojigraph.org/pt/pineapple/",
+  "detalhes": {
+    "explicacao": "A fruta tropicai abacaxi, mostrado com a coroa, em cor marrom-dourada e com uma aguçada coroa verde. Posicionado na vertical ou em ângulo de 45°.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pineapple_1f34d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pineapple_1f34d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "abacaxi",
+      "fruta",
+      "comida",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F34D;",
+      "HTML dec": "&#127821;",
+      "URL escape code": "%F0%9F%8D%8D",
+      "Punycode": "xn--ni8h",
+      "Bytes (UTF-8)": "F0 9F 8D 8D",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF4D",
+      "C, C++, Python": "\\U0001f34d",
+      "CSS": "\\01F34D",
+      "PHP, Ruby": "\\u{1F34D}",
+      "Perl": "\\x{1F34D}"
+    }
+  }
+}

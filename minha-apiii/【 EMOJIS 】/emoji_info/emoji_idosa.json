@@ -1,0 +1,97 @@
+{
+  "emoji": "👵",
+  "nome": "👵 Idosa",
+  "categoria": "Old Woman",
+  "url": "https://emojigraph.org/pt/old-woman/",
+  "detalhes": {
+    "explicacao": "Uma mulher idosa com gray (cinza) do cabelo, e visível das rugas. Usa óculos em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/old-woman_1f475.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/old-woman_1f475.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "adulta",
+      "idosa",
+      "mulher",
+      "pessoas",
+      "velhinha",
+      "vovó",
+      "vovozinha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F475;",
+      "HTML dec": "&#128117;",
+      "URL escape code": "%F0%9F%91%B5",
+      "Punycode": "xn--3q8h",
+      "Bytes (UTF-8)": "F0 9F 91 B5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC75",
+      "C, C++, Python": "\\U0001f475",
+      "CSS": "\\01F475",
+      "PHP, Ruby": "\\u{1F475}",
+      "Perl": "\\x{1F475}"
+    }
+  }
+}

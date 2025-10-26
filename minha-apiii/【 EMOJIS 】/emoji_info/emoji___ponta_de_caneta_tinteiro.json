@@ -1,0 +1,94 @@
+{
+  "emoji": "",
+  "nome": "✒️ Ponta de caneta tinteiro",
+  "categoria": "black nib",
+  "url": "https://emojigraph.org/pt/black-nib/",
+  "detalhes": {
+    "explicacao": "O prata da ponta de uma caneta-tinteiro, que distribui de tinta sobre uma superfície de escrita. Posicionado em um ângulo de 45°, com a sua ponta na parte inferior esquerda ou para a direita. Como 🖋️ Caneta-tinteiro, comumente usado para vários conteúdos relativos a escrita, o desenho, e a assinatura (por exemplo, leis, acordos, em esportes).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/black-nib_2712-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/black-nib_2712-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caneta",
+      "caneta tinteiro",
+      "preto",
+      "tinta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2712;&#xFE0F;",
+      "HTML dec": "&#10002;&#65039;",
+      "URL escape code": "%E2%9C%92%EF%B8%8F",
+      "Punycode": "xn--eci",
+      "Bytes (UTF-8)": "E2 9C 92 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2712\\uFE0F",
+      "C, C++, Python": "\\u2712\\uFE0F",
+      "CSS": "\\2712 \\FE0F",
+      "PHP, Ruby": "\\u{2712}\\u{FE0F}",
+      "Perl": "\\x{2712}\\x{FE0F}"
+    }
+  }
+}

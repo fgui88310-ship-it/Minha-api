@@ -1,0 +1,94 @@
+{
+  "emoji": "🗼",
+  "nome": "🗼 Torre de Tóquio",
+  "categoria": "Tokyo Tower",
+  "url": "https://emojigraph.org/pt/tokyo-tower/",
+  "detalhes": {
+    "explicacao": "A Torre de Tóquio é o segundo edifício mais alto do Japão, localizado no Minato, Tóquio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tokyo-tower_1f5fc.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tokyo-tower_1f5fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "Tóquio",
+      "torre",
+      "Torre de Tóquio",
+      "Japão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5FC;",
+      "HTML dec": "&#128508;",
+      "URL escape code": "%F0%9F%97%BC",
+      "Punycode": "xn--918h",
+      "Bytes (UTF-8)": "F0 9F 97 BC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDFC",
+      "C, C++, Python": "\\U0001f5fc",
+      "CSS": "\\01F5FC",
+      "PHP, Ruby": "\\u{1F5FC}",
+      "Perl": "\\x{1F5FC}"
+    }
+  }
+}

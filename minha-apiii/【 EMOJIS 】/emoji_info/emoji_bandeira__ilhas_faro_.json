@@ -1,0 +1,59 @@
+{
+  "emoji": "🇫🇴",
+  "nome": "🇫🇴 Bandeira: Ilhas Faroé",
+  "categoria": "flag faroe islands",
+  "url": "https://emojigraph.org/pt/flag-faroe-islands/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional das Ilhas Faroé. Este símbolo é uma seqüência de caracteres 🇫 Símbolo Indicador Regional Letra F e 🇴 Símbolo Indicador Regional Letra O. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras FO em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-faroe-islands_1f1eb-1f1f4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-faroe-islands_1f1eb-1f1f4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-faroe-islands_1f1eb-1f1f4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-faroe-islands_1f1eb-1f1f4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-faroe-islands_1f1eb-1f1f4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-faroe-islands_1f1eb-1f1f4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-faroe-islands_1f1eb-1f1f4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-faroe-islands_1f1eb-1f1f4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EB;&#x1F1F4;",
+      "HTML dec": "&#127467;&#127476;",
+      "URL escape code": "%F0%9F%87%AB%F0%9F%87%B4",
+      "Punycode": "xn--j77hsa",
+      "Bytes (UTF-8)": "F0 9F 87 AB F0 9F 87 B4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEB\\uD83C\\uDDF4",
+      "C, C++, Python": "\\U0001f1eb\\U0001f1f4",
+      "CSS": "\\01F1EB \\01F1F4",
+      "PHP, Ruby": "\\u{1F1EB}\\u{1F1F4}",
+      "Perl": "\\x{1F1EB}\\x{1F1F4}"
+    }
+  }
+}

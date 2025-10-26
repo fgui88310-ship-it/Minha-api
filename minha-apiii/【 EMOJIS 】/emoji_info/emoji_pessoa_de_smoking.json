@@ -1,0 +1,71 @@
+{
+  "emoji": "🤵",
+  "nome": "🤵 Pessoa de smoking",
+  "categoria": "person in tuxedo",
+  "url": "https://emojigraph.org/pt/person-in-tuxedo/",
+  "detalhes": {
+    "explicacao": "Uma pessoa vestida para uma ocasião formal, vestindo um smoking. Nenhum gênero é especificado para esta emoji. Ver também Mulher no Smoking e o Homem de Smoking.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-in-tuxedo_1f935.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-in-tuxedo_1f935.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-in-tuxedo_1f935.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-in-tuxedo_1f935.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-in-tuxedo_1f935.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-in-tuxedo_1f935.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-in-tuxedo_1f935.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-in-tuxedo_1f935.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-in-tuxedo_1f935.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-in-tuxedo_1f935.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "festa",
+      "gala",
+      "homem",
+      "noivo",
+      "smoking"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F935;",
+      "HTML dec": "&#129333;",
+      "URL escape code": "%F0%9F%A4%B5",
+      "Punycode": "xn--uq9h",
+      "Bytes (UTF-8)": "F0 9F A4 B5",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD35",
+      "C, C++, Python": "\\U0001f935",
+      "CSS": "\\01F935",
+      "PHP, Ruby": "\\u{1F935}",
+      "Perl": "\\x{1F935}"
+    }
+  }
+}

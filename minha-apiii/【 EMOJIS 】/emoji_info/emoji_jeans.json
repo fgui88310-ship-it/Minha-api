@@ -1,0 +1,93 @@
+{
+  "emoji": "👖",
+  "nome": "👖 Jeans",
+  "categoria": "Jeans",
+  "url": "https://emojigraph.org/pt/jeans/",
+  "detalhes": {
+    "explicacao": "Calças jeans, usado por homens ou mulheres. Uma forma popular de calças casuais usado pelo corredor emoji da Apple.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/jeans_1f456.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/jeans_1f456.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "calça",
+      "jeans",
+      "roupa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F456;",
+      "HTML dec": "&#128086;",
+      "URL escape code": "%F0%9F%91%96",
+      "Punycode": "xn--7p8h",
+      "Bytes (UTF-8)": "F0 9F 91 96",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC56",
+      "C, C++, Python": "\\U0001f456",
+      "CSS": "\\01F456",
+      "PHP, Ruby": "\\u{1F456}",
+      "Perl": "\\x{1F456}"
+    }
+  }
+}

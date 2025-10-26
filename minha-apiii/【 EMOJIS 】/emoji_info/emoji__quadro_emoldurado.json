@@ -1,0 +1,70 @@
+{
+  "emoji": "🖼",
+  "nome": "🖼️ Quadro emoldurado",
+  "categoria": "framed picture",
+  "url": "https://emojigraph.org/pt/framed-picture/",
+  "detalhes": {
+    "explicacao": "Um quadro, uma pintura ou fotografia, como exibido em uma galeria ou em uma parede de família. Fornecedores de emoji podem apresentar várias cenas, geralmente, uma exuberante e ensolarada paisagem de morros e montanhas, em uma moldura de ouro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/framed-picture_1f5bc-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/framed-picture_1f5bc-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/framed-picture_1f5bc-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/framed-picture_1f5bc-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/framed-picture_1f5bc-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/framed-picture_1f5bc-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/framed-picture_1f5bc-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/framed-picture_1f5bc-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/framed-picture_1f5bc-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/framed-picture_1f5bc-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arte",
+      "moldura",
+      "pintura",
+      "quadro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5BC;&#xFE0F;",
+      "HTML dec": "&#128444;&#65039;",
+      "URL escape code": "%F0%9F%96%BC%EF%B8%8F",
+      "Punycode": "xn--g08h",
+      "Bytes (UTF-8)": "F0 9F 96 BC EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDBC\\uFE0F",
+      "C, C++, Python": "\\U0001f5bc\\uFE0F",
+      "CSS": "\\01F5BC \\FE0F",
+      "PHP, Ruby": "\\u{1F5BC}\\u{FE0F}",
+      "Perl": "\\x{1F5BC}\\x{FE0F}"
+    }
+  }
+}

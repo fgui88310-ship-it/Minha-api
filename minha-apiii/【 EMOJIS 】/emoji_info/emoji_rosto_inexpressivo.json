@@ -1,0 +1,90 @@
+{
+  "emoji": "😑",
+  "nome": "😑 Rosto inexpressivo",
+  "categoria": "expressionless face",
+  "url": "https://emojigraph.org/pt/expressionless-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com a televisão, os olhos fechados e a boca. Pode transmitir uma sensação de frustração ou aborrecimento mais intenso do que o sugerido por 😐 Rosto Neutro, como se tirar um momento para recolher em si.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/expressionless-face_1f611.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/expressionless-face_1f611.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "sem expressão",
+      "aff",
+      "inespressiva",
+      "inespressivo",
+      "nada a dizer",
+      "sem comentários",
+      "tanto faz"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F611;",
+      "HTML dec": "&#128529;",
+      "URL escape code": "%F0%9F%98%91",
+      "Punycode": "xn--v28h",
+      "Bytes (UTF-8)": "F0 9F 98 91",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE11",
+      "C, C++, Python": "\\U0001f611",
+      "CSS": "\\01F611",
+      "PHP, Ruby": "\\u{1F611}",
+      "Perl": "\\x{1F611}"
+    }
+  }
+}

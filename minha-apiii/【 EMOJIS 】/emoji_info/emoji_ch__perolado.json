@@ -1,0 +1,59 @@
+{
+  "emoji": "🧋",
+  "nome": "🧋 Chá perolado",
+  "categoria": "bubble tea",
+  "url": "https://emojigraph.org/pt/bubble-tea/",
+  "detalhes": {
+    "explicacao": "Bubble tea é um chá com base, bebida inventada em Taiwan, que em geral contêm chá, com leite, açúcar e outros sabores variados. Comumente servido com pérolas ou bolhas em um copo plástico, com ampla escolha de sabores.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bubble-tea_1f9cb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bubble-tea_1f9cb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bubble-tea_1f9cb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bubble-tea_1f9cb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bubble-tea_1f9cb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bubble-tea_1f9cb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bolha",
+      "chá",
+      "chá perolado",
+      "leite",
+      "pérola",
+      "bebida",
+      "bubble tea",
+      "comida",
+      "pobá"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9CB;",
+      "HTML dec": "&#129483;",
+      "URL escape code": "%F0%9F%A7%8B",
+      "Punycode": "xn--4u9h",
+      "Bytes (UTF-8)": "F0 9F A7 8B",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDCB",
+      "C, C++, Python": "\\U0001f9cb",
+      "CSS": "\\01F9CB",
+      "PHP, Ruby": "\\u{1F9CB}",
+      "Perl": "\\x{1F9CB}"
+    }
+  }
+}

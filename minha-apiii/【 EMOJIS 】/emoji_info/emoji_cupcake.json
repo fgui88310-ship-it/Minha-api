@@ -1,0 +1,76 @@
+{
+  "emoji": "🧁",
+  "nome": "🧁 Cupcake",
+  "categoria": "Cupcake",
+  "url": "https://emojigraph.org/pt/cupcake/",
+  "detalhes": {
+    "explicacao": "Um único cupcake em uma forminha de papel com um glacê de cobertura e o granulado. O estilo de cupcake varia bastante entre plataformas. O bolo pode ser de pão-de-ló ou de chocolate, a cobertura cor-de-rosa ou branco, e o granulado do arco-íris ou vermelho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cupcake_1f9c1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cupcake_1f9c1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cupcake_1f9c1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cupcake_1f9c1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cupcake_1f9c1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cupcake_1f9c1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cupcake_1f9c1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cupcake_1f9c1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cupcake_1f9c1.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/cupcake_1f9c1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bolo",
+      "confeitaria",
+      "cupcake",
+      "doce",
+      "torta",
+      "açúcar",
+      "bolinho",
+      "comida",
+      "confeito",
+      "sobremesa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9C1;",
+      "HTML dec": "&#129473;",
+      "URL escape code": "%F0%9F%A7%81",
+      "Punycode": "xn--uu9h",
+      "Bytes (UTF-8)": "F0 9F A7 81",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDC1",
+      "C, C++, Python": "\\U0001f9c1",
+      "CSS": "\\01F9C1",
+      "PHP, Ruby": "\\u{1F9C1}",
+      "Perl": "\\x{1F9C1}"
+    }
+  }
+}

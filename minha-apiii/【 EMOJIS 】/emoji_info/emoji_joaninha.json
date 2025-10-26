@@ -1,0 +1,95 @@
+{
+  "emoji": "🐞",
+  "nome": "🐞 Joaninha",
+  "categoria": "Lady Beetle",
+  "url": "https://emojigraph.org/pt/lady-beetle/",
+  "detalhes": {
+    "explicacao": "Uma joaninha (joaninha, senhora beetle), um besouro com uma rodada, o red shell com manchas pretas. Geralmente retratado como um sete ou nove manchado joaninha mostrado acima em suas seis pernas, com suas antenas e seus distintamente vermelho-e-preto, metade da shell.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/lady-beetle_1f41e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/lady-beetle_1f41e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "inseto",
+      "joaninha",
+      "animal",
+      "besouro",
+      "tipo de besouro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F41E;",
+      "HTML dec": "&#128030;",
+      "URL escape code": "%F0%9F%90%9E",
+      "Punycode": "xn--mo8h",
+      "Bytes (UTF-8)": "F0 9F 90 9E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC1E",
+      "C, C++, Python": "\\U0001f41e",
+      "CSS": "\\01F41E",
+      "PHP, Ruby": "\\u{1F41E}",
+      "Perl": "\\x{1F41E}"
+    }
+  }
+}

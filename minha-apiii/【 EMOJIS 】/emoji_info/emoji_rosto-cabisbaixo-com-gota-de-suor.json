@@ -1,0 +1,93 @@
+{
+  "emoji": "😓",
+  "nome": "😓 Rosto cabisbaixo com gota de suor",
+  "categoria": "Downcast Face With Sweat",
+  "url": "https://emojigraph.org/pt/downcast-face-with-sweat/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com os olhos fechados, a franzir a testa, e uma gota de suor escorrendo de sua testa. Geralmente representado com um único suor de no lado direito, embora a Microsoft inclui dois.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/downcast-face-with-sweat_1f613.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/downcast-face-with-sweat_1f613.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "suando frio",
+      "suor frio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F613;",
+      "HTML dec": "&#128531;",
+      "URL escape code": "%F0%9F%98%93",
+      "Punycode": "xn--x28h",
+      "Bytes (UTF-8)": "F0 9F 98 93",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE13",
+      "C, C++, Python": "\\U0001f613",
+      "CSS": "\\01F613",
+      "PHP, Ruby": "\\u{1F613}",
+      "Perl": "\\x{1F613}"
+    }
+  }
+}

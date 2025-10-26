@@ -1,0 +1,85 @@
+{
+  "emoji": "🌍",
+  "nome": "🌍 Globo mostrando Europa e África",
+  "categoria": "Globe Showing Europe Africa",
+  "url": "https://emojigraph.org/pt/globe-showing-europe-africa/",
+  "detalhes": {
+    "explicacao": "Um globo, mostrando os continentes da Europa e da África, verde contra o azul do oceano.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/globe-showing-europe-africa_1f30d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/globe-showing-europe-africa_1f30d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "África",
+      "Europa",
+      "Terra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F30D;",
+      "HTML dec": "&#127757;",
+      "URL escape code": "%F0%9F%8C%8D",
+      "Punycode": "xn--tg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 8D",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF0D",
+      "C, C++, Python": "\\U0001f30d",
+      "CSS": "\\01F30D",
+      "PHP, Ruby": "\\u{1F30D}",
+      "Perl": "\\x{1F30D}"
+    }
+  }
+}

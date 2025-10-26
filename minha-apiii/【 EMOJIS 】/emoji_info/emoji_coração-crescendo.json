@@ -1,0 +1,97 @@
+{
+  "emoji": "💗",
+  "nome": "💗 Coração crescendo",
+  "categoria": "Growing Heart",
+  "url": "https://emojigraph.org/pt/growing-heart/",
+  "detalhes": {
+    "explicacao": "Um coração cor de rosa, dentro do outro. Pretende-se dar a impressão de um coração aumentar de tamanho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/growing-heart_1f497.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/growing-heart_1f497.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amor",
+      "coração",
+      "emoção",
+      "nervosismo",
+      "animado",
+      "pulsando",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F497;",
+      "HTML dec": "&#128151;",
+      "URL escape code": "%F0%9F%92%97",
+      "Punycode": "xn--2r8h",
+      "Bytes (UTF-8)": "F0 9F 92 97",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC97",
+      "C, C++, Python": "\\U0001f497",
+      "CSS": "\\01F497",
+      "PHP, Ruby": "\\u{1F497}",
+      "Perl": "\\x{1F497}"
+    }
+  }
+}

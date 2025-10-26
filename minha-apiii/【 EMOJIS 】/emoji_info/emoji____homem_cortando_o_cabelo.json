@@ -1,0 +1,61 @@
+{
+  "emoji": "💇",
+  "nome": "💇‍♂️ Homem cortando o cabelo",
+  "categoria": "man getting haircut",
+  "url": "https://emojigraph.org/pt/man-getting-haircut/",
+  "detalhes": {
+    "explicacao": "O Homem Ficar Corte de cabelo emoji é uma sequência do 💇 Corte de cabelo e ♂ Masculino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-getting-haircut_1f487-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-getting-haircut_1f487-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-getting-haircut_1f487-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-getting-haircut_1f487-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-getting-haircut_1f487-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-getting-haircut_1f487-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-getting-haircut_1f487-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-getting-haircut_1f487-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "corte de cabelo",
+      "homem",
+      "salão de beleza"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F487;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#128135;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%92%87%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5hz810o",
+      "Bytes (UTF-8)": "F0 9F 92 87 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC87\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f487\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F487 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F487}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F487}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

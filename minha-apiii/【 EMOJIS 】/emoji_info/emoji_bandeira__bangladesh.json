@@ -1,0 +1,67 @@
+{
+  "emoji": "🇧🇩",
+  "nome": "🇧🇩 Bandeira: Bangladesh",
+  "categoria": "flag bangladesh",
+  "url": "https://emojigraph.org/pt/flag-bangladesh/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Bangladesh. Este símbolo é uma seqüência de caracteres 🇧 Símbolo Indicador Regional Letra B e 🇩 Símbolo Indicador Regional Letra D. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras BD em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-bangladesh_1f1e7-1f1e9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-bangladesh_1f1e7-1f1e9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-bangladesh_1f1e7-1f1e9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-bangladesh_1f1e7-1f1e9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-bangladesh_1f1e7-1f1e9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-bangladesh_1f1e7-1f1e9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-bangladesh_1f1e7-1f1e9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-bangladesh_1f1e7-1f1e9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-bangladesh_1f1e7-1f1e9.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-bangladesh_1f1e7-1f1e9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1E9;",
+      "HTML dec": "&#127463;&#127465;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%A9",
+      "Punycode": "xn--f77hea",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 A9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDE9",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1e9",
+      "CSS": "\\01F1E7 \\01F1E9",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1E9}",
+      "Perl": "\\x{1F1E7}\\x{1F1E9}"
+    }
+  }
+}

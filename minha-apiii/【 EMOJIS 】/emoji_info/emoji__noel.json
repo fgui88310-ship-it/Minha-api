@@ -1,0 +1,69 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍🎄 Noel",
+  "categoria": "mx claus",
+  "url": "https://emojigraph.org/pt/mx-claus/",
+  "detalhes": {
+    "explicacao": "O Mx Noel emoji é uma sequência do 🧑 Adultos e 🎄 Árvore de Natal emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mx-claus_1f9d1-200d-1f384.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mx-claus_1f9d1-200d-1f384.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mx-claus_1f9d1-200d-1f384.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mx-claus_1f9d1-200d-1f384.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mx-claus_1f9d1-200d-1f384.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mx-claus_1f9d1-200d-1f384.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mx-claus_1f9d1-200d-1f384.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mx-claus_1f9d1-200d-1f384.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "noel",
+      "Noel, natal",
+      "bom velhinho",
+      "chapéu",
+      "feliz natal",
+      "festas",
+      "gorro",
+      "natal",
+      "Noel",
+      "papai noel",
+      "pessoa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F384;",
+      "HTML dec": "&#129489;&#8205;&#127876;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%8E%84",
+      "Punycode": "xn--7j8hz4h",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F 8E 84",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83C\\uDF84",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f384",
+      "CSS": "\\01F9D1 \\200D \\01F384",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F384}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F384}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "🚄",
+  "nome": "🚄 Trem de alta velocidade",
+  "categoria": "High Speed Train",
+  "url": "https://emojigraph.org/pt/high-speed-train/",
+  "detalhes": {
+    "explicacao": "Um trem de alta velocidade, projetado para cobrir longas distâncias em alta velocidade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/high-speed-train_1f684.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/high-speed-train_1f684.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "trem",
+      "veículo",
+      "trem bala"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F684;",
+      "HTML dec": "&#128644;",
+      "URL escape code": "%F0%9F%9A%84",
+      "Punycode": "xn--558h",
+      "Bytes (UTF-8)": "F0 9F 9A 84",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE84",
+      "C, C++, Python": "\\U0001f684",
+      "CSS": "\\01F684",
+      "PHP, Ruby": "\\u{1F684}",
+      "Perl": "\\x{1F684}"
+    }
+  }
+}

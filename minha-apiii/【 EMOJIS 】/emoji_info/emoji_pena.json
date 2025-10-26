@@ -1,0 +1,71 @@
+{
+  "emoji": "🪶",
+  "nome": "🪶 Pena",
+  "categoria": "Feather",
+  "url": "https://emojigraph.org/pt/feather/",
+  "detalhes": {
+    "explicacao": "Uma imagem de desenho animado de uma pena, uma ferramenta que ajuda os pássaros a voar. Freqüentemente usado ao dizer a alguém para relaxar, mas também tem um significado estranho para as pessoas que estão se sentindo um pouco aventureiras e brincalhões. Pena foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/feather_1fab6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/feather_1fab6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/feather_1fab6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/feather_1fab6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/feather_1fab6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/feather_1fab6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/feather_1fab6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/feather_1fab6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/feather_1fab6.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/feather_1fab6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "leve",
+      "pássaro",
+      "pena",
+      "plumagem",
+      "voo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAB6;",
+      "HTML dec": "&#129718;",
+      "URL escape code": "%F0%9F%AA%B6",
+      "Punycode": "xn--u19h",
+      "Bytes (UTF-8)": "F0 9F AA B6",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEB6",
+      "C, C++, Python": "\\U0001fab6",
+      "CSS": "\\01FAB6",
+      "PHP, Ruby": "\\u{1FAB6}",
+      "Perl": "\\x{1FAB6}"
+    }
+  }
+}

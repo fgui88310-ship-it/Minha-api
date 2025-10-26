@@ -1,0 +1,72 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍💻 Tecnólogo",
+  "categoria": "man technologist",
+  "url": "https://emojigraph.org/pt/man-technologist/",
+  "detalhes": {
+    "explicacao": "Um homem atrás de uma tela de computador, trabalhando na área de tecnologia.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-technologist_1f468-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-technologist_1f468-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-technologist_1f468-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-technologist_1f468-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-technologist_1f468-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-technologist_1f468-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-technologist_1f468-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-technologist_1f468-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-technologist_1f468-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-technologist_1f468-200d-1f4bb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "desenvolvedor",
+      "homem",
+      "inventor",
+      "programador",
+      "software",
+      "tecnólogo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F4BB;",
+      "HTML dec": "&#128104;&#8205;&#128187;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB",
+      "Punycode": "xn--qq8hgf",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 92 BB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83D\\uDCBB",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f4bb",
+      "CSS": "\\01F468 \\200D \\01F4BB",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F4BB}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F4BB}"
+    }
+  }
+}

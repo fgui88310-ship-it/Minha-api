@@ -1,0 +1,59 @@
+{
+  "emoji": "🇨🇵",
+  "nome": "🇨🇵 Bandeira: Ilha de Clipperton",
+  "categoria": "flag clipperton island",
+  "url": "https://emojigraph.org/pt/flag-clipperton-island/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Ilha Clipperton. Este símbolo é uma seqüência de caracteres 🇨 Símbolo Indicador Regional Letra C e 🇵 Símbolo Indicador Regional Letra P. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras CP em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-clipperton-island_1f1e8-1f1f5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-clipperton-island_1f1e8-1f1f5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-clipperton-island_1f1e8-1f1f5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-clipperton-island_1f1e8-1f1f5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-clipperton-island_1f1e8-1f1f5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-clipperton-island_1f1e8-1f1f5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-clipperton-island_1f1e8-1f1f5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-clipperton-island_1f1e8-1f1f5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E8;&#x1F1F5;",
+      "HTML dec": "&#127464;&#127477;",
+      "URL escape code": "%F0%9F%87%A8%F0%9F%87%B5",
+      "Punycode": "xn--g77h0a",
+      "Bytes (UTF-8)": "F0 9F 87 A8 F0 9F 87 B5",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE8\\uD83C\\uDDF5",
+      "C, C++, Python": "\\U0001f1e8\\U0001f1f5",
+      "CSS": "\\01F1E8 \\01F1F5",
+      "PHP, Ruby": "\\u{1F1E8}\\u{1F1F5}",
+      "Perl": "\\x{1F1E8}\\x{1F1F5}"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "emoji": "🗄",
+  "nome": "🗄️ Gavetas de escritório",
+  "categoria": "file cabinet",
+  "url": "https://emojigraph.org/pt/file-cabinet/",
+  "detalhes": {
+    "explicacao": "Um armário de metal, como os usados para organizar e armazenar pastas de arquivo em um escritório. Representado em preto ou cinza, com duas gavetas, puxadores e etiqueta titulares.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/file-cabinet_1f5c4-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/file-cabinet_1f5c4-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/file-cabinet_1f5c4-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/file-cabinet_1f5c4-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/file-cabinet_1f5c4-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/file-cabinet_1f5c4-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/file-cabinet_1f5c4-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/file-cabinet_1f5c4-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/file-cabinet_1f5c4-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/file-cabinet_1f5c4-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arquivo",
+      "escritório",
+      "gabinete",
+      "gavetas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5C4;&#xFE0F;",
+      "HTML dec": "&#128452;&#65039;",
+      "URL escape code": "%F0%9F%97%84%EF%B8%8F",
+      "Punycode": "xn--o08h",
+      "Bytes (UTF-8)": "F0 9F 97 84 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDC4\\uFE0F",
+      "C, C++, Python": "\\U0001f5c4\\uFE0F",
+      "CSS": "\\01F5C4 \\FE0F",
+      "PHP, Ruby": "\\u{1F5C4}\\u{FE0F}",
+      "Perl": "\\x{1F5C4}\\x{FE0F}"
+    }
+  }
+}

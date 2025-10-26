@@ -1,0 +1,94 @@
+{
+  "emoji": "🚇",
+  "nome": "🚇 Metrô",
+  "categoria": "metro",
+  "url": "https://emojigraph.org/pt/metro/",
+  "detalhes": {
+    "explicacao": "Um metro: frequentes trem subterrâneo encontrado em áreas construídas com altas populações.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/metro_1f687.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/metro_1f687.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/metro_1f687.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/metro_1f687.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/metro_1f687.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/metro_1f687.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/metro_1f687.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/metro_1f687.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/metro_1f687.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/metro_1f687.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/metro_1f687.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/metro_1f687.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/metro_1f687.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/metro_1f687.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/metro_1f687.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/metro_1f687.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "metrô",
+      "veículo",
+      "trem",
+      "túnel"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F687;",
+      "HTML dec": "&#128647;",
+      "URL escape code": "%F0%9F%9A%87",
+      "Punycode": "xn--858h",
+      "Bytes (UTF-8)": "F0 9F 9A 87",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE87",
+      "C, C++, Python": "\\U0001f687",
+      "CSS": "\\01F687",
+      "PHP, Ruby": "\\u{1F687}",
+      "Perl": "\\x{1F687}"
+    }
+  }
+}

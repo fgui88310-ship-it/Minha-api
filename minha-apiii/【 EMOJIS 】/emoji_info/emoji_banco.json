@@ -1,0 +1,92 @@
+{
+  "emoji": "🏦",
+  "nome": "🏦 Banco",
+  "categoria": "Bank",
+  "url": "https://emojigraph.org/pt/bank/",
+  "detalhes": {
+    "explicacao": "Um banco de varejo do ramo, onde as pessoas podem executar dinheiro tarefas relacionadas. Também um local comum para encontrar um caixa eletrônico.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bank_1f3e6.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bank_1f3e6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "banco",
+      "prédio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3E6;",
+      "HTML dec": "&#127974;",
+      "URL escape code": "%F0%9F%8F%A6",
+      "Punycode": "xn--0m8h",
+      "Bytes (UTF-8)": "F0 9F 8F A6",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFE6",
+      "C, C++, Python": "\\U0001f3e6",
+      "CSS": "\\01F3E6",
+      "PHP, Ruby": "\\u{1F3E6}",
+      "Perl": "\\x{1F3E6}"
+    }
+  }
+}

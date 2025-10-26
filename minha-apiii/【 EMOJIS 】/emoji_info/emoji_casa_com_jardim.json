@@ -1,0 +1,95 @@
+{
+  "emoji": "🏡",
+  "nome": "🏡 Casa com jardim",
+  "categoria": "house with garden",
+  "url": "https://emojigraph.org/pt/house-with-garden/",
+  "detalhes": {
+    "explicacao": "Um exterior-à procura de casa, com uma árvore, uma flor, ou arbustos em torno dele no jardim.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/house-with-garden_1f3e1.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/house-with-garden_1f3e1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "casa",
+      "casa com jardim",
+      "construção",
+      "jardim",
+      "lar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3E1;",
+      "HTML dec": "&#127969;",
+      "URL escape code": "%F0%9F%8F%A1",
+      "Punycode": "xn--vm8h",
+      "Bytes (UTF-8)": "F0 9F 8F A1",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFE1",
+      "C, C++, Python": "\\U0001f3e1",
+      "CSS": "\\01F3E1",
+      "PHP, Ruby": "\\u{1F3E1}",
+      "Perl": "\\x{1F3E1}"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "emoji": "💮",
+  "nome": "💮 Flor branca",
+  "categoria": "White Flower",
+  "url": "https://emojigraph.org/pt/white-flower/",
+  "detalhes": {
+    "explicacao": "Estilizada branca flor. Geralmente retratado como uma roseta em forma de flor de cerejeira cor-de-rosa ou vermelho, estrutura de tópicos, muitas vezes com um preenchimento branco.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/white-flower_1f4ae.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/white-flower_1f4ae.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "flor",
+      "flor branca",
+      "carimbo",
+      "carimbo de flor"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4AE;",
+      "HTML dec": "&#128174;",
+      "URL escape code": "%F0%9F%92%AE",
+      "Punycode": "xn--qs8h",
+      "Bytes (UTF-8)": "F0 9F 92 AE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCAE",
+      "C, C++, Python": "\\U0001f4ae",
+      "CSS": "\\01F4AE",
+      "PHP, Ruby": "\\u{1F4AE}",
+      "Perl": "\\x{1F4AE}"
+    }
+  }
+}

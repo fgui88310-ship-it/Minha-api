@@ -1,0 +1,69 @@
+{
+  "emoji": "🦷",
+  "nome": "🦷 Dente",
+  "categoria": "Tooth",
+  "url": "https://emojigraph.org/pt/tooth/",
+  "detalhes": {
+    "explicacao": "A imagem de um dente cartoonizado. Frequentemente usado no contexto de atendimento odontológico. Dentes foi aprovado como parte do Unicode 11.0 em 2018e acrescentou para o Emoji 11.0 em 2018.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tooth_1f9b7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tooth_1f9b7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tooth_1f9b7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tooth_1f9b7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tooth_1f9b7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tooth_1f9b7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tooth_1f9b7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tooth_1f9b7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tooth_1f9b7.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/tooth_1f9b7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dente",
+      "dentista",
+      "branco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9B7;",
+      "HTML dec": "&#129463;",
+      "URL escape code": "%F0%9F%A6%B7",
+      "Punycode": "xn--ku9h",
+      "Bytes (UTF-8)": "F0 9F A6 B7",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDB7",
+      "C, C++, Python": "\\U0001f9b7",
+      "CSS": "\\01F9B7",
+      "PHP, Ruby": "\\u{1F9B7}",
+      "Perl": "\\x{1F9B7}"
+    }
+  }
+}

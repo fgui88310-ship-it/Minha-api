@@ -1,0 +1,99 @@
+{
+  "emoji": "🍡",
+  "nome": "🍡 Dango",
+  "categoria": "Dango",
+  "url": "https://emojigraph.org/pt/dango/",
+  "detalhes": {
+    "explicacao": "Um doce Japonês bolinho de farinha de arroz e servido no espeto. Descrito como um botchan dango, composto por um cor-de-rosa, branco ou amarelo, verde e bola, como de cor de feijão vermelho, ovo e chá verde. Assemelha-se a Oden e destaque na Lua de Visualização Cerimônia, usado em Japonês festival para celebrar a lua cheia.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dango_1f361.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dango_1f361.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dango_1f361.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dango_1f361.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dango_1f361.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dango_1f361.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dango_1f361.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dango_1f361.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dango_1f361.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dango_1f361.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dango_1f361.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dango_1f361.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dango_1f361.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dango_1f361.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/dango_1f361.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/dango_1f361.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bolinho japonês",
+      "dango",
+      "japonês",
+      "mochi",
+      "mochiko",
+      "sobremesa",
+      "comida",
+      "doce",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F361;",
+      "HTML dec": "&#127841;",
+      "URL escape code": "%F0%9F%8D%A1",
+      "Punycode": "xn--7i8h",
+      "Bytes (UTF-8)": "F0 9F 8D A1",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF61",
+      "C, C++, Python": "\\U0001f361",
+      "CSS": "\\01F361",
+      "PHP, Ruby": "\\u{1F361}",
+      "Perl": "\\x{1F361}"
+    }
+  }
+}

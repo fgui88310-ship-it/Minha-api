@@ -1,0 +1,101 @@
+{
+  "emoji": "🌈",
+  "nome": "🌈 Arco-íris",
+  "categoria": "rainbow",
+  "url": "https://emojigraph.org/pt/rainbow/",
+  "detalhes": {
+    "explicacao": "O arco colorido um arco-íris, como pode aparecer depois da chuva. Geralmente descrito como a metade esquerda de um de arco-íris, mostrando seis faixas de cores: vermelho, laranja, amarelo, verde, azul e violeta.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/rainbow_1f308.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/rainbow_1f308.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arco-íris",
+      "chuva",
+      "clima",
+      "gay",
+      "lésbica",
+      "lgbt",
+      "lgbtqia+",
+      "natureza",
+      "orgulho",
+      "queer",
+      "transgênero"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F308;",
+      "HTML dec": "&#127752;",
+      "URL escape code": "%F0%9F%8C%88",
+      "Punycode": "xn--og8h",
+      "Bytes (UTF-8)": "F0 9F 8C 88",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF08",
+      "C, C++, Python": "\\U0001f308",
+      "CSS": "\\01F308",
+      "PHP, Ruby": "\\u{1F308}",
+      "Perl": "\\x{1F308}"
+    }
+  }
+}

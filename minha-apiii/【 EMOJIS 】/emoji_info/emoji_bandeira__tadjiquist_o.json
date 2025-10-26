@@ -1,0 +1,59 @@
+{
+  "emoji": "🇹🇯",
+  "nome": "🇹🇯 Bandeira: Tadjiquistão",
+  "categoria": "flag tajikistan",
+  "url": "https://emojigraph.org/pt/flag-tajikistan/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Tajiquistão. Este símbolo é uma seqüência de caracteres 🇹 Símbolo Indicador Regional Letra T e 🇯 Símbolo Indicador Regional Letra J. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras TJ em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-tajikistan_1f1f9-1f1ef.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-tajikistan_1f1f9-1f1ef.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-tajikistan_1f1f9-1f1ef.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-tajikistan_1f1f9-1f1ef.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-tajikistan_1f1f9-1f1ef.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-tajikistan_1f1f9-1f1ef.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-tajikistan_1f1f9-1f1ef.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-tajikistan_1f1f9-1f1ef.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F9;&#x1F1EF;",
+      "HTML dec": "&#127481;&#127471;",
+      "URL escape code": "%F0%9F%87%B9%F0%9F%87%AF",
+      "Punycode": "xn--n77hta",
+      "Bytes (UTF-8)": "F0 9F 87 B9 F0 9F 87 AF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF9\\uD83C\\uDDEF",
+      "C, C++, Python": "\\U0001f1f9\\U0001f1ef",
+      "CSS": "\\01F1F9 \\01F1EF",
+      "PHP, Ruby": "\\u{1F1F9}\\u{1F1EF}",
+      "Perl": "\\x{1F1F9}\\x{1F1EF}"
+    }
+  }
+}

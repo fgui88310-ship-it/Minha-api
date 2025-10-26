@@ -1,0 +1,70 @@
+{
+  "emoji": "🤌",
+  "nome": "🤌 Dedos comprimidos",
+  "categoria": "pinched fingers",
+  "url": "https://emojigraph.org/pt/pinched-fingers/",
+  "detalhes": {
+    "explicacao": "Um emoji, mostrando todos os dedos e o polegar mantidos juntos em uma orientação vertical, por vezes referido como o italiano gesto de mão ma che vuoi (ou \"dedo bolsa\").",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pinched-fingers_1f90c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pinched-fingers_1f90c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pinched-fingers_1f90c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pinched-fingers_1f90c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pinched-fingers_1f90c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pinched-fingers_1f90c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pinched-fingers_1f90c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pinched-fingers_1f90c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "beliscado",
+      "dedos",
+      "gesto de mão",
+      "interrogação",
+      "sarcástico",
+      "como",
+      "hã",
+      "itália",
+      "mão",
+      "mão de coxinha",
+      "mão italiana",
+      "o quê"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F90C;",
+      "HTML dec": "&#129292;",
+      "URL escape code": "%F0%9F%A4%8C",
+      "Punycode": "xn--op9h",
+      "Bytes (UTF-8)": "F0 9F A4 8C",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD0C",
+      "C, C++, Python": "\\U0001f90c",
+      "CSS": "\\01F90C",
+      "PHP, Ruby": "\\u{1F90C}",
+      "Perl": "\\x{1F90C}"
+    }
+  }
+}

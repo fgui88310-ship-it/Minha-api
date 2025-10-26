@@ -1,0 +1,70 @@
+{
+  "emoji": "🥓",
+  "nome": "🥓 Bacon",
+  "categoria": "Bacon",
+  "url": "https://emojigraph.org/pt/bacon/",
+  "detalhes": {
+    "explicacao": "Tiras crocantes, ácidas, bacon marrom-avermelhadas, como frito para o almoço. Representado como um par na maioria das plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bacon_1f953.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bacon_1f953.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bacon_1f953.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bacon_1f953.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bacon_1f953.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bacon_1f953.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bacon_1f953.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bacon_1f953.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bacon_1f953.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bacon_1f953.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bacon",
+      "comida",
+      "toucinho",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F953;",
+      "HTML dec": "&#129363;",
+      "URL escape code": "%F0%9F%A5%93",
+      "Punycode": "xn--pr9h",
+      "Bytes (UTF-8)": "F0 9F A5 93",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD53",
+      "C, C++, Python": "\\U0001f953",
+      "CSS": "\\01F953",
+      "PHP, Ruby": "\\u{1F953}",
+      "Perl": "\\x{1F953}"
+    }
+  }
+}

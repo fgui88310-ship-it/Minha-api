@@ -1,0 +1,59 @@
+{
+  "emoji": "🇬🇼",
+  "nome": "🇬🇼 Bandeira: Guiné-Bissau",
+  "categoria": "flag guinea bissau",
+  "url": "https://emojigraph.org/pt/flag-guinea-bissau/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Guiné-Bissau. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇼 Símbolo Indicador Regional Letra W. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GW em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-guinea-bissau_1f1ec-1f1fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-guinea-bissau_1f1ec-1f1fc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-guinea-bissau_1f1ec-1f1fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-guinea-bissau_1f1ec-1f1fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-guinea-bissau_1f1ec-1f1fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-guinea-bissau_1f1ec-1f1fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-guinea-bissau_1f1ec-1f1fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-guinea-bissau_1f1ec-1f1fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1FC;",
+      "HTML dec": "&#127468;&#127484;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%BC",
+      "Punycode": "xn--k77h6a",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 BC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDFC",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1fc",
+      "CSS": "\\01F1EC \\01F1FC",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1FC}",
+      "Perl": "\\x{1F1EC}\\x{1F1FC}"
+    }
+  }
+}

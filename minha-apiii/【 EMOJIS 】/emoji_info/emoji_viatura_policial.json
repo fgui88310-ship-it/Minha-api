@@ -1,0 +1,93 @@
+{
+  "emoji": "🚓",
+  "nome": "🚓 Viatura policial",
+  "categoria": "police car",
+  "url": "https://emojigraph.org/pt/police-car/",
+  "detalhes": {
+    "explicacao": "Um carro da polícia, mostrado com uma luz de emergência no topo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/police-car_1f693.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/police-car_1f693.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carro patrulha",
+      "polícia",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F693;",
+      "HTML dec": "&#128659;",
+      "URL escape code": "%F0%9F%9A%93",
+      "Punycode": "xn--l68h",
+      "Bytes (UTF-8)": "F0 9F 9A 93",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE93",
+      "C, C++, Python": "\\U0001f693",
+      "CSS": "\\01F693",
+      "PHP, Ruby": "\\u{1F693}",
+      "Perl": "\\x{1F693}"
+    }
+  }
+}

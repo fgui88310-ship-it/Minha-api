@@ -1,0 +1,65 @@
+{
+  "emoji": "🫑",
+  "nome": "🫑 Pimentão",
+  "categoria": "Bell Pepper",
+  "url": "https://emojigraph.org/pt/bell-pepper/",
+  "detalhes": {
+    "explicacao": "Uma imagem dos desenhos animados do pimentão doce e colorido. Freqüentemente usado em seu significado direto. Pimentão foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bell-pepper_1fad1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bell-pepper_1fad1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bell-pepper_1fad1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bell-pepper_1fad1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bell-pepper_1fad1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bell-pepper_1fad1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bell-pepper_1fad1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bell-pepper_1fad1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "capsicum",
+      "pimenta",
+      "pimentão",
+      "vegetal",
+      "alimento",
+      "comida",
+      "pimentão verde"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAD1;",
+      "HTML dec": "&#129745;",
+      "URL escape code": "%F0%9F%AB%91",
+      "Punycode": "xn--m29h",
+      "Bytes (UTF-8)": "F0 9F AB 91",
+      "JavaScript, JSON, Java": "\\uD83E\\uDED1",
+      "C, C++, Python": "\\U0001fad1",
+      "CSS": "\\01FAD1",
+      "PHP, Ruby": "\\u{1FAD1}",
+      "Perl": "\\x{1FAD1}"
+    }
+  }
+}

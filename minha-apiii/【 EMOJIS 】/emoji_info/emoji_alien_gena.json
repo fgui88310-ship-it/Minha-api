@@ -1,0 +1,94 @@
+{
+  "emoji": "👽",
+  "nome": "👽 Alienígena",
+  "categoria": "alien",
+  "url": "https://emojigraph.org/pt/alien/",
+  "detalhes": {
+    "explicacao": "Um clássico rosto alien. É oval, sua cabeça é de uma cor cinza ou verde alienígena com grandes olhos negros, e um ligeiro sorriso amigável. Na Samsung mostra narinas, no Facebook um nariz.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/alien_1f47d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/alien_1f47d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alienígena",
+      "extraterrestre",
+      "OVNI",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F47D;",
+      "HTML dec": "&#128125;",
+      "URL escape code": "%F0%9F%91%BD",
+      "Punycode": "xn--cr8h",
+      "Bytes (UTF-8)": "F0 9F 91 BD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC7D",
+      "C, C++, Python": "\\U0001f47d",
+      "CSS": "\\01F47D",
+      "PHP, Ruby": "\\u{1F47D}",
+      "Perl": "\\x{1F47D}"
+    }
+  }
+}

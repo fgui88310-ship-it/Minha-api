@@ -1,0 +1,62 @@
+{
+  "emoji": "🧔",
+  "nome": "🧔‍♂️ Homem: barbudo",
+  "categoria": "man beard",
+  "url": "https://emojigraph.org/pt/man-beard/",
+  "detalhes": {
+    "explicacao": "Um homem com barba é uma versão de gênero do design de emoji \"Pessoa barbada\". É usado para indicar puberdade, estilo, autorrepresentação ou para elogiar quem usa barba.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-beard_1f9d4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-beard_1f9d4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-beard_1f9d4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-beard_1f9d4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-beard_1f9d4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-beard_1f9d4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-beard_1f9d4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/man-beard_1f9d4-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barba",
+      "homem",
+      "homem: barba",
+      "homem: barbudo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1f9d4;&#x200d;&#x2642;&#xfe0f;",
+      "HTML dec": "&#129492;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%A7%94%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5hx212o",
+      "Bytes (UTF-8)": "f0 9f a7 94 e2 80 8d e2 99 82 ef b8 8f",
+      "JavaScript, JSON, Java": "\\ud83e\\uddd4\\u200d\\u2642\\ufe0f",
+      "C, C++, Python": "\\U0001f9d4\\u000200d\\u0002642\\u000fe0f",
+      "CSS": "\\01F9D4 \\0200D \\02642 \\0FE0F",
+      "PHP, Ruby": "\\u{1F9D4}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F9D4}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

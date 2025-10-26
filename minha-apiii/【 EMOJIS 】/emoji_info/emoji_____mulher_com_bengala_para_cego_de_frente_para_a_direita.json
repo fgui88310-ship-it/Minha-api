@@ -1,0 +1,52 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍🦯‍➡️ Mulher com bengala para cego de frente para a direita",
+  "categoria": "woman with white cane facing right",
+  "url": "https://emojigraph.org/pt/woman-with-white-cane-facing-right/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-with-white-cane-facing-right_1f469-200d-1f9af-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-with-white-cane-facing-right_1f469-200d-1f9af-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-with-white-cane-facing-right_1f469-200d-1f9af-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-with-white-cane-facing-right_1f469-200d-1f9af-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-with-white-cane-facing-right_1f469-200d-1f9af-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/woman-with-white-cane-facing-right_1f469-200d-1f9af-200d-27a1-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "accessibilidade",
+      "cega",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F9AF;&#x200D;&#x27A1;&#xFE0F;",
+      "HTML dec": "&#128105;&#8205;&#129455;&#8205;&#10145;&#65039;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%A6%AF%E2%80%8D%E2%9E%A1%EF%B8%8F",
+      "Bytes (UTF-8)": "f0 9f 91 a9 e2 80 8d f0 9f a6 af e2 80 8d e2 9e a1 ef b8 8f",
+      "JavaScript, JSON, Java": "\\ud83d\\udc69\\u200d\\ud83e\\uddaf\\u200d\\u27a1\\ufe0f",
+      "C, C++, Python": "\\U0001f469\\u000200d\\u0001f9af\\u000200d\\u00027a1\\u000fe0f",
+      "CSS": "\\01F469 \\0200D \\01F9AF \\0200D \\027A1 \\0FE0F",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F9AF}\\u{200D}\\u{27A1}\\u{FE0F}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F9AF}\\x{200D}\\x{27A1}\\x{FE0F}"
+    }
+  }
+}

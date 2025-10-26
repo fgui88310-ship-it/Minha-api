@@ -1,0 +1,61 @@
+{
+  "emoji": "🐦",
+  "nome": "🐦‍🔥 Fênix",
+  "categoria": "phoenix",
+  "url": "https://emojigraph.org/pt/phoenix/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/phoenix_1f426-200d-1f525.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/phoenix_1f426-200d-1f525.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/phoenix_1f426-200d-1f525.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/phoenix_1f426-200d-1f525.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/phoenix_1f426-200d-1f525.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/phoenix_1f426-200d-1f525.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fantasia",
+      "fênix",
+      "imortal",
+      "pássaro de fogo",
+      "reemergir",
+      "reencarnação",
+      "reencarnar",
+      "reincarnação",
+      "renascer",
+      "renascimento",
+      "reviver",
+      "transformação"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F426;&#x200D;&#x1F525;",
+      "HTML dec": "&#128038;&#8205;&#128293;",
+      "URL escape code": "%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5",
+      "Bytes (UTF-8)": "f0 9f 90 a6 e2 80 8d f0 9f 94 a5",
+      "JavaScript, JSON, Java": "\\ud83d\\udc26\\u200d\\ud83d\\udd25",
+      "C, C++, Python": "\\U0001f426\\u000200d\\u0001f525",
+      "CSS": "\\01F426 \\0200D \\01F525",
+      "PHP, Ruby": "\\u{1F426}\\u{200D}\\u{1F525}",
+      "Perl": "\\x{1F426}\\x{200D}\\x{1F525}"
+    }
+  }
+}

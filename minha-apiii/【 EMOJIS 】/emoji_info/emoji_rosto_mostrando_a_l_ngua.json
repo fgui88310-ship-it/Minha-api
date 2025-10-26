@@ -1,0 +1,83 @@
+{
+  "emoji": "😛",
+  "nome": "😛 Rosto mostrando a língua",
+  "categoria": "face with tongue",
+  "url": "https://emojigraph.org/pt/face-with-tongue/",
+  "detalhes": {
+    "explicacao": "Uma face amarelas, abrindo os olhos e um grande sorriso, jmostrando para fora a sua língua. Pode variadamente transmitir um sentido de diversão, emoção, tolice, fofura, de felicidade, ou de brincadeira, como se dizendo Só brincadeira!",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/face-with-tongue_1f61b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/face-with-tongue_1f61b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F61B;",
+      "HTML dec": "&#128539;",
+      "URL escape code": "%F0%9F%98%9B",
+      "Punycode": "xn--528h",
+      "Bytes (UTF-8)": "F0 9F 98 9B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE1B",
+      "C, C++, Python": "\\U0001f61b",
+      "CSS": "\\01F61B",
+      "PHP, Ruby": "\\u{1F61B}",
+      "Perl": "\\x{1F61B}"
+    }
+  }
+}

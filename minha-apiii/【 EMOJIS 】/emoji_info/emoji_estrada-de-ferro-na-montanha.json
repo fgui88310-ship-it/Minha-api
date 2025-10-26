@@ -1,0 +1,86 @@
+{
+  "emoji": "🚞",
+  "nome": "🚞 Estrada de ferro na montanha",
+  "categoria": "Mountain Railway",
+  "url": "https://emojigraph.org/pt/mountain-railway/",
+  "detalhes": {
+    "explicacao": "Um trem ferroviário e nas montanhas. Apresentado como um funicular da Microsoft, obras de arte, ou uma comboios regulares em outras plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/mountain-railway_1f69e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/mountain-railway_1f69e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carro",
+      "montanha",
+      "teleférico",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F69E;",
+      "HTML dec": "&#128670;",
+      "URL escape code": "%F0%9F%9A%9E",
+      "Punycode": "xn--w68h",
+      "Bytes (UTF-8)": "F0 9F 9A 9E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE9E",
+      "C, C++, Python": "\\U0001f69e",
+      "CSS": "\\01F69E",
+      "PHP, Ruby": "\\u{1F69E}",
+      "Perl": "\\x{1F69E}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "😞",
+  "nome": "😞 Rosto desapontado",
+  "categoria": "Disappointed Face",
+  "url": "https://emojigraph.org/pt/disappointed-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, com um franzir de testa e fechando os olhos humildes, como se estivesse com tristeza ou dor. Pode transmitir uma variedade de emoções infelizes, incluindo a decepção, a tristeza, o estresse, o remorso.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/disappointed-face_1f61e.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/disappointed-face_1f61e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "desapontamento",
+      "rosto",
+      "decepção",
+      "desapontado",
+      "triste"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F61E;",
+      "HTML dec": "&#128542;",
+      "URL escape code": "%F0%9F%98%9E",
+      "Punycode": "xn--828h",
+      "Bytes (UTF-8)": "F0 9F 98 9E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE1E",
+      "C, C++, Python": "\\U0001f61e",
+      "CSS": "\\01F61E",
+      "PHP, Ruby": "\\u{1F61E}",
+      "Perl": "\\x{1F61E}"
+    }
+  }
+}

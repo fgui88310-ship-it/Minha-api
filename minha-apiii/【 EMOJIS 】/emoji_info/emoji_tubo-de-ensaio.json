@@ -1,0 +1,75 @@
+{
+  "emoji": "🧪",
+  "nome": "🧪 Tubo de ensaio",
+  "categoria": "Test Tube",
+  "url": "https://emojigraph.org/pt/test-tube/",
+  "detalhes": {
+    "explicacao": "Um tubo de ensaio, como para a condução de experimentos químicos em laboratório. Retratado como um cilindro, aberto em uma extremidade e contendo um líquido verde. Posicionado em um ângulo de 45°.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/test-tube_1f9ea.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/test-tube_1f9ea.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/test-tube_1f9ea.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/test-tube_1f9ea.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/test-tube_1f9ea.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/test-tube_1f9ea.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/test-tube_1f9ea.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/test-tube_1f9ea.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/test-tube_1f9ea.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/test-tube_1f9ea.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ciência",
+      "experiência",
+      "laboratório",
+      "química",
+      "químico",
+      "tubo de ensaio",
+      "ensaio",
+      "experimento",
+      "tubo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9EA;",
+      "HTML dec": "&#129514;",
+      "URL escape code": "%F0%9F%A7%AA",
+      "Punycode": "xn--0v9h",
+      "Bytes (UTF-8)": "F0 9F A7 AA",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDEA",
+      "C, C++, Python": "\\U0001f9ea",
+      "CSS": "\\01F9EA",
+      "PHP, Ruby": "\\u{1F9EA}",
+      "Perl": "\\x{1F9EA}"
+    }
+  }
+}

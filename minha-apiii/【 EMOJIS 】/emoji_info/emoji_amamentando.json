@@ -1,0 +1,70 @@
+{
+  "emoji": "🤱",
+  "nome": "🤱 Amamentando",
+  "categoria": "Breast Feeding",
+  "url": "https://emojigraph.org/pt/breast-feeding/",
+  "detalhes": {
+    "explicacao": "Uma mulher mostrado amamentando um bebê, às vezes olhando para o bebê e sorrindo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/breast-feeding_1f931.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/breast-feeding_1f931.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/breast-feeding_1f931.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/breast-feeding_1f931.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/breast-feeding_1f931.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/breast-feeding_1f931.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/breast-feeding_1f931.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/breast-feeding_1f931.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/breast-feeding_1f931.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/breast-feeding_1f931.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amamentação",
+      "amamentando",
+      "bebê",
+      "neném"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F931;",
+      "HTML dec": "&#129329;",
+      "URL escape code": "%F0%9F%A4%B1",
+      "Punycode": "xn--qq9h",
+      "Bytes (UTF-8)": "F0 9F A4 B1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD31",
+      "C, C++, Python": "\\U0001f931",
+      "CSS": "\\01F931",
+      "PHP, Ruby": "\\u{1F931}",
+      "Perl": "\\x{1F931}"
+    }
+  }
+}

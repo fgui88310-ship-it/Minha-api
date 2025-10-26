@@ -1,0 +1,96 @@
+{
+  "emoji": "🏮",
+  "nome": "🏮 Lanterna vermelha de papel",
+  "categoria": "red paper lantern",
+  "url": "https://emojigraph.org/pt/red-paper-lantern/",
+  "detalhes": {
+    "explicacao": "Um vermelho lanterna de papel, como trava de fora de um izakaya, um bar Japonês que serve bebidas e casual de alimentos. Geralmente retratado como cilíndrica com um top preto e base e macio, brilho alaranjado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/red-paper-lantern_1f3ee.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/red-paper-lantern_1f3ee.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bar",
+      "izakaya",
+      "lanterna",
+      "vermelha",
+      "papel",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3EE;",
+      "HTML dec": "&#127982;",
+      "URL escape code": "%F0%9F%8F%AE",
+      "Punycode": "xn--8m8h",
+      "Bytes (UTF-8)": "F0 9F 8F AE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFEE",
+      "C, C++, Python": "\\U0001f3ee",
+      "CSS": "\\01F3EE",
+      "PHP, Ruby": "\\u{1F3EE}",
+      "Perl": "\\x{1F3EE}"
+    }
+  }
+}

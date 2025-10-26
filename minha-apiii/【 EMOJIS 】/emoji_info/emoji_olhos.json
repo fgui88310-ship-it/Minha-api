@@ -1,0 +1,95 @@
+{
+  "emoji": "👀",
+  "nome": "👀 Olhos",
+  "categoria": "Eyes",
+  "url": "https://emojigraph.org/pt/eyes/",
+  "detalhes": {
+    "explicacao": "Um par de olhos, olhando um pouco para a esquerda na maioria das plataformas. O Google versão deste emoji anteriormente mostrou apenas um único olho, apesar do nome do personagem olhos (plural).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/eyes_1f440.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/eyes_1f440.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "olho",
+      "olhos",
+      "rosto",
+      "olhando",
+      "tô de olho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F440;",
+      "HTML dec": "&#128064;",
+      "URL escape code": "%F0%9F%91%80",
+      "Punycode": "xn--lp8h",
+      "Bytes (UTF-8)": "F0 9F 91 80",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC40",
+      "C, C++, Python": "\\U0001f440",
+      "CSS": "\\01F440",
+      "PHP, Ruby": "\\u{1F440}",
+      "Perl": "\\x{1F440}"
+    }
+  }
+}

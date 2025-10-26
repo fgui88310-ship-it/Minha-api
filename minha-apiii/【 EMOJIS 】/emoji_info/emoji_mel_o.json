@@ -1,0 +1,92 @@
+{
+  "emoji": "🍈",
+  "nome": "🍈 Melão",
+  "categoria": "melon",
+  "url": "https://emojigraph.org/pt/melon/",
+  "detalhes": {
+    "explicacao": "Um melão fruta em uma luz azul-esverdeado, marrom-casca. Descrito como um melão pela maioria das plataformas, mas pode se assemelhar a um honeydew à distância.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/melon_1f348.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/melon_1f348.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/melon_1f348.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/melon_1f348.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/melon_1f348.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/melon_1f348.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/melon_1f348.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/melon_1f348.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/melon_1f348.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/melon_1f348.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/melon_1f348.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/melon_1f348.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/melon_1f348.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/melon_1f348.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/melon_1f348.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/melon_1f348.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fruta",
+      "melão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F348;",
+      "HTML dec": "&#127816;",
+      "URL escape code": "%F0%9F%8D%88",
+      "Punycode": "xn--ii8h",
+      "Bytes (UTF-8)": "F0 9F 8D 88",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF48",
+      "C, C++, Python": "\\U0001f348",
+      "CSS": "\\01F348",
+      "PHP, Ruby": "\\u{1F348}",
+      "Perl": "\\x{1F348}"
+    }
+  }
+}

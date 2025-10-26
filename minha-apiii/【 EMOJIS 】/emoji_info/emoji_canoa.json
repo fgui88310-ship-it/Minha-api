@@ -1,0 +1,68 @@
+{
+  "emoji": "🛶",
+  "nome": "🛶 Canoa",
+  "categoria": "Canoe",
+  "url": "https://emojigraph.org/pt/canoe/",
+  "detalhes": {
+    "explicacao": "Passeio de canoa foi aprovado como parte do Unicode 9.0 em 2016e acrescentou para o Emoji 3.0 em 2016.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/canoe_1f6f6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/canoe_1f6f6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/canoe_1f6f6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/canoe_1f6f6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/canoe_1f6f6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/canoe_1f6f6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/canoe_1f6f6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/canoe_1f6f6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/canoe_1f6f6.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/canoe_1f6f6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barco",
+      "canoa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6F6;",
+      "HTML dec": "&#128758;",
+      "URL escape code": "%F0%9F%9B%B6",
+      "Punycode": "xn--f98h",
+      "Bytes (UTF-8)": "F0 9F 9B B6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEF6",
+      "C, C++, Python": "\\U0001f6f6",
+      "CSS": "\\01F6F6",
+      "PHP, Ruby": "\\u{1F6F6}",
+      "Perl": "\\x{1F6F6}"
+    }
+  }
+}

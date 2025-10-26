@@ -1,0 +1,96 @@
+{
+  "emoji": "😢",
+  "nome": "😢 Rosto chorando",
+  "categoria": "crying face",
+  "url": "https://emojigraph.org/pt/crying-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com as sobrancelhas abaixadas e um ligeiro franzir nas sobrancelhas, lançando uma única, lágrima azul de um olho para baixo de sua bochecha. Pode transmitir um grau moderado de tristeza ou de dor, geralmente menos intensa do que 😭 Rosto Chorando aos Berros.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/crying-face_1f622.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/crying-face_1f622.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "lágrimas",
+      "rosto",
+      "rosto chorando",
+      "triste",
+      "chorando",
+      "choro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F622;",
+      "HTML dec": "&#128546;",
+      "URL escape code": "%F0%9F%98%A2",
+      "Punycode": "xn--d38h",
+      "Bytes (UTF-8)": "F0 9F 98 A2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE22",
+      "C, C++, Python": "\\U0001f622",
+      "CSS": "\\01F622",
+      "PHP, Ruby": "\\u{1F622}",
+      "Perl": "\\x{1F622}"
+    }
+  }
+}

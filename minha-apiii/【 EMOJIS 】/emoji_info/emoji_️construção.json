@@ -1,0 +1,68 @@
+{
+  "emoji": "🏗",
+  "nome": "🏗️ Construção",
+  "categoria": "Building Construction",
+  "url": "https://emojigraph.org/pt/building-construction/",
+  "detalhes": {
+    "explicacao": "Um local de construção é geralmente retratado como um guindaste de torre mostrado levantamento de aço ou outros materiais de construção.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/building-construction_1f3d7-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/building-construction_1f3d7-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/building-construction_1f3d7-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/building-construction_1f3d7-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/building-construction_1f3d7-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/building-construction_1f3d7-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/building-construction_1f3d7-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/building-construction_1f3d7-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/building-construction_1f3d7-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/building-construction_1f3d7-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "construção",
+      "obra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3D7;&#xFE0F;",
+      "HTML dec": "&#127959;&#65039;",
+      "URL escape code": "%F0%9F%8F%97%EF%B8%8F",
+      "Punycode": "xn--lm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 97 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFD7\\uFE0F",
+      "C, C++, Python": "\\U0001f3d7\\uFE0F",
+      "CSS": "\\01F3D7 \\FE0F",
+      "PHP, Ruby": "\\u{1F3D7}\\u{FE0F}",
+      "Perl": "\\x{1F3D7}\\x{FE0F}"
+    }
+  }
+}

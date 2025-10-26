@@ -1,0 +1,65 @@
+{
+  "emoji": "🫔",
+  "nome": "🫔 Tamale",
+  "categoria": "Tamale",
+  "url": "https://emojigraph.org/pt/tamale/",
+  "detalhes": {
+    "explicacao": "Tamale foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tamale_1fad4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tamale_1fad4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tamale_1fad4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tamale_1fad4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tamale_1fad4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tamale_1fad4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tamale_1fad4.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/tamale_1fad4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "enrolado",
+      "mexicano",
+      "tamale",
+      "alimento",
+      "comida",
+      "milho",
+      "pamonha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAD4;",
+      "HTML dec": "&#129748;",
+      "URL escape code": "%F0%9F%AB%94",
+      "Punycode": "xn--p29h",
+      "Bytes (UTF-8)": "F0 9F AB 94",
+      "JavaScript, JSON, Java": "\\uD83E\\uDED4",
+      "C, C++, Python": "\\U0001fad4",
+      "CSS": "\\01FAD4",
+      "PHP, Ruby": "\\u{1FAD4}",
+      "Perl": "\\x{1FAD4}"
+    }
+  }
+}

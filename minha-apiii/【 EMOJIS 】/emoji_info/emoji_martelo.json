@@ -1,0 +1,95 @@
+{
+  "emoji": "🔨",
+  "nome": "🔨 Martelo",
+  "categoria": "Hammer",
+  "url": "https://emojigraph.org/pt/hammer/",
+  "detalhes": {
+    "explicacao": "Um martelo, como utilizado para a construção ou remoção de pregos. Geralmente representado com uma cabeça de metal e cabo de madeira, posicionado em um ângulo de 45° com a cabeça na parte superior esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/hammer_1f528.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/hammer_1f528.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ferramenta",
+      "martelo",
+      "construção",
+      "martelada",
+      "reparo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F528;",
+      "HTML dec": "&#128296;",
+      "URL escape code": "%F0%9F%94%A8",
+      "Punycode": "xn--7v8h",
+      "Bytes (UTF-8)": "F0 9F 94 A8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD28",
+      "C, C++, Python": "\\U0001f528",
+      "CSS": "\\01F528",
+      "PHP, Ruby": "\\u{1F528}",
+      "Perl": "\\x{1F528}"
+    }
+  }
+}

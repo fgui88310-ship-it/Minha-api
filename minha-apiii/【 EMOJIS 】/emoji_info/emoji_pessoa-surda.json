@@ -1,0 +1,73 @@
+{
+  "emoji": "🧏",
+  "nome": "🧏 Pessoa surda",
+  "categoria": "Deaf Person",
+  "url": "https://emojigraph.org/pt/deaf-person/",
+  "detalhes": {
+    "explicacao": "Uma pessoa apontando com seu dedo indicador entre a orelha e a boca, usado como um surdos na Linguagem Americana de sinais (ASL) e uma série de outras global de línguas de sinais. Veja também 🦻 Ouvido Com aparelhos Auditivos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/deaf-person_1f9cf.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/deaf-person_1f9cf.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/deaf-person_1f9cf.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/deaf-person_1f9cf.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/deaf-person_1f9cf.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/deaf-person_1f9cf.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/deaf-person_1f9cf.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/deaf-person_1f9cf.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/deaf-person_1f9cf.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/deaf-person_1f9cf.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade",
+      "audição",
+      "orelha",
+      "pessoa surda",
+      "surdos",
+      "surda",
+      "surdo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9CF;",
+      "HTML dec": "&#129487;",
+      "URL escape code": "%F0%9F%A7%8F",
+      "Punycode": "xn--8u9h",
+      "Bytes (UTF-8)": "F0 9F A7 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDCF",
+      "C, C++, Python": "\\U0001f9cf",
+      "CSS": "\\01F9CF",
+      "PHP, Ruby": "\\u{1F9CF}",
+      "Perl": "\\x{1F9CF}"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "emoji": "🫕",
+  "nome": "🫕 Fondue",
+  "categoria": "Fondue",
+  "url": "https://emojigraph.org/pt/fondue/",
+  "detalhes": {
+    "explicacao": "Fondue foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fondue_1fad5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fondue_1fad5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fondue_1fad5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fondue_1fad5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fondue_1fad5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fondue_1fad5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chocolate",
+      "derretido",
+      "fondue",
+      "panela",
+      "queijo",
+      "suíço",
+      "alimento",
+      "comida"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAD5;",
+      "HTML dec": "&#129749;",
+      "URL escape code": "%F0%9F%AB%95",
+      "Punycode": "xn--q29h",
+      "Bytes (UTF-8)": "F0 9F AB 95",
+      "JavaScript, JSON, Java": "\\uD83E\\uDED5",
+      "C, C++, Python": "\\U0001fad5",
+      "CSS": "\\01FAD5",
+      "PHP, Ruby": "\\u{1FAD5}",
+      "Perl": "\\x{1FAD5}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "🖨",
+  "nome": "🖨️ Impressora",
+  "categoria": "printer",
+  "url": "https://emojigraph.org/pt/printer/",
+  "detalhes": {
+    "explicacao": "Uma impressora de computador, como em um home office. Geralmente retratado como um acinzentada dispositivo com um botão de alimentação de papel e carregada na bandeja, às vezes, a impressão de um documento. Pode ser usado para vários conteúdos sobre impressão, incluindo como um ícone de Impressão, bem como para trabalho de escritório e de tecnologia em geral.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/printer_1f5a8-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/printer_1f5a8-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/printer_1f5a8-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/printer_1f5a8-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/printer_1f5a8-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/printer_1f5a8-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/printer_1f5a8-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/printer_1f5a8-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/printer_1f5a8-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/printer_1f5a8-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "computador",
+      "impressora"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5A8;&#xFE0F;",
+      "HTML dec": "&#128424;&#65039;",
+      "URL escape code": "%F0%9F%96%A8%EF%B8%8F",
+      "Punycode": "xn--vz8h",
+      "Bytes (UTF-8)": "F0 9F 96 A8 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDA8\\uFE0F",
+      "C, C++, Python": "\\U0001f5a8\\uFE0F",
+      "CSS": "\\01F5A8 \\FE0F",
+      "PHP, Ruby": "\\u{1F5A8}\\u{FE0F}",
+      "Perl": "\\x{1F5A8}\\x{FE0F}"
+    }
+  }
+}

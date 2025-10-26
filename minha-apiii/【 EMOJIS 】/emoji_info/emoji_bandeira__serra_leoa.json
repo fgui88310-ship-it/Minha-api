@@ -1,0 +1,59 @@
+{
+  "emoji": "🇸🇱",
+  "nome": "🇸🇱 Bandeira: Serra Leoa",
+  "categoria": "flag sierra leone",
+  "url": "https://emojigraph.org/pt/flag-sierra-leone/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Serra Leoa. Este símbolo é uma seqüência de caracteres 🇸 Símbolo Indicador Regional Letra S e 🇱 Símbolo Indicador Regional Letra L. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras SL em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-sierra-leone_1f1f8-1f1f1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-sierra-leone_1f1f8-1f1f1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-sierra-leone_1f1f8-1f1f1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-sierra-leone_1f1f8-1f1f1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-sierra-leone_1f1f8-1f1f1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-sierra-leone_1f1f8-1f1f1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-sierra-leone_1f1f8-1f1f1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-sierra-leone_1f1f8-1f1f1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F8;&#x1F1F1;",
+      "HTML dec": "&#127480;&#127473;",
+      "URL escape code": "%F0%9F%87%B8%F0%9F%87%B1",
+      "Punycode": "xn--p77hna",
+      "Bytes (UTF-8)": "F0 9F 87 B8 F0 9F 87 B1",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF8\\uD83C\\uDDF1",
+      "C, C++, Python": "\\U0001f1f8\\U0001f1f1",
+      "CSS": "\\01F1F8 \\01F1F1",
+      "PHP, Ruby": "\\u{1F1F8}\\u{1F1F1}",
+      "Perl": "\\x{1F1F8}\\x{1F1F1}"
+    }
+  }
+}

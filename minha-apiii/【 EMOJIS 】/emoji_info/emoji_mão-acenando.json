@@ -1,0 +1,100 @@
+{
+  "emoji": "👋",
+  "nome": "👋 Mão acenando",
+  "categoria": "Waving Hand",
+  "url": "https://emojigraph.org/pt/waving-hand/",
+  "detalhes": {
+    "explicacao": "Uma mão acenando mais comumente usado para dizer \"olá\" ou \"adeus\".",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/waving-hand_1f44b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/waving-hand_1f44b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aceno",
+      "mão",
+      "mão acenando",
+      "até mais",
+      "está aí?",
+      "flw",
+      "oi",
+      "olá",
+      "taí?",
+      "tchau"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F44B;",
+      "HTML dec": "&#128075;",
+      "URL escape code": "%F0%9F%91%8B",
+      "Punycode": "xn--wp8h",
+      "Bytes (UTF-8)": "F0 9F 91 8B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC4B",
+      "C, C++, Python": "\\U0001f44b",
+      "CSS": "\\01F44B",
+      "PHP, Ruby": "\\u{1F44B}",
+      "Perl": "\\x{1F44B}"
+    }
+  }
+}

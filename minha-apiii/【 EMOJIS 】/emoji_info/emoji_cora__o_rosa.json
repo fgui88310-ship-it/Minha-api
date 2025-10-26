@@ -1,0 +1,81 @@
+{
+  "emoji": "🩷",
+  "nome": "🩷 Coração rosa",
+  "categoria": "pink heart",
+  "url": "https://emojigraph.org/pt/pink-heart/",
+  "detalhes": {
+    "explicacao": "Um coração de cor rosa é usado para representar o amor, a amizade feminina, a própria cor rosa ou como adorno em uma mensagem afetuosa. Semelhante a 💖 Coração brilhante em algumas plataformas, mas sem faíscas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pink-heart_1fa77.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pink-heart_1fa77.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pink-heart_1fa77.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pink-heart_1fa77.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pink-heart_1fa77.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pink-heart_1fa77.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pink-heart_1fa77.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pink-heart_1fa77.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pink-heart_1fa77.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/pink-heart_1fa77.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amor",
+      "coração",
+      "curtir",
+      "fofo",
+      "rosa",
+      "adorar",
+      "adorável",
+      "adorei",
+      "amável",
+      "amo você",
+      "emoção",
+      "especial",
+      "eu te amo",
+      "gostar",
+      "gostei",
+      "te amo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA77;",
+      "HTML dec": "&#129655;",
+      "URL escape code": "%F0%9F%A9%B7",
+      "Bytes (UTF-8)": "f0 9f a9 b7",
+      "JavaScript, JSON, Java": "\\ud83e\\ude77",
+      "C, C++, Python": "\\U0001fa77",
+      "CSS": "\\01FA77",
+      "PHP, Ruby": "\\u{1FA77}",
+      "Perl": "\\x{1FA77}"
+    }
+  }
+}

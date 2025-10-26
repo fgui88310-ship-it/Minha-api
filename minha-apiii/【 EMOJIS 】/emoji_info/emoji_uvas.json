@@ -1,0 +1,93 @@
+{
+  "emoji": "🍇",
+  "nome": "🍇 Uvas",
+  "categoria": "Grapes",
+  "url": "https://emojigraph.org/pt/grapes/",
+  "detalhes": {
+    "explicacao": "Um cacho de uva, como cortado da videira e usado para fazer vinho. Retratado como o vermelho (cor púrpura) de uvas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/grapes_1f347.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/grapes_1f347.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fruta",
+      "uvas",
+      "uva"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F347;",
+      "HTML dec": "&#127815;",
+      "URL escape code": "%F0%9F%8D%87",
+      "Punycode": "xn--hi8h",
+      "Bytes (UTF-8)": "F0 9F 8D 87",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF47",
+      "C, C++, Python": "\\U0001f347",
+      "CSS": "\\01F347",
+      "PHP, Ruby": "\\u{1F347}",
+      "Perl": "\\x{1F347}"
+    }
+  }
+}

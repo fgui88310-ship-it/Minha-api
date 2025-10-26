@@ -1,0 +1,71 @@
+{
+  "emoji": "🌨",
+  "nome": "🌨️ Nuvem com neve",
+  "categoria": "cloud with snow",
+  "url": "https://emojigraph.org/pt/cloud-with-snow/",
+  "detalhes": {
+    "explicacao": "Uma neve nuvem. Descrito como azul flocos de neve caindo de uma nuvem branca.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cloud-with-snow_1f328-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cloud-with-snow_1f328-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cloud-with-snow_1f328-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cloud-with-snow_1f328-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cloud-with-snow_1f328-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cloud-with-snow_1f328-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cloud-with-snow_1f328-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cloud-with-snow_1f328-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cloud-with-snow_1f328-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cloud-with-snow_1f328-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "clima",
+      "frio",
+      "neve",
+      "nuvem",
+      "nuvem com neve"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F328;&#xFE0F;",
+      "HTML dec": "&#127784;&#65039;",
+      "URL escape code": "%F0%9F%8C%A8%EF%B8%8F",
+      "Punycode": "xn--lh8h",
+      "Bytes (UTF-8)": "F0 9F 8C A8 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF28\\uFE0F",
+      "C, C++, Python": "\\U0001f328\\uFE0F",
+      "CSS": "\\01F328 \\FE0F",
+      "PHP, Ruby": "\\u{1F328}\\u{FE0F}",
+      "Perl": "\\x{1F328}\\x{FE0F}"
+    }
+  }
+}

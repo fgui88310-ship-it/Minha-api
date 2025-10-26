@@ -1,0 +1,92 @@
+{
+  "emoji": "📋",
+  "nome": "📋 Prancheta",
+  "categoria": "Clipboard",
+  "url": "https://emojigraph.org/pt/clipboard/",
+  "detalhes": {
+    "explicacao": "Um pedaço de papel branco preso por um clipe de prata em uma prancheta marrom que é utilizado como uma superfície de escrita quando estiver em pé. Comumente usado para conteúdo sobre os diversos tipos de documentos e escrita, principalmente nos esportes.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/clipboard_1f4cb.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/clipboard_1f4cb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "anotações",
+      "prancheta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4CB;",
+      "HTML dec": "&#128203;",
+      "URL escape code": "%F0%9F%93%8B",
+      "Punycode": "xn--kt8h",
+      "Bytes (UTF-8)": "F0 9F 93 8B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCCB",
+      "C, C++, Python": "\\U0001f4cb",
+      "CSS": "\\01F4CB",
+      "PHP, Ruby": "\\u{1F4CB}",
+      "Perl": "\\x{1F4CB}"
+    }
+  }
+}

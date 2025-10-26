@@ -1,0 +1,97 @@
+{
+  "emoji": "😣",
+  "nome": "😣 Rosto perseverante",
+  "categoria": "Persevering Face",
+  "url": "https://emojigraph.org/pt/persevering-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela, com um ligeiro franzir de testa, franzida sobrancelhas, e enrugadas, em forma de X olhos, como se estivesse segurando as lágrimas ou que exercem grande esforço. Pode transmitir vários graus e tons de frustração, tristeza, desamparo, e de luta. Facebook de design dispõe de uma luz púrpura testa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/persevering-face_1f623.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/persevering-face_1f623.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "perseverança",
+      "perseverante",
+      "concentração",
+      "concentrado",
+      "dor de cabeça",
+      "foco",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F623;",
+      "HTML dec": "&#128547;",
+      "URL escape code": "%F0%9F%98%A3",
+      "Punycode": "xn--e38h",
+      "Bytes (UTF-8)": "F0 9F 98 A3",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE23",
+      "C, C++, Python": "\\U0001f623",
+      "CSS": "\\01F623",
+      "PHP, Ruby": "\\u{1F623}",
+      "Perl": "\\x{1F623}"
+    }
+  }
+}

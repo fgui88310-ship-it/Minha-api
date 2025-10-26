@@ -1,0 +1,61 @@
+{
+  "emoji": "💇",
+  "nome": "💇‍♀️ Mulher cortando o cabelo",
+  "categoria": "woman getting haircut",
+  "url": "https://emojigraph.org/pt/woman-getting-haircut/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 💇 Corte de cabelo emoji. Atualmente idêntico em aparência a não-gênero da base de dados de emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-getting-haircut_1f487-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-getting-haircut_1f487-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-getting-haircut_1f487-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-getting-haircut_1f487-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-getting-haircut_1f487-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-getting-haircut_1f487-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-getting-haircut_1f487-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-getting-haircut_1f487-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "corte de cabelo",
+      "mulher",
+      "salão de beleza"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F487;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128135;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%92%87%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h3810o",
+      "Bytes (UTF-8)": "F0 9F 92 87 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC87\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f487\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F487 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F487}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F487}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "emoji": "🪻",
+  "nome": "🪻 Jacinto",
+  "categoria": "Hyacinth",
+  "url": "https://emojigraph.org/pt/hyacinth/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hyacinth_1fabb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hyacinth_1fabb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hyacinth_1fabb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hyacinth_1fabb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hyacinth_1fabb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hyacinth_1fabb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hyacinth_1fabb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hyacinth_1fabb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hyacinth_1fabb.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/hyacinth_1fabb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bluebonnet",
+      "flor",
+      "jacinto",
+      "lavanda",
+      "lupinus",
+      "arbusto",
+      "lilás",
+      "planta",
+      "primavera",
+      "roxo",
+      "violeta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FABB;",
+      "HTML dec": "&#129723;",
+      "URL escape code": "%F0%9F%AA%BB",
+      "Bytes (UTF-8)": "f0 9f aa bb",
+      "JavaScript, JSON, Java": "\\ud83e\\udebb",
+      "C, C++, Python": "\\U0001fabb",
+      "CSS": "\\01FABB",
+      "PHP, Ruby": "\\u{1FABB}",
+      "Perl": "\\x{1FABB}"
+    }
+  }
+}

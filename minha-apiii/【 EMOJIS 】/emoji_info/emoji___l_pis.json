@@ -1,0 +1,91 @@
+{
+  "emoji": "",
+  "nome": "✏️ Lápis",
+  "categoria": "pencil",
+  "url": "https://emojigraph.org/pt/pencil/",
+  "detalhes": {
+    "explicacao": "Um clássico lápis amarelo. Descrito como um lápis de grafite, como um U.S. #2 ou Europeu HB, com uma ponta afiada e borracha cor-de-rosa. Posicionado em um ângulo de 45°, com a sua ponta na parte inferior esquerda ou para a direita. Comumente utilizado para vários conteúdos relativos a escrita, o desenho e a educação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pencil_270f-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pencil_270f-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "lápis"
+    ],
+    "codigos": {
+      "HTML hex": "&#x270F;&#xFE0F;",
+      "HTML dec": "&#9999;&#65039;",
+      "URL escape code": "%E2%9C%8F%EF%B8%8F",
+      "Punycode": "xn--bci",
+      "Bytes (UTF-8)": "E2 9C 8F EF B8 8F",
+      "JavaScript, JSON, Java": "\\u270F\\uFE0F",
+      "C, C++, Python": "\\u270F\\uFE0F",
+      "CSS": "\\270F \\FE0F",
+      "PHP, Ruby": "\\u{270F}\\u{FE0F}",
+      "Perl": "\\x{270F}\\x{FE0F}"
+    }
+  }
+}

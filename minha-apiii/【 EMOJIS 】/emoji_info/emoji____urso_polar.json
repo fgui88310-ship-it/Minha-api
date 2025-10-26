@@ -1,0 +1,70 @@
+{
+  "emoji": "🐻",
+  "nome": "🐻‍❄️ Urso polar",
+  "categoria": "polar bear",
+  "url": "https://emojigraph.org/pt/polar-bear/",
+  "detalhes": {
+    "explicacao": "O Urso Polar emoji é uma sequência do 🐻 Urso Rosto e ❄ floco de Neve emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/polar-bear_1f43b-200d-2744-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/polar-bear_1f43b-200d-2744-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/polar-bear_1f43b-200d-2744-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/polar-bear_1f43b-200d-2744-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/polar-bear_1f43b-200d-2744-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/polar-bear_1f43b-200d-2744-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/polar-bear_1f43b-200d-2744-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/polar-bear_1f43b-200d-2744-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/polar-bear_1f43b-200d-2744-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/polar-bear_1f43b-200d-2744-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ártico",
+      "branco",
+      "urso",
+      "urso polar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F43B;&#x200D;&#x2744;&#xFE0F;",
+      "HTML dec": "&#128059;&#8205;&#10052;&#65039;",
+      "URL escape code": "%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F",
+      "Punycode": "xn--tdi7648m",
+      "Bytes (UTF-8)": "F0 9F 90 BB E2 80 8D E2 9D 84 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC3B\\u200D\\u2744\\uFE0F",
+      "C, C++, Python": "\\U0001f43b\\u200D\\u2744\\uFE0F",
+      "CSS": "\\01F43B \\200D \\2744 \\FE0F",
+      "PHP, Ruby": "\\u{1F43B}\\u{200D}\\u{2744}\\u{FE0F}",
+      "Perl": "\\x{1F43B}\\x{200D}\\x{2744}\\x{FE0F}"
+    }
+  }
+}

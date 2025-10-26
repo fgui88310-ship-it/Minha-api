@@ -1,0 +1,70 @@
+{
+  "emoji": "🤛",
+  "nome": "🤛 Punho esquerdo",
+  "categoria": "left facing fist",
+  "url": "https://emojigraph.org/pt/left-facing-fist/",
+  "detalhes": {
+    "explicacao": "Um punho apontando para a esquerda, que pode ser usado em conjunto com o direito voltado para o punho para concluir um gesto de ''toquinho''.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/left-facing-fist_1f91b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/left-facing-fist_1f91b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/left-facing-fist_1f91b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/left-facing-fist_1f91b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/left-facing-fist_1f91b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/left-facing-fist_1f91b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/left-facing-fist_1f91b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/left-facing-fist_1f91b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/left-facing-fist_1f91b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/left-facing-fist_1f91b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esquerdo",
+      "punho",
+      "soco",
+      "mão fechada"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F91B;",
+      "HTML dec": "&#129307;",
+      "URL escape code": "%F0%9F%A4%9B",
+      "Punycode": "xn--3p9h",
+      "Bytes (UTF-8)": "F0 9F A4 9B",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD1B",
+      "C, C++, Python": "\\U0001f91b",
+      "CSS": "\\01F91B",
+      "PHP, Ruby": "\\u{1F91B}",
+      "Perl": "\\x{1F91B}"
+    }
+  }
+}

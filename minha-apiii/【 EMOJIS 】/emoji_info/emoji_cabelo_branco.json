@@ -1,0 +1,62 @@
+{
+  "emoji": "🦳",
+  "nome": "🦳 Cabelo branco",
+  "categoria": "white hair",
+  "url": "https://emojigraph.org/pt/white-hair/",
+  "detalhes": {
+    "explicacao": "Cabelo branco foi aprovado como parte do Unicode 11.0 em 2018sob o nome de \"Emoji Componente de Cabelos Brancos\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/white-hair_1f9b3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/white-hair_1f9b3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/white-hair_1f9b3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/white-hair_1f9b3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/white-hair_1f9b3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/white-hair_1f9b3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/white-hair_1f9b3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/white-hair_1f9b3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "branco",
+      "cabelo",
+      "grisalho",
+      "velho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9B3;",
+      "HTML dec": "&#129459;",
+      "URL escape code": "%F0%9F%A6%B3",
+      "Punycode": "xn--gu9h",
+      "Bytes (UTF-8)": "F0 9F A6 B3",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDB3",
+      "C, C++, Python": "\\U0001f9b3",
+      "CSS": "\\01F9B3",
+      "PHP, Ruby": "\\u{1F9B3}",
+      "Perl": "\\x{1F9B3}"
+    }
+  }
+}

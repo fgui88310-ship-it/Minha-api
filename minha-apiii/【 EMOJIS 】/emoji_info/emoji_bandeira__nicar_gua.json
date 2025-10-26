@@ -1,0 +1,59 @@
+{
+  "emoji": "🇳🇮",
+  "nome": "🇳🇮 Bandeira: Nicarágua",
+  "categoria": "flag nicaragua",
+  "url": "https://emojigraph.org/pt/flag-nicaragua/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Nicarágua. Este símbolo é uma seqüência de caracteres 🇳 Símbolo Indicador Regional Letra N e 🇮 Símbolo Indicador Regional Letra I. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras NI em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-nicaragua_1f1f3-1f1ee.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-nicaragua_1f1f3-1f1ee.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-nicaragua_1f1f3-1f1ee.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-nicaragua_1f1f3-1f1ee.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-nicaragua_1f1f3-1f1ee.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-nicaragua_1f1f3-1f1ee.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-nicaragua_1f1f3-1f1ee.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-nicaragua_1f1f3-1f1ee.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F3;&#x1F1EE;",
+      "HTML dec": "&#127475;&#127470;",
+      "URL escape code": "%F0%9F%87%B3%F0%9F%87%AE",
+      "Punycode": "xn--m77hja",
+      "Bytes (UTF-8)": "F0 9F 87 B3 F0 9F 87 AE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF3\\uD83C\\uDDEE",
+      "C, C++, Python": "\\U0001f1f3\\U0001f1ee",
+      "CSS": "\\01F1F3 \\01F1EE",
+      "PHP, Ruby": "\\u{1F1F3}\\u{1F1EE}",
+      "Perl": "\\x{1F1F3}\\x{1F1EE}"
+    }
+  }
+}

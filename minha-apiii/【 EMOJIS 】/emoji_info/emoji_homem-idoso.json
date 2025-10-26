@@ -1,0 +1,97 @@
+{
+  "emoji": "👴",
+  "nome": "👴 Homem idoso",
+  "categoria": "Old Man",
+  "url": "https://emojigraph.org/pt/old-man/",
+  "detalhes": {
+    "explicacao": "Um homem idoso gray (cinza) do cabelo, e visível das rugas. Careca em muitas versões desta obra, tais como Apple e Microsoft projetos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/old-man_1f474.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/old-man_1f474.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "adulto",
+      "homem",
+      "idoso",
+      "avô",
+      "careca",
+      "pessoas",
+      "vovô"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F474;",
+      "HTML dec": "&#128116;",
+      "URL escape code": "%F0%9F%91%B4",
+      "Punycode": "xn--2q8h",
+      "Bytes (UTF-8)": "F0 9F 91 B4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC74",
+      "C, C++, Python": "\\U0001f474",
+      "CSS": "\\01F474",
+      "PHP, Ruby": "\\u{1F474}",
+      "Perl": "\\x{1F474}"
+    }
+  }
+}

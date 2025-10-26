@@ -1,0 +1,70 @@
+{
+  "emoji": "🪔",
+  "nome": "🪔 Lâmpada de óleo",
+  "categoria": "diya lamp",
+  "url": "https://emojigraph.org/pt/diya-lamp/",
+  "detalhes": {
+    "explicacao": "Diya Lâmpada foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/diya-lamp_1fa94.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/diya-lamp_1fa94.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/diya-lamp_1fa94.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/diya-lamp_1fa94.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/diya-lamp_1fa94.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/diya-lamp_1fa94.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/diya-lamp_1fa94.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/diya-lamp_1fa94.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/diya-lamp_1fa94.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/diya-lamp_1fa94.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "diya",
+      "lâmpada",
+      "lâmpada de óleo",
+      "óleo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA94;",
+      "HTML dec": "&#129684;",
+      "URL escape code": "%F0%9F%AA%94",
+      "Punycode": "xn--v09h",
+      "Bytes (UTF-8)": "F0 9F AA 94",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE94",
+      "C, C++, Python": "\\U0001fa94",
+      "CSS": "\\01FA94",
+      "PHP, Ruby": "\\u{1FA94}",
+      "Perl": "\\x{1FA94}"
+    }
+  }
+}

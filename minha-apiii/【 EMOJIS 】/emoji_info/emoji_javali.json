@@ -1,0 +1,92 @@
+{
+  "emoji": "🐗",
+  "nome": "🐗 Javali",
+  "categoria": "Boar",
+  "url": "https://emojigraph.org/pt/boar/",
+  "detalhes": {
+    "explicacao": "Um javali, um peludo, o porco selvagem com as presas. Geralmente retratado como o rosto de um marrom javali, tanto virada para a esquerda ou olhando diretamente para a frente, com grandes presas de projetar a partir de sua mandíbula inferior.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/boar_1f417.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/boar_1f417.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/boar_1f417.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/boar_1f417.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/boar_1f417.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/boar_1f417.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/boar_1f417.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/boar_1f417.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/boar_1f417.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/boar_1f417.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/boar_1f417.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/boar_1f417.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/boar_1f417.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/boar_1f417.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/boar_1f417.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/boar_1f417.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "javali"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F417;",
+      "HTML dec": "&#128023;",
+      "URL escape code": "%F0%9F%90%97",
+      "Punycode": "xn--fo8h",
+      "Bytes (UTF-8)": "F0 9F 90 97",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC17",
+      "C, C++, Python": "\\U0001f417",
+      "CSS": "\\01F417",
+      "PHP, Ruby": "\\u{1F417}",
+      "Perl": "\\x{1F417}"
+    }
+  }
+}

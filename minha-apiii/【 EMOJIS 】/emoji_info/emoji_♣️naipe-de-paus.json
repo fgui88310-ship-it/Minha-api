@@ -1,0 +1,96 @@
+{
+  "emoji": "",
+  "nome": "♣️ Naipe de paus",
+  "categoria": "Club Suit",
+  "url": "https://emojigraph.org/pt/club-suit/",
+  "detalhes": {
+    "explicacao": "Um clube símbolo emoji, que é usado em jogos de cartão para o clubes terno.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/club-suit_2663-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/club-suit_2663-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "baralho",
+      "carta",
+      "jogo",
+      "naipe",
+      "naipe de paus",
+      "paus"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2663;&#xFE0F;",
+      "HTML dec": "&#9827;&#65039;",
+      "URL escape code": "%E2%99%A3%EF%B8%8F",
+      "Punycode": "xn--e6h",
+      "Bytes (UTF-8)": "E2 99 A3 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2663\\uFE0F",
+      "C, C++, Python": "\\u2663\\uFE0F",
+      "CSS": "\\2663 \\FE0F",
+      "PHP, Ruby": "\\u{2663}\\u{FE0F}",
+      "Perl": "\\x{2663}\\x{FE0F}"
+    }
+  }
+}

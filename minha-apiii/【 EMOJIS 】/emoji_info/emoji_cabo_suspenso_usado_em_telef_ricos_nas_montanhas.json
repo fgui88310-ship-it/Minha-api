@@ -1,0 +1,87 @@
+{
+  "emoji": "🚠",
+  "nome": "🚠 Cabo suspenso usado em teleféricos nas montanhas",
+  "categoria": "mountain cableway",
+  "url": "https://emojigraph.org/pt/mountain-cableway/",
+  "detalhes": {
+    "explicacao": "Montanha de Teleférico foi aprovado como parte do Unicode 6.0 em 2010e acrescentou para o Emoji 1.0 em 2015.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/mountain-cableway_1f6a0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/mountain-cableway_1f6a0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bonde",
+      "cabo",
+      "montanha",
+      "teleférico",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6A0;",
+      "HTML dec": "&#128672;",
+      "URL escape code": "%F0%9F%9A%A0",
+      "Punycode": "xn--y68h",
+      "Bytes (UTF-8)": "F0 9F 9A A0",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEA0",
+      "C, C++, Python": "\\U0001f6a0",
+      "CSS": "\\01F6A0",
+      "PHP, Ruby": "\\u{1F6A0}",
+      "Perl": "\\x{1F6A0}"
+    }
+  }
+}

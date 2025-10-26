@@ -1,0 +1,71 @@
+{
+  "emoji": "🥞",
+  "nome": "🥞 Panquecas",
+  "categoria": "Pancakes",
+  "url": "https://emojigraph.org/pt/pancakes/",
+  "detalhes": {
+    "explicacao": "Uma pilha de panquecas de café da manhã, coberto com um molho de manteiga e xarope de bordo escorrendo para baixo sua marrom-dourado lados, em um prato em algumas plataformas. Associado com o Cristão observância de terça-feira de Carnaval, ou \"Panqueca Dia.\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pancakes_1f95e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pancakes_1f95e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pancakes_1f95e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pancakes_1f95e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pancakes_1f95e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pancakes_1f95e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pancakes_1f95e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pancakes_1f95e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pancakes_1f95e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pancakes_1f95e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comida",
+      "crepes",
+      "panquecas",
+      "café da manhã",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F95E;",
+      "HTML dec": "&#129374;",
+      "URL escape code": "%F0%9F%A5%9E",
+      "Punycode": "xn--0r9h",
+      "Bytes (UTF-8)": "F0 9F A5 9E",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD5E",
+      "C, C++, Python": "\\U0001f95e",
+      "CSS": "\\01F95E",
+      "PHP, Ruby": "\\u{1F95E}",
+      "Perl": "\\x{1F95E}"
+    }
+  }
+}

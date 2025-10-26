@@ -1,0 +1,70 @@
+{
+  "emoji": "",
+  "nome": "☂️ Guarda-chuva",
+  "categoria": "umbrella",
+  "url": "https://emojigraph.org/pt/umbrella/",
+  "detalhes": {
+    "explicacao": "Um guarda-chuva seco. Geralmente representado com tecido roxo e um gancho com alça.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/umbrella_2602-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/umbrella_2602-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/umbrella_2602-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/umbrella_2602-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/umbrella_2602-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/umbrella_2602-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/umbrella_2602-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/umbrella_2602-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/umbrella_2602-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/umbrella_2602-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "chuva",
+      "clima",
+      "guarda-chuva"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2602;&#xFE0F;",
+      "HTML dec": "&#9730;&#65039;",
+      "URL escape code": "%E2%98%82%EF%B8%8F",
+      "Punycode": "xn--m3h",
+      "Bytes (UTF-8)": "E2 98 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2602\\uFE0F",
+      "C, C++, Python": "\\u2602\\uFE0F",
+      "CSS": "\\2602 \\FE0F",
+      "PHP, Ruby": "\\u{2602}\\u{FE0F}",
+      "Perl": "\\x{2602}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "emoji": "🥯",
+  "nome": "🥯 Bagel",
+  "categoria": "Bagel",
+  "url": "https://emojigraph.org/pt/bagel/",
+  "detalhes": {
+    "explicacao": "O pão integral de uma rosquinha, mostrado cortado em duas metades. Algumas plataformas retratam sementes como gergelim ou de papoula, e propina, por favor de creme de queijo, com o bagel montado como um sanduíche. Pode ser semelhante a de Rosca em tamanhos pequenos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bagel_1f96f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bagel_1f96f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bagel_1f96f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bagel_1f96f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bagel_1f96f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bagel_1f96f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bagel_1f96f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bagel_1f96f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bagel_1f96f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/bagel_1f96f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chimia",
+      "pão",
+      "rosca",
+      "café da manhã",
+      "comida",
+      "confeitaria",
+      "rosquinha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F96F;",
+      "HTML dec": "&#129391;",
+      "URL escape code": "%F0%9F%A5%AF",
+      "Punycode": "xn--is9h",
+      "Bytes (UTF-8)": "F0 9F A5 AF",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD6F",
+      "C, C++, Python": "\\U0001f96f",
+      "CSS": "\\01F96F",
+      "PHP, Ruby": "\\u{1F96F}",
+      "Perl": "\\x{1F96F}"
+    }
+  }
+}

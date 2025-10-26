@@ -1,0 +1,64 @@
+{
+  "emoji": "🪞",
+  "nome": "🪞 Espelho",
+  "categoria": "Mirror",
+  "url": "https://emojigraph.org/pt/mirror/",
+  "detalhes": {
+    "explicacao": "Espelho foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mirror_1fa9e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mirror_1fa9e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mirror_1fa9e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mirror_1fa9e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mirror_1fa9e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mirror_1fa9e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mirror_1fa9e.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/mirror_1fa9e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "espéculo",
+      "espelho",
+      "refletor",
+      "reflexão",
+      "maquiagem",
+      "reflexo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA9E;",
+      "HTML dec": "&#129694;",
+      "URL escape code": "%F0%9F%AA%9E",
+      "Punycode": "xn--509h",
+      "Bytes (UTF-8)": "F0 9F AA 9E",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE9E",
+      "C, C++, Python": "\\U0001fa9e",
+      "CSS": "\\01FA9E",
+      "PHP, Ruby": "\\u{1FA9E}",
+      "Perl": "\\x{1FA9E}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇸🇭",
+  "nome": "🇸🇭 Bandeira: Santa Helena",
+  "categoria": "flag st helena",
+  "url": "https://emojigraph.org/pt/flag-st-helena/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de santa Helena. Este símbolo é uma seqüência de caracteres 🇸 Símbolo Indicador Regional Letra S e 🇭 Símbolo Indicador Regional Letra H. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras SH em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-st-helena_1f1f8-1f1ed.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-st-helena_1f1f8-1f1ed.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-st-helena_1f1f8-1f1ed.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-st-helena_1f1f8-1f1ed.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-st-helena_1f1f8-1f1ed.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-st-helena_1f1f8-1f1ed.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-st-helena_1f1f8-1f1ed.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-st-helena_1f1f8-1f1ed.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F8;&#x1F1ED;",
+      "HTML dec": "&#127480;&#127469;",
+      "URL escape code": "%F0%9F%87%B8%F0%9F%87%AD",
+      "Punycode": "xn--l77hva",
+      "Bytes (UTF-8)": "F0 9F 87 B8 F0 9F 87 AD",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF8\\uD83C\\uDDED",
+      "C, C++, Python": "\\U0001f1f8\\U0001f1ed",
+      "CSS": "\\01F1F8 \\01F1ED",
+      "PHP, Ruby": "\\u{1F1F8}\\u{1F1ED}",
+      "Perl": "\\x{1F1F8}\\x{1F1ED}"
+    }
+  }
+}

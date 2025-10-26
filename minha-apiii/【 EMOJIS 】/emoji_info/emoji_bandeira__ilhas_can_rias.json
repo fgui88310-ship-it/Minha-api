@@ -1,0 +1,59 @@
+{
+  "emoji": "🇮🇨",
+  "nome": "🇮🇨 Bandeira: Ilhas Canárias",
+  "categoria": "flag canary islands",
+  "url": "https://emojigraph.org/pt/flag-canary-islands/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional das Ilhas Canárias. Este símbolo é uma seqüência de caracteres 🇮 Símbolo Indicador Regional Letra I e 🇨 Símbolo Indicador Regional Letra C. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras IC em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-canary-islands_1f1ee-1f1e8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-canary-islands_1f1ee-1f1e8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-canary-islands_1f1ee-1f1e8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-canary-islands_1f1ee-1f1e8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-canary-islands_1f1ee-1f1e8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-canary-islands_1f1ee-1f1e8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-canary-islands_1f1ee-1f1e8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-canary-islands_1f1ee-1f1e8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EE;&#x1F1E8;",
+      "HTML dec": "&#127470;&#127464;",
+      "URL escape code": "%F0%9F%87%AE%F0%9F%87%A8",
+      "Punycode": "xn--g77hla",
+      "Bytes (UTF-8)": "F0 9F 87 AE F0 9F 87 A8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEE\\uD83C\\uDDE8",
+      "C, C++, Python": "\\U0001f1ee\\U0001f1e8",
+      "CSS": "\\01F1EE \\01F1E8",
+      "PHP, Ruby": "\\u{1F1EE}\\u{1F1E8}",
+      "Perl": "\\x{1F1EE}\\x{1F1E8}"
+    }
+  }
+}

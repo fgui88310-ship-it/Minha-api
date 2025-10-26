@@ -1,0 +1,71 @@
+{
+  "emoji": "🤖",
+  "nome": "🤖 Rosto de robô",
+  "categoria": "Robot",
+  "url": "https://emojigraph.org/pt/robot/",
+  "detalhes": {
+    "explicacao": "A cabeça de um clássico robô. Comumente retratado como um vintage, estranho robô de brinquedo com olhos circulares, um nariz triangular, botões para as orelhas, uma de luz e/ou antenas no topo de sua cabeça, e uma grade, com a boca semelhante a uma careta. As cores variam através de plataformas, mas a sua cabeça é metalizada na maioria das plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/robot_1f916.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/robot_1f916.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/robot_1f916.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/robot_1f916.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/robot_1f916.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/robot_1f916.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/robot_1f916.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/robot_1f916.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/robot_1f916.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/robot_1f916.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "monstro",
+      "robô",
+      "rosto",
+      "rosto de robô",
+      "robotizado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F916;",
+      "HTML dec": "&#129302;",
+      "URL escape code": "%F0%9F%A4%96",
+      "Punycode": "xn--yp9h",
+      "Bytes (UTF-8)": "F0 9F A4 96",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD16",
+      "C, C++, Python": "\\U0001f916",
+      "CSS": "\\01F916",
+      "PHP, Ruby": "\\u{1F916}",
+      "Perl": "\\x{1F916}"
+    }
+  }
+}

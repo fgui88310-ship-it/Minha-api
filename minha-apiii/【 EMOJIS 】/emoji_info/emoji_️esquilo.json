@@ -1,0 +1,68 @@
+{
+  "emoji": "🐿",
+  "nome": "🐿️ Esquilo",
+  "categoria": "Chipmunk",
+  "url": "https://emojigraph.org/pt/chipmunk/",
+  "detalhes": {
+    "explicacao": "Um esquilo, um esquilo-como roedores com bochechas inchadas. Descrito como um marrom-avermelhado chipmunk no perfil completo virada para a esquerda, sentado sobre as patas traseiras com uma cauda espessa e distribuído rosto e corpo. Em geral, mantendo uma bolota ou outros porca em seus membros anteriores.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/chipmunk_1f43f-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/chipmunk_1f43f-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/chipmunk_1f43f-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/chipmunk_1f43f-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/chipmunk_1f43f-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/chipmunk_1f43f-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/chipmunk_1f43f-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/chipmunk_1f43f-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/chipmunk_1f43f-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/chipmunk_1f43f-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "esquilo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F43F;&#xFE0F;",
+      "HTML dec": "&#128063;&#65039;",
+      "URL escape code": "%F0%9F%90%BF%EF%B8%8F",
+      "Punycode": "xn--kp8h",
+      "Bytes (UTF-8)": "F0 9F 90 BF EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC3F\\uFE0F",
+      "C, C++, Python": "\\U0001f43f\\uFE0F",
+      "CSS": "\\01F43F \\FE0F",
+      "PHP, Ruby": "\\u{1F43F}\\u{FE0F}",
+      "Perl": "\\x{1F43F}\\x{FE0F}"
+    }
+  }
+}

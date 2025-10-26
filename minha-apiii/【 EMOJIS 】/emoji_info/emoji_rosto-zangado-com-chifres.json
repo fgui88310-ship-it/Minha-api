@@ -1,0 +1,96 @@
+{
+  "emoji": "👿",
+  "nome": "👿 Rosto zangado com chifres",
+  "categoria": "Angry Face With Horns",
+  "url": "https://emojigraph.org/pt/angry-face-with-horns/",
+  "detalhes": {
+    "explicacao": "Um cara, normalmente roxo, com dois chifres do diabo, franzir os olhos e a boca, e franziu as sobrancelhas para baixo em raiva. Tem a mesma expressão 😠 Cara de brava e 😡 fazendo beicinho Cara na maioria das plataformas. O Google é o vermelho e o Facebook tem chifres pretos, olhos verdes, e os dentes trincados.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/angry-face-with-horns_1f47f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/angry-face-with-horns_1f47f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "demônio",
+      "diabo",
+      "rosto",
+      "diabinho",
+      "pequeno demônio",
+      "rosto bravo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F47F;",
+      "HTML dec": "&#128127;",
+      "URL escape code": "%F0%9F%91%BF",
+      "Punycode": "xn--er8h",
+      "Bytes (UTF-8)": "F0 9F 91 BF",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC7F",
+      "C, C++, Python": "\\U0001f47f",
+      "CSS": "\\01F47F",
+      "PHP, Ruby": "\\u{1F47F}",
+      "Perl": "\\x{1F47F}"
+    }
+  }
+}

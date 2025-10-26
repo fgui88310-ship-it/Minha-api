@@ -1,0 +1,96 @@
+{
+  "emoji": "💈",
+  "nome": "💈 Barbearia",
+  "categoria": "Barber Pole",
+  "url": "https://emojigraph.org/pt/barber-pole/",
+  "detalhes": {
+    "explicacao": "Um pólo em espiral com vermelho, branco, azul e listras, como rotações à frente de uma barbearia. Comumente utilizado para vários conteúdos relativos corte de cabelo e penteado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/barber-pole_1f488.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/barber-pole_1f488.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barbearia",
+      "barbeiro",
+      "pólo",
+      "barber pole",
+      "cortar cabelo",
+      "poste"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F488;",
+      "HTML dec": "&#128136;",
+      "URL escape code": "%F0%9F%92%88",
+      "Punycode": "xn--nr8h",
+      "Bytes (UTF-8)": "F0 9F 92 88",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC88",
+      "C, C++, Python": "\\U0001f488",
+      "CSS": "\\01F488",
+      "PHP, Ruby": "\\u{1F488}",
+      "Perl": "\\x{1F488}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emoji": "🧄",
+  "nome": "🧄 Alho",
+  "categoria": "Garlic",
+  "url": "https://emojigraph.org/pt/garlic/",
+  "detalhes": {
+    "explicacao": "Alho foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/garlic_1f9c4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/garlic_1f9c4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/garlic_1f9c4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/garlic_1f9c4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/garlic_1f9c4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/garlic_1f9c4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/garlic_1f9c4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/garlic_1f9c4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/garlic_1f9c4.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/garlic_1f9c4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alho",
+      "tempero"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9C4;",
+      "HTML dec": "&#129476;",
+      "URL escape code": "%F0%9F%A7%84",
+      "Punycode": "xn--xu9h",
+      "Bytes (UTF-8)": "F0 9F A7 84",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDC4",
+      "C, C++, Python": "\\U0001f9c4",
+      "CSS": "\\01F9C4",
+      "PHP, Ruby": "\\u{1F9C4}",
+      "Perl": "\\x{1F9C4}"
+    }
+  }
+}

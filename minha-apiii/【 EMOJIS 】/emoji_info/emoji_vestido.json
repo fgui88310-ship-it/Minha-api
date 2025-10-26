@@ -1,0 +1,93 @@
+{
+  "emoji": "👗",
+  "nome": "👗 Vestido",
+  "categoria": "Dress",
+  "url": "https://emojigraph.org/pt/dress/",
+  "detalhes": {
+    "explicacao": "Um vestido bonito, adequado para um baile, festa ou outra ocasião semelhante.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dress_1f457.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dress_1f457.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dress_1f457.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dress_1f457.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dress_1f457.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dress_1f457.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dress_1f457.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dress_1f457.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dress_1f457.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dress_1f457.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dress_1f457.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dress_1f457.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dress_1f457.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dress_1f457.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/dress_1f457.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/dress_1f457.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "peça única",
+      "roupa",
+      "vestido"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F457;",
+      "HTML dec": "&#128087;",
+      "URL escape code": "%F0%9F%91%97",
+      "Punycode": "xn--8p8h",
+      "Bytes (UTF-8)": "F0 9F 91 97",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC57",
+      "C, C++, Python": "\\U0001f457",
+      "CSS": "\\01F457",
+      "PHP, Ruby": "\\u{1F457}",
+      "Perl": "\\x{1F457}"
+    }
+  }
+}

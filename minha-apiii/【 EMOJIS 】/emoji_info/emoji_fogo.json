@@ -1,0 +1,92 @@
+{
+  "emoji": "🔥",
+  "nome": "🔥 Fogo",
+  "categoria": "Fire",
+  "url": "https://emojigraph.org/pt/fire/",
+  "detalhes": {
+    "explicacao": "Uma chama, como o produzido quando algo está no fogo. Descrito como umab chama vermelha, laranja e amarela bruxuleante.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fire_1f525.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fire_1f525.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fire_1f525.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fire_1f525.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fire_1f525.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fire_1f525.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fire_1f525.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fire_1f525.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fire_1f525.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fire_1f525.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fire_1f525.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fire_1f525.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fire_1f525.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fire_1f525.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fire_1f525.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/fire_1f525.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chama",
+      "fogo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F525;",
+      "HTML dec": "&#128293;",
+      "URL escape code": "%F0%9F%94%A5",
+      "Punycode": "xn--4v8h",
+      "Bytes (UTF-8)": "F0 9F 94 A5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD25",
+      "C, C++, Python": "\\U0001f525",
+      "CSS": "\\01F525",
+      "PHP, Ruby": "\\u{1F525}",
+      "Perl": "\\x{1F525}"
+    }
+  }
+}

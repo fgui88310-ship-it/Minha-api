@@ -1,0 +1,95 @@
+{
+  "emoji": "🗿",
+  "nome": "🗿 Moai",
+  "categoria": "Moai",
+  "url": "https://emojigraph.org/pt/moai/",
+  "detalhes": {
+    "explicacao": "Um moai, uma das famosas esculturas, o gigante de pedra, as estátuas de figuras humanas na Ilha de Páscoa. Descrito como uma pedra cinza, escultura de uma cabeça humana estilizada com uma proeminente testa e nariz, na maioria das vezes virada para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/moai_1f5ff.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/moai_1f5ff.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "estátua",
+      "moai",
+      "moyai",
+      "rosto",
+      "Moyai"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5FF;",
+      "HTML dec": "&#128511;",
+      "URL escape code": "%F0%9F%97%BF",
+      "Punycode": "xn--d28h",
+      "Bytes (UTF-8)": "F0 9F 97 BF",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDFF",
+      "C, C++, Python": "\\U0001f5ff",
+      "CSS": "\\01F5FF",
+      "PHP, Ruby": "\\u{1F5FF}",
+      "Perl": "\\x{1F5FF}"
+    }
+  }
+}

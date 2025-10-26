@@ -1,0 +1,65 @@
+import express from 'express';
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+
+const router = express.Router();
+
+router.get('/', async (req, res, next) => {
+  const url = req.query.url;
+  if (!url || !url.includes('imdb.com')) {
+    return res.status(400).json({
+      error: 'Forneça o link completo do filme. Exemplo: ?url=https://www.imdb.com/title/tt4154796/',
+    });
+  }
+
+  try {
+    const { data } = await axios.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+        'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
+      },
+    });
+
+    const $ = cheerio.load(data);
+
+    const cleanText = (t) => (t ? t.replace(/\s+/g, ' ').trim() : 'N/A');
+
+    const titulo = cleanText($('h1[data-testid="hero__pageTitle"] span').text());
+    const tituloOriginal = cleanText($('div.sc-cb6a22b2-1').text().replace('Título original: ', ''));
+    const sinopse = cleanText($('span[data-testid="plot-xl"]').text());
+    const anoLancamento = $('ul.sc-cb6a22b2-2 li:first-child a').text().trim() || 'N/A';
+    const classificacao = $('ul.sc-cb6a22b2-2 li:nth-child(2) a').text().trim() || 'Livre';
+    const duracao = $('ul.sc-cb6a22b2-2 li:last-child').text().trim() || 'N/A';
+    const avaliacao = $('span[data-testid="hero-rating-bar__aggregate-rating__score"] span:first-child').text().trim() || 'N/A';
+    const totalVotos = $('div.sc-4dc495c1-3').text().trim() || 'N/A';
+    const generos = $('div[data-testid="interests"] a.ipc-chip__text').map((_, el) => cleanText($(el).text())).get();
+
+    const poster = $('div[data-testid="hero-media__poster"] img.ipc-image').attr('src') || null;
+
+    // ✅ Créditos principais
+    const direcao = $('li[data-testid="title-pc-principal-credit"]:first-child ul li a').map((_, el) => cleanText($(el).text())).get();
+    const roteiristas = $('li[data-testid="title-pc-principal-credit"]:nth-child(2) ul li a').map((_, el) => cleanText($(el).text())).get();
+    const elencoPrincipal = $('li[data-testid="title-pc-principal-credit"]:nth-child(3) ul li a').map((_, el) => cleanText($(el).text())).get();
+    res.json({
+      titulo,
+      tituloOriginal,
+      sinopse,
+      anoLancamento,
+      classificacao,
+      duracao,
+      avaliacao,
+      totalVotos,
+      generos,
+      direcao,
+      roteiristas,
+      elencoPrincipal,
+      poster,
+      fonte: url,
+    });
+
+  } catch (error) {
+    next(err);
+  }
+});
+
+export default router;

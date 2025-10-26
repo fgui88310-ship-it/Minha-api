@@ -1,0 +1,71 @@
+{
+  "emoji": "📸",
+  "nome": "📸 Câmera com flash",
+  "categoria": "Camera With Flash",
+  "url": "https://emojigraph.org/pt/camera-with-flash/",
+  "detalhes": {
+    "explicacao": "Uma clássica câmera, mostrada com seu flash ligado, como para iluminar uma cena mais escura. Fornecedores de emoji implementam o mesmo projeto como 📷 Câmera com uma explosão de luz, muitas vezes assemelhando-se à 💥 Colisão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/camera-with-flash_1f4f8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/camera-with-flash_1f4f8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/camera-with-flash_1f4f8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/camera-with-flash_1f4f8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/camera-with-flash_1f4f8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/camera-with-flash_1f4f8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/camera-with-flash_1f4f8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/camera-with-flash_1f4f8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/camera-with-flash_1f4f8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/camera-with-flash_1f4f8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "câmera",
+      "flash",
+      "vídeo",
+      "foto",
+      "fotografia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4F8;",
+      "HTML dec": "&#128248;",
+      "URL escape code": "%F0%9F%93%B8",
+      "Punycode": "xn--uu8h",
+      "Bytes (UTF-8)": "F0 9F 93 B8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCF8",
+      "C, C++, Python": "\\U0001f4f8",
+      "CSS": "\\01F4F8",
+      "PHP, Ruby": "\\u{1F4F8}",
+      "Perl": "\\x{1F4F8}"
+    }
+  }
+}

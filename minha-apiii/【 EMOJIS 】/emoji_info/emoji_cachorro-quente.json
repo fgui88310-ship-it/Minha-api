@@ -1,0 +1,79 @@
+{
+  "emoji": "🌭",
+  "nome": "🌭 Cachorro-quente",
+  "categoria": "Hot Dog",
+  "url": "https://emojigraph.org/pt/hot-dog/",
+  "detalhes": {
+    "explicacao": "A salsicha cozida de um cachorro-quente em fatias jogo de beisebol.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hot-dog_1f32d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hot-dog_1f32d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hot-dog_1f32d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hot-dog_1f32d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hot-dog_1f32d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hot-dog_1f32d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hot-dog_1f32d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hot-dog_1f32d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hot-dog_1f32d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hot-dog_1f32d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hot-dog_1f32d.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/hot-dog_1f32d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cachorro-quente",
+      "hot dog",
+      "cachorro quente",
+      "pão com vina",
+      "vina"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F32D;",
+      "HTML dec": "&#127789;",
+      "URL escape code": "%F0%9F%8C%AD",
+      "Punycode": "xn--qh8h",
+      "Bytes (UTF-8)": "F0 9F 8C AD",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF2D",
+      "C, C++, Python": "\\U0001f32d",
+      "CSS": "\\01F32D",
+      "PHP, Ruby": "\\u{1F32D}",
+      "Perl": "\\x{1F32D}"
+    }
+  }
+}

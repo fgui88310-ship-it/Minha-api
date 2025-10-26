@@ -1,0 +1,93 @@
+{
+  "emoji": "🌋",
+  "nome": "🌋 Vulcão",
+  "categoria": "volcano",
+  "url": "https://emojigraph.org/pt/volcano/",
+  "detalhes": {
+    "explicacao": "Um vulcão, em erupção com fumaça e lava.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/volcano_1f30b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/volcano_1f30b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "vulcão",
+      "lava",
+      "natureza"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F30B;",
+      "HTML dec": "&#127755;",
+      "URL escape code": "%F0%9F%8C%8B",
+      "Punycode": "xn--rg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 8B",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF0B",
+      "C, C++, Python": "\\U0001f30b",
+      "CSS": "\\01F30B",
+      "PHP, Ruby": "\\u{1F30B}",
+      "Perl": "\\x{1F30B}"
+    }
+  }
+}

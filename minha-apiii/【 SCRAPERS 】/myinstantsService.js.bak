@@ -1,0 +1,32 @@
+// api/services/myinstantsService.js
+import axios from 'axios';
+import NodeCache from 'node-cache';
+
+const cache = new NodeCache({ stdTTL: 3600 }); // 1 hora
+
+export async function searchMyInstants(query) {
+  const cacheKey = `myinstants:${query}`;
+  const cached = cache.get(cacheKey);
+  if (cached) return cached;
+
+  try {
+    const url = `https://myinstants-api.vercel.app/search?q=${encodeURIComponent(query.trim())}`;
+    const res = await axios.get(url, { timeout: 5000 });
+
+    if (!res.data?.data || res.data.data.length === 0) return [];
+
+    const results = res.data.data.slice(0, 10).map(item => ({
+      id: item.id,
+      name: item.title,
+      url: item.mp3,
+      page: item.url,
+    }));
+
+    cache.set(cacheKey, results);
+    return results;
+  } catch (err) {
+    console.error('[MYINSTANTS SERVICE] Erro ao buscar API:', err.message);
+    return [];
+  }
+}
+

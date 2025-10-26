@@ -1,0 +1,57 @@
+import express from 'express';
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+
+const router = express.Router();
+
+router.get('/', async (req, res) => {
+  const { query, limit = 5 } = req.query;
+
+  if (!query) {
+    return res.status(400).json({ error: 'Passe ?query= para buscar grupos.' });
+  }
+
+  try {
+    // Exemplo: URL de busca de grupos (substitua pelo site real)
+    const searchUrl = `https://gruposwhats.app/`;
+
+    const response = await axios.get(searchUrl, { timeout: 5000 });
+    const $ = cheerio.load(response.data);
+    const grupos = [];
+
+    $('div.col-group').each((i, el) => {
+      if (grupos.length >= parseInt(limit)) return false;
+
+      const category = $(el).find('span.card-category').text().trim();
+      const name = $(el).find('h5.card-title').text().trim();
+      const description = $(el).find('p.card-text').text().trim();
+      const link = $(el).find('a.btn-success').attr('href');
+      const image = $(el).find('img.card-img-top').attr('src');
+
+      if (name && category && link && description) {
+        grupos.push({
+          name,
+          category,
+          description,
+          groupUrl: link,
+          image: image || null,
+        });
+      }
+    });
+
+    if (grupos.length === 0) {
+      return res.status(404).json({ error: 'Nenhum grupo encontrado.' });
+    }
+
+    res.json(grupos);
+  } catch (err) {
+    console.error('[WHATSAPP-GROUPS] Erro na busca:', err.message);
+    if (err.code === 'ECONNABORTED' || err.code === 'ETIMEDOUT') {
+      res.status(408).json({ error: 'Timeout na requisição. Tente novamente.' });
+    } else {
+      res.status(500).json({ error: `Erro interno: ${err.message}` });
+    }
+  }
+});
+
+export default router;

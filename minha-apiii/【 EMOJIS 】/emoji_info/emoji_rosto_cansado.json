@@ -1,0 +1,94 @@
+{
+  "emoji": "😫",
+  "nome": "😫 Rosto cansado",
+  "categoria": "tired face",
+  "url": "https://emojigraph.org/pt/tired-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com olhos em formato de X, sobrancelhas arqueadas, e um amplo e aberto franzir na testa, bocejando como se em exaustão ou gemendo em exasperação. Geralmente mostrado com dentes superiores e, por vezes, a língua.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tired-face_1f62b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tired-face_1f62b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cansado",
+      "exausto",
+      "rosto",
+      "desesperado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F62B;",
+      "HTML dec": "&#128555;",
+      "URL escape code": "%F0%9F%98%AB",
+      "Punycode": "xn--m38h",
+      "Bytes (UTF-8)": "F0 9F 98 AB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE2B",
+      "C, C++, Python": "\\U0001f62b",
+      "CSS": "\\01F62B",
+      "PHP, Ruby": "\\u{1F62B}",
+      "Perl": "\\x{1F62B}"
+    }
+  }
+}

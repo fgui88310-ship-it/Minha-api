@@ -1,0 +1,56 @@
+{
+  "emoji": "🪨",
+  "nome": "🪨 Pedra",
+  "categoria": "Rock",
+  "url": "https://emojigraph.org/pt/rock/",
+  "detalhes": {
+    "explicacao": "Uma imagem dos desenhos animados de uma rocha. Costumava falar de alguém que é difícil de ceder, como uma pedra. Rock foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rock_1faa8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rock_1faa8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rock_1faa8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rock_1faa8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rock_1faa8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rock_1faa8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pedra",
+      "pedregulho",
+      "pesado",
+      "rocha",
+      "sólido",
+      "seixo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAA8;",
+      "HTML dec": "&#129704;",
+      "URL escape code": "%F0%9F%AA%A8",
+      "Punycode": "xn--g19h",
+      "Bytes (UTF-8)": "F0 9F AA A8",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEA8",
+      "C, C++, Python": "\\U0001faa8",
+      "CSS": "\\01FAA8",
+      "PHP, Ruby": "\\u{1FAA8}",
+      "Perl": "\\x{1FAA8}"
+    }
+  }
+}

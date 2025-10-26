@@ -1,0 +1,77 @@
+{
+  "emoji": "🥵",
+  "nome": "🥵 Rosto fervendo de calor",
+  "categoria": "hot face",
+  "url": "https://emojigraph.org/pt/hot-face/",
+  "detalhes": {
+    "explicacao": "Uma cara laranja-avermelhada com sobrancelhas franzidas, a língua para fora, e gotas de suor, como se superaquecido a partir de temperaturas elevadas. O Número e a posição das gotas de suor variam entre plataformas. Pode também representar a atratividade física (gíria, sexy).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hot-face_1f975.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hot-face_1f975.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hot-face_1f975.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hot-face_1f975.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hot-face_1f975.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hot-face_1f975.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hot-face_1f975.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hot-face_1f975.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hot-face_1f975.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/hot-face_1f975.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "febril",
+      "insolação",
+      "quente",
+      "rosto vermelho",
+      "suando",
+      "calor",
+      "febre",
+      "língua de fora",
+      "ofegante",
+      "rosto",
+      "suor"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F975;",
+      "HTML dec": "&#129397;",
+      "URL escape code": "%F0%9F%A5%B5",
+      "Punycode": "xn--os9h",
+      "Bytes (UTF-8)": "F0 9F A5 B5",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD75",
+      "C, C++, Python": "\\U0001f975",
+      "CSS": "\\01F975",
+      "PHP, Ruby": "\\u{1F975}",
+      "Perl": "\\x{1F975}"
+    }
+  }
+}

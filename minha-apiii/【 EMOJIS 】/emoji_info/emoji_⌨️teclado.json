@@ -1,0 +1,70 @@
+{
+  "emoji": "",
+  "nome": "⌨️ Teclado",
+  "categoria": "Keyboard",
+  "url": "https://emojigraph.org/pt/keyboard/",
+  "detalhes": {
+    "explicacao": "Um teclado, como os usados para digitar em um computador. Geralmente retratado como um cinza dispositivo com branco ou preto chaves. Utilizado para vários conteúdos relativos a computadores, digitação e redação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/keyboard_2328-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/keyboard_2328-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/keyboard_2328-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/keyboard_2328-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/keyboard_2328-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/keyboard_2328-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/keyboard_2328-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/keyboard_2328-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/keyboard_2328-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/keyboard_2328-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "computador",
+      "digitação",
+      "teclado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2328;&#xFE0F;",
+      "HTML dec": "&#9000;&#65039;",
+      "URL escape code": "%E2%8C%A8%EF%B8%8F",
+      "Punycode": "xn--rih",
+      "Bytes (UTF-8)": "E2 8C A8 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2328\\uFE0F",
+      "C, C++, Python": "\\u2328\\uFE0F",
+      "CSS": "\\2328 \\FE0F",
+      "PHP, Ruby": "\\u{2328}\\u{FE0F}",
+      "Perl": "\\x{2328}\\x{FE0F}"
+    }
+  }
+}

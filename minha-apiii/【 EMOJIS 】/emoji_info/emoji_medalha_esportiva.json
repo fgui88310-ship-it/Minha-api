@@ -1,0 +1,68 @@
+{
+  "emoji": "🏅",
+  "nome": "🏅 Medalha esportiva",
+  "categoria": "sports medal",
+  "url": "https://emojigraph.org/pt/sports-medal/",
+  "detalhes": {
+    "explicacao": "Uma medalha de ouro, entregue a uma pessoa que ganhou um evento esportivo, como uma corrida. Não deve ser confundida com a medalha militar emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sports-medal_1f3c5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sports-medal_1f3c5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sports-medal_1f3c5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sports-medal_1f3c5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sports-medal_1f3c5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sports-medal_1f3c5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sports-medal_1f3c5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sports-medal_1f3c5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sports-medal_1f3c5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sports-medal_1f3c5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "medalha",
+      "vitória"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3C5;",
+      "HTML dec": "&#127941;",
+      "URL escape code": "%F0%9F%8F%85",
+      "Punycode": "xn--2l8h",
+      "Bytes (UTF-8)": "F0 9F 8F 85",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFC5",
+      "C, C++, Python": "\\U0001f3c5",
+      "CSS": "\\01F3C5",
+      "PHP, Ruby": "\\u{1F3C5}",
+      "Perl": "\\x{1F3C5}"
+    }
+  }
+}

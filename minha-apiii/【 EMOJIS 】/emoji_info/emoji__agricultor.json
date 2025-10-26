@@ -1,0 +1,53 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍🌾 Agricultor",
+  "categoria": "farmer",
+  "url": "https://emojigraph.org/pt/farmer/",
+  "detalhes": {
+    "explicacao": "O Agricultor emoji é uma sequência do 🧑 Adultos e 🌾 Orelha de Arroz emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/farmer_1f9d1-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/farmer_1f9d1-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/farmer_1f9d1-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/farmer_1f9d1-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/farmer_1f9d1-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/farmer_1f9d1-200d-1f33e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "agricultor",
+      "jardineiro",
+      "rancheiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F33E;",
+      "HTML dec": "&#129489;&#8205;&#127806;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%8C%BE",
+      "Punycode": "xn--7h8hf9h",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F 8C BE",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83C\\uDF3E",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f33e",
+      "CSS": "\\01F9D1 \\200D \\01F33E",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F33E}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F33E}"
+    }
+  }
+}

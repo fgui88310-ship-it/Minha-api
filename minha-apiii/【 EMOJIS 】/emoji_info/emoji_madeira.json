@@ -1,0 +1,55 @@
+{
+  "emoji": "🪵",
+  "nome": "🪵 Madeira",
+  "categoria": "Wood",
+  "url": "https://emojigraph.org/pt/wood/",
+  "detalhes": {
+    "explicacao": "Uma imagem dos desenhos animados de um tronco de madeira. Freqüentemente usado em seu significado direto e também sexualmente para representar o pênis ereto de um homem. Madeira foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/wood_1fab5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/wood_1fab5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/wood_1fab5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/wood_1fab5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/wood_1fab5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/wood_1fab5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "lenha",
+      "madeira",
+      "madeira serrada",
+      "tronco",
+      "tora"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAB5;",
+      "HTML dec": "&#129717;",
+      "URL escape code": "%F0%9F%AA%B5",
+      "Punycode": "xn--t19h",
+      "Bytes (UTF-8)": "F0 9F AA B5",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEB5",
+      "C, C++, Python": "\\U0001fab5",
+      "CSS": "\\01FAB5",
+      "PHP, Ruby": "\\u{1FAB5}",
+      "Perl": "\\x{1FAB5}"
+    }
+  }
+}

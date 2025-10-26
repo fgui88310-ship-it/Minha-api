@@ -1,0 +1,96 @@
+{
+  "emoji": "🎒",
+  "nome": "🎒 Mochila",
+  "categoria": "Backpack",
+  "url": "https://emojigraph.org/pt/backpack/",
+  "detalhes": {
+    "explicacao": "Um saco de escola Emoji (também chamado de uma sacola) usado por crianças que frequentam a escola para transportar livros, almoços e outros pertences pessoais.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/backpack_1f392.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/backpack_1f392.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bolsa escolar",
+      "escola",
+      "mochila",
+      "mochila escolar",
+      "viagem",
+      "viajar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F392;",
+      "HTML dec": "&#127890;",
+      "URL escape code": "%F0%9F%8E%92",
+      "Punycode": "xn--mk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 92",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF92",
+      "C, C++, Python": "\\U0001f392",
+      "CSS": "\\01F392",
+      "PHP, Ruby": "\\u{1F392}",
+      "Perl": "\\x{1F392}"
+    }
+  }
+}

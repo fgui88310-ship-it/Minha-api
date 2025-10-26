@@ -1,0 +1,104 @@
+{
+  "emoji": "😊",
+  "nome": "😊 Rosto sorridente com olhos sorridentes",
+  "categoria": "smiling face with smiling eyes",
+  "url": "https://emojigraph.org/pt/smiling-face-with-smiling-eyes/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com olhos sorridentes e um amplo, sorriso fechado, virando-se para as bochechas rosadas. Muitas vezes, expressa a verdadeira alegria, sentimentos positivos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/smiling-face-with-smiling-eyes_1f60a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/smiling-face-with-smiling-eyes_1f60a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "olhos sorrindo",
+      "rosto",
+      "rosto sorrindo",
+      "ruborizar",
+      "encabulada",
+      "encabulado",
+      "envergonhada",
+      "envergonhado",
+      "feliz",
+      "rosado",
+      "satisfeita",
+      "satisfeito",
+      "sorriso",
+      "vergonha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F60A;",
+      "HTML dec": "&#128522;",
+      "URL escape code": "%F0%9F%98%8A",
+      "Punycode": "xn--o28h",
+      "Bytes (UTF-8)": "F0 9F 98 8A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE0A",
+      "C, C++, Python": "\\U0001f60a",
+      "CSS": "\\01F60A",
+      "PHP, Ruby": "\\u{1F60A}",
+      "Perl": "\\x{1F60A}"
+    }
+  }
+}

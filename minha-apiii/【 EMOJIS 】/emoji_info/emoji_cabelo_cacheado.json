@@ -1,0 +1,63 @@
+{
+  "emoji": "🦱",
+  "nome": "🦱 Cabelo cacheado",
+  "categoria": "curly hair",
+  "url": "https://emojigraph.org/pt/curly-hair/",
+  "detalhes": {
+    "explicacao": "Cabelos cacheados foi aprovado como parte do Unicode 11.0 em 2018sob o nome de \"Emoji Componente de Cabelo Encaracolado\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/curly-hair_1f9b1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/curly-hair_1f9b1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/curly-hair_1f9b1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/curly-hair_1f9b1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/curly-hair_1f9b1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/curly-hair_1f9b1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/curly-hair_1f9b1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/curly-hair_1f9b1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "afro",
+      "cabelo cacheado",
+      "cacheado",
+      "encaracolado",
+      "cabelo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9B1;",
+      "HTML dec": "&#129457;",
+      "URL escape code": "%F0%9F%A6%B1",
+      "Punycode": "xn--eu9h",
+      "Bytes (UTF-8)": "F0 9F A6 B1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDB1",
+      "C, C++, Python": "\\U0001f9b1",
+      "CSS": "\\01F9B1",
+      "PHP, Ruby": "\\u{1F9B1}",
+      "Perl": "\\x{1F9B1}"
+    }
+  }
+}

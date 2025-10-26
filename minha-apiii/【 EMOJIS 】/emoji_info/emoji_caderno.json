@@ -1,0 +1,92 @@
+{
+  "emoji": "📓",
+  "nome": "📓 Caderno",
+  "categoria": "Notebook",
+  "url": "https://emojigraph.org/pt/notebook/",
+  "detalhes": {
+    "explicacao": "Uma de cor escura, de capa dura, caderno, como os usados para escrever ou tomar notas na escola. Comumente utilizado para vários conteúdos a respeito da escrita e da escolarização.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/notebook_1f4d3.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/notebook_1f4d3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caderno",
+      "folhas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4D3;",
+      "HTML dec": "&#128211;",
+      "URL escape code": "%F0%9F%93%93",
+      "Punycode": "xn--st8h",
+      "Bytes (UTF-8)": "F0 9F 93 93",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCD3",
+      "C, C++, Python": "\\U0001f4d3",
+      "CSS": "\\01F4D3",
+      "PHP, Ruby": "\\u{1F4D3}",
+      "Perl": "\\x{1F4D3}"
+    }
+  }
+}

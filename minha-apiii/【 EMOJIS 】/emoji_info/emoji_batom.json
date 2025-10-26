@@ -1,0 +1,95 @@
+{
+  "emoji": "💄",
+  "nome": "💄 Batom",
+  "categoria": "Lipstick",
+  "url": "https://emojigraph.org/pt/lipstick/",
+  "detalhes": {
+    "explicacao": "Batom mostrado com a tampa removida. Exibe em um tom de vermelho na maioria das plataformas, exceto o Android, que tem um cor-de-rosa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/lipstick_1f484.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/lipstick_1f484.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "batom",
+      "cosméticos",
+      "maquiagem",
+      "makeup",
+      "vermelho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F484;",
+      "HTML dec": "&#128132;",
+      "URL escape code": "%F0%9F%92%84",
+      "Punycode": "xn--jr8h",
+      "Bytes (UTF-8)": "F0 9F 92 84",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC84",
+      "C, C++, Python": "\\U0001f484",
+      "CSS": "\\01F484",
+      "PHP, Ruby": "\\u{1F484}",
+      "Perl": "\\x{1F484}"
+    }
+  }
+}

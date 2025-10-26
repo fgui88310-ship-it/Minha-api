@@ -1,0 +1,61 @@
+{
+  "emoji": "🚶",
+  "nome": "🚶‍♂️ Homem andando",
+  "categoria": "Man Walking",
+  "url": "https://emojigraph.org/pt/man-walking/",
+  "detalhes": {
+    "explicacao": "A versão masculina do 🚶 Pedestre emoji. Atualmente idêntico em aparência a não-gênero da base de dados de emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-walking_1f6b6-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-walking_1f6b6-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-walking_1f6b6-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-walking_1f6b6-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-walking_1f6b6-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-walking_1f6b6-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-walking_1f6b6-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-walking_1f6b6-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "andar",
+      "caminhar",
+      "homem andando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6B6;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#128694;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%9A%B6%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5hx890o",
+      "Bytes (UTF-8)": "F0 9F 9A B6 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEB6\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f6b6\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F6B6 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F6B6}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F6B6}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

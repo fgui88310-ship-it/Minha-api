@@ -1,0 +1,73 @@
+{
+  "emoji": "🦥",
+  "nome": "🦥 Preguiça",
+  "categoria": "Sloth",
+  "url": "https://emojigraph.org/pt/sloth/",
+  "detalhes": {
+    "explicacao": "Um bicho-preguiça, o movimento lento, árvore-habitação de mamíferos. Descrito como uma luz marrom-preguiça, com um grande, esbranquiçada, máscara pendurada no galho de uma árvore, de frente para a esquerda ou para a direita. Geralmente mostrado como um três-toed preguiça.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sloth_1f9a5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sloth_1f9a5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sloth_1f9a5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sloth_1f9a5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sloth_1f9a5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sloth_1f9a5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sloth_1f9a5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sloth_1f9a5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sloth_1f9a5.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/sloth_1f9a5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "lenta",
+      "preguiça",
+      "preguiçosa",
+      "bicho-preguiça",
+      "devagar",
+      "lentidão",
+      "preguiçoso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9A5;",
+      "HTML dec": "&#129445;",
+      "URL escape code": "%F0%9F%A6%A5",
+      "Punycode": "xn--1t9h",
+      "Bytes (UTF-8)": "F0 9F A6 A5",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDA5",
+      "C, C++, Python": "\\U0001f9a5",
+      "CSS": "\\01F9A5",
+      "PHP, Ruby": "\\u{1F9A5}",
+      "Perl": "\\x{1F9A5}"
+    }
+  }
+}

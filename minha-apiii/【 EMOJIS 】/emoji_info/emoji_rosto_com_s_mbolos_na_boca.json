@@ -1,0 +1,67 @@
+{
+  "emoji": "🤬",
+  "nome": "🤬 Rosto com símbolos na boca",
+  "categoria": "face with symbols on mouth",
+  "url": "https://emojigraph.org/pt/face-with-symbols-on-mouth/",
+  "detalhes": {
+    "explicacao": "Um rosto vermelho com raiva, uma barra preta e branca com um Grawlixe cobrindo a boca, indicando que ele está falando palavrões ou sendo vulgar. Grawlixe são digitação de símbolos (por exemplo, @#$%&) representando palavrões ou obscenidades. Muitas vezes usada para transmitir uma explosão de raiva, frustração ou ódio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-symbols-on-mouth_1f92c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-symbols-on-mouth_1f92c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-symbols-on-mouth_1f92c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-symbols-on-mouth_1f92c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-symbols-on-mouth_1f92c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-symbols-on-mouth_1f92c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-symbols-on-mouth_1f92c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-symbols-on-mouth_1f92c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-symbols-on-mouth_1f92c.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/face-with-symbols-on-mouth_1f92c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "xingando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F92C;",
+      "HTML dec": "&#129324;",
+      "URL escape code": "%F0%9F%A4%AC",
+      "Punycode": "xn--lq9h",
+      "Bytes (UTF-8)": "F0 9F A4 AC",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD2C",
+      "C, C++, Python": "\\U0001f92c",
+      "CSS": "\\01F92C",
+      "PHP, Ruby": "\\u{1F92C}",
+      "Perl": "\\x{1F92C}"
+    }
+  }
+}

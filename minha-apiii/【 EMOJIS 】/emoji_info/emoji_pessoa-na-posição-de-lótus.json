@@ -1,0 +1,72 @@
+{
+  "emoji": "🧘",
+  "nome": "🧘 Pessoa na posição de lótus",
+  "categoria": "Person In Lotus Position",
+  "url": "https://emojigraph.org/pt/person-in-lotus-position/",
+  "detalhes": {
+    "explicacao": "Uma posição de yoga, com pessoa sem gênero, onde as pernas são cruzadas e os pés colocados com as solas juntas. Geralmente usado para denotar meditação ou estar em paz. Pessoa em Posição de Lótus foi aprovado como parte do Unicode 10.0 em 2017e acrescentou para o Emoji 5.0 em 2017.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-in-lotus-position_1f9d8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-in-lotus-position_1f9d8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-in-lotus-position_1f9d8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-in-lotus-position_1f9d8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-in-lotus-position_1f9d8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-in-lotus-position_1f9d8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-in-lotus-position_1f9d8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-in-lotus-position_1f9d8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-in-lotus-position_1f9d8.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/person-in-lotus-position_1f9d8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ioga",
+      "meditação",
+      "yoga",
+      "pernas cruzadas",
+      "relaxar",
+      "zen"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D8;",
+      "HTML dec": "&#129496;",
+      "URL escape code": "%F0%9F%A7%98",
+      "Punycode": "xn--iv9h",
+      "Bytes (UTF-8)": "F0 9F A7 98",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD8",
+      "C, C++, Python": "\\U0001f9d8",
+      "CSS": "\\01F9D8",
+      "PHP, Ruby": "\\u{1F9D8}",
+      "Perl": "\\x{1F9D8}"
+    }
+  }
+}

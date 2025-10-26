@@ -1,0 +1,87 @@
+{
+  "emoji": "🔈",
+  "nome": "🔈 Alto-falante com volume baixo",
+  "categoria": "Speaker Low Volume",
+  "url": "https://emojigraph.org/pt/speaker-low-volume/",
+  "detalhes": {
+    "explicacao": "Um cone do alto-falante exibido sem qualquer ondas de som.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/speaker-low-volume_1f508.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/speaker-low-volume_1f508.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "volume baixo",
+      "alto-falante",
+      "música",
+      "som",
+      "volume"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F508;",
+      "HTML dec": "&#128264;",
+      "URL escape code": "%F0%9F%94%88",
+      "Punycode": "xn--bv8h",
+      "Bytes (UTF-8)": "F0 9F 94 88",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD08",
+      "C, C++, Python": "\\U0001f508",
+      "CSS": "\\01F508",
+      "PHP, Ruby": "\\u{1F508}",
+      "Perl": "\\x{1F508}"
+    }
+  }
+}

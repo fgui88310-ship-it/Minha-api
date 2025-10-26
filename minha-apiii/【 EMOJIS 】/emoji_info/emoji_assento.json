@@ -1,0 +1,93 @@
+{
+  "emoji": "💺",
+  "nome": "💺 Assento",
+  "categoria": "Seat",
+  "url": "https://emojigraph.org/pt/seat/",
+  "detalhes": {
+    "explicacao": "Um assento, que poderia se referir a qualquer tipo de lugar para se sentar, com a distinção de que um assento geralmente é fixa, e não é uma cadeira que pode ser movido.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/seat_1f4ba.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/seat_1f4ba.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "assento",
+      "cadeira",
+      "poltrona"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4BA;",
+      "HTML dec": "&#128186;",
+      "URL escape code": "%F0%9F%92%BA",
+      "Punycode": "xn--2s8h",
+      "Bytes (UTF-8)": "F0 9F 92 BA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCBA",
+      "C, C++, Python": "\\U0001f4ba",
+      "CSS": "\\01F4BA",
+      "PHP, Ruby": "\\u{1F4BA}",
+      "Perl": "\\x{1F4BA}"
+    }
+  }
+}

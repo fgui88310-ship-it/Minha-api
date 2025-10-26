@@ -1,0 +1,69 @@
+{
+  "emoji": "🛹",
+  "nome": "🛹 Skate",
+  "categoria": "Skateboard",
+  "url": "https://emojigraph.org/pt/skateboard/",
+  "detalhes": {
+    "explicacao": "Um skate emoji, mostrado em algumas plataformas a partir do topo e outros, mostrando-a sob o lado da placa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/skateboard_1f6f9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/skateboard_1f6f9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/skateboard_1f6f9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/skateboard_1f6f9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/skateboard_1f6f9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/skateboard_1f6f9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/skateboard_1f6f9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/skateboard_1f6f9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/skateboard_1f6f9.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/skateboard_1f6f9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "skate",
+      "rodinhas",
+      "skatista"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6F9;",
+      "HTML dec": "&#128761;",
+      "URL escape code": "%F0%9F%9B%B9",
+      "Punycode": "xn--i98h",
+      "Bytes (UTF-8)": "F0 9F 9B B9",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEF9",
+      "C, C++, Python": "\\U0001f6f9",
+      "CSS": "\\01F6F9",
+      "PHP, Ruby": "\\u{1F6F9}",
+      "Perl": "\\x{1F6F9}"
+    }
+  }
+}

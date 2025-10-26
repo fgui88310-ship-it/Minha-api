@@ -1,0 +1,59 @@
+{
+  "emoji": "🇱🇰",
+  "nome": "🇱🇰 Bandeira: Sri Lanka",
+  "categoria": "flag sri lanka",
+  "url": "https://emojigraph.org/pt/flag-sri-lanka/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Sri Lanka. Este símbolo é uma seqüência de caracteres 🇱 Símbolo Indicador Regional Letra L e 🇰 Símbolo Indicador Regional Letra K. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras LK em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-sri-lanka_1f1f1-1f1f0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-sri-lanka_1f1f1-1f1f0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-sri-lanka_1f1f1-1f1f0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-sri-lanka_1f1f1-1f1f0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-sri-lanka_1f1f1-1f1f0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-sri-lanka_1f1f1-1f1f0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-sri-lanka_1f1f1-1f1f0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-sri-lanka_1f1f1-1f1f0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F1;&#x1F1F0;",
+      "HTML dec": "&#127473;&#127472;",
+      "URL escape code": "%F0%9F%87%B1%F0%9F%87%B0",
+      "Punycode": "xn--o77hb",
+      "Bytes (UTF-8)": "F0 9F 87 B1 F0 9F 87 B0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF1\\uD83C\\uDDF0",
+      "C, C++, Python": "\\U0001f1f1\\U0001f1f0",
+      "CSS": "\\01F1F1 \\01F1F0",
+      "PHP, Ruby": "\\u{1F1F1}\\u{1F1F0}",
+      "Perl": "\\x{1F1F1}\\x{1F1F0}"
+    }
+  }
+}

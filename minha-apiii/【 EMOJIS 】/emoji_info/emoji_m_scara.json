@@ -1,0 +1,100 @@
+{
+  "emoji": "🎭",
+  "nome": "🎭 Máscara",
+  "categoria": "performing arts",
+  "url": "https://emojigraph.org/pt/performing-arts/",
+  "detalhes": {
+    "explicacao": "Duas máscaras, muitas vezes usado em mapas para indicar uma peça de teatro, têm origem no Teatro grego, como as máscaras da tragédia e da comédia.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/performing-arts_1f3ad.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/performing-arts_1f3ad.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arte",
+      "arte dramática",
+      "entretenimento",
+      "espetáculo",
+      "máscara",
+      "ator",
+      "atriz",
+      "peça",
+      "performance",
+      "teatro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3AD;",
+      "HTML dec": "&#127917;",
+      "URL escape code": "%F0%9F%8E%AD",
+      "Punycode": "xn--el8h",
+      "Bytes (UTF-8)": "F0 9F 8E AD",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFAD",
+      "C, C++, Python": "\\U0001f3ad",
+      "CSS": "\\01F3AD",
+      "PHP, Ruby": "\\u{1F3AD}",
+      "Perl": "\\x{1F3AD}"
+    }
+  }
+}

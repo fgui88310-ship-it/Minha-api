@@ -1,0 +1,59 @@
+{
+  "emoji": "🇫🇰",
+  "nome": "🇫🇰 Bandeira: Ilhas Malvinas",
+  "categoria": "flag falkland islands",
+  "url": "https://emojigraph.org/pt/flag-falkland-islands/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional das Ilhas Malvinas. Este símbolo é uma seqüência de caracteres 🇫 Símbolo Indicador Regional Letra F e 🇰 Símbolo Indicador Regional Letra K. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras FK em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-falkland-islands_1f1eb-1f1f0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-falkland-islands_1f1eb-1f1f0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-falkland-islands_1f1eb-1f1f0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-falkland-islands_1f1eb-1f1f0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-falkland-islands_1f1eb-1f1f0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-falkland-islands_1f1eb-1f1f0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-falkland-islands_1f1eb-1f1f0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-falkland-islands_1f1eb-1f1f0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EB;&#x1F1F0;",
+      "HTML dec": "&#127467;&#127472;",
+      "URL escape code": "%F0%9F%87%AB%F0%9F%87%B0",
+      "Punycode": "xn--j77hka",
+      "Bytes (UTF-8)": "F0 9F 87 AB F0 9F 87 B0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEB\\uD83C\\uDDF0",
+      "C, C++, Python": "\\U0001f1eb\\U0001f1f0",
+      "CSS": "\\01F1EB \\01F1F0",
+      "PHP, Ruby": "\\u{1F1EB}\\u{1F1F0}",
+      "Perl": "\\x{1F1EB}\\x{1F1F0}"
+    }
+  }
+}

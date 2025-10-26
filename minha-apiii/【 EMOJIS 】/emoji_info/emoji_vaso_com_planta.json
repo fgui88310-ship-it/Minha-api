@@ -1,0 +1,76 @@
+{
+  "emoji": "🪴",
+  "nome": "🪴 Vaso com planta",
+  "categoria": "potted plant",
+  "url": "https://emojigraph.org/pt/potted-plant/",
+  "detalhes": {
+    "explicacao": "Vasos de Planta foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/potted-plant_1fab4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/potted-plant_1fab4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/potted-plant_1fab4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/potted-plant_1fab4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/potted-plant_1fab4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/potted-plant_1fab4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/potted-plant_1fab4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/potted-plant_1fab4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/potted-plant_1fab4.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/potted-plant_1fab4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "casa",
+      "chato",
+      "nutrir",
+      "planta",
+      "plantar",
+      "sem utilidade",
+      "vaso com planta",
+      "decoração",
+      "samambaia",
+      "vaso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAB4;",
+      "HTML dec": "&#129716;",
+      "URL escape code": "%F0%9F%AA%B4",
+      "Punycode": "xn--s19h",
+      "Bytes (UTF-8)": "F0 9F AA B4",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEB4",
+      "C, C++, Python": "\\U0001fab4",
+      "CSS": "\\01FAB4",
+      "PHP, Ruby": "\\u{1FAB4}",
+      "Perl": "\\x{1FAB4}"
+    }
+  }
+}

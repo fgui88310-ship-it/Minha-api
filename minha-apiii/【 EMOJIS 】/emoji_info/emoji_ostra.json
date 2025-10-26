@@ -1,0 +1,71 @@
+{
+  "emoji": "🦪",
+  "nome": "🦪 Ostra",
+  "categoria": "Oyster",
+  "url": "https://emojigraph.org/pt/oyster/",
+  "detalhes": {
+    "explicacao": "Uma ostra, um molusco de alimentos, ou pérolas. Descrito como metade de uma ostra aberta com um rosado corpo em um áspero, marrom e branco shell, tendo uma pérola em muitas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/oyster_1f9aa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/oyster_1f9aa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/oyster_1f9aa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/oyster_1f9aa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/oyster_1f9aa.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/oyster_1f9aa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/oyster_1f9aa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/oyster_1f9aa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/oyster_1f9aa.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/oyster_1f9aa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mergulho",
+      "ostra",
+      "pérola",
+      "frutos do mar",
+      "mar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9AA;",
+      "HTML dec": "&#129450;",
+      "URL escape code": "%F0%9F%A6%AA",
+      "Punycode": "xn--6t9h",
+      "Bytes (UTF-8)": "F0 9F A6 AA",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDAA",
+      "C, C++, Python": "\\U0001f9aa",
+      "CSS": "\\01F9AA",
+      "PHP, Ruby": "\\u{1F9AA}",
+      "Perl": "\\x{1F9AA}"
+    }
+  }
+}

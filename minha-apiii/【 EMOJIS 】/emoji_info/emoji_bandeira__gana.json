@@ -1,0 +1,67 @@
+{
+  "emoji": "🇬🇭",
+  "nome": "🇬🇭 Bandeira: Gana",
+  "categoria": "flag ghana",
+  "url": "https://emojigraph.org/pt/flag-ghana/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Gana. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇭 Símbolo Indicador Regional Letra H. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GH em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-ghana_1f1ec-1f1ed.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-ghana_1f1ec-1f1ed.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-ghana_1f1ec-1f1ed.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-ghana_1f1ec-1f1ed.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-ghana_1f1ec-1f1ed.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-ghana_1f1ec-1f1ed.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-ghana_1f1ec-1f1ed.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-ghana_1f1ec-1f1ed.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-ghana_1f1ec-1f1ed.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-ghana_1f1ec-1f1ed.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1ED;",
+      "HTML dec": "&#127468;&#127469;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%AD",
+      "Punycode": "xn--k77hc",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 AD",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDED",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1ed",
+      "CSS": "\\01F1EC \\01F1ED",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1ED}",
+      "Perl": "\\x{1F1EC}\\x{1F1ED}"
+    }
+  }
+}

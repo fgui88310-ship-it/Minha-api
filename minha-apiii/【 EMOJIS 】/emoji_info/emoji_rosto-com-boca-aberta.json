@@ -1,0 +1,88 @@
+{
+  "emoji": "😮",
+  "nome": "😮 Rosto com boca aberta",
+  "categoria": "Face With Open Mouth",
+  "url": "https://emojigraph.org/pt/face-with-open-mouth/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com pequenos olhos, abrindo os olhos e uma grande e redonda boca, com surpresa, ou em choque, como se dizendo Nossa! ou óh meu Deus! pode transmitir esses sentimentos como admiração ou descrença, muitas vezes, mais leves ou mais irônico do que 😱 Cara Gritando de Medo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/face-with-open-mouth_1f62e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/face-with-open-mouth_1f62e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boca",
+      "boca aberta",
+      "empatia",
+      "rosto",
+      "boquiaberto",
+      "pasmo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F62E;",
+      "HTML dec": "&#128558;",
+      "URL escape code": "%F0%9F%98%AE",
+      "Punycode": "xn--p38h",
+      "Bytes (UTF-8)": "F0 9F 98 AE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE2E",
+      "C, C++, Python": "\\U0001f62e",
+      "CSS": "\\01F62E",
+      "PHP, Ruby": "\\u{1F62E}",
+      "Perl": "\\x{1F62E}"
+    }
+  }
+}

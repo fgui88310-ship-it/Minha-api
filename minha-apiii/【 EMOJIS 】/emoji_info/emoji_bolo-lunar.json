@@ -1,0 +1,66 @@
+{
+  "emoji": "🥮",
+  "nome": "🥮 Bolo lunar",
+  "categoria": "Moon Cake",
+  "url": "https://emojigraph.org/pt/moon-cake/",
+  "detalhes": {
+    "explicacao": "A rodada, marrom-dourado pastelaria do Chinês mooncake, uma tradicional iguaria e lunar, símbolo da Mid-Autumn Festival. Muitas plataformas apresentam um design ou caracteres impressos na crosta, e representam uma fatia cortada para mostrar uma pasta marrom com um pato gema de ovo dentro. O Twitter exibe o caractere Chinês para \"o verão/outono\" ou \"colheita\" (秋) na parte superior.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/moon-cake_1f96e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/moon-cake_1f96e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/moon-cake_1f96e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/moon-cake_1f96e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/moon-cake_1f96e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/moon-cake_1f96e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/moon-cake_1f96e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/moon-cake_1f96e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bolo lunar",
+      "festival",
+      "outono",
+      "yuèbǐng",
+      "bolo da lua",
+      "comida",
+      "confeitaria",
+      "festival chinês"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F96E;",
+      "HTML dec": "&#129390;",
+      "URL escape code": "%F0%9F%A5%AE",
+      "Punycode": "xn--hs9h",
+      "Bytes (UTF-8)": "F0 9F A5 AE",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD6E",
+      "C, C++, Python": "\\U0001f96e",
+      "CSS": "\\01F96E",
+      "PHP, Ruby": "\\u{1F96E}",
+      "Perl": "\\x{1F96E}"
+    }
+  }
+}

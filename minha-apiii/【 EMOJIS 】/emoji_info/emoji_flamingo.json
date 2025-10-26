@@ -1,0 +1,70 @@
+{
+  "emoji": "🦩",
+  "nome": "🦩 Flamingo",
+  "categoria": "Flamingo",
+  "url": "https://emojigraph.org/pt/flamingo/",
+  "detalhes": {
+    "explicacao": "Um flamingo, uma das aves aquáticas com penas cor-de-rosa e longo pescoço e pernas. Descrito como um flamingo em perfil completo virada para a esquerda, de pé sobre uma perna, geralmente com um longo e preto bico.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flamingo_1f9a9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flamingo_1f9a9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flamingo_1f9a9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flamingo_1f9a9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flamingo_1f9a9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/flamingo_1f9a9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flamingo_1f9a9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flamingo_1f9a9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flamingo_1f9a9.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/flamingo_1f9a9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "extravagante",
+      "flamingo",
+      "tropical",
+      "ave"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9A9;",
+      "HTML dec": "&#129449;",
+      "URL escape code": "%F0%9F%A6%A9",
+      "Punycode": "xn--5t9h",
+      "Bytes (UTF-8)": "F0 9F A6 A9",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDA9",
+      "C, C++, Python": "\\U0001f9a9",
+      "CSS": "\\01F9A9",
+      "PHP, Ruby": "\\u{1F9A9}",
+      "Perl": "\\x{1F9A9}"
+    }
+  }
+}

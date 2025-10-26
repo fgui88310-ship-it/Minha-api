@@ -1,0 +1,73 @@
+{
+  "emoji": "🥂",
+  "nome": "🥂 Taças brindando",
+  "categoria": "Clinking Glasses",
+  "url": "https://emojigraph.org/pt/clinking-glasses/",
+  "detalhes": {
+    "explicacao": "Duas taças de champanhe ou vinho espumante sendo brindadas juntas, como feito em uma comemoração ou em um momento de brinde (\"Saúde!\"). O design da Samsung sugere dois copos de vinho branco. Algumas plataformas incluem marcações para simular o som das taças chocando-se.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/clinking-glasses_1f942.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/clinking-glasses_1f942.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/clinking-glasses_1f942.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/clinking-glasses_1f942.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/clinking-glasses_1f942.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/clinking-glasses_1f942.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/clinking-glasses_1f942.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/clinking-glasses_1f942.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/clinking-glasses_1f942.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/clinking-glasses_1f942.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "brinde",
+      "champanhe",
+      "comemoração",
+      "taça",
+      "taças brindando",
+      "tim-tim",
+      "champagne"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F942;",
+      "HTML dec": "&#129346;",
+      "URL escape code": "%F0%9F%A5%82",
+      "Punycode": "xn--7q9h",
+      "Bytes (UTF-8)": "F0 9F A5 82",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD42",
+      "C, C++, Python": "\\U0001f942",
+      "CSS": "\\01F942",
+      "PHP, Ruby": "\\u{1F942}",
+      "Perl": "\\x{1F942}"
+    }
+  }
+}

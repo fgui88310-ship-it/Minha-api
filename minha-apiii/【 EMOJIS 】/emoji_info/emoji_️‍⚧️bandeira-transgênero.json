@@ -1,0 +1,63 @@
+{
+  "emoji": "🏳",
+  "nome": "🏳️‍⚧️ Bandeira transgênero",
+  "categoria": "Transgender Flag",
+  "url": "https://emojigraph.org/pt/transgender-flag/",
+  "detalhes": {
+    "explicacao": "Uma bandeira com a horizontal com as listras horizontais de azul pálido e rosa pálido em uma única listra branca no meio, comumente usado por Transgêneros ou Transexuaissobre sua própria bandeira do Orgulho",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "azul claro",
+      "bandeira",
+      "branco",
+      "rosa",
+      "transgênero"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F;",
+      "HTML dec": "&#127987;&#65039;&#8205;&#9895;&#65039;",
+      "URL escape code": "%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F",
+      "Punycode": "xn--c8h5289n",
+      "Bytes (UTF-8)": "F0 9F 8F B3 EF B8 8F E2 80 8D E2 9A A7 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFF3\\uFE0F\\u200D\\u26A7\\uFE0F",
+      "C, C++, Python": "\\U0001f3f3\\uFE0F\\u200D\\u26A7\\uFE0F",
+      "CSS": "\\01F3F3 \\FE0F \\200D \\26A7 \\FE0F",
+      "PHP, Ruby": "\\u{1F3F3}\\u{FE0F}\\u{200D}\\u{26A7}\\u{FE0F}",
+      "Perl": "\\x{1F3F3}\\x{FE0F}\\x{200D}\\x{26A7}\\x{FE0F}"
+    }
+  }
+}

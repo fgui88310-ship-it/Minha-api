@@ -1,0 +1,69 @@
+{
+  "emoji": "🧥",
+  "nome": "🧥 Casaco",
+  "categoria": "Coat",
+  "url": "https://emojigraph.org/pt/coat/",
+  "detalhes": {
+    "explicacao": "Um casaco de inverno, mostrado em uma variedade de cores e estilos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/coat_1f9e5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/coat_1f9e5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/coat_1f9e5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/coat_1f9e5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/coat_1f9e5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/coat_1f9e5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/coat_1f9e5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/coat_1f9e5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/coat_1f9e5.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/coat_1f9e5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "blusa",
+      "casaco",
+      "jaqueta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9E5;",
+      "HTML dec": "&#129509;",
+      "URL escape code": "%F0%9F%A7%A5",
+      "Punycode": "xn--vv9h",
+      "Bytes (UTF-8)": "F0 9F A7 A5",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDE5",
+      "C, C++, Python": "\\U0001f9e5",
+      "CSS": "\\01F9E5",
+      "PHP, Ruby": "\\u{1F9E5}",
+      "Perl": "\\x{1F9E5}"
+    }
+  }
+}

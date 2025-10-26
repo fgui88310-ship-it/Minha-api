@@ -1,0 +1,92 @@
+{
+  "emoji": "🍉",
+  "nome": "🍉 Melancia",
+  "categoria": "Watermelon",
+  "url": "https://emojigraph.org/pt/watermelon/",
+  "detalhes": {
+    "explicacao": "Uma fatia de melancia, mostrando sua rica cor-de-rosa carne, sementes pretas, verdes e casca.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/watermelon_1f349.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/watermelon_1f349.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fruta",
+      "melancia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F349;",
+      "HTML dec": "&#127817;",
+      "URL escape code": "%F0%9F%8D%89",
+      "Punycode": "xn--ji8h",
+      "Bytes (UTF-8)": "F0 9F 8D 89",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF49",
+      "C, C++, Python": "\\U0001f349",
+      "CSS": "\\01F349",
+      "PHP, Ruby": "\\u{1F349}",
+      "Perl": "\\x{1F349}"
+    }
+  }
+}

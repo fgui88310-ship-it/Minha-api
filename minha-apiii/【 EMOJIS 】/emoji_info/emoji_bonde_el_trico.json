@@ -1,0 +1,85 @@
+{
+  "emoji": "🚊",
+  "nome": "🚊 Bonde elétrico",
+  "categoria": "tram",
+  "url": "https://emojigraph.org/pt/tram/",
+  "detalhes": {
+    "explicacao": "Uma forma de transporte público sobre trilhos, geralmente encontradas nas ruas, em cidades ou outras áreas urbanas. Para curta ou média duração viagens.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tram_1f68a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tram_1f68a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bonde elétrico",
+      "veículo",
+      "trólebus"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F68A;",
+      "HTML dec": "&#128650;",
+      "URL escape code": "%F0%9F%9A%8A",
+      "Punycode": "xn--c68h",
+      "Bytes (UTF-8)": "F0 9F 9A 8A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE8A",
+      "C, C++, Python": "\\U0001f68a",
+      "CSS": "\\01F68A",
+      "PHP, Ruby": "\\u{1F68A}",
+      "Perl": "\\x{1F68A}"
+    }
+  }
+}

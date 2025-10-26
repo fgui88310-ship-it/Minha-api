@@ -1,0 +1,93 @@
+{
+  "emoji": "🌕",
+  "nome": "🌕 Lua cheia",
+  "categoria": "full moon",
+  "url": "https://emojigraph.org/pt/full-moon/",
+  "detalhes": {
+    "explicacao": "Uma lua cheia, a quinta fase das oito fases da lua, quando está completamente aceso. Retrata a lua como um total, de ouro ou de prata, de crateras disco, totalmente iluminada pelo sol.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/full-moon_1f315.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/full-moon_1f315.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cheia",
+      "lua",
+      "luar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F315;",
+      "HTML dec": "&#127765;",
+      "URL escape code": "%F0%9F%8C%95",
+      "Punycode": "xn--1g8h",
+      "Bytes (UTF-8)": "F0 9F 8C 95",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF15",
+      "C, C++, Python": "\\U0001f315",
+      "CSS": "\\01F315",
+      "PHP, Ruby": "\\u{1F315}",
+      "Perl": "\\x{1F315}"
+    }
+  }
+}

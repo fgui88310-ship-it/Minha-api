@@ -1,0 +1,61 @@
+{
+  "emoji": "🧔",
+  "nome": "🧔‍♀️ Mulher: barba",
+  "categoria": "woman beard",
+  "url": "https://emojigraph.org/pt/woman-beard/",
+  "detalhes": {
+    "explicacao": "Жінка з бородою - це гендерна версія дизайну смайлів \"Бородатий\". Застосовується для позначення статевого дозрівання, стилю, саморепрезентації або компліменту носієві бороди.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-beard_1f9d4-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-beard_1f9d4-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-beard_1f9d4-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-beard_1f9d4-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-beard_1f9d4-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-beard_1f9d4-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-beard_1f9d4-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-beard_1f9d4-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barba",
+      "mulher",
+      "mulher: barba"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1f9d4;&#x200d;&#x2640;&#xfe0f;",
+      "HTML dec": "&#129492;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A7%94%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h1212o",
+      "Bytes (UTF-8)": "f0 9f a7 94 e2 80 8d e2 99 80 ef b8 8f",
+      "JavaScript, JSON, Java": "\\ud83e\\uddd4\\u200d\\u2640\\ufe0f",
+      "C, C++, Python": "\\U0001f9d4\\u000200d\\u0002640\\u000fe0f",
+      "CSS": "\\01F9D4 \\0200D \\02640 \\0FE0F",
+      "PHP, Ruby": "\\u{1F9D4}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F9D4}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

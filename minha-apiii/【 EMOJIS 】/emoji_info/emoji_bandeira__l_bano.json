@@ -1,0 +1,59 @@
+{
+  "emoji": "🇱🇧",
+  "nome": "🇱🇧 Bandeira: Líbano",
+  "categoria": "flag lebanon",
+  "url": "https://emojigraph.org/pt/flag-lebanon/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Líbano. Este símbolo é uma seqüência de caracteres 🇱 Símbolo Indicador Regional Letra L e 🇧 Símbolo Indicador Regional Letra B. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras LB em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-lebanon_1f1f1-1f1e7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-lebanon_1f1f1-1f1e7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-lebanon_1f1f1-1f1e7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-lebanon_1f1f1-1f1e7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-lebanon_1f1f1-1f1e7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-lebanon_1f1f1-1f1e7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-lebanon_1f1f1-1f1e7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-lebanon_1f1f1-1f1e7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F1;&#x1F1E7;",
+      "HTML dec": "&#127473;&#127463;",
+      "URL escape code": "%F0%9F%87%B1%F0%9F%87%A7",
+      "Punycode": "xn--f77hta",
+      "Bytes (UTF-8)": "F0 9F 87 B1 F0 9F 87 A7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF1\\uD83C\\uDDE7",
+      "C, C++, Python": "\\U0001f1f1\\U0001f1e7",
+      "CSS": "\\01F1F1 \\01F1E7",
+      "PHP, Ruby": "\\u{1F1F1}\\u{1F1E7}",
+      "Perl": "\\x{1F1F1}\\x{1F1E7}"
+    }
+  }
+}

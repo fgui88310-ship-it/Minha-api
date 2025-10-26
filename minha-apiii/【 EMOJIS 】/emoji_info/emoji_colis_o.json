@@ -1,0 +1,94 @@
+{
+  "emoji": "💥",
+  "nome": "💥 Colisão",
+  "categoria": "collision",
+  "url": "https://emojigraph.org/pt/collision/",
+  "detalhes": {
+    "explicacao": "Um desenho animado no estilo de representação de uma colisão. Descrito como uma estrela-como, laranja e amarelo ardente rajada, geralmente com um ponto, estendendo-se para o canto inferior direito, como se a origem da colisão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/collision_1f4a5.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/collision_1f4a5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "colisão",
+      "emoção",
+      "engraçado",
+      "explosão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4A5;",
+      "HTML dec": "&#128165;",
+      "URL escape code": "%F0%9F%92%A5",
+      "Punycode": "xn--hs8h",
+      "Bytes (UTF-8)": "F0 9F 92 A5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCA5",
+      "C, C++, Python": "\\U0001f4a5",
+      "CSS": "\\01F4A5",
+      "PHP, Ruby": "\\u{1F4A5}",
+      "Perl": "\\x{1F4A5}"
+    }
+  }
+}

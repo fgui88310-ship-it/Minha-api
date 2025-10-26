@@ -1,0 +1,97 @@
+{
+  "emoji": "🍳",
+  "nome": "🍳 Ovo frito",
+  "categoria": "cooking",
+  "url": "https://emojigraph.org/pt/cooking/",
+  "detalhes": {
+    "explicacao": "Um ovo com gema de ovo fritar em uma frigideira, preparado, ensolarado, virada para cima. Embora associado com pequeno-almoço, o emoji representa a acção geral de cozinhar e conceitos relacionados.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cooking_1f373.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cooking_1f373.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "frigideira",
+      "ovo",
+      "ovo estrelado",
+      "ovo frito",
+      "comida",
+      "culinária",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F373;",
+      "HTML dec": "&#127859;",
+      "URL escape code": "%F0%9F%8D%B3",
+      "Punycode": "xn--qj8h",
+      "Bytes (UTF-8)": "F0 9F 8D B3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF73",
+      "C, C++, Python": "\\U0001f373",
+      "CSS": "\\01F373",
+      "PHP, Ruby": "\\u{1F373}",
+      "Perl": "\\x{1F373}"
+    }
+  }
+}

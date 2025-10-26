@@ -1,0 +1,70 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍🍼 Mulher alimentando bebê",
+  "categoria": "woman feeding baby",
+  "url": "https://emojigraph.org/pt/woman-feeding-baby/",
+  "detalhes": {
+    "explicacao": "Uma mulher mostrada a alimentação de um bebê com uma garrafa, às vezes olhando para o bebê e sorrindo. Alternativas estão disponíveis para 🧑🍼 Pessoa alimenta o Bebê e 👨🍼 Homem a Alimentar o Bebé.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-feeding-baby_1f469-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-feeding-baby_1f469-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-feeding-baby_1f469-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-feeding-baby_1f469-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-feeding-baby_1f469-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-feeding-baby_1f469-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-feeding-baby_1f469-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-feeding-baby_1f469-200d-1f37c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alimentando",
+      "bebê",
+      "mulher",
+      "neném",
+      "amamentação",
+      "amamentando",
+      "amor",
+      "mãe",
+      "mamãe",
+      "pessoa",
+      "recém nascido",
+      "recém-nascido"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F37C;",
+      "HTML dec": "&#128105;&#8205;&#127868;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%8D%BC",
+      "Punycode": "xn--zj8hzo",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F 8D BC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83C\\uDF7C",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f37c",
+      "CSS": "\\01F469 \\200D \\01F37C",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F37C}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F37C}"
+    }
+  }
+}

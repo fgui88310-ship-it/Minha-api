@@ -1,0 +1,76 @@
+{
+  "emoji": "🥟",
+  "nome": "🥟 Bolinho asiático",
+  "categoria": "Dumpling",
+  "url": "https://emojigraph.org/pt/dumpling/",
+  "detalhes": {
+    "explicacao": "Um bolinho de massa de enchimento e, como dobrado e beliscou fechado para cozinhar ou fritar. Associado com cozinhas de todo o mundo, incluindo a China (jiaozi), Japão (gyoza ou dango), Polónia (pierogi), e Espanha e na América latina (empanada). Facebook do projeto se assemelha a uma xiaolongbao, um Chinês de sopa de bolinho de massa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dumpling_1f95f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dumpling_1f95f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dumpling_1f95f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dumpling_1f95f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dumpling_1f95f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dumpling_1f95f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dumpling_1f95f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dumpling_1f95f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dumpling_1f95f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dumpling_1f95f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "asiático",
+      "bolinho",
+      "chinês",
+      "dumpling",
+      "empanada",
+      "gyōza",
+      "jiaozi",
+      "massa",
+      "pierogi",
+      "potsticker"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F95F;",
+      "HTML dec": "&#129375;",
+      "URL escape code": "%F0%9F%A5%9F",
+      "Punycode": "xn--1r9h",
+      "Bytes (UTF-8)": "F0 9F A5 9F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD5F",
+      "C, C++, Python": "\\U0001f95f",
+      "CSS": "\\01F95F",
+      "PHP, Ruby": "\\u{1F95F}",
+      "Perl": "\\x{1F95F}"
+    }
+  }
+}

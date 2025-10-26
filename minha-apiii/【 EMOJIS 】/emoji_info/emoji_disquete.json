@@ -1,0 +1,94 @@
+{
+  "emoji": "💾",
+  "nome": "💾 Disquete",
+  "categoria": "Floppy Disk",
+  "url": "https://emojigraph.org/pt/floppy-disk/",
+  "detalhes": {
+    "explicacao": "Um disquete de 3,5 polegadas, um formato de armazenamento de dados populares na década de 1980–90, mas em grande parte preservada como um Save ícone em programas de computador. Mostrado com a sua prata do obturador posicionada na parte de cima e em preto caixa com uma etiqueta branca, acentuados com o azul ou o vermelho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/floppy-disk_1f4be.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/floppy-disk_1f4be.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "computador",
+      "disco",
+      "disco flexível",
+      "disquete"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4BE;",
+      "HTML dec": "&#128190;",
+      "URL escape code": "%F0%9F%92%BE",
+      "Punycode": "xn--6s8h",
+      "Bytes (UTF-8)": "F0 9F 92 BE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCBE",
+      "C, C++, Python": "\\U0001f4be",
+      "CSS": "\\01F4BE",
+      "PHP, Ruby": "\\u{1F4BE}",
+      "Perl": "\\x{1F4BE}"
+    }
+  }
+}

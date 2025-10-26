@@ -1,0 +1,69 @@
+{
+  "emoji": "🛎",
+  "nome": "🛎️ Sineta",
+  "categoria": "Bellhop Bell",
+  "url": "https://emojigraph.org/pt/bellhop-bell/",
+  "detalhes": {
+    "explicacao": "Ding! Uma chamada de sino, como pressionar em uma recepção para alertar o pessoal para o serviço, como de um serviço de portaria ou carregador (porter) para o transporte de bagagem no hotel. Geralmente retratado como um sino de ouro sobre um suporte em madeira.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bellhop-bell_1f6ce-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bellhop-bell_1f6ce-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bellhop-bell_1f6ce-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bellhop-bell_1f6ce-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bellhop-bell_1f6ce-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bellhop-bell_1f6ce-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bellhop-bell_1f6ce-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bellhop-bell_1f6ce-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bellhop-bell_1f6ce-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bellhop-bell_1f6ce-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "hotel",
+      "sineta",
+      "sino"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6CE;&#xFE0F;",
+      "HTML dec": "&#128718;&#65039;",
+      "URL escape code": "%F0%9F%9B%8E%EF%B8%8F",
+      "Punycode": "xn--978h",
+      "Bytes (UTF-8)": "F0 9F 9B 8E EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDECE\\uFE0F",
+      "C, C++, Python": "\\U0001f6ce\\uFE0F",
+      "CSS": "\\01F6CE \\FE0F",
+      "PHP, Ruby": "\\u{1F6CE}\\u{FE0F}",
+      "Perl": "\\x{1F6CE}\\x{FE0F}"
+    }
+  }
+}

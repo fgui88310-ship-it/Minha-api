@@ -1,0 +1,96 @@
+{
+  "emoji": "💝",
+  "nome": "💝 Coração com fita",
+  "categoria": "Heart With Ribbon",
+  "url": "https://emojigraph.org/pt/heart-with-ribbon/",
+  "detalhes": {
+    "explicacao": "Um coração em forma de caixa, amarrada com uma fita. Pode ser uma caixa de presente, caixa de bombons, ou de uma caixa de jóias.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/heart-with-ribbon_1f49d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/heart-with-ribbon_1f49d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coração",
+      "emoção",
+      "fita",
+      "amor",
+      "aniversário",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F49D;",
+      "HTML dec": "&#128157;",
+      "URL escape code": "%F0%9F%92%9D",
+      "Punycode": "xn--8r8h",
+      "Bytes (UTF-8)": "F0 9F 92 9D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC9D",
+      "C, C++, Python": "\\U0001f49d",
+      "CSS": "\\01F49D",
+      "PHP, Ruby": "\\u{1F49D}",
+      "Perl": "\\x{1F49D}"
+    }
+  }
+}

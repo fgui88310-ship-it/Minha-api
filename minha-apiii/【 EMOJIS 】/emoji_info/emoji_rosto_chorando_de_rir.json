@@ -1,0 +1,99 @@
+{
+  "emoji": "😂",
+  "nome": "😂 Rosto chorando de rir",
+  "categoria": "face with tears of joy",
+  "url": "https://emojigraph.org/pt/face-with-tears-of-joy/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, com um grande sorriso, levantando as sobrancelhas e olhos sorridentes, cada um derramando uma lágrima de tanto rir. Amplamente utilizado para mostrar algo que é engraçado ou agradável.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/face-with-tears-of-joy_1f602.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/face-with-tears-of-joy_1f602.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alegria",
+      "lágrimas",
+      "rosto",
+      "chorando de rir",
+      "engraçada",
+      "engraçado",
+      "gargalhada",
+      "hahaha",
+      "kkk"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F602;",
+      "HTML dec": "&#128514;",
+      "URL escape code": "%F0%9F%98%82",
+      "Punycode": "xn--g28h",
+      "Bytes (UTF-8)": "F0 9F 98 82",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE02",
+      "C, C++, Python": "\\U0001f602",
+      "CSS": "\\01F602",
+      "PHP, Ruby": "\\u{1F602}",
+      "Perl": "\\x{1F602}"
+    }
+  }
+}

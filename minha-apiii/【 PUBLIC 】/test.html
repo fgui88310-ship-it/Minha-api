@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Card Canvas</title>
+    <style>
+        canvas {
+            border: 1px solid #ccc;
+            background-color: #1a1a1a;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="musicCanvas" width="400" height="150"></canvas>
+    <script>
+        const canvas = document.getElementById('musicCanvas');
+        const ctx = canvas.getContext('2d');
+
+        // Configurações baseadas nos parâmetros da URL
+        const musicName = 'Yuxinze';
+        const artistName = 'Apis';
+        const timeEnd = '3:00';
+        const color = '#1E90FF'; // Azul baseado no parâmetro 'cor'
+
+        // Desenhar o fundo
+        ctx.fillStyle = '#1a1a1a';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+        // Desenhar o retângulo da música
+        ctx.fillStyle = '#2a2a2a';
+        ctx.fillRect(10, 10, canvas.width - 20, 70);
+
+        // Adicionar texto (título e artista)
+        ctx.fillStyle = '#fff';
+        ctx.font = '16px Arial';
+        ctx.fillText(musicName, 20, 40);
+        ctx.font = '12px Arial';
+        ctx.fillText(artistName, 20, 60);
+
+        // Desenhar a barra de progresso
+        ctx.fillStyle = color;
+        ctx.fillRect(20, 90, (canvas.width - 40) * 0.5, 10); // 50% de progresso como exemplo
+        ctx.fillStyle = '#666';
+        ctx.fillRect(20 + (canvas.width - 40) * 0.5, 90, (canvas.width - 40) * 0.5, 10);
+
+        // Adicionar marcador de progresso
+        ctx.beginPath();
+        ctx.arc(20 + (canvas.width - 40) * 0.5, 95, 5, 0, Math.PI * 2);
+        ctx.fillStyle = color;
+        ctx.fill();
+
+        // Adicionar tempo
+        ctx.fillStyle = '#fff';
+        ctx.font = '12px Arial';
+        ctx.fillText('0:00', 20, 120);
+        ctx.fillText(timeEnd, canvas.width - 40, 120);
+    </script>
+</body>
+</html>

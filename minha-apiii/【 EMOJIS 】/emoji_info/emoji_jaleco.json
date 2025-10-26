@@ -1,0 +1,73 @@
+{
+  "emoji": "🥼",
+  "nome": "🥼 Jaleco",
+  "categoria": "Lab Coat",
+  "url": "https://emojigraph.org/pt/lab-coat/",
+  "detalhes": {
+    "explicacao": "Um manto branco, usado em um laboratório de ciências.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lab-coat_1f97c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lab-coat_1f97c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lab-coat_1f97c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lab-coat_1f97c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lab-coat_1f97c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lab-coat_1f97c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lab-coat_1f97c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lab-coat_1f97c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lab-coat_1f97c.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/lab-coat_1f97c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cientista",
+      "experiência",
+      "jaleco",
+      "médico",
+      "dr.",
+      "experimento",
+      "roupa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F97C;",
+      "HTML dec": "&#129404;",
+      "URL escape code": "%F0%9F%A5%BC",
+      "Punycode": "xn--vs9h",
+      "Bytes (UTF-8)": "F0 9F A5 BC",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD7C",
+      "C, C++, Python": "\\U0001f97c",
+      "CSS": "\\01F97C",
+      "PHP, Ruby": "\\u{1F97C}",
+      "Perl": "\\x{1F97C}"
+    }
+  }
+}

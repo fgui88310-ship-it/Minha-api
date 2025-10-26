@@ -1,0 +1,68 @@
+{
+  "emoji": "🖌",
+  "nome": "🖌️ Pincel",
+  "categoria": "Paintbrush",
+  "url": "https://emojigraph.org/pt/paintbrush/",
+  "detalhes": {
+    "explicacao": "Uma fina, artista do pincel, como os usados para pintar um quadro. Muitas vezes representada com tinta avermelhada em suas cerdas de pontas. Posicionado em um ângulo de 45°, suas pontas na parte inferior esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/paintbrush_1f58c-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/paintbrush_1f58c-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/paintbrush_1f58c-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/paintbrush_1f58c-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/paintbrush_1f58c-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/paintbrush_1f58c-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/paintbrush_1f58c-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/paintbrush_1f58c-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/paintbrush_1f58c-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/paintbrush_1f58c-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pincel",
+      "pintar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F58C;&#xFE0F;",
+      "HTML dec": "&#128396;&#65039;",
+      "URL escape code": "%F0%9F%96%8C%EF%B8%8F",
+      "Punycode": "xn--2y8h",
+      "Bytes (UTF-8)": "F0 9F 96 8C EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD8C\\uFE0F",
+      "C, C++, Python": "\\U0001f58c\\uFE0F",
+      "CSS": "\\01F58C \\FE0F",
+      "PHP, Ruby": "\\u{1F58C}\\u{FE0F}",
+      "Perl": "\\x{1F58C}\\x{FE0F}"
+    }
+  }
+}

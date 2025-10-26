@@ -1,0 +1,76 @@
+{
+  "emoji": "🫏",
+  "nome": "🫏 Burro",
+  "categoria": "Donkey",
+  "url": "https://emojigraph.org/pt/donkey/",
+  "detalhes": {
+    "explicacao": "Um burro, geralmente representado na cor cinza e preto. Pode ser usado para denotar teimosia, estupidez e obstinação ou para identificar um burro ou o burro ou a própria mula. Não confundir com o emoji 🐎 Cavalo .",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/donkey_1facf.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/donkey_1facf.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/donkey_1facf.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/donkey_1facf.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/donkey_1facf.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/donkey_1facf.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/donkey_1facf.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/donkey_1facf.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/donkey_1facf.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/donkey_1facf.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animais",
+      "burro",
+      "jegue",
+      "mamífero",
+      "mula",
+      "teimoso",
+      "animal",
+      "asno",
+      "relinchar",
+      "relincho",
+      "teimosa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FACF;",
+      "HTML dec": "&#129743;",
+      "URL escape code": "%F0%9F%AB%8F",
+      "Bytes (UTF-8)": "f0 9f ab 8f",
+      "JavaScript, JSON, Java": "\\ud83e\\udecf",
+      "C, C++, Python": "\\U0001facf",
+      "CSS": "\\01FACF",
+      "PHP, Ruby": "\\u{1FACF}",
+      "Perl": "\\x{1FACF}"
+    }
+  }
+}

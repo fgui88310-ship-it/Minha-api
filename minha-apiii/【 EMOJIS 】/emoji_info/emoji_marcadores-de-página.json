@@ -1,0 +1,93 @@
+{
+  "emoji": "📑",
+  "nome": "📑 Marcadores de página",
+  "categoria": "Bookmark Tabs",
+  "url": "https://emojigraph.org/pt/bookmark-tabs/",
+  "detalhes": {
+    "explicacao": "Folhas do branco, do papel impresso com variadamente coloridas guias para a ficha de seções importantes ou indicar linhas de assinatura. Comumente usado para conteúdo sobre os diversos tipos de documentos e escrita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bookmark-tabs_1f4d1.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bookmark-tabs_1f4d1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "marcador",
+      "marcar",
+      "página"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4D1;",
+      "HTML dec": "&#128209;",
+      "URL escape code": "%F0%9F%93%91",
+      "Punycode": "xn--qt8h",
+      "Bytes (UTF-8)": "F0 9F 93 91",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCD1",
+      "C, C++, Python": "\\U0001f4d1",
+      "CSS": "\\01F4D1",
+      "PHP, Ruby": "\\u{1F4D1}",
+      "Perl": "\\x{1F4D1}"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "emoji": "🦤",
+  "nome": "🦤 Dodô",
+  "categoria": "dodo",
+  "url": "https://emojigraph.org/pt/dodo/",
+  "detalhes": {
+    "explicacao": "Ele foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dodo_1f9a4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dodo_1f9a4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dodo_1f9a4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dodo_1f9a4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dodo_1f9a4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dodo_1f9a4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dodo_1f9a4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dodo_1f9a4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dodô",
+      "extinto",
+      "grande",
+      "Maurício",
+      "animal",
+      "ave",
+      "pássaro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9A4;",
+      "HTML dec": "&#129444;",
+      "URL escape code": "%F0%9F%A6%A4",
+      "Punycode": "xn--0t9h",
+      "Bytes (UTF-8)": "F0 9F A6 A4",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDA4",
+      "C, C++, Python": "\\U0001f9a4",
+      "CSS": "\\01F9A4",
+      "PHP, Ruby": "\\u{1F9A4}",
+      "Perl": "\\x{1F9A4}"
+    }
+  }
+}

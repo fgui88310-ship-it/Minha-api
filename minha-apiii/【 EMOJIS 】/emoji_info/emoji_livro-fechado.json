@@ -1,0 +1,93 @@
+{
+  "emoji": "📕",
+  "nome": "📕 Livro fechado",
+  "categoria": "Closed Book",
+  "url": "https://emojigraph.org/pt/closed-book/",
+  "detalhes": {
+    "explicacao": "Fechado, livro de capa dura, representado com um vermelho, de frente tampa na maioria das plataformas. Comumente utilizado para vários conteúdos relativos a leitura, a escrita, a aprendizagem e a educação. Também pode ser usado como um vermelho cor de destaque.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/closed-book_1f4d5.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/closed-book_1f4d5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fechado",
+      "livro",
+      "apostila"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4D5;",
+      "HTML dec": "&#128213;",
+      "URL escape code": "%F0%9F%93%95",
+      "Punycode": "xn--ut8h",
+      "Bytes (UTF-8)": "F0 9F 93 95",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCD5",
+      "C, C++, Python": "\\U0001f4d5",
+      "CSS": "\\01F4D5",
+      "PHP, Ruby": "\\u{1F4D5}",
+      "Perl": "\\x{1F4D5}"
+    }
+  }
+}

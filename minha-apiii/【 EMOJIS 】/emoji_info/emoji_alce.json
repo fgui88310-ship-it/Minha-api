@@ -1,0 +1,72 @@
+{
+  "emoji": "🫎",
+  "nome": "🫎 Alce",
+  "categoria": "Moose",
+  "url": "https://emojigraph.org/pt/moose/",
+  "detalhes": {
+    "explicacao": "Um alce, geralmente representado na cor marrom. Pode ser usado para denotar força, firmeza e tenacidade ou para identificar o próprio animal. Não deve ser confundido com o emoji 🦌 Cervo .",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/moose_1face.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/moose_1face.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/moose_1face.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/moose_1face.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/moose_1face.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/moose_1face.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/moose_1face.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/moose_1face.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/moose_1face.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/moose_1face.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alce",
+      "animal",
+      "chifres",
+      "mamífero",
+      "cervo",
+      "galhada",
+      "rena"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FACE;",
+      "HTML dec": "&#129742;",
+      "URL escape code": "%F0%9F%AB%8E",
+      "Bytes (UTF-8)": "f0 9f ab 8e",
+      "JavaScript, JSON, Java": "\\ud83e\\udece",
+      "C, C++, Python": "\\U0001face",
+      "CSS": "\\01FACE",
+      "PHP, Ruby": "\\u{1FACE}",
+      "Perl": "\\x{1FACE}"
+    }
+  }
+}

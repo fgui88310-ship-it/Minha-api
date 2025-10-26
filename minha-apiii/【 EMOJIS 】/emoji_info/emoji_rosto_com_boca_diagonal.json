@@ -1,0 +1,80 @@
+{
+  "emoji": "🫤",
+  "nome": "🫤 Rosto com boca diagonal",
+  "categoria": "face with diagonal mouth",
+  "url": "https://emojigraph.org/pt/face-with-diagonal-mouth/",
+  "detalhes": {
+    "explicacao": "Este rosto amarelo com uma boca diagonal fechada é uma representação emoji de um emoticon clássico \":-/\". Pode significar \"nem bom e nem ruim\", mas inclinando-se mais para o significado negativo expressando uma reação cética ou mesmo decepcionada.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-diagonal-mouth_1fae4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-diagonal-mouth_1fae4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-diagonal-mouth_1fae4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-diagonal-mouth_1fae4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-diagonal-mouth_1fae4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-diagonal-mouth_1fae4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-diagonal-mouth_1fae4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-diagonal-mouth_1fae4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-diagonal-mouth_1fae4.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/face-with-diagonal-mouth_1fae4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cético",
+      "desapontado",
+      "inseguro",
+      "meh",
+      "confusa",
+      "confusão",
+      "confuso",
+      "dúvida",
+      "frustração",
+      "frustrada",
+      "frustrado",
+      "indiferença",
+      "smiley",
+      "tanto faz"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAE4;",
+      "HTML dec": "&#129764;",
+      "URL escape code": "%F0%9F%AB%A4",
+      "Punycode": "xn--529h",
+      "Bytes (UTF-8)": "f0 9f ab a4",
+      "JavaScript, JSON, Java": "\\ud83e\\udee4",
+      "C, C++, Python": "\\U0001fae4",
+      "CSS": "\\01FAE4",
+      "PHP, Ruby": "\\u{1FAE4}",
+      "Perl": "\\x{1FAE4}"
+    }
+  }
+}

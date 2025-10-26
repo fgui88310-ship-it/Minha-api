@@ -1,0 +1,94 @@
+{
+  "emoji": "🐙",
+  "nome": "🐙 Polvo",
+  "categoria": "Octopus",
+  "url": "https://emojigraph.org/pt/octopus/",
+  "detalhes": {
+    "explicacao": "Um polvo, um animal do mar com oito pernas, conhecido por mudar a cor e liberar tinta. Geralmente retratado como rosa ou laranja, para a frente, com uma grande cabeça redonda, os olhos proeminentes, e os seus tentáculos como braços levantados em seus lados. Entre plataformas pode variar o número de braços mostrados, variando de quatro a oito, com várias ventosas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/octopus_1f419.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/octopus_1f419.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "polvo",
+      "oceano",
+      "octopus"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F419;",
+      "HTML dec": "&#128025;",
+      "URL escape code": "%F0%9F%90%99",
+      "Punycode": "xn--ho8h",
+      "Bytes (UTF-8)": "F0 9F 90 99",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC19",
+      "C, C++, Python": "\\U0001f419",
+      "CSS": "\\01F419",
+      "PHP, Ruby": "\\u{1F419}",
+      "Perl": "\\x{1F419}"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "emoji": "🎫",
+  "nome": "🎫 Ingresso",
+  "categoria": "Ticket",
+  "url": "https://emojigraph.org/pt/ticket/",
+  "detalhes": {
+    "explicacao": "Um bilhete de papel, que pode ser para um espectáculo de teatro, eventos esportivos, ou outros bilhete de desempenho. Mostrado em azul, amarelo ou cinza na maioria das plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ticket_1f3ab.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ticket_1f3ab.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "entretenimento",
+      "ingresso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3AB;",
+      "HTML dec": "&#127915;",
+      "URL escape code": "%F0%9F%8E%AB",
+      "Punycode": "xn--cl8h",
+      "Bytes (UTF-8)": "F0 9F 8E AB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFAB",
+      "C, C++, Python": "\\U0001f3ab",
+      "CSS": "\\01F3AB",
+      "PHP, Ruby": "\\u{1F3AB}",
+      "Perl": "\\x{1F3AB}"
+    }
+  }
+}

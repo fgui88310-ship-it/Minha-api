@@ -1,0 +1,68 @@
+{
+  "emoji": "🧓",
+  "nome": "🧓 Idoso",
+  "categoria": "Older Person",
+  "url": "https://emojigraph.org/pt/older-person/",
+  "detalhes": {
+    "explicacao": "Um velho adulto com nenhum gênero especificado. Isso pode ser usado como um gênero inclusiva alternativa para o homem mais velho ou mais mulher emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/older-person_1f9d3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/older-person_1f9d3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/older-person_1f9d3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/older-person_1f9d3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/older-person_1f9d3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/older-person_1f9d3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/older-person_1f9d3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/older-person_1f9d3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/older-person_1f9d3.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/older-person_1f9d3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "adulto",
+      "idoso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D3;",
+      "HTML dec": "&#129491;",
+      "URL escape code": "%F0%9F%A7%93",
+      "Punycode": "xn--dv9h",
+      "Bytes (UTF-8)": "F0 9F A7 93",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD3",
+      "C, C++, Python": "\\U0001f9d3",
+      "CSS": "\\01F9D3",
+      "PHP, Ruby": "\\u{1F9D3}",
+      "Perl": "\\x{1F9D3}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "🌽",
+  "nome": "🌽 Milho",
+  "categoria": "Ear Of Corn",
+  "url": "https://emojigraph.org/pt/ear-of-corn/",
+  "detalhes": {
+    "explicacao": "Uma espiga de trigo, ou milho, parcialmente descascado para mostrar a sua borboleta amarela kernels.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ear-of-corn_1f33d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ear-of-corn_1f33d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "espiga",
+      "espiga de milho",
+      "milho",
+      "comida",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F33D;",
+      "HTML dec": "&#127805;",
+      "URL escape code": "%F0%9F%8C%BD",
+      "Punycode": "xn--6h8h",
+      "Bytes (UTF-8)": "F0 9F 8C BD",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF3D",
+      "C, C++, Python": "\\U0001f33d",
+      "CSS": "\\01F33D",
+      "PHP, Ruby": "\\u{1F33D}",
+      "Perl": "\\x{1F33D}"
+    }
+  }
+}

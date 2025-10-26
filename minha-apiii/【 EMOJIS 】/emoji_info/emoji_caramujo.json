@@ -1,0 +1,94 @@
+{
+  "emoji": "🐚",
+  "nome": "🐚 Caramujo",
+  "categoria": "Spiral Shell",
+  "url": "https://emojigraph.org/pt/spiral-shell/",
+  "detalhes": {
+    "explicacao": "Uma concha, como encontrado na praia. Geralmente retratado como um vazio, em espiral, branco concha, como cresceu um caracol marinho ou em casa para um caranguejo eremita. Posicionada em diferentes ângulos, através de plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/spiral-shell_1f41a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/spiral-shell_1f41a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "caramujo",
+      "concha",
+      "concha do mar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F41A;",
+      "HTML dec": "&#128026;",
+      "URL escape code": "%F0%9F%90%9A",
+      "Punycode": "xn--io8h",
+      "Bytes (UTF-8)": "F0 9F 90 9A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC1A",
+      "C, C++, Python": "\\U0001f41a",
+      "CSS": "\\01F41A",
+      "PHP, Ruby": "\\u{1F41A}",
+      "Perl": "\\x{1F41A}"
+    }
+  }
+}

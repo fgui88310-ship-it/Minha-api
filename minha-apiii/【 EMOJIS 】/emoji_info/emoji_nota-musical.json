@@ -1,0 +1,93 @@
+{
+  "emoji": "🎵",
+  "nome": "🎵 Nota musical",
+  "categoria": "Musical Note",
+  "url": "https://emojigraph.org/pt/musical-note/",
+  "detalhes": {
+    "explicacao": "Uma nota de música emoji, o que pode denotar letra de música, ou outros tópicos relacionados.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/musical-note_1f3b5.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/musical-note_1f3b5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "música",
+      "nota",
+      "nota musical"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3B5;",
+      "HTML dec": "&#127925;",
+      "URL escape code": "%F0%9F%8E%B5",
+      "Punycode": "xn--ml8h",
+      "Bytes (UTF-8)": "F0 9F 8E B5",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFB5",
+      "C, C++, Python": "\\U0001f3b5",
+      "CSS": "\\01F3B5",
+      "PHP, Ruby": "\\u{1F3B5}",
+      "Perl": "\\x{1F3B5}"
+    }
+  }
+}

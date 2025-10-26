@@ -1,0 +1,94 @@
+{
+  "emoji": "🐷",
+  "nome": "🐷 Rosto de porco",
+  "categoria": "Pig Face",
+  "url": "https://emojigraph.org/pt/pig-face/",
+  "detalhes": {
+    "explicacao": "Um amigável, rosto de porco estilo-cartoon olhando diretamente para a frente. Descrito como um rosto rosa com uma expressão neutra, pontiagudas orelhas de abano, e distintivo nariz de porco.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pig-face_1f437.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pig-face_1f437.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "porco",
+      "rosto",
+      "rosto de porco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F437;",
+      "HTML dec": "&#128055;",
+      "URL escape code": "%F0%9F%90%B7",
+      "Punycode": "xn--cp8h",
+      "Bytes (UTF-8)": "F0 9F 90 B7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC37",
+      "C, C++, Python": "\\U0001f437",
+      "CSS": "\\01F437",
+      "PHP, Ruby": "\\u{1F437}",
+      "Perl": "\\x{1F437}"
+    }
+  }
+}

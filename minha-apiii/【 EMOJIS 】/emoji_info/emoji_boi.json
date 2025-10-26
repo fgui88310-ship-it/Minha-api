@@ -1,0 +1,86 @@
+{
+  "emoji": "🐂",
+  "nome": "🐂 Boi",
+  "categoria": "Ox",
+  "url": "https://emojigraph.org/pt/ox/",
+  "detalhes": {
+    "explicacao": "Um boi, um bovino, utilizado como um projeto de animais. Retratado na cor marrom em perfil completo com todas as quatro patas viradas para a esquerda, com uma cauda e chifres curtos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ox_1f402.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ox_1f402.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ox_1f402.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ox_1f402.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ox_1f402.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ox_1f402.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ox_1f402.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ox_1f402.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ox_1f402.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ox_1f402.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ox_1f402.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ox_1f402.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ox_1f402.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ox_1f402.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "boi",
+      "Touro",
+      "zodíaco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F402;",
+      "HTML dec": "&#128002;",
+      "URL escape code": "%F0%9F%90%82",
+      "Punycode": "xn--tn8h",
+      "Bytes (UTF-8)": "F0 9F 90 82",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC02",
+      "C, C++, Python": "\\U0001f402",
+      "CSS": "\\01F402",
+      "PHP, Ruby": "\\u{1F402}",
+      "Perl": "\\x{1F402}"
+    }
+  }
+}

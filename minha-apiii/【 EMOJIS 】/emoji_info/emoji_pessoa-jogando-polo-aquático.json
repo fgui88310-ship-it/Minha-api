@@ -1,0 +1,70 @@
+{
+  "emoji": "🤽",
+  "nome": "🤽 Pessoa jogando polo aquático",
+  "categoria": "Person Playing Water Polo",
+  "url": "https://emojigraph.org/pt/person-playing-water-polo/",
+  "detalhes": {
+    "explicacao": "Uma pessoa mostrado na água com uma bola, de jogar o esporte de polo aquático.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-playing-water-polo_1f93d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-playing-water-polo_1f93d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-playing-water-polo_1f93d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-playing-water-polo_1f93d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-playing-water-polo_1f93d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-playing-water-polo_1f93d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-playing-water-polo_1f93d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-playing-water-polo_1f93d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-playing-water-polo_1f93d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-playing-water-polo_1f93d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esporte",
+      "pessoa",
+      "piscina",
+      "polo aquático"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F93D;",
+      "HTML dec": "&#129341;",
+      "URL escape code": "%F0%9F%A4%BD",
+      "Punycode": "xn--2q9h",
+      "Bytes (UTF-8)": "F0 9F A4 BD",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD3D",
+      "C, C++, Python": "\\U0001f93d",
+      "CSS": "\\01F93D",
+      "PHP, Ruby": "\\u{1F93D}",
+      "Perl": "\\x{1F93D}"
+    }
+  }
+}

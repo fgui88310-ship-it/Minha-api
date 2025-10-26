@@ -1,0 +1,97 @@
+{
+  "emoji": "📪",
+  "nome": "📪 Caixa de correio fechada com bandeira abaixada",
+  "categoria": "closed mailbox with lowered flag",
+  "url": "https://emojigraph.org/pt/closed-mailbox-with-lowered-flag/",
+  "detalhes": {
+    "explicacao": "Uma calçada de caixa de correio (caixa de correio, caixa de correio) com a porta fechada fechada, e o sinal de bandeira abaixada. Geralmente representadas em azul ou cinza, com uma bandeira vermelha. Utilizado para vários conteúdos relativos a envios postais e de e-mail.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/closed-mailbox-with-lowered-flag_1f4ea.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/closed-mailbox-with-lowered-flag_1f4ea.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira",
+      "correspondência",
+      "fechada",
+      "abaixada",
+      "caixa",
+      "correio",
+      "vazia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4EA;",
+      "HTML dec": "&#128234;",
+      "URL escape code": "%F0%9F%93%AA",
+      "Punycode": "xn--gu8h",
+      "Bytes (UTF-8)": "F0 9F 93 AA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCEA",
+      "C, C++, Python": "\\U0001f4ea",
+      "CSS": "\\01F4EA",
+      "PHP, Ruby": "\\u{1F4EA}",
+      "Perl": "\\x{1F4EA}"
+    }
+  }
+}

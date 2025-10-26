@@ -1,0 +1,94 @@
+{
+  "emoji": "💢",
+  "nome": "💢 Símbolo de raiva",
+  "categoria": "Anger Symbol",
+  "url": "https://emojigraph.org/pt/anger-symbol/",
+  "detalhes": {
+    "explicacao": "Um símbolo vermelho encontrado nos animes/mangás, e usado para representar as veias saltadas em uma pessoa com ira.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/anger-symbol_1f4a2.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/anger-symbol_1f4a2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "com raiva",
+      "emoção",
+      "engraçado",
+      "raiva"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4A2;",
+      "HTML dec": "&#128162;",
+      "URL escape code": "%F0%9F%92%A2",
+      "Punycode": "xn--es8h",
+      "Bytes (UTF-8)": "F0 9F 92 A2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCA2",
+      "C, C++, Python": "\\U0001f4a2",
+      "CSS": "\\01F4A2",
+      "PHP, Ruby": "\\u{1F4A2}",
+      "Perl": "\\x{1F4A2}"
+    }
+  }
+}

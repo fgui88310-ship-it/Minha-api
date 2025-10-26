@@ -1,0 +1,93 @@
+{
+  "emoji": "🐡",
+  "nome": "🐡 Baiacu",
+  "categoria": "Blowfish",
+  "url": "https://emojigraph.org/pt/blowfish/",
+  "detalhes": {
+    "explicacao": "Um fugu (baiacu), que infla e se torna espetado quando alarmado. Descrito como uma laranja ou marrom blowfish no perfil completo virada para a esquerda, com pequenas barbatanas, parte inferior branca, e uma rodada, espetado corpo, como se inflado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/blowfish_1f421.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/blowfish_1f421.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "baiacu",
+      "peixe"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F421;",
+      "HTML dec": "&#128033;",
+      "URL escape code": "%F0%9F%90%A1",
+      "Punycode": "xn--po8h",
+      "Bytes (UTF-8)": "F0 9F 90 A1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC21",
+      "C, C++, Python": "\\U0001f421",
+      "CSS": "\\01F421",
+      "PHP, Ruby": "\\u{1F421}",
+      "Perl": "\\x{1F421}"
+    }
+  }
+}

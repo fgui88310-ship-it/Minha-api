@@ -1,0 +1,72 @@
+{
+  "emoji": "🦙",
+  "nome": "🦙 Lhama",
+  "categoria": "Llama",
+  "url": "https://emojigraph.org/pt/llama/",
+  "detalhes": {
+    "explicacao": "Uma lhama, um pescoço longo, de camelo, como o animal, nativa da América do Sul e utilizado para o transporte e a lã. Descrito como uma salsicha branca, luz-marrom, ou multicolorida lama em perfil completo em todos os fours virada para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/llama_1f999.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/llama_1f999.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/llama_1f999.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/llama_1f999.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/llama_1f999.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/llama_1f999.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/llama_1f999.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/llama_1f999.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/llama_1f999.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/llama_1f999.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alpaca",
+      "animal",
+      "guanaco",
+      "lã",
+      "lhama",
+      "vicunha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F999;",
+      "HTML dec": "&#129433;",
+      "URL escape code": "%F0%9F%A6%99",
+      "Punycode": "xn--pt9h",
+      "Bytes (UTF-8)": "F0 9F A6 99",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD99",
+      "C, C++, Python": "\\U0001f999",
+      "CSS": "\\01F999",
+      "PHP, Ruby": "\\u{1F999}",
+      "Perl": "\\x{1F999}"
+    }
+  }
+}

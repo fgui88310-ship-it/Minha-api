@@ -1,0 +1,93 @@
+{
+  "emoji": "🌠",
+  "nome": "🌠 Estrela cadente",
+  "categoria": "Shooting Star",
+  "url": "https://emojigraph.org/pt/shooting-star/",
+  "detalhes": {
+    "explicacao": "Uma representação estilizada de uma estrela cadente, um pequeno, rápido meteoro que se queima na atmosfera. Geralmente retratado como uma linha dourada, com uma estrela de cinco pontas à direita movimentando-se em uma linha contra um céu noturno, como se movese de cima para baixo e para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/shooting-star_1f320.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/shooting-star_1f320.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cadente",
+      "cai",
+      "estrela"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F320;",
+      "HTML dec": "&#127776;",
+      "URL escape code": "%F0%9F%8C%A0",
+      "Punycode": "xn--dh8h",
+      "Bytes (UTF-8)": "F0 9F 8C A0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF20",
+      "C, C++, Python": "\\U0001f320",
+      "CSS": "\\01F320",
+      "PHP, Ruby": "\\u{1F320}",
+      "Perl": "\\x{1F320}"
+    }
+  }
+}

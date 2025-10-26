@@ -1,0 +1,95 @@
+{
+  "emoji": "🌑",
+  "nome": "🌑 Lua nova",
+  "categoria": "New Moon",
+  "url": "https://emojigraph.org/pt/new-moon/",
+  "detalhes": {
+    "explicacao": "Uma lua nova, a primeira das oito fases da lua. Retrata a lua como um inteiro, - azulada ou acinzentada-preto, crateras de disco, não iluminada pelo sol.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/new-moon_1f311.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/new-moon_1f311.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "escuro",
+      "lua",
+      "lua negra",
+      "nova",
+      "noite"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F311;",
+      "HTML dec": "&#127761;",
+      "URL escape code": "%F0%9F%8C%91",
+      "Punycode": "xn--xg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 91",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF11",
+      "C, C++, Python": "\\U0001f311",
+      "CSS": "\\01F311",
+      "PHP, Ruby": "\\u{1F311}",
+      "Perl": "\\x{1F311}"
+    }
+  }
+}

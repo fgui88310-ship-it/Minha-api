@@ -1,0 +1,59 @@
+{
+  "emoji": "🇦🇶",
+  "nome": "🇦🇶 Bandeira: Antártida",
+  "categoria": "flag antarctica",
+  "url": "https://emojigraph.org/pt/flag-antarctica/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Antártida. Este símbolo é uma seqüência de caracteres 🇦 Símbolo Indicador Regional Letra A e 🇶 Símbolo Indicador Regional Letra Q. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras AQ em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-antarctica_1f1e6-1f1f6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-antarctica_1f1e6-1f1f6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-antarctica_1f1e6-1f1f6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-antarctica_1f1e6-1f1f6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-antarctica_1f1e6-1f1f6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-antarctica_1f1e6-1f1f6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-antarctica_1f1e6-1f1f6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-antarctica_1f1e6-1f1f6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E6;&#x1F1F6;",
+      "HTML dec": "&#127462;&#127478;",
+      "URL escape code": "%F0%9F%87%A6%F0%9F%87%B6",
+      "Punycode": "xn--e77h6a",
+      "Bytes (UTF-8)": "F0 9F 87 A6 F0 9F 87 B6",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE6\\uD83C\\uDDF6",
+      "C, C++, Python": "\\U0001f1e6\\U0001f1f6",
+      "CSS": "\\01F1E6 \\01F1F6",
+      "PHP, Ruby": "\\u{1F1E6}\\u{1F1F6}",
+      "Perl": "\\x{1F1E6}\\x{1F1F6}"
+    }
+  }
+}

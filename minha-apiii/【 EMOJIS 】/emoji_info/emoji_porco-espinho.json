@@ -1,0 +1,70 @@
+{
+  "emoji": "🦔",
+  "nome": "🦔 Porco-espinho",
+  "categoria": "Hedgehog",
+  "url": "https://emojigraph.org/pt/hedgehog/",
+  "detalhes": {
+    "explicacao": "Um ouriço, uma pequena, espinhosos de mamíferos, por vezes, mantido como um pat. Geralmente retratada no perfil completo em todos os fours virada para a esquerda, com uma rodada, marrom, corpo coberto de espinhos e uma luz marrom-face e o lado de baixo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hedgehog_1f994.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hedgehog_1f994.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hedgehog_1f994.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hedgehog_1f994.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hedgehog_1f994.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hedgehog_1f994.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hedgehog_1f994.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hedgehog_1f994.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hedgehog_1f994.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hedgehog_1f994.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "porco-espinho",
+      "espinhoso",
+      "ouriço"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F994;",
+      "HTML dec": "&#129428;",
+      "URL escape code": "%F0%9F%A6%94",
+      "Punycode": "xn--kt9h",
+      "Bytes (UTF-8)": "F0 9F A6 94",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD94",
+      "C, C++, Python": "\\U0001f994",
+      "CSS": "\\01F994",
+      "PHP, Ruby": "\\u{1F994}",
+      "Perl": "\\x{1F994}"
+    }
+  }
+}

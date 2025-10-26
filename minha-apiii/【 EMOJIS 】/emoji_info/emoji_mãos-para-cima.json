@@ -1,0 +1,94 @@
+{
+  "emoji": "🙌",
+  "nome": "🙌 Mãos para cima",
+  "categoria": "Raising Hands",
+  "url": "https://emojigraph.org/pt/raising-hands/",
+  "detalhes": {
+    "explicacao": "Duas mãos levantadas no ar, comemorando o sucesso ou outro evento alegre.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/raising-hands_1f64c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/raising-hands_1f64c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ambas as mãos",
+      "comemoração",
+      "mãos para cima",
+      "viva"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F64C;",
+      "HTML dec": "&#128588;",
+      "URL escape code": "%F0%9F%99%8C",
+      "Punycode": "xn--k48h",
+      "Bytes (UTF-8)": "F0 9F 99 8C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE4C",
+      "C, C++, Python": "\\U0001f64c",
+      "CSS": "\\01F64C",
+      "PHP, Ruby": "\\u{1F64C}",
+      "Perl": "\\x{1F64C}"
+    }
+  }
+}

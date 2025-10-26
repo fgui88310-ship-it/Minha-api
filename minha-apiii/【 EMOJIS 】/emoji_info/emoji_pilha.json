@@ -1,0 +1,92 @@
+{
+  "emoji": "🔋",
+  "nome": "🔋 Pilha",
+  "categoria": "Battery",
+  "url": "https://emojigraph.org/pt/battery/",
+  "detalhes": {
+    "explicacao": "Uma bateria elétrica, como o usado para a alimentação de dispositivos como uma lanterna. Geralmente retratado como um eretas, verde cilindro, como AA ou D célula em branco com indicadores positivos (voltada para cima) e terminais negativos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/battery_1f50b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/battery_1f50b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bateria",
+      "pilha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F50B;",
+      "HTML dec": "&#128267;",
+      "URL escape code": "%F0%9F%94%8B",
+      "Punycode": "xn--ev8h",
+      "Bytes (UTF-8)": "F0 9F 94 8B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD0B",
+      "C, C++, Python": "\\U0001f50b",
+      "CSS": "\\01F50B",
+      "PHP, Ruby": "\\u{1F50B}",
+      "Perl": "\\x{1F50B}"
+    }
+  }
+}

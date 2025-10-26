@@ -1,0 +1,96 @@
+{
+  "emoji": "🍙",
+  "nome": "🍙 Arroz japonês",
+  "categoria": "Rice Ball",
+  "url": "https://emojigraph.org/pt/rice-ball/",
+  "detalhes": {
+    "explicacao": "Um Japonês onigiri, um cone em forma de bola de arroz branco, um snack-envolveu-a com uma folha de nori, ou algas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/rice-ball_1f359.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/rice-ball_1f359.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arroz",
+      "japonês",
+      "onigiri",
+      "comida",
+      "fome",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F359;",
+      "HTML dec": "&#127833;",
+      "URL escape code": "%F0%9F%8D%99",
+      "Punycode": "xn--zi8h",
+      "Bytes (UTF-8)": "F0 9F 8D 99",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF59",
+      "C, C++, Python": "\\U0001f359",
+      "CSS": "\\01F359",
+      "PHP, Ruby": "\\u{1F359}",
+      "Perl": "\\x{1F359}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emoji": "🦏",
+  "nome": "🦏 Rinoceronte",
+  "categoria": "Rhinoceros",
+  "url": "https://emojigraph.org/pt/rhinoceros/",
+  "detalhes": {
+    "explicacao": "Um rinoceronte, um grande mamífero com um ou dois enormes chifres sobre o nariz. Geralmente é exibido em cinza claro, com dois chifres, retratado no perfil completo em todos os fours ou como um rinoceronte cabeça olhando para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rhinoceros_1f98f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rhinoceros_1f98f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rhinoceros_1f98f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rhinoceros_1f98f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rhinoceros_1f98f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rhinoceros_1f98f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rhinoceros_1f98f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rhinoceros_1f98f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rhinoceros_1f98f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/rhinoceros_1f98f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "rinoceronte"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F98F;",
+      "HTML dec": "&#129423;",
+      "URL escape code": "%F0%9F%A6%8F",
+      "Punycode": "xn--ft9h",
+      "Bytes (UTF-8)": "F0 9F A6 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD8F",
+      "C, C++, Python": "\\U0001f98f",
+      "CSS": "\\01F98F",
+      "PHP, Ruby": "\\u{1F98F}",
+      "Perl": "\\x{1F98F}"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "emoji": "🌅",
+  "nome": "🌅 Aurora sobre água",
+  "categoria": "sunrise",
+  "url": "https://emojigraph.org/pt/sunrise/",
+  "detalhes": {
+    "explicacao": "Um nascer do sol, de manhã cedo. Pode ser difícil de distinguir de um pôr do sol em algumas versões dessa obra de arte.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sunrise_1f305.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/sunrise_1f305.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rio",
+      "sol da manhã",
+      "sol nascendo",
+      "amanhecer",
+      "aurora",
+      "natureza",
+      "oceano",
+      "sol"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F305;",
+      "HTML dec": "&#127749;",
+      "URL escape code": "%F0%9F%8C%85",
+      "Punycode": "xn--lg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 85",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF05",
+      "C, C++, Python": "\\U0001f305",
+      "CSS": "\\01F305",
+      "PHP, Ruby": "\\u{1F305}",
+      "Perl": "\\x{1F305}"
+    }
+  }
+}

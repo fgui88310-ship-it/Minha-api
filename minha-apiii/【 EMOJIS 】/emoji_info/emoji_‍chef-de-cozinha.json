@@ -1,0 +1,53 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍🍳 Chef de cozinha",
+  "categoria": "Cook",
+  "url": "https://emojigraph.org/pt/cook/",
+  "detalhes": {
+    "explicacao": "O Cozinheiro emoji é uma sequência do 🧑 Adultos e 🍳 Cozinhar emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cook_1f9d1-200d-1f373.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cook_1f9d1-200d-1f373.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cook_1f9d1-200d-1f373.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cook_1f9d1-200d-1f373.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cook_1f9d1-200d-1f373.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cook_1f9d1-200d-1f373.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chef",
+      "chef de cozinha",
+      "cozinheiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F373;",
+      "HTML dec": "&#129489;&#8205;&#127859;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%8D%B3",
+      "Punycode": "xn--qj8h15h",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F 8D B3",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83C\\uDF73",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f373",
+      "CSS": "\\01F9D1 \\200D \\01F373",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F373}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F373}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "🙎",
+  "nome": "🙎‍♀️ Mulher fazendo bico",
+  "categoria": "Woman Pouting",
+  "url": "https://emojigraph.org/pt/woman-pouting/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 🙎 Pessoa Com o Rosto, fazendo beicinho emoji. Atualmente idêntico em aparência a não-gênero da base de dados de emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-pouting_1f64e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-pouting_1f64e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-pouting_1f64e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-pouting_1f64e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-pouting_1f64e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-pouting_1f64e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-pouting_1f64e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-pouting_1f64e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-pouting_1f64e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-pouting_1f64e-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bico",
+      "cara feia",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F64E;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128590;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%99%8E%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h3380o",
+      "Bytes (UTF-8)": "F0 9F 99 8E E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE4E\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f64e\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F64E \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F64E}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F64E}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

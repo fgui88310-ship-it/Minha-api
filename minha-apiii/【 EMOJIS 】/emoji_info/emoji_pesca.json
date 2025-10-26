@@ -1,0 +1,97 @@
+{
+  "emoji": "🎣",
+  "nome": "🎣 Pesca",
+  "categoria": "Fishing Pole",
+  "url": "https://emojigraph.org/pt/fishing-pole/",
+  "detalhes": {
+    "explicacao": "Uma vara de pesca (pólo) com um peixe apanhado no final.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fishing-pole_1f3a3.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/fishing-pole_1f3a3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "peixe",
+      "pesca",
+      "vara",
+      "entretenimento",
+      "pescador",
+      "pescaria",
+      "recreação"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3A3;",
+      "HTML dec": "&#127907;",
+      "URL escape code": "%F0%9F%8E%A3",
+      "Punycode": "xn--3k8h",
+      "Bytes (UTF-8)": "F0 9F 8E A3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFA3",
+      "C, C++, Python": "\\U0001f3a3",
+      "CSS": "\\01F3A3",
+      "PHP, Ruby": "\\u{1F3A3}",
+      "Perl": "\\x{1F3A3}"
+    }
+  }
+}

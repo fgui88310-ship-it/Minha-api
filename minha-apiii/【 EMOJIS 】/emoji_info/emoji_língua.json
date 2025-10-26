@@ -1,0 +1,93 @@
+{
+  "emoji": "👅",
+  "nome": "👅 Língua",
+  "categoria": "Tongue",
+  "url": "https://emojigraph.org/pt/tongue/",
+  "detalhes": {
+    "explicacao": "Uma língua de fora. Pode ser usado como um sinal infantil de desafio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tongue_1f445.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tongue_1f445.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "corpo",
+      "língua",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F445;",
+      "HTML dec": "&#128069;",
+      "URL escape code": "%F0%9F%91%85",
+      "Punycode": "xn--qp8h",
+      "Bytes (UTF-8)": "F0 9F 91 85",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC45",
+      "C, C++, Python": "\\U0001f445",
+      "CSS": "\\01F445",
+      "PHP, Ruby": "\\u{1F445}",
+      "Perl": "\\x{1F445}"
+    }
+  }
+}

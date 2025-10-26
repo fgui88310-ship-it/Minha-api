@@ -1,0 +1,74 @@
+{
+  "emoji": "🫵",
+  "nome": "🫵 Indicador apontando para o visualizador",
+  "categoria": "index pointing at the viewer",
+  "url": "https://emojigraph.org/pt/index-pointing-at-the-viewer/",
+  "detalhes": {
+    "explicacao": "Uma mão amarela com a palma voltada para baixo, o dedo indicador estendido e apontando para o espectador com os dedos restantes curvados sob\na mão com o polegar pressionado. Este gesto de apontar é o primeiro e mais fundamental gesto humano que representa um conceito de \"você\".",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/index-pointing-at-the-viewer_1faf5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/index-pointing-at-the-viewer_1faf5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/index-pointing-at-the-viewer_1faf5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/index-pointing-at-the-viewer_1faf5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/index-pointing-at-the-viewer_1faf5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/index-pointing-at-the-viewer_1faf5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/index-pointing-at-the-viewer_1faf5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/index-pointing-at-the-viewer_1faf5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/index-pointing-at-the-viewer_1faf5.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/index-pointing-at-the-viewer_1faf5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "apontar",
+      "você",
+      "aí",
+      "cutucar",
+      "dedo",
+      "indicador",
+      "mão",
+      "tu"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAF5;",
+      "HTML dec": "&#129781;",
+      "URL escape code": "%F0%9F%AB%B5",
+      "Punycode": "xn--n39h",
+      "Bytes (UTF-8)": "f0 9f ab b5",
+      "JavaScript, JSON, Java": "\\ud83e\\udef5",
+      "C, C++, Python": "\\U0001faf5",
+      "CSS": "\\01FAF5",
+      "PHP, Ruby": "\\u{1FAF5}",
+      "Perl": "\\x{1FAF5}"
+    }
+  }
+}

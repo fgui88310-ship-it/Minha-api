@@ -1,0 +1,88 @@
+{
+  "emoji": "🐐",
+  "nome": "🐐 Cabra",
+  "categoria": "Goat",
+  "url": "https://emojigraph.org/pt/goat/",
+  "detalhes": {
+    "explicacao": "Uma cabra, um resistente, animal com cascos usado para consumo de sua carne e de seu leite. Descrito como levemente marrom, branco, ou multicolorido. Mostrado em perfil completo e todas as quatro patas viradas para a esquerda, uma despenteada barba, cauda ereta e marrom com chifres amarelos curvando-se para trás.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/goat_1f410.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/goat_1f410.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/goat_1f410.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/goat_1f410.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/goat_1f410.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/goat_1f410.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/goat_1f410.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/goat_1f410.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/goat_1f410.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/goat_1f410.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/goat_1f410.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/goat_1f410.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/goat_1f410.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/goat_1f410.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "bode",
+      "cabra",
+      "Capricórnio",
+      "zodíaco",
+      "capricórnio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F410;",
+      "HTML dec": "&#128016;",
+      "URL escape code": "%F0%9F%90%90",
+      "Punycode": "xn--7n8h",
+      "Bytes (UTF-8)": "F0 9F 90 90",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC10",
+      "C, C++, Python": "\\U0001f410",
+      "CSS": "\\01F410",
+      "PHP, Ruby": "\\u{1F410}",
+      "Perl": "\\x{1F410}"
+    }
+  }
+}

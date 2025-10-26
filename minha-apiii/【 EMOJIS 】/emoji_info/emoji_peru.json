@@ -1,0 +1,70 @@
+{
+  "emoji": "🦃",
+  "nome": "🦃 Peru",
+  "categoria": "Turkey",
+  "url": "https://emojigraph.org/pt/turkey/",
+  "detalhes": {
+    "explicacao": "O peru, ave tradicionalmente comida na ação de Graças ou Natal. Retratado no perfil completo virada para a esquerda, de pé, suas pernas com um marrom-escuro, com corpo, branco com plumas, cor-de-rosa ou azul na cabeça.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/turkey_1f983.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/turkey_1f983.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/turkey_1f983.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/turkey_1f983.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/turkey_1f983.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/turkey_1f983.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/turkey_1f983.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/turkey_1f983.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/turkey_1f983.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/turkey_1f983.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ave",
+      "peru",
+      "animal",
+      "peru de natal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F983;",
+      "HTML dec": "&#129411;",
+      "URL escape code": "%F0%9F%A6%83",
+      "Punycode": "xn--2s9h",
+      "Bytes (UTF-8)": "F0 9F A6 83",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD83",
+      "C, C++, Python": "\\U0001f983",
+      "CSS": "\\01F983",
+      "PHP, Ruby": "\\u{1F983}",
+      "Perl": "\\x{1F983}"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "emoji": "🎂",
+  "nome": "🎂 Bolo de aniversário",
+  "categoria": "Birthday Cake",
+  "url": "https://emojigraph.org/pt/birthday-cake/",
+  "detalhes": {
+    "explicacao": "Um bolo com velas acesas, como apresentado para uma festa de aniversário. O estilo do bolo varia bastante entre plataformas. Com geada branca e morangos, na Apple e no Google pode sugerir ser um bolo Japonês de Natal. Outros fornecedores retratam-no sendo de chocolate, cor-de-rosa, e/ou pão-de-ló.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/birthday-cake_1f382.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/birthday-cake_1f382.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aniversário",
+      "bolo",
+      "comemoração",
+      "doce",
+      "festa",
+      "niver"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F382;",
+      "HTML dec": "&#127874;",
+      "URL escape code": "%F0%9F%8E%82",
+      "Punycode": "xn--5j8h",
+      "Bytes (UTF-8)": "F0 9F 8E 82",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF82",
+      "C, C++, Python": "\\U0001f382",
+      "CSS": "\\01F382",
+      "PHP, Ruby": "\\u{1F382}",
+      "Perl": "\\x{1F382}"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "emoji": "🇰🇼",
+  "nome": "🇰🇼 Bandeira: Kuwait",
+  "categoria": "flag kuwait",
+  "url": "https://emojigraph.org/pt/flag-kuwait/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Kuwait. Este símbolo é uma seqüência de caracteres 🇰 Símbolo Indicador Regional Letra K e 🇼 Símbolo Indicador Regional Letra W. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras KW em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-kuwait_1f1f0-1f1fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-kuwait_1f1f0-1f1fc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-kuwait_1f1f0-1f1fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-kuwait_1f1f0-1f1fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-kuwait_1f1f0-1f1fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-kuwait_1f1f0-1f1fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-kuwait_1f1f0-1f1fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-kuwait_1f1f0-1f1fc.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-kuwait_1f1f0-1f1fc.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-kuwait_1f1f0-1f1fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F0;&#x1F1FC;",
+      "HTML dec": "&#127472;&#127484;",
+      "URL escape code": "%F0%9F%87%B0%F0%9F%87%BC",
+      "Punycode": "xn--o77hya",
+      "Bytes (UTF-8)": "F0 9F 87 B0 F0 9F 87 BC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF0\\uD83C\\uDDFC",
+      "C, C++, Python": "\\U0001f1f0\\U0001f1fc",
+      "CSS": "\\01F1F0 \\01F1FC",
+      "PHP, Ruby": "\\u{1F1F0}\\u{1F1FC}",
+      "Perl": "\\x{1F1F0}\\x{1F1FC}"
+    }
+  }
+}

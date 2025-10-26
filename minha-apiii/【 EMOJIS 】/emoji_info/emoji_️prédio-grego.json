@@ -1,0 +1,70 @@
+{
+  "emoji": "🏛",
+  "nome": "🏛️ Prédio grego",
+  "categoria": "Classical Building",
+  "url": "https://emojigraph.org/pt/classical-building/",
+  "detalhes": {
+    "explicacao": "Edifício clássico foi aprovado como parte do Unicode 7.0 em 2014e acrescentou para o Emoji 1.0 em 2015.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/classical-building_1f3db-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/classical-building_1f3db-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/classical-building_1f3db-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/classical-building_1f3db-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/classical-building_1f3db-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/classical-building_1f3db-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/classical-building_1f3db-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/classical-building_1f3db-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/classical-building_1f3db-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/classical-building_1f3db-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arquitetura",
+      "clássico",
+      "grego",
+      "prédio grego"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3DB;&#xFE0F;",
+      "HTML dec": "&#127963;&#65039;",
+      "URL escape code": "%F0%9F%8F%9B%EF%B8%8F",
+      "Punycode": "xn--pm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 9B EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFDB\\uFE0F",
+      "C, C++, Python": "\\U0001f3db\\uFE0F",
+      "CSS": "\\01F3DB \\FE0F",
+      "PHP, Ruby": "\\u{1F3DB}\\u{FE0F}",
+      "Perl": "\\x{1F3DB}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍🏭 Funcionário de fábrica",
+  "categoria": "factory worker",
+  "url": "https://emojigraph.org/pt/factory-worker/",
+  "detalhes": {
+    "explicacao": "O Operário de Fábrica emoji é uma sequência do 🧑 Adultos e 🏭 Fábrica emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/factory-worker_1f9d1-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/factory-worker_1f9d1-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/factory-worker_1f9d1-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/factory-worker_1f9d1-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/factory-worker_1f9d1-200d-1f3ed.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/factory-worker_1f9d1-200d-1f3ed.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fábrica",
+      "industrial",
+      "montagem",
+      "trabalhador"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F3ED;",
+      "HTML dec": "&#129489;&#8205;&#127981;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AD",
+      "Punycode": "xn--7m8hh8g",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F 8F AD",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83C\\uDFED",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f3ed",
+      "CSS": "\\01F9D1 \\200D \\01F3ED",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F3ED}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F3ED}"
+    }
+  }
+}

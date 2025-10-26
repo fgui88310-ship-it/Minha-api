@@ -1,0 +1,86 @@
+{
+  "emoji": "🔬",
+  "nome": "🔬 Microscópio",
+  "categoria": "Microscope",
+  "url": "https://emojigraph.org/pt/microscope/",
+  "detalhes": {
+    "explicacao": "Um microscópio, como os usados em laboratórios de ciências para ampliar pequenos objetos, tais como pilhas ou insetos. Descrito como um composto opitical microscópio com um ajustável ocular, lentes, braço, e apresentação de palco montado sobre uma base. Geralmente mostrado como o metal com a visualização de aparelhos virada para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/microscope_1f52c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/microscope_1f52c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ciência",
+      "ferramenta",
+      "microscópio",
+      "microscópico"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F52C;",
+      "HTML dec": "&#128300;",
+      "URL escape code": "%F0%9F%94%AC",
+      "Punycode": "xn--cw8h",
+      "Bytes (UTF-8)": "F0 9F 94 AC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD2C",
+      "C, C++, Python": "\\U0001f52c",
+      "CSS": "\\01F52C",
+      "PHP, Ruby": "\\u{1F52C}",
+      "Perl": "\\x{1F52C}"
+    }
+  }
+}

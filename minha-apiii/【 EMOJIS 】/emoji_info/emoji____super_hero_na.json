@@ -1,0 +1,72 @@
+{
+  "emoji": "🦸",
+  "nome": "🦸‍♀️ Super-heroína",
+  "categoria": "woman superhero",
+  "url": "https://emojigraph.org/pt/woman-superhero/",
+  "detalhes": {
+    "explicacao": "A mulher super-herói emoji é uma sequência do 🦸 super-herói e ♀ Símbolo Feminino emoji. Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-superhero_1f9b8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-superhero_1f9b8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-superhero_1f9b8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-superhero_1f9b8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-superhero_1f9b8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-superhero_1f9b8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-superhero_1f9b8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-superhero_1f9b8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-superhero_1f9b8-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/woman-superhero_1f9b8-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boa",
+      "herói",
+      "heroína",
+      "mulher",
+      "super-heroína",
+      "superpoder"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9B8;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#129464;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A6%B8%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h1802o",
+      "Bytes (UTF-8)": "F0 9F A6 B8 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDB8\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f9b8\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F9B8 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F9B8}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F9B8}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "emoji": "🏬",
+  "nome": "🏬 Loja de departamentos",
+  "categoria": "department store",
+  "url": "https://emojigraph.org/pt/department-store/",
+  "detalhes": {
+    "explicacao": "Uma grande loja de departamentos, vendendo uma gama de produtos para o público em geral. Mostrado como um grande edifício com um outdoor na maioria das plataformas, ou como um saco de compras no Windows.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/department-store_1f3ec.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/department-store_1f3ec.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "departamentos",
+      "loja"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3EC;",
+      "HTML dec": "&#127980;",
+      "URL escape code": "%F0%9F%8F%AC",
+      "Punycode": "xn--6m8h",
+      "Bytes (UTF-8)": "F0 9F 8F AC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFEC",
+      "C, C++, Python": "\\U0001f3ec",
+      "CSS": "\\01F3EC",
+      "PHP, Ruby": "\\u{1F3EC}",
+      "Perl": "\\x{1F3EC}"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "emoji": "",
+  "nome": "☃️ Boneco de neve",
+  "categoria": "Snowman",
+  "url": "https://emojigraph.org/pt/snowman/",
+  "detalhes": {
+    "explicacao": "Um clássico boneco de neve, como Frosty, o Boneco de neve, com flocos de neve caindo sobre ele. Descrito como um boneco de neve, virado para a frente, feita a partir de duas ou três grandes bolas de neve e braços de gravetos, vestido com um chapéu, um nariz de cenoura, olhos de carvão, e dois ou três botões no seu tronco. Às vezes, mostrado com um sorriso e um lenço vermelho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/snowman_2603-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/snowman_2603-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/snowman_2603-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/snowman_2603-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/snowman_2603-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/snowman_2603-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/snowman_2603-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/snowman_2603-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/snowman_2603-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/snowman_2603-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boneco",
+      "boneco de neve",
+      "clima",
+      "frio",
+      "neve"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2603;&#xFE0F;",
+      "HTML dec": "&#9731;&#65039;",
+      "URL escape code": "%E2%98%83%EF%B8%8F",
+      "Punycode": "xn--n3h",
+      "Bytes (UTF-8)": "E2 98 83 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2603\\uFE0F",
+      "C, C++, Python": "\\u2603\\uFE0F",
+      "CSS": "\\2603 \\FE0F",
+      "PHP, Ruby": "\\u{2603}\\u{FE0F}",
+      "Perl": "\\x{2603}\\x{FE0F}"
+    }
+  }
+}

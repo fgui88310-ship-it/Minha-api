@@ -1,0 +1,68 @@
+{
+  "emoji": "🏝",
+  "nome": "🏝️ Ilha deserta",
+  "categoria": "Desert Island",
+  "url": "https://emojigraph.org/pt/desert-island/",
+  "detalhes": {
+    "explicacao": "Ilha deserta foi aprovado como parte do Unicode 7.0 em 2014e acrescentou para o Emoji 1.0 em 2015.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/desert-island_1f3dd-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/desert-island_1f3dd-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/desert-island_1f3dd-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/desert-island_1f3dd-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/desert-island_1f3dd-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/desert-island_1f3dd-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/desert-island_1f3dd-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/desert-island_1f3dd-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/desert-island_1f3dd-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/desert-island_1f3dd-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ilha",
+      "ilha deserta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3DD;&#xFE0F;",
+      "HTML dec": "&#127965;&#65039;",
+      "URL escape code": "%F0%9F%8F%9D%EF%B8%8F",
+      "Punycode": "xn--rm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 9D EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFDD\\uFE0F",
+      "C, C++, Python": "\\U0001f3dd\\uFE0F",
+      "CSS": "\\01F3DD \\FE0F",
+      "PHP, Ruby": "\\u{1F3DD}\\u{FE0F}",
+      "Perl": "\\x{1F3DD}\\x{FE0F}"
+    }
+  }
+}

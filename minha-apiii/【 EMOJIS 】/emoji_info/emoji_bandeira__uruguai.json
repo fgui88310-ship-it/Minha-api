@@ -1,0 +1,67 @@
+{
+  "emoji": "🇺🇾",
+  "nome": "🇺🇾 Bandeira: Uruguai",
+  "categoria": "flag uruguay",
+  "url": "https://emojigraph.org/pt/flag-uruguay/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional, do Uruguai. Este símbolo é uma seqüência de caracteres 🇺 Símbolo Indicador Regional Letra U e 🇾 Símbolo Indicador Regional Letra Y. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras UY em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-uruguay_1f1fa-1f1fe.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-uruguay_1f1fa-1f1fe.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-uruguay_1f1fa-1f1fe.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-uruguay_1f1fa-1f1fe.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-uruguay_1f1fa-1f1fe.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-uruguay_1f1fa-1f1fe.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-uruguay_1f1fa-1f1fe.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-uruguay_1f1fa-1f1fe.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-uruguay_1f1fa-1f1fe.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-uruguay_1f1fa-1f1fe.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FA;&#x1F1FE;",
+      "HTML dec": "&#127482;&#127486;",
+      "URL escape code": "%F0%9F%87%BA%F0%9F%87%BE",
+      "Punycode": "xn--y77hia",
+      "Bytes (UTF-8)": "F0 9F 87 BA F0 9F 87 BE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFA\\uD83C\\uDDFE",
+      "C, C++, Python": "\\U0001f1fa\\U0001f1fe",
+      "CSS": "\\01F1FA \\01F1FE",
+      "PHP, Ruby": "\\u{1F1FA}\\u{1F1FE}",
+      "Perl": "\\x{1F1FA}\\x{1F1FE}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇭🇷",
+  "nome": "🇭🇷 Bandeira: Croácia",
+  "categoria": "flag croatia",
+  "url": "https://emojigraph.org/pt/flag-croatia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Croácia. Este símbolo é uma seqüência de caracteres 🇭 Símbolo Indicador Regional Letra H e 🇷 Símbolo Indicador Regional Letra R. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras HR em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-croatia_1f1ed-1f1f7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-croatia_1f1ed-1f1f7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-croatia_1f1ed-1f1f7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-croatia_1f1ed-1f1f7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-croatia_1f1ed-1f1f7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-croatia_1f1ed-1f1f7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-croatia_1f1ed-1f1f7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-croatia_1f1ed-1f1f7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1ED;&#x1F1F7;",
+      "HTML dec": "&#127469;&#127479;",
+      "URL escape code": "%F0%9F%87%AD%F0%9F%87%B7",
+      "Punycode": "xn--l77hua",
+      "Bytes (UTF-8)": "F0 9F 87 AD F0 9F 87 B7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDED\\uD83C\\uDDF7",
+      "C, C++, Python": "\\U0001f1ed\\U0001f1f7",
+      "CSS": "\\01F1ED \\01F1F7",
+      "PHP, Ruby": "\\u{1F1ED}\\u{1F1F7}",
+      "Perl": "\\x{1F1ED}\\x{1F1F7}"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "emoji": "🌥",
+  "nome": "🌥️ Nublado",
+  "categoria": "sun behind large cloud",
+  "url": "https://emojigraph.org/pt/sun-behind-large-cloud/",
+  "detalhes": {
+    "explicacao": "Um sol amarelo na maior parte coberta por uma grande nuvem branca. A posição do sol varia entre plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sun-behind-large-cloud_1f325-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sun-behind-large-cloud_1f325-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sun-behind-large-cloud_1f325-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sun-behind-large-cloud_1f325-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sun-behind-large-cloud_1f325-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sun-behind-large-cloud_1f325-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sun-behind-large-cloud_1f325-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sun-behind-large-cloud_1f325-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sun-behind-large-cloud_1f325-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sun-behind-large-cloud_1f325-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "clima",
+      "nublado",
+      "nuvem",
+      "sol"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F325;&#xFE0F;",
+      "HTML dec": "&#127781;&#65039;",
+      "URL escape code": "%F0%9F%8C%A5%EF%B8%8F",
+      "Punycode": "xn--ih8h",
+      "Bytes (UTF-8)": "F0 9F 8C A5 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF25\\uFE0F",
+      "C, C++, Python": "\\U0001f325\\uFE0F",
+      "CSS": "\\01F325 \\FE0F",
+      "PHP, Ruby": "\\u{1F325}\\u{FE0F}",
+      "Perl": "\\x{1F325}\\x{FE0F}"
+    }
+  }
+}

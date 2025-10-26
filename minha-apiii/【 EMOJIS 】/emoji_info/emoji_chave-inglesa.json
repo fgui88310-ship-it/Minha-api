@@ -1,0 +1,96 @@
+{
+  "emoji": "🔧",
+  "nome": "🔧 Chave inglesa",
+  "categoria": "Wrench",
+  "url": "https://emojigraph.org/pt/wrench/",
+  "detalhes": {
+    "explicacao": "Um metal wrench (chave inglesa), como o utilizado para transformar as porcas e parafusos. Representado com dois abertos, em forma de crescente termina ou uma extremidade aberta e uma fechada, em forma de anel fim. Geralmente posicionada em um ângulo de 45°.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/wrench_1f527.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/wrench_1f527.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chave inglesa",
+      "ferramenta",
+      "chave",
+      "inglesa",
+      "obra",
+      "reforma"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F527;",
+      "HTML dec": "&#128295;",
+      "URL escape code": "%F0%9F%94%A7",
+      "Punycode": "xn--6v8h",
+      "Bytes (UTF-8)": "F0 9F 94 A7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD27",
+      "C, C++, Python": "\\U0001f527",
+      "CSS": "\\01F527",
+      "PHP, Ruby": "\\u{1F527}",
+      "Perl": "\\x{1F527}"
+    }
+  }
+}

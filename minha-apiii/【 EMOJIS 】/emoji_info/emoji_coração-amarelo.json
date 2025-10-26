@@ -1,0 +1,96 @@
+{
+  "emoji": "💛",
+  "nome": "💛 Coração amarelo",
+  "categoria": "Yellow Heart",
+  "url": "https://emojigraph.org/pt/yellow-heart/",
+  "detalhes": {
+    "explicacao": "Coração Amarelo ou dourado. Inexplicavelmente, este é exibido como um coração cor-de-rosa no Android 4.4.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/yellow-heart_1f49b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/yellow-heart_1f49b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amarelo",
+      "coração",
+      "emoção",
+      "amor",
+      "love",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F49B;",
+      "HTML dec": "&#128155;",
+      "URL escape code": "%F0%9F%92%9B",
+      "Punycode": "xn--6r8h",
+      "Bytes (UTF-8)": "F0 9F 92 9B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC9B",
+      "C, C++, Python": "\\U0001f49b",
+      "CSS": "\\01F49B",
+      "PHP, Ruby": "\\u{1F49B}",
+      "Perl": "\\x{1F49B}"
+    }
+  }
+}

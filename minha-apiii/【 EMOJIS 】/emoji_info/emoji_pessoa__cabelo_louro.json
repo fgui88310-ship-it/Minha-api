@@ -1,0 +1,97 @@
+{
+  "emoji": "👱",
+  "nome": "👱 Pessoa: cabelo louro",
+  "categoria": "person blond hair",
+  "url": "https://emojigraph.org/pt/person-blond-hair/",
+  "detalhes": {
+    "explicacao": "Uma pessoa com cabelo loiro, o que tende a aparecer como amarelo. Apresentado como um homem que, em todas as plataformas, emoji mantém o cabelo de loiro, não importa o que o tom de pele é escolhido.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-blond-hair_1f471.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-blond-hair_1f471.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cabelo",
+      "loiro",
+      "louro",
+      "pessoa loira",
+      "pessoa loura",
+      "pessoa",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F471;",
+      "HTML dec": "&#128113;",
+      "URL escape code": "%F0%9F%91%B1",
+      "Punycode": "xn--zq8h",
+      "Bytes (UTF-8)": "F0 9F 91 B1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC71",
+      "C, C++, Python": "\\U0001f471",
+      "CSS": "\\01F471",
+      "PHP, Ruby": "\\u{1F471}",
+      "Perl": "\\x{1F471}"
+    }
+  }
+}

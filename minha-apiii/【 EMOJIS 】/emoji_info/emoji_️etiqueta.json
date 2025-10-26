@@ -1,0 +1,68 @@
+{
+  "emoji": "🏷",
+  "nome": "🏷️ Etiqueta",
+  "categoria": "Label",
+  "url": "https://emojigraph.org/pt/label/",
+  "detalhes": {
+    "explicacao": "Um marrom-clara ou amarelo retangular marca, como a rotulagem e ligado a uma chave. Retratado em diversos ângulos perfurados com um furo, geralmente com um anel de metal ou ciclo de seqüência de caracteres.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/label_1f3f7-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/label_1f3f7-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/label_1f3f7-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/label_1f3f7-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/label_1f3f7-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/label_1f3f7-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/label_1f3f7-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/label_1f3f7-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/label_1f3f7-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/label_1f3f7-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "etiqueta",
+      "rótulo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3F7;&#xFE0F;",
+      "HTML dec": "&#127991;&#65039;",
+      "URL escape code": "%F0%9F%8F%B7%EF%B8%8F",
+      "Punycode": "xn--in8h",
+      "Bytes (UTF-8)": "F0 9F 8F B7 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFF7\\uFE0F",
+      "C, C++, Python": "\\U0001f3f7\\uFE0F",
+      "CSS": "\\01F3F7 \\FE0F",
+      "PHP, Ruby": "\\u{1F3F7}\\u{FE0F}",
+      "Perl": "\\x{1F3F7}\\x{FE0F}"
+    }
+  }
+}

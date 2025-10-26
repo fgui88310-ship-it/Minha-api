@@ -1,0 +1,74 @@
+{
+  "emoji": "🛞",
+  "nome": "🛞 Roda",
+  "categoria": "Wheel",
+  "url": "https://emojigraph.org/pt/wheel/",
+  "detalhes": {
+    "explicacao": "Exibido como uma roda de madeira clássica para um dray ou uma roda de carro moderna com um pneu dependendo da plataforma. Pode ser usado no contexto de \"reinventar a roda\".",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/wheel_1f6de.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/wheel_1f6de.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/wheel_1f6de.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/wheel_1f6de.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/wheel_1f6de.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/wheel_1f6de.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/wheel_1f6de.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/wheel_1f6de.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/wheel_1f6de.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/wheel_1f6de.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "círculo",
+      "girar",
+      "pneu",
+      "roda",
+      "carro",
+      "direção",
+      "veículo",
+      "volante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6DE;",
+      "HTML dec": "&#128734;",
+      "URL escape code": "%F0%9F%9B%9E",
+      "Punycode": "xn--q88h",
+      "Bytes (UTF-8)": "f0 9f 9b 9e",
+      "JavaScript, JSON, Java": "\\ud83d\\udede",
+      "C, C++, Python": "\\U0001f6de",
+      "CSS": "\\01F6DE",
+      "PHP, Ruby": "\\u{1F6DE}",
+      "Perl": "\\x{1F6DE}"
+    }
+  }
+}

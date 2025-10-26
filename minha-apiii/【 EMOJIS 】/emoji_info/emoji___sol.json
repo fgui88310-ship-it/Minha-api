@@ -1,0 +1,96 @@
+{
+  "emoji": "",
+  "nome": "☀️ Sol",
+  "categoria": "sun",
+  "url": "https://emojigraph.org/pt/sun/",
+  "detalhes": {
+    "explicacao": "O sol, a estrela no centro do nosso sistema solar. Geralmente retratado como um disco amarelo-dourado irradiando oito triangular raios, representa o sol, o calor e a luz.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sun_2600-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/sun_2600-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "clima",
+      "dia claro",
+      "raios",
+      "sol",
+      "solar",
+      "tempo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2600;&#xFE0F;",
+      "HTML dec": "&#9728;&#65039;",
+      "URL escape code": "%E2%98%80%EF%B8%8F",
+      "Punycode": "xn--k3h",
+      "Bytes (UTF-8)": "E2 98 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2600\\uFE0F",
+      "C, C++, Python": "\\u2600\\uFE0F",
+      "CSS": "\\2600 \\FE0F",
+      "PHP, Ruby": "\\u{2600}\\u{FE0F}",
+      "Perl": "\\x{2600}\\x{FE0F}"
+    }
+  }
+}

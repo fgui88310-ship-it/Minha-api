@@ -1,0 +1,75 @@
+{
+  "emoji": "🐕",
+  "nome": "🐕‍🦺 Cão de serviço",
+  "categoria": "service dog",
+  "url": "https://emojigraph.org/pt/service-dog/",
+  "detalhes": {
+    "explicacao": "Um animal de serviço apresentado com um colete de segurança e de chumbo. Difere do cão-guia como este animal é destinado para a detecção de ataques ou de outros \"hidden deficiência\", de acordo com a proposta da Apple.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/service-dog_1f415-200d-1f9ba.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/service-dog_1f415-200d-1f9ba.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/service-dog_1f415-200d-1f9ba.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/service-dog_1f415-200d-1f9ba.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/service-dog_1f415-200d-1f9ba.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/service-dog_1f415-200d-1f9ba.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/service-dog_1f415-200d-1f9ba.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/service-dog_1f415-200d-1f9ba.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/service-dog_1f415-200d-1f9ba.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/service-dog_1f415-200d-1f9ba.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "accessibilidade",
+      "assistência",
+      "cão",
+      "cão de serviço",
+      "serviço",
+      "cachorro",
+      "cadela",
+      "cão-guia",
+      "pastor alemão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F415;&#x200D;&#x1F9BA;",
+      "HTML dec": "&#128021;&#8205;&#129466;",
+      "URL escape code": "%F0%9F%90%95%E2%80%8D%F0%9F%A6%BA",
+      "Punycode": "xn--do8hk4g",
+      "Bytes (UTF-8)": "F0 9F 90 95 E2 80 8D F0 9F A6 BA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC15\\u200D\\uD83E\\uDDBA",
+      "C, C++, Python": "\\U0001f415\\u200D\\U0001f9ba",
+      "CSS": "\\01F415 \\200D \\01F9BA",
+      "PHP, Ruby": "\\u{1F415}\\u{200D}\\u{1F9BA}",
+      "Perl": "\\x{1F415}\\x{200D}\\x{1F9BA}"
+    }
+  }
+}

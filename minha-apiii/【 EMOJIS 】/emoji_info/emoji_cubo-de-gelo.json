@@ -1,0 +1,70 @@
+{
+  "emoji": "🧊",
+  "nome": "🧊 Cubo de gelo",
+  "categoria": "Ice",
+  "url": "https://emojigraph.org/pt/ice/",
+  "detalhes": {
+    "explicacao": "Uma imagem animada de um cubo de gelo. Freqüentemente usado em seu significado direto e para lembrar alguém de se refrescar. Gelo foi aprovado como parte do Unicode 12.0 em 2019sob o nome de \"Cubo de Gelo\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ice_1f9ca.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ice_1f9ca.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ice_1f9ca.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ice_1f9ca.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ice_1f9ca.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ice_1f9ca.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ice_1f9ca.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ice_1f9ca.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ice_1f9ca.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/ice_1f9ca.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cubo de gelo",
+      "gelado",
+      "iceberg",
+      "gelo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9CA;",
+      "HTML dec": "&#129482;",
+      "URL escape code": "%F0%9F%A7%8A",
+      "Punycode": "xn--3u9h",
+      "Bytes (UTF-8)": "F0 9F A7 8A",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDCA",
+      "C, C++, Python": "\\U0001f9ca",
+      "CSS": "\\01F9CA",
+      "PHP, Ruby": "\\u{1F9CA}",
+      "Perl": "\\x{1F9CA}"
+    }
+  }
+}

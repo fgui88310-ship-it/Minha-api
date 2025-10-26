@@ -1,0 +1,93 @@
+{
+  "emoji": "",
+  "nome": "⚾ Bola de beisebol",
+  "categoria": "Baseball",
+  "url": "https://emojigraph.org/pt/baseball/",
+  "detalhes": {
+    "explicacao": "Uma branca bola de beisebol, com a regulamentada costura vermelha. Usada no jogo de mesmo nome, de beisebol.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/baseball_26be.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/baseball_26be.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/baseball_26be.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/baseball_26be.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/baseball_26be.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/baseball_26be.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/baseball_26be.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/baseball_26be.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/baseball_26be.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/baseball_26be.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/baseball_26be.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/baseball_26be.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/baseball_26be.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/baseball_26be.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/baseball_26be.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/baseball_26be.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "beisebol",
+      "bola",
+      "esportes"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26BE;",
+      "HTML dec": "&#9918;",
+      "URL escape code": "%E2%9A%BE",
+      "Punycode": "xn--z8h",
+      "Bytes (UTF-8)": "E2 9A BE",
+      "JavaScript, JSON, Java": "\\u26BE",
+      "C, C++, Python": "\\u26BE",
+      "CSS": "\\26BE",
+      "PHP, Ruby": "\\u{26BE}",
+      "Perl": "\\x{26BE}"
+    }
+  }
+}

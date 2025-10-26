@@ -1,0 +1,59 @@
+{
+  "emoji": "🇻🇺",
+  "nome": "🇻🇺 Bandeira: Vanuatu",
+  "categoria": "flag vanuatu",
+  "url": "https://emojigraph.org/pt/flag-vanuatu/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da república de Vanuatu. Este símbolo é uma seqüência de caracteres 🇻 Símbolo Indicador Regional Letra V e 🇺 Símbolo Indicador Regional Letra U. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras VU em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-vanuatu_1f1fb-1f1fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-vanuatu_1f1fb-1f1fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-vanuatu_1f1fb-1f1fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-vanuatu_1f1fb-1f1fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-vanuatu_1f1fb-1f1fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-vanuatu_1f1fb-1f1fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-vanuatu_1f1fb-1f1fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-vanuatu_1f1fb-1f1fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FB;&#x1F1FA;",
+      "HTML dec": "&#127483;&#127482;",
+      "URL escape code": "%F0%9F%87%BB%F0%9F%87%BA",
+      "Punycode": "xn--y77hb",
+      "Bytes (UTF-8)": "F0 9F 87 BB F0 9F 87 BA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFB\\uD83C\\uDDFA",
+      "C, C++, Python": "\\U0001f1fb\\U0001f1fa",
+      "CSS": "\\01F1FB \\01F1FA",
+      "PHP, Ruby": "\\u{1F1FB}\\u{1F1FA}",
+      "Perl": "\\x{1F1FB}\\x{1F1FA}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "🎧",
+  "nome": "🎧 Fones de ouvido",
+  "categoria": "headphone",
+  "url": "https://emojigraph.org/pt/headphone/",
+  "detalhes": {
+    "explicacao": "Fones de ouvido, usado para ouvir música ou outras formas de áudio, tais como podcasts. Na maioria das plataformas de visualização este emoji como fone de ouvido único em tons de preto, azul e cinza.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/headphone_1f3a7.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/headphone_1f3a7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fone de ouvido",
+      "fones de ouvido",
+      "entretenimento",
+      "música",
+      "som"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3A7;",
+      "HTML dec": "&#127911;",
+      "URL escape code": "%F0%9F%8E%A7",
+      "Punycode": "xn--7k8h",
+      "Bytes (UTF-8)": "F0 9F 8E A7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFA7",
+      "C, C++, Python": "\\U0001f3a7",
+      "CSS": "\\01F3A7",
+      "PHP, Ruby": "\\u{1F3A7}",
+      "Perl": "\\x{1F3A7}"
+    }
+  }
+}

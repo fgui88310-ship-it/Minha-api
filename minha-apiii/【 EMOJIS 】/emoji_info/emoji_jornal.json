@@ -1,0 +1,92 @@
+{
+  "emoji": "📰",
+  "nome": "📰 Jornal",
+  "categoria": "Newspaper",
+  "url": "https://emojigraph.org/pt/newspaper/",
+  "detalhes": {
+    "explicacao": "A primeira página de um jornal, como as pessoas, uma vez que ler a notícia antes de a internet. Comumente utilizado para vários conteúdos a respeito de notícias, media e jornalismo, bem como pessoal de notícias.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/newspaper_1f4f0.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/newspaper_1f4f0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "jornal",
+      "notícias"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4F0;",
+      "HTML dec": "&#128240;",
+      "URL escape code": "%F0%9F%93%B0",
+      "Punycode": "xn--mu8h",
+      "Bytes (UTF-8)": "F0 9F 93 B0",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCF0",
+      "C, C++, Python": "\\U0001f4f0",
+      "CSS": "\\01F4F0",
+      "PHP, Ruby": "\\u{1F4F0}",
+      "Perl": "\\x{1F4F0}"
+    }
+  }
+}

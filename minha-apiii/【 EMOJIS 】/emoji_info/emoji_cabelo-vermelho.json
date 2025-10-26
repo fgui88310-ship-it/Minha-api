@@ -1,0 +1,60 @@
+{
+  "emoji": "🦰",
+  "nome": "🦰 Cabelo vermelho",
+  "categoria": "Red Hair",
+  "url": "https://emojigraph.org/pt/red-hair/",
+  "detalhes": {
+    "explicacao": "Cabelo vermelho foi aprovado como parte do Unicode 11.0 em 2018sob o nome de \"Emoji Componente de Cabelo Vermelho\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/red-hair_1f9b0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/red-hair_1f9b0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/red-hair_1f9b0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/red-hair_1f9b0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/red-hair_1f9b0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/red-hair_1f9b0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/red-hair_1f9b0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/red-hair_1f9b0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cabelo vermelho",
+      "ruivo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9B0;",
+      "HTML dec": "&#129456;",
+      "URL escape code": "%F0%9F%A6%B0",
+      "Punycode": "xn--du9h",
+      "Bytes (UTF-8)": "F0 9F A6 B0",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDB0",
+      "C, C++, Python": "\\U0001f9b0",
+      "CSS": "\\01F9B0",
+      "PHP, Ruby": "\\u{1F9B0}",
+      "Perl": "\\x{1F9B0}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "🛏",
+  "nome": "🛏️ Cama",
+  "categoria": "Bed",
+  "url": "https://emojigraph.org/pt/bed/",
+  "detalhes": {
+    "explicacao": "Uma cama para dormir em uma casa, hotel ou outro local para dormir. Mostrado com uma cabeceira à esquerda, estribo, colchão, travesseiro e lençol. A maioria das plataformas sugerem uma moldura de madeira e dispõem de fronhas azuis ou vermelhas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bed_1f6cf-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bed_1f6cf-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bed_1f6cf-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bed_1f6cf-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bed_1f6cf-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bed_1f6cf-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bed_1f6cf-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bed_1f6cf-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bed_1f6cf-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bed_1f6cf-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cama",
+      "hotel",
+      "sono"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6CF;&#xFE0F;",
+      "HTML dec": "&#128719;&#65039;",
+      "URL escape code": "%F0%9F%9B%8F%EF%B8%8F",
+      "Punycode": "xn--b88h",
+      "Bytes (UTF-8)": "F0 9F 9B 8F EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDECF\\uFE0F",
+      "C, C++, Python": "\\U0001f6cf\\uFE0F",
+      "CSS": "\\01F6CF \\FE0F",
+      "PHP, Ruby": "\\u{1F6CF}\\u{FE0F}",
+      "Perl": "\\x{1F6CF}\\x{FE0F}"
+    }
+  }
+}

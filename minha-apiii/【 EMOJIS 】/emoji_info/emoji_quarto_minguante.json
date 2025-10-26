@@ -1,0 +1,84 @@
+{
+  "emoji": "🌗",
+  "nome": "🌗 Quarto minguante",
+  "categoria": "last quarter moon",
+  "url": "https://emojigraph.org/pt/last-quarter-moon/",
+  "detalhes": {
+    "explicacao": "Uma lua minguante, o sétimo dos oito fases da lua. Retrata a lua como um crateras disco, lado esquerdo, meio iluminado em ouro ou prata, o seu resto escuro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/last-quarter-moon_1f317.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/last-quarter-moon_1f317.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "lua",
+      "quarto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F317;",
+      "HTML dec": "&#127767;",
+      "URL escape code": "%F0%9F%8C%97",
+      "Punycode": "xn--3g8h",
+      "Bytes (UTF-8)": "F0 9F 8C 97",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF17",
+      "C, C++, Python": "\\U0001f317",
+      "CSS": "\\01F317",
+      "PHP, Ruby": "\\u{1F317}",
+      "Perl": "\\x{1F317}"
+    }
+  }
+}

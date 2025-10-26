@@ -1,0 +1,77 @@
+{
+  "emoji": "🥴",
+  "nome": "🥴 Rosto embriagado",
+  "categoria": "woozy face",
+  "url": "https://emojigraph.org/pt/woozy-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, com uma boca tortuosa e uma expressão tonta, como se cansado e ou emotivo de embriaguez ou ferido com amor. Representado com relevo ou sobrancelhas sulcadas e pelo menos um olho semi-aberto. O design do WhatsApp dispõe de uma língua pendurada.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woozy-face_1f974.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woozy-face_1f974.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woozy-face_1f974.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woozy-face_1f974.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woozy-face_1f974.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woozy-face_1f974.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woozy-face_1f974.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woozy-face_1f974.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woozy-face_1f974.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/woozy-face_1f974.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bêbado",
+      "boca ondulada",
+      "embriagado",
+      "intoxicado",
+      "olhos tortos",
+      "alcoolizado",
+      "bêbada",
+      "embriagada",
+      "rosto",
+      "tonta",
+      "tonto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F974;",
+      "HTML dec": "&#129396;",
+      "URL escape code": "%F0%9F%A5%B4",
+      "Punycode": "xn--ns9h",
+      "Bytes (UTF-8)": "F0 9F A5 B4",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD74",
+      "C, C++, Python": "\\U0001f974",
+      "CSS": "\\01F974",
+      "PHP, Ruby": "\\u{1F974}",
+      "Perl": "\\x{1F974}"
+    }
+  }
+}

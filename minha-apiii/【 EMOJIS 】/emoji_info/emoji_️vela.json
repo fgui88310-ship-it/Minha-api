@@ -1,0 +1,68 @@
+{
+  "emoji": "🕯",
+  "nome": "🕯️ Vela",
+  "categoria": "Candle",
+  "url": "https://emojigraph.org/pt/candle/",
+  "detalhes": {
+    "explicacao": "Uma vela queima, como se aceso quando tomar um banho ou o poder está fora. Descrito como um branco, pilar em forma de vela com a chama e a cera que escorre de seus lados.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/candle_1f56f-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/candle_1f56f-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/candle_1f56f-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/candle_1f56f-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/candle_1f56f-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/candle_1f56f-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/candle_1f56f-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/candle_1f56f-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/candle_1f56f-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/candle_1f56f-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "luz",
+      "vela"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F56F;&#xFE0F;",
+      "HTML dec": "&#128367;&#65039;",
+      "URL escape code": "%F0%9F%95%AF%EF%B8%8F",
+      "Punycode": "xn--8x8h",
+      "Bytes (UTF-8)": "F0 9F 95 AF EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD6F\\uFE0F",
+      "C, C++, Python": "\\U0001f56f\\uFE0F",
+      "CSS": "\\01F56F \\FE0F",
+      "PHP, Ruby": "\\u{1F56F}\\u{FE0F}",
+      "Perl": "\\x{1F56F}\\x{FE0F}"
+    }
+  }
+}

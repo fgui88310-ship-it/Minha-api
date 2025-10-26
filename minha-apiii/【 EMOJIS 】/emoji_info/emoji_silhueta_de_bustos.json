@@ -1,0 +1,87 @@
+{
+  "emoji": "👥",
+  "nome": "👥 Silhueta de bustos",
+  "categoria": "busts in silhouette",
+  "url": "https://emojigraph.org/pt/busts-in-silhouette/",
+  "detalhes": {
+    "explicacao": "Perfil genérico de duas pessoas. Muitas vezes usado em design de interface para representar os usuários.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/busts-in-silhouette_1f465.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/busts-in-silhouette_1f465.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "busto",
+      "pessoas",
+      "silhueta",
+      "amigos",
+      "dupla"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F465;",
+      "HTML dec": "&#128101;",
+      "URL escape code": "%F0%9F%91%A5",
+      "Punycode": "xn--nq8h",
+      "Bytes (UTF-8)": "F0 9F 91 A5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC65",
+      "C, C++, Python": "\\U0001f465",
+      "CSS": "\\01F465",
+      "PHP, Ruby": "\\u{1F465}",
+      "Perl": "\\x{1F465}"
+    }
+  }
+}

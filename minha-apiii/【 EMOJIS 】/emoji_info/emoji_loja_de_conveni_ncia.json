@@ -1,0 +1,95 @@
+{
+  "emoji": "🏪",
+  "nome": "🏪 Loja de conveniência",
+  "categoria": "convenience store",
+  "url": "https://emojigraph.org/pt/convenience-store/",
+  "detalhes": {
+    "explicacao": "Uma loja que geralmente é aberto por mais horas do que um supermercado regular, às vezes 24 horas por dia.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/convenience-store_1f3ea.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/convenience-store_1f3ea.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "conveniência",
+      "loja",
+      "prédio",
+      "24 horas",
+      "24h"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3EA;",
+      "HTML dec": "&#127978;",
+      "URL escape code": "%F0%9F%8F%AA",
+      "Punycode": "xn--4m8h",
+      "Bytes (UTF-8)": "F0 9F 8F AA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFEA",
+      "C, C++, Python": "\\U0001f3ea",
+      "CSS": "\\01F3EA",
+      "PHP, Ruby": "\\u{1F3EA}",
+      "Perl": "\\x{1F3EA}"
+    }
+  }
+}

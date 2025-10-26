@@ -1,0 +1,94 @@
+{
+  "emoji": "💙",
+  "nome": "💙 Coração azul",
+  "categoria": "Blue Heart",
+  "url": "https://emojigraph.org/pt/blue-heart/",
+  "detalhes": {
+    "explicacao": "Um coração azul emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/blue-heart_1f499.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/blue-heart_1f499.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "azul",
+      "coração",
+      "emoção",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F499;",
+      "HTML dec": "&#128153;",
+      "URL escape code": "%F0%9F%92%99",
+      "Punycode": "xn--4r8h",
+      "Bytes (UTF-8)": "F0 9F 92 99",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC99",
+      "C, C++, Python": "\\U0001f499",
+      "CSS": "\\01F499",
+      "PHP, Ruby": "\\u{1F499}",
+      "Perl": "\\x{1F499}"
+    }
+  }
+}

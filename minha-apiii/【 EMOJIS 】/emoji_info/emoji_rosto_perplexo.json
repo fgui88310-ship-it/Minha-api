@@ -1,0 +1,95 @@
+{
+  "emoji": "😖",
+  "nome": "😖 Rosto perplexo",
+  "categoria": "confounded face",
+  "url": "https://emojigraph.org/pt/confounded-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com enrugadas, em forma de X olhos e um amassado na boca, como se balançando em frustração ou segurando as lágrimas. Pode ser usado para representar a ser superado com várias emoções, incluindo irritação, frustração, desgosto e tristeza, como se a ponto de derrotar.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/confounded-face_1f616.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/confounded-face_1f616.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "perplexo",
+      "rosto",
+      "bravo",
+      "frustrado",
+      "indignado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F616;",
+      "HTML dec": "&#128534;",
+      "URL escape code": "%F0%9F%98%96",
+      "Punycode": "xn--028h",
+      "Bytes (UTF-8)": "F0 9F 98 96",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE16",
+      "C, C++, Python": "\\U0001f616",
+      "CSS": "\\01F616",
+      "PHP, Ruby": "\\u{1F616}",
+      "Perl": "\\x{1F616}"
+    }
+  }
+}

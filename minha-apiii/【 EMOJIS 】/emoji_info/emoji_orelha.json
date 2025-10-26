@@ -1,0 +1,94 @@
+{
+  "emoji": "👂",
+  "nome": "👂 Orelha",
+  "categoria": "Ear",
+  "url": "https://emojigraph.org/pt/ear/",
+  "detalhes": {
+    "explicacao": "Um único ouvido humano. Pode ser usado no contexto de ouvir, ou ouvir alguma coisa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ear_1f442.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ear_1f442.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ear_1f442.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ear_1f442.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ear_1f442.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ear_1f442.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ear_1f442.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ear_1f442.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ear_1f442.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ear_1f442.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ear_1f442.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ear_1f442.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ear_1f442.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ear_1f442.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ear_1f442.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ear_1f442.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "corpo",
+      "orelha",
+      "escutar",
+      "ouvido"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F442;",
+      "HTML dec": "&#128066;",
+      "URL escape code": "%F0%9F%91%82",
+      "Punycode": "xn--np8h",
+      "Bytes (UTF-8)": "F0 9F 91 82",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC42",
+      "C, C++, Python": "\\U0001f442",
+      "CSS": "\\01F442",
+      "PHP, Ruby": "\\u{1F442}",
+      "Perl": "\\x{1F442}"
+    }
+  }
+}

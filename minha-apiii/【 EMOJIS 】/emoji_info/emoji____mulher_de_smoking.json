@@ -1,0 +1,60 @@
+{
+  "emoji": "🤵",
+  "nome": "🤵‍♀️ Mulher de smoking",
+  "categoria": "woman in tuxedo",
+  "url": "https://emojigraph.org/pt/woman-in-tuxedo/",
+  "detalhes": {
+    "explicacao": "A Mulher no Smoking emoji é uma sequência do 🤵 Homem de Smoking e ♀ Feminino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-in-tuxedo_1f935-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-in-tuxedo_1f935-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-in-tuxedo_1f935-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-in-tuxedo_1f935-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-in-tuxedo_1f935-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-in-tuxedo_1f935-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-in-tuxedo_1f935-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-in-tuxedo_1f935-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mulher",
+      "smoking"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F935;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#129333;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A4%B5%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h5981o",
+      "Bytes (UTF-8)": "F0 9F A4 B5 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD35\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f935\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F935 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F935}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F935}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

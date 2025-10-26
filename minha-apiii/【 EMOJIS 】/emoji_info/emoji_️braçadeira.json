@@ -1,0 +1,71 @@
+{
+  "emoji": "🗜",
+  "nome": "🗜️ Braçadeira",
+  "categoria": "Clamp",
+  "url": "https://emojigraph.org/pt/clamp/",
+  "detalhes": {
+    "explicacao": "Um grampo de metal ou vice, como parafusado para manter ou comprimir materiais, como madeira ou metal. Descrito como um grampo C ou F-clamp, o respectivo parafuso em várias posições.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/clamp_1f5dc-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/clamp_1f5dc-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/clamp_1f5dc-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/clamp_1f5dc-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/clamp_1f5dc-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/clamp_1f5dc-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/clamp_1f5dc-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/clamp_1f5dc-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/clamp_1f5dc-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/clamp_1f5dc-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "braçadeira",
+      "compressão",
+      "ferramenta",
+      "morsa",
+      "torno"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5DC;&#xFE0F;",
+      "HTML dec": "&#128476;&#65039;",
+      "URL escape code": "%F0%9F%97%9C%EF%B8%8F",
+      "Punycode": "xn--d18h",
+      "Bytes (UTF-8)": "F0 9F 97 9C EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDDC\\uFE0F",
+      "C, C++, Python": "\\U0001f5dc\\uFE0F",
+      "CSS": "\\01F5DC \\FE0F",
+      "PHP, Ruby": "\\u{1F5DC}\\u{FE0F}",
+      "Perl": "\\x{1F5DC}\\x{FE0F}"
+    }
+  }
+}

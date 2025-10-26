@@ -1,0 +1,92 @@
+{
+  "emoji": "🌙",
+  "nome": "🌙 Lua crescente",
+  "categoria": "crescent moon",
+  "url": "https://emojigraph.org/pt/crescent-moon/",
+  "detalhes": {
+    "explicacao": "Uma lua crescente. Retrata a lua como um dourado cescente fino, côncavo para a direita e não apresenta o restante da estrutura de tópicos para a lua.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/crescent-moon_1f319.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/crescent-moon_1f319.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "crescente",
+      "lua"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F319;",
+      "HTML dec": "&#127769;",
+      "URL escape code": "%F0%9F%8C%99",
+      "Punycode": "xn--5g8h",
+      "Bytes (UTF-8)": "F0 9F 8C 99",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF19",
+      "C, C++, Python": "\\U0001f319",
+      "CSS": "\\01F319",
+      "PHP, Ruby": "\\u{1F319}",
+      "Perl": "\\x{1F319}"
+    }
+  }
+}

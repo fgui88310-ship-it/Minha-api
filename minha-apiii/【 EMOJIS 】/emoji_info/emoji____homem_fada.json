@@ -1,0 +1,68 @@
+{
+  "emoji": "🧚",
+  "nome": "🧚‍♂️ Homem fada",
+  "categoria": "man fairy",
+  "url": "https://emojigraph.org/pt/man-fairy/",
+  "detalhes": {
+    "explicacao": "O Homem de Fadas emoji é uma sequência do 🧚 de Fadas e ♂ Masculino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-fairy_1f9da-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-fairy_1f9da-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-fairy_1f9da-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-fairy_1f9da-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-fairy_1f9da-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-fairy_1f9da-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-fairy_1f9da-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-fairy_1f9da-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-fairy_1f9da-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/man-fairy_1f9da-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fada",
+      "homem fada"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9DA;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#129498;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%A7%9A%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h9212o",
+      "Bytes (UTF-8)": "F0 9F A7 9A E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDDA\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f9da\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F9DA \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F9DA}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F9DA}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

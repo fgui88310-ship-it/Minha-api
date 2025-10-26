@@ -1,0 +1,72 @@
+{
+  "emoji": "🤳",
+  "nome": "🤳 Selfie",
+  "categoria": "Selfie",
+  "url": "https://emojigraph.org/pt/selfie/",
+  "detalhes": {
+    "explicacao": "Um telefone celular tirando uma foto, uma selfie (foto da pessoa com o celular ou câmera digital). Normalmente representado como um braço segurando um telefone móvel.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/selfie_1f933.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/selfie_1f933.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/selfie_1f933.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/selfie_1f933.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/selfie_1f933.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/selfie_1f933.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/selfie_1f933.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/selfie_1f933.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/selfie_1f933.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/selfie_1f933.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "camera",
+      "celular",
+      "foto",
+      "selfie",
+      "smartphone",
+      "câmera"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F933;",
+      "HTML dec": "&#129331;",
+      "URL escape code": "%F0%9F%A4%B3",
+      "Punycode": "xn--sq9h",
+      "Bytes (UTF-8)": "F0 9F A4 B3",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD33",
+      "C, C++, Python": "\\U0001f933",
+      "CSS": "\\01F933",
+      "PHP, Ruby": "\\u{1F933}",
+      "Perl": "\\x{1F933}"
+    }
+  }
+}

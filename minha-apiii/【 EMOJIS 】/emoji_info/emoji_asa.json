@@ -1,0 +1,76 @@
+{
+  "emoji": "🪽",
+  "nome": "🪽 Asa",
+  "categoria": "Wing",
+  "url": "https://emojigraph.org/pt/wing/",
+  "detalhes": {
+    "explicacao": "Uma asa branca é geralmente representada de forma semelhante a um pássaro, 👼 anjo ou Pégaso 🐎 🪽 asa. Além de representar a própria asa, pode ser usado para denotar voo, velocidade ou leveza.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/wing_1fabd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/wing_1fabd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/wing_1fabd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/wing_1fabd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/wing_1fabd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/wing_1fabd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/wing_1fabd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/wing_1fabd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/wing_1fabd.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/wing_1fabd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "angelical",
+      "asa",
+      "aviação",
+      "mitologia",
+      "pássaro",
+      "voando",
+      "anjo",
+      "ascender",
+      "celestial",
+      "voar",
+      "voar alto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FABD;",
+      "HTML dec": "&#129725;",
+      "URL escape code": "%F0%9F%AA%BD",
+      "Bytes (UTF-8)": "f0 9f aa bd",
+      "JavaScript, JSON, Java": "\\ud83e\\udebd",
+      "C, C++, Python": "\\U0001fabd",
+      "CSS": "\\01FABD",
+      "PHP, Ruby": "\\u{1FABD}",
+      "Perl": "\\x{1FABD}"
+    }
+  }
+}

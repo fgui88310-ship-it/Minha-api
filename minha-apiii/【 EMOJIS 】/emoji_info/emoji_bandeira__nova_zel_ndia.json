@@ -1,0 +1,67 @@
+{
+  "emoji": "🇳🇿",
+  "nome": "🇳🇿 Bandeira: Nova Zelândia",
+  "categoria": "flag new zealand",
+  "url": "https://emojigraph.org/pt/flag-new-zealand/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Nova Zelândia. Este símbolo é uma seqüência de caracteres 🇳 Símbolo Indicador Regional Letra N e 🇿 Símbolo Indicador Regional Letra Z. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras NZ em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-new-zealand_1f1f3-1f1ff.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-new-zealand_1f1f3-1f1ff.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-new-zealand_1f1f3-1f1ff.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-new-zealand_1f1f3-1f1ff.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-new-zealand_1f1f3-1f1ff.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-new-zealand_1f1f3-1f1ff.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-new-zealand_1f1f3-1f1ff.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-new-zealand_1f1f3-1f1ff.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-new-zealand_1f1f3-1f1ff.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-new-zealand_1f1f3-1f1ff.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F3;&#x1F1FF;",
+      "HTML dec": "&#127475;&#127487;",
+      "URL escape code": "%F0%9F%87%B3%F0%9F%87%BF",
+      "Punycode": "xn--r77hya",
+      "Bytes (UTF-8)": "F0 9F 87 B3 F0 9F 87 BF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF3\\uD83C\\uDDFF",
+      "C, C++, Python": "\\U0001f1f3\\U0001f1ff",
+      "CSS": "\\01F1F3 \\01F1FF",
+      "PHP, Ruby": "\\u{1F1F3}\\u{1F1FF}",
+      "Perl": "\\x{1F1F3}\\x{1F1FF}"
+    }
+  }
+}

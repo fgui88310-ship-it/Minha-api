@@ -1,0 +1,69 @@
+{
+  "emoji": "🖱",
+  "nome": "🖱️ Mouse",
+  "categoria": "computer mouse",
+  "url": "https://emojigraph.org/pt/computer-mouse/",
+  "detalhes": {
+    "explicacao": "Um rato, como os usados para controlar um cursor em um computador. Geralmente retratado como branco ou cinza sem fio, dispositivo com uma roda de rolagem à esquerda e clique com o botão direito clique em botões.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/computer-mouse_1f5b1-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/computer-mouse_1f5b1-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/computer-mouse_1f5b1-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/computer-mouse_1f5b1-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/computer-mouse_1f5b1-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/computer-mouse_1f5b1-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/computer-mouse_1f5b1-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/computer-mouse_1f5b1-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/computer-mouse_1f5b1-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/computer-mouse_1f5b1-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "computador",
+      "mouse"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5B1;&#xFE0F;",
+      "HTML dec": "&#128433;&#65039;",
+      "URL escape code": "%F0%9F%96%B1%EF%B8%8F",
+      "Punycode": "xn--4z8h",
+      "Bytes (UTF-8)": "F0 9F 96 B1 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDB1\\uFE0F",
+      "C, C++, Python": "\\U0001f5b1\\uFE0F",
+      "CSS": "\\01F5B1 \\FE0F",
+      "PHP, Ruby": "\\u{1F5B1}\\u{FE0F}",
+      "Perl": "\\x{1F5B1}\\x{FE0F}"
+    }
+  }
+}

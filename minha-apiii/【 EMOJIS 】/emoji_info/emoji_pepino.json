@@ -1,0 +1,73 @@
+{
+  "emoji": "🥒",
+  "nome": "🥒 Pepino",
+  "categoria": "Cucumber",
+  "url": "https://emojigraph.org/pt/cucumber/",
+  "detalhes": {
+    "explicacao": "Um longo, verde pepino com esburacada pele. Assemelha-se ao seu produto derivado, picles, ou maxixe, em muitas plataformas, exceto sobre a Apple e o WhatsApp, que retratam com luz-verde, semente-y fatias.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cucumber_1f952.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cucumber_1f952.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cucumber_1f952.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cucumber_1f952.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cucumber_1f952.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cucumber_1f952.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cucumber_1f952.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cucumber_1f952.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cucumber_1f952.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cucumber_1f952.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comida",
+      "legume",
+      "pepino",
+      "picles",
+      "fome",
+      "salada",
+      "vegetal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F952;",
+      "HTML dec": "&#129362;",
+      "URL escape code": "%F0%9F%A5%92",
+      "Punycode": "xn--or9h",
+      "Bytes (UTF-8)": "F0 9F A5 92",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD52",
+      "C, C++, Python": "\\U0001f952",
+      "CSS": "\\01F952",
+      "PHP, Ruby": "\\u{1F952}",
+      "Perl": "\\x{1F952}"
+    }
+  }
+}

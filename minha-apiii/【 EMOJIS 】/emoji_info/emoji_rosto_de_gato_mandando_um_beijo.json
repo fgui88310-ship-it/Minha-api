@@ -1,0 +1,97 @@
+{
+  "emoji": "😽",
+  "nome": "😽 Rosto de gato mandando um beijo",
+  "categoria": "kissing cat",
+  "url": "https://emojigraph.org/pt/kissing-cat/",
+  "detalhes": {
+    "explicacao": "Um gato dos desenhos animados variante de 😚 Beijar o Rosto, Com os Olhos Fechados. Descrito como amarelo nas principais plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/kissing-cat_1f63d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/kissing-cat_1f63d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "beijo",
+      "gato",
+      "olho fechado",
+      "rosto",
+      "beijando",
+      "fechados",
+      "olhos"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F63D;",
+      "HTML dec": "&#128573;",
+      "URL escape code": "%F0%9F%98%BD",
+      "Punycode": "xn--438h",
+      "Bytes (UTF-8)": "F0 9F 98 BD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE3D",
+      "C, C++, Python": "\\U0001f63d",
+      "CSS": "\\01F63D",
+      "PHP, Ruby": "\\u{1F63D}",
+      "Perl": "\\x{1F63D}"
+    }
+  }
+}

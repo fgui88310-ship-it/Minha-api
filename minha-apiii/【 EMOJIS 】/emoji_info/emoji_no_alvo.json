@@ -1,0 +1,97 @@
+{
+  "emoji": "🎯",
+  "nome": "🎯 No alvo",
+  "categoria": "direct hit",
+  "url": "https://emojigraph.org/pt/direct-hit/",
+  "detalhes": {
+    "explicacao": "Uma placa de dardo com dardo batendo no centro/ região do alvo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/direct-hit_1f3af.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/direct-hit_1f3af.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "jogo",
+      "mira",
+      "na mosca",
+      "no alvo",
+      "tiro",
+      "tiro certeiro",
+      "dardos"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3AF;",
+      "HTML dec": "&#127919;",
+      "URL escape code": "%F0%9F%8E%AF",
+      "Punycode": "xn--gl8h",
+      "Bytes (UTF-8)": "F0 9F 8E AF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFAF",
+      "C, C++, Python": "\\U0001f3af",
+      "CSS": "\\01F3AF",
+      "PHP, Ruby": "\\u{1F3AF}",
+      "Perl": "\\x{1F3AF}"
+    }
+  }
+}

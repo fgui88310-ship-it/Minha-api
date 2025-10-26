@@ -1,0 +1,89 @@
+{
+  "emoji": "🔕",
+  "nome": "🔕 Sino silenciado",
+  "categoria": "Bell With Slash",
+  "url": "https://emojigraph.org/pt/bell-with-slash/",
+  "detalhes": {
+    "explicacao": "Uma de ouro ou pimentão amarelo com uma linha vermelha através dele, que é comumente usado em celulares como um ícone para o silenciamento das notificações ou sons de toque. Um mudo, ou o modo silencioso.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bell-with-slash_1f515.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bell-with-slash_1f515.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mudo",
+      "proibido",
+      "quieto",
+      "silencioso",
+      "sino",
+      "sino silenciado",
+      "sem som"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F515;",
+      "HTML dec": "&#128277;",
+      "URL escape code": "%F0%9F%94%95",
+      "Punycode": "xn--ov8h",
+      "Bytes (UTF-8)": "F0 9F 94 95",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD15",
+      "C, C++, Python": "\\U0001f515",
+      "CSS": "\\01F515",
+      "PHP, Ruby": "\\u{1F515}",
+      "Perl": "\\x{1F515}"
+    }
+  }
+}

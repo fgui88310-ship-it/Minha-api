@@ -1,0 +1,76 @@
+{
+  "emoji": "🐈",
+  "nome": "🐈‍⬛ Gato preto",
+  "categoria": "Black Cat",
+  "url": "https://emojigraph.org/pt/black-cat/",
+  "detalhes": {
+    "explicacao": "O Gato Preto emoji é uma sequência do 🐈 Gato e ⬛ Preto Grande Praça emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/black-cat_1f408-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/black-cat_1f408-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/black-cat_1f408-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/black-cat_1f408-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/black-cat_1f408-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/black-cat_1f408-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/black-cat_1f408-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/black-cat_1f408-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/black-cat_1f408-200d-2b1b.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/black-cat_1f408-200d-2b1b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "azar",
+      "gato",
+      "preto",
+      "animal",
+      "dia das bruxas",
+      "felino",
+      "gata",
+      "halloween",
+      "miado",
+      "miau"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F408;&#x200D;&#x2B1B;",
+      "HTML dec": "&#128008;&#8205;&#11035;",
+      "URL escape code": "%F0%9F%90%88%E2%80%8D%E2%AC%9B",
+      "Punycode": "xn--w5i9807m",
+      "Bytes (UTF-8)": "F0 9F 90 88 E2 80 8D E2 AC 9B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC08\\u200D\\u2B1B",
+      "C, C++, Python": "\\U0001f408\\u200D\\u2B1B",
+      "CSS": "\\01F408 \\200D \\2B1B",
+      "PHP, Ruby": "\\u{1F408}\\u{200D}\\u{2B1B}",
+      "Perl": "\\x{1F408}\\x{200D}\\x{2B1B}"
+    }
+  }
+}

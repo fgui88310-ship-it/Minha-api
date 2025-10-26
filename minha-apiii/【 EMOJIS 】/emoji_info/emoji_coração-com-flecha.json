@@ -1,0 +1,99 @@
+{
+  "emoji": "💘",
+  "nome": "💘 Coração com flecha",
+  "categoria": "Heart With Arrow",
+  "url": "https://emojigraph.org/pt/heart-with-arrow/",
+  "detalhes": {
+    "explicacao": "Um coração emoji com uma seta no centro, como a seta do cupido para o amor.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/heart-with-arrow_1f498.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/heart-with-arrow_1f498.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amor",
+      "coração",
+      "emoção",
+      "flecha",
+      "cupido",
+      "flechado",
+      "paixão",
+      "romance",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F498;",
+      "HTML dec": "&#128152;",
+      "URL escape code": "%F0%9F%92%98",
+      "Punycode": "xn--3r8h",
+      "Bytes (UTF-8)": "F0 9F 92 98",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC98",
+      "C, C++, Python": "\\U0001f498",
+      "CSS": "\\01F498",
+      "PHP, Ruby": "\\u{1F498}",
+      "Perl": "\\x{1F498}"
+    }
+  }
+}

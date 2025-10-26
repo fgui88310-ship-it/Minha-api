@@ -1,0 +1,77 @@
+{
+  "emoji": "🫅",
+  "nome": "🫅 Pessoa com coroa",
+  "categoria": "person with crown",
+  "url": "https://emojigraph.org/pt/person-with-crown/",
+  "detalhes": {
+    "explicacao": "Uma pessoa usando uma 👑 coroa. Adicionado para representar o conceito geral de realeza e como símbolo de status sem ser específico ao gênero como 🤴 Príncipe ou 👸 Princesa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-with-crown_1fac5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-with-crown_1fac5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-with-crown_1fac5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-with-crown_1fac5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-with-crown_1fac5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-with-crown_1fac5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-with-crown_1fac5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-with-crown_1fac5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-with-crown_1fac5.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/person-with-crown_1fac5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "monarca",
+      "nobre",
+      "real",
+      "realeza",
+      "coroa",
+      "pessoa",
+      "princesa",
+      "príncipe",
+      "rainha",
+      "rei",
+      "reino"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1fac5;",
+      "HTML dec": "&#129733;",
+      "URL escape code": "%F0%9F%AB%85",
+      "Punycode": "xn--919h",
+      "Bytes (UTF-8)": "f0 9f ab 85",
+      "JavaScript, JSON, Java": "\\ud83e\\udec5",
+      "C, C++, Python": "\\U0001fac5",
+      "CSS": "\\01FAC5",
+      "PHP, Ruby": "\\u{1FAC5}",
+      "Perl": "\\x{1FAC5}"
+    }
+  }
+}

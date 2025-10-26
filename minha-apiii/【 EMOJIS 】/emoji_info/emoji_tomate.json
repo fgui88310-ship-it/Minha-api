@@ -1,0 +1,95 @@
+{
+  "emoji": "🍅",
+  "nome": "🍅 Tomate",
+  "categoria": "Tomato",
+  "url": "https://emojigraph.org/pt/tomato/",
+  "detalhes": {
+    "explicacao": "Um gordo, jardim vermelhas de tomate, coberto com um folhosos verde-tronco. Pode assemelhar-se a red apple em tamanhos pequenos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tomato_1f345.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tomato_1f345.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fruta",
+      "fruto",
+      "legume",
+      "tomate",
+      "vegetal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F345;",
+      "HTML dec": "&#127813;",
+      "URL escape code": "%F0%9F%8D%85",
+      "Punycode": "xn--fi8h",
+      "Bytes (UTF-8)": "F0 9F 8D 85",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF45",
+      "C, C++, Python": "\\U0001f345",
+      "CSS": "\\01F345",
+      "PHP, Ruby": "\\u{1F345}",
+      "Perl": "\\x{1F345}"
+    }
+  }
+}

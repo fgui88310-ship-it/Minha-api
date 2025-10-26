@@ -1,0 +1,77 @@
+{
+  "emoji": "🌯",
+  "nome": "🌯 Burrito",
+  "categoria": "Burrito",
+  "url": "https://emojigraph.org/pt/burrito/",
+  "detalhes": {
+    "explicacao": "Um Mexicano ou Tex-Mex burrito, com um embrulho de tortilla de farinha cheio de ingredientes como carne, arroz, feijão, queijo, tomate, alface e creme de leite. Servido na folha em várias plataformas principais, sugerindo uma Missão burrito associado à São Francisco. Não deve ser confundido com o Pão sírio Recheado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/burrito_1f32f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/burrito_1f32f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/burrito_1f32f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/burrito_1f32f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/burrito_1f32f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/burrito_1f32f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/burrito_1f32f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/burrito_1f32f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/burrito_1f32f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/burrito_1f32f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/burrito_1f32f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/burrito_1f32f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "burrito",
+      "comida mexicana",
+      "mexicano"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F32F;",
+      "HTML dec": "&#127791;",
+      "URL escape code": "%F0%9F%8C%AF",
+      "Punycode": "xn--sh8h",
+      "Bytes (UTF-8)": "F0 9F 8C AF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF2F",
+      "C, C++, Python": "\\U0001f32f",
+      "CSS": "\\01F32F",
+      "PHP, Ruby": "\\u{1F32F}",
+      "Perl": "\\x{1F32F}"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "emoji": "🪆",
+  "nome": "🪆 Boneca russa",
+  "categoria": "Nesting Dolls",
+  "url": "https://emojigraph.org/pt/nesting-dolls/",
+  "detalhes": {
+    "explicacao": "Uma imagem de bonecas, também conhecida como matrioshka na Rússia. Essas bonecas têm bonecas cada vez menores dentro delas. Como existem muitas camadas, elas são frequentemente usadas para denotar muitas camadas escondidas profundamente, literal e figurativamente. Aninhamento de Bonecas foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/nesting-dolls_1fa86.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/nesting-dolls_1fa86.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/nesting-dolls_1fa86.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/nesting-dolls_1fa86.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/nesting-dolls_1fa86.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/nesting-dolls_1fa86.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/nesting-dolls_1fa86.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/nesting-dolls_1fa86.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boneca",
+      "matriosca",
+      "russa",
+      "matrioska"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA86;",
+      "HTML dec": "&#129670;",
+      "URL escape code": "%F0%9F%AA%86",
+      "Punycode": "xn--h09h",
+      "Bytes (UTF-8)": "F0 9F AA 86",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE86",
+      "C, C++, Python": "\\U0001fa86",
+      "CSS": "\\01FA86",
+      "PHP, Ruby": "\\u{1FA86}",
+      "Perl": "\\x{1FA86}"
+    }
+  }
+}

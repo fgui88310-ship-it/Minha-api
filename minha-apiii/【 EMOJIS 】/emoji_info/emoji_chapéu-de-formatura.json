@@ -1,0 +1,94 @@
+{
+  "emoji": "🎓",
+  "nome": "🎓 Chapéu de formatura",
+  "categoria": "Graduation Cap",
+  "url": "https://emojigraph.org/pt/graduation-cap/",
+  "detalhes": {
+    "explicacao": "Um chapéu de graduação, usado sobre a cabeça dos estudantes de graduação da faculdade ou universidade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/graduation-cap_1f393.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/graduation-cap_1f393.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chapéu",
+      "comemoração",
+      "formatura",
+      "capelo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F393;",
+      "HTML dec": "&#127891;",
+      "URL escape code": "%F0%9F%8E%93",
+      "Punycode": "xn--nk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 93",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF93",
+      "C, C++, Python": "\\U0001f393",
+      "CSS": "\\01F393",
+      "PHP, Ruby": "\\u{1F393}",
+      "Perl": "\\x{1F393}"
+    }
+  }
+}

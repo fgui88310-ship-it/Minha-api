@@ -1,0 +1,65 @@
+{
+  "emoji": "🪚",
+  "nome": "🪚 Serrote",
+  "categoria": "Carpentry Saw",
+  "url": "https://emojigraph.org/pt/carpentry-saw/",
+  "detalhes": {
+    "explicacao": "Uma imagem de uma serra manual padrão. Este tipo de serra não requer eletricidade e é operado manualmente. Este emoji é usado principalmente quando se fala de carpintaria e construção. Carpintaria Vi foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/carpentry-saw_1fa9a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/carpentry-saw_1fa9a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/carpentry-saw_1fa9a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/carpentry-saw_1fa9a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/carpentry-saw_1fa9a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/carpentry-saw_1fa9a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/carpentry-saw_1fa9a.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/carpentry-saw_1fa9a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carpinteiro",
+      "madeira",
+      "serra",
+      "serrote",
+      "cortar",
+      "ferramenta",
+      "serrar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA9A;",
+      "HTML dec": "&#129690;",
+      "URL escape code": "%F0%9F%AA%9A",
+      "Punycode": "xn--109h",
+      "Bytes (UTF-8)": "F0 9F AA 9A",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE9A",
+      "C, C++, Python": "\\U0001fa9a",
+      "CSS": "\\01FA9A",
+      "PHP, Ruby": "\\u{1FA9A}",
+      "Perl": "\\x{1FA9A}"
+    }
+  }
+}

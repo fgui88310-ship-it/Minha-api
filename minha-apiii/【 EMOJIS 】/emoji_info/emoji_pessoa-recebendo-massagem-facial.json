@@ -1,0 +1,98 @@
+{
+  "emoji": "💆",
+  "nome": "💆 Pessoa recebendo massagem facial",
+  "categoria": "Person Getting Massage",
+  "url": "https://emojigraph.org/pt/person-getting-massage/",
+  "detalhes": {
+    "explicacao": "Uma pessoa começar seu rosto massageado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-getting-massage_1f486.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-getting-massage_1f486.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "massagem",
+      "massagem facial",
+      "pele",
+      "dor de cabeça",
+      "relaxar",
+      "rosto",
+      "spa",
+      "tensão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F486;",
+      "HTML dec": "&#128134;",
+      "URL escape code": "%F0%9F%92%86",
+      "Punycode": "xn--lr8h",
+      "Bytes (UTF-8)": "F0 9F 92 86",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC86",
+      "C, C++, Python": "\\U0001f486",
+      "CSS": "\\01F486",
+      "PHP, Ruby": "\\u{1F486}",
+      "Perl": "\\x{1F486}"
+    }
+  }
+}

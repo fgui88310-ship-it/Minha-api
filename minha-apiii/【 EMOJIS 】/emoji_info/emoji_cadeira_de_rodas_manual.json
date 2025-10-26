@@ -1,0 +1,67 @@
+{
+  "emoji": "🦽",
+  "nome": "🦽 Cadeira de rodas manual",
+  "categoria": "manual wheelchair",
+  "url": "https://emojigraph.org/pt/manual-wheelchair/",
+  "detalhes": {
+    "explicacao": "Uma cadeira de rodas sem motor. Distinta da ♿ Símbolo de Cadeira de rodas, que é usada como sinalização para indicar instalações acessíveis. Ver também a Mulher na Cadeira de rodas Manual ou Homem na Cadeira de rodas Manual.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/manual-wheelchair_1f9bd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/manual-wheelchair_1f9bd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/manual-wheelchair_1f9bd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/manual-wheelchair_1f9bd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/manual-wheelchair_1f9bd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/manual-wheelchair_1f9bd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/manual-wheelchair_1f9bd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/manual-wheelchair_1f9bd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/manual-wheelchair_1f9bd.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/manual-wheelchair_1f9bd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9BD;",
+      "HTML dec": "&#129469;",
+      "URL escape code": "%F0%9F%A6%BD",
+      "Punycode": "xn--qu9h",
+      "Bytes (UTF-8)": "F0 9F A6 BD",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDBD",
+      "C, C++, Python": "\\U0001f9bd",
+      "CSS": "\\01F9BD",
+      "PHP, Ruby": "\\u{1F9BD}",
+      "Perl": "\\x{1F9BD}"
+    }
+  }
+}

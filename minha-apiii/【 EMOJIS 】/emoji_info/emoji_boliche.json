@@ -1,0 +1,95 @@
+{
+  "emoji": "🎳",
+  "nome": "🎳 Boliche",
+  "categoria": "Bowling",
+  "url": "https://emojigraph.org/pt/bowling/",
+  "detalhes": {
+    "explicacao": "Dez do pino bowling emoji, mostrando uma bola de boliche e pinos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bowling_1f3b3.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bowling_1f3b3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "bola de boliche",
+      "boliche",
+      "jogo",
+      "strike"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3B3;",
+      "HTML dec": "&#127923;",
+      "URL escape code": "%F0%9F%8E%B3",
+      "Punycode": "xn--kl8h",
+      "Bytes (UTF-8)": "F0 9F 8E B3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFB3",
+      "C, C++, Python": "\\U0001f3b3",
+      "CSS": "\\01F3B3",
+      "PHP, Ruby": "\\u{1F3B3}",
+      "Perl": "\\x{1F3B3}"
+    }
+  }
+}

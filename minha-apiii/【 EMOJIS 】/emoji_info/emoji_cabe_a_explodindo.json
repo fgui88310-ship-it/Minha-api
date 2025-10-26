@@ -1,0 +1,67 @@
+{
+  "emoji": "🤯",
+  "nome": "🤯 Cabeça explodindo",
+  "categoria": "exploding head",
+  "url": "https://emojigraph.org/pt/exploding-head/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com a boca aberta, o topo da sua cabeça explodindo na forma de uma a nuvem causada por uma explosão. Uma forma visual da expressão estar em choque, pode representar tais emoções como choque, espanto, espanto e descrença.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/exploding-head_1f92f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/exploding-head_1f92f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/exploding-head_1f92f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/exploding-head_1f92f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/exploding-head_1f92f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/exploding-head_1f92f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/exploding-head_1f92f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/exploding-head_1f92f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/exploding-head_1f92f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/exploding-head_1f92f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chocado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F92F;",
+      "HTML dec": "&#129327;",
+      "URL escape code": "%F0%9F%A4%AF",
+      "Punycode": "xn--oq9h",
+      "Bytes (UTF-8)": "F0 9F A4 AF",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD2F",
+      "C, C++, Python": "\\U0001f92f",
+      "CSS": "\\01F92F",
+      "PHP, Ruby": "\\u{1F92F}",
+      "Perl": "\\x{1F92F}"
+    }
+  }
+}

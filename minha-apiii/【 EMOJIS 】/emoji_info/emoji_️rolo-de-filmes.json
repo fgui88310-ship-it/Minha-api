@@ -1,0 +1,69 @@
+{
+  "emoji": "🎞",
+  "nome": "🎞️ Rolo de filmes",
+  "categoria": "Film Frames",
+  "url": "https://emojigraph.org/pt/film-frames/",
+  "detalhes": {
+    "explicacao": "Uma tira de filme, como o usado em uma câmera de filme ou fotografia. Geralmente retratado como vários horizontal quadros de filme não exposta com guarnição preta e perfurações.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/film-frames_1f39e-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/film-frames_1f39e-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/film-frames_1f39e-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/film-frames_1f39e-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/film-frames_1f39e-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/film-frames_1f39e-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/film-frames_1f39e-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/film-frames_1f39e-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/film-frames_1f39e-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/film-frames_1f39e-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cinema",
+      "filme",
+      "rolo de filmes"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F39E;&#xFE0F;",
+      "HTML dec": "&#127902;&#65039;",
+      "URL escape code": "%F0%9F%8E%9E%EF%B8%8F",
+      "Punycode": "xn--yk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 9E EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF9E\\uFE0F",
+      "C, C++, Python": "\\U0001f39e\\uFE0F",
+      "CSS": "\\01F39E \\FE0F",
+      "PHP, Ruby": "\\u{1F39E}\\u{FE0F}",
+      "Perl": "\\x{1F39E}\\x{FE0F}"
+    }
+  }
+}

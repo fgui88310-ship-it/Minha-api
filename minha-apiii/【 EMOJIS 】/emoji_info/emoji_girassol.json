@@ -1,0 +1,93 @@
+{
+  "emoji": "🌻",
+  "nome": "🌻 Girassol",
+  "categoria": "Sunflower",
+  "url": "https://emojigraph.org/pt/sunflower/",
+  "detalhes": {
+    "explicacao": "Um girassol, alto, redondo com grandes pétalas amarelas. Representado como um único, vertical girassol com um grande centro marrom-escura e um tronco verde.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sunflower_1f33b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/sunflower_1f33b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "flor",
+      "girassol",
+      "planta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F33B;",
+      "HTML dec": "&#127803;",
+      "URL escape code": "%F0%9F%8C%BB",
+      "Punycode": "xn--4h8h",
+      "Bytes (UTF-8)": "F0 9F 8C BB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF3B",
+      "C, C++, Python": "\\U0001f33b",
+      "CSS": "\\01F33B",
+      "PHP, Ruby": "\\u{1F33B}",
+      "Perl": "\\x{1F33B}"
+    }
+  }
+}

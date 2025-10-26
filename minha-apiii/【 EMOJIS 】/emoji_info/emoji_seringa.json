@@ -1,0 +1,97 @@
+{
+  "emoji": "💉",
+  "nome": "💉 Seringa",
+  "categoria": "Syringe",
+  "url": "https://emojigraph.org/pt/syringe/",
+  "detalhes": {
+    "explicacao": "Uma seringa médica, como usada para administrar uma tranfusão ou vacina.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/syringe_1f489.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/syringe_1f489.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "agulha",
+      "médico",
+      "remédio",
+      "seringa",
+      "injeção",
+      "vacina",
+      "vacinação"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F489;",
+      "HTML dec": "&#128137;",
+      "URL escape code": "%F0%9F%92%89",
+      "Punycode": "xn--or8h",
+      "Bytes (UTF-8)": "F0 9F 92 89",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC89",
+      "C, C++, Python": "\\U0001f489",
+      "CSS": "\\01F489",
+      "PHP, Ruby": "\\u{1F489}",
+      "Perl": "\\x{1F489}"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "emoji": "🇲🇾",
+  "nome": "🇲🇾 Bandeira: Malásia",
+  "categoria": "flag malaysia",
+  "url": "https://emojigraph.org/pt/flag-malaysia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Malásia. Este símbolo é uma seqüência de caracteres 🇲 Símbolo Indicador Regional Letra М e 🇾 Símbolo Indicador Regional Letra Y. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras MY em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-malaysia_1f1f2-1f1fe.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-malaysia_1f1f2-1f1fe.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-malaysia_1f1f2-1f1fe.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-malaysia_1f1f2-1f1fe.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-malaysia_1f1f2-1f1fe.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-malaysia_1f1f2-1f1fe.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-malaysia_1f1f2-1f1fe.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-malaysia_1f1f2-1f1fe.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-malaysia_1f1f2-1f1fe.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-malaysia_1f1f2-1f1fe.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F2;&#x1F1FE;",
+      "HTML dec": "&#127474;&#127486;",
+      "URL escape code": "%F0%9F%87%B2%F0%9F%87%BE",
+      "Punycode": "xn--q77hya",
+      "Bytes (UTF-8)": "F0 9F 87 B2 F0 9F 87 BE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF2\\uD83C\\uDDFE",
+      "C, C++, Python": "\\U0001f1f2\\U0001f1fe",
+      "CSS": "\\01F1F2 \\01F1FE",
+      "PHP, Ruby": "\\u{1F1F2}\\u{1F1FE}",
+      "Perl": "\\x{1F1F2}\\x{1F1FE}"
+    }
+  }
+}

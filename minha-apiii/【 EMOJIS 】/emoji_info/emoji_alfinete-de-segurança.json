@@ -1,0 +1,71 @@
+{
+  "emoji": "🧷",
+  "nome": "🧷 Alfinete de segurança",
+  "categoria": "Safety Pin",
+  "url": "https://emojigraph.org/pt/safety-pin/",
+  "detalhes": {
+    "explicacao": "Uma de prata alfinete de segurança ou clip, como os usados para prender o tecido. Geralmente mostrado postas em um ângulo de 45°, com a sua primavera no canto inferior esquerdo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/safety-pin_1f9f7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/safety-pin_1f9f7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/safety-pin_1f9f7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/safety-pin_1f9f7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/safety-pin_1f9f7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/safety-pin_1f9f7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/safety-pin_1f9f7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/safety-pin_1f9f7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/safety-pin_1f9f7.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/safety-pin_1f9f7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fralda",
+      "punk rock",
+      "alfinete",
+      "punk",
+      "rock"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9F7;",
+      "HTML dec": "&#129527;",
+      "URL escape code": "%F0%9F%A7%B7",
+      "Punycode": "xn--ew9h",
+      "Bytes (UTF-8)": "F0 9F A7 B7",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDF7",
+      "C, C++, Python": "\\U0001f9f7",
+      "CSS": "\\01F9F7",
+      "PHP, Ruby": "\\u{1F9F7}",
+      "Perl": "\\x{1F9F7}"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "emoji": "🚛",
+  "nome": "🚛 Caminhão",
+  "categoria": "articulated lorry",
+  "url": "https://emojigraph.org/pt/articulated-lorry/",
+  "detalhes": {
+    "explicacao": "Caminhão articulado foi aprovado como parte do Unicode 6.0 em 2010e acrescentou para o Emoji 1.0 em 2015.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/articulated-lorry_1f69b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/articulated-lorry_1f69b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caminhão",
+      "semi",
+      "trailer",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F69B;",
+      "HTML dec": "&#128667;",
+      "URL escape code": "%F0%9F%9A%9B",
+      "Punycode": "xn--t68h",
+      "Bytes (UTF-8)": "F0 9F 9A 9B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE9B",
+      "C, C++, Python": "\\U0001f69b",
+      "CSS": "\\01F69B",
+      "PHP, Ruby": "\\u{1F69B}",
+      "Perl": "\\x{1F69B}"
+    }
+  }
+}

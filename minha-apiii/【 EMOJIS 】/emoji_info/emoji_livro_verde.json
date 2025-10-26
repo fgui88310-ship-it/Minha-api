@@ -1,0 +1,100 @@
+{
+  "emoji": "📗",
+  "nome": "📗 Livro verde",
+  "categoria": "green book",
+  "url": "https://emojigraph.org/pt/green-book/",
+  "detalhes": {
+    "explicacao": "Fechado, verde, livro de capa dura. Comumente utilizado para vários conteúdos relativos a leitura, a escrita, a aprendizagem e a educação. Também pode ser usado como um verde cor de destaque.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/green-book_1f4d7.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/green-book_1f4d7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "livro",
+      "verde",
+      "biblioteca",
+      "caderno",
+      "colégio",
+      "escola",
+      "estudar",
+      "lendo",
+      "ler",
+      "livraria"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4D7;",
+      "HTML dec": "&#128215;",
+      "URL escape code": "%F0%9F%93%97",
+      "Punycode": "xn--wt8h",
+      "Bytes (UTF-8)": "F0 9F 93 97",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCD7",
+      "C, C++, Python": "\\U0001f4d7",
+      "CSS": "\\01F4D7",
+      "PHP, Ruby": "\\u{1F4D7}",
+      "Perl": "\\x{1F4D7}"
+    }
+  }
+}

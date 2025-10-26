@@ -1,0 +1,68 @@
+{
+  "emoji": "🛺",
+  "nome": "🛺 Automóvel riquixá",
+  "categoria": "auto rickshaw",
+  "url": "https://emojigraph.org/pt/auto-rickshaw/",
+  "detalhes": {
+    "explicacao": "Um auto rickshaw (muitas vezes referido como um tuk tuk*) é uma versão motorizada de um ciclo de riquixá, utilizados para o transporte em muitas regiões do mundo. Geralmente tem três rodas e os vários níveis de abrigo, a partir de elementos externos (alguns de ar aberto, alguns são fechados).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/auto-rickshaw_1f6fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/auto-rickshaw_1f6fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/auto-rickshaw_1f6fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/auto-rickshaw_1f6fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/auto-rickshaw_1f6fa.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/auto-rickshaw_1f6fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/auto-rickshaw_1f6fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/auto-rickshaw_1f6fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/auto-rickshaw_1f6fa.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/auto-rickshaw_1f6fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "autorriquixá",
+      "tuk tuk"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6FA;",
+      "HTML dec": "&#128762;",
+      "URL escape code": "%F0%9F%9B%BA",
+      "Punycode": "xn--j98h",
+      "Bytes (UTF-8)": "F0 9F 9B BA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEFA",
+      "C, C++, Python": "\\U0001f6fa",
+      "CSS": "\\01F6FA",
+      "PHP, Ruby": "\\u{1F6FA}",
+      "Perl": "\\x{1F6FA}"
+    }
+  }
+}

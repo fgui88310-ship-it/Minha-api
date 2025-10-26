@@ -1,0 +1,70 @@
+{
+  "emoji": "🪸",
+  "nome": "🪸 Coral",
+  "categoria": "Coral",
+  "url": "https://emojigraph.org/pt/coral/",
+  "detalhes": {
+    "explicacao": "Coral como encontrado em águas oceânicas. Usado para representar o animal invertebrado marinho literal e pode ser usado para chamar a atenção para o branqueamento de corais devido ao aquecimento global.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/coral_1fab8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/coral_1fab8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/coral_1fab8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/coral_1fab8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/coral_1fab8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/coral_1fab8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/coral_1fab8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/coral_1fab8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/coral_1fab8.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/coral_1fab8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coral",
+      "oceano",
+      "recife",
+      "mar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAB8;",
+      "HTML dec": "&#129720;",
+      "URL escape code": "%F0%9F%AA%B8",
+      "Punycode": "xn--w19h",
+      "Bytes (UTF-8)": "f0 9f aa b8",
+      "JavaScript, JSON, Java": "\\ud83e\\udeb8",
+      "C, C++, Python": "\\U0001fab8",
+      "CSS": "\\01FAB8",
+      "PHP, Ruby": "\\u{1FAB8}",
+      "Perl": "\\x{1FAB8}"
+    }
+  }
+}

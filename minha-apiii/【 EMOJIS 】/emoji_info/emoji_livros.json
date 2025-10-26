@@ -1,0 +1,99 @@
+{
+  "emoji": "📚",
+  "nome": "📚 Livros",
+  "categoria": "Books",
+  "url": "https://emojigraph.org/pt/books/",
+  "detalhes": {
+    "explicacao": "Um frouxo pilha de três ou mais cores diferentes, livros de capa dura. Comumente utilizado para vários conteúdos a respeito de leitura e de escolaridade. A cor e a orientação variar entre plataformas, mas muitas vezes mostrado com vermelho, verde, azul e cobre.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/books_1f4da.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/books_1f4da.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/books_1f4da.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/books_1f4da.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/books_1f4da.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/books_1f4da.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/books_1f4da.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/books_1f4da.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/books_1f4da.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/books_1f4da.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/books_1f4da.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/books_1f4da.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/books_1f4da.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/books_1f4da.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/books_1f4da.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/books_1f4da.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "livro",
+      "livros",
+      "biblioteca",
+      "estudando",
+      "estudar",
+      "leitura",
+      "lendo",
+      "ler",
+      "livraria"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4DA;",
+      "HTML dec": "&#128218;",
+      "URL escape code": "%F0%9F%93%9A",
+      "Punycode": "xn--zt8h",
+      "Bytes (UTF-8)": "F0 9F 93 9A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCDA",
+      "C, C++, Python": "\\U0001f4da",
+      "CSS": "\\01F4DA",
+      "PHP, Ruby": "\\u{1F4DA}",
+      "Perl": "\\x{1F4DA}"
+    }
+  }
+}

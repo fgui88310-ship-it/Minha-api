@@ -1,0 +1,69 @@
+{
+  "emoji": "🖇",
+  "nome": "🖇️ Clipes de papel conectados",
+  "categoria": "linked paperclips",
+  "url": "https://emojigraph.org/pt/linked-paperclips/",
+  "detalhes": {
+    "explicacao": "Dois ou mais de prata, clipes de papel ligados entre si, formando uma invertido V. da Microsoft design apresenta três clipes de papel.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/linked-paperclips_1f587-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/linked-paperclips_1f587-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/linked-paperclips_1f587-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/linked-paperclips_1f587-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/linked-paperclips_1f587-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/linked-paperclips_1f587-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/linked-paperclips_1f587-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/linked-paperclips_1f587-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/linked-paperclips_1f587-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/linked-paperclips_1f587-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "clipe",
+      "clipes",
+      "clipes de papel"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F587;&#xFE0F;",
+      "HTML dec": "&#128391;&#65039;",
+      "URL escape code": "%F0%9F%96%87%EF%B8%8F",
+      "Punycode": "xn--xy8h",
+      "Bytes (UTF-8)": "F0 9F 96 87 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD87\\uFE0F",
+      "C, C++, Python": "\\U0001f587\\uFE0F",
+      "CSS": "\\01F587 \\FE0F",
+      "PHP, Ruby": "\\u{1F587}\\u{FE0F}",
+      "Perl": "\\x{1F587}\\x{FE0F}"
+    }
+  }
+}

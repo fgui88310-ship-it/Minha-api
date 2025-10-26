@@ -1,0 +1,78 @@
+{
+  "emoji": "🪈",
+  "nome": "🪈 Flauta",
+  "categoria": "Flute",
+  "url": "https://emojigraph.org/pt/flute/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flute_1fa88.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flute_1fa88.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flute_1fa88.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flute_1fa88.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flute_1fa88.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/flute_1fa88.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flute_1fa88.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flute_1fa88.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flute_1fa88.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/flute_1fa88.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "flauta",
+      "gravador",
+      "música",
+      "pífano",
+      "sopro",
+      "tubo",
+      "banda",
+      "banda marcial",
+      "flautim",
+      "flautista",
+      "instrumento",
+      "orquestra",
+      "pife"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA88;",
+      "HTML dec": "&#129672;",
+      "URL escape code": "%F0%9F%AA%88",
+      "Bytes (UTF-8)": "f0 9f aa 88",
+      "JavaScript, JSON, Java": "\\ud83e\\ude88",
+      "C, C++, Python": "\\U0001fa88",
+      "CSS": "\\01FA88",
+      "PHP, Ruby": "\\u{1FA88}",
+      "Perl": "\\x{1FA88}"
+    }
+  }
+}

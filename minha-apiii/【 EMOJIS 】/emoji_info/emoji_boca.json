@@ -1,0 +1,96 @@
+{
+  "emoji": "👄",
+  "nome": "👄 Boca",
+  "categoria": "Mouth",
+  "url": "https://emojigraph.org/pt/mouth/",
+  "detalhes": {
+    "explicacao": "Uma boca humana que geralmente é apresentado como um par de lábios e uma fileira de dentes, em vez de o interior da boca.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/mouth_1f444.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/mouth_1f444.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boca",
+      "corpo",
+      "lábios",
+      "rosto",
+      "batom",
+      "beijo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F444;",
+      "HTML dec": "&#128068;",
+      "URL escape code": "%F0%9F%91%84",
+      "Punycode": "xn--pp8h",
+      "Bytes (UTF-8)": "F0 9F 91 84",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC44",
+      "C, C++, Python": "\\U0001f444",
+      "CSS": "\\01F444",
+      "PHP, Ruby": "\\u{1F444}",
+      "Perl": "\\x{1F444}"
+    }
+  }
+}

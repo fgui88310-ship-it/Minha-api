@@ -1,0 +1,97 @@
+{
+  "emoji": "🐟",
+  "nome": "🐟 Peixe",
+  "categoria": "Fish",
+  "url": "https://emojigraph.org/pt/fish/",
+  "detalhes": {
+    "explicacao": "Um peixe comum. Descrito como um peixe azul,  muitas vezes com uma parte inferior branca, em perfil completo virada para a esquerda, com barbatanas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fish_1f41f.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/fish_1f41f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "peixe",
+      "Peixes",
+      "zodíaco",
+      "pesca",
+      "pescar",
+      "signo de peixes"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F41F;",
+      "HTML dec": "&#128031;",
+      "URL escape code": "%F0%9F%90%9F",
+      "Punycode": "xn--no8h",
+      "Bytes (UTF-8)": "F0 9F 90 9F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC1F",
+      "C, C++, Python": "\\U0001f41f",
+      "CSS": "\\01F41F",
+      "PHP, Ruby": "\\u{1F41F}",
+      "Perl": "\\x{1F41F}"
+    }
+  }
+}

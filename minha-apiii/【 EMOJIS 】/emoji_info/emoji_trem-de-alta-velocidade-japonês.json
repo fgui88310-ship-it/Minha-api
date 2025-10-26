@@ -1,0 +1,98 @@
+{
+  "emoji": "🚅",
+  "nome": "🚅 Trem de alta velocidade japonês",
+  "categoria": "Bullet Train",
+  "url": "https://emojigraph.org/pt/bullet-train/",
+  "detalhes": {
+    "explicacao": "Um trem de alta velocidade, projetado para cobrir longas distâncias em alta velocidade. Também dispõe de uma eficiente bala nariz, muitas vezes, usado como referência para o trem-bala no Japão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bullet-train_1f685.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bullet-train_1f685.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "trem",
+      "veículo",
+      "bala",
+      "ferrovia",
+      "japão",
+      "velocidade",
+      "veloz",
+      "viagem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F685;",
+      "HTML dec": "&#128645;",
+      "URL escape code": "%F0%9F%9A%85",
+      "Punycode": "xn--658h",
+      "Bytes (UTF-8)": "F0 9F 9A 85",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE85",
+      "C, C++, Python": "\\U0001f685",
+      "CSS": "\\01F685",
+      "PHP, Ruby": "\\u{1F685}",
+      "Perl": "\\x{1F685}"
+    }
+  }
+}

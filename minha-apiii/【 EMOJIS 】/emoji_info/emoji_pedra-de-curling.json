@@ -1,0 +1,67 @@
+{
+  "emoji": "🥌",
+  "nome": "🥌 Pedra de curling",
+  "categoria": "Curling Stone",
+  "url": "https://emojigraph.org/pt/curling-stone/",
+  "detalhes": {
+    "explicacao": "Pedra de Curling foi aprovado como parte do Unicode 10.0 em 2017e acrescentou para o Emoji 5.0 em 2017.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/curling-stone_1f94c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/curling-stone_1f94c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/curling-stone_1f94c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/curling-stone_1f94c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/curling-stone_1f94c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/curling-stone_1f94c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/curling-stone_1f94c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/curling-stone_1f94c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/curling-stone_1f94c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/curling-stone_1f94c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pedra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F94C;",
+      "HTML dec": "&#129356;",
+      "URL escape code": "%F0%9F%A5%8C",
+      "Punycode": "xn--ir9h",
+      "Bytes (UTF-8)": "F0 9F A5 8C",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD4C",
+      "C, C++, Python": "\\U0001f94c",
+      "CSS": "\\01F94C",
+      "PHP, Ruby": "\\u{1F94C}",
+      "Perl": "\\x{1F94C}"
+    }
+  }
+}

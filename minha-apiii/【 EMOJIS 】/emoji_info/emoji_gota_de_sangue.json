@@ -1,0 +1,73 @@
+{
+  "emoji": "🩸",
+  "nome": "🩸 Gota de sangue",
+  "categoria": "drop of blood",
+  "url": "https://emojigraph.org/pt/drop-of-blood/",
+  "detalhes": {
+    "explicacao": "Uma gota de sangue mostrado em vermelho. Pode ser utilizado para significar uma doação de sangue, hemorragias, ferimentos ou menstruação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/drop-of-blood_1fa78.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/drop-of-blood_1fa78.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/drop-of-blood_1fa78.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/drop-of-blood_1fa78.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/drop-of-blood_1fa78.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/drop-of-blood_1fa78.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/drop-of-blood_1fa78.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/drop-of-blood_1fa78.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/drop-of-blood_1fa78.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/drop-of-blood_1fa78.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gota de sangue",
+      "medicina",
+      "menstruação",
+      "doação",
+      "gota",
+      "sangrar",
+      "sangue"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA78;",
+      "HTML dec": "&#129656;",
+      "URL escape code": "%F0%9F%A9%B8",
+      "Punycode": "xn--2z9h",
+      "Bytes (UTF-8)": "F0 9F A9 B8",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE78",
+      "C, C++, Python": "\\U0001fa78",
+      "CSS": "\\01FA78",
+      "PHP, Ruby": "\\u{1FA78}",
+      "Perl": "\\x{1FA78}"
+    }
+  }
+}

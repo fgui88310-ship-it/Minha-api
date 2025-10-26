@@ -1,0 +1,35 @@
+// api/utils/cookieUtils.js
+import { fsSync } from '../【 MODULES 】/libs.js';
+import { fileURLToPath } from 'url';
+import { dirname, join } from 'path';
+import { PATHS } from '../config.js';
+
+export function loadCookiesFromFile(nomecookie) {
+  try {
+    const cookiesContent = fsSync.readFileSync(join(PATHS.cookie, nomecookie + '.txt'), 'utf8');
+    const cookies = cookiesContent
+      .split('\n')
+      .filter(line => line && !line.startsWith('#') && line.includes('\t'))
+      .map(line => {
+        const parts = line.split('\t');
+        if (parts.length < 7) {
+          console.error('[ERROR] Linha de cookie inválida:', line);
+          return null;
+        }
+        const [domain, , , , , name, value] = parts;
+        return { name, value };
+      })
+      .filter(cookie => cookie)
+      .reduce((acc, { name, value }) => ({ ...acc, [name]: value }), {});
+    
+    if (!cookies.sessionid || !cookies.csrftoken) {
+      console.error('[ERROR] Cookies obrigatórios (sessionid, csrftoken) não encontrados em cookies.txt');
+      throw new Error('Cookies obrigatórios (sessionid, csrftoken) não encontrados');
+    }
+    console.log('[DEBUG] Cookies carregados com sucesso:', cookies);
+    return cookies;
+  } catch (err) {
+    console.error('[ERROR] Falha ao carregar cookies.txt:', err.message);
+    return {};
+  }
+}

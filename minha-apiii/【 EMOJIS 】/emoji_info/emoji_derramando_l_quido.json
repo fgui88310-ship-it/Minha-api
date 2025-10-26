@@ -1,0 +1,78 @@
+{
+  "emoji": "🫗",
+  "nome": "🫗 Derramando líquido",
+  "categoria": "pouring liquid",
+  "url": "https://emojigraph.org/pt/pouring-liquid/",
+  "detalhes": {
+    "explicacao": "Um copo inclinado com líquido derramando sobre a borda. Pode representar o ato de derramar, ou um ritual religioso de derramar libação para honrar os ancestrais.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pouring-liquid_1fad7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pouring-liquid_1fad7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pouring-liquid_1fad7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pouring-liquid_1fad7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pouring-liquid_1fad7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pouring-liquid_1fad7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pouring-liquid_1fad7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pouring-liquid_1fad7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pouring-liquid_1fad7.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/pouring-liquid_1fad7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bebida",
+      "derramar",
+      "vazio",
+      "vidro",
+      "acabou",
+      "acidente",
+      "água",
+      "derrubar",
+      "fim",
+      "ops",
+      "pingar",
+      "pingo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAD7;",
+      "HTML dec": "&#129751;",
+      "URL escape code": "%F0%9F%AB%97",
+      "Punycode": "xn--s29h",
+      "Bytes (UTF-8)": "f0 9f ab 97",
+      "JavaScript, JSON, Java": "\\ud83e\\uded7",
+      "C, C++, Python": "\\U0001fad7",
+      "CSS": "\\01FAD7",
+      "PHP, Ruby": "\\u{1FAD7}",
+      "Perl": "\\x{1FAD7}"
+    }
+  }
+}

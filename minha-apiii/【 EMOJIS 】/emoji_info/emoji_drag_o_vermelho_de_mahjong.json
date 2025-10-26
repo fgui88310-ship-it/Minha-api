@@ -1,0 +1,97 @@
+{
+  "emoji": "🀄",
+  "nome": "🀄 Dragão vermelho de mahjong",
+  "categoria": "mahjong red dragon",
+  "url": "https://emojigraph.org/pt/mahjong-red-dragon/",
+  "detalhes": {
+    "explicacao": "O dragão vermelho mosaico no jogo de Mahjong Japonês. Branco, vermelho, com 中 de caracteres impressos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/mahjong-red-dragon_1f004.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/mahjong-red-dragon_1f004.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dragão vermelho",
+      "mahjong",
+      "peça",
+      "peça de mahjong",
+      "vermelho",
+      "dragão",
+      "jogo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F004;",
+      "HTML dec": "&#126980;",
+      "URL escape code": "%F0%9F%80%84",
+      "Punycode": "xn--mt7h",
+      "Bytes (UTF-8)": "F0 9F 80 84",
+      "JavaScript, JSON, Java": "\\uD83C\\uDC04",
+      "C, C++, Python": "\\U0001f004",
+      "CSS": "\\01F004",
+      "PHP, Ruby": "\\u{1F004}",
+      "Perl": "\\x{1F004}"
+    }
+  }
+}

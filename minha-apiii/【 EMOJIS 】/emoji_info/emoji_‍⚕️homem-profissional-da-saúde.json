@@ -1,0 +1,72 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍⚕️ Homem profissional da saúde",
+  "categoria": "Man Health Worker",
+  "url": "https://emojigraph.org/pt/man-health-worker/",
+  "detalhes": {
+    "explicacao": "Um homem que trabalha no campo da saúde. Isto pode ser usado para representar um médico, enfermeiro ou farmacêutico.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-health-worker_1f468-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-health-worker_1f468-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-health-worker_1f468-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-health-worker_1f468-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-health-worker_1f468-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-health-worker_1f468-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-health-worker_1f468-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-health-worker_1f468-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-health-worker_1f468-200d-2695-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-health-worker_1f468-200d-2695-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "doutor",
+      "enfermeiro",
+      "homem",
+      "médico",
+      "saúde",
+      "terapeuta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x2695;&#xFE0F;",
+      "HTML dec": "&#128104;&#8205;&#9877;&#65039;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F",
+      "Punycode": "xn--t7h9100o",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D E2 9A 95 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\u2695\\uFE0F",
+      "C, C++, Python": "\\U0001f468\\u200D\\u2695\\uFE0F",
+      "CSS": "\\01F468 \\200D \\2695 \\FE0F",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{2695}\\u{FE0F}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{2695}\\x{FE0F}"
+    }
+  }
+}

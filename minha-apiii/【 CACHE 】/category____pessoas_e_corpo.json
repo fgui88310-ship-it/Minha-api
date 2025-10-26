@@ -1,0 +1,2086 @@
+[
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/"
+  },
+  {
+    "nome": "😃Smileys e Emoção",
+    "href": "/pt/smileys-emotion/"
+  },
+  {
+    "nome": "🤦‍♀️Pessoas e Corpo",
+    "href": "/pt/people-body/"
+  },
+  {
+    "nome": "🐶Animais e Natureza",
+    "href": "/pt/animals-nature/"
+  },
+  {
+    "nome": "🍩Alimentação e bebida",
+    "href": "/pt/food-drink/"
+  },
+  {
+    "nome": "🚗Viagens e lugares",
+    "href": "/pt/travel-places/"
+  },
+  {
+    "nome": "🏀Atividades",
+    "href": "/pt/activities/"
+  },
+  {
+    "nome": "💎Objetos",
+    "href": "/pt/objects/"
+  },
+  {
+    "nome": "✅Símbolos",
+    "href": "/pt/symbols/"
+  },
+  {
+    "nome": "🏁Bandeiras",
+    "href": "/pt/flags/"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "👋Mão acenando",
+    "href": "/pt/waving-hand/"
+  },
+  {
+    "nome": "🤚Dorso da mão levantado",
+    "href": "/pt/raised-back-of-hand/"
+  },
+  {
+    "nome": "🖐️Mão aberta com os dedos separados",
+    "href": "/pt/hand-with-fingers-splayed/"
+  },
+  {
+    "nome": "✋Mão levantada",
+    "href": "/pt/raised-hand/"
+  },
+  {
+    "nome": "🖖Saudação vulcana",
+    "href": "/pt/vulcan-salute/"
+  },
+  {
+    "nome": "🫱Mão para a direita",
+    "href": "/pt/rightwards-hand/"
+  },
+  {
+    "nome": "🫲Mão para a esquerda",
+    "href": "/pt/leftwards-hand/"
+  },
+  {
+    "nome": "🫳Mão com a palma para baixo",
+    "href": "/pt/palm-down-hand/"
+  },
+  {
+    "nome": "🫴Mão com a palma para cima",
+    "href": "/pt/palm-up-hand/"
+  },
+  {
+    "nome": "🫷Mão empurrando para a esquerda",
+    "href": "/pt/leftwards-pushing-hand/"
+  },
+  {
+    "nome": "🫸Mão empurrando para a direita",
+    "href": "/pt/rightwards-pushing-hand/"
+  },
+  {
+    "nome": "👌Sinal de ok",
+    "href": "/pt/ok-hand/"
+  },
+  {
+    "nome": "🤌Dedos comprimidos",
+    "href": "/pt/pinched-fingers/"
+  },
+  {
+    "nome": "🤏Mão beliscando",
+    "href": "/pt/pinching-hand/"
+  },
+  {
+    "nome": "✌️Mão em V de vitória",
+    "href": "/pt/victory-hand/"
+  },
+  {
+    "nome": "🤞Dedos cruzados",
+    "href": "/pt/crossed-fingers/"
+  },
+  {
+    "nome": "🫰Mão com dedo indicador e polegar cruzados",
+    "href": "/pt/hand-with-index-finger-and-thumb-crossed/"
+  },
+  {
+    "nome": "🤟Gesto de \"te amo\"",
+    "href": "/pt/love-you-gesture/"
+  },
+  {
+    "nome": "🤘Saudação do rock",
+    "href": "/pt/sign-of-the-horns/"
+  },
+  {
+    "nome": "🤙Sinal \"me liga\"",
+    "href": "/pt/call-me-hand/"
+  },
+  {
+    "nome": "👈Dorso da mão com dedo indicador apontando para a esquerda",
+    "href": "/pt/backhand-index-pointing-left/"
+  },
+  {
+    "nome": "👉Dorso da mão com dedo indicador apontando para a direita",
+    "href": "/pt/backhand-index-pointing-right/"
+  },
+  {
+    "nome": "👆Dorso da mão com dedo indicador apontando para cima",
+    "href": "/pt/backhand-index-pointing-up/"
+  },
+  {
+    "nome": "🖕Dedo do meio",
+    "href": "/pt/middle-finger/"
+  },
+  {
+    "nome": "👇Dorso da mão com dedo indicador apontando para baixo",
+    "href": "/pt/backhand-index-pointing-down/"
+  },
+  {
+    "nome": "☝️Indicador apontando para cima",
+    "href": "/pt/index-pointing-up/"
+  },
+  {
+    "nome": "🫵Indicador apontando para o visualizador",
+    "href": "/pt/index-pointing-at-the-viewer/"
+  },
+  {
+    "nome": "👍Polegar para cima",
+    "href": "/pt/thumbs-up/"
+  },
+  {
+    "nome": "👎Polegar para baixo",
+    "href": "/pt/thumbs-down/"
+  },
+  {
+    "nome": "✊Punho levantado",
+    "href": "/pt/raised-fist/"
+  },
+  {
+    "nome": "👊Soco",
+    "href": "/pt/oncoming-fist/"
+  },
+  {
+    "nome": "🤛Punho esquerdo",
+    "href": "/pt/left-facing-fist/"
+  },
+  {
+    "nome": "🤜Punho direito",
+    "href": "/pt/right-facing-fist/"
+  },
+  {
+    "nome": "👏Mãos aplaudindo",
+    "href": "/pt/clapping-hands/"
+  },
+  {
+    "nome": "🙌Mãos para cima",
+    "href": "/pt/raising-hands/"
+  },
+  {
+    "nome": "🫶Mãos de coração",
+    "href": "/pt/heart-hands/"
+  },
+  {
+    "nome": "👐Mãos abertas",
+    "href": "/pt/open-hands/"
+  },
+  {
+    "nome": "🤲Palmas unidas para cima",
+    "href": "/pt/palms-up-together/"
+  },
+  {
+    "nome": "🤝Aperto de mãos",
+    "href": "/pt/handshake/"
+  },
+  {
+    "nome": "🙏Mãos juntas",
+    "href": "/pt/folded-hands/"
+  },
+  {
+    "nome": "✍️Escrevendo à mão",
+    "href": "/pt/writing-hand/"
+  },
+  {
+    "nome": "💅Esmalte de unha",
+    "href": "/pt/nail-polish/"
+  },
+  {
+    "nome": "🤳Selfie",
+    "href": "/pt/selfie/"
+  },
+  {
+    "nome": "💪Bíceps",
+    "href": "/pt/flexed-biceps/"
+  },
+  {
+    "nome": "🦾Braço mecânico",
+    "href": "/pt/mechanical-arm/"
+  },
+  {
+    "nome": "🦿Perna mecânica",
+    "href": "/pt/mechanical-leg/"
+  },
+  {
+    "nome": "🦵Perna",
+    "href": "/pt/leg/"
+  },
+  {
+    "nome": "🦶Pé",
+    "href": "/pt/foot/"
+  },
+  {
+    "nome": "👂Orelha",
+    "href": "/pt/ear/"
+  },
+  {
+    "nome": "🦻Ouvido com aparelho auditivo",
+    "href": "/pt/ear-with-hearing-aid/"
+  },
+  {
+    "nome": "👃Nariz",
+    "href": "/pt/nose/"
+  },
+  {
+    "nome": "🧠Cérebro",
+    "href": "/pt/brain/"
+  },
+  {
+    "nome": "🫀Coração humano",
+    "href": "/pt/anatomical-heart/"
+  },
+  {
+    "nome": "🫁Pulmões",
+    "href": "/pt/lungs/"
+  },
+  {
+    "nome": "🦷Dente",
+    "href": "/pt/tooth/"
+  },
+  {
+    "nome": "🦴Osso",
+    "href": "/pt/bone/"
+  },
+  {
+    "nome": "👀Olhos",
+    "href": "/pt/eyes/"
+  },
+  {
+    "nome": "👁️Olho",
+    "href": "/pt/eye/"
+  },
+  {
+    "nome": "👅Língua",
+    "href": "/pt/tongue/"
+  },
+  {
+    "nome": "👄Boca",
+    "href": "/pt/mouth/"
+  },
+  {
+    "nome": "🫦Mordendo o lábio",
+    "href": "/pt/biting-lip/"
+  },
+  {
+    "nome": "👶Bebê",
+    "href": "/pt/baby/"
+  },
+  {
+    "nome": "🧒Criança",
+    "href": "/pt/child/"
+  },
+  {
+    "nome": "👦Menino",
+    "href": "/pt/boy/"
+  },
+  {
+    "nome": "👧Menina",
+    "href": "/pt/girl/"
+  },
+  {
+    "nome": "🧑Pessoa",
+    "href": "/pt/person/"
+  },
+  {
+    "nome": "👱Pessoa: cabelo louro",
+    "href": "/pt/person-blond-hair/"
+  },
+  {
+    "nome": "👨Homem",
+    "href": "/pt/man/"
+  },
+  {
+    "nome": "🧔Homem: barba",
+    "href": "/pt/person-beard/"
+  },
+  {
+    "nome": "🧔‍♂️Homem: barbudo",
+    "href": "/pt/man-beard/"
+  },
+  {
+    "nome": "🧔‍♀️Mulher: barba",
+    "href": "/pt/woman-beard/"
+  },
+  {
+    "nome": "👨‍🦰Homem: cabelo vermelho",
+    "href": "/pt/man-red-hair/"
+  },
+  {
+    "nome": "👨‍🦱Homem: cabelo cacheado",
+    "href": "/pt/man-curly-hair/"
+  },
+  {
+    "nome": "👨‍🦳Homem: cabelo branco",
+    "href": "/pt/man-white-hair/"
+  },
+  {
+    "nome": "👨‍🦲Homem: careca",
+    "href": "/pt/man-bald/"
+  },
+  {
+    "nome": "👩Mulher",
+    "href": "/pt/woman/"
+  },
+  {
+    "nome": "👩‍🦰Mulher: cabelo vermelho",
+    "href": "/pt/woman-red-hair/"
+  },
+  {
+    "nome": "🧑‍🦰Pessoa: cabelo vermelho",
+    "href": "/pt/person-red-hair/"
+  },
+  {
+    "nome": "👩‍🦱Mulher: cabelo cacheado",
+    "href": "/pt/woman-curly-hair/"
+  },
+  {
+    "nome": "🧑‍🦱Pessoa: cabelo cacheado",
+    "href": "/pt/person-curly-hair/"
+  },
+  {
+    "nome": "👩‍🦳Mulher: cabelo branco",
+    "href": "/pt/woman-white-hair/"
+  },
+  {
+    "nome": "🧑‍🦳Pessoa: cabelo branco",
+    "href": "/pt/person-white-hair/"
+  },
+  {
+    "nome": "👩‍🦲Mulher: careca",
+    "href": "/pt/woman-bald/"
+  },
+  {
+    "nome": "🧑‍🦲Pessoa: careca",
+    "href": "/pt/person-bald/"
+  },
+  {
+    "nome": "👱‍♀️Mulher: cabelo loiro",
+    "href": "/pt/woman-blond-hair/"
+  },
+  {
+    "nome": "👱‍♂️Homem: cabelo loiro",
+    "href": "/pt/man-blond-hair/"
+  },
+  {
+    "nome": "🧓Idoso",
+    "href": "/pt/older-person/"
+  },
+  {
+    "nome": "👴Homem idoso",
+    "href": "/pt/old-man/"
+  },
+  {
+    "nome": "👵Idosa",
+    "href": "/pt/old-woman/"
+  },
+  {
+    "nome": "🙍Franzindo a sobrancelha",
+    "href": "/pt/person-frowning/"
+  },
+  {
+    "nome": "🙍‍♂️Homem franzindo a sobrancelha",
+    "href": "/pt/man-frowning/"
+  },
+  {
+    "nome": "🙍‍♀️Mulher franzindo a sobrancelha",
+    "href": "/pt/woman-frowning/"
+  },
+  {
+    "nome": "🙎Pessoa fazendo bico",
+    "href": "/pt/person-pouting/"
+  },
+  {
+    "nome": "🙎‍♂️Homem fazendo bico",
+    "href": "/pt/man-pouting/"
+  },
+  {
+    "nome": "🙎‍♀️Mulher fazendo bico",
+    "href": "/pt/woman-pouting/"
+  },
+  {
+    "nome": "🙅Pessoa fazendo gesto de “não”",
+    "href": "/pt/person-gesturing-no/"
+  },
+  {
+    "nome": "🙅‍♂️Homem fazendo gesto de “não”",
+    "href": "/pt/man-gesturing-no/"
+  },
+  {
+    "nome": "🙅‍♀️Mulher fazendo gesto de “não”",
+    "href": "/pt/woman-gesturing-no/"
+  },
+  {
+    "nome": "🙆Pessoa fazendo gesto de “OK”",
+    "href": "/pt/person-gesturing-ok/"
+  },
+  {
+    "nome": "🙆‍♂️Homem fazendo gesto de “OK”",
+    "href": "/pt/man-gesturing-ok/"
+  },
+  {
+    "nome": "🙆‍♀️Mulher fazendo gesto de “OK”",
+    "href": "/pt/woman-gesturing-ok/"
+  },
+  {
+    "nome": "💁Pessoa com a palma virada para cima",
+    "href": "/pt/person-tipping-hand/"
+  },
+  {
+    "nome": "💁‍♂️Homem com a palma virada para cima",
+    "href": "/pt/man-tipping-hand/"
+  },
+  {
+    "nome": "💁‍♀️Mulher com a palma virada para cima",
+    "href": "/pt/woman-tipping-hand/"
+  },
+  {
+    "nome": "🙋Pessoa levantando a mão",
+    "href": "/pt/person-raising-hand/"
+  },
+  {
+    "nome": "🙋‍♂️Homem levantando a mão",
+    "href": "/pt/man-raising-hand/"
+  },
+  {
+    "nome": "🙋‍♀️Mulher levantando a mão",
+    "href": "/pt/woman-raising-hand/"
+  },
+  {
+    "nome": "🧏Pessoa surda",
+    "href": "/pt/deaf-person/"
+  },
+  {
+    "nome": "🧏‍♂️Homem surdo",
+    "href": "/pt/deaf-man/"
+  },
+  {
+    "nome": "🧏‍♀️Mulher surda",
+    "href": "/pt/deaf-woman/"
+  },
+  {
+    "nome": "🙇Pessoa fazendo reverência",
+    "href": "/pt/person-bowing/"
+  },
+  {
+    "nome": "🙇‍♂️Homem fazendo reverência",
+    "href": "/pt/man-bowing/"
+  },
+  {
+    "nome": "🙇‍♀️Mulher fazendo reverência",
+    "href": "/pt/woman-bowing/"
+  },
+  {
+    "nome": "🤦Pessoa decepcionada",
+    "href": "/pt/person-facepalming/"
+  },
+  {
+    "nome": "🤦‍♂️Homem decepcionado",
+    "href": "/pt/man-facepalming/"
+  },
+  {
+    "nome": "🤦‍♀️Mulher decepcionada",
+    "href": "/pt/woman-facepalming/"
+  },
+  {
+    "nome": "🤷Pessoa dando de ombros",
+    "href": "/pt/person-shrugging/"
+  },
+  {
+    "nome": "🤷‍♂️Homem dando de ombros",
+    "href": "/pt/man-shrugging/"
+  },
+  {
+    "nome": "🤷‍♀️Mulher dando de ombros",
+    "href": "/pt/woman-shrugging/"
+  },
+  {
+    "nome": "🧑‍⚕️Profissional de saúde",
+    "href": "/pt/health-worker/"
+  },
+  {
+    "nome": "👨‍⚕️Homem profissional da saúde",
+    "href": "/pt/man-health-worker/"
+  },
+  {
+    "nome": "👩‍⚕️Mulher profissional da saúde",
+    "href": "/pt/woman-health-worker/"
+  },
+  {
+    "nome": "🧑‍🎓Aluno",
+    "href": "/pt/student/"
+  },
+  {
+    "nome": "👨‍🎓Estudante",
+    "href": "/pt/man-student/"
+  },
+  {
+    "nome": "👩‍🎓Aluna",
+    "href": "/pt/woman-student/"
+  },
+  {
+    "nome": "🧑‍🏫Professora na escola",
+    "href": "/pt/teacher/"
+  },
+  {
+    "nome": "👨‍🏫Professor",
+    "href": "/pt/man-teacher/"
+  },
+  {
+    "nome": "👩‍🏫Professora",
+    "href": "/pt/woman-teacher/"
+  },
+  {
+    "nome": "🧑‍⚖️Juiz no tribunal",
+    "href": "/pt/judge/"
+  },
+  {
+    "nome": "👨‍⚖️Juiz",
+    "href": "/pt/man-judge/"
+  },
+  {
+    "nome": "👩‍⚖️Juíza",
+    "href": "/pt/woman-judge/"
+  },
+  {
+    "nome": "🧑‍🌾Agricultor",
+    "href": "/pt/farmer/"
+  },
+  {
+    "nome": "👨‍🌾Fazendeiro",
+    "href": "/pt/man-farmer/"
+  },
+  {
+    "nome": "👩‍🌾Fazendeira",
+    "href": "/pt/woman-farmer/"
+  },
+  {
+    "nome": "🧑‍🍳Chef de cozinha",
+    "href": "/pt/cook/"
+  },
+  {
+    "nome": "👨‍🍳Cozinheiro",
+    "href": "/pt/man-cook/"
+  },
+  {
+    "nome": "👩‍🍳Cozinheira",
+    "href": "/pt/woman-cook/"
+  },
+  {
+    "nome": "🧑‍🔧Mecânico trabalhando",
+    "href": "/pt/mechanic/"
+  },
+  {
+    "nome": "👨‍🔧Mecânico",
+    "href": "/pt/man-mechanic/"
+  },
+  {
+    "nome": "👩‍🔧Mecânica",
+    "href": "/pt/woman-mechanic/"
+  },
+  {
+    "nome": "🧑‍🏭Funcionário de fábrica",
+    "href": "/pt/factory-worker/"
+  },
+  {
+    "nome": "👨‍🏭Operário",
+    "href": "/pt/man-factory-worker/"
+  },
+  {
+    "nome": "👩‍🏭Operária",
+    "href": "/pt/woman-factory-worker/"
+  },
+  {
+    "nome": "🧑‍💼Trabalhador de escritório",
+    "href": "/pt/office-worker/"
+  },
+  {
+    "nome": "👨‍💼Funcionário de escritório",
+    "href": "/pt/man-office-worker/"
+  },
+  {
+    "nome": "👩‍💼Funcionária de escritório",
+    "href": "/pt/woman-office-worker/"
+  },
+  {
+    "nome": "🧑‍🔬Cientista",
+    "href": "/pt/scientist/"
+  },
+  {
+    "nome": "👨‍🔬Cientista homem",
+    "href": "/pt/man-scientist/"
+  },
+  {
+    "nome": "👩‍🔬Cientista mulher",
+    "href": "/pt/woman-scientist/"
+  },
+  {
+    "nome": "🧑‍💻Programador",
+    "href": "/pt/technologist/"
+  },
+  {
+    "nome": "👨‍💻Tecnólogo",
+    "href": "/pt/man-technologist/"
+  },
+  {
+    "nome": "👩‍💻Tecnóloga",
+    "href": "/pt/woman-technologist/"
+  },
+  {
+    "nome": "🧑‍🎤Cantor",
+    "href": "/pt/singer/"
+  },
+  {
+    "nome": "👨‍🎤Cantor homem",
+    "href": "/pt/man-singer/"
+  },
+  {
+    "nome": "👩‍🎤Cantora",
+    "href": "/pt/woman-singer/"
+  },
+  {
+    "nome": "🧑‍🎨Artista",
+    "href": "/pt/artist/"
+  },
+  {
+    "nome": "👨‍🎨Artista plástico",
+    "href": "/pt/man-artist/"
+  },
+  {
+    "nome": "👩‍🎨Artista plástica",
+    "href": "/pt/woman-artist/"
+  },
+  {
+    "nome": "🧑‍✈️Piloto",
+    "href": "/pt/pilot/"
+  },
+  {
+    "nome": "👨‍✈️Piloto de avião homem",
+    "href": "/pt/man-pilot/"
+  },
+  {
+    "nome": "👩‍✈️Piloto de avião mulher",
+    "href": "/pt/woman-pilot/"
+  },
+  {
+    "nome": "🧑‍🚀Astronauta",
+    "href": "/pt/astronaut/"
+  },
+  {
+    "nome": "👨‍🚀Astronauta homem",
+    "href": "/pt/man-astronaut/"
+  },
+  {
+    "nome": "👩‍🚀Astronauta mulher",
+    "href": "/pt/woman-astronaut/"
+  },
+  {
+    "nome": "🧑‍🚒Bombeiro",
+    "href": "/pt/firefighter/"
+  },
+  {
+    "nome": "👨‍🚒Bombeiro homem",
+    "href": "/pt/man-firefighter/"
+  },
+  {
+    "nome": "👩‍🚒Bombeira",
+    "href": "/pt/woman-firefighter/"
+  },
+  {
+    "nome": "👮Policial",
+    "href": "/pt/police-officer/"
+  },
+  {
+    "nome": "👮‍♂️Policial homem",
+    "href": "/pt/man-police-officer/"
+  },
+  {
+    "nome": "👮‍♀️Policial mulher",
+    "href": "/pt/woman-police-officer/"
+  },
+  {
+    "nome": "🕵️Detetive",
+    "href": "/pt/detective/"
+  },
+  {
+    "nome": "🕵️‍♂️Detetive homem",
+    "href": "/pt/man-detective/"
+  },
+  {
+    "nome": "🕵️‍♀️Detetive mulher",
+    "href": "/pt/woman-detective/"
+  },
+  {
+    "nome": "💂Guarda",
+    "href": "/pt/guard/"
+  },
+  {
+    "nome": "💂‍♂️Guarda homem",
+    "href": "/pt/man-guard/"
+  },
+  {
+    "nome": "💂‍♀️Guarda mulher",
+    "href": "/pt/woman-guard/"
+  },
+  {
+    "nome": "🥷Ninja",
+    "href": "/pt/ninja/"
+  },
+  {
+    "nome": "👷Trabalhador de construção civil",
+    "href": "/pt/construction-worker/"
+  },
+  {
+    "nome": "👷‍♂️Pedreiro",
+    "href": "/pt/man-construction-worker/"
+  },
+  {
+    "nome": "👷‍♀️Pedreira",
+    "href": "/pt/woman-construction-worker/"
+  },
+  {
+    "nome": "🫅Pessoa com coroa",
+    "href": "/pt/person-with-crown/"
+  },
+  {
+    "nome": "🤴Príncipe",
+    "href": "/pt/prince/"
+  },
+  {
+    "nome": "👸Princesa",
+    "href": "/pt/princess/"
+  },
+  {
+    "nome": "👳Pessoa com turbante",
+    "href": "/pt/person-wearing-turban/"
+  },
+  {
+    "nome": "👳‍♂️Homem com turbante",
+    "href": "/pt/man-wearing-turban/"
+  },
+  {
+    "nome": "👳‍♀️Mulher com turbante",
+    "href": "/pt/woman-wearing-turban/"
+  },
+  {
+    "nome": "👲Homem de boné",
+    "href": "/pt/person-with-skullcap/"
+  },
+  {
+    "nome": "🧕Mulher com véu",
+    "href": "/pt/woman-with-headscarf/"
+  },
+  {
+    "nome": "🤵Pessoa de smoking",
+    "href": "/pt/person-in-tuxedo/"
+  },
+  {
+    "nome": "🤵‍♂️Homem de smoking",
+    "href": "/pt/man-in-tuxedo/"
+  },
+  {
+    "nome": "🤵‍♀️Mulher de smoking",
+    "href": "/pt/woman-in-tuxedo/"
+  },
+  {
+    "nome": "👰Pessoa com véu",
+    "href": "/pt/person-with-veil/"
+  },
+  {
+    "nome": "👰‍♂️Noivo com véu",
+    "href": "/pt/man-with-veil/"
+  },
+  {
+    "nome": "👰‍♀️Noiva com véu",
+    "href": "/pt/woman-with-veil/"
+  },
+  {
+    "nome": "🤰Grávida",
+    "href": "/pt/pregnant-woman/"
+  },
+  {
+    "nome": "🫃Homem grávido",
+    "href": "/pt/pregnant-man/"
+  },
+  {
+    "nome": "🫄Pessoa grávida",
+    "href": "/pt/pregnant-person/"
+  },
+  {
+    "nome": "🤱Amamentando",
+    "href": "/pt/breast-feeding/"
+  },
+  {
+    "nome": "👩‍🍼Mulher alimentando bebê",
+    "href": "/pt/woman-feeding-baby/"
+  },
+  {
+    "nome": "👨‍🍼Homem alimentando bebê",
+    "href": "/pt/man-feeding-baby/"
+  },
+  {
+    "nome": "🧑‍🍼Pessoa alimentando bebê",
+    "href": "/pt/person-feeding-baby/"
+  },
+  {
+    "nome": "👼Bebê anjo",
+    "href": "/pt/baby-angel/"
+  },
+  {
+    "nome": "🎅Papai Noel",
+    "href": "/pt/santa-claus/"
+  },
+  {
+    "nome": "🤶Mamãe Noel",
+    "href": "/pt/mrs-claus/"
+  },
+  {
+    "nome": "🧑‍🎄Noel",
+    "href": "/pt/mx-claus/"
+  },
+  {
+    "nome": "🦸Super-herói",
+    "href": "/pt/superhero/"
+  },
+  {
+    "nome": "🦸‍♂️Homem super-herói",
+    "href": "/pt/man-superhero/"
+  },
+  {
+    "nome": "🦸‍♀️Super-heroína",
+    "href": "/pt/woman-superhero/"
+  },
+  {
+    "nome": "🦹Supervilão",
+    "href": "/pt/supervillain/"
+  },
+  {
+    "nome": "🦹‍♂️Homem supervilão",
+    "href": "/pt/man-supervillain/"
+  },
+  {
+    "nome": "🦹‍♀️Supervilã",
+    "href": "/pt/woman-supervillain/"
+  },
+  {
+    "nome": "🧙Mago",
+    "href": "/pt/mage/"
+  },
+  {
+    "nome": "🧙‍♂️Homem mago",
+    "href": "/pt/man-mage/"
+  },
+  {
+    "nome": "🧙‍♀️Maga",
+    "href": "/pt/woman-mage/"
+  },
+  {
+    "nome": "🧚Fada",
+    "href": "/pt/fairy/"
+  },
+  {
+    "nome": "🧚‍♂️Homem fada",
+    "href": "/pt/man-fairy/"
+  },
+  {
+    "nome": "🧚‍♀️Mulher fada",
+    "href": "/pt/woman-fairy/"
+  },
+  {
+    "nome": "🧛Vampiro",
+    "href": "/pt/vampire/"
+  },
+  {
+    "nome": "🧛‍♂️Homem vampiro",
+    "href": "/pt/man-vampire/"
+  },
+  {
+    "nome": "🧛‍♀️Mulher vampira",
+    "href": "/pt/woman-vampire/"
+  },
+  {
+    "nome": "🧜Pessoa sereia",
+    "href": "/pt/merperson/"
+  },
+  {
+    "nome": "🧜‍♂️Sereio",
+    "href": "/pt/merman/"
+  },
+  {
+    "nome": "🧜‍♀️Sereia",
+    "href": "/pt/mermaid/"
+  },
+  {
+    "nome": "🧝Elfo",
+    "href": "/pt/elf/"
+  },
+  {
+    "nome": "🧝‍♂️Elfo homem",
+    "href": "/pt/man-elf/"
+  },
+  {
+    "nome": "🧝‍♀️Elfa",
+    "href": "/pt/woman-elf/"
+  },
+  {
+    "nome": "🧞Gênio",
+    "href": "/pt/genie/"
+  },
+  {
+    "nome": "🧞‍♂️Homem gênio",
+    "href": "/pt/man-genie/"
+  },
+  {
+    "nome": "🧞‍♀️Mulher gênio",
+    "href": "/pt/woman-genie/"
+  },
+  {
+    "nome": "🧟Zumbi",
+    "href": "/pt/zombie/"
+  },
+  {
+    "nome": "🧟‍♂️Homem zumbi",
+    "href": "/pt/man-zombie/"
+  },
+  {
+    "nome": "🧟‍♀️Mulher zumbi",
+    "href": "/pt/woman-zombie/"
+  },
+  {
+    "nome": "🧌Troll",
+    "href": "/pt/troll/"
+  },
+  {
+    "nome": "💆Pessoa recebendo massagem facial",
+    "href": "/pt/person-getting-massage/"
+  },
+  {
+    "nome": "💆‍♂️Homem recebendo massagem facial",
+    "href": "/pt/man-getting-massage/"
+  },
+  {
+    "nome": "💆‍♀️Mulher recebendo massagem facial",
+    "href": "/pt/woman-getting-massage/"
+  },
+  {
+    "nome": "💇Pessoa cortando o cabelo",
+    "href": "/pt/person-getting-haircut/"
+  },
+  {
+    "nome": "💇‍♂️Homem cortando o cabelo",
+    "href": "/pt/man-getting-haircut/"
+  },
+  {
+    "nome": "💇‍♀️Mulher cortando o cabelo",
+    "href": "/pt/woman-getting-haircut/"
+  },
+  {
+    "nome": "🚶Pessoa andando",
+    "href": "/pt/person-walking/"
+  },
+  {
+    "nome": "🚶‍♂️Homem andando",
+    "href": "/pt/man-walking/"
+  },
+  {
+    "nome": "🚶‍♀️Mulher andando",
+    "href": "/pt/woman-walking/"
+  },
+  {
+    "nome": "🚶‍➡️Pessoa andando de frente para a direita",
+    "href": "/pt/person-walking-facing-right/"
+  },
+  {
+    "nome": "🚶‍♀️‍➡️Mulher andando de frente para a direita",
+    "href": "/pt/woman-walking-facing-right/"
+  },
+  {
+    "nome": "🚶‍♂️‍➡️Homem andando de frente para a direita",
+    "href": "/pt/man-walking-facing-right/"
+  },
+  {
+    "nome": "🧍Pessoa em pé",
+    "href": "/pt/person-standing/"
+  },
+  {
+    "nome": "🧍‍♂️Homem em pé",
+    "href": "/pt/man-standing/"
+  },
+  {
+    "nome": "🧍‍♀️Mulher em pé",
+    "href": "/pt/woman-standing/"
+  },
+  {
+    "nome": "🧎Pessoa ajoelhando",
+    "href": "/pt/person-kneeling/"
+  },
+  {
+    "nome": "🧎‍♂️Homem ajoelhando",
+    "href": "/pt/man-kneeling/"
+  },
+  {
+    "nome": "🧎‍♀️Mulher ajoelhando",
+    "href": "/pt/woman-kneeling/"
+  },
+  {
+    "nome": "🧎‍➡️Pessoa ajoelhando de frente para a direita",
+    "href": "/pt/person-kneeling-facing-right/"
+  },
+  {
+    "nome": "🧎‍♀️‍➡️Mulher ajoelhando de frente para a direita",
+    "href": "/pt/woman-kneeling-facing-right/"
+  },
+  {
+    "nome": "🧎‍♂️‍➡️Homem ajoelhando de frente para a direita",
+    "href": "/pt/man-kneeling-facing-right/"
+  },
+  {
+    "nome": "🧑‍🦯Pessoa com bengala para cego",
+    "href": "/pt/person-with-white-cane/"
+  },
+  {
+    "nome": "🧑‍🦯‍➡️Pessoa com bengala para cego de frente para a direita",
+    "href": "/pt/person-with-white-cane-facing-right/"
+  },
+  {
+    "nome": "👨‍🦯Homem com bengala para cego",
+    "href": "/pt/man-with-white-cane/"
+  },
+  {
+    "nome": "👨‍🦯‍➡️Homem com bengala para cego de frente para a direita",
+    "href": "/pt/man-with-white-cane-facing-right/"
+  },
+  {
+    "nome": "👩‍🦯Mulher com bengala para cego",
+    "href": "/pt/woman-with-white-cane/"
+  },
+  {
+    "nome": "👩‍🦯‍➡️Mulher com bengala para cego de frente para a direita",
+    "href": "/pt/woman-with-white-cane-facing-right/"
+  },
+  {
+    "nome": "🧑‍🦼Pessoa em cadeira de rodas motorizada",
+    "href": "/pt/person-in-motorized-wheelchair/"
+  },
+  {
+    "nome": "🧑‍🦼‍➡️Pessoa em cadeira de rodas motorizada de frente para a direita",
+    "href": "/pt/person-in-motorized-wheelchair-facing-right/"
+  },
+  {
+    "nome": "👨‍🦼Homem em cadeira de rodas motorizada",
+    "href": "/pt/man-in-motorized-wheelchair/"
+  },
+  {
+    "nome": "👨‍🦼‍➡️Homem em cadeira de rodas motorizada de frente para a direita",
+    "href": "/pt/man-in-motorized-wheelchair-facing-right/"
+  },
+  {
+    "nome": "👩‍🦼Mulher em cadeira de rodas motorizada",
+    "href": "/pt/woman-in-motorized-wheelchair/"
+  },
+  {
+    "nome": "👩‍🦼‍➡️Mulher em cadeira de rodas motorizada de frente para a direita",
+    "href": "/pt/woman-in-motorized-wheelchair-facing-right/"
+  },
+  {
+    "nome": "🧑‍🦽Pessoa em cadeira de rodas manual",
+    "href": "/pt/person-in-manual-wheelchair/"
+  },
+  {
+    "nome": "🧑‍🦽‍➡️Pessoa em cadeira de rodas manual de frente para a direita",
+    "href": "/pt/person-in-manual-wheelchair-facing-right/"
+  },
+  {
+    "nome": "👨‍🦽Homem em cadeira de rodas manual",
+    "href": "/pt/man-in-manual-wheelchair/"
+  },
+  {
+    "nome": "👨‍🦽‍➡️Homem em cadeira de rodas manual de frente para a direita",
+    "href": "/pt/man-in-manual-wheelchair-facing-right/"
+  },
+  {
+    "nome": "👩‍🦽Mulher em cadeira de rodas manual",
+    "href": "/pt/woman-in-manual-wheelchair/"
+  },
+  {
+    "nome": "👩‍🦽‍➡️Mulher em cadeira de rodas manual de frente para a direita",
+    "href": "/pt/woman-in-manual-wheelchair-facing-right/"
+  },
+  {
+    "nome": "🏃Pessoa correndo",
+    "href": "/pt/person-running/"
+  },
+  {
+    "nome": "🏃‍♂️Homem correndo",
+    "href": "/pt/man-running/"
+  },
+  {
+    "nome": "🏃‍♀️Mulher correndo",
+    "href": "/pt/woman-running/"
+  },
+  {
+    "nome": "🏃‍➡️Pessoa correndo de frente para a direita",
+    "href": "/pt/person-running-facing-right/"
+  },
+  {
+    "nome": "🏃‍♀️‍➡️Mulher correndo de frente para a direita",
+    "href": "/pt/woman-running-facing-right/"
+  },
+  {
+    "nome": "🏃‍♂️‍➡️Homem correndo de frente para a direita",
+    "href": "/pt/man-running-facing-right/"
+  },
+  {
+    "nome": "💃Mulher dançando",
+    "href": "/pt/woman-dancing/"
+  },
+  {
+    "nome": "🕺Homem dançando",
+    "href": "/pt/man-dancing/"
+  },
+  {
+    "nome": "🕴️Homem de terno levitando",
+    "href": "/pt/person-in-suit-levitating/"
+  },
+  {
+    "nome": "👯Pessoas com orelhas de coelho",
+    "href": "/pt/people-with-bunny-ears/"
+  },
+  {
+    "nome": "👯‍♂️Homens com orelhas de coelho",
+    "href": "/pt/men-with-bunny-ears/"
+  },
+  {
+    "nome": "👯‍♀️Mulheres com orelhas de coelho",
+    "href": "/pt/women-with-bunny-ears/"
+  },
+  {
+    "nome": "🧖Pessoa na sauna",
+    "href": "/pt/person-in-steamy-room/"
+  },
+  {
+    "nome": "🧖‍♂️Homem na sauna",
+    "href": "/pt/man-in-steamy-room/"
+  },
+  {
+    "nome": "🧖‍♀️Mulher na sauna",
+    "href": "/pt/woman-in-steamy-room/"
+  },
+  {
+    "nome": "🧗Pessoa escalando",
+    "href": "/pt/person-climbing/"
+  },
+  {
+    "nome": "🧗‍♂️Homem escalando",
+    "href": "/pt/man-climbing/"
+  },
+  {
+    "nome": "🧗‍♀️Mulher escalando",
+    "href": "/pt/woman-climbing/"
+  },
+  {
+    "nome": "🤺Esgrimista",
+    "href": "/pt/person-fencing/"
+  },
+  {
+    "nome": "🏇Corrida de cavalos",
+    "href": "/pt/horse-racing/"
+  },
+  {
+    "nome": "⛷️Esquiador",
+    "href": "/pt/skier/"
+  },
+  {
+    "nome": "🏂Praticante de snowboard",
+    "href": "/pt/snowboarder/"
+  },
+  {
+    "nome": "🏌️Golfista",
+    "href": "/pt/person-golfing/"
+  },
+  {
+    "nome": "🏌️‍♂️Homem golfista",
+    "href": "/pt/man-golfing/"
+  },
+  {
+    "nome": "🏌️‍♀️Mulher golfista",
+    "href": "/pt/woman-golfing/"
+  },
+  {
+    "nome": "🏄Surfista",
+    "href": "/pt/person-surfing/"
+  },
+  {
+    "nome": "🏄‍♂️Homem surfista",
+    "href": "/pt/man-surfing/"
+  },
+  {
+    "nome": "🏄‍♀️Mulher surfista",
+    "href": "/pt/woman-surfing/"
+  },
+  {
+    "nome": "🚣Pessoa remando",
+    "href": "/pt/person-rowing-boat/"
+  },
+  {
+    "nome": "🚣‍♂️Homem remando",
+    "href": "/pt/man-rowing-boat/"
+  },
+  {
+    "nome": "🚣‍♀️Mulher remando",
+    "href": "/pt/woman-rowing-boat/"
+  },
+  {
+    "nome": "🏊Pessoa nadando",
+    "href": "/pt/person-swimming/"
+  },
+  {
+    "nome": "🏊‍♂️Homem nadando",
+    "href": "/pt/man-swimming/"
+  },
+  {
+    "nome": "🏊‍♀️Mulher nadando",
+    "href": "/pt/woman-swimming/"
+  },
+  {
+    "nome": "⛹️Pessoa jogando basquete",
+    "href": "/pt/person-bouncing-ball/"
+  },
+  {
+    "nome": "⛹️‍♂️Homem jogando basquete",
+    "href": "/pt/man-bouncing-ball/"
+  },
+  {
+    "nome": "⛹️‍♀️Mulher jogando basquete",
+    "href": "/pt/woman-bouncing-ball/"
+  },
+  {
+    "nome": "🏋️Pessoa levantando peso",
+    "href": "/pt/person-lifting-weights/"
+  },
+  {
+    "nome": "🏋️‍♂️Homem levantando peso",
+    "href": "/pt/man-lifting-weights/"
+  },
+  {
+    "nome": "🏋️‍♀️Mulher levantando peso",
+    "href": "/pt/woman-lifting-weights/"
+  },
+  {
+    "nome": "🚴Ciclista",
+    "href": "/pt/person-biking/"
+  },
+  {
+    "nome": "🚴‍♂️Homem ciclista",
+    "href": "/pt/man-biking/"
+  },
+  {
+    "nome": "🚴‍♀️Mulher ciclista",
+    "href": "/pt/woman-biking/"
+  },
+  {
+    "nome": "🚵Pessoa fazendo mountain bike",
+    "href": "/pt/person-mountain-biking/"
+  },
+  {
+    "nome": "🚵‍♂️Homem fazendo mountain bike",
+    "href": "/pt/man-mountain-biking/"
+  },
+  {
+    "nome": "🚵‍♀️Mulher fazendo mountain bike",
+    "href": "/pt/woman-mountain-biking/"
+  },
+  {
+    "nome": "🤸Pessoa fazendo estrela",
+    "href": "/pt/person-cartwheeling/"
+  },
+  {
+    "nome": "🤸‍♂️Homem fazendo estrela",
+    "href": "/pt/man-cartwheeling/"
+  },
+  {
+    "nome": "🤸‍♀️Mulher fazendo estrela",
+    "href": "/pt/woman-cartwheeling/"
+  },
+  {
+    "nome": "🤼Pessoas lutando",
+    "href": "/pt/people-wrestling/"
+  },
+  {
+    "nome": "🤼‍♂️Homens lutando",
+    "href": "/pt/men-wrestling/"
+  },
+  {
+    "nome": "🤼‍♀️Mulheres lutando",
+    "href": "/pt/women-wrestling/"
+  },
+  {
+    "nome": "🤽Pessoa jogando polo aquático",
+    "href": "/pt/person-playing-water-polo/"
+  },
+  {
+    "nome": "🤽‍♂️Homem jogando polo aquático",
+    "href": "/pt/man-playing-water-polo/"
+  },
+  {
+    "nome": "🤽‍♀️Mulher jogando polo aquático",
+    "href": "/pt/woman-playing-water-polo/"
+  },
+  {
+    "nome": "🤾Handebol",
+    "href": "/pt/person-playing-handball/"
+  },
+  {
+    "nome": "🤾‍♂️Jogador de handebol",
+    "href": "/pt/man-playing-handball/"
+  },
+  {
+    "nome": "🤾‍♀️Jogadora de handebol",
+    "href": "/pt/woman-playing-handball/"
+  },
+  {
+    "nome": "🤹Malabarista",
+    "href": "/pt/person-juggling/"
+  },
+  {
+    "nome": "🤹‍♂️Homem malabarista",
+    "href": "/pt/man-juggling/"
+  },
+  {
+    "nome": "🤹‍♀️Mulher malabarista",
+    "href": "/pt/woman-juggling/"
+  },
+  {
+    "nome": "🧘Pessoa na posição de lótus",
+    "href": "/pt/person-in-lotus-position/"
+  },
+  {
+    "nome": "🧘‍♂️Homem na posição de lótus",
+    "href": "/pt/man-in-lotus-position/"
+  },
+  {
+    "nome": "🧘‍♀️Mulher na posição de lótus",
+    "href": "/pt/woman-in-lotus-position/"
+  },
+  {
+    "nome": "🛀Pessoa tomando banho",
+    "href": "/pt/person-taking-bath/"
+  },
+  {
+    "nome": "🛌Pessoa deitada na cama",
+    "href": "/pt/person-in-bed/"
+  },
+  {
+    "nome": "🧑‍🤝‍🧑Pessoas de mãos dadas",
+    "href": "/pt/people-holding-hands/"
+  },
+  {
+    "nome": "👭Duas mulheres de mãos dadas",
+    "href": "/pt/women-holding-hands/"
+  },
+  {
+    "nome": "👫Homem e mulher de mãos dadas",
+    "href": "/pt/woman-and-man-holding-hands/"
+  },
+  {
+    "nome": "👬Dois homens de mãos dadas",
+    "href": "/pt/men-holding-hands/"
+  },
+  {
+    "nome": "💏Beijo",
+    "href": "/pt/kiss/"
+  },
+  {
+    "nome": "👩‍❤️‍💋‍👨Beijo: mulher e homem",
+    "href": "/pt/kiss-woman-man/"
+  },
+  {
+    "nome": "👨‍❤️‍💋‍👨Beijo: homem e homem",
+    "href": "/pt/kiss-man-man/"
+  },
+  {
+    "nome": "👩‍❤️‍💋‍👩Beijo: mulher e mulher",
+    "href": "/pt/kiss-woman-woman/"
+  },
+  {
+    "nome": "💑Casal apaixonado",
+    "href": "/pt/couple-with-heart/"
+  },
+  {
+    "nome": "👩‍❤️‍👨Casal apaixonado: mulher e homem",
+    "href": "/pt/couple-with-heart-woman-man/"
+  },
+  {
+    "nome": "👨‍❤️‍👨Casal apaixonado: homem e homem",
+    "href": "/pt/couple-with-heart-man-man/"
+  },
+  {
+    "nome": "👩‍❤️‍👩Casal apaixonado: mulher e mulher",
+    "href": "/pt/couple-with-heart-woman-woman/"
+  },
+  {
+    "nome": "👨‍👩‍👦Família: homem, mulher e menino",
+    "href": "/pt/family-man-woman-boy/"
+  },
+  {
+    "nome": "👨‍👩‍👧Família: homem, mulher e menina",
+    "href": "/pt/family-man-woman-girl/"
+  },
+  {
+    "nome": "👨‍👩‍👧‍👦Família: homem, mulher, menina e menino",
+    "href": "/pt/family-man-woman-girl-boy/"
+  },
+  {
+    "nome": "👨‍👩‍👦‍👦Família: homem, mulher, menino e menino",
+    "href": "/pt/family-man-woman-boy-boy/"
+  },
+  {
+    "nome": "👨‍👩‍👧‍👧Família: homem, mulher, menina e menina",
+    "href": "/pt/family-man-woman-girl-girl/"
+  },
+  {
+    "nome": "👨‍👦Família: homem e menino",
+    "href": "/pt/family-man-boy/"
+  },
+  {
+    "nome": "👨‍👦‍👦Família: homem, menino e menino",
+    "href": "/pt/family-man-boy-boy/"
+  },
+  {
+    "nome": "👨‍👧Família: homem e menina",
+    "href": "/pt/family-man-girl/"
+  },
+  {
+    "nome": "👨‍👧‍👦Família: homem, menina e menino",
+    "href": "/pt/family-man-girl-boy/"
+  },
+  {
+    "nome": "👨‍👧‍👧Família: homem, menina e menina",
+    "href": "/pt/family-man-girl-girl/"
+  },
+  {
+    "nome": "👩‍👦Família: mulher e menino",
+    "href": "/pt/family-woman-boy/"
+  },
+  {
+    "nome": "👩‍👦‍👦Família: mulher, menino e menino",
+    "href": "/pt/family-woman-boy-boy/"
+  },
+  {
+    "nome": "👩‍👧Família: mulher e menina",
+    "href": "/pt/family-woman-girl/"
+  },
+  {
+    "nome": "👩‍👧‍👦Família: mulher, menina e menino",
+    "href": "/pt/family-woman-girl-boy/"
+  },
+  {
+    "nome": "👩‍👧‍👧Família: mulher, menina e menina",
+    "href": "/pt/family-woman-girl-girl/"
+  },
+  {
+    "nome": "🗣️Silhueta falando",
+    "href": "/pt/speaking-head/"
+  },
+  {
+    "nome": "👤Silhueta de busto",
+    "href": "/pt/bust-in-silhouette/"
+  },
+  {
+    "nome": "👥Silhueta de bustos",
+    "href": "/pt/busts-in-silhouette/"
+  },
+  {
+    "nome": "🫂Pessoas se abraçando",
+    "href": "/pt/people-hugging/"
+  },
+  {
+    "nome": "👪Família",
+    "href": "/pt/family/"
+  },
+  {
+    "nome": "👣Pegadas",
+    "href": "/pt/footprints/"
+  },
+  {
+    "nome": "🦰Cabelo vermelho",
+    "href": "/pt/red-hair/"
+  },
+  {
+    "nome": "🦱Cabelo cacheado",
+    "href": "/pt/curly-hair/"
+  },
+  {
+    "nome": "🦳Cabelo branco",
+    "href": "/pt/white-hair/"
+  },
+  {
+    "nome": "🦲Careca",
+    "href": "/pt/bald/"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "😂Rosto chorando de rir",
+    "href": "/pt/face-with-tears-of-joy/"
+  },
+  {
+    "nome": "🥰Rosto sorridente com 3 corações",
+    "href": "/pt/smiling-face-with-hearts/"
+  },
+  {
+    "nome": "🥲Rosto sorridente com lágrima",
+    "href": "/pt/smiling-face-with-tear/"
+  },
+  {
+    "nome": "🥺Rosto implorando",
+    "href": "/pt/pleading-face/"
+  },
+  {
+    "nome": "❤️‍🔥Coração em chamas",
+    "href": "/pt/heart-on-fire/"
+  },
+  {
+    "nome": "❤️Coração vermelho",
+    "href": "/pt/red-heart/"
+  },
+  {
+    "nome": "👍Polegar para cima",
+    "href": "/pt/thumbs-up/"
+  },
+  {
+    "nome": "🔥Fogo",
+    "href": "/pt/fire/"
+  },
+  {
+    "nome": "🇺🇦Bandeira: Ucrânia",
+    "href": "/pt/flag-ukraine/"
+  },
+  {
+    "nome": "🎉 Tema",
+    "href": "/pt/theme/"
+  },
+  {
+    "nome": "❤️️Ame",
+    "href": "/pt/theme/love/"
+  },
+  {
+    "nome": "😄Amigos",
+    "href": "/pt/theme/friends-sitcom/"
+  },
+  {
+    "nome": "🎂Aniversário",
+    "href": "/pt/theme/birthday/"
+  },
+  {
+    "nome": "👑Aniversário Da Rainha",
+    "href": "/pt/theme/queens-birthday/"
+  },
+  {
+    "nome": "🦃Ação De Graças",
+    "href": "/pt/theme/thanksgiving/"
+  },
+  {
+    "nome": "🦁Biologia",
+    "href": "/pt/theme/biology/"
+  },
+  {
+    "nome": "✊🏿Black Lives Matter",
+    "href": "/pt/theme/black-lives-matter/"
+  },
+  {
+    "nome": "☢️Cair",
+    "href": "/pt/theme/fallout/"
+  },
+  {
+    "nome": "🇧🇷Carnaval",
+    "href": "/pt/theme/carnaval/"
+  },
+  {
+    "nome": "🚗Carros",
+    "href": "/pt/theme/cars-movie/"
+  },
+  {
+    "nome": "👰Casamento / Casamento",
+    "href": "/pt/theme/wedding-marriage/"
+  },
+  {
+    "nome": "🎰Cassino",
+    "href": "/pt/theme/casino/"
+  },
+  {
+    "nome": "🌧Clima",
+    "href": "/pt/theme/weather/"
+  },
+  {
+    "nome": "⚽Copa Do Mundo",
+    "href": "/pt/theme/world-cup/"
+  },
+  {
+    "nome": "💕Corações",
+    "href": "/pt/theme/hearts/"
+  },
+  {
+    "nome": "🦠Coronavírus",
+    "href": "/pt/theme/coronavirus/"
+  },
+  {
+    "nome": "🏎Corridas",
+    "href": "/pt/theme/racing/"
+  },
+  {
+    "nome": "👱Dia Internacional Do Homem",
+    "href": "/pt/theme/international-mens-day/"
+  },
+  {
+    "nome": "📩Dia Internacional Sem Internet",
+    "href": "/pt/theme/international-internet-free-day/"
+  },
+  {
+    "nome": "🥤Dia Mundial Da Sobriedade E Controle Do Álcool",
+    "href": "/pt/theme/world-day-of-sobriety-and-alcohol-control/"
+  },
+  {
+    "nome": "🌎Dia Mundial Do Emoji",
+    "href": "/pt/theme/world-emoji-day/"
+  },
+  {
+    "nome": "🇦🇺Dia Da Austrália",
+    "href": "/pt/theme/australia-day/"
+  },
+  {
+    "nome": "🇺🇸Dia Da Independência",
+    "href": "/pt/theme/independence-day/"
+  },
+  {
+    "nome": "🙆‍♂️Dia Da Mentira",
+    "href": "/pt/theme/april-fools-day/"
+  },
+  {
+    "nome": "🗺️Dia Da Terra",
+    "href": "/pt/theme/earth-day/"
+  },
+  {
+    "nome": "🚴Dia Da Bicicleta",
+    "href": "/pt/theme/bicycle-day/"
+  },
+  {
+    "nome": "🤱Dia Das Mães",
+    "href": "/pt/theme/mothers-day/"
+  },
+  {
+    "nome": "⛵️Dia De Colombo",
+    "href": "/pt/theme/columbus-day/"
+  },
+  {
+    "nome": "☘️Dia De São Patricio",
+    "href": "/pt/theme/st-patricks-day/"
+  },
+  {
+    "nome": "🚬Dia De Não Fumadores",
+    "href": "/pt/theme/no-smoking-day/"
+  },
+  {
+    "nome": "🇨🇦Dia Do Canadá",
+    "href": "/pt/theme/canada-day/"
+  },
+  {
+    "nome": "⚒️Dia Do Trabalho",
+    "href": "/pt/theme/labour-day/"
+  },
+  {
+    "nome": "👨Dia Dos Pais",
+    "href": "/pt/theme/fathers-day/"
+  },
+  {
+    "nome": "💘Dia Dos Namorados",
+    "href": "/pt/theme/valentines-day/"
+  },
+  {
+    "nome": "👩Dia Internacional Da Mulher",
+    "href": "/pt/theme/international-womens-day/"
+  },
+  {
+    "nome": "🕯Diwali",
+    "href": "/pt/theme/diwali/"
+  },
+  {
+    "nome": "🎥Emoji Movie",
+    "href": "/pt/theme/emoji-movie/"
+  },
+  {
+    "nome": "👽Espaço",
+    "href": "/pt/theme/space/"
+  },
+  {
+    "nome": "🤓Faculdade",
+    "href": "/pt/theme/college/"
+  },
+  {
+    "nome": "🎉Festa",
+    "href": "/pt/theme/party/"
+  },
+  {
+    "nome": "🇨🇳Festival Do Barco-Dragão",
+    "href": "/pt/theme/dragon-boat-festival/"
+  },
+  {
+    "nome": "💪Festivus",
+    "href": "/pt/theme/festivus/"
+  },
+  {
+    "nome": "🎬Filme",
+    "href": "/pt/theme/movie/"
+  },
+  {
+    "nome": "📙Filosofia",
+    "href": "/pt/theme/philosophy/"
+  },
+  {
+    "nome": "🌠Física",
+    "href": "/pt/theme/physics/"
+  },
+  {
+    "nome": "🏃Gta",
+    "href": "/pt/theme/gta/"
+  },
+  {
+    "nome": "🌈Gay",
+    "href": "/pt/theme/gay/"
+  },
+  {
+    "nome": "🗺Geografia",
+    "href": "/pt/theme/geography/"
+  },
+  {
+    "nome": "🎓Graduação",
+    "href": "/pt/theme/graduation/"
+  },
+  {
+    "nome": "🌌Guerra Das Estrelas",
+    "href": "/pt/theme/star-wars/"
+  },
+  {
+    "nome": "❄️Guerra Dos Tronos",
+    "href": "/pt/theme/game-of-thrones/"
+  },
+  {
+    "nome": "🔥Guy Fawkes",
+    "href": "/pt/theme/guy-fawkes/"
+  },
+  {
+    "nome": "🕎Hanukkah",
+    "href": "/pt/theme/hanukkah/"
+  },
+  {
+    "nome": "🧙Harry Potter",
+    "href": "/pt/theme/harry-potter/"
+  },
+  {
+    "nome": "📖História",
+    "href": "/pt/theme/history/"
+  },
+  {
+    "nome": "🕉Holi",
+    "href": "/pt/theme/holi/"
+  },
+  {
+    "nome": "⛄Inverno",
+    "href": "/pt/theme/winter/"
+  },
+  {
+    "nome": "🤵James Bond",
+    "href": "/pt/theme/james-bond/"
+  },
+  {
+    "nome": "🏊Jogos Olímpicos",
+    "href": "/pt/theme/olympics/"
+  },
+  {
+    "nome": "🖖Jornada Nas Estrelas",
+    "href": "/pt/theme/star-trek/"
+  },
+  {
+    "nome": "📜Lei",
+    "href": "/pt/theme/law/"
+  },
+  {
+    "nome": "➗Matemática",
+    "href": "/pt/theme/math/"
+  },
+  {
+    "nome": "🕴️Matriz",
+    "href": "/pt/theme/matrix/"
+  },
+  {
+    "nome": "🧘Meditação",
+    "href": "/pt/theme/meditation/"
+  },
+  {
+    "nome": "🧱Minecraft",
+    "href": "/pt/theme/minecraft/"
+  },
+  {
+    "nome": "💪Motivação",
+    "href": "/pt/theme/motivation/"
+  },
+  {
+    "nome": "🎅Natal",
+    "href": "/pt/theme/christmas/"
+  },
+  {
+    "nome": "🎿Olimpíadas De Inverno",
+    "href": "/pt/theme/winter-olympics/"
+  },
+  {
+    "nome": "🏳️‍🌈Orgulho / Lgbtq+",
+    "href": "/pt/theme/pride/"
+  },
+  {
+    "nome": "🍂Outono",
+    "href": "/pt/theme/fall-autumn/"
+  },
+  {
+    "nome": "🌱Primavera",
+    "href": "/pt/theme/spring/"
+  },
+  {
+    "nome": "🐰Páscoa",
+    "href": "/pt/theme/easter/"
+  },
+  {
+    "nome": "🌿Quatro Vinte / 420",
+    "href": "/pt/theme/420/"
+  },
+  {
+    "nome": "☪️Ramadã",
+    "href": "/pt/theme/ramadan/"
+  },
+  {
+    "nome": "⛪️Religião",
+    "href": "/pt/theme/religion/"
+  },
+  {
+    "nome": "💊Saúde",
+    "href": "/pt/theme/health/"
+  },
+  {
+    "nome": "💏Sexo",
+    "href": "/pt/theme/sex/"
+  },
+  {
+    "nome": "🛍Sexta-Feira Preta",
+    "href": "/pt/theme/black-friday/"
+  },
+  {
+    "nome": "🕵️Sherlock",
+    "href": "/pt/theme/sherlock/"
+  },
+  {
+    "nome": "🏈Super Bowl",
+    "href": "/pt/theme/super-bowl/"
+  },
+  {
+    "nome": "🏡Trabalhar Em Casa",
+    "href": "/pt/theme/working-from-home/"
+  },
+  {
+    "nome": "☀️Verão",
+    "href": "/pt/theme/summer/"
+  },
+  {
+    "nome": "🎊Véspera De Ano Novo",
+    "href": "/pt/theme/new-years-eve/"
+  },
+  {
+    "nome": "🐉Ano Novo Chinês",
+    "href": "/pt/theme/chinese-new-year/"
+  },
+  {
+    "nome": "🇲🇽Cinco De Maio",
+    "href": "/pt/theme/cinco-de-mayo/"
+  },
+  {
+    "nome": "🇫🇷Dia Da Bastilha",
+    "href": "/pt/theme/bastille-day/"
+  },
+  {
+    "nome": "🎃Dia Das Bruxas",
+    "href": "/pt/theme/halloween/"
+  },
+  {
+    "nome": "💦Água",
+    "href": "/pt/theme/water/"
+  },
+  {
+    "nome": "Apple",
+    "href": "/pt/apple/"
+  },
+  {
+    "nome": "Google",
+    "href": "/pt/google/"
+  },
+  {
+    "nome": "Facebook",
+    "href": "/pt/facebook/"
+  },
+  {
+    "nome": "Twitter",
+    "href": "/pt/twitter/"
+  },
+  {
+    "nome": "Samsung",
+    "href": "/pt/samsung/"
+  },
+  {
+    "nome": "Microsoft",
+    "href": "/pt/microsoft/"
+  },
+  {
+    "nome": "Whatsapp",
+    "href": "/pt/whatsapp/"
+  },
+  {
+    "nome": "Messenger",
+    "href": "/pt/messenger/"
+  },
+  {
+    "nome": "Joypixels",
+    "href": "/pt/joypixels/"
+  },
+  {
+    "nome": "Openmoji",
+    "href": "/pt/openmoji/"
+  },
+  {
+    "nome": "Emojidex",
+    "href": "/pt/emojidex/"
+  },
+  {
+    "nome": "Htc",
+    "href": "/pt/htc/"
+  },
+  {
+    "nome": "Lg",
+    "href": "/pt/lg/"
+  },
+  {
+    "nome": "Mozilla",
+    "href": "/pt/mozilla/"
+  },
+  {
+    "nome": "Softbank",
+    "href": "/pt/softbank/"
+  },
+  {
+    "nome": "Au-Kddi",
+    "href": "/pt/au-kddi/"
+  },
+  {
+    "nome": "Docomo",
+    "href": "/pt/docomo/"
+  },
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/emojigraph/"
+  },
+  {
+    "nome": "Emojipedia",
+    "href": "/pt/emojipedia/"
+  },
+  {
+    "nome": "Emoji 1.0",
+    "href": "/pt/emoji-1.0/"
+  },
+  {
+    "nome": "Emoji 2.0",
+    "href": "/pt/emoji-2.0/"
+  },
+  {
+    "nome": "Emoji 3.0",
+    "href": "/pt/emoji-3.0/"
+  },
+  {
+    "nome": "Emoji 4.0",
+    "href": "/pt/emoji-4.0/"
+  },
+  {
+    "nome": "Emoji 5.0",
+    "href": "/pt/emoji-5.0/"
+  },
+  {
+    "nome": "Emoji 11.0",
+    "href": "/pt/emoji-11.0/"
+  },
+  {
+    "nome": "Emoji 12.0",
+    "href": "/pt/emoji-12.0/"
+  },
+  {
+    "nome": "Emoji 12.1",
+    "href": "/pt/emoji-12.1/"
+  },
+  {
+    "nome": "Emoji 13.0",
+    "href": "/pt/emoji-13.0/"
+  },
+  {
+    "nome": "Emoji 13.1",
+    "href": "/pt/emoji-13.1/"
+  },
+  {
+    "nome": "Emoji 14.0",
+    "href": "/pt/emoji-14.0/"
+  },
+  {
+    "nome": "Emoji 15.0",
+    "href": "/pt/emoji-15.0/"
+  },
+  {
+    "nome": "Emoji 15.1",
+    "href": "/pt/emoji-15.1/"
+  },
+  {
+    "nome": "Emoji 16.0",
+    "href": "/pt/emoji-16.0/"
+  },
+  {
+    "nome": "Política de Privacidade",
+    "href": "/pt/privacy-policy/"
+  }
+]

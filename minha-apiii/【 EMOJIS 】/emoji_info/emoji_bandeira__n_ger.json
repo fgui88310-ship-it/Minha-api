@@ -1,0 +1,59 @@
+{
+  "emoji": "🇳🇪",
+  "nome": "🇳🇪 Bandeira: Níger",
+  "categoria": "flag niger",
+  "url": "https://emojigraph.org/pt/flag-niger/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Níger. Este símbolo é uma seqüência de caracteres 🇳 Símbolo Indicador Regional Letra N e 🇪 Símbolo Indicador Regional Letra E. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras NE em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-niger_1f1f3-1f1ea.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-niger_1f1f3-1f1ea.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-niger_1f1f3-1f1ea.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-niger_1f1f3-1f1ea.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-niger_1f1f3-1f1ea.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-niger_1f1f3-1f1ea.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-niger_1f1f3-1f1ea.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-niger_1f1f3-1f1ea.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F3;&#x1F1EA;",
+      "HTML dec": "&#127475;&#127466;",
+      "URL escape code": "%F0%9F%87%B3%F0%9F%87%AA",
+      "Punycode": "xn--i77hra",
+      "Bytes (UTF-8)": "F0 9F 87 B3 F0 9F 87 AA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF3\\uD83C\\uDDEA",
+      "C, C++, Python": "\\U0001f1f3\\U0001f1ea",
+      "CSS": "\\01F1F3 \\01F1EA",
+      "PHP, Ruby": "\\u{1F1F3}\\u{1F1EA}",
+      "Perl": "\\x{1F1F3}\\x{1F1EA}"
+    }
+  }
+}

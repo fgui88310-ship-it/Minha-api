@@ -1,0 +1,94 @@
+{
+  "emoji": "👜",
+  "nome": "👜 Bolsa de mão",
+  "categoria": "Handbag",
+  "url": "https://emojigraph.org/pt/handbag/",
+  "detalhes": {
+    "explicacao": "Uma bolsa de mão, usado predominantemente pelas mulheres, para levar artigos de uso pessoal e/ou como um acessório de moda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/handbag_1f45c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/handbag_1f45c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "bolsa",
+      "bolsa de mão",
+      "fashion"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F45C;",
+      "HTML dec": "&#128092;",
+      "URL escape code": "%F0%9F%91%9C",
+      "Punycode": "xn--eq8h",
+      "Bytes (UTF-8)": "F0 9F 91 9C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC5C",
+      "C, C++, Python": "\\U0001f45c",
+      "CSS": "\\01F45C",
+      "PHP, Ruby": "\\u{1F45C}",
+      "Perl": "\\x{1F45C}"
+    }
+  }
+}

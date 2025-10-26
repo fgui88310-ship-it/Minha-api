@@ -1,0 +1,92 @@
+{
+  "emoji": "🏭",
+  "nome": "🏭 Fábrica",
+  "categoria": "Factory",
+  "url": "https://emojigraph.org/pt/factory/",
+  "detalhes": {
+    "explicacao": "Uma fábrica industrial, com gás de combustão pilhas de liberação de escape para o ar.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/factory_1f3ed.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/factory_1f3ed.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fábrica",
+      "prédio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3ED;",
+      "HTML dec": "&#127981;",
+      "URL escape code": "%F0%9F%8F%AD",
+      "Punycode": "xn--7m8h",
+      "Bytes (UTF-8)": "F0 9F 8F AD",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFED",
+      "C, C++, Python": "\\U0001f3ed",
+      "CSS": "\\01F3ED",
+      "PHP, Ruby": "\\u{1F3ED}",
+      "Perl": "\\x{1F3ED}"
+    }
+  }
+}

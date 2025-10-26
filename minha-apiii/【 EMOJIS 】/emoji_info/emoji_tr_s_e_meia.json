@@ -1,0 +1,86 @@
+{
+  "emoji": "🕞",
+  "nome": "🕞 Três e meia",
+  "categoria": "three thirty",
+  "url": "https://emojigraph.org/pt/three-thirty/",
+  "detalhes": {
+    "explicacao": "Três-Trinta foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Três a Trinta\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/three-thirty_1f55e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/three-thirty_1f55e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "3h30",
+      "relógio",
+      "três e meia",
+      "3:30"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F55E;",
+      "HTML dec": "&#128350;",
+      "URL escape code": "%F0%9F%95%9E",
+      "Punycode": "xn--rx8h",
+      "Bytes (UTF-8)": "F0 9F 95 9E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD5E",
+      "C, C++, Python": "\\U0001f55e",
+      "CSS": "\\01F55E",
+      "PHP, Ruby": "\\u{1F55E}",
+      "Perl": "\\x{1F55E}"
+    }
+  }
+}

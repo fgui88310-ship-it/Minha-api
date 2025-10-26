@@ -1,0 +1,79 @@
+{
+  "emoji": "🫣",
+  "nome": "🫣 Rosto com olho espiando",
+  "categoria": "face with peeking eye",
+  "url": "https://emojigraph.org/pt/face-with-peeking-eye/",
+  "detalhes": {
+    "explicacao": "Um emoji de rosto amarelo com as mãos cobrindo os olhos, com um ou ambos os olhos espreitando por um espaço entre os dedos. Não deve ser confundido com o 🙈 Macaco que não vê nada onde os olhos estão completamente cobertos.\nRosto com olho espiando usado quando as pessoas querem saber o que está acontecendo, mesmo quando\neles sabem que não deveriam estar olhando.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-peeking-eye_1fae3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-peeking-eye_1fae3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-peeking-eye_1fae3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-peeking-eye_1fae3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-peeking-eye_1fae3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-peeking-eye_1fae3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-peeking-eye_1fae3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-peeking-eye_1fae3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-peeking-eye_1fae3.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/face-with-peeking-eye_1fae3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cativado",
+      "espiar",
+      "olhar fixamente",
+      "cativada",
+      "envergonhada",
+      "envergonhado",
+      "esconder",
+      "espiadinha",
+      "espiando",
+      "smiley",
+      "tímida",
+      "tímido",
+      "vergonha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAE3;",
+      "HTML dec": "&#129763;",
+      "URL escape code": "%F0%9F%AB%A3",
+      "Punycode": "xn--429h",
+      "Bytes (UTF-8)": "f0 9f ab a3",
+      "JavaScript, JSON, Java": "\\ud83e\\udee3",
+      "C, C++, Python": "\\U0001fae3",
+      "CSS": "\\01FAE3",
+      "PHP, Ruby": "\\u{1FAE3}",
+      "Perl": "\\x{1FAE3}"
+    }
+  }
+}

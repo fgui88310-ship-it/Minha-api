@@ -1,0 +1,67 @@
+{
+  "emoji": "🇳🇵",
+  "nome": "🇳🇵 Bandeira: Nepal",
+  "categoria": "flag nepal",
+  "url": "https://emojigraph.org/pt/flag-nepal/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Nepal. Este símbolo é uma seqüência de caracteres 🇳 Símbolo Indicador Regional Letra N e 🇵 Símbolo Indicador Regional Letra P. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras NP em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-nepal_1f1f3-1f1f5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-nepal_1f1f3-1f1f5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-nepal_1f1f3-1f1f5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-nepal_1f1f3-1f1f5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-nepal_1f1f3-1f1f5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-nepal_1f1f3-1f1f5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-nepal_1f1f3-1f1f5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-nepal_1f1f3-1f1f5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-nepal_1f1f3-1f1f5.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-nepal_1f1f3-1f1f5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F3;&#x1F1F5;",
+      "HTML dec": "&#127475;&#127477;",
+      "URL escape code": "%F0%9F%87%B3%F0%9F%87%B5",
+      "Punycode": "xn--r77hea",
+      "Bytes (UTF-8)": "F0 9F 87 B3 F0 9F 87 B5",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF3\\uD83C\\uDDF5",
+      "C, C++, Python": "\\U0001f1f3\\U0001f1f5",
+      "CSS": "\\01F1F3 \\01F1F5",
+      "PHP, Ruby": "\\u{1F1F3}\\u{1F1F5}",
+      "Perl": "\\x{1F1F3}\\x{1F1F5}"
+    }
+  }
+}

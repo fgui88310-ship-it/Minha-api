@@ -1,0 +1,96 @@
+{
+  "emoji": "🙀",
+  "nome": "🙀 Rosto de gato desolado",
+  "categoria": "weary cat",
+  "url": "https://emojigraph.org/pt/weary-cat/",
+  "detalhes": {
+    "explicacao": "Um gato dos desenhos animados variante de 😩 Cansado Rosto. Sua expressão se assemelha mais a 😱 Cara Gritando de Medo. Descrito como amarelo nas principais plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/weary-cat_1f640.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/weary-cat_1f640.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gato",
+      "muito surpreso",
+      "oh!",
+      "rosto",
+      "meu deus!",
+      "surpresa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F640;",
+      "HTML dec": "&#128576;",
+      "URL escape code": "%F0%9F%99%80",
+      "Punycode": "xn--738h",
+      "Bytes (UTF-8)": "F0 9F 99 80",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE40",
+      "C, C++, Python": "\\U0001f640",
+      "CSS": "\\01F640",
+      "PHP, Ruby": "\\u{1F640}",
+      "Perl": "\\x{1F640}"
+    }
+  }
+}

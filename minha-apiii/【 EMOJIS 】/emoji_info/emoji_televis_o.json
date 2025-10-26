@@ -1,0 +1,95 @@
+{
+  "emoji": "📺",
+  "nome": "📺 Televisão",
+  "categoria": "television",
+  "url": "https://emojigraph.org/pt/television/",
+  "detalhes": {
+    "explicacao": "Um clássico da tv, como pessoas assistiram antes da transmissão em telas planas. Representado em várias cores e estilos, com uma tela, botões de controle e, em muitas plataformas, antenas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/television_1f4fa.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/television_1f4fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "televisão",
+      "TV",
+      "vídeo",
+      "canal de tv",
+      "video"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4FA;",
+      "HTML dec": "&#128250;",
+      "URL escape code": "%F0%9F%93%BA",
+      "Punycode": "xn--wu8h",
+      "Bytes (UTF-8)": "F0 9F 93 BA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCFA",
+      "C, C++, Python": "\\U0001f4fa",
+      "CSS": "\\01F4FA",
+      "PHP, Ruby": "\\u{1F4FA}",
+      "Perl": "\\x{1F4FA}"
+    }
+  }
+}

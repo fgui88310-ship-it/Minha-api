@@ -1,0 +1,85 @@
+{
+  "emoji": "🐄",
+  "nome": "🐄 Vaca",
+  "categoria": "Cow",
+  "url": "https://emojigraph.org/pt/cow/",
+  "detalhes": {
+    "explicacao": "Uma vaca, um bovino cultivado por sua carne ou leite. Retratado no perfil completo e todas as quatro patas viradas para a esquerda, de cor malhada (como um Holstein Frísia) e, em muitas plataformas, um úbere cor-de-rosa e chifres.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cow_1f404.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cow_1f404.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cow_1f404.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cow_1f404.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cow_1f404.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cow_1f404.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cow_1f404.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cow_1f404.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cow_1f404.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cow_1f404.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cow_1f404.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cow_1f404.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cow_1f404.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cow_1f404.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "vaca",
+      "fazenda"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F404;",
+      "HTML dec": "&#128004;",
+      "URL escape code": "%F0%9F%90%84",
+      "Punycode": "xn--vn8h",
+      "Bytes (UTF-8)": "F0 9F 90 84",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC04",
+      "C, C++, Python": "\\U0001f404",
+      "CSS": "\\01F404",
+      "PHP, Ruby": "\\u{1F404}",
+      "Perl": "\\x{1F404}"
+    }
+  }
+}

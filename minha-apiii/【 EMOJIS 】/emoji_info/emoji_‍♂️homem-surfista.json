@@ -1,0 +1,61 @@
+{
+  "emoji": "🏄",
+  "nome": "🏄‍♂️ Homem surfista",
+  "categoria": "Man Surfing",
+  "url": "https://emojigraph.org/pt/man-surfing/",
+  "detalhes": {
+    "explicacao": "A versão masculina do 🏄 Surfista emoji. Atualmente idêntico em aparência a não-gênero da base de dados de emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-surfing_1f3c4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-surfing_1f3c4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-surfing_1f3c4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-surfing_1f3c4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-surfing_1f3c4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-surfing_1f3c4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-surfing_1f3c4-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-surfing_1f3c4-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "homem",
+      "homem surfista",
+      "surfando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3C4;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#127940;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%8F%84%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h1099n",
+      "Bytes (UTF-8)": "F0 9F 8F 84 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFC4\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f3c4\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F3C4 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F3C4}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F3C4}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "emoji": "🙆",
+  "nome": "🙆‍♂️ Homem fazendo gesto de “OK”",
+  "categoria": "man gesturing ok",
+  "url": "https://emojigraph.org/pt/man-gesturing-ok/",
+  "detalhes": {
+    "explicacao": "A versão masculina do 🙆 Cara Com OK Gesto emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-gesturing-ok_1f646-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-gesturing-ok_1f646-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-gesturing-ok_1f646-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-gesturing-ok_1f646-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-gesturing-ok_1f646-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-gesturing-ok_1f646-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-gesturing-ok_1f646-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-gesturing-ok_1f646-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-gesturing-ok_1f646-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-gesturing-ok_1f646-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gesto",
+      "homem",
+      "mão",
+      "OK"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F646;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#128582;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%99%86%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5hx280o",
+      "Bytes (UTF-8)": "F0 9F 99 86 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE46\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f646\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F646 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F646}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F646}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

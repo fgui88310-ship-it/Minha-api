@@ -1,0 +1,59 @@
+{
+  "emoji": "🇻🇪",
+  "nome": "🇻🇪 Bandeira: Venezuela",
+  "categoria": "flag venezuela",
+  "url": "https://emojigraph.org/pt/flag-venezuela/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Venezuela. Este símbolo é uma seqüência de caracteres 🇻 Símbolo Indicador Regional Letra V e 🇪 Símbolo Indicador Regional Letra E. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras VE em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-venezuela_1f1fb-1f1ea.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-venezuela_1f1fb-1f1ea.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-venezuela_1f1fb-1f1ea.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-venezuela_1f1fb-1f1ea.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-venezuela_1f1fb-1f1ea.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-venezuela_1f1fb-1f1ea.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-venezuela_1f1fb-1f1ea.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-venezuela_1f1fb-1f1ea.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FB;&#x1F1EA;",
+      "HTML dec": "&#127483;&#127466;",
+      "URL escape code": "%F0%9F%87%BB%F0%9F%87%AA",
+      "Punycode": "xn--i77h7a",
+      "Bytes (UTF-8)": "F0 9F 87 BB F0 9F 87 AA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFB\\uD83C\\uDDEA",
+      "C, C++, Python": "\\U0001f1fb\\U0001f1ea",
+      "CSS": "\\01F1FB \\01F1EA",
+      "PHP, Ruby": "\\u{1F1FB}\\u{1F1EA}",
+      "Perl": "\\x{1F1FB}\\x{1F1EA}"
+    }
+  }
+}

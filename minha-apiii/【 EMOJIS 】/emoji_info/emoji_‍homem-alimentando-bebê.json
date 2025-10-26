@@ -1,0 +1,70 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🍼 Homem alimentando bebê",
+  "categoria": "Man Feeding Baby",
+  "url": "https://emojigraph.org/pt/man-feeding-baby/",
+  "detalhes": {
+    "explicacao": "Um homem mostrado a alimentação de um bebê com uma garrafa, às vezes olhando para o bebê e sorrindo. Alternativas estão disponíveis para 🧑🍼 Pessoa alimenta o Bebê e 👩🍼 Mulher alimenta o Bebê.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-feeding-baby_1f468-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-feeding-baby_1f468-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-feeding-baby_1f468-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-feeding-baby_1f468-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-feeding-baby_1f468-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-feeding-baby_1f468-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-feeding-baby_1f468-200d-1f37c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-feeding-baby_1f468-200d-1f37c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alimentando",
+      "bebê",
+      "homem",
+      "neném",
+      "amamentação",
+      "amamentando",
+      "amor",
+      "pai",
+      "papai",
+      "pessoa",
+      "recém nascido",
+      "recém-nascido"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F37C;",
+      "HTML dec": "&#128104;&#8205;&#127868;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%8D%BC",
+      "Punycode": "xn--zj8hxo",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 8D BC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83C\\uDF7C",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f37c",
+      "CSS": "\\01F468 \\200D \\01F37C",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F37C}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F37C}"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "emoji": "📜",
+  "nome": "📜 Pergaminho",
+  "categoria": "Scroll",
+  "url": "https://emojigraph.org/pt/scroll/",
+  "detalhes": {
+    "explicacao": "Um antigo pergaminho, que conduzia para revelar o texto em papiro ou pergaminho de papel. Pode ser usado para representar o estudo de história e de documentos oficiais, tais como um diploma.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/scroll_1f4dc.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/scroll_1f4dc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pergaminho",
+      "rolo de papel"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4DC;",
+      "HTML dec": "&#128220;",
+      "URL escape code": "%F0%9F%93%9C",
+      "Punycode": "xn--1t8h",
+      "Bytes (UTF-8)": "F0 9F 93 9C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCDC",
+      "C, C++, Python": "\\U0001f4dc",
+      "CSS": "\\01F4DC",
+      "PHP, Ruby": "\\u{1F4DC}",
+      "Perl": "\\x{1F4DC}"
+    }
+  }
+}

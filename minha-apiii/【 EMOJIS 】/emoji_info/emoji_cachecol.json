@@ -1,0 +1,69 @@
+{
+  "emoji": "🧣",
+  "nome": "🧣 Cachecol",
+  "categoria": "Scarf",
+  "url": "https://emojigraph.org/pt/scarf/",
+  "detalhes": {
+    "explicacao": "Imagem de um lenço dobrado em várias cores, dependendo da plataforma. Usado em clima frio, o emoji é frequentemente usado para indicar locais frios e clima frio. Lenço foi aprovado como parte do Unicode 10.0 em 2017e acrescentou para o Emoji 5.0 em 2017.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/scarf_1f9e3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/scarf_1f9e3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/scarf_1f9e3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/scarf_1f9e3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/scarf_1f9e3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/scarf_1f9e3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/scarf_1f9e3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/scarf_1f9e3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/scarf_1f9e3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/scarf_1f9e3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cachecol",
+      "inverno",
+      "pescoço"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9E3;",
+      "HTML dec": "&#129507;",
+      "URL escape code": "%F0%9F%A7%A3",
+      "Punycode": "xn--tv9h",
+      "Bytes (UTF-8)": "F0 9F A7 A3",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDE3",
+      "C, C++, Python": "\\U0001f9e3",
+      "CSS": "\\01F9E3",
+      "PHP, Ruby": "\\u{1F9E3}",
+      "Perl": "\\x{1F9E3}"
+    }
+  }
+}

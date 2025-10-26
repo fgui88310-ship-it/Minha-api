@@ -1,0 +1,92 @@
+{
+  "emoji": "🎼",
+  "nome": "🎼 Partitura musical",
+  "categoria": "musical score",
+  "url": "https://emojigraph.org/pt/musical-score/",
+  "detalhes": {
+    "explicacao": "Uma equipe (ou pauta), mostrando uma clave de sol e de cinco linhas horizontais.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/musical-score_1f3bc.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/musical-score_1f3bc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "música",
+      "partitura"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3BC;",
+      "HTML dec": "&#127932;",
+      "URL escape code": "%F0%9F%8E%BC",
+      "Punycode": "xn--tl8h",
+      "Bytes (UTF-8)": "F0 9F 8E BC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFBC",
+      "C, C++, Python": "\\U0001f3bc",
+      "CSS": "\\01F3BC",
+      "PHP, Ruby": "\\u{1F3BC}",
+      "Perl": "\\x{1F3BC}"
+    }
+  }
+}

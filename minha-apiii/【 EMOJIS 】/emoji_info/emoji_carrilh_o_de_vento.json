@@ -1,0 +1,93 @@
+{
+  "emoji": "🎐",
+  "nome": "🎐 Carrilhão de vento",
+  "categoria": "wind chime",
+  "url": "https://emojigraph.org/pt/wind-chime/",
+  "detalhes": {
+    "explicacao": "Um Japonês carrilhão de vento. Descrito como um sino de vidro com uma tira de papel suspenso a partir de sua chapeleta, muitas vezes decorado com flor de cereja-flor.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/wind-chime_1f390.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/wind-chime_1f390.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "sino",
+      "som",
+      "vento"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F390;",
+      "HTML dec": "&#127888;",
+      "URL escape code": "%F0%9F%8E%90",
+      "Punycode": "xn--kk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 90",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF90",
+      "C, C++, Python": "\\U0001f390",
+      "CSS": "\\01F390",
+      "PHP, Ruby": "\\u{1F390}",
+      "Perl": "\\x{1F390}"
+    }
+  }
+}

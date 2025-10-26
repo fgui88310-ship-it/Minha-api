@@ -1,0 +1,59 @@
+{
+  "emoji": "🇱🇾",
+  "nome": "🇱🇾 Bandeira: Líbia",
+  "categoria": "flag libya",
+  "url": "https://emojigraph.org/pt/flag-libya/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Líbia. Este símbolo é uma seqüência de caracteres 🇱 Símbolo Indicador Regional Letra L e 🇾 Símbolo Indicador Regional Letra Y. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras LY em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-libya_1f1f1-1f1fe.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-libya_1f1f1-1f1fe.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-libya_1f1f1-1f1fe.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-libya_1f1f1-1f1fe.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-libya_1f1f1-1f1fe.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-libya_1f1f1-1f1fe.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-libya_1f1f1-1f1fe.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-libya_1f1f1-1f1fe.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F1;&#x1F1FE;",
+      "HTML dec": "&#127473;&#127486;",
+      "URL escape code": "%F0%9F%87%B1%F0%9F%87%BE",
+      "Punycode": "xn--p77h0a",
+      "Bytes (UTF-8)": "F0 9F 87 B1 F0 9F 87 BE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF1\\uD83C\\uDDFE",
+      "C, C++, Python": "\\U0001f1f1\\U0001f1fe",
+      "CSS": "\\01F1F1 \\01F1FE",
+      "PHP, Ruby": "\\u{1F1F1}\\u{1F1FE}",
+      "Perl": "\\x{1F1F1}\\x{1F1FE}"
+    }
+  }
+}

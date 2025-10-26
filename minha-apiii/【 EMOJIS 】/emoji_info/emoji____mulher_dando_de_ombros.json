@@ -1,0 +1,69 @@
+{
+  "emoji": "🤷",
+  "nome": "🤷‍♀️ Mulher dando de ombros",
+  "categoria": "woman shrugging",
+  "url": "https://emojigraph.org/pt/woman-shrugging/",
+  "detalhes": {
+    "explicacao": "A Mulher Encolhendo emoji é uma sequência do 🤷Pessoa Dando Ombros e ♀Símbolo Feminino emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-shrugging_1f937-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-shrugging_1f937-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-shrugging_1f937-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-shrugging_1f937-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-shrugging_1f937-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-shrugging_1f937-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-shrugging_1f937-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-shrugging_1f937-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-shrugging_1f937-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-shrugging_1f937-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dar de ombros",
+      "indiferença",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F937;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#129335;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%A4%B7%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h9981o",
+      "Bytes (UTF-8)": "F0 9F A4 B7 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD37\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f937\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F937 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F937}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F937}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

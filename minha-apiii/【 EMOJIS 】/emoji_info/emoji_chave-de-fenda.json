@@ -1,0 +1,60 @@
+{
+  "emoji": "🪛",
+  "nome": "🪛 Chave de fenda",
+  "categoria": "Screwdriver",
+  "url": "https://emojigraph.org/pt/screwdriver/",
+  "detalhes": {
+    "explicacao": "Chave de fenda foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/screwdriver_1fa9b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/screwdriver_1fa9b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/screwdriver_1fa9b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/screwdriver_1fa9b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/screwdriver_1fa9b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/screwdriver_1fa9b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/screwdriver_1fa9b.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/screwdriver_1fa9b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chave de fenda",
+      "ferramenta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA9B;",
+      "HTML dec": "&#129691;",
+      "URL escape code": "%F0%9F%AA%9B",
+      "Punycode": "xn--209h",
+      "Bytes (UTF-8)": "F0 9F AA 9B",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE9B",
+      "C, C++, Python": "\\U0001fa9b",
+      "CSS": "\\01FA9B",
+      "PHP, Ruby": "\\u{1FA9B}",
+      "Perl": "\\x{1FA9B}"
+    }
+  }
+}

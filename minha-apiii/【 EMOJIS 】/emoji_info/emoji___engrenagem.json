@@ -1,0 +1,68 @@
+{
+  "emoji": "",
+  "nome": "⚙️ Engrenagem",
+  "categoria": "gear",
+  "url": "https://emojigraph.org/pt/gear/",
+  "detalhes": {
+    "explicacao": "Uma dentada, roda de metal em forma de engrenagem, como gira para alimentação de máquinas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/gear_2699-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/gear_2699-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/gear_2699-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/gear_2699-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/gear_2699-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/gear_2699-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/gear_2699-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/gear_2699-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/gear_2699-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/gear_2699-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "engrenagem",
+      "ferramenta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2699;&#xFE0F;",
+      "HTML dec": "&#9881;&#65039;",
+      "URL escape code": "%E2%9A%99%EF%B8%8F",
+      "Punycode": "xn--x7h",
+      "Bytes (UTF-8)": "E2 9A 99 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2699\\uFE0F",
+      "C, C++, Python": "\\u2699\\uFE0F",
+      "CSS": "\\2699 \\FE0F",
+      "PHP, Ruby": "\\u{2699}\\u{FE0F}",
+      "Perl": "\\x{2699}\\x{FE0F}"
+    }
+  }
+}

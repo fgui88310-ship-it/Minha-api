@@ -1,0 +1,94 @@
+{
+  "emoji": "🎢",
+  "nome": "🎢 Montanha russa",
+  "categoria": "roller coaster",
+  "url": "https://emojigraph.org/pt/roller-coaster/",
+  "detalhes": {
+    "explicacao": "Uma montanha-russa em um parque temático descendo um mergulho no passeio. Três carros podem ser vistos com duas pessoas em cada um vermelho transporte.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/roller-coaster_1f3a2.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/roller-coaster_1f3a2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "entretenimento",
+      "montanha",
+      "russa",
+      "parque temático"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3A2;",
+      "HTML dec": "&#127906;",
+      "URL escape code": "%F0%9F%8E%A2",
+      "Punycode": "xn--2k8h",
+      "Bytes (UTF-8)": "F0 9F 8E A2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFA2",
+      "C, C++, Python": "\\U0001f3a2",
+      "CSS": "\\01F3A2",
+      "PHP, Ruby": "\\u{1F3A2}",
+      "Perl": "\\x{1F3A2}"
+    }
+  }
+}

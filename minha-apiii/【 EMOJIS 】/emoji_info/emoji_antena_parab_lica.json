@@ -1,0 +1,94 @@
+{
+  "emoji": "📡",
+  "nome": "📡 Antena parabólica",
+  "categoria": "satellite antenna",
+  "url": "https://emojigraph.org/pt/satellite-antenna/",
+  "detalhes": {
+    "explicacao": "Uma antena de prato, como o usado para enviar ou receber informações para ou a partir de um satélite de comunicações—ou 👽 de Vida Extraterrestre. Geralmente retratado como um montado, prato de metal com sua antena posicionada a 45° para o canto superior direito.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/satellite-antenna_1f4e1.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/satellite-antenna_1f4e1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "antena",
+      "comunicação",
+      "parabólica",
+      "satélite"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4E1;",
+      "HTML dec": "&#128225;",
+      "URL escape code": "%F0%9F%93%A1",
+      "Punycode": "xn--6t8h",
+      "Bytes (UTF-8)": "F0 9F 93 A1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCE1",
+      "C, C++, Python": "\\U0001f4e1",
+      "CSS": "\\01F4E1",
+      "PHP, Ruby": "\\u{1F4E1}",
+      "Perl": "\\x{1F4E1}"
+    }
+  }
+}

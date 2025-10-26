@@ -1,0 +1,69 @@
+{
+  "emoji": "🛋",
+  "nome": "🛋️ Sofá e luminária",
+  "categoria": "couch and lamp",
+  "url": "https://emojigraph.org/pt/couch-and-lamp/",
+  "detalhes": {
+    "explicacao": "Um sofá (cama) com uma lâmpada de assoalho da direita, como na sala de estar de uma casa. A cor e o estilo do sofá e lâmpada variar muito de acordo com a plataforma. Utilizado para vários conteúdos que diz respeito ao mobiliário, e da habitação, bem como descansar e relaxar.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/couch-and-lamp_1f6cb-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/couch-and-lamp_1f6cb-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/couch-and-lamp_1f6cb-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/couch-and-lamp_1f6cb-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/couch-and-lamp_1f6cb-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/couch-and-lamp_1f6cb-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/couch-and-lamp_1f6cb-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/couch-and-lamp_1f6cb-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/couch-and-lamp_1f6cb-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/couch-and-lamp_1f6cb-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "hotel",
+      "lâmpada",
+      "sofá"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6CB;&#xFE0F;",
+      "HTML dec": "&#128715;&#65039;",
+      "URL escape code": "%F0%9F%9B%8B%EF%B8%8F",
+      "Punycode": "xn--678h",
+      "Bytes (UTF-8)": "F0 9F 9B 8B EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDECB\\uFE0F",
+      "C, C++, Python": "\\U0001f6cb\\uFE0F",
+      "CSS": "\\01F6CB \\FE0F",
+      "PHP, Ruby": "\\u{1F6CB}\\u{FE0F}",
+      "Perl": "\\x{1F6CB}\\x{FE0F}"
+    }
+  }
+}

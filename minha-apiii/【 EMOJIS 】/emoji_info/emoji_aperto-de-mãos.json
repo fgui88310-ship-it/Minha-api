@@ -1,0 +1,71 @@
+{
+  "emoji": "🤝",
+  "nome": "🤝 Aperto de mãos",
+  "categoria": "Handshake",
+  "url": "https://emojigraph.org/pt/handshake/",
+  "detalhes": {
+    "explicacao": "Duas mãos realização de um aperto de mão um gesto, indicando uma saudação cordial entre amigos ou associados.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/handshake_1f91d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/handshake_1f91d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/handshake_1f91d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/handshake_1f91d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/handshake_1f91d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/handshake_1f91d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/handshake_1f91d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/handshake_1f91d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/handshake_1f91d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/handshake_1f91d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aperto",
+      "aperto de mãos",
+      "combinado",
+      "cumprimento",
+      "mãos"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F91D;",
+      "HTML dec": "&#129309;",
+      "URL escape code": "%F0%9F%A4%9D",
+      "Punycode": "xn--5p9h",
+      "Bytes (UTF-8)": "F0 9F A4 9D",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD1D",
+      "C, C++, Python": "\\U0001f91d",
+      "CSS": "\\01F91D",
+      "PHP, Ruby": "\\u{1F91D}",
+      "Perl": "\\x{1F91D}"
+    }
+  }
+}

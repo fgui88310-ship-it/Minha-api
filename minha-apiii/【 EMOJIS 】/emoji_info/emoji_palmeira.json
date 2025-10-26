@@ -1,0 +1,93 @@
+{
+  "emoji": "🌴",
+  "nome": "🌴 Palmeira",
+  "categoria": "Palm Tree",
+  "url": "https://emojigraph.org/pt/palm-tree/",
+  "detalhes": {
+    "explicacao": "Uma palmeira, uma árvore-planta, que cresce próximo ao mar. Descrito como uma árvore palmeira, verde, folhas em leque e um alto tronco marrom segmentado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/palm-tree_1f334.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/palm-tree_1f334.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "árvore",
+      "palmeira",
+      "coqueiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F334;",
+      "HTML dec": "&#127796;",
+      "URL escape code": "%F0%9F%8C%B4",
+      "Punycode": "xn--xh8h",
+      "Bytes (UTF-8)": "F0 9F 8C B4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF34",
+      "C, C++, Python": "\\U0001f334",
+      "CSS": "\\01F334",
+      "PHP, Ruby": "\\u{1F334}",
+      "Perl": "\\x{1F334}"
+    }
+  }
+}

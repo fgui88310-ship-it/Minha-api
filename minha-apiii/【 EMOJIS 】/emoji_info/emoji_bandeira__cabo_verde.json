@@ -1,0 +1,59 @@
+{
+  "emoji": "🇨🇻",
+  "nome": "🇨🇻 Bandeira: Cabo Verde",
+  "categoria": "flag cape verde",
+  "url": "https://emojigraph.org/pt/flag-cape-verde/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Cabo Verde. Este símbolo é uma seqüência de caracteres 🇨 Símbolo Indicador Regional Letra C e 🇻 Símbolo Indicador Regional Letra V. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras CV em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-cape-verde_1f1e8-1f1fb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-cape-verde_1f1e8-1f1fb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-cape-verde_1f1e8-1f1fb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-cape-verde_1f1e8-1f1fb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-cape-verde_1f1e8-1f1fb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-cape-verde_1f1e8-1f1fb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-cape-verde_1f1e8-1f1fb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-cape-verde_1f1e8-1f1fb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E8;&#x1F1FB;",
+      "HTML dec": "&#127464;&#127483;",
+      "URL escape code": "%F0%9F%87%A8%F0%9F%87%BB",
+      "Punycode": "xn--g77hgb",
+      "Bytes (UTF-8)": "F0 9F 87 A8 F0 9F 87 BB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE8\\uD83C\\uDDFB",
+      "C, C++, Python": "\\U0001f1e8\\U0001f1fb",
+      "CSS": "\\01F1E8 \\01F1FB",
+      "PHP, Ruby": "\\u{1F1E8}\\u{1F1FB}",
+      "Perl": "\\x{1F1E8}\\x{1F1FB}"
+    }
+  }
+}

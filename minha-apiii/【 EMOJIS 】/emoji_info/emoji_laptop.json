@@ -1,0 +1,96 @@
+{
+  "emoji": "💻",
+  "nome": "💻 Laptop",
+  "categoria": "Laptop",
+  "url": "https://emojigraph.org/pt/laptop/",
+  "detalhes": {
+    "explicacao": "Um computador portátil. Descrito como preto ou cinza, aberto para mostrar uma tela escura ou tela azul, e o teclado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/laptop_1f4bb.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/laptop_1f4bb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "computador",
+      "laptop",
+      "PC",
+      "pessoal",
+      "notebook",
+      "trabalho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4BB;",
+      "HTML dec": "&#128187;",
+      "URL escape code": "%F0%9F%92%BB",
+      "Punycode": "xn--3s8h",
+      "Bytes (UTF-8)": "F0 9F 92 BB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCBB",
+      "C, C++, Python": "\\U0001f4bb",
+      "CSS": "\\01F4BB",
+      "PHP, Ruby": "\\u{1F4BB}",
+      "Perl": "\\x{1F4BB}"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "emoji": "🪤",
+  "nome": "🪤 Ratoeira",
+  "categoria": "Mouse Trap",
+  "url": "https://emojigraph.org/pt/mouse-trap/",
+  "detalhes": {
+    "explicacao": "Uma imagem dos desenhos animados de uma armadilha clássica para ratos com um pedaço de queijo para atrair roedores. Freqüentemente usado para simbolizar a luta contra um problema com infestação de ratos. A Armadilha do rato foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mouse-trap_1faa4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mouse-trap_1faa4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mouse-trap_1faa4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mouse-trap_1faa4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mouse-trap_1faa4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mouse-trap_1faa4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mouse-trap_1faa4.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/mouse-trap_1faa4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "armadilha",
+      "isca",
+      "prender",
+      "ratoeira",
+      "atrair",
+      "queijo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAA4;",
+      "HTML dec": "&#129700;",
+      "URL escape code": "%F0%9F%AA%A4",
+      "Punycode": "xn--c19h",
+      "Bytes (UTF-8)": "F0 9F AA A4",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEA4",
+      "C, C++, Python": "\\U0001faa4",
+      "CSS": "\\01FAA4",
+      "PHP, Ruby": "\\u{1FAA4}",
+      "Perl": "\\x{1FAA4}"
+    }
+  }
+}

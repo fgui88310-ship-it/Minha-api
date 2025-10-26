@@ -1,0 +1,95 @@
+{
+  "emoji": "🌉",
+  "nome": "🌉 Ponte à noite",
+  "categoria": "bridge at night",
+  "url": "https://emojigraph.org/pt/bridge-at-night/",
+  "detalhes": {
+    "explicacao": "Um iluminado ponte, mostrado durante a noite.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bridge-at-night_1f309.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bridge-at-night_1f309.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "noite",
+      "ponte à noite",
+      "ponte da noite",
+      "ponte",
+      "pontilhão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F309;",
+      "HTML dec": "&#127753;",
+      "URL escape code": "%F0%9F%8C%89",
+      "Punycode": "xn--pg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 89",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF09",
+      "C, C++, Python": "\\U0001f309",
+      "CSS": "\\01F309",
+      "PHP, Ruby": "\\u{1F309}",
+      "Perl": "\\x{1F309}"
+    }
+  }
+}

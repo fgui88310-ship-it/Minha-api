@@ -1,0 +1,92 @@
+{
+  "emoji": "",
+  "nome": "☁️ Nuvem",
+  "categoria": "Cloud",
+  "url": "https://emojigraph.org/pt/cloud/",
+  "detalhes": {
+    "explicacao": "Um fofo, nuvem branca, como uma nuvem de contorno nítido. Pode ser usado como um ícone do tempo para representar uma nublado ou dia nublado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cloud_2601-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cloud_2601-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "clima",
+      "nuvem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2601;&#xFE0F;",
+      "HTML dec": "&#9729;&#65039;",
+      "URL escape code": "%E2%98%81%EF%B8%8F",
+      "Punycode": "xn--l3h",
+      "Bytes (UTF-8)": "E2 98 81 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2601\\uFE0F",
+      "C, C++, Python": "\\u2601\\uFE0F",
+      "CSS": "\\2601 \\FE0F",
+      "PHP, Ruby": "\\u{2601}\\u{FE0F}",
+      "Perl": "\\x{2601}\\x{FE0F}"
+    }
+  }
+}

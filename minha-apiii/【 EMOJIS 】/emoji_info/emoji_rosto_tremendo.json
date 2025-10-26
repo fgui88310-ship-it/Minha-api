@@ -1,0 +1,77 @@
+{
+  "emoji": "🫨",
+  "nome": "🫨 Rosto tremendo",
+  "categoria": "shaking face",
+  "url": "https://emojigraph.org/pt/shaking-face/",
+  "detalhes": {
+    "explicacao": "Um rosto amarelo com olhos grandes e exagerados e boca aberta, tremendo ou com visão dupla. O tremor pode ser devido a fatores externos, como terremotos e ruídos, fatores internos, como tremores e medo, ou expressões emocionais, como desgosto, excitação e raiva.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shaking-face_1fae8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shaking-face_1fae8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shaking-face_1fae8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shaking-face_1fae8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shaking-face_1fae8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shaking-face_1fae8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shaking-face_1fae8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shaking-face_1fae8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shaking-face_1fae8.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/shaking-face_1fae8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "choque",
+      "rosto",
+      "terremoto",
+      "tremendo",
+      "vibração",
+      "louco",
+      "loucura",
+      "meu deus",
+      "pânico",
+      "surpresa",
+      "susto",
+      "vibrar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAE8;",
+      "HTML dec": "&#129768;",
+      "URL escape code": "%F0%9F%AB%A8",
+      "Bytes (UTF-8)": "f0 9f ab a8",
+      "JavaScript, JSON, Java": "\\ud83e\\udee8",
+      "C, C++, Python": "\\U0001fae8",
+      "CSS": "\\01FAE8",
+      "PHP, Ruby": "\\u{1FAE8}",
+      "Perl": "\\x{1FAE8}"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🔬 Cientista homem",
+  "categoria": "man scientist",
+  "url": "https://emojigraph.org/pt/man-scientist/",
+  "detalhes": {
+    "explicacao": "O Homem Cientista emoji é uma sequência do 👨 Homem e 🔬 Microscópio emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-scientist_1f468-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-scientist_1f468-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-scientist_1f468-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-scientist_1f468-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-scientist_1f468-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-scientist_1f468-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-scientist_1f468-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-scientist_1f468-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-scientist_1f468-200d-1f52c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-scientist_1f468-200d-1f52c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "biólogo",
+      "cientista homem",
+      "físico",
+      "homem",
+      "professor",
+      "químico"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F52C;",
+      "HTML dec": "&#128104;&#8205;&#128300;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC",
+      "Punycode": "xn--qq8him",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 94 AC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83D\\uDD2C",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f52c",
+      "CSS": "\\01F468 \\200D \\01F52C",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F52C}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F52C}"
+    }
+  }
+}

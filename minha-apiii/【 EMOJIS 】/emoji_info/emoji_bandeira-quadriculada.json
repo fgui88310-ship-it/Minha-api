@@ -1,0 +1,96 @@
+{
+  "emoji": "🏁",
+  "nome": "🏁 Bandeira quadriculada",
+  "categoria": "Chequered Flag",
+  "url": "https://emojigraph.org/pt/chequered-flag/",
+  "detalhes": {
+    "explicacao": "Uma bandeira com quadrados pretos e brancos mostrado em um padrão xadrez, usado para sinalizar o início ou o final de um motor de carro de corrida.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/chequered-flag_1f3c1.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/chequered-flag_1f3c1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira",
+      "corrida",
+      "esporte",
+      "quadriculada",
+      "chegada",
+      "vitória"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3C1;",
+      "HTML dec": "&#127937;",
+      "URL escape code": "%F0%9F%8F%81",
+      "Punycode": "xn--yl8h",
+      "Bytes (UTF-8)": "F0 9F 8F 81",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFC1",
+      "C, C++, Python": "\\U0001f3c1",
+      "CSS": "\\01F3C1",
+      "PHP, Ruby": "\\u{1F3C1}",
+      "Perl": "\\x{1F3C1}"
+    }
+  }
+}

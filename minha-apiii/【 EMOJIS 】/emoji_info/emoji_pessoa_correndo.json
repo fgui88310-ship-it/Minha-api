@@ -1,0 +1,97 @@
+{
+  "emoji": "🏃",
+  "nome": "🏃 Pessoa correndo",
+  "categoria": "person running",
+  "url": "https://emojigraph.org/pt/person-running/",
+  "detalhes": {
+    "explicacao": "Uma pessoa correndo, com um grande passo e os braços estendidos. Pode estar vestindo uma camisa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-running_1f3c3.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-running_1f3c3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "corrida",
+      "esporte",
+      "maratona",
+      "maratonista",
+      "pessoa correndo",
+      "correr",
+      "pressa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3C3;",
+      "HTML dec": "&#127939;",
+      "URL escape code": "%F0%9F%8F%83",
+      "Punycode": "xn--0l8h",
+      "Bytes (UTF-8)": "F0 9F 8F 83",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFC3",
+      "C, C++, Python": "\\U0001f3c3",
+      "CSS": "\\01F3C3",
+      "PHP, Ruby": "\\u{1F3C3}",
+      "Perl": "\\x{1F3C3}"
+    }
+  }
+}

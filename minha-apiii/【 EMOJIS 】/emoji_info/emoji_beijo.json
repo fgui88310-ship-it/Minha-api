@@ -1,0 +1,97 @@
+{
+  "emoji": "💏",
+  "nome": "💏 Beijo",
+  "categoria": "Kiss",
+  "url": "https://emojigraph.org/pt/kiss/",
+  "detalhes": {
+    "explicacao": "Um gesto de beijar, com um coração vermelho de amor flutuando no ar entre eles. Anteriormente mostrado com a mesma aparência que 👩❤️💋👨 Beijo: Mulher, Homem na maioria das plataformas, mas agora exibe duas pessoas com um gênero ambíguo em aparência.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/kiss_1f48f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/kiss_1f48f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "beijar",
+      "beijo",
+      "casal",
+      "amor",
+      "coração",
+      "pessoas",
+      "romance"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F48F;",
+      "HTML dec": "&#128143;",
+      "URL escape code": "%F0%9F%92%8F",
+      "Punycode": "xn--ur8h",
+      "Bytes (UTF-8)": "F0 9F 92 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC8F",
+      "C, C++, Python": "\\U0001f48f",
+      "CSS": "\\01F48F",
+      "PHP, Ruby": "\\u{1F48F}",
+      "Perl": "\\x{1F48F}"
+    }
+  }
+}

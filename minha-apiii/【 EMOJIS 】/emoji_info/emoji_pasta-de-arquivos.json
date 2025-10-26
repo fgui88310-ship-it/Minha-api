@@ -1,0 +1,92 @@
+{
+  "emoji": "📁",
+  "nome": "📁 Pasta de arquivos",
+  "categoria": "File Folder",
+  "url": "https://emojigraph.org/pt/file-folder/",
+  "detalhes": {
+    "explicacao": "Uma aba pasta, como o usado para arquivo de documentos em um armário ou como um ícone de um arquivo em um computador. A maioria das plataformas retratam uma pasta amarela, como manila, com o guia ilustrado à esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/file-folder_1f4c1.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/file-folder_1f4c1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arquivo",
+      "pasta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4C1;",
+      "HTML dec": "&#128193;",
+      "URL escape code": "%F0%9F%93%81",
+      "Punycode": "xn--9s8h",
+      "Bytes (UTF-8)": "F0 9F 93 81",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCC1",
+      "C, C++, Python": "\\U0001f4c1",
+      "CSS": "\\01F4C1",
+      "PHP, Ruby": "\\u{1F4C1}",
+      "Perl": "\\x{1F4C1}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "🐠",
+  "nome": "🐠 Peixe tropical",
+  "categoria": "tropical fish",
+  "url": "https://emojigraph.org/pt/tropical-fish/",
+  "detalhes": {
+    "explicacao": "Um peixe tropical, como nada nas águas quentes de um recife de coral ou é mantido como animal de estimação em um aquário. Descrito como uma coloridos peixes em perfil completo virada para a esquerda, com slender barbatanas. Muitas vezes mostrado como um azul-e-amarelo de peixe com listras, como um angelfish.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tropical-fish_1f420.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tropical-fish_1f420.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "peixe",
+      "peixe tropical"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F420;",
+      "HTML dec": "&#128032;",
+      "URL escape code": "%F0%9F%90%A0",
+      "Punycode": "xn--oo8h",
+      "Bytes (UTF-8)": "F0 9F 90 A0",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC20",
+      "C, C++, Python": "\\U0001f420",
+      "CSS": "\\01F420",
+      "PHP, Ruby": "\\u{1F420}",
+      "Perl": "\\x{1F420}"
+    }
+  }
+}

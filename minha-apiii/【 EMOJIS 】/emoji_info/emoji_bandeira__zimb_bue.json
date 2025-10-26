@@ -1,0 +1,59 @@
+{
+  "emoji": "🇿🇼",
+  "nome": "🇿🇼 Bandeira: Zimbábue",
+  "categoria": "flag zimbabwe",
+  "url": "https://emojigraph.org/pt/flag-zimbabwe/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Zimbabué. Este símbolo é uma seqüência de caracteres 🇿 Símbolo Indicador Regional Letra Z e 🇼 Símbolo Indicador Regional Letra W. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras ZW em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-zimbabwe_1f1ff-1f1fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-zimbabwe_1f1ff-1f1fc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-zimbabwe_1f1ff-1f1fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-zimbabwe_1f1ff-1f1fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-zimbabwe_1f1ff-1f1fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-zimbabwe_1f1ff-1f1fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-zimbabwe_1f1ff-1f1fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-zimbabwe_1f1ff-1f1fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FF;&#x1F1FC;",
+      "HTML dec": "&#127487;&#127484;",
+      "URL escape code": "%F0%9F%87%BF%F0%9F%87%BC",
+      "Punycode": "xn--077hfa",
+      "Bytes (UTF-8)": "F0 9F 87 BF F0 9F 87 BC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFF\\uD83C\\uDDFC",
+      "C, C++, Python": "\\U0001f1ff\\U0001f1fc",
+      "CSS": "\\01F1FF \\01F1FC",
+      "PHP, Ruby": "\\u{1F1FF}\\u{1F1FC}",
+      "Perl": "\\x{1F1FF}\\x{1F1FC}"
+    }
+  }
+}

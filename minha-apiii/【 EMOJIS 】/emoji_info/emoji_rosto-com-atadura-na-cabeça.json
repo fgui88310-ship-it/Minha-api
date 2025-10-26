@@ -1,0 +1,80 @@
+{
+  "emoji": "🤕",
+  "nome": "🤕 Rosto com atadura na cabeça",
+  "categoria": "Face With Head Bandage",
+  "url": "https://emojigraph.org/pt/face-with-head-bandage/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com uma meia-feia-e-branco bandagem enrolada em torno de sua cabeça, muitas vezes representado parcialmente sobre um olho. Pode representar danos físicos ou de dor, mas também emocional, prejudicando, às vezes, para o efeito irônico.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-head-bandage_1f915.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-head-bandage_1f915.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-head-bandage_1f915.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-head-bandage_1f915.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-head-bandage_1f915.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-head-bandage_1f915.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-head-bandage_1f915.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-head-bandage_1f915.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-head-bandage_1f915.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/face-with-head-bandage_1f915.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/face-with-head-bandage_1f915.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/face-with-head-bandage_1f915.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acidentado",
+      "ferimento",
+      "rosto",
+      "rosto machucado",
+      "doente",
+      "machucado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F915;",
+      "HTML dec": "&#129301;",
+      "URL escape code": "%F0%9F%A4%95",
+      "Punycode": "xn--xp9h",
+      "Bytes (UTF-8)": "F0 9F A4 95",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD15",
+      "C, C++, Python": "\\U0001f915",
+      "CSS": "\\01F915",
+      "PHP, Ruby": "\\u{1F915}",
+      "Perl": "\\x{1F915}"
+    }
+  }
+}

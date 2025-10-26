@@ -1,0 +1,98 @@
+{
+  "emoji": "🍰",
+  "nome": "🍰 Pão de ló de morango",
+  "categoria": "Shortcake",
+  "url": "https://emojigraph.org/pt/shortcake/",
+  "detalhes": {
+    "explicacao": "Uma fatia de moranguinho, em camadas com creme de leite e coberto com um todo de morango. Como o Bolo de Aniversário, pode ser usado para representar festas de aniversário ou de bolo em geral.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/shortcake_1f370.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/shortcake_1f370.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bolo",
+      "fatia",
+      "fatia de bolo",
+      "pão de ló",
+      "sobremesa",
+      "bolo recheado",
+      "doce",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F370;",
+      "HTML dec": "&#127856;",
+      "URL escape code": "%F0%9F%8D%B0",
+      "Punycode": "xn--nj8h",
+      "Bytes (UTF-8)": "F0 9F 8D B0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF70",
+      "C, C++, Python": "\\U0001f370",
+      "CSS": "\\01F370",
+      "PHP, Ruby": "\\u{1F370}",
+      "Perl": "\\x{1F370}"
+    }
+  }
+}

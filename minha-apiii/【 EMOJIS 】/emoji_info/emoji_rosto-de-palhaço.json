@@ -1,0 +1,80 @@
+{
+  "emoji": "🤡",
+  "nome": "🤡 Rosto de palhaço",
+  "categoria": "Clown Face",
+  "url": "https://emojigraph.org/pt/clown-face/",
+  "detalhes": {
+    "explicacao": "Um clássico de circo ou uma festa de aniversário de palhaço. Recursos maquiagem de rosto branca, um nariz vermelho, olhos e sorriso exagerado, e dois tufos de cabelo (vermelho ou azul). Pode dizer que alguém é bobo ou estúpido ou que algo é assustador.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/clown-face_1f921.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/clown-face_1f921.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/clown-face_1f921.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/clown-face_1f921.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/clown-face_1f921.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/clown-face_1f921.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/clown-face_1f921.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/clown-face_1f921.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/clown-face_1f921.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/clown-face_1f921.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/clown-face_1f921.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/clown-face_1f921.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "palhaço",
+      "rosto",
+      "cara",
+      "cara de palhaço",
+      "circo",
+      "engraçado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F921;",
+      "HTML dec": "&#129313;",
+      "URL escape code": "%F0%9F%A4%A1",
+      "Punycode": "xn--9p9h",
+      "Bytes (UTF-8)": "F0 9F A4 A1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD21",
+      "C, C++, Python": "\\U0001f921",
+      "CSS": "\\01F921",
+      "PHP, Ruby": "\\u{1F921}",
+      "Perl": "\\x{1F921}"
+    }
+  }
+}

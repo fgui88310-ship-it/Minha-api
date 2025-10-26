@@ -1,0 +1,93 @@
+{
+  "emoji": "🍭",
+  "nome": "🍭 Pirulito",
+  "categoria": "Lollipop",
+  "url": "https://emojigraph.org/pt/lollipop/",
+  "detalhes": {
+    "explicacao": "Um colorido redemoinho de bala dura em um palito, chamado pirulito. A cor varia muito de plataforma: no Google exibe cores do arco-íris, Android tons de cor-de-rosa, e na Samsung dois tons de rosa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/lollipop_1f36d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/lollipop_1f36d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bala",
+      "doce",
+      "pirulito"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F36D;",
+      "HTML dec": "&#127853;",
+      "URL escape code": "%F0%9F%8D%AD",
+      "Punycode": "xn--kj8h",
+      "Bytes (UTF-8)": "F0 9F 8D AD",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF6D",
+      "C, C++, Python": "\\U0001f36d",
+      "CSS": "\\01F36D",
+      "PHP, Ruby": "\\u{1F36D}",
+      "Perl": "\\x{1F36D}"
+    }
+  }
+}

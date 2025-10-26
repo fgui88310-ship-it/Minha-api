@@ -1,0 +1,85 @@
+{
+  "emoji": "🚟",
+  "nome": "🚟 Estrada de ferro suspensa",
+  "categoria": "suspension railway",
+  "url": "https://emojigraph.org/pt/suspension-railway/",
+  "detalhes": {
+    "explicacao": "Semelhante a um monotrilho, uma suspensão ferroviária é elevado, mas o veículo está suspenso sob a pista.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/suspension-railway_1f69f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/suspension-railway_1f69f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "suspensão",
+      "veículo",
+      "trem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F69F;",
+      "HTML dec": "&#128671;",
+      "URL escape code": "%F0%9F%9A%9F",
+      "Punycode": "xn--x68h",
+      "Bytes (UTF-8)": "F0 9F 9A 9F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE9F",
+      "C, C++, Python": "\\U0001f69f",
+      "CSS": "\\01F69F",
+      "PHP, Ruby": "\\u{1F69F}",
+      "Perl": "\\x{1F69F}"
+    }
+  }
+}

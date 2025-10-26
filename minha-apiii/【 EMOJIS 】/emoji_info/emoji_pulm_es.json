@@ -1,0 +1,74 @@
+{
+  "emoji": "🫁",
+  "nome": "🫁 Pulmões",
+  "categoria": "lungs",
+  "url": "https://emojigraph.org/pt/lungs/",
+  "detalhes": {
+    "explicacao": "Uma representação anatomicamente correta dos pulmões humanos. Geralmente usado para denotar capacidades ou incapacidades respiratórias. Pulmões foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lungs_1fac1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lungs_1fac1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lungs_1fac1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lungs_1fac1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lungs_1fac1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lungs_1fac1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lungs_1fac1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lungs_1fac1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lungs_1fac1.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/lungs_1fac1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "espiração",
+      "exalação",
+      "inalação",
+      "órgão",
+      "pulmões",
+      "respiração",
+      "anatomia",
+      "pulmão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAC1;",
+      "HTML dec": "&#129729;",
+      "URL escape code": "%F0%9F%AB%81",
+      "Punycode": "xn--519h",
+      "Bytes (UTF-8)": "F0 9F AB 81",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEC1",
+      "C, C++, Python": "\\U0001fac1",
+      "CSS": "\\01FAC1",
+      "PHP, Ruby": "\\u{1FAC1}",
+      "Perl": "\\x{1FAC1}"
+    }
+  }
+}

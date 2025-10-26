@@ -1,0 +1,70 @@
+{
+  "emoji": "🦎",
+  "nome": "🦎 Lagartixa",
+  "categoria": "Lizard",
+  "url": "https://emojigraph.org/pt/lizard/",
+  "detalhes": {
+    "explicacao": "Um lagarto, com escamas de répteis com uma longa cauda. Descrito como um lagarto verde e todas as quatro patas viradas para a esquerda, a partir de cima, olhando geralmente para a esquerda, com grandes olhos, levemente texturizados, e os dedos abertos, como uma lagartixa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lizard_1f98e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lizard_1f98e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lizard_1f98e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lizard_1f98e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lizard_1f98e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lizard_1f98e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lizard_1f98e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lizard_1f98e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lizard_1f98e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/lizard_1f98e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "lagartixa",
+      "réptil",
+      "lagarto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F98E;",
+      "HTML dec": "&#129422;",
+      "URL escape code": "%F0%9F%A6%8E",
+      "Punycode": "xn--et9h",
+      "Bytes (UTF-8)": "F0 9F A6 8E",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD8E",
+      "C, C++, Python": "\\U0001f98e",
+      "CSS": "\\01F98E",
+      "PHP, Ruby": "\\u{1F98E}",
+      "Perl": "\\x{1F98E}"
+    }
+  }
+}

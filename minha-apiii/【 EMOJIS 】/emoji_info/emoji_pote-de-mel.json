@@ -1,0 +1,94 @@
+{
+  "emoji": "🍯",
+  "nome": "🍯 Pote de mel",
+  "categoria": "Honey Pot",
+  "url": "https://emojigraph.org/pt/honey-pot/",
+  "detalhes": {
+    "explicacao": "Um amarelo-dourado pote de mel, como feito por abelhas e desejado por ursos. Mostrado com a substância doce escorrendo para baixo de seus lados, muitas vezes com um balde de mel dentro da pequena embarcação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/honey-pot_1f36f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/honey-pot_1f36f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mel",
+      "pote",
+      "pote de mel",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F36F;",
+      "HTML dec": "&#127855;",
+      "URL escape code": "%F0%9F%8D%AF",
+      "Punycode": "xn--mj8h",
+      "Bytes (UTF-8)": "F0 9F 8D AF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF6F",
+      "C, C++, Python": "\\U0001f36f",
+      "CSS": "\\01F36F",
+      "PHP, Ruby": "\\u{1F36F}",
+      "Perl": "\\x{1F36F}"
+    }
+  }
+}

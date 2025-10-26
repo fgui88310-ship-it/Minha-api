@@ -1,0 +1,76 @@
+// api/routes/receita.js
+import express from 'express';
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+
+const router = express.Router();
+
+/**
+ * GET /api/receita?q=bolo de chocolate
+ * Retorna até 10 receitas do CyberCook
+ */
+router.get('/', async (req, res) => {
+  const q = req.query.q;
+  if (!q) return res.status(400).json({ error: 'Passe ?q=termo da receita' });
+
+  try {
+    const searchTerm = encodeURIComponent(q.replace(/\s+/g, '+').toLowerCase());
+    const url = `https://cybercook.com.br/search?q=${searchTerm}&is_premium=true&calorias=0&custo=0&prep=0`;
+
+    const { data: html } = await axios.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0',
+        'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
+      },
+      timeout: 15000
+    });
+
+    const $ = cheerio.load(html);
+    const resultados = [];
+    const seenUrls = new Set();
+
+    $('div.pos-relative.border-card-half-2.card--half-2-image').each((index, el) => {
+      if (index >= 10) return;
+
+      const titleElement = $(el).find('h3.title.txt-bold.font-arial a');
+      const urlElement = $(el).find('a[href*="/receitas"]');
+      const authorElement = $(el).find('p.grey--dark.author.font-arial');
+      const assessmentElement = $(el).find('p.score-yellow-box-item');
+      const commentElement = $(el).find('div.ml10').text().match(/\((\d+)\)/);
+      const imageElement = $(el).find('img[src]');
+
+      const title = titleElement.text().trim();
+      const url = urlElement.attr('href');
+      const fullUrl = url && url.startsWith('http') ? url : url ? `https://cybercook.com.br${url}` : '';
+      const assessment = assessmentElement.text().trim() || 'Sem avaliação';
+      const starEmoji = assessment !== 'Sem avaliação' ? '⭐'.repeat(Math.round(parseFloat(assessment) || 0)) : '';
+      const by = authorElement.text().trim() || 'Anônimo';
+      let image = imageElement.attr('src') || '';
+      if (image) {
+        if (image.startsWith('//')) image = `https:${image}`;
+        else if (!image.startsWith('http')) image = `https://cybercook.com.br${image}`;
+      }
+      const comments = commentElement ? commentElement[1] : '0';
+
+      if (title && fullUrl && !seenUrls.has(fullUrl)) {
+        resultados.push({
+          title,
+          url: fullUrl,
+          assessment: { star: assessment, starEmoji, comments },
+          by,
+          image,
+        });
+        seenUrls.add(fullUrl);
+      }
+    });
+
+    if (resultados.length === 0) return res.status(404).json({ error: `Nenhuma receita encontrada para "${q}"` });
+
+    res.json({ query: q, total: resultados.length, receitas: resultados });
+
+  } catch (err) {
+    next(err);
+  }
+});
+
+export default router;

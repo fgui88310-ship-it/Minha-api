@@ -1,0 +1,88 @@
+{
+  "emoji": "🍋",
+  "nome": "🍋 Limão",
+  "categoria": "lemon",
+  "url": "https://emojigraph.org/pt/lemon/",
+  "detalhes": {
+    "explicacao": "O azedo, amarelo e cítricas  limão, geralmente com uma haste e folha ou folhas verdes.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/lemon_1f34b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/lemon_1f34b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cítrico",
+      "fruta",
+      "limão",
+      "limão siciliano",
+      "azedo",
+      "lima"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F34B;",
+      "HTML dec": "&#127819;",
+      "URL escape code": "%F0%9F%8D%8B",
+      "Punycode": "xn--li8h",
+      "Bytes (UTF-8)": "F0 9F 8D 8B",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF4B",
+      "C, C++, Python": "\\U0001f34b",
+      "CSS": "\\01F34B",
+      "PHP, Ruby": "\\u{1F34B}",
+      "Perl": "\\x{1F34B}"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "emoji": "💷",
+  "nome": "💷 Nota de libra",
+  "categoria": "pound banknote",
+  "url": "https://emojigraph.org/pt/pound-banknote/",
+  "detalhes": {
+    "explicacao": "Quids em! Um em faixas pilha de notas de libra, o papel-moeda do Reino Unido (Inglaterra, país de Gales, Irlanda do Norte e Escócia). Cores e detalhes variam entre plataformas, mas amplamente retratado como roxo £20 notas com o sinal de libra, £.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pound-banknote_1f4b7.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pound-banknote_1f4b7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dinheiro",
+      "libra",
+      "moeda",
+      "nota",
+      "nota bancária",
+      "nota de libra",
+      "cédula",
+      "grana"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4B7;",
+      "HTML dec": "&#128183;",
+      "URL escape code": "%F0%9F%92%B7",
+      "Punycode": "xn--zs8h",
+      "Bytes (UTF-8)": "F0 9F 92 B7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCB7",
+      "C, C++, Python": "\\U0001f4b7",
+      "CSS": "\\01F4B7",
+      "PHP, Ruby": "\\u{1F4B7}",
+      "Perl": "\\x{1F4B7}"
+    }
+  }
+}

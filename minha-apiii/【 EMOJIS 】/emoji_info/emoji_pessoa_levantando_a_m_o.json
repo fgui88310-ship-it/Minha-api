@@ -1,0 +1,98 @@
+{
+  "emoji": "🙋",
+  "nome": "🙋 Pessoa levantando a mão",
+  "categoria": "person raising hand",
+  "url": "https://emojigraph.org/pt/person-raising-hand/",
+  "detalhes": {
+    "explicacao": "Uma pessoa com a mão no ar, como se ela quer perguntar ou responder a uma pergunta.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-raising-hand_1f64b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-raising-hand_1f64b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "feliz",
+      "gesto",
+      "pessoa",
+      "dúvida",
+      "eu",
+      "eu sei",
+      "levantar a mão",
+      "mão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F64B;",
+      "HTML dec": "&#128587;",
+      "URL escape code": "%F0%9F%99%8B",
+      "Punycode": "xn--j48h",
+      "Bytes (UTF-8)": "F0 9F 99 8B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE4B",
+      "C, C++, Python": "\\U0001f64b",
+      "CSS": "\\01F64B",
+      "PHP, Ruby": "\\u{1F64B}",
+      "Perl": "\\x{1F64B}"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "emoji": "🏢",
+  "nome": "🏢 Edifício comercial",
+  "categoria": "office building",
+  "url": "https://emojigraph.org/pt/office-building/",
+  "detalhes": {
+    "explicacao": "Um genérico, alto edifício de escritórios. Geralmente encontrado em cidades, e mais ativo durante o horário comercial.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/office-building_1f3e2.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/office-building_1f3e2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "edifício",
+      "escritório"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3E2;",
+      "HTML dec": "&#127970;",
+      "URL escape code": "%F0%9F%8F%A2",
+      "Punycode": "xn--wm8h",
+      "Bytes (UTF-8)": "F0 9F 8F A2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFE2",
+      "C, C++, Python": "\\U0001f3e2",
+      "CSS": "\\01F3E2",
+      "PHP, Ruby": "\\u{1F3E2}",
+      "Perl": "\\x{1F3E2}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emoji": "",
+  "nome": "⛴️ Balsa",
+  "categoria": "ferry",
+  "url": "https://emojigraph.org/pt/ferry/",
+  "detalhes": {
+    "explicacao": "Ferry foi aprovado como parte do Unicode 5.2 em 2009e acrescentou para o Emoji 1.0 em 2015.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ferry_26f4-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ferry_26f4-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ferry_26f4-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ferry_26f4-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ferry_26f4-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ferry_26f4-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ferry_26f4-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ferry_26f4-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ferry_26f4-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ferry_26f4-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balsa",
+      "barco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26F4;&#xFE0F;",
+      "HTML dec": "&#9972;&#65039;",
+      "URL escape code": "%E2%9B%B4%EF%B8%8F",
+      "Punycode": "xn--jbi",
+      "Bytes (UTF-8)": "E2 9B B4 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26F4\\uFE0F",
+      "C, C++, Python": "\\u26F4\\uFE0F",
+      "CSS": "\\26F4 \\FE0F",
+      "PHP, Ruby": "\\u{26F4}\\u{FE0F}",
+      "Perl": "\\x{26F4}\\x{FE0F}"
+    }
+  }
+}

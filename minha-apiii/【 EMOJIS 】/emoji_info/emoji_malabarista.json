@@ -1,0 +1,72 @@
+{
+  "emoji": "🤹",
+  "nome": "🤹 Malabarista",
+  "categoria": "Person Juggling",
+  "url": "https://emojigraph.org/pt/person-juggling/",
+  "detalhes": {
+    "explicacao": "Uma pessoa malabarismo entre três e cinco bolas coloridas. A pessoa mostrado neste emoji, geralmente, tem a aparência de um homem, e usa um chapéu na maioria das plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-juggling_1f939.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-juggling_1f939.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-juggling_1f939.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-juggling_1f939.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-juggling_1f939.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-juggling_1f939.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-juggling_1f939.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-juggling_1f939.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-juggling_1f939.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-juggling_1f939.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "equilíbrio",
+      "habilidade",
+      "malabarismo",
+      "malabarista",
+      "multitarefa",
+      "malabares"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F939;",
+      "HTML dec": "&#129337;",
+      "URL escape code": "%F0%9F%A4%B9",
+      "Punycode": "xn--yq9h",
+      "Bytes (UTF-8)": "F0 9F A4 B9",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD39",
+      "C, C++, Python": "\\U0001f939",
+      "CSS": "\\01F939",
+      "PHP, Ruby": "\\u{1F939}",
+      "Perl": "\\x{1F939}"
+    }
+  }
+}

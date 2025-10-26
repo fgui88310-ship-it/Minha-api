@@ -1,0 +1,67 @@
+{
+  "emoji": "🇪🇪",
+  "nome": "🇪🇪 Bandeira: Estônia",
+  "categoria": "flag estonia",
+  "url": "https://emojigraph.org/pt/flag-estonia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Estónia. Este símbolo é uma seqüência de caracteres 🇪 Símbolo Indicador Regional Letra E e 🇪 Símbolo Indicador Regional Letra E. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras EE em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-estonia_1f1ea-1f1ea.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-estonia_1f1ea-1f1ea.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-estonia_1f1ea-1f1ea.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-estonia_1f1ea-1f1ea.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-estonia_1f1ea-1f1ea.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-estonia_1f1ea-1f1ea.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-estonia_1f1ea-1f1ea.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-estonia_1f1ea-1f1ea.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-estonia_1f1ea-1f1ea.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-estonia_1f1ea-1f1ea.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EA;&#x1F1EA;",
+      "HTML dec": "&#127466;&#127466;",
+      "URL escape code": "%F0%9F%87%AA%F0%9F%87%AA",
+      "Punycode": "xn--i77ha",
+      "Bytes (UTF-8)": "F0 9F 87 AA F0 9F 87 AA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEA\\uD83C\\uDDEA",
+      "C, C++, Python": "\\U0001f1ea\\U0001f1ea",
+      "CSS": "\\01F1EA \\01F1EA",
+      "PHP, Ruby": "\\u{1F1EA}\\u{1F1EA}",
+      "Perl": "\\x{1F1EA}\\x{1F1EA}"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "emoji": "🪠",
+  "nome": "🪠 Desentupidor",
+  "categoria": "Plunger",
+  "url": "https://emojigraph.org/pt/plunger/",
+  "detalhes": {
+    "explicacao": "Uma imagem desentupidor, necessário para remediar um cano entupido. Também usado para mostrar que alguém tem um problema com boca suja, traz à tona questões antigas. Pistão foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/plunger_1faa0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/plunger_1faa0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/plunger_1faa0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/plunger_1faa0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/plunger_1faa0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/plunger_1faa0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/plunger_1faa0.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/plunger_1faa0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "banheiro",
+      "desentupidor",
+      "encanador",
+      "sucção",
+      "cocô",
+      "fezes",
+      "sanitário",
+      "vaso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAA0;",
+      "HTML dec": "&#129696;",
+      "URL escape code": "%F0%9F%AA%A0",
+      "Punycode": "xn--709h",
+      "Bytes (UTF-8)": "F0 9F AA A0",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEA0",
+      "C, C++, Python": "\\U0001faa0",
+      "CSS": "\\01FAA0",
+      "PHP, Ruby": "\\u{1FAA0}",
+      "Perl": "\\x{1FAA0}"
+    }
+  }
+}

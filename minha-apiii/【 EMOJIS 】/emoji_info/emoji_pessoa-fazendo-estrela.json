@@ -1,0 +1,75 @@
+{
+  "emoji": "🤸",
+  "nome": "🤸 Pessoa fazendo estrela",
+  "categoria": "Person Cartwheeling",
+  "url": "https://emojigraph.org/pt/person-cartwheeling/",
+  "detalhes": {
+    "explicacao": "Uma pessoa fazendo um cartwheel, o que representa o esporte de ginástica.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-cartwheeling_1f938.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-cartwheeling_1f938.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-cartwheeling_1f938.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-cartwheeling_1f938.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-cartwheeling_1f938.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-cartwheeling_1f938.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-cartwheeling_1f938.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-cartwheeling_1f938.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-cartwheeling_1f938.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-cartwheeling_1f938.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esporte",
+      "estrela",
+      "ginástica",
+      "pessoa",
+      "animada",
+      "animado",
+      "estrelinha",
+      "feliz",
+      "ginasta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F938;",
+      "HTML dec": "&#129336;",
+      "URL escape code": "%F0%9F%A4%B8",
+      "Punycode": "xn--xq9h",
+      "Bytes (UTF-8)": "F0 9F A4 B8",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD38",
+      "C, C++, Python": "\\U0001f938",
+      "CSS": "\\01F938",
+      "PHP, Ruby": "\\u{1F938}",
+      "Perl": "\\x{1F938}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emoji": "🦛",
+  "nome": "🦛 Hipopótamo",
+  "categoria": "hippopotamus",
+  "url": "https://emojigraph.org/pt/hippopotamus/",
+  "detalhes": {
+    "explicacao": "Um hipopótamo, um agachamento de água de mamíferos com enormes mandíbulas. Geralmente retratado na rosado cinza no perfil completo em todos os fours virada para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hippopotamus_1f99b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hippopotamus_1f99b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hippopotamus_1f99b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hippopotamus_1f99b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hippopotamus_1f99b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hippopotamus_1f99b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hippopotamus_1f99b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hippopotamus_1f99b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hippopotamus_1f99b.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/hippopotamus_1f99b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "hipopótamo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F99B;",
+      "HTML dec": "&#129435;",
+      "URL escape code": "%F0%9F%A6%9B",
+      "Punycode": "xn--rt9h",
+      "Bytes (UTF-8)": "F0 9F A6 9B",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD9B",
+      "C, C++, Python": "\\U0001f99b",
+      "CSS": "\\01F99B",
+      "PHP, Ruby": "\\u{1F99B}",
+      "Perl": "\\x{1F99B}"
+    }
+  }
+}

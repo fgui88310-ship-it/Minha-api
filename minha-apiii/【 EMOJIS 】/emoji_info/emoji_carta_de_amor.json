@@ -1,0 +1,94 @@
+{
+  "emoji": "💌",
+  "nome": "💌 Carta de amor",
+  "categoria": "love letter",
+  "url": "https://emojigraph.org/pt/love-letter/",
+  "detalhes": {
+    "explicacao": "As costas de um envelope, geralmente mostradas em branco e selado com um coração vermelho. Representa uma carta de amor ou uma nota, de dia dos namorados, ou afetuoso cartão de felicitações. Comumente usado para transmitir vários sentimentos ou mensagens de amor e felicidade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/love-letter_1f48c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/love-letter_1f48c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carta",
+      "carta de amor",
+      "coração",
+      "romance"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F48C;",
+      "HTML dec": "&#128140;",
+      "URL escape code": "%F0%9F%92%8C",
+      "Punycode": "xn--rr8h",
+      "Bytes (UTF-8)": "F0 9F 92 8C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC8C",
+      "C, C++, Python": "\\U0001f48c",
+      "CSS": "\\01F48C",
+      "PHP, Ruby": "\\u{1F48C}",
+      "Perl": "\\x{1F48C}"
+    }
+  }
+}

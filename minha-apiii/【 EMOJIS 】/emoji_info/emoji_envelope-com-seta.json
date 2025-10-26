@@ -1,0 +1,97 @@
+{
+  "emoji": "📩",
+  "nome": "📩 Envelope com seta",
+  "categoria": "Envelope With Arrow",
+  "url": "https://emojigraph.org/pt/envelope-with-arrow/",
+  "detalhes": {
+    "explicacao": "A parte de trás do envelope com uma seta para baixo na parte superior. Geralmente representado em branco (exceto por Google design de amarelo) com um vermelho ou uma seta azul.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/envelope-with-arrow_1f4e9.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/envelope-with-arrow_1f4e9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "carta",
+      "e-mail",
+      "email",
+      "envelope",
+      "seta",
+      "comunicação",
+      "correspondência"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4E9;",
+      "HTML dec": "&#128233;",
+      "URL escape code": "%F0%9F%93%A9",
+      "Punycode": "xn--fu8h",
+      "Bytes (UTF-8)": "F0 9F 93 A9",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCE9",
+      "C, C++, Python": "\\U0001f4e9",
+      "CSS": "\\01F4E9",
+      "PHP, Ruby": "\\u{1F4E9}",
+      "Perl": "\\x{1F4E9}"
+    }
+  }
+}

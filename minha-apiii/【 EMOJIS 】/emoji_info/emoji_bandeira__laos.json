@@ -1,0 +1,59 @@
+{
+  "emoji": "🇱🇦",
+  "nome": "🇱🇦 Bandeira: Laos",
+  "categoria": "flag laos",
+  "url": "https://emojigraph.org/pt/flag-laos/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Laos. Este símbolo é uma seqüência de caracteres 🇱 Símbolo Indicador Regional Letra L e 🇦 Símbolo Indicador Regional Letra A. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras LA em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-laos_1f1f1-1f1e6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-laos_1f1f1-1f1e6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-laos_1f1f1-1f1e6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-laos_1f1f1-1f1e6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-laos_1f1f1-1f1e6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-laos_1f1f1-1f1e6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-laos_1f1f1-1f1e6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-laos_1f1f1-1f1e6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F1;&#x1F1E6;",
+      "HTML dec": "&#127473;&#127462;",
+      "URL escape code": "%F0%9F%87%B1%F0%9F%87%A6",
+      "Punycode": "xn--e77hva",
+      "Bytes (UTF-8)": "F0 9F 87 B1 F0 9F 87 A6",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF1\\uD83C\\uDDE6",
+      "C, C++, Python": "\\U0001f1f1\\U0001f1e6",
+      "CSS": "\\01F1F1 \\01F1E6",
+      "PHP, Ruby": "\\u{1F1F1}\\u{1F1E6}",
+      "Perl": "\\x{1F1F1}\\x{1F1E6}"
+    }
+  }
+}

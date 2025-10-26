@@ -1,0 +1,67 @@
+{
+  "emoji": "🇳🇱",
+  "nome": "🇳🇱 Bandeira: Países Baixos",
+  "categoria": "flag netherlands",
+  "url": "https://emojigraph.org/pt/flag-netherlands/",
+  "detalhes": {
+    "explicacao": "O sinalizador para os países baixos, o que pode mostrar como as letras NL em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-netherlands_1f1f3-1f1f1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-netherlands_1f1f3-1f1f1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-netherlands_1f1f3-1f1f1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-netherlands_1f1f3-1f1f1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-netherlands_1f1f3-1f1f1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-netherlands_1f1f3-1f1f1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-netherlands_1f1f3-1f1f1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-netherlands_1f1f3-1f1f1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-netherlands_1f1f3-1f1f1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-netherlands_1f1f3-1f1f1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F3;&#x1F1F1;",
+      "HTML dec": "&#127475;&#127473;",
+      "URL escape code": "%F0%9F%87%B3%F0%9F%87%B1",
+      "Punycode": "xn--p77hd",
+      "Bytes (UTF-8)": "F0 9F 87 B3 F0 9F 87 B1",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF3\\uD83C\\uDDF1",
+      "C, C++, Python": "\\U0001f1f3\\U0001f1f1",
+      "CSS": "\\01F1F3 \\01F1F1",
+      "PHP, Ruby": "\\u{1F1F3}\\u{1F1F1}",
+      "Perl": "\\x{1F1F3}\\x{1F1F1}"
+    }
+  }
+}

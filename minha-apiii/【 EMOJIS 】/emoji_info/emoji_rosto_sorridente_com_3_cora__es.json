@@ -1,0 +1,78 @@
+{
+  "emoji": "🥰",
+  "nome": "🥰 Rosto sorridente com 3 corações",
+  "categoria": "smiling face with hearts",
+  "url": "https://emojigraph.org/pt/smiling-face-with-hearts/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com olhos sorridentes, um sorriso fechado, bochechas rosadas, e vários corações flutuando ao redor de sua cabeça. Expressa uma gama de felicidade, sentimentos afetuosos, especialmente no amor. O número de corações (três ou mais) varia de acordo com a plataforma.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/smiling-face-with-hearts_1f970.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/smiling-face-with-hearts_1f970.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/smiling-face-with-hearts_1f970.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/smiling-face-with-hearts_1f970.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/smiling-face-with-hearts_1f970.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/smiling-face-with-hearts_1f970.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/smiling-face-with-hearts_1f970.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/smiling-face-with-hearts_1f970.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/smiling-face-with-hearts_1f970.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/smiling-face-with-hearts_1f970.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amor",
+      "apaixonado",
+      "paixão",
+      "amando",
+      "amei",
+      "amo você",
+      "apaixonada",
+      "coração",
+      "crush",
+      "romance",
+      "rosto",
+      "te amo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F970;",
+      "HTML dec": "&#129392;",
+      "URL escape code": "%F0%9F%A5%B0",
+      "Punycode": "xn--js9h",
+      "Bytes (UTF-8)": "F0 9F A5 B0",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD70",
+      "C, C++, Python": "\\U0001f970",
+      "CSS": "\\01F970",
+      "PHP, Ruby": "\\u{1F970}",
+      "Perl": "\\x{1F970}"
+    }
+  }
+}

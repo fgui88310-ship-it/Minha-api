@@ -1,0 +1,21 @@
+import fs from 'fs/promises';
+import path from 'path';
+let cachedOAuthToken = null;
+import { PATHS } from '../../config.js';
+export async function getHeaders() {
+  const headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' };
+
+  if (!cachedOAuthToken) {
+    try {
+      const cookiesPath = path.join(PATHS.cookieSC.js);
+      const cookies = await fs.readFile(cookiesPath, 'utf8').catch(() => '');
+      const tokenMatch = cookies.match(/oauth_token\s*=\s*([^;]+)/);
+      if (tokenMatch) cachedOAuthToken = `OAuth ${tokenMatch[1]}`;
+    } catch (err) {
+      console.warn('[SOUNDCLOUD] Falha ao carregar OAuth token:', err.message);
+    }
+  }
+
+  if (cachedOAuthToken) headers['Authorization'] = cachedOAuthToken;
+  return headers;
+}

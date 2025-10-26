@@ -1,0 +1,69 @@
+{
+  "emoji": "🥣",
+  "nome": "🥣 Tigela com colher",
+  "categoria": "Bowl With Spoon",
+  "url": "https://emojigraph.org/pt/bowl-with-spoon/",
+  "detalhes": {
+    "explicacao": "Uma tigela com uma colher de prata para dentro, como costumava comer cereais ou sopa. Tigela de cores varia entre plataformas, assim como o conteúdo. Android retrata cereais de pequeno-almoço, o WhatsApp sopa de tomate; Apple está vazio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bowl-with-spoon_1f963.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bowl-with-spoon_1f963.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bowl-with-spoon_1f963.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bowl-with-spoon_1f963.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bowl-with-spoon_1f963.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bowl-with-spoon_1f963.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bowl-with-spoon_1f963.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bowl-with-spoon_1f963.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bowl-with-spoon_1f963.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bowl-with-spoon_1f963.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "café da manhã",
+      "cereal",
+      "prato de sopa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F963;",
+      "HTML dec": "&#129379;",
+      "URL escape code": "%F0%9F%A5%A3",
+      "Punycode": "xn--5r9h",
+      "Bytes (UTF-8)": "F0 9F A5 A3",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD63",
+      "C, C++, Python": "\\U0001f963",
+      "CSS": "\\01F963",
+      "PHP, Ruby": "\\u{1F963}",
+      "Perl": "\\x{1F963}"
+    }
+  }
+}

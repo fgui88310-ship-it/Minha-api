@@ -1,0 +1,94 @@
+{
+  "emoji": "📻",
+  "nome": "📻 Rádio",
+  "categoria": "radio",
+  "url": "https://emojigraph.org/pt/radio/",
+  "detalhes": {
+    "explicacao": "Um clássico do rádio portátil, utilizado para ouvir música, notícias ou esportes. Representado em várias cores e estilos, com um alto-falante e antena, seletor e botões.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/radio_1f4fb.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/radio_1f4fb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rádio",
+      "vídeo",
+      "radiola",
+      "som"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4FB;",
+      "HTML dec": "&#128251;",
+      "URL escape code": "%F0%9F%93%BB",
+      "Punycode": "xn--xu8h",
+      "Bytes (UTF-8)": "F0 9F 93 BB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCFB",
+      "C, C++, Python": "\\U0001f4fb",
+      "CSS": "\\01F4FB",
+      "PHP, Ruby": "\\u{1F4FB}",
+      "Perl": "\\x{1F4FB}"
+    }
+  }
+}

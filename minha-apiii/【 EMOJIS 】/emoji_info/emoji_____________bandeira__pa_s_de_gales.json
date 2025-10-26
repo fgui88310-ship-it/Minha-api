@@ -1,0 +1,69 @@
+{
+  "emoji": "🏴",
+  "nome": "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Bandeira: País de Gales",
+  "categoria": "flag wales",
+  "url": "https://emojigraph.org/pt/flag-wales/",
+  "detalhes": {
+    "explicacao": "A bandeira do país de Gales, um país no Reino Unido. Pode ser mostrada como as letras GBWS.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-wales_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-wales_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-wales_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-wales_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-wales_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-wales_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-wales_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-wales_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-wales_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/flag-wales_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira preta",
+      "tremulando",
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F;",
+      "HTML dec": "&#127988;&#917607;&#917602;&#917623;&#917612;&#917619;&#917631;",
+      "URL escape code": "%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%B7%F3%A0%81%AC%F3%A0%81%B3%F3%A0%81%BF",
+      "Punycode": "-",
+      "Bytes (UTF-8)": "F0 9F 8F B4 F3 A0 81 A7 F3 A0 81 A2 F3 A0 81 B7 F3 A0 81 AC F3 A0 81 B3 F3 A0 81 BF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFF4\\uDB40\\uDC67\\uDB40\\uDC62\\uDB40\\uDC77\\uDB40\\uDC6C\\uDB40\\uDC73\\uDB40\\uDC7F",
+      "C, C++, Python": "\\U0001f3f4\\U000e0067\\U000e0062\\U000e0077\\U000e006c\\U000e0073\\U000e007f",
+      "CSS": "\\01F3F4 \\0E0067 \\0E0062 \\0E0077 \\0E006C \\0E0073 \\0E007F",
+      "PHP, Ruby": "\\u{1F3F4}\\u{E0067}\\u{E0062}\\u{E0077}\\u{E006C}\\u{E0073}\\u{E007F}",
+      "Perl": "\\x{1F3F4}\\x{E0067}\\x{E0062}\\x{E0077}\\x{E006C}\\x{E0073}\\x{E007F}"
+    }
+  }
+}

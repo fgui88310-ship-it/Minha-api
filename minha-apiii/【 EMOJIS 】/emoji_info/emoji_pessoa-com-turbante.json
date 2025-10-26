@@ -1,0 +1,92 @@
+{
+  "emoji": "👳",
+  "nome": "👳 Pessoa com turbante",
+  "categoria": "Person Wearing Turban",
+  "url": "https://emojigraph.org/pt/person-wearing-turban/",
+  "detalhes": {
+    "explicacao": "Um homem vestindo um turbante; uma forma de costume headwear usado por Sikhs ou Muçulmanos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-wearing-turban_1f473.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-wearing-turban_1f473.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "turbante",
+      "pessoa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F473;",
+      "HTML dec": "&#128115;",
+      "URL escape code": "%F0%9F%91%B3",
+      "Punycode": "xn--1q8h",
+      "Bytes (UTF-8)": "F0 9F 91 B3",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC73",
+      "C, C++, Python": "\\U0001f473",
+      "CSS": "\\01F473",
+      "PHP, Ruby": "\\u{1F473}",
+      "Perl": "\\x{1F473}"
+    }
+  }
+}

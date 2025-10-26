@@ -1,0 +1,69 @@
+{
+  "emoji": "🏺",
+  "nome": "🏺 Ânfora",
+  "categoria": "Amphora",
+  "url": "https://emojigraph.org/pt/amphora/",
+  "detalhes": {
+    "explicacao": "Um homem alto, pote de cerâmica com duas alças e um estreito, pescoço e pés. Representa uma ânfora, como usado pelos antigos Gregos e Romanos para reter a água e o vinho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/amphora_1f3fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/amphora_1f3fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/amphora_1f3fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/amphora_1f3fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/amphora_1f3fa.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/amphora_1f3fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/amphora_1f3fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/amphora_1f3fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/amphora_1f3fa.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/amphora_1f3fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ânfora",
+      "vaso",
+      "vaso chinês"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3FA;",
+      "HTML dec": "&#127994;",
+      "URL escape code": "%F0%9F%8F%BA",
+      "Punycode": "xn--ln8h",
+      "Bytes (UTF-8)": "F0 9F 8F BA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFFA",
+      "C, C++, Python": "\\U0001f3fa",
+      "CSS": "\\01F3FA",
+      "PHP, Ruby": "\\u{1F3FA}",
+      "Perl": "\\x{1F3FA}"
+    }
+  }
+}

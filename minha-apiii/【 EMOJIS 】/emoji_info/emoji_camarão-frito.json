@@ -1,0 +1,94 @@
+{
+  "emoji": "🍤",
+  "nome": "🍤 Camarão frito",
+  "categoria": "Fried Shrimp",
+  "url": "https://emojigraph.org/pt/fried-shrimp/",
+  "detalhes": {
+    "explicacao": "Um camarão ou camarão empanado e frito marrom-dourado. Conhecido como ebi furai no Japão, mas, comumente chamado de camarão tempura *e servido em uma caixa de bento. Não deve ser confundido com o Camarão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/fried-shrimp_1f364.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/fried-shrimp_1f364.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "camarão",
+      "camarão frito",
+      "tempura",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F364;",
+      "HTML dec": "&#127844;",
+      "URL escape code": "%F0%9F%8D%A4",
+      "Punycode": "xn--bj8h",
+      "Bytes (UTF-8)": "F0 9F 8D A4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF64",
+      "C, C++, Python": "\\U0001f364",
+      "CSS": "\\01F364",
+      "PHP, Ruby": "\\u{1F364}",
+      "Perl": "\\x{1F364}"
+    }
+  }
+}

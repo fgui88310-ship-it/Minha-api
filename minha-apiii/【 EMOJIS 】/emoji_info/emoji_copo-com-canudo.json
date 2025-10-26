@@ -1,0 +1,72 @@
+{
+  "emoji": "🥤",
+  "nome": "🥤 Copo com canudo",
+  "categoria": "Cup With Straw",
+  "url": "https://emojigraph.org/pt/cup-with-straw/",
+  "detalhes": {
+    "explicacao": "Beber um copo com um canudo. Representado em várias plataformas como um copo descartável com tampa e canudinho, usada para servir refrigerantes em restaurantes fast-food. Pode ser usado para uma variedade de bebidas não alcoólicas, incluindo batidos, vitaminas, sucos e para fazer bebidas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cup-with-straw_1f964.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cup-with-straw_1f964.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cup-with-straw_1f964.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cup-with-straw_1f964.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cup-with-straw_1f964.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cup-with-straw_1f964.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cup-with-straw_1f964.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cup-with-straw_1f964.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cup-with-straw_1f964.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cup-with-straw_1f964.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "copo com canudo",
+      "suco",
+      "água",
+      "canudo",
+      "copo",
+      "refrigerante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F964;",
+      "HTML dec": "&#129380;",
+      "URL escape code": "%F0%9F%A5%A4",
+      "Punycode": "xn--6r9h",
+      "Bytes (UTF-8)": "F0 9F A5 A4",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD64",
+      "C, C++, Python": "\\U0001f964",
+      "CSS": "\\01F964",
+      "PHP, Ruby": "\\u{1F964}",
+      "Perl": "\\x{1F964}"
+    }
+  }
+}

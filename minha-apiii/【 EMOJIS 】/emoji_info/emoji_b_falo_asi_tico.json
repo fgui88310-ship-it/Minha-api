@@ -1,0 +1,86 @@
+{
+  "emoji": "🐃",
+  "nome": "🐃 Búfalo-asiático",
+  "categoria": "water buffalo",
+  "url": "https://emojigraph.org/pt/water-buffalo/",
+  "detalhes": {
+    "explicacao": "Um búfalo de água, um bovino, utilizado para arar os campos de arroz em partes da Ásia. Representado em escala de cinza ou preto em perfil completo em todos os fours virada para a esquerda, com uma cauda e ampla chifres enrolado nas pontas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/water-buffalo_1f403.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/water-buffalo_1f403.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "água",
+      "animal",
+      "búfalo",
+      "búfalo-asiático"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F403;",
+      "HTML dec": "&#128003;",
+      "URL escape code": "%F0%9F%90%83",
+      "Punycode": "xn--un8h",
+      "Bytes (UTF-8)": "F0 9F 90 83",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC03",
+      "C, C++, Python": "\\U0001f403",
+      "CSS": "\\01F403",
+      "PHP, Ruby": "\\u{1F403}",
+      "Perl": "\\x{1F403}"
+    }
+  }
+}

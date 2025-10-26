@@ -1,0 +1,92 @@
+{
+  "emoji": "👓",
+  "nome": "👓 Óculos",
+  "categoria": "Glasses",
+  "url": "https://emojigraph.org/pt/glasses/",
+  "detalhes": {
+    "explicacao": "A prescrição de óculos, mostrada com uma variedade de quadros, dependendo da plataforma.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/glasses_1f453.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/glasses_1f453.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "óculos"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F453;",
+      "HTML dec": "&#128083;",
+      "URL escape code": "%F0%9F%91%93",
+      "Punycode": "xn--4p8h",
+      "Bytes (UTF-8)": "F0 9F 91 93",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC53",
+      "C, C++, Python": "\\U0001f453",
+      "CSS": "\\01F453",
+      "PHP, Ruby": "\\u{1F453}",
+      "Perl": "\\x{1F453}"
+    }
+  }
+}

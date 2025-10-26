@@ -1,0 +1,72 @@
+{
+  "emoji": "🤞",
+  "nome": "🤞 Dedos cruzados",
+  "categoria": "Crossed Fingers",
+  "url": "https://emojigraph.org/pt/crossed-fingers/",
+  "detalhes": {
+    "explicacao": "Dedos cruzados, emoji, que apresenta o índice (primeiro) cruzado sobre o do meio (segundo) dedo. Comumente usado como um gesto indicando sorte, ou para mostrar o desejo de um resultado favorável.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crossed-fingers_1f91e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crossed-fingers_1f91e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crossed-fingers_1f91e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crossed-fingers_1f91e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crossed-fingers_1f91e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crossed-fingers_1f91e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crossed-fingers_1f91e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crossed-fingers_1f91e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crossed-fingers_1f91e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/crossed-fingers_1f91e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cruzados",
+      "dedos",
+      "mão",
+      "sorte",
+      "boa sorte",
+      "torcendo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F91E;",
+      "HTML dec": "&#129310;",
+      "URL escape code": "%F0%9F%A4%9E",
+      "Punycode": "xn--6p9h",
+      "Bytes (UTF-8)": "F0 9F A4 9E",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD1E",
+      "C, C++, Python": "\\U0001f91e",
+      "CSS": "\\01F91E",
+      "PHP, Ruby": "\\u{1F91E}",
+      "Perl": "\\x{1F91E}"
+    }
+  }
+}

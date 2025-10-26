@@ -1,0 +1,95 @@
+{
+  "emoji": "🚬",
+  "nome": "🚬 Cigarro",
+  "categoria": "Cigarette",
+  "url": "https://emojigraph.org/pt/cigarette/",
+  "detalhes": {
+    "explicacao": "Um cigarro aceso, com filtro, mostrado fumaça em diferentes direções. Comumente utilizado para representar as várias formas de fumar (por exemplo, tabaco, maconha, vaping), bem como metafóricos sentidos do tabagismo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cigarette_1f6ac.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cigarette_1f6ac.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cigarro",
+      "fumar",
+      "fumante",
+      "fumo",
+      "símbolo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6AC;",
+      "HTML dec": "&#128684;",
+      "URL escape code": "%F0%9F%9A%AC",
+      "Punycode": "xn--b78h",
+      "Bytes (UTF-8)": "F0 9F 9A AC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEAC",
+      "C, C++, Python": "\\U0001f6ac",
+      "CSS": "\\01F6AC",
+      "PHP, Ruby": "\\u{1F6AC}",
+      "Perl": "\\x{1F6AC}"
+    }
+  }
+}

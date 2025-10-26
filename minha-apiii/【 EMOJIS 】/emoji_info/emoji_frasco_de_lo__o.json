@@ -1,0 +1,77 @@
+{
+  "emoji": "🧴",
+  "nome": "🧴 Frasco de loção",
+  "categoria": "lotion bottle",
+  "url": "https://emojigraph.org/pt/lotion-bottle/",
+  "detalhes": {
+    "explicacao": "Uma garrafa de loção para a pele, como o hidratante ou filtro solar (protetor solar). Pode ser utilizado para outras higiene líquidos, incluindo o shampoo e a lavagem do corpo, bem como produtos de beleza.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/lotion-bottle_1f9f4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/lotion-bottle_1f9f4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/lotion-bottle_1f9f4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/lotion-bottle_1f9f4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/lotion-bottle_1f9f4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/lotion-bottle_1f9f4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/lotion-bottle_1f9f4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/lotion-bottle_1f9f4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/lotion-bottle_1f9f4.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/lotion-bottle_1f9f4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "frasco de loção",
+      "hidratante",
+      "loção",
+      "protetor solar",
+      "xampu",
+      "condicionador",
+      "creme",
+      "frasco",
+      "protetor",
+      "shampoo",
+      "solar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9F4;",
+      "HTML dec": "&#129524;",
+      "URL escape code": "%F0%9F%A7%B4",
+      "Punycode": "xn--bw9h",
+      "Bytes (UTF-8)": "F0 9F A7 B4",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDF4",
+      "C, C++, Python": "\\U0001f9f4",
+      "CSS": "\\01F9F4",
+      "PHP, Ruby": "\\u{1F9F4}",
+      "Perl": "\\x{1F9F4}"
+    }
+  }
+}

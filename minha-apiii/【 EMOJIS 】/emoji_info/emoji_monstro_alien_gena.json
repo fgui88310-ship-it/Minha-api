@@ -1,0 +1,98 @@
+{
+  "emoji": "👾",
+  "nome": "👾 Monstro alienígena",
+  "categoria": "alien monster",
+  "url": "https://emojigraph.org/pt/alien-monster/",
+  "detalhes": {
+    "explicacao": "Um amigável para o futuro, tentacled criatura do espaço com dois olhos. A maioria das grandes plataformas de estilo de design depois de estrangeiros em jogos de arcade clássicos como Space Invaders, deixando-o roxo e pixellated, como se em gráficos de 8-bits.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/alien-monster_1f47e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/alien-monster_1f47e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "monstro",
+      "OVNI",
+      "rosto",
+      "alien",
+      "E.T.",
+      "extraterrestre",
+      "game",
+      "pixelado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F47E;",
+      "HTML dec": "&#128126;",
+      "URL escape code": "%F0%9F%91%BE",
+      "Punycode": "xn--dr8h",
+      "Bytes (UTF-8)": "F0 9F 91 BE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC7E",
+      "C, C++, Python": "\\U0001f47e",
+      "CSS": "\\01F47E",
+      "PHP, Ruby": "\\u{1F47E}",
+      "Perl": "\\x{1F47E}"
+    }
+  }
+}

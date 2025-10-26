@@ -1,0 +1,94 @@
+{
+  "emoji": "🍕",
+  "nome": "🍕 Pizza",
+  "categoria": "Pizza",
+  "url": "https://emojigraph.org/pt/pizza/",
+  "detalhes": {
+    "explicacao": "Uma fatia de pizza de pepperoni, coberto com azeitonas pretas no Google. O WhatsApp adiciona o pimentão verde, A cebola branca.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pizza_1f355.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pizza_1f355.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fatia de pizza",
+      "pizza",
+      "fatia",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F355;",
+      "HTML dec": "&#127829;",
+      "URL escape code": "%F0%9F%8D%95",
+      "Punycode": "xn--vi8h",
+      "Bytes (UTF-8)": "F0 9F 8D 95",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF55",
+      "C, C++, Python": "\\U0001f355",
+      "CSS": "\\01F355",
+      "PHP, Ruby": "\\u{1F355}",
+      "Perl": "\\x{1F355}"
+    }
+  }
+}

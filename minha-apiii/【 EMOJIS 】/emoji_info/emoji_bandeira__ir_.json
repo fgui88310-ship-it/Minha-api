@@ -1,0 +1,67 @@
+{
+  "emoji": "🇮🇷",
+  "nome": "🇮🇷 Bandeira: Irã",
+  "categoria": "flag iran",
+  "url": "https://emojigraph.org/pt/flag-iran/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do irã. Este símbolo é uma seqüência de caracteres 🇮 Símbolo Indicador Regional Letra I e 🇷 Símbolo Indicador Regional Letra R. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras IR em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-iran_1f1ee-1f1f7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-iran_1f1ee-1f1f7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-iran_1f1ee-1f1f7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-iran_1f1ee-1f1f7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-iran_1f1ee-1f1f7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-iran_1f1ee-1f1f7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-iran_1f1ee-1f1f7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-iran_1f1ee-1f1f7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-iran_1f1ee-1f1f7.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-iran_1f1ee-1f1f7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EE;&#x1F1F7;",
+      "HTML dec": "&#127470;&#127479;",
+      "URL escape code": "%F0%9F%87%AE%F0%9F%87%B7",
+      "Punycode": "xn--m77hsa",
+      "Bytes (UTF-8)": "F0 9F 87 AE F0 9F 87 B7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEE\\uD83C\\uDDF7",
+      "C, C++, Python": "\\U0001f1ee\\U0001f1f7",
+      "CSS": "\\01F1EE \\01F1F7",
+      "PHP, Ruby": "\\u{1F1EE}\\u{1F1F7}",
+      "Perl": "\\x{1F1EE}\\x{1F1F7}"
+    }
+  }
+}

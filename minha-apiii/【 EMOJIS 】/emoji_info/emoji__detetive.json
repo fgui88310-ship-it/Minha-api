@@ -1,0 +1,69 @@
+{
+  "emoji": "🕵",
+  "nome": "🕵️ Detetive",
+  "categoria": "detective",
+  "url": "https://emojigraph.org/pt/detective/",
+  "detalhes": {
+    "explicacao": "Um investigador disfarçado, usando um chapéu, e às vezes usando uma lupa para inspecionar de perto provas. Este emoji não originalmente recomendo emoji modificadores, mas a proposta foi criada para atender a esta.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/detective_1f575-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/detective_1f575-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/detective_1f575-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/detective_1f575-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/detective_1f575-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/detective_1f575-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/detective_1f575-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/detective_1f575-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/detective_1f575-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/detective_1f575-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "detetive",
+      "espião",
+      "investigador"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F575;&#xFE0F;",
+      "HTML dec": "&#128373;&#65039;",
+      "URL escape code": "%F0%9F%95%B5%EF%B8%8F",
+      "Punycode": "xn--fy8h",
+      "Bytes (UTF-8)": "F0 9F 95 B5 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD75\\uFE0F",
+      "C, C++, Python": "\\U0001f575\\uFE0F",
+      "CSS": "\\01F575 \\FE0F",
+      "PHP, Ruby": "\\u{1F575}\\u{FE0F}",
+      "Perl": "\\x{1F575}\\x{FE0F}"
+    }
+  }
+}

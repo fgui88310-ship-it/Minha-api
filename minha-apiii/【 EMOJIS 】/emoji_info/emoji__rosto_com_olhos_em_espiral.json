@@ -1,0 +1,80 @@
+{
+  "emoji": "😵",
+  "nome": "😵‍💫 Rosto com olhos em espiral",
+  "categoria": "face with spiral eyes",
+  "url": "https://emojigraph.org/pt/face-with-spiral-eyes/",
+  "detalhes": {
+    "explicacao": "O emoji Face with Spiral Eyes foi proposto para resolver a interoperabilidade do fornecedor. Em relação ao emoji 😵 Rosto atordoado, parte das plataformas renderizou com \"olhos em espiral\", enquanto a outra parte foi renderizada com \"olhos X \".",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-spiral-eyes_1f635-200d-1f4ab.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-spiral-eyes_1f635-200d-1f4ab.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-spiral-eyes_1f635-200d-1f4ab.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-spiral-eyes_1f635-200d-1f4ab.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-spiral-eyes_1f635-200d-1f4ab.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-spiral-eyes_1f635-200d-1f4ab.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-spiral-eyes_1f635-200d-1f4ab.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-spiral-eyes_1f635-200d-1f4ab.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-spiral-eyes_1f635-200d-1f4ab.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/face-with-spiral-eyes_1f635-200d-1f4ab.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "espirais",
+      "hipnotizado",
+      "problema",
+      "tontura",
+      "uau",
+      "caramba",
+      "confusa",
+      "confuso",
+      "desnorteada",
+      "desnorteado",
+      "eita",
+      "putz",
+      "tonta",
+      "tonto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1f635;&#x200d;&#x1f4ab;",
+      "HTML dec": "&#128565;&#8205;&#128171;",
+      "URL escape code": "%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB",
+      "Punycode": "xn--ns8hty",
+      "Bytes (UTF-8)": "f0 9f 98 b5 e2 80 8d f0 9f 92 ab",
+      "JavaScript, JSON, Java": "\\ud83d\\ude35\\u200d\\ud83d\\udcab",
+      "C, C++, Python": "\\U0001f635\\u000200d\\u0001f4ab",
+      "CSS": "\\01F635 \\0200D \\01F4AB",
+      "PHP, Ruby": "\\u{1F635}\\u{200D}\\u{1F4AB}",
+      "Perl": "\\x{1F635}\\x{200D}\\x{1F4AB}"
+    }
+  }
+}

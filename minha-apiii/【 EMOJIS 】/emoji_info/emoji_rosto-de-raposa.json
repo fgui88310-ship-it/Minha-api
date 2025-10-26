@@ -1,0 +1,71 @@
+{
+  "emoji": "🦊",
+  "nome": "🦊 Rosto de raposa",
+  "categoria": "Fox",
+  "url": "https://emojigraph.org/pt/fox/",
+  "detalhes": {
+    "explicacao": "Uma amigável cara de raposa, a astúcia canina, olhando para a frente. Descrito como uma raposa laranja, com o nariz pontiagudo e orelhas felpudas, rosto branco.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fox_1f98a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fox_1f98a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fox_1f98a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fox_1f98a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fox_1f98a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fox_1f98a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fox_1f98a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fox_1f98a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fox_1f98a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fox_1f98a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "raposa",
+      "rosto",
+      "rosto de raposa",
+      "animal",
+      "bicho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F98A;",
+      "HTML dec": "&#129418;",
+      "URL escape code": "%F0%9F%A6%8A",
+      "Punycode": "xn--9s9h",
+      "Bytes (UTF-8)": "F0 9F A6 8A",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD8A",
+      "C, C++, Python": "\\U0001f98a",
+      "CSS": "\\01F98A",
+      "PHP, Ruby": "\\u{1F98A}",
+      "Perl": "\\x{1F98A}"
+    }
+  }
+}

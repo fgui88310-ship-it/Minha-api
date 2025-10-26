@@ -1,0 +1,97 @@
+{
+  "emoji": "👻",
+  "nome": "👻 Fantasma",
+  "categoria": "Ghost",
+  "url": "https://emojigraph.org/pt/ghost/",
+  "detalhes": {
+    "explicacao": "Boo! Um fantasma branco, desenhos animados de fantasma, fazendo uma cara engraçada. Sua língua está solta e braços estão estendidos, como se tentando assustar alguém de uma forma amigável. Várias plataformas apresentam uma representação maior, com olhos esbugalhados. Ver também o dia das bruxas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ghost_1f47b.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ghost_1f47b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "conto de fadas",
+      "fantasma",
+      "rosto",
+      "assombração",
+      "assombrado",
+      "buu",
+      "halloween"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F47B;",
+      "HTML dec": "&#128123;",
+      "URL escape code": "%F0%9F%91%BB",
+      "Punycode": "xn--9q8h",
+      "Bytes (UTF-8)": "F0 9F 91 BB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC7B",
+      "C, C++, Python": "\\U0001f47b",
+      "CSS": "\\01F47B",
+      "PHP, Ruby": "\\u{1F47B}",
+      "Perl": "\\x{1F47B}"
+    }
+  }
+}

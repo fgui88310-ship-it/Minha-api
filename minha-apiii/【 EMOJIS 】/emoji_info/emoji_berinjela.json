@@ -1,0 +1,95 @@
+{
+  "emoji": "🍆",
+  "nome": "🍆 Berinjela",
+  "categoria": "Eggplant",
+  "url": "https://emojigraph.org/pt/eggplant/",
+  "detalhes": {
+    "explicacao": "Um longo, bulbosa, berinjela roxa brilhante, mostrado com um frondoso tronco. Considerado de sorte no Japão o sonho de uma berinjela.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/eggplant_1f346.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/eggplant_1f346.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "berinjela",
+      "legume",
+      "beringela",
+      "comida",
+      "vegetal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F346;",
+      "HTML dec": "&#127814;",
+      "URL escape code": "%F0%9F%8D%86",
+      "Punycode": "xn--gi8h",
+      "Bytes (UTF-8)": "F0 9F 8D 86",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF46",
+      "C, C++, Python": "\\U0001f346",
+      "CSS": "\\01F346",
+      "PHP, Ruby": "\\u{1F346}",
+      "Perl": "\\x{1F346}"
+    }
+  }
+}

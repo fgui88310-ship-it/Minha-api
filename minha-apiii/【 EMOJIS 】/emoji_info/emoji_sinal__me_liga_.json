@@ -1,0 +1,71 @@
+{
+  "emoji": "🤙",
+  "nome": "🤙 Sinal \"me liga\"",
+  "categoria": "call me hand",
+  "url": "https://emojigraph.org/pt/call-me-hand/",
+  "detalhes": {
+    "explicacao": "Uma mão com o polegar e pouco (pinky) dedo estendido, fazendo um telefone tradicional-como a forma. Pode ser usado em conjunto com um rosto para sugerir \"call me\" (por favor).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/call-me-hand_1f919.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/call-me-hand_1f919.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/call-me-hand_1f919.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/call-me-hand_1f919.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/call-me-hand_1f919.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/call-me-hand_1f919.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/call-me-hand_1f919.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/call-me-hand_1f919.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/call-me-hand_1f919.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/call-me-hand_1f919.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ligar",
+      "sinal \"me liga\"",
+      "legal",
+      "mão",
+      "me liga"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F919;",
+      "HTML dec": "&#129305;",
+      "URL escape code": "%F0%9F%A4%99",
+      "Punycode": "xn--1p9h",
+      "Bytes (UTF-8)": "F0 9F A4 99",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD19",
+      "C, C++, Python": "\\U0001f919",
+      "CSS": "\\01F919",
+      "PHP, Ruby": "\\u{1F919}",
+      "Perl": "\\x{1F919}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emoji": "🕷",
+  "nome": "🕷️ Aranha",
+  "categoria": "Spider",
+  "url": "https://emojigraph.org/pt/spider/",
+  "detalhes": {
+    "explicacao": "Uma aranha, de oito patas das aranhas que fazem teias. Descrito como uma aranha preta comum, com um funil de teia de aranha, mostrado acima, com seu grande abdômen orientado na parte inferior.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/spider_1f577-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/spider_1f577-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/spider_1f577-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/spider_1f577-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/spider_1f577-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/spider_1f577-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/spider_1f577-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/spider_1f577-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/spider_1f577-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/spider_1f577-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aranha",
+      "inseto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F577;&#xFE0F;",
+      "HTML dec": "&#128375;&#65039;",
+      "URL escape code": "%F0%9F%95%B7%EF%B8%8F",
+      "Punycode": "xn--hy8h",
+      "Bytes (UTF-8)": "F0 9F 95 B7 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD77\\uFE0F",
+      "C, C++, Python": "\\U0001f577\\uFE0F",
+      "CSS": "\\01F577 \\FE0F",
+      "PHP, Ruby": "\\u{1F577}\\u{FE0F}",
+      "Perl": "\\x{1F577}\\x{FE0F}"
+    }
+  }
+}

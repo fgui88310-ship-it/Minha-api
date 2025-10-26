@@ -1,0 +1,73 @@
+{
+  "emoji": "🤿",
+  "nome": "🤿 Máscara de mergulho",
+  "categoria": "diving mask",
+  "url": "https://emojigraph.org/pt/diving-mask/",
+  "detalhes": {
+    "explicacao": "Máscara de mergulho foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/diving-mask_1f93f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/diving-mask_1f93f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/diving-mask_1f93f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/diving-mask_1f93f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/diving-mask_1f93f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/diving-mask_1f93f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/diving-mask_1f93f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/diving-mask_1f93f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/diving-mask_1f93f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/diving-mask_1f93f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mergulhador",
+      "mergulho",
+      "scuba",
+      "snorkeling",
+      "esnórquel",
+      "mergulhadora",
+      "snorkel"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F93F;",
+      "HTML dec": "&#129343;",
+      "URL escape code": "%F0%9F%A4%BF",
+      "Punycode": "xn--4q9h",
+      "Bytes (UTF-8)": "F0 9F A4 BF",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD3F",
+      "C, C++, Python": "\\U0001f93f",
+      "CSS": "\\01F93F",
+      "PHP, Ruby": "\\u{1F93F}",
+      "Perl": "\\x{1F93F}"
+    }
+  }
+}

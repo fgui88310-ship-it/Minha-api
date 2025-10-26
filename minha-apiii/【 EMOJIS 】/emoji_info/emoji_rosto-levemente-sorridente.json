@@ -1,0 +1,87 @@
+{
+  "emoji": "🙂",
+  "nome": "🙂 Rosto levemente sorridente",
+  "categoria": "Slightly Smiling Face",
+  "url": "https://emojigraph.org/pt/slightly-smiling-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com a expressão simples, abrindo os olhos e um fino sorriso fechado. Transmite uma ampla gama de positividade, feliz, amigável e sentimental. O seu tom paternalista, passivo-agressivo, ou irônico, como se dizendo: está tudo bem quando realmente não está.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/slightly-smiling-face_1f642.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/slightly-smiling-face_1f642.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "sorriso",
+      "feliz",
+      "rosto sorrindo",
+      "sorriso leve"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F642;",
+      "HTML dec": "&#128578;",
+      "URL escape code": "%F0%9F%99%82",
+      "Punycode": "xn--938h",
+      "Bytes (UTF-8)": "F0 9F 99 82",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE42",
+      "C, C++, Python": "\\U0001f642",
+      "CSS": "\\01F642",
+      "PHP, Ruby": "\\u{1F642}",
+      "Perl": "\\x{1F642}"
+    }
+  }
+}

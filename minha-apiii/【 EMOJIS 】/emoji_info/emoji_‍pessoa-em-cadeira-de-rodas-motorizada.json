@@ -1,0 +1,51 @@
+{
+  "emoji": "🧑",
+  "nome": "🧑‍🦼 Pessoa em cadeira de rodas motorizada",
+  "categoria": "Person In Motorized Wheelchair",
+  "url": "https://emojigraph.org/pt/person-in-motorized-wheelchair/",
+  "detalhes": {
+    "explicacao": "A Pessoa em Cadeira de rodas Motorizada emoji é uma sequência do 🧑 Adultos e 🦼 Cadeira de rodas Motorizada emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-in-motorized-wheelchair_1f9d1-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-in-motorized-wheelchair_1f9d1-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-in-motorized-wheelchair_1f9d1-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-in-motorized-wheelchair_1f9d1-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-in-motorized-wheelchair_1f9d1-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-in-motorized-wheelchair_1f9d1-200d-1f9bc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D1;&#x200D;&#x1F9BC;",
+      "HTML dec": "&#129489;&#8205;&#129468;",
+      "URL escape code": "%F0%9F%A7%91%E2%80%8D%F0%9F%A6%BC",
+      "Punycode": "xn--pu9hjb",
+      "Bytes (UTF-8)": "F0 9F A7 91 E2 80 8D F0 9F A6 BC",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD1\\u200D\\uD83E\\uDDBC",
+      "C, C++, Python": "\\U0001f9d1\\u200D\\U0001f9bc",
+      "CSS": "\\01F9D1 \\200D \\01F9BC",
+      "PHP, Ruby": "\\u{1F9D1}\\u{200D}\\u{1F9BC}",
+      "Perl": "\\x{1F9D1}\\x{200D}\\x{1F9BC}"
+    }
+  }
+}

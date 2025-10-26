@@ -1,0 +1,72 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍💻 Tecnóloga",
+  "categoria": "Woman Technologist",
+  "url": "https://emojigraph.org/pt/woman-technologist/",
+  "detalhes": {
+    "explicacao": "Uma mulher atrás de uma tela de computador, trabalhando na área de tecnologia.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-technologist_1f469-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-technologist_1f469-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-technologist_1f469-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-technologist_1f469-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-technologist_1f469-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-technologist_1f469-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-technologist_1f469-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-technologist_1f469-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-technologist_1f469-200d-1f4bb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-technologist_1f469-200d-1f4bb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "desenvolvedora",
+      "inventora",
+      "mulher",
+      "programadora",
+      "software",
+      "tecnóloga"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F4BB;",
+      "HTML dec": "&#128105;&#8205;&#128187;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB",
+      "Punycode": "xn--rq8hef",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F 92 BB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83D\\uDCBB",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f4bb",
+      "CSS": "\\01F469 \\200D \\01F4BB",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F4BB}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F4BB}"
+    }
+  }
+}

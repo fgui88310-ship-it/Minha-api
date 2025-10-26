@@ -1,0 +1,68 @@
+{
+  "emoji": "🥫",
+  "nome": "🥫 Comida enlatada",
+  "categoria": "Canned Food",
+  "url": "https://emojigraph.org/pt/canned-food/",
+  "detalhes": {
+    "explicacao": "Uma lata ou uma lata de comida, descrito como tomates ou um genérico vegetal verde. Pode ser usado também para representar o molho ou sopa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/canned-food_1f96b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/canned-food_1f96b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/canned-food_1f96b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/canned-food_1f96b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/canned-food_1f96b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/canned-food_1f96b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/canned-food_1f96b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/canned-food_1f96b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/canned-food_1f96b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/canned-food_1f96b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comida enlatada",
+      "lata"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F96B;",
+      "HTML dec": "&#129387;",
+      "URL escape code": "%F0%9F%A5%AB",
+      "Punycode": "xn--es9h",
+      "Bytes (UTF-8)": "F0 9F A5 AB",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD6B",
+      "C, C++, Python": "\\U0001f96b",
+      "CSS": "\\01F96B",
+      "PHP, Ruby": "\\u{1F96B}",
+      "Perl": "\\x{1F96B}"
+    }
+  }
+}

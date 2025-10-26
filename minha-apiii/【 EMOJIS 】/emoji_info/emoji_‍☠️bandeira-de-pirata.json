@@ -1,0 +1,70 @@
+{
+  "emoji": "🏴",
+  "nome": "🏴‍☠️ Bandeira de pirata",
+  "categoria": "Pirate Flag",
+  "url": "https://emojigraph.org/pt/pirate-flag/",
+  "detalhes": {
+    "explicacao": "Um crânio e ossos cruzados exibidos em uma bandeira preta, usado em navios piratas, também conhecido como uma Jolly Roger.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pirate-flag_1f3f4-200d-2620-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pirate-flag_1f3f4-200d-2620-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pirate-flag_1f3f4-200d-2620-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pirate-flag_1f3f4-200d-2620-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pirate-flag_1f3f4-200d-2620-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pirate-flag_1f3f4-200d-2620-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pirate-flag_1f3f4-200d-2620-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pirate-flag_1f3f4-200d-2620-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pirate-flag_1f3f4-200d-2620-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pirate-flag_1f3f4-200d-2620-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caveira e osso",
+      "pirata",
+      "saque",
+      "tesouro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3F4;&#x200D;&#x2620;&#xFE0F;",
+      "HTML dec": "&#127988;&#8205;&#9760;&#65039;",
+      "URL escape code": "%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F",
+      "Punycode": "xn--h4hx200o",
+      "Bytes (UTF-8)": "F0 9F 8F B4 E2 80 8D E2 98 A0 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFF4\\u200D\\u2620\\uFE0F",
+      "C, C++, Python": "\\U0001f3f4\\u200D\\u2620\\uFE0F",
+      "CSS": "\\01F3F4 \\200D \\2620 \\FE0F",
+      "PHP, Ruby": "\\u{1F3F4}\\u{200D}\\u{2620}\\u{FE0F}",
+      "Perl": "\\x{1F3F4}\\x{200D}\\x{2620}\\x{FE0F}"
+    }
+  }
+}

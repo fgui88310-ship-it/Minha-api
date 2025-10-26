@@ -1,0 +1,59 @@
+{
+  "emoji": "🇲🇿",
+  "nome": "🇲🇿 Bandeira: Moçambique",
+  "categoria": "flag mozambique",
+  "url": "https://emojigraph.org/pt/flag-mozambique/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Moçambique. Este símbolo é uma seqüência de caracteres 🇲 Símbolo Indicador Regional Letra М e 🇿 Símbolo Indicador Regional Letra Z. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras MZ em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-mozambique_1f1f2-1f1ff.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-mozambique_1f1f2-1f1ff.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-mozambique_1f1f2-1f1ff.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-mozambique_1f1f2-1f1ff.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-mozambique_1f1f2-1f1ff.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-mozambique_1f1f2-1f1ff.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-mozambique_1f1f2-1f1ff.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-mozambique_1f1f2-1f1ff.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F2;&#x1F1FF;",
+      "HTML dec": "&#127474;&#127487;",
+      "URL escape code": "%F0%9F%87%B2%F0%9F%87%BF",
+      "Punycode": "xn--q77h0a",
+      "Bytes (UTF-8)": "F0 9F 87 B2 F0 9F 87 BF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF2\\uD83C\\uDDFF",
+      "C, C++, Python": "\\U0001f1f2\\U0001f1ff",
+      "CSS": "\\01F1F2 \\01F1FF",
+      "PHP, Ruby": "\\u{1F1F2}\\u{1F1FF}",
+      "Perl": "\\x{1F1F2}\\x{1F1FF}"
+    }
+  }
+}

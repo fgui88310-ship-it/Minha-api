@@ -1,0 +1,70 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🌾 Fazendeiro",
+  "categoria": "man farmer",
+  "url": "https://emojigraph.org/pt/man-farmer/",
+  "detalhes": {
+    "explicacao": "O Homem Agricultor emoji é uma sequência do 👨 Homem e 🌾 Orelha de Arroz emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-farmer_1f468-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-farmer_1f468-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-farmer_1f468-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-farmer_1f468-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-farmer_1f468-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-farmer_1f468-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-farmer_1f468-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-farmer_1f468-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-farmer_1f468-200d-1f33e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-farmer_1f468-200d-1f33e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "agricultor",
+      "fazendeiro",
+      "homem",
+      "jardineiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F33E;",
+      "HTML dec": "&#128104;&#8205;&#127806;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%8C%BE",
+      "Punycode": "xn--7h8hts",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 8C BE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83C\\uDF3E",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f33e",
+      "CSS": "\\01F468 \\200D \\01F33E",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F33E}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F33E}"
+    }
+  }
+}

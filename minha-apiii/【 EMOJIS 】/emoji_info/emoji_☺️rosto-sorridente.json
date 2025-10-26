@@ -1,0 +1,93 @@
+{
+  "emoji": "",
+  "nome": "☺️ Rosto sorridente",
+  "categoria": "Smiling Face",
+  "url": "https://emojigraph.org/pt/smiling-face/",
+  "detalhes": {
+    "explicacao": "Um clássico sorriso. Uma face amarela com um modesto sorriso, bochechas rosadas e macias, de olhos fechados. Muitas plataformas, incluindo a Apple, usam sobrancelhas decontraídas. Transmite uma grande variedade de sensuais, sentimentos positivos, incluindo o amor, a felicidade e a gratidão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/smiling-face_263a-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/smiling-face_263a-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "sorridente",
+      "sorriso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x263A;&#xFE0F;",
+      "HTML dec": "&#9786;&#65039;",
+      "URL escape code": "%E2%98%BA%EF%B8%8F",
+      "Punycode": "xn--74h",
+      "Bytes (UTF-8)": "E2 98 BA EF B8 8F",
+      "JavaScript, JSON, Java": "\\u263A\\uFE0F",
+      "C, C++, Python": "\\u263A\\uFE0F",
+      "CSS": "\\263A \\FE0F",
+      "PHP, Ruby": "\\u{263A}\\u{FE0F}",
+      "Perl": "\\x{263A}\\x{FE0F}"
+    }
+  }
+}

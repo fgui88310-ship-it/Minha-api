@@ -1,0 +1,89 @@
+{
+  "emoji": "🚣",
+  "nome": "🚣 Pessoa remando",
+  "categoria": "person rowing boat",
+  "url": "https://emojigraph.org/pt/person-rowing-boat/",
+  "detalhes": {
+    "explicacao": "Um barco de pequeno porte adequado para um pequeno número de pessoas. Casais ou famílias, por vezes, contratar como uma atividade em águas calmas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-rowing-boat_1f6a3.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-rowing-boat_1f6a3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barco",
+      "barco a remo",
+      "pessoa remando",
+      "veículo",
+      "bote",
+      "canoa",
+      "transporte"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6A3;",
+      "HTML dec": "&#128675;",
+      "URL escape code": "%F0%9F%9A%A3",
+      "Punycode": "xn--168h",
+      "Bytes (UTF-8)": "F0 9F 9A A3",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEA3",
+      "C, C++, Python": "\\U0001f6a3",
+      "CSS": "\\01F6A3",
+      "PHP, Ruby": "\\u{1F6A3}",
+      "Perl": "\\x{1F6A3}"
+    }
+  }
+}

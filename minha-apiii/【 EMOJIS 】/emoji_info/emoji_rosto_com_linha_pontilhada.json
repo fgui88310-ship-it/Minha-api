@@ -1,0 +1,78 @@
+{
+  "emoji": "🫥",
+  "nome": "🫥 Rosto com linha pontilhada",
+  "categoria": "dotted line face",
+  "url": "https://emojigraph.org/pt/dotted-line-face/",
+  "detalhes": {
+    "explicacao": "Um emoji de rosto amarelo com preenchimento à meia-luz e um contorno tracejado ou pontilhado. A expressão do rosto é semelhante a 😐 Rosto neutro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dotted-line-face_1fae5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dotted-line-face_1fae5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dotted-line-face_1fae5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dotted-line-face_1fae5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dotted-line-face_1fae5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dotted-line-face_1fae5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dotted-line-face_1fae5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dotted-line-face_1fae5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dotted-line-face_1fae5.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/dotted-line-face_1fae5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "deprimido",
+      "desaparecer",
+      "esconder",
+      "introvertido",
+      "invisível",
+      "deprimida",
+      "escondida",
+      "escondido",
+      "indiferença",
+      "meh",
+      "smiley",
+      "tanto faz"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAE5;",
+      "HTML dec": "&#129765;",
+      "URL escape code": "%F0%9F%AB%A5",
+      "Punycode": "xn--629h",
+      "Bytes (UTF-8)": "f0 9f ab a5",
+      "JavaScript, JSON, Java": "\\ud83e\\udee5",
+      "C, C++, Python": "\\U0001fae5",
+      "CSS": "\\01FAE5",
+      "PHP, Ruby": "\\u{1FAE5}",
+      "Perl": "\\x{1FAE5}"
+    }
+  }
+}

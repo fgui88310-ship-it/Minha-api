@@ -1,0 +1,93 @@
+{
+  "emoji": "🍬",
+  "nome": "🍬 Bala",
+  "categoria": "Candy",
+  "url": "https://emojigraph.org/pt/candy/",
+  "detalhes": {
+    "explicacao": "Uma bala, doce, como aqueles entregues no dia das bruxas, envolvido com uma embalagem. Doces e a embalagem de cores variadas de acordo com a plataforma. Design do Facebook se assemelha a um clássico, invólucro vermelho-e-branco de hortelã-pimenta. Também pode ser chamado de doces ou picolés.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/candy_1f36c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/candy_1f36c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bala",
+      "balinha",
+      "doce"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F36C;",
+      "HTML dec": "&#127852;",
+      "URL escape code": "%F0%9F%8D%AC",
+      "Punycode": "xn--jj8h",
+      "Bytes (UTF-8)": "F0 9F 8D AC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF6C",
+      "C, C++, Python": "\\U0001f36c",
+      "CSS": "\\01F36C",
+      "PHP, Ruby": "\\u{1F36C}",
+      "Perl": "\\x{1F36C}"
+    }
+  }
+}

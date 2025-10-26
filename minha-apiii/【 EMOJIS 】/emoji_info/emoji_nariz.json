@@ -1,0 +1,96 @@
+{
+  "emoji": "👃",
+  "nome": "👃 Nariz",
+  "categoria": "Nose",
+  "url": "https://emojigraph.org/pt/nose/",
+  "detalhes": {
+    "explicacao": "Um nariz humano. Pode ser usado para indicar o cheiro, ou algo que cheira.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/nose_1f443.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/nose_1f443.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/nose_1f443.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/nose_1f443.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/nose_1f443.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/nose_1f443.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/nose_1f443.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/nose_1f443.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/nose_1f443.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/nose_1f443.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/nose_1f443.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/nose_1f443.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/nose_1f443.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/nose_1f443.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/nose_1f443.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/nose_1f443.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "corpo",
+      "nariz",
+      "rosto",
+      "cheirar",
+      "cheiro",
+      "odor"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F443;",
+      "HTML dec": "&#128067;",
+      "URL escape code": "%F0%9F%91%83",
+      "Punycode": "xn--op8h",
+      "Bytes (UTF-8)": "F0 9F 91 83",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC43",
+      "C, C++, Python": "\\U0001f443",
+      "CSS": "\\01F443",
+      "PHP, Ruby": "\\u{1F443}",
+      "Perl": "\\x{1F443}"
+    }
+  }
+}

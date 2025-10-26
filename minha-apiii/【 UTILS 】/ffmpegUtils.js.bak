@@ -1,0 +1,25 @@
+import { execSync } from 'child_process';
+import { join } from 'path';
+import {} from '../config.js';
+import fs from 'fs';
+PATHS
+export function checkFFmpeg() {
+  try {
+    execSync('ffmpeg -version', { stdio: 'ignore' });
+    return true;
+  } catch {
+    console.error('[FFmpeg] Não encontrado no sistema!');
+    return false;
+  }
+}
+
+export async function extractAudio(videoPath) {
+  const output = join(PATHS.downloadsDir, `${Date.now()}_audio.mp3`);
+  try {
+    execSync(`ffmpeg -i "${videoPath}" -q:a 0 -map a "${output}" -y`);
+    return output;
+  } catch (err) {
+    console.error('[FFmpeg] Erro ao extrair áudio:', err.message);
+    return null;
+  }
+}

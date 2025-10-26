@@ -1,0 +1,78 @@
+{
+  "emoji": "🪭",
+  "nome": "🪭 Leque dobrável",
+  "categoria": "Folding Hand Fan",
+  "url": "https://emojigraph.org/pt/folding-hand-fan/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/folding-hand-fan_1faad.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/folding-hand-fan_1faad.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/folding-hand-fan_1faad.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/folding-hand-fan_1faad.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/folding-hand-fan_1faad.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/folding-hand-fan_1faad.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/folding-hand-fan_1faad.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/folding-hand-fan_1faad.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/folding-hand-fan_1faad.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/folding-hand-fan_1faad.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balançar",
+      "dança",
+      "leque",
+      "leque dobrável",
+      "quente",
+      "refrescante",
+      "tímida",
+      "abanar",
+      "arejar",
+      "calor",
+      "flertar",
+      "refrescar",
+      "timidez"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAAD;",
+      "HTML dec": "&#129709;",
+      "URL escape code": "%F0%9F%AA%AD",
+      "Bytes (UTF-8)": "f0 9f aa ad",
+      "JavaScript, JSON, Java": "\\ud83e\\udead",
+      "C, C++, Python": "\\U0001faad",
+      "CSS": "\\01FAAD",
+      "PHP, Ruby": "\\u{1FAAD}",
+      "Perl": "\\x{1FAAD}"
+    }
+  }
+}

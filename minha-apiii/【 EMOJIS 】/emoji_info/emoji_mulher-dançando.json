@@ -1,0 +1,99 @@
+{
+  "emoji": "💃",
+  "nome": "💃 Mulher dançando",
+  "categoria": "Woman Dancing",
+  "url": "https://emojigraph.org/pt/woman-dancing/",
+  "detalhes": {
+    "explicacao": "Uma pessoa dançando, mais comumente apresentada como uma mulher com um braço levantado vestindo um vestido vermelho, enquanto dança a salsa, ou flamenco. Muitas vezes utilizado para representar um senso de diversão ou como uma afirmação positiva, por exemplo, \"ótimo! 💃\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/woman-dancing_1f483.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/woman-dancing_1f483.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dançando",
+      "mulher",
+      "bailarina",
+      "dança",
+      "flamenco",
+      "pessoas",
+      "salsa",
+      "tango",
+      "vamos dançar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F483;",
+      "HTML dec": "&#128131;",
+      "URL escape code": "%F0%9F%92%83",
+      "Punycode": "xn--ir8h",
+      "Bytes (UTF-8)": "F0 9F 92 83",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC83",
+      "C, C++, Python": "\\U0001f483",
+      "CSS": "\\01F483",
+      "PHP, Ruby": "\\u{1F483}",
+      "Perl": "\\x{1F483}"
+    }
+  }
+}

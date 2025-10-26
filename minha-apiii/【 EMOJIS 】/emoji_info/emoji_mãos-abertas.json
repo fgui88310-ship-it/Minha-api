@@ -1,0 +1,94 @@
+{
+  "emoji": "👐",
+  "nome": "👐 Mãos abertas",
+  "categoria": "Open Hands",
+  "url": "https://emojigraph.org/pt/open-hands/",
+  "detalhes": {
+    "explicacao": "Duas mãos abertas, o que representa a abertura. Às vezes usado como um abraço, ou como uma apresentação de paz.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/open-hands_1f450.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/open-hands_1f450.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "abertas",
+      "mão",
+      "mãos abertas",
+      "sinal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F450;",
+      "HTML dec": "&#128080;",
+      "URL escape code": "%F0%9F%91%90",
+      "Punycode": "xn--1p8h",
+      "Bytes (UTF-8)": "F0 9F 91 90",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC50",
+      "C, C++, Python": "\\U0001f450",
+      "CSS": "\\01F450",
+      "PHP, Ruby": "\\u{1F450}",
+      "Perl": "\\x{1F450}"
+    }
+  }
+}

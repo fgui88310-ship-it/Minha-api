@@ -1,0 +1,98 @@
+{
+  "emoji": "🙇",
+  "nome": "🙇 Pessoa fazendo reverência",
+  "categoria": "Person Bowing",
+  "url": "https://emojigraph.org/pt/person-bowing/",
+  "detalhes": {
+    "explicacao": "Uma pessoa curvando-se profundamente, que é conhecido como dogeza no Japão. Usado para expressar um pedido de desculpas sincero, ou para pedir um grande favor.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-bowing_1f647.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-bowing_1f647.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "desculpa",
+      "gesto",
+      "perdão",
+      "pessoa",
+      "reverência",
+      "arrependimento",
+      "desculpe",
+      "meditação"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F647;",
+      "HTML dec": "&#128583;",
+      "URL escape code": "%F0%9F%99%87",
+      "Punycode": "xn--f48h",
+      "Bytes (UTF-8)": "F0 9F 99 87",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE47",
+      "C, C++, Python": "\\U0001f647",
+      "CSS": "\\01F647",
+      "PHP, Ruby": "\\u{1F647}",
+      "Perl": "\\x{1F647}"
+    }
+  }
+}

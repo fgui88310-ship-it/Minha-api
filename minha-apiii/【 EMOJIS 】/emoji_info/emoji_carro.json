@@ -1,0 +1,93 @@
+{
+  "emoji": "🚗",
+  "nome": "🚗 Carro",
+  "categoria": "Automobile",
+  "url": "https://emojigraph.org/pt/automobile/",
+  "detalhes": {
+    "explicacao": "Um carro mostrado de lado, virado para a direita-para-esquerda. Aparece como um carro vermelho na maioria das plataformas (que vai mais rápido), exceto no Android, onde este apresenta-se como um carro prata (anteriormente azul).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/automobile_1f697.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/automobile_1f697.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "automóvel",
+      "carro",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F697;",
+      "HTML dec": "&#128663;",
+      "URL escape code": "%F0%9F%9A%97",
+      "Punycode": "xn--p68h",
+      "Bytes (UTF-8)": "F0 9F 9A 97",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE97",
+      "C, C++, Python": "\\U0001f697",
+      "CSS": "\\01F697",
+      "PHP, Ruby": "\\u{1F697}",
+      "Perl": "\\x{1F697}"
+    }
+  }
+}

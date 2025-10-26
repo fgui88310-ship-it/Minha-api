@@ -1,0 +1,82 @@
+{
+  "emoji": "😮",
+  "nome": "😮‍💨 Rosto exalando",
+  "categoria": "face exhaling",
+  "url": "https://emojigraph.org/pt/face-exhaling/",
+  "detalhes": {
+    "explicacao": "Um rosto amarelo fazendo uma exalação visível com o ar visível dissipado perto da boca aberta. Um suspiro é um reflexo fundamental de sustentação da vida, que ajuda a se acalmar no estresse, regulando a respiração. É um forte sinal subconsciente usado para expressar aos outros que você está chateado ou ansioso.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-exhaling_1f62e-200d-1f4a8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-exhaling_1f62e-200d-1f4a8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-exhaling_1f62e-200d-1f4a8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-exhaling_1f62e-200d-1f4a8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-exhaling_1f62e-200d-1f4a8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-exhaling_1f62e-200d-1f4a8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-exhaling_1f62e-200d-1f4a8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-exhaling_1f62e-200d-1f4a8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-exhaling_1f62e-200d-1f4a8.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/face-exhaling_1f62e-200d-1f4a8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alívio",
+      "assobio",
+      "assovio",
+      "choque",
+      "exalar",
+      "rosto exalando",
+      "assoprando",
+      "assopro",
+      "cansada",
+      "cansado",
+      "exausta",
+      "exausto",
+      "fumaça",
+      "suspirando",
+      "suspiro",
+      "suspiro triste"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1f62e;&#x200d;&#x1f4a8;",
+      "HTML dec": "&#128558;&#8205;&#128168;",
+      "URL escape code": "%F0%9F%98%AE%E2%80%8D%F0%9F%92%A8",
+      "Punycode": "xn--ks8hly",
+      "Bytes (UTF-8)": "f0 9f 98 ae e2 80 8d f0 9f 92 a8",
+      "JavaScript, JSON, Java": "\\ud83d\\ude2e\\u200d\\ud83d\\udca8",
+      "C, C++, Python": "\\U0001f62e\\u000200d\\u0001f4a8",
+      "CSS": "\\01F62E \\0200D \\01F4A8",
+      "PHP, Ruby": "\\u{1F62E}\\u{200D}\\u{1F4A8}",
+      "Perl": "\\x{1F62E}\\x{200D}\\x{1F4A8}"
+    }
+  }
+}

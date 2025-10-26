@@ -1,0 +1,72 @@
+{
+  "emoji": "🧾",
+  "nome": "🧾 Recibo",
+  "categoria": "Receipt",
+  "url": "https://emojigraph.org/pt/receipt/",
+  "detalhes": {
+    "explicacao": "Um papel branco recibo como prova de pagamento, e mostrado liso ou enrolado. Podem ser utilizados para outros documentos financeiros (por exemplo, a fatura, a forma de impostos). Pode também ser usada para uma gíria receipts, ou \"provas\" ou \"confirmação\" de algum feito ou controvérsia.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/receipt_1f9fe.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/receipt_1f9fe.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/receipt_1f9fe.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/receipt_1f9fe.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/receipt_1f9fe.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/receipt_1f9fe.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/receipt_1f9fe.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/receipt_1f9fe.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/receipt_1f9fe.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/receipt_1f9fe.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "contabilidade",
+      "escrituração",
+      "evidência",
+      "prova",
+      "recibo",
+      "fatura"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9FE;",
+      "HTML dec": "&#129534;",
+      "URL escape code": "%F0%9F%A7%BE",
+      "Punycode": "xn--lw9h",
+      "Bytes (UTF-8)": "F0 9F A7 BE",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDFE",
+      "C, C++, Python": "\\U0001f9fe",
+      "CSS": "\\01F9FE",
+      "PHP, Ruby": "\\u{1F9FE}",
+      "Perl": "\\x{1F9FE}"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "emoji": "🩻",
+  "nome": "🩻 Raio x",
+  "categoria": "x ray",
+  "url": "https://emojigraph.org/pt/x-ray/",
+  "detalhes": {
+    "explicacao": "Uma imagem de RAIO-X de um peito humano. Pode ser usado para representar um esqueleto, radiologia ou como uma metáfora de ver através de uma pessoa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/x-ray_1fa7b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/x-ray_1fa7b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/x-ray_1fa7b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/x-ray_1fa7b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/x-ray_1fa7b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/x-ray_1fa7b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/x-ray_1fa7b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/x-ray_1fa7b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/x-ray_1fa7b.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/x-ray_1fa7b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "doutor",
+      "esqueleto",
+      "médico",
+      "ossos",
+      "raio x",
+      "radiografia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA7B;",
+      "HTML dec": "&#129659;",
+      "URL escape code": "%F0%9F%A9%BB",
+      "Punycode": "xn--5z9h",
+      "Bytes (UTF-8)": "f0 9f a9 bb",
+      "JavaScript, JSON, Java": "\\ud83e\\ude7b",
+      "C, C++, Python": "\\U0001fa7b",
+      "CSS": "\\01FA7B",
+      "PHP, Ruby": "\\u{1FA7B}",
+      "Perl": "\\x{1FA7B}"
+    }
+  }
+}

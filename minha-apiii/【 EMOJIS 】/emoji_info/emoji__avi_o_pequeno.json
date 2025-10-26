@@ -1,0 +1,70 @@
+{
+  "emoji": "🛩",
+  "nome": "🛩️ Avião pequeno",
+  "categoria": "small airplane",
+  "url": "https://emojigraph.org/pt/small-airplane/",
+  "detalhes": {
+    "explicacao": "Um avião leve, que é mostrado com hélices em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/small-airplane_1f6e9-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/small-airplane_1f6e9-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/small-airplane_1f6e9-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/small-airplane_1f6e9-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/small-airplane_1f6e9-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/small-airplane_1f6e9-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/small-airplane_1f6e9-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/small-airplane_1f6e9-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/small-airplane_1f6e9-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/small-airplane_1f6e9-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aéreo",
+      "avião pequeno",
+      "veículo",
+      "veículo pequeno"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6E9;&#xFE0F;",
+      "HTML dec": "&#128745;&#65039;",
+      "URL escape code": "%F0%9F%9B%A9%EF%B8%8F",
+      "Punycode": "xn--188h",
+      "Bytes (UTF-8)": "F0 9F 9B A9 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEE9\\uFE0F",
+      "C, C++, Python": "\\U0001f6e9\\uFE0F",
+      "CSS": "\\01F6E9 \\FE0F",
+      "PHP, Ruby": "\\u{1F6E9}\\u{FE0F}",
+      "Perl": "\\x{1F6E9}\\x{FE0F}"
+    }
+  }
+}

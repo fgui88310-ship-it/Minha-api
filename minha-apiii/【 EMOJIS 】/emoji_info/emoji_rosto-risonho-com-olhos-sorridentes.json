@@ -1,0 +1,102 @@
+{
+  "emoji": "😄",
+  "nome": "😄 Rosto risonho com olhos sorridentes",
+  "categoria": "Grinning Face With Smiling Eyes",
+  "url": "https://emojigraph.org/pt/grinning-face-with-smiling-eyes/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com olhos sorridentes e um amplo sorriso aberto, mostrando os dentes de cima e a língua em algumas plataformas. Muitas vezes transmite a felicidade geral e bem-humorada de diversões.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/grinning-face-with-smiling-eyes_1f604.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/grinning-face-with-smiling-eyes_1f604.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aberta",
+      "boca",
+      "olhos",
+      "rosto",
+      "sorriso",
+      "engraçado",
+      "feliz",
+      "lol",
+      "risada",
+      "risonho",
+      "sorridente",
+      "sorrindo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F604;",
+      "HTML dec": "&#128516;",
+      "URL escape code": "%F0%9F%98%84",
+      "Punycode": "xn--i28h",
+      "Bytes (UTF-8)": "F0 9F 98 84",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE04",
+      "C, C++, Python": "\\U0001f604",
+      "CSS": "\\01F604",
+      "PHP, Ruby": "\\u{1F604}",
+      "Perl": "\\x{1F604}"
+    }
+  }
+}

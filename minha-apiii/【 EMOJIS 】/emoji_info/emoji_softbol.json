@@ -1,0 +1,71 @@
+{
+  "emoji": "🥎",
+  "nome": "🥎 Softbol",
+  "categoria": "Softball",
+  "url": "https://emojigraph.org/pt/softball/",
+  "detalhes": {
+    "explicacao": "Uma bola de softball, que é diferenciado a partir de uma bola de beisebol por tamanho (ele é maior, embora difícil dizer em emoji formulário) e a cor (amarelo, não é branco).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/softball_1f94e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/softball_1f94e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/softball_1f94e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/softball_1f94e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/softball_1f94e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/softball_1f94e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/softball_1f94e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/softball_1f94e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/softball_1f94e.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/softball_1f94e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "luva",
+      "softbol",
+      "esporte",
+      "softball"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F94E;",
+      "HTML dec": "&#129358;",
+      "URL escape code": "%F0%9F%A5%8E",
+      "Punycode": "xn--kr9h",
+      "Bytes (UTF-8)": "F0 9F A5 8E",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD4E",
+      "C, C++, Python": "\\U0001f94e",
+      "CSS": "\\01F94E",
+      "PHP, Ruby": "\\u{1F94E}",
+      "Perl": "\\x{1F94E}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇼🇫",
+  "nome": "🇼🇫 Bandeira: Wallis e Futuna",
+  "categoria": "flag wallis futuna",
+  "url": "https://emojigraph.org/pt/flag-wallis-futuna/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Wallis & Futuna. Este símbolo é uma seqüência de caracteres 🇼 Símbolo Indicador Regional Letra W e 🇫 Símbolo Indicador Regional Letra F. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras WF em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-wallis-futuna_1f1fc-1f1eb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-wallis-futuna_1f1fc-1f1eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-wallis-futuna_1f1fc-1f1eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-wallis-futuna_1f1fc-1f1eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-wallis-futuna_1f1fc-1f1eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-wallis-futuna_1f1fc-1f1eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-wallis-futuna_1f1fc-1f1eb.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-wallis-futuna_1f1fc-1f1eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1FC;&#x1F1EB;",
+      "HTML dec": "&#127484;&#127467;",
+      "URL escape code": "%F0%9F%87%BC%F0%9F%87%AB",
+      "Punycode": "xn--j77h7a",
+      "Bytes (UTF-8)": "F0 9F 87 BC F0 9F 87 AB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDFC\\uD83C\\uDDEB",
+      "C, C++, Python": "\\U0001f1fc\\U0001f1eb",
+      "CSS": "\\01F1FC \\01F1EB",
+      "PHP, Ruby": "\\u{1F1FC}\\u{1F1EB}",
+      "Perl": "\\x{1F1FC}\\x{1F1EB}"
+    }
+  }
+}

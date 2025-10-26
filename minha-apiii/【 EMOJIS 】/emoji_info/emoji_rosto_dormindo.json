@@ -1,0 +1,94 @@
+{
+  "emoji": "😴",
+  "nome": "😴 Rosto dormindo",
+  "categoria": "sleeping face",
+  "url": "https://emojigraph.org/pt/sleeping-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com os olhos fechados e subindo trêz Zzz de sobre a boca, cartoon-estilo Zzz sobrecarga para indicar que está dormindo profundamente. O Zzz aparecem em azul ou roxo em mais plataformas. Pode também representar o tédio (gíria, soneca).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sleeping-face_1f634.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sleeping-face_1f634.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "rosto dormindo",
+      "sono",
+      "zzz",
+      "boa noite",
+      "cama",
+      "cansada",
+      "cansado",
+      "cochilo",
+      "dormindo",
+      "dormir",
+      "soneca"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F634;",
+      "HTML dec": "&#128564;",
+      "URL escape code": "%F0%9F%98%B4",
+      "Punycode": "xn--v38h",
+      "Bytes (UTF-8)": "F0 9F 98 B4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE34",
+      "C, C++, Python": "\\U0001f634",
+      "CSS": "\\01F634",
+      "PHP, Ruby": "\\u{1F634}",
+      "Perl": "\\x{1F634}"
+    }
+  }
+}

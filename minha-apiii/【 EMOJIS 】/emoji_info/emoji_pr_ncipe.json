@@ -1,0 +1,69 @@
+{
+  "emoji": "🤴",
+  "nome": "🤴 Príncipe",
+  "categoria": "prince",
+  "url": "https://emojigraph.org/pt/prince/",
+  "detalhes": {
+    "explicacao": "Macho de royalties, destina-se como um gênero par para a princesa emoji. Mostrado como um homem com uma coroa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/prince_1f934.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/prince_1f934.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/prince_1f934.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/prince_1f934.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/prince_1f934.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/prince_1f934.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/prince_1f934.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/prince_1f934.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/prince_1f934.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/prince_1f934.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "príncipe",
+      "Realeza",
+      "rei"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F934;",
+      "HTML dec": "&#129332;",
+      "URL escape code": "%F0%9F%A4%B4",
+      "Punycode": "xn--tq9h",
+      "Bytes (UTF-8)": "F0 9F A4 B4",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD34",
+      "C, C++, Python": "\\U0001f934",
+      "CSS": "\\01F934",
+      "PHP, Ruby": "\\u{1F934}",
+      "Perl": "\\x{1F934}"
+    }
+  }
+}

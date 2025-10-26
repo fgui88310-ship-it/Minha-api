@@ -1,0 +1,88 @@
+{
+  "emoji": "🚴",
+  "nome": "🚴 Ciclista",
+  "categoria": "Person Biking",
+  "url": "https://emojigraph.org/pt/person-biking/",
+  "detalhes": {
+    "explicacao": "Uma pessoa andando de bicicleta para o lazer, de esporte ou de transporte. Se pretende ser de gênero neutro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-biking_1f6b4.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-biking_1f6b4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bicicleta",
+      "ciclista",
+      "bike",
+      "ciclismo",
+      "esporte",
+      "pedalar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6B4;",
+      "HTML dec": "&#128692;",
+      "URL escape code": "%F0%9F%9A%B4",
+      "Punycode": "xn--j78h",
+      "Bytes (UTF-8)": "F0 9F 9A B4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEB4",
+      "C, C++, Python": "\\U0001f6b4",
+      "CSS": "\\01F6B4",
+      "PHP, Ruby": "\\u{1F6B4}",
+      "Perl": "\\x{1F6B4}"
+    }
+  }
+}

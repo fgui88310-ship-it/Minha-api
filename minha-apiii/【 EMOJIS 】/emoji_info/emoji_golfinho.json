@@ -1,0 +1,93 @@
+{
+  "emoji": "🐬",
+  "nome": "🐬 Golfinho",
+  "categoria": "Dolphin",
+  "url": "https://emojigraph.org/pt/dolphin/",
+  "detalhes": {
+    "explicacao": "Um golfinho, um design elegante e de mamíferos marinhos, conhecido por ser social e inteligente. Geralmente retratada como uma luz azul golfinho com uma barriga branca no perfil completo virada para a esquerda, seu focinho curto curvando-se para baixo para uma proeminente na nadadeira dorsal e a cauda, como um golfinho saltando no ar.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/dolphin_1f42c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/dolphin_1f42c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "golfinho",
+      "oceano"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F42C;",
+      "HTML dec": "&#128044;",
+      "URL escape code": "%F0%9F%90%AC",
+      "Punycode": "xn--0o8h",
+      "Bytes (UTF-8)": "F0 9F 90 AC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC2C",
+      "C, C++, Python": "\\U0001f42c",
+      "CSS": "\\01F42C",
+      "PHP, Ruby": "\\u{1F42C}",
+      "Perl": "\\x{1F42C}"
+    }
+  }
+}

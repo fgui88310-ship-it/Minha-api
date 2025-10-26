@@ -1,0 +1,72 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🎤 Cantor homem",
+  "categoria": "man singer",
+  "url": "https://emojigraph.org/pt/man-singer/",
+  "detalhes": {
+    "explicacao": "Um homem cantora ou uma estrela de rock geralmente apresentado com um microfone, e, por vezes, as notas musicais.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-singer_1f468-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-singer_1f468-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-singer_1f468-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-singer_1f468-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-singer_1f468-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-singer_1f468-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-singer_1f468-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-singer_1f468-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-singer_1f468-200d-1f3a4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-singer_1f468-200d-1f3a4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "artista",
+      "ator",
+      "cantor",
+      "homem",
+      "pop",
+      "rock"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F3A4;",
+      "HTML dec": "&#128104;&#8205;&#127908;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%8E%A4",
+      "Punycode": "xn--4k8hhm",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 8E A4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83C\\uDFA4",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f3a4",
+      "CSS": "\\01F468 \\200D \\01F3A4",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F3A4}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F3A4}"
+    }
+  }
+}

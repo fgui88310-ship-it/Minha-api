@@ -1,0 +1,85 @@
+{
+  "emoji": "🐁",
+  "nome": "🐁 Camundongo",
+  "categoria": "Mouse",
+  "url": "https://emojigraph.org/pt/mouse/",
+  "detalhes": {
+    "explicacao": "Eek! Um rato, um pequeno roedor com grandes orelhas e cauda longa. Geralmente representado em branco no perfil completo em todos os fours virada para a esquerda, cor-de-rosa com orelhas, pés e cauda, muitas vezes, com os olhos avermelhados.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/mouse_1f401.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/mouse_1f401.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "camundongo",
+      "ratinho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F401;",
+      "HTML dec": "&#128001;",
+      "URL escape code": "%F0%9F%90%81",
+      "Punycode": "xn--sn8h",
+      "Bytes (UTF-8)": "F0 9F 90 81",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC01",
+      "C, C++, Python": "\\U0001f401",
+      "CSS": "\\01F401",
+      "PHP, Ruby": "\\u{1F401}",
+      "Perl": "\\x{1F401}"
+    }
+  }
+}

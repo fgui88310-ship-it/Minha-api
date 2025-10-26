@@ -1,0 +1,96 @@
+{
+  "emoji": "👧",
+  "nome": "👧 Menina",
+  "categoria": "Girl",
+  "url": "https://emojigraph.org/pt/girl/",
+  "detalhes": {
+    "explicacao": "O rosto de uma menina, sorrindo. Diferenciada da mulher emoji pelo penteado que apresenta tranças que não estão presentes na mulher.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/girl_1f467.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/girl_1f467.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/girl_1f467.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/girl_1f467.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/girl_1f467.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/girl_1f467.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/girl_1f467.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/girl_1f467.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/girl_1f467.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/girl_1f467.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/girl_1f467.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/girl_1f467.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/girl_1f467.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/girl_1f467.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/girl_1f467.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/girl_1f467.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "garota",
+      "menina",
+      "filha",
+      "menininha",
+      "neta",
+      "pessoas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F467;",
+      "HTML dec": "&#128103;",
+      "URL escape code": "%F0%9F%91%A7",
+      "Punycode": "xn--pq8h",
+      "Bytes (UTF-8)": "F0 9F 91 A7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC67",
+      "C, C++, Python": "\\U0001f467",
+      "CSS": "\\01F467",
+      "PHP, Ruby": "\\u{1F467}",
+      "Perl": "\\x{1F467}"
+    }
+  }
+}

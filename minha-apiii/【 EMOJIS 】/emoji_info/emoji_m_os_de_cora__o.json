@@ -1,0 +1,67 @@
+{
+  "emoji": "🫶",
+  "nome": "🫶 Mãos de coração",
+  "categoria": "heart hands",
+  "url": "https://emojigraph.org/pt/heart-hands/",
+  "detalhes": {
+    "explicacao": "As mãos esquerda e direita formam um coração entre os polegares apontando para baixo e os outros dedos se tocando ao longo das unhas. É uma alternativa para um emoji de ❤️ coração e um símbolo para respeitar as opiniões e valores do outro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/heart-hands_1faf6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/heart-hands_1faf6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/heart-hands_1faf6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/heart-hands_1faf6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/heart-hands_1faf6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/heart-hands_1faf6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/heart-hands_1faf6.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/heart-hands_1faf6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amor",
+      "mãos de coração",
+      "<3",
+      "amei",
+      "amo você",
+      "coração",
+      "mão",
+      "mãos",
+      "te amo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAF6;",
+      "HTML dec": "&#129782;",
+      "URL escape code": "%F0%9F%AB%B6",
+      "Punycode": "xn--o39h",
+      "Bytes (UTF-8)": "f0 9f ab b6",
+      "JavaScript, JSON, Java": "\\ud83e\\udef6",
+      "C, C++, Python": "\\U0001faf6",
+      "CSS": "\\01FAF6",
+      "PHP, Ruby": "\\u{1FAF6}",
+      "Perl": "\\x{1FAF6}"
+    }
+  }
+}

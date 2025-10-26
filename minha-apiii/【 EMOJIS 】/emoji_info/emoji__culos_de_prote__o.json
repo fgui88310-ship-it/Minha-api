@@ -1,0 +1,71 @@
+{
+  "emoji": "🥽",
+  "nome": "🥽 Óculos de proteção",
+  "categoria": "goggles",
+  "url": "https://emojigraph.org/pt/goggles/",
+  "detalhes": {
+    "explicacao": "Óculos de um tipo que não são especificados, mas implícita a óculos de segurança, em vez de óculos de natação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/goggles_1f97d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/goggles_1f97d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/goggles_1f97d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/goggles_1f97d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/goggles_1f97d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/goggles_1f97d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/goggles_1f97d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/goggles_1f97d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/goggles_1f97d.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/goggles_1f97d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "natação",
+      "soldagem",
+      "mergulho",
+      "óculos",
+      "solda"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F97D;",
+      "HTML dec": "&#129405;",
+      "URL escape code": "%F0%9F%A5%BD",
+      "Punycode": "xn--ws9h",
+      "Bytes (UTF-8)": "F0 9F A5 BD",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD7D",
+      "C, C++, Python": "\\U0001f97d",
+      "CSS": "\\01F97D",
+      "PHP, Ruby": "\\u{1F97D}",
+      "Perl": "\\x{1F97D}"
+    }
+  }
+}

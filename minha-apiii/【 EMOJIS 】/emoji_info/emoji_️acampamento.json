@@ -1,0 +1,68 @@
+{
+  "emoji": "🏕",
+  "nome": "🏕️ Acampamento",
+  "categoria": "Camping",
+  "url": "https://emojigraph.org/pt/camping/",
+  "detalhes": {
+    "explicacao": "Um parque de campismo com uma tenda e uma árvore, e, talvez, de uma fogueira. Semelhante à tenda emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/camping_1f3d5-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/camping_1f3d5-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/camping_1f3d5-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/camping_1f3d5-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/camping_1f3d5-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/camping_1f3d5-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/camping_1f3d5-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/camping_1f3d5-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/camping_1f3d5-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/camping_1f3d5-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acampamento",
+      "barraca"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3D5;&#xFE0F;",
+      "HTML dec": "&#127957;&#65039;",
+      "URL escape code": "%F0%9F%8F%95%EF%B8%8F",
+      "Punycode": "xn--jm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 95 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFD5\\uFE0F",
+      "C, C++, Python": "\\U0001f3d5\\uFE0F",
+      "CSS": "\\01F3D5 \\FE0F",
+      "PHP, Ruby": "\\u{1F3D5}\\u{FE0F}",
+      "Perl": "\\x{1F3D5}\\x{FE0F}"
+    }
+  }
+}

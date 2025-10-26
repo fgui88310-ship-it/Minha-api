@@ -1,0 +1,69 @@
+{
+  "emoji": "🥛",
+  "nome": "🥛 Copo de leite",
+  "categoria": "Glass Of Milk",
+  "url": "https://emojigraph.org/pt/glass-of-milk/",
+  "detalhes": {
+    "explicacao": "Um copo de leite branco, como o leite de uma vaca, mas também pode ser de outros mamíferos, nozes ou plantas. A maioria das plataformas retratam um copo cheio até a borda, mas alguns mostram um copo meio-cheio ou meio-vazio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/glass-of-milk_1f95b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/glass-of-milk_1f95b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/glass-of-milk_1f95b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/glass-of-milk_1f95b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/glass-of-milk_1f95b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/glass-of-milk_1f95b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/glass-of-milk_1f95b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/glass-of-milk_1f95b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/glass-of-milk_1f95b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/glass-of-milk_1f95b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "copo",
+      "copo de leite",
+      "leite"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F95B;",
+      "HTML dec": "&#129371;",
+      "URL escape code": "%F0%9F%A5%9B",
+      "Punycode": "xn--xr9h",
+      "Bytes (UTF-8)": "F0 9F A5 9B",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD5B",
+      "C, C++, Python": "\\U0001f95b",
+      "CSS": "\\01F95B",
+      "PHP, Ruby": "\\u{1F95B}",
+      "Perl": "\\x{1F95B}"
+    }
+  }
+}

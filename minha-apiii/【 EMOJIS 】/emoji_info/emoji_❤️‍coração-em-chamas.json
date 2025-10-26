@@ -1,0 +1,72 @@
+{
+  "emoji": "",
+  "nome": "❤️‍🔥 Coração em chamas",
+  "categoria": "Heart On Fire",
+  "url": "https://emojigraph.org/pt/heart-on-fire/",
+  "detalhes": {
+    "explicacao": "Um coração em chamas que expressa a intensidade dos sentimentos de amor, paixão, luxúria ou azia dolorosa. Este design icônico é comumente usado na cultura pop, como tatuagens, na mídia e na religião.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/heart-on-fire_2764-fe0f-200d-1f525.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/heart-on-fire_2764-fe0f-200d-1f525.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/heart-on-fire_2764-fe0f-200d-1f525.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/heart-on-fire_2764-fe0f-200d-1f525.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/heart-on-fire_2764-fe0f-200d-1f525.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/heart-on-fire_2764-fe0f-200d-1f525.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/heart-on-fire_2764-fe0f-200d-1f525.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/heart-on-fire_2764-fe0f-200d-1f525.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/heart-on-fire_2764-fe0f-200d-1f525.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/heart-on-fire_2764-fe0f-200d-1f525.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "amor",
+      "chamas",
+      "coração",
+      "coração sagrado",
+      "fogo",
+      "luxúria"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2764;&#xfe0f;&#x200d;&#x1f525;",
+      "HTML dec": "&#10084;&#65039;&#8205;&#128293;",
+      "URL escape code": "%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5",
+      "Punycode": "xn--qei7378m",
+      "Bytes (UTF-8)": "e2 9d a4 ef b8 8f e2 80 8d f0 9f 94 a5",
+      "JavaScript, JSON, Java": "\\u2764\\ufe0f\\u200d\\ud83d\\udd25",
+      "C, C++, Python": "\\U0002764\\u000fe0f\\u000200d\\u0001f525",
+      "CSS": "\\02764 \\0FE0F \\0200D \\01F525",
+      "PHP, Ruby": "\\u{2764}\\u{FE0F}\\u{200D}\\u{1F525}",
+      "Perl": "\\x{2764}\\x{FE0F}\\x{200D}\\x{1F525}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇧🇳",
+  "nome": "🇧🇳 Bandeira: Brunei",
+  "categoria": "flag brunei",
+  "url": "https://emojigraph.org/pt/flag-brunei/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Brunei. Este símbolo é uma seqüência de caracteres 🇧 Símbolo Indicador Regional Letra B e 🇳 Símbolo Indicador Regional Letra N. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras BN em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-brunei_1f1e7-1f1f3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-brunei_1f1e7-1f1f3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-brunei_1f1e7-1f1f3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-brunei_1f1e7-1f1f3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-brunei_1f1e7-1f1f3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-brunei_1f1e7-1f1f3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-brunei_1f1e7-1f1f3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-brunei_1f1e7-1f1f3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1F3;",
+      "HTML dec": "&#127463;&#127475;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%B3",
+      "Punycode": "xn--f77hya",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 B3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDF3",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1f3",
+      "CSS": "\\01F1E7 \\01F1F3",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1F3}",
+      "Perl": "\\x{1F1E7}\\x{1F1F3}"
+    }
+  }
+}

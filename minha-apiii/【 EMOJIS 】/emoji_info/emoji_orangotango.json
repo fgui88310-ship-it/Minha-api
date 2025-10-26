@@ -1,0 +1,69 @@
+{
+  "emoji": "🦧",
+  "nome": "🦧 Orangotango",
+  "categoria": "Orangutan",
+  "url": "https://emojigraph.org/pt/orangutan/",
+  "detalhes": {
+    "explicacao": "Um orangotango, o laranja cabelos ape com braços longos. Representado virados para a frente, com uma longa ampla rosto e sentado com suas pernas dobradas. Muitas vezes mostrado a coçar a cabeça. Cor da pele varia entre plataformas, variando do claro ao escuro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/orangutan_1f9a7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/orangutan_1f9a7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/orangutan_1f9a7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/orangutan_1f9a7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/orangutan_1f9a7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/orangutan_1f9a7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/orangutan_1f9a7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/orangutan_1f9a7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/orangutan_1f9a7.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/orangutan_1f9a7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "macaco",
+      "orangotango",
+      "primata"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9A7;",
+      "HTML dec": "&#129447;",
+      "URL escape code": "%F0%9F%A6%A7",
+      "Punycode": "xn--3t9h",
+      "Bytes (UTF-8)": "F0 9F A6 A7",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDA7",
+      "C, C++, Python": "\\U0001f9a7",
+      "CSS": "\\01F9A7",
+      "PHP, Ruby": "\\u{1F9A7}",
+      "Perl": "\\x{1F9A7}"
+    }
+  }
+}

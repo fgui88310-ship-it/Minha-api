@@ -1,0 +1,87 @@
+{
+  "emoji": "🐪",
+  "nome": "🐪 Camelo",
+  "categoria": "Camel",
+  "url": "https://emojigraph.org/pt/camel/",
+  "detalhes": {
+    "explicacao": "Um dromedário camelo, um longo pescoço de mamíferos com uma grande corcunda em suas costas. Representado na luz amarelada ou marrom no perfil completo em todos os fours virada para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/camel_1f42a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/camel_1f42a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "camelo",
+      "corcova",
+      "dromedário",
+      "deserto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F42A;",
+      "HTML dec": "&#128042;",
+      "URL escape code": "%F0%9F%90%AA",
+      "Punycode": "xn--yo8h",
+      "Bytes (UTF-8)": "F0 9F 90 AA",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC2A",
+      "C, C++, Python": "\\U0001f42a",
+      "CSS": "\\01F42A",
+      "PHP, Ruby": "\\u{1F42A}",
+      "Perl": "\\x{1F42A}"
+    }
+  }
+}

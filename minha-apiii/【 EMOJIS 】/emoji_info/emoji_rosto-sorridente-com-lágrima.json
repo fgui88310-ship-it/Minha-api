@@ -1,0 +1,84 @@
+{
+  "emoji": "🥲",
+  "nome": "🥲 Rosto sorridente com lágrima",
+  "categoria": "Smiling Face With Tear",
+  "url": "https://emojigraph.org/pt/smiling-face-with-tear/",
+  "detalhes": {
+    "explicacao": "Rosto sorridente com Lágrima foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/smiling-face-with-tear_1f972.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/smiling-face-with-tear_1f972.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/smiling-face-with-tear_1f972.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/smiling-face-with-tear_1f972.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/smiling-face-with-tear_1f972.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/smiling-face-with-tear_1f972.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/smiling-face-with-tear_1f972.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/smiling-face-with-tear_1f972.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/smiling-face-with-tear_1f972.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/smiling-face-with-tear_1f972.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aliviado",
+      "emocionado",
+      "grato",
+      "lágrima",
+      "orgulhoso",
+      "sorrindo",
+      "aliviada",
+      "chorando",
+      "chorar",
+      "contente",
+      "emocionada",
+      "felicidade",
+      "feliz",
+      "grata",
+      "gratidão",
+      "orgulhosa",
+      "rir",
+      "sorriso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F972;",
+      "HTML dec": "&#129394;",
+      "URL escape code": "%F0%9F%A5%B2",
+      "Punycode": "xn--ls9h",
+      "Bytes (UTF-8)": "F0 9F A5 B2",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD72",
+      "C, C++, Python": "\\U0001f972",
+      "CSS": "\\01F972",
+      "PHP, Ruby": "\\u{1F972}",
+      "Perl": "\\x{1F972}"
+    }
+  }
+}

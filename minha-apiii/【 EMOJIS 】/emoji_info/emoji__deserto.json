@@ -1,0 +1,67 @@
+{
+  "emoji": "🏜",
+  "nome": "🏜️ Deserto",
+  "categoria": "desert",
+  "url": "https://emojigraph.org/pt/desert/",
+  "detalhes": {
+    "explicacao": "Deserto foi aprovado como parte do Unicode 7.0 em 2014e acrescentou para o Emoji 1.0 em 2015.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/desert_1f3dc-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/desert_1f3dc-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/desert_1f3dc-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/desert_1f3dc-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/desert_1f3dc-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/desert_1f3dc-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/desert_1f3dc-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/desert_1f3dc-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/desert_1f3dc-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/desert_1f3dc-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "deserto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3DC;&#xFE0F;",
+      "HTML dec": "&#127964;&#65039;",
+      "URL escape code": "%F0%9F%8F%9C%EF%B8%8F",
+      "Punycode": "xn--qm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 9C EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFDC\\uFE0F",
+      "C, C++, Python": "\\U0001f3dc\\uFE0F",
+      "CSS": "\\01F3DC \\FE0F",
+      "PHP, Ruby": "\\u{1F3DC}\\u{FE0F}",
+      "Perl": "\\x{1F3DC}\\x{FE0F}"
+    }
+  }
+}

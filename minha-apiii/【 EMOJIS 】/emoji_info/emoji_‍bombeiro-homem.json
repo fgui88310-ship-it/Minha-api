@@ -1,0 +1,68 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🚒 Bombeiro homem",
+  "categoria": "Man Firefighter",
+  "url": "https://emojigraph.org/pt/man-firefighter/",
+  "detalhes": {
+    "explicacao": "O Homem Bombeiro emoji é uma sequência do 👨 Homem e 🚒 de bombeiros emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-firefighter_1f468-200d-1f692.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-firefighter_1f468-200d-1f692.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-firefighter_1f468-200d-1f692.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-firefighter_1f468-200d-1f692.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-firefighter_1f468-200d-1f692.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-firefighter_1f468-200d-1f692.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-firefighter_1f468-200d-1f692.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-firefighter_1f468-200d-1f692.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-firefighter_1f468-200d-1f692.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-firefighter_1f468-200d-1f692.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bombeiro",
+      "homem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F692;",
+      "HTML dec": "&#128104;&#8205;&#128658;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%9A%92",
+      "Punycode": "xn--qq8hu8a",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 9A 92",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83D\\uDE92",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f692",
+      "CSS": "\\01F468 \\200D \\01F692",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F692}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F692}"
+    }
+  }
+}

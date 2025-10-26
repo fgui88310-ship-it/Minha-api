@@ -1,0 +1,96 @@
+{
+  "emoji": "📝",
+  "nome": "📝 Memorando",
+  "categoria": "Memo",
+  "url": "https://emojigraph.org/pt/memo/",
+  "detalhes": {
+    "explicacao": "Um pedaço de papel branco com texto escrito por um lápis amarelo, posicionado sobre a folha, a ponta para baixo, em um ângulo de 45°. Comumente usado para conteúdo sobre os diversos tipos de documentos e escrita, incluindo a assinatura (no esporte).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/memo_1f4dd.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/memo_1f4dd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "lápis",
+      "memorando",
+      "anotações",
+      "caderno",
+      "comunicação",
+      "notas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4DD;",
+      "HTML dec": "&#128221;",
+      "URL escape code": "%F0%9F%93%9D",
+      "Punycode": "xn--2t8h",
+      "Bytes (UTF-8)": "F0 9F 93 9D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCDD",
+      "C, C++, Python": "\\U0001f4dd",
+      "CSS": "\\01F4DD",
+      "PHP, Ruby": "\\u{1F4DD}",
+      "Perl": "\\x{1F4DD}"
+    }
+  }
+}

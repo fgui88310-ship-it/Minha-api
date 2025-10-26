@@ -1,0 +1,67 @@
+{
+  "emoji": "🧒",
+  "nome": "🧒 Criança",
+  "categoria": "child",
+  "url": "https://emojigraph.org/pt/child/",
+  "detalhes": {
+    "explicacao": "Uma criança com nenhum gênero especificado. Isso pode ser usado como um gênero inclusiva alternativa para o menino ou menina emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/child_1f9d2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/child_1f9d2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/child_1f9d2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/child_1f9d2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/child_1f9d2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/child_1f9d2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/child_1f9d2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/child_1f9d2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/child_1f9d2.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/child_1f9d2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "criança"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D2;",
+      "HTML dec": "&#129490;",
+      "URL escape code": "%F0%9F%A7%92",
+      "Punycode": "xn--cv9h",
+      "Bytes (UTF-8)": "F0 9F A7 92",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD2",
+      "C, C++, Python": "\\U0001f9d2",
+      "CSS": "\\01F9D2",
+      "PHP, Ruby": "\\u{1F9D2}",
+      "Perl": "\\x{1F9D2}"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "emoji": "🌁",
+  "nome": "🌁 Enevoado",
+  "categoria": "Foggy",
+  "url": "https://emojigraph.org/pt/foggy/",
+  "detalhes": {
+    "explicacao": "Nevoento apresentada como a neblina cobrindo uma ponte ou cidade, dependendo da plataforma. Para plataformas que mostram uma ponte, o vermelho do Golden Gate bridge (Ponte) é geralmente apresentada.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/foggy_1f301.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/foggy_1f301.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "enevoado",
+      "neblina",
+      "bruma",
+      "cerração",
+      "névoa",
+      "nevoeiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F301;",
+      "HTML dec": "&#127745;",
+      "URL escape code": "%F0%9F%8C%81",
+      "Punycode": "xn--hg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 81",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF01",
+      "C, C++, Python": "\\U0001f301",
+      "CSS": "\\01F301",
+      "PHP, Ruby": "\\u{1F301}",
+      "Perl": "\\x{1F301}"
+    }
+  }
+}

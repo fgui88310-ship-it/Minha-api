@@ -1,0 +1,67 @@
+{
+  "emoji": "🇭🇺",
+  "nome": "🇭🇺 Bandeira: Hungria",
+  "categoria": "flag hungary",
+  "url": "https://emojigraph.org/pt/flag-hungary/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Hungria. Este símbolo é uma seqüência de caracteres 🇭 Símbolo Indicador Regional Letra H e 🇺 Símbolo Indicador Regional Letra U. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras HU em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-hungary_1f1ed-1f1fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-hungary_1f1ed-1f1fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-hungary_1f1ed-1f1fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-hungary_1f1ed-1f1fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-hungary_1f1ed-1f1fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-hungary_1f1ed-1f1fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-hungary_1f1ed-1f1fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-hungary_1f1ed-1f1fa.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-hungary_1f1ed-1f1fa.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-hungary_1f1ed-1f1fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1ED;&#x1F1FA;",
+      "HTML dec": "&#127469;&#127482;",
+      "URL escape code": "%F0%9F%87%AD%F0%9F%87%BA",
+      "Punycode": "xn--l77h0a",
+      "Bytes (UTF-8)": "F0 9F 87 AD F0 9F 87 BA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDED\\uD83C\\uDDFA",
+      "C, C++, Python": "\\U0001f1ed\\U0001f1fa",
+      "CSS": "\\01F1ED \\01F1FA",
+      "PHP, Ruby": "\\u{1F1ED}\\u{1F1FA}",
+      "Perl": "\\x{1F1ED}\\x{1F1FA}"
+    }
+  }
+}

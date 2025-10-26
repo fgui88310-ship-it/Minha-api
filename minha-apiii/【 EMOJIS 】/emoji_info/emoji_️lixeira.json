@@ -1,0 +1,68 @@
+{
+  "emoji": "🗑",
+  "nome": "🗑️ Lixeira",
+  "categoria": "Wastebasket",
+  "url": "https://emojigraph.org/pt/wastebasket/",
+  "detalhes": {
+    "explicacao": "Lata do lixo, como é usado para descarte de lixo em um escritório. Geralmente retratada como prateada, com recipiente em fio de malha. Também conhecido como um lixo ou lixeira.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/wastebasket_1f5d1-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/wastebasket_1f5d1-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/wastebasket_1f5d1-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/wastebasket_1f5d1-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/wastebasket_1f5d1-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/wastebasket_1f5d1-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/wastebasket_1f5d1-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/wastebasket_1f5d1-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/wastebasket_1f5d1-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/wastebasket_1f5d1-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cesto de lixo",
+      "lixeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5D1;&#xFE0F;",
+      "HTML dec": "&#128465;&#65039;",
+      "URL escape code": "%F0%9F%97%91%EF%B8%8F",
+      "Punycode": "xn--108h",
+      "Bytes (UTF-8)": "F0 9F 97 91 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDD1\\uFE0F",
+      "C, C++, Python": "\\U0001f5d1\\uFE0F",
+      "CSS": "\\01F5D1 \\FE0F",
+      "PHP, Ruby": "\\u{1F5D1}\\u{FE0F}",
+      "Perl": "\\x{1F5D1}\\x{FE0F}"
+    }
+  }
+}

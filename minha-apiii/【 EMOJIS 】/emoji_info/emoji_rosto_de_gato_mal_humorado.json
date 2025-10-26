@@ -1,0 +1,95 @@
+{
+  "emoji": "😾",
+  "nome": "😾 Rosto de gato mal-humorado",
+  "categoria": "pouting cat",
+  "url": "https://emojigraph.org/pt/pouting-cat/",
+  "detalhes": {
+    "explicacao": "Um gato dos desenhos animados variante de 😡 fazendo beicinho Rosto. Também se assemelha a 😠 Cara de brava. Descrito como amarelo nas principais plataformas. Por vezes utilizado para representar o meme de internet e celebridades Grumpy Cat.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pouting-cat_1f63e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pouting-cat_1f63e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fazendo bico",
+      "gato",
+      "rosto",
+      "rosto de gato",
+      "bravo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F63E;",
+      "HTML dec": "&#128574;",
+      "URL escape code": "%F0%9F%98%BE",
+      "Punycode": "xn--538h",
+      "Bytes (UTF-8)": "F0 9F 98 BE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE3E",
+      "C, C++, Python": "\\U0001f63e",
+      "CSS": "\\01F63E",
+      "PHP, Ruby": "\\u{1F63E}",
+      "Perl": "\\x{1F63E}"
+    }
+  }
+}

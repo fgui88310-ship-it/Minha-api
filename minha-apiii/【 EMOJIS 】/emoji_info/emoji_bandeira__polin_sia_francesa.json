@@ -1,0 +1,59 @@
+{
+  "emoji": "🇵🇫",
+  "nome": "🇵🇫 Bandeira: Polinésia Francesa",
+  "categoria": "flag french polynesia",
+  "url": "https://emojigraph.org/pt/flag-french-polynesia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Polinésia francesa. Este símbolo é uma seqüência de caracteres 🇵 Símbolo Indicador Regional Letra P e 🇫 Símbolo Indicador Regional Letra F. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras PF em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-french-polynesia_1f1f5-1f1eb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-french-polynesia_1f1f5-1f1eb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-french-polynesia_1f1f5-1f1eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-french-polynesia_1f1f5-1f1eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-french-polynesia_1f1f5-1f1eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-french-polynesia_1f1f5-1f1eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-french-polynesia_1f1f5-1f1eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-french-polynesia_1f1f5-1f1eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F5;&#x1F1EB;",
+      "HTML dec": "&#127477;&#127467;",
+      "URL escape code": "%F0%9F%87%B5%F0%9F%87%AB",
+      "Punycode": "xn--j77hta",
+      "Bytes (UTF-8)": "F0 9F 87 B5 F0 9F 87 AB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF5\\uD83C\\uDDEB",
+      "C, C++, Python": "\\U0001f1f5\\U0001f1eb",
+      "CSS": "\\01F1F5 \\01F1EB",
+      "PHP, Ruby": "\\u{1F1F5}\\u{1F1EB}",
+      "Perl": "\\x{1F1F5}\\x{1F1EB}"
+    }
+  }
+}

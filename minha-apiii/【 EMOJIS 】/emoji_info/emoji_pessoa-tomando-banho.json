@@ -1,0 +1,94 @@
+{
+  "emoji": "🛀",
+  "nome": "🛀 Pessoa tomando banho",
+  "categoria": "Person Taking Bath",
+  "url": "https://emojigraph.org/pt/person-taking-bath/",
+  "detalhes": {
+    "explicacao": "Um gênero não especificado pessoa a tomar um banho relaxante em uma banheira com um chuveiro. Comumente utilizado para vários conteúdos relativos tomar banho, lavar roupa, limpeza e banheiros em geral. Pode também representar o relaxamento e auto-cuidado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-taking-bath_1f6c0.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-taking-bath_1f6c0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "banheira",
+      "água",
+      "banho",
+      "banho de espuma"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6C0;",
+      "HTML dec": "&#128704;",
+      "URL escape code": "%F0%9F%9B%80",
+      "Punycode": "xn--v78h",
+      "Bytes (UTF-8)": "F0 9F 9B 80",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEC0",
+      "C, C++, Python": "\\U0001f6c0",
+      "CSS": "\\01F6C0",
+      "PHP, Ruby": "\\u{1F6C0}",
+      "Perl": "\\x{1F6C0}"
+    }
+  }
+}

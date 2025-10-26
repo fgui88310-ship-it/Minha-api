@@ -1,0 +1,74 @@
+// api/endpoints/lyrics.js
+import express from 'express';
+import axios from 'axios';
+import { parseHTML } from 'linkedom';
+
+const router = express.Router();
+
+// Endpoint: /api/lyrics?topic=nome_da_musica
+router.get('/', async (req, res) => {
+  const { topic } = req.query;
+  if (!topic) return res.status(400).json({ error: 'Passe ?topic= para buscar a letra' });
+
+  try {
+    // Busca inicial (JSONP)
+    const response = await axios.get(`https://solr.sscdn.co/letras/m1/?q=${encodeURIComponent(topic)}&wt=json&callback=LetrasSug`);
+    
+    if (response.status !== 200) {
+      return res.status(404).json({ error: 'Erro ao buscar letra da música' });
+    }
+
+    const jsonData = response.data.replace('LetrasSug(', '').replace(')\n', '');
+    const parsedData = JSON.parse(jsonData);
+
+    if (!parsedData?.response?.docs?.length) {
+      return res.status(404).json({ error: 'Letra não encontrada' });
+    }
+
+    const lyric = parsedData.response.docs[0];
+    if (!lyric?.dns || !lyric?.url) {
+      return res.status(404).json({ error: 'Letra não encontrada' });
+    }
+
+    // Busca página da letra
+    const lyricUrl = `https://www.letras.mus.br/${lyric.dns}/${lyric.url}`;
+    const lyricResponse = await axios.get(lyricUrl);
+
+    if (lyricResponse.status !== 200) {
+      return res.status(500).json({ error: 'Sem resposta do servidor da letra' });
+    }
+
+    // Parse HTML
+    const { document } = parseHTML(lyricResponse.data);
+    const title = document.querySelector('h1')?.textContent || 'Título não disponível';
+    const artist = document.querySelector('h2.textStyle-secondary')?.textContent || 'Artista não disponível';
+
+    const lyricElements = document.querySelectorAll('.lyric-original > p');
+    if (!lyricElements.length) return res.status(404).json({ error: 'Letra não encontrada' });
+
+    // Monta a letra
+    const lyricsText = Array.from(lyricElements).map(p => {
+      const spans = p.querySelectorAll('span.verse');
+      if (spans.length) {
+        return Array.from(spans)
+          .map(span => span.querySelector('span.romanization')?.textContent || '')
+          .filter(line => line)
+          .join('\n');
+      }
+      return p.innerHTML.split('<br>').map(line => line.trim()).filter(line => line).join('\n');
+    }).filter(stanza => stanza);
+
+    res.json({
+      title,
+      artist,
+      lyrics: lyricsText.join('\n\n'), // separa estrofes com duas quebras de linha
+      url: lyricUrl
+    });
+
+  } catch (err) {
+    console.error('[LYRICS ENDPOINT ERROR]', err.message);
+    res.status(500).json({ error: `Erro interno: ${err.message}` });
+  }
+});
+
+export default router;

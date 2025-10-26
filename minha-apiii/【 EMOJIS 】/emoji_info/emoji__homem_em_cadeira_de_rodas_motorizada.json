@@ -1,0 +1,68 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🦼 Homem em cadeira de rodas motorizada",
+  "categoria": "man in motorized wheelchair",
+  "url": "https://emojigraph.org/pt/man-in-motorized-wheelchair/",
+  "detalhes": {
+    "explicacao": "O Homem na Cadeira de rodas Motorizada emoji é uma sequência do 👨 Homem e 🦼 Cadeira de rodas Motorizada emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-in-motorized-wheelchair_1f468-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-in-motorized-wheelchair_1f468-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-in-motorized-wheelchair_1f468-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-in-motorized-wheelchair_1f468-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-in-motorized-wheelchair_1f468-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-in-motorized-wheelchair_1f468-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-in-motorized-wheelchair_1f468-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-in-motorized-wheelchair_1f468-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-in-motorized-wheelchair_1f468-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/man-in-motorized-wheelchair_1f468-200d-1f9bc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade",
+      "homem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F9BC;",
+      "HTML dec": "&#128104;&#8205;&#129468;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%A6%BC",
+      "Punycode": "xn--qq8hi9f",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F A6 BC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83E\\uDDBC",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f9bc",
+      "CSS": "\\01F468 \\200D \\01F9BC",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F9BC}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F9BC}"
+    }
+  }
+}

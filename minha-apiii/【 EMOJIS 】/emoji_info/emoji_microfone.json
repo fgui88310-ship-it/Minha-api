@@ -1,0 +1,96 @@
+{
+  "emoji": "🎤",
+  "nome": "🎤 Microfone",
+  "categoria": "Microphone",
+  "url": "https://emojigraph.org/pt/microphone/",
+  "detalhes": {
+    "explicacao": "Um microfone, usado para amplificar a voz de uma pessoa, quando fala ou canta. Mostrado com notas de música na maioria das plataformas, o que implica que ele seja usado por um cantor / cantar.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/microphone_1f3a4.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/microphone_1f3a4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "entretenimento",
+      "karaokê",
+      "mic",
+      "microfone",
+      "cantar",
+      "música"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3A4;",
+      "HTML dec": "&#127908;",
+      "URL escape code": "%F0%9F%8E%A4",
+      "Punycode": "xn--4k8h",
+      "Bytes (UTF-8)": "F0 9F 8E A4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFA4",
+      "C, C++, Python": "\\U0001f3a4",
+      "CSS": "\\01F3A4",
+      "PHP, Ruby": "\\u{1F3A4}",
+      "Perl": "\\x{1F3A4}"
+    }
+  }
+}

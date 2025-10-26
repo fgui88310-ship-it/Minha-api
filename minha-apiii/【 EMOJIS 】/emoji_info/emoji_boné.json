@@ -1,0 +1,68 @@
+{
+  "emoji": "🧢",
+  "nome": "🧢 Boné",
+  "categoria": "Billed Cap",
+  "url": "https://emojigraph.org/pt/billed-cap/",
+  "detalhes": {
+    "explicacao": "Um boné de beisebol comum e simples na cor azul, geralmente visto em eventos esportivos. Freqüentemente usado em seu significado direto. Boné foi aprovado como parte do Unicode 10.0 em 2017e acrescentou para o Emoji 5.0 em 2017.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/billed-cap_1f9e2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/billed-cap_1f9e2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/billed-cap_1f9e2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/billed-cap_1f9e2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/billed-cap_1f9e2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/billed-cap_1f9e2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/billed-cap_1f9e2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/billed-cap_1f9e2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/billed-cap_1f9e2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/billed-cap_1f9e2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "boné",
+      "chapéu"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9E2;",
+      "HTML dec": "&#129506;",
+      "URL escape code": "%F0%9F%A7%A2",
+      "Punycode": "xn--sv9h",
+      "Bytes (UTF-8)": "F0 9F A7 A2",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDE2",
+      "C, C++, Python": "\\U0001f9e2",
+      "CSS": "\\01F9E2",
+      "PHP, Ruby": "\\u{1F9E2}",
+      "Perl": "\\x{1F9E2}"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "emoji": "🧐",
+  "nome": "🧐 Rosto com monóculo",
+  "categoria": "Face With Monocle",
+  "url": "https://emojigraph.org/pt/face-with-monocle/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com sobrancelhas franzidas usando um monóculo. Geralmente representado com uma pequena, com a intenção de franzir a testa e a cabeça ligeiramente virada para cima, como se, em uma inspeção cuidadosa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/face-with-monocle_1f9d0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/face-with-monocle_1f9d0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/face-with-monocle_1f9d0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/face-with-monocle_1f9d0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/face-with-monocle_1f9d0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/face-with-monocle_1f9d0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/face-with-monocle_1f9d0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/face-with-monocle_1f9d0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/face-with-monocle_1f9d0.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/face-with-monocle_1f9d0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "conservador"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D0;",
+      "HTML dec": "&#129488;",
+      "URL escape code": "%F0%9F%A7%90",
+      "Punycode": "xn--9u9h",
+      "Bytes (UTF-8)": "F0 9F A7 90",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD0",
+      "C, C++, Python": "\\U0001f9d0",
+      "CSS": "\\01F9D0",
+      "PHP, Ruby": "\\u{1F9D0}",
+      "Perl": "\\x{1F9D0}"
+    }
+  }
+}

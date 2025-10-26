@@ -1,0 +1,69 @@
+{
+  "emoji": "",
+  "nome": "⛸️ Patins de gelo",
+  "categoria": "Ice Skate",
+  "url": "https://emojigraph.org/pt/ice-skate/",
+  "detalhes": {
+    "explicacao": "Um simples patinar no gelo usado para patinação no gelo. Mostradas em branco e virado para a direita na maioria das plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ice-skate_26f8-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ice-skate_26f8-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ice-skate_26f8-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ice-skate_26f8-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ice-skate_26f8-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ice-skate_26f8-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ice-skate_26f8-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ice-skate_26f8-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ice-skate_26f8-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ice-skate_26f8-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gelo",
+      "patins",
+      "patins de gelo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26F8;&#xFE0F;",
+      "HTML dec": "&#9976;&#65039;",
+      "URL escape code": "%E2%9B%B8%EF%B8%8F",
+      "Punycode": "xn--nbi",
+      "Bytes (UTF-8)": "E2 9B B8 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26F8\\uFE0F",
+      "C, C++, Python": "\\u26F8\\uFE0F",
+      "CSS": "\\26F8 \\FE0F",
+      "PHP, Ruby": "\\u{26F8}\\u{FE0F}",
+      "Perl": "\\x{26F8}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "emoji": "🧗",
+  "nome": "🧗 Pessoa escalando",
+  "categoria": "Person Climbing",
+  "url": "https://emojigraph.org/pt/person-climbing/",
+  "detalhes": {
+    "explicacao": "Um escalador de pedra, mostrado subir uma formação rochosa. Algumas plataformas de mostrar o alpinista com um capacete e/ou de corda. O Emojipedia imagem de Exemplo foi criado com a ajuda do Campeão do Mundo de Alpinista de Sasha DiGiulian.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-climbing_1f9d7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-climbing_1f9d7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-climbing_1f9d7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-climbing_1f9d7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-climbing_1f9d7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-climbing_1f9d7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-climbing_1f9d7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-climbing_1f9d7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-climbing_1f9d7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-climbing_1f9d7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "escalar",
+      "alpinista",
+      "escalada",
+      "escalando",
+      "esporte",
+      "montanha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D7;",
+      "HTML dec": "&#129495;",
+      "URL escape code": "%F0%9F%A7%97",
+      "Punycode": "xn--hv9h",
+      "Bytes (UTF-8)": "F0 9F A7 97",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD7",
+      "C, C++, Python": "\\U0001f9d7",
+      "CSS": "\\01F9D7",
+      "PHP, Ruby": "\\u{1F9D7}",
+      "Perl": "\\x{1F9D7}"
+    }
+  }
+}

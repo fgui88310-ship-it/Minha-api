@@ -1,0 +1,67 @@
+{
+  "emoji": "🍽",
+  "nome": "🍽️ Prato com talheres",
+  "categoria": "Fork And Knife With Plate",
+  "url": "https://emojigraph.org/pt/fork-and-knife-with-plate/",
+  "detalhes": {
+    "explicacao": "A prata de garfo e faca no lado de uma chapa branca, como definido para o jantar ou outra refeição. Muitas vezes usado mais genericamente para comer e jantar. Pode ser emparelhado com uma Colher.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fork-and-knife-with-plate_1f37d-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fork-and-knife-with-plate_1f37d-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fork-and-knife-with-plate_1f37d-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fork-and-knife-with-plate_1f37d-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fork-and-knife-with-plate_1f37d-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fork-and-knife-with-plate_1f37d-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fork-and-knife-with-plate_1f37d-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fork-and-knife-with-plate_1f37d-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fork-and-knife-with-plate_1f37d-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fork-and-knife-with-plate_1f37d-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F37D;&#xFE0F;",
+      "HTML dec": "&#127869;&#65039;",
+      "URL escape code": "%F0%9F%8D%BD%EF%B8%8F",
+      "Punycode": "xn--0j8h",
+      "Bytes (UTF-8)": "F0 9F 8D BD EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF7D\\uFE0F",
+      "C, C++, Python": "\\U0001f37d\\uFE0F",
+      "CSS": "\\01F37D \\FE0F",
+      "PHP, Ruby": "\\u{1F37D}\\u{FE0F}",
+      "Perl": "\\x{1F37D}\\x{FE0F}"
+    }
+  }
+}

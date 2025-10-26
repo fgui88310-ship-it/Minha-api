@@ -1,0 +1,95 @@
+{
+  "emoji": "🍠",
+  "nome": "🍠 Batata assada",
+  "categoria": "Roasted Sweet Potato",
+  "url": "https://emojigraph.org/pt/roasted-sweet-potato/",
+  "detalhes": {
+    "explicacao": "Uma batata doce representado com textura roxo, laranja ou marrom pele e cortados ao meio para mostrar a sua marrom-dourado carne. Às vezes chamado de inhame, de que eles não estão relacionados. Não deve ser confundida com a Batata.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/roasted-sweet-potato_1f360.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/roasted-sweet-potato_1f360.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "assada",
+      "batata",
+      "batata-doce",
+      "doce",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F360;",
+      "HTML dec": "&#127840;",
+      "URL escape code": "%F0%9F%8D%A0",
+      "Punycode": "xn--6i8h",
+      "Bytes (UTF-8)": "F0 9F 8D A0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF60",
+      "C, C++, Python": "\\U0001f360",
+      "CSS": "\\01F360",
+      "PHP, Ruby": "\\u{1F360}",
+      "Perl": "\\x{1F360}"
+    }
+  }
+}

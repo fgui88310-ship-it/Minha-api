@@ -1,0 +1,68 @@
+{
+  "emoji": "🥦",
+  "nome": "🥦 Brócolis",
+  "categoria": "broccoli",
+  "url": "https://emojigraph.org/pt/broccoli/",
+  "detalhes": {
+    "explicacao": "Um rico verde, como uma árvore de cabeça ou flósculo de brócolis.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/broccoli_1f966.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/broccoli_1f966.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/broccoli_1f966.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/broccoli_1f966.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/broccoli_1f966.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/broccoli_1f966.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/broccoli_1f966.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/broccoli_1f966.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/broccoli_1f966.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/broccoli_1f966.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "brócolis",
+      "brócoli"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F966;",
+      "HTML dec": "&#129382;",
+      "URL escape code": "%F0%9F%A5%A6",
+      "Punycode": "xn--8r9h",
+      "Bytes (UTF-8)": "F0 9F A5 A6",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD66",
+      "C, C++, Python": "\\U0001f966",
+      "CSS": "\\01F966",
+      "PHP, Ruby": "\\u{1F966}",
+      "Perl": "\\x{1F966}"
+    }
+  }
+}

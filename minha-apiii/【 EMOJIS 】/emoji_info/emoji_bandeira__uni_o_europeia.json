@@ -1,0 +1,59 @@
+{
+  "emoji": "🇪🇺",
+  "nome": "🇪🇺 Bandeira: União Europeia",
+  "categoria": "flag european union",
+  "url": "https://emojigraph.org/pt/flag-european-union/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da União Europeia. Este símbolo é uma seqüência de caracteres 🇪 Símbolo Indicador Regional Letra E e 🇺 Símbolo Indicador Regional Letra U. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras EU em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-european-union_1f1ea-1f1fa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-european-union_1f1ea-1f1fa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-european-union_1f1ea-1f1fa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-european-union_1f1ea-1f1fa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-european-union_1f1ea-1f1fa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-european-union_1f1ea-1f1fa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-european-union_1f1ea-1f1fa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-european-union_1f1ea-1f1fa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EA;&#x1F1FA;",
+      "HTML dec": "&#127466;&#127482;",
+      "URL escape code": "%F0%9F%87%AA%F0%9F%87%BA",
+      "Punycode": "xn--i77h6a",
+      "Bytes (UTF-8)": "F0 9F 87 AA F0 9F 87 BA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEA\\uD83C\\uDDFA",
+      "C, C++, Python": "\\U0001f1ea\\U0001f1fa",
+      "CSS": "\\01F1EA \\01F1FA",
+      "PHP, Ruby": "\\u{1F1EA}\\u{1F1FA}",
+      "Perl": "\\x{1F1EA}\\x{1F1FA}"
+    }
+  }
+}

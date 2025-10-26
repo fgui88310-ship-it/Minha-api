@@ -1,0 +1,96 @@
+{
+  "emoji": "🌇",
+  "nome": "🌇 Pôr do sol",
+  "categoria": "sunset",
+  "url": "https://emojigraph.org/pt/sunset/",
+  "detalhes": {
+    "explicacao": "Uma bela vista, com um céu de laranja, com o pôr do sol sobre os edifícios de um horizonte da cidade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sunset_1f307.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/sunset_1f307.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "anoitecer",
+      "pôr do sol",
+      "prédio",
+      "calor",
+      "cidade",
+      "entardecer"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F307;",
+      "HTML dec": "&#127751;",
+      "URL escape code": "%F0%9F%8C%87",
+      "Punycode": "xn--ng8h",
+      "Bytes (UTF-8)": "F0 9F 8C 87",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF07",
+      "C, C++, Python": "\\U0001f307",
+      "CSS": "\\01F307",
+      "PHP, Ruby": "\\u{1F307}",
+      "Perl": "\\x{1F307}"
+    }
+  }
+}

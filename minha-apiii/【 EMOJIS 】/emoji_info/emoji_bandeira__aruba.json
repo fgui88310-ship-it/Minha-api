@@ -1,0 +1,59 @@
+{
+  "emoji": "🇦🇼",
+  "nome": "🇦🇼 Bandeira: Aruba",
+  "categoria": "flag aruba",
+  "url": "https://emojigraph.org/pt/flag-aruba/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Aruba. Este símbolo é uma seqüência de caracteres 🇦 Símbolo Indicador Regional Letra A e 🇼 Símbolo Indicador Regional Letra W. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras AW em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-aruba_1f1e6-1f1fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-aruba_1f1e6-1f1fc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-aruba_1f1e6-1f1fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-aruba_1f1e6-1f1fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-aruba_1f1e6-1f1fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-aruba_1f1e6-1f1fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-aruba_1f1e6-1f1fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-aruba_1f1e6-1f1fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E6;&#x1F1FC;",
+      "HTML dec": "&#127462;&#127484;",
+      "URL escape code": "%F0%9F%87%A6%F0%9F%87%BC",
+      "Punycode": "xn--e77hmb",
+      "Bytes (UTF-8)": "F0 9F 87 A6 F0 9F 87 BC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE6\\uD83C\\uDDFC",
+      "C, C++, Python": "\\U0001f1e6\\U0001f1fc",
+      "CSS": "\\01F1E6 \\01F1FC",
+      "PHP, Ruby": "\\u{1F1E6}\\u{1F1FC}",
+      "Perl": "\\x{1F1E6}\\x{1F1FC}"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "emoji": "😃",
+  "nome": "😃 Rosto risonho com olhos bem abertos",
+  "categoria": "grinning face with big eyes",
+  "url": "https://emojigraph.org/pt/grinning-face-with-big-eyes/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com olhos sorridentes e um amplo sorriso aberto, mostrando os dentes de cima e a língua em algumas plataformas. Muitas vezes transmite a felicidade geral e bem-humorada de diversões.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/grinning-face-with-big-eyes_1f603.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/grinning-face-with-big-eyes_1f603.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aberto",
+      "boca",
+      "rosto",
+      "sorriso",
+      "feliz",
+      "risada",
+      "risonho",
+      "sorridente",
+      "sorrindo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F603;",
+      "HTML dec": "&#128515;",
+      "URL escape code": "%F0%9F%98%83",
+      "Punycode": "xn--h28h",
+      "Bytes (UTF-8)": "F0 9F 98 83",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE03",
+      "C, C++, Python": "\\U0001f603",
+      "CSS": "\\01F603",
+      "PHP, Ruby": "\\u{1F603}",
+      "Perl": "\\x{1F603}"
+    }
+  }
+}

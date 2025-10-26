@@ -1,0 +1,71 @@
+{
+  "emoji": "🥻",
+  "nome": "🥻 Sari",
+  "categoria": "Sari",
+  "url": "https://emojigraph.org/pt/sari/",
+  "detalhes": {
+    "explicacao": "Sari foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sari_1f97b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sari_1f97b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sari_1f97b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sari_1f97b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sari_1f97b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sari_1f97b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sari_1f97b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sari_1f97b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sari_1f97b.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/sari_1f97b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "roupa",
+      "sari",
+      "vestido",
+      "Índia",
+      "indiana"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F97B;",
+      "HTML dec": "&#129403;",
+      "URL escape code": "%F0%9F%A5%BB",
+      "Punycode": "xn--us9h",
+      "Bytes (UTF-8)": "F0 9F A5 BB",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD7B",
+      "C, C++, Python": "\\U0001f97b",
+      "CSS": "\\01F97B",
+      "PHP, Ruby": "\\u{1F97B}",
+      "Perl": "\\x{1F97B}"
+    }
+  }
+}

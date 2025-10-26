@@ -1,0 +1,86 @@
+{
+  "emoji": "😗",
+  "nome": "😗 Rosto beijando",
+  "categoria": "kissing face",
+  "url": "https://emojigraph.org/pt/kissing-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela simples,olhos abertos e lábios em um beijo. Normalmente transmitem sentimentos de amor e carinho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/kissing-face_1f617.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/kissing-face_1f617.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "beijo",
+      "rosto",
+      "rosto beijando",
+      "rosto com beijo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F617;",
+      "HTML dec": "&#128535;",
+      "URL escape code": "%F0%9F%98%97",
+      "Punycode": "xn--128h",
+      "Bytes (UTF-8)": "F0 9F 98 97",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE17",
+      "C, C++, Python": "\\U0001f617",
+      "CSS": "\\01F617",
+      "PHP, Ruby": "\\u{1F617}",
+      "Perl": "\\x{1F617}"
+    }
+  }
+}

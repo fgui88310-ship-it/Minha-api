@@ -1,0 +1,86 @@
+{
+  "emoji": "🕝",
+  "nome": "🕝 Duas e meia",
+  "categoria": "Two Thirty",
+  "url": "https://emojigraph.org/pt/two-thirty/",
+  "detalhes": {
+    "explicacao": "Dois-Trinta foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Relógio Face de Dois Trinta\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/two-thirty_1f55d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/two-thirty_1f55d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "2h30",
+      "duas e meia",
+      "relógio",
+      "2:30"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F55D;",
+      "HTML dec": "&#128349;",
+      "URL escape code": "%F0%9F%95%9D",
+      "Punycode": "xn--qx8h",
+      "Bytes (UTF-8)": "F0 9F 95 9D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD5D",
+      "C, C++, Python": "\\U0001f55d",
+      "CSS": "\\01F55D",
+      "PHP, Ruby": "\\u{1F55D}",
+      "Perl": "\\x{1F55D}"
+    }
+  }
+}

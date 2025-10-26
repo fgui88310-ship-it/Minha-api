@@ -1,0 +1,68 @@
+{
+  "emoji": "🛰",
+  "nome": "🛰️ Satélite",
+  "categoria": "Satellite",
+  "url": "https://emojigraph.org/pt/satellite/",
+  "detalhes": {
+    "explicacao": "Um satélite que orbita a terra, e é geralmente usado para comunicações, meteorologia e GPS.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/satellite_1f6f0-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/satellite_1f6f0-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/satellite_1f6f0-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/satellite_1f6f0-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/satellite_1f6f0-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/satellite_1f6f0-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/satellite_1f6f0-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/satellite_1f6f0-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/satellite_1f6f0-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/satellite_1f6f0-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "satélite",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6F0;&#xFE0F;",
+      "HTML dec": "&#128752;&#65039;",
+      "URL escape code": "%F0%9F%9B%B0%EF%B8%8F",
+      "Punycode": "xn--888h",
+      "Bytes (UTF-8)": "F0 9F 9B B0 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEF0\\uFE0F",
+      "C, C++, Python": "\\U0001f6f0\\uFE0F",
+      "CSS": "\\01F6F0 \\FE0F",
+      "PHP, Ruby": "\\u{1F6F0}\\u{FE0F}",
+      "Perl": "\\x{1F6F0}\\x{FE0F}"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emoji": "🕳",
+  "nome": "🕳️ Buraco",
+  "categoria": "hole",
+  "url": "https://emojigraph.org/pt/hole/",
+  "detalhes": {
+    "explicacao": "Um círculo, preto, cartoon-estilo buraco, como um buraco ou de um orifício (cup) no campo de golfe. Pode ser usado para representar vários tipos de literal e figurativa ou furos, ou seja, buracos negros, buracos de coelho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hole_1f573-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hole_1f573-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hole_1f573-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hole_1f573-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hole_1f573-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hole_1f573-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hole_1f573-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hole_1f573-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hole_1f573-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hole_1f573-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "buraco",
+      "buraco no chão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F573;&#xFE0F;",
+      "HTML dec": "&#128371;&#65039;",
+      "URL escape code": "%F0%9F%95%B3%EF%B8%8F",
+      "Punycode": "xn--dy8h",
+      "Bytes (UTF-8)": "F0 9F 95 B3 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD73\\uFE0F",
+      "C, C++, Python": "\\U0001f573\\uFE0F",
+      "CSS": "\\01F573 \\FE0F",
+      "PHP, Ruby": "\\u{1F573}\\u{FE0F}",
+      "Perl": "\\x{1F573}\\x{FE0F}"
+    }
+  }
+}

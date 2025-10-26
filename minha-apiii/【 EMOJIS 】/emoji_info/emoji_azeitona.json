@@ -1,0 +1,70 @@
+{
+  "emoji": "🫒",
+  "nome": "🫒 Azeitona",
+  "categoria": "Olive",
+  "url": "https://emojigraph.org/pt/olive/",
+  "detalhes": {
+    "explicacao": "Uma imagem de desenho animado da pequena baga verde e às vezes preta que dá um chute. É uma cobertura popular para pizzas, mas também uma adição bem conhecida aos martinis. Azeite foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/olive_1fad2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/olive_1fad2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/olive_1fad2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/olive_1fad2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/olive_1fad2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/olive_1fad2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/olive_1fad2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/olive_1fad2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/olive_1fad2.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/olive_1fad2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alimento",
+      "azeitona",
+      "comida",
+      "oliveira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAD2;",
+      "HTML dec": "&#129746;",
+      "URL escape code": "%F0%9F%AB%92",
+      "Punycode": "xn--n29h",
+      "Bytes (UTF-8)": "F0 9F AB 92",
+      "JavaScript, JSON, Java": "\\uD83E\\uDED2",
+      "C, C++, Python": "\\U0001fad2",
+      "CSS": "\\01FAD2",
+      "PHP, Ruby": "\\u{1FAD2}",
+      "Perl": "\\x{1FAD2}"
+    }
+  }
+}

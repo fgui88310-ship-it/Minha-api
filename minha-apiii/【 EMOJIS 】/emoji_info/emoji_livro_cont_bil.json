@@ -1,0 +1,92 @@
+{
+  "emoji": "📒",
+  "nome": "📒 Livro contábil",
+  "categoria": "ledger",
+  "url": "https://emojigraph.org/pt/ledger/",
+  "detalhes": {
+    "explicacao": "Uma espiral, amarelo, capa dura de caderno. Pretende-se retratar uma financeira, de contabilidade, como usado na contabilidade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ledger_1f4d2.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ledger_1f4d2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caderno",
+      "livro contábil"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4D2;",
+      "HTML dec": "&#128210;",
+      "URL escape code": "%F0%9F%93%92",
+      "Punycode": "xn--rt8h",
+      "Bytes (UTF-8)": "F0 9F 93 92",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCD2",
+      "C, C++, Python": "\\U0001f4d2",
+      "CSS": "\\01F4D2",
+      "PHP, Ruby": "\\u{1F4D2}",
+      "Perl": "\\x{1F4D2}"
+    }
+  }
+}

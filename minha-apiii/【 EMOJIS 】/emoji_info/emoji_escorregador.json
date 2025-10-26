@@ -1,0 +1,72 @@
+{
+  "emoji": "🛝",
+  "nome": "🛝 Escorregador",
+  "categoria": "Playground Slide",
+  "url": "https://emojigraph.org/pt/playground-slide/",
+  "detalhes": {
+    "explicacao": "Um escorregador de metal ou plástico com 🪜 escada de metal . Usado para representar o brinquedo mais popular nos parques infantis, ou no próprio parque infantil. Também pode representar uma descida rápida e suave.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/playground-slide_1f6dd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/playground-slide_1f6dd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/playground-slide_1f6dd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/playground-slide_1f6dd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/playground-slide_1f6dd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/playground-slide_1f6dd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/playground-slide_1f6dd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/playground-slide_1f6dd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/playground-slide_1f6dd.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/playground-slide_1f6dd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "brincar",
+      "escorregador",
+      "brinquedo",
+      "escorregar",
+      "parquinho",
+      "playground"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6DD;",
+      "HTML dec": "&#128733;",
+      "URL escape code": "%F0%9F%9B%9D",
+      "Punycode": "xn--p88h",
+      "Bytes (UTF-8)": "f0 9f 9b 9d",
+      "JavaScript, JSON, Java": "\\ud83d\\udedd",
+      "C, C++, Python": "\\U0001f6dd",
+      "CSS": "\\01F6DD",
+      "PHP, Ruby": "\\u{1F6DD}",
+      "Perl": "\\x{1F6DD}"
+    }
+  }
+}

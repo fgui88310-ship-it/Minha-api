@@ -1,0 +1,70 @@
+{
+  "emoji": "🦓",
+  "nome": "🦓 Zebra",
+  "categoria": "Zebra",
+  "url": "https://emojigraph.org/pt/zebra/",
+  "detalhes": {
+    "explicacao": "Uma zebra, um cavalo-como o mamífero com preto-e-branco de listras. Diversamente representada no perfil completo em todos os fours virada para a esquerda ou como uma zebra cabeça virada para a esquerda com uma pequena juba.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/zebra_1f993.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/zebra_1f993.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/zebra_1f993.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/zebra_1f993.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/zebra_1f993.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/zebra_1f993.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/zebra_1f993.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/zebra_1f993.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/zebra_1f993.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/zebra_1f993.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "listra",
+      "zebra",
+      "listras"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F993;",
+      "HTML dec": "&#129427;",
+      "URL escape code": "%F0%9F%A6%93",
+      "Punycode": "xn--jt9h",
+      "Bytes (UTF-8)": "F0 9F A6 93",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD93",
+      "C, C++, Python": "\\U0001f993",
+      "CSS": "\\01F993",
+      "PHP, Ruby": "\\u{1F993}",
+      "Perl": "\\x{1F993}"
+    }
+  }
+}

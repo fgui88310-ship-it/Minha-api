@@ -1,0 +1,78 @@
+{
+  "emoji": "🧨",
+  "nome": "🧨 Bombinha",
+  "categoria": "Firecracker",
+  "url": "https://emojigraph.org/pt/firecracker/",
+  "detalhes": {
+    "explicacao": "Um fogo de artifício, como aceso no Ano Novo Chinês, Véspera de Ano Novo, ou o Dia da Independência. Descrito como um tubo vermelho com a queima de um fusível, às vezes, forrado com anéis de ouro no topo e a base.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/firecracker_1f9e8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/firecracker_1f9e8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/firecracker_1f9e8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/firecracker_1f9e8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/firecracker_1f9e8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/firecracker_1f9e8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/firecracker_1f9e8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/firecracker_1f9e8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/firecracker_1f9e8.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/firecracker_1f9e8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bombinha",
+      "dinamite",
+      "explosivo",
+      "bomba",
+      "bomba chiando",
+      "estourando",
+      "estourar",
+      "faísca",
+      "fogo",
+      "luz",
+      "pirotecnia",
+      "roubada"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9E8;",
+      "HTML dec": "&#129512;",
+      "URL escape code": "%F0%9F%A7%A8",
+      "Punycode": "xn--yv9h",
+      "Bytes (UTF-8)": "F0 9F A7 A8",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDE8",
+      "C, C++, Python": "\\U0001f9e8",
+      "CSS": "\\01F9E8",
+      "PHP, Ruby": "\\u{1F9E8}",
+      "Perl": "\\x{1F9E8}"
+    }
+  }
+}

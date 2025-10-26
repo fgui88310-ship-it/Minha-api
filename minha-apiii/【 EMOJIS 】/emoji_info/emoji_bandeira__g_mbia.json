@@ -1,0 +1,59 @@
+{
+  "emoji": "🇬🇲",
+  "nome": "🇬🇲 Bandeira: Gâmbia",
+  "categoria": "flag gambia",
+  "url": "https://emojigraph.org/pt/flag-gambia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Gâmbia. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇲 Símbolo Indicador Regional Letra М. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GM em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-gambia_1f1ec-1f1f2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-gambia_1f1ec-1f1f2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-gambia_1f1ec-1f1f2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-gambia_1f1ec-1f1f2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-gambia_1f1ec-1f1f2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-gambia_1f1ec-1f1f2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-gambia_1f1ec-1f1f2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-gambia_1f1ec-1f1f2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1F2;",
+      "HTML dec": "&#127468;&#127474;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%B2",
+      "Punycode": "xn--k77hma",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 B2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDF2",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1f2",
+      "CSS": "\\01F1EC \\01F1F2",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1F2}",
+      "Perl": "\\x{1F1EC}\\x{1F1F2}"
+    }
+  }
+}

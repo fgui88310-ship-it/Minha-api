@@ -1,0 +1,67 @@
+{
+  "emoji": "🇨🇴",
+  "nome": "🇨🇴 Bandeira: Colômbia",
+  "categoria": "flag colombia",
+  "url": "https://emojigraph.org/pt/flag-colombia/",
+  "detalhes": {
+    "explicacao": "A bandeira da Colômbia, o que pode mostrar como as letras CO em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-colombia_1f1e8-1f1f4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-colombia_1f1e8-1f1f4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-colombia_1f1e8-1f1f4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-colombia_1f1e8-1f1f4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-colombia_1f1e8-1f1f4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-colombia_1f1e8-1f1f4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-colombia_1f1e8-1f1f4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-colombia_1f1e8-1f1f4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-colombia_1f1e8-1f1f4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-colombia_1f1e8-1f1f4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E8;&#x1F1F4;",
+      "HTML dec": "&#127464;&#127476;",
+      "URL escape code": "%F0%9F%87%A8%F0%9F%87%B4",
+      "Punycode": "xn--g77hya",
+      "Bytes (UTF-8)": "F0 9F 87 A8 F0 9F 87 B4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE8\\uD83C\\uDDF4",
+      "C, C++, Python": "\\U0001f1e8\\U0001f1f4",
+      "CSS": "\\01F1E8 \\01F1F4",
+      "PHP, Ruby": "\\u{1F1E8}\\u{1F1F4}",
+      "Perl": "\\x{1F1E8}\\x{1F1F4}"
+    }
+  }
+}

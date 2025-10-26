@@ -1,0 +1,97 @@
+{
+  "emoji": "📖",
+  "nome": "📖 Livro aberto",
+  "categoria": "open book",
+  "url": "https://emojigraph.org/pt/open-book/",
+  "detalhes": {
+    "explicacao": "Um livro de capa dura, muitas vezes representado com uma capa azul. Algumas plataformas incluem um marcador. Comumente utilizado para vários conteúdos relativos a leitura, a escrita, a aprendizagem e a educação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/open-book_1f4d6.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/open-book_1f4d6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aberto",
+      "livro",
+      "biblioteca",
+      "leitura",
+      "lendo",
+      "ler",
+      "livraria"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4D6;",
+      "HTML dec": "&#128214;",
+      "URL escape code": "%F0%9F%93%96",
+      "Punycode": "xn--vt8h",
+      "Bytes (UTF-8)": "F0 9F 93 96",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCD6",
+      "C, C++, Python": "\\U0001f4d6",
+      "CSS": "\\01F4D6",
+      "PHP, Ruby": "\\u{1F4D6}",
+      "Perl": "\\x{1F4D6}"
+    }
+  }
+}

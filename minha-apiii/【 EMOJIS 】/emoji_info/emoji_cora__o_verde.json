@@ -1,0 +1,94 @@
+{
+  "emoji": "💚",
+  "nome": "💚 Coração verde",
+  "categoria": "green heart",
+  "url": "https://emojigraph.org/pt/green-heart/",
+  "detalhes": {
+    "explicacao": "Um coração verde emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/green-heart_1f49a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/green-heart_1f49a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coração",
+      "emoção",
+      "verde",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F49A;",
+      "HTML dec": "&#128154;",
+      "URL escape code": "%F0%9F%92%9A",
+      "Punycode": "xn--5r8h",
+      "Bytes (UTF-8)": "F0 9F 92 9A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC9A",
+      "C, C++, Python": "\\U0001f49a",
+      "CSS": "\\01F49A",
+      "PHP, Ruby": "\\u{1F49A}",
+      "Perl": "\\x{1F49A}"
+    }
+  }
+}

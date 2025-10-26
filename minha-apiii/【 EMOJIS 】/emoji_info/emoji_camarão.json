@@ -1,0 +1,70 @@
+{
+  "emoji": "🦐",
+  "nome": "🦐 Camarão",
+  "categoria": "Shrimp",
+  "url": "https://emojigraph.org/pt/shrimp/",
+  "detalhes": {
+    "explicacao": "Um camarão, um pequeno crustáceo com uma longa cauda. Geralmente retratado como laranja-avermelhado (como cozido) em perfil completo virada para a esquerda, com pequenos olhos, muitos membros, e suas longas antenas se curvando em volta de seu corpo com a sua longa cauda em cacho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shrimp_1f990.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shrimp_1f990.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shrimp_1f990.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shrimp_1f990.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shrimp_1f990.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shrimp_1f990.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shrimp_1f990.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shrimp_1f990.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shrimp_1f990.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/shrimp_1f990.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "camarão",
+      "comida",
+      "crustáceo",
+      "animal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F990;",
+      "HTML dec": "&#129424;",
+      "URL escape code": "%F0%9F%A6%90",
+      "Punycode": "xn--gt9h",
+      "Bytes (UTF-8)": "F0 9F A6 90",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD90",
+      "C, C++, Python": "\\U0001f990",
+      "CSS": "\\01F990",
+      "PHP, Ruby": "\\u{1F990}",
+      "Perl": "\\x{1F990}"
+    }
+  }
+}

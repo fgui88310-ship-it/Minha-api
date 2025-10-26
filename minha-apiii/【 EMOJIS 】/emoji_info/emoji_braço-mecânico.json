@@ -1,0 +1,69 @@
+{
+  "emoji": "🦾",
+  "nome": "🦾 Braço mecânico",
+  "categoria": "Mechanical Arm",
+  "url": "https://emojigraph.org/pt/mechanical-arm/",
+  "detalhes": {
+    "explicacao": "Um mecânico ou um braço protético.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mechanical-arm_1f9be.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mechanical-arm_1f9be.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mechanical-arm_1f9be.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mechanical-arm_1f9be.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mechanical-arm_1f9be.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mechanical-arm_1f9be.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mechanical-arm_1f9be.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mechanical-arm_1f9be.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mechanical-arm_1f9be.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/mechanical-arm_1f9be.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade",
+      "braço mecânico",
+      "prótese"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9BE;",
+      "HTML dec": "&#129470;",
+      "URL escape code": "%F0%9F%A6%BE",
+      "Punycode": "xn--ru9h",
+      "Bytes (UTF-8)": "F0 9F A6 BE",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDBE",
+      "C, C++, Python": "\\U0001f9be",
+      "CSS": "\\01F9BE",
+      "PHP, Ruby": "\\u{1F9BE}",
+      "Perl": "\\x{1F9BE}"
+    }
+  }
+}

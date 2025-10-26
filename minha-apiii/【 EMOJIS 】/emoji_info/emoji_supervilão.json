@@ -1,0 +1,74 @@
+{
+  "emoji": "🦹",
+  "nome": "🦹 Supervilão",
+  "categoria": "Supervillain",
+  "url": "https://emojigraph.org/pt/supervillain/",
+  "detalhes": {
+    "explicacao": "Um vilão que pode ser apresentado como um homem,uma mulher ou de gênero neutro / gênero inclusiva, dependendo da plataforma. Esta base emoji não especificar um gênero, mas é usado para criar o emojis para o Homem Supervilão e Mulher Supervilão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/supervillain_1f9b9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/supervillain_1f9b9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/supervillain_1f9b9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/supervillain_1f9b9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/supervillain_1f9b9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/supervillain_1f9b9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/supervillain_1f9b9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/supervillain_1f9b9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/supervillain_1f9b9.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/supervillain_1f9b9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "criminoso",
+      "mal",
+      "superpoder",
+      "supervilão",
+      "vilão",
+      "bandido",
+      "malvado",
+      "mau"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9B9;",
+      "HTML dec": "&#129465;",
+      "URL escape code": "%F0%9F%A6%B9",
+      "Punycode": "xn--mu9h",
+      "Bytes (UTF-8)": "F0 9F A6 B9",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDB9",
+      "C, C++, Python": "\\U0001f9b9",
+      "CSS": "\\01F9B9",
+      "PHP, Ruby": "\\u{1F9B9}",
+      "Perl": "\\x{1F9B9}"
+    }
+  }
+}

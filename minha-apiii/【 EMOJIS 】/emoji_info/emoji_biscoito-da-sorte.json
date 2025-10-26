@@ -1,0 +1,69 @@
+{
+  "emoji": "🥠",
+  "nome": "🥠 Biscoito da sorte",
+  "categoria": "Fortune Cookie",
+  "url": "https://emojigraph.org/pt/fortune-cookie/",
+  "detalhes": {
+    "explicacao": "Um marrom-dourado, em forma de crescente, de baunilha com sabor de biscoito de fortuna. Geralmente representado com uma tira de papel na qual um ditado sábio, números da sorte, ou Chinês vocabulário é escrito—pico para fora de sua concha oca. No final das refeições em restaurantes de comida Chinesa no Ocidente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fortune-cookie_1f960.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fortune-cookie_1f960.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fortune-cookie_1f960.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fortune-cookie_1f960.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fortune-cookie_1f960.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fortune-cookie_1f960.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fortune-cookie_1f960.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fortune-cookie_1f960.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fortune-cookie_1f960.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/fortune-cookie_1f960.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "profecia",
+      "biscoito chinês",
+      "sorte"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F960;",
+      "HTML dec": "&#129376;",
+      "URL escape code": "%F0%9F%A5%A0",
+      "Punycode": "xn--2r9h",
+      "Bytes (UTF-8)": "F0 9F A5 A0",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD60",
+      "C, C++, Python": "\\U0001f960",
+      "CSS": "\\01F960",
+      "PHP, Ruby": "\\u{1F960}",
+      "Perl": "\\x{1F960}"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "emoji": "🧰",
+  "nome": "🧰 Caixa de ferramentas",
+  "categoria": "toolbox",
+  "url": "https://emojigraph.org/pt/toolbox/",
+  "detalhes": {
+    "explicacao": "Uma caixa vermelha, para guardar e transportar ferramentas, como um martelo e uma chave. Geralmente retratado como fechada fechada com ferragem de prata e um preto de alça.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/toolbox_1f9f0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/toolbox_1f9f0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/toolbox_1f9f0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/toolbox_1f9f0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/toolbox_1f9f0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/toolbox_1f9f0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/toolbox_1f9f0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/toolbox_1f9f0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/toolbox_1f9f0.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/toolbox_1f9f0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caixa",
+      "ferramenta",
+      "mecânico",
+      "vermelha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9F0;",
+      "HTML dec": "&#129520;",
+      "URL escape code": "%F0%9F%A7%B0",
+      "Punycode": "xn--6v9h",
+      "Bytes (UTF-8)": "F0 9F A7 B0",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDF0",
+      "C, C++, Python": "\\U0001f9f0",
+      "CSS": "\\01F9F0",
+      "PHP, Ruby": "\\u{1F9F0}",
+      "Perl": "\\x{1F9F0}"
+    }
+  }
+}

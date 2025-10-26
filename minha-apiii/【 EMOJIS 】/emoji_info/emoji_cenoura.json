@@ -1,0 +1,72 @@
+{
+  "emoji": "🥕",
+  "nome": "🥕 Cenoura",
+  "categoria": "Carrot",
+  "url": "https://emojigraph.org/pt/carrot/",
+  "detalhes": {
+    "explicacao": "Uma cenoura laranja, coberta com longas folhas verdes, como se recém-arrancadas do jardim. Algumas plataformas possuem uma cenoura mais longa e mais fina, outros mais curtas e mais grossas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/carrot_1f955.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/carrot_1f955.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/carrot_1f955.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/carrot_1f955.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/carrot_1f955.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/carrot_1f955.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/carrot_1f955.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/carrot_1f955.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/carrot_1f955.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/carrot_1f955.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cenoura",
+      "comida",
+      "legume",
+      "fome",
+      "salada",
+      "vegetal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F955;",
+      "HTML dec": "&#129365;",
+      "URL escape code": "%F0%9F%A5%95",
+      "Punycode": "xn--rr9h",
+      "Bytes (UTF-8)": "F0 9F A5 95",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD55",
+      "C, C++, Python": "\\U0001f955",
+      "CSS": "\\01F955",
+      "PHP, Ruby": "\\u{1F955}",
+      "Perl": "\\x{1F955}"
+    }
+  }
+}

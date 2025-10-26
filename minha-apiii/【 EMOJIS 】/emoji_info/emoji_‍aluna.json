@@ -1,0 +1,70 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍🎓 Aluna",
+  "categoria": "Woman Student",
+  "url": "https://emojigraph.org/pt/woman-student/",
+  "detalhes": {
+    "explicacao": "A Mulher do Aluno emoji é uma sequência do 👩 Mulher e 🎓 Graduação Cap emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-student_1f469-200d-1f393.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-student_1f469-200d-1f393.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-student_1f469-200d-1f393.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-student_1f469-200d-1f393.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-student_1f469-200d-1f393.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-student_1f469-200d-1f393.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-student_1f469-200d-1f393.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-student_1f469-200d-1f393.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-student_1f469-200d-1f393.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-student_1f469-200d-1f393.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aluna",
+      "estudante",
+      "formanda",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F393;",
+      "HTML dec": "&#128105;&#8205;&#127891;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93",
+      "Punycode": "xn--nk8hln",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F 8E 93",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83C\\uDF93",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f393",
+      "CSS": "\\01F469 \\200D \\01F393",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F393}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F393}"
+    }
+  }
+}

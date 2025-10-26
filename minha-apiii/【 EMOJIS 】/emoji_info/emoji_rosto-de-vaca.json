@@ -1,0 +1,98 @@
+{
+  "emoji": "🐮",
+  "nome": "🐮 Rosto de vaca",
+  "categoria": "Cow Face",
+  "url": "https://emojigraph.org/pt/cow-face/",
+  "detalhes": {
+    "explicacao": "Uma amigável, caricaturada cara de uma vaca olhando diretamente para a frente. Comumente descrita como branca, marrom, ou multicolorida, rosto com uma expressão neutra, cornos curtos, e uma cor cor-de-rosa ou focinho marrom.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cow-face_1f42e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cow-face_1f42e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "rosto",
+      "rosto de vaca",
+      "vaca",
+      "fazenda",
+      "leite",
+      "muuu",
+      "vaquinha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F42E;",
+      "HTML dec": "&#128046;",
+      "URL escape code": "%F0%9F%90%AE",
+      "Punycode": "xn--2o8h",
+      "Bytes (UTF-8)": "F0 9F 90 AE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC2E",
+      "C, C++, Python": "\\U0001f42e",
+      "CSS": "\\01F42E",
+      "PHP, Ruby": "\\u{1F42E}",
+      "Perl": "\\x{1F42E}"
+    }
+  }
+}

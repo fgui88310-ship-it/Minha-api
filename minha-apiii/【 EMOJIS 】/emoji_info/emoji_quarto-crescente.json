@@ -1,0 +1,92 @@
+{
+  "emoji": "🌓",
+  "nome": "🌓 Quarto crescente",
+  "categoria": "First Quarter Moon",
+  "url": "https://emojigraph.org/pt/first-quarter-moon/",
+  "detalhes": {
+    "explicacao": "Uma lua em quarto crescente, o terceiro dos oito fases da lua. Retrata a lua como um crateras disco, o seu direito a metade iluminada em ouro ou prata, o seu resto escuro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/first-quarter-moon_1f313.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/first-quarter-moon_1f313.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "lua",
+      "quarto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F313;",
+      "HTML dec": "&#127763;",
+      "URL escape code": "%F0%9F%8C%93",
+      "Punycode": "xn--zg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 93",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF13",
+      "C, C++, Python": "\\U0001f313",
+      "CSS": "\\01F313",
+      "PHP, Ruby": "\\u{1F313}",
+      "Perl": "\\x{1F313}"
+    }
+  }
+}

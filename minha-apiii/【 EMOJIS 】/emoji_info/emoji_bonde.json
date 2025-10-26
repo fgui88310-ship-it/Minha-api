@@ -1,0 +1,87 @@
+{
+  "emoji": "🚋",
+  "nome": "🚋 Bonde",
+  "categoria": "Tram Car",
+  "url": "https://emojigraph.org/pt/tram-car/",
+  "detalhes": {
+    "explicacao": "Uma forma de transporte público sobre trilhos, geralmente encontradas nas ruas, em cidades ou outras áreas urbanas. Para curta ou média duração viagens.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tram-car_1f68b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tram-car_1f68b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bonde",
+      "bonde elétrico",
+      "carro",
+      "veículo",
+      "trólebus"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F68B;",
+      "HTML dec": "&#128651;",
+      "URL escape code": "%F0%9F%9A%8B",
+      "Punycode": "xn--d68h",
+      "Bytes (UTF-8)": "F0 9F 9A 8B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE8B",
+      "C, C++, Python": "\\U0001f68b",
+      "CSS": "\\01F68B",
+      "PHP, Ruby": "\\u{1F68B}",
+      "Perl": "\\x{1F68B}"
+    }
+  }
+}

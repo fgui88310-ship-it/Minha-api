@@ -1,0 +1,70 @@
+{
+  "emoji": "🦨",
+  "nome": "🦨 Gambá",
+  "categoria": "Skunk",
+  "url": "https://emojigraph.org/pt/skunk/",
+  "detalhes": {
+    "explicacao": "Um gambá, uma espessa cauda de mamíferos que sprays de um odor fétido quando ameaçado. Retratado no perfil completo em todos os fours virada para a esquerda, com cabelo negro e sua distinta faixa branca a execução de sua cabeça para baixo para uma enroladas cauda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/skunk_1f9a8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/skunk_1f9a8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/skunk_1f9a8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/skunk_1f9a8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/skunk_1f9a8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/skunk_1f9a8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/skunk_1f9a8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/skunk_1f9a8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/skunk_1f9a8.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/skunk_1f9a8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fedor",
+      "gambá",
+      "fedida",
+      "fedido"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9A8;",
+      "HTML dec": "&#129448;",
+      "URL escape code": "%F0%9F%A6%A8",
+      "Punycode": "xn--4t9h",
+      "Bytes (UTF-8)": "F0 9F A6 A8",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDA8",
+      "C, C++, Python": "\\U0001f9a8",
+      "CSS": "\\01F9A8",
+      "PHP, Ruby": "\\u{1F9A8}",
+      "Perl": "\\x{1F9A8}"
+    }
+  }
+}

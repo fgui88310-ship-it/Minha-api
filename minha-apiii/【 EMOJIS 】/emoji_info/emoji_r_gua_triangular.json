@@ -1,0 +1,96 @@
+{
+  "emoji": "📐",
+  "nome": "📐 Régua triangular",
+  "categoria": "triangular ruler",
+  "url": "https://emojigraph.org/pt/triangular-ruler/",
+  "detalhes": {
+    "explicacao": "Um triângulo ou praça do conjunto, como o usado por engenheiros ou arquitetos para desenhar linhas retas em ângulos. Comummente descrito como um metal, de madeira, de plástico ou de direita, o triângulo com comprimento de marcações, sua hipotenusa para a direita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/triangular-ruler_1f4d0.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/triangular-ruler_1f4d0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "régua",
+      "triângulo",
+      "ângulo",
+      "geometria",
+      "matemática",
+      "triangular"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4D0;",
+      "HTML dec": "&#128208;",
+      "URL escape code": "%F0%9F%93%90",
+      "Punycode": "xn--pt8h",
+      "Bytes (UTF-8)": "F0 9F 93 90",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCD0",
+      "C, C++, Python": "\\U0001f4d0",
+      "CSS": "\\01F4D0",
+      "PHP, Ruby": "\\u{1F4D0}",
+      "Perl": "\\x{1F4D0}"
+    }
+  }
+}

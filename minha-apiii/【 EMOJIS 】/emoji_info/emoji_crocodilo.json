@@ -1,0 +1,85 @@
+{
+  "emoji": "🐊",
+  "nome": "🐊 Crocodilo",
+  "categoria": "Crocodile",
+  "url": "https://emojigraph.org/pt/crocodile/",
+  "detalhes": {
+    "explicacao": "Um crocodilo, um furtivo réptil com enormes mandíbulas. Geralmente retratada como um crocodilo de luz verde luz e todas as quatro patas viradas para a esquerda, com a sua longa cauda curvando-se para cima para seus dentes maxilares, virado para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/crocodile_1f40a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/crocodile_1f40a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "crocodilo",
+      "jacaré"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F40A;",
+      "HTML dec": "&#128010;",
+      "URL escape code": "%F0%9F%90%8A",
+      "Punycode": "xn--1n8h",
+      "Bytes (UTF-8)": "F0 9F 90 8A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC0A",
+      "C, C++, Python": "\\U0001f40a",
+      "CSS": "\\01F40A",
+      "PHP, Ruby": "\\u{1F40A}",
+      "Perl": "\\x{1F40A}"
+    }
+  }
+}

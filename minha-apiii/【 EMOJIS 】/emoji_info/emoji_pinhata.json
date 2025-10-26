@@ -1,0 +1,64 @@
+{
+  "emoji": "🪅",
+  "nome": "🪅 Pinhata",
+  "categoria": "Pinata",
+  "url": "https://emojigraph.org/pt/pinata/",
+  "detalhes": {
+    "explicacao": "Piñata foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pinata_1fa85.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pinata_1fa85.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pinata_1fa85.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pinata_1fa85.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pinata_1fa85.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pinata_1fa85.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pinata_1fa85.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/pinata_1fa85.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comemoração",
+      "festa",
+      "pinhata",
+      "cinco de maio",
+      "doce",
+      "festival"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA85;",
+      "HTML dec": "&#129669;",
+      "URL escape code": "%F0%9F%AA%85",
+      "Punycode": "xn--g09h",
+      "Bytes (UTF-8)": "F0 9F AA 85",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE85",
+      "C, C++, Python": "\\U0001fa85",
+      "CSS": "\\01FA85",
+      "PHP, Ruby": "\\u{1FA85}",
+      "Perl": "\\x{1FA85}"
+    }
+  }
+}

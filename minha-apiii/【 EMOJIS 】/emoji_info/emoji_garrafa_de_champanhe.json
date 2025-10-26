@@ -1,0 +1,78 @@
+{
+  "emoji": "🍾",
+  "nome": "🍾 Garrafa de champanhe",
+  "categoria": "bottle with popping cork",
+  "url": "https://emojigraph.org/pt/bottle-with-popping-cork/",
+  "detalhes": {
+    "explicacao": "Uma verde garrafa de champanhe ou vinho espumante com rótulo e cortiça a estourar para fora de seu borbulhante conteúdo. Usado para uma variedade de ocasiões de celebração, como a Véspera de Ano Novo, aniversários, casamentos, ou outras realizações da vida.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bottle-with-popping-cork_1f37e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bottle-with-popping-cork_1f37e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bottle-with-popping-cork_1f37e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bottle-with-popping-cork_1f37e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bottle-with-popping-cork_1f37e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bottle-with-popping-cork_1f37e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bottle-with-popping-cork_1f37e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bottle-with-popping-cork_1f37e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bottle-with-popping-cork_1f37e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bottle-with-popping-cork_1f37e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bar",
+      "champanha",
+      "champanhe",
+      "espumante",
+      "garrafa",
+      "aniversário",
+      "champagne",
+      "cidra",
+      "comemorar",
+      "estourar",
+      "festa",
+      "parabéns"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F37E;",
+      "HTML dec": "&#127870;",
+      "URL escape code": "%F0%9F%8D%BE",
+      "Punycode": "xn--1j8h",
+      "Bytes (UTF-8)": "F0 9F 8D BE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF7E",
+      "C, C++, Python": "\\U0001f37e",
+      "CSS": "\\01F37E",
+      "PHP, Ruby": "\\u{1F37E}",
+      "Perl": "\\x{1F37E}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "🧎",
+  "nome": "🧎 Pessoa ajoelhando",
+  "categoria": "person kneeling",
+  "url": "https://emojigraph.org/pt/person-kneeling/",
+  "detalhes": {
+    "explicacao": "Uma pessoa de joelhos em ambos os joelhos. Pode ser usado para representar alguém em oração, ou uma pessoa descansando no chão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-kneeling_1f9ce.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-kneeling_1f9ce.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-kneeling_1f9ce.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-kneeling_1f9ce.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-kneeling_1f9ce.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-kneeling_1f9ce.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-kneeling_1f9ce.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-kneeling_1f9ce.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-kneeling_1f9ce.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/person-kneeling_1f9ce.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ajoelhada",
+      "ajoelhar",
+      "de joelhos"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9CE;",
+      "HTML dec": "&#129486;",
+      "URL escape code": "%F0%9F%A7%8E",
+      "Punycode": "xn--7u9h",
+      "Bytes (UTF-8)": "F0 9F A7 8E",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDCE",
+      "C, C++, Python": "\\U0001f9ce",
+      "CSS": "\\01F9CE",
+      "PHP, Ruby": "\\u{1F9CE}",
+      "Perl": "\\x{1F9CE}"
+    }
+  }
+}

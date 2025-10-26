@@ -1,0 +1,94 @@
+{
+  "emoji": "🐲",
+  "nome": "🐲 Rosto de dragão",
+  "categoria": "Dragon Face",
+  "url": "https://emojigraph.org/pt/dragon-face/",
+  "detalhes": {
+    "explicacao": "A face de um dragão, uma criatura mítica semelhante a um réptil gigante encontrado no folclore de muitas culturas. Descrito como um verde, Chinês-estilo dragão olhando diretamente para a frente ou virada para a esquerda. Muitas vezes mostrado com grandes narinas, descobrindo grandes dentes e a língua vermelha, com chifre-como estruturas em sua cabeça, o whiskers como tentáculos por suas narinas, e um verde ou amarelo juba.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/dragon-face_1f432.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/dragon-face_1f432.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "dragão",
+      "rosto",
+      "rosto de dragão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F432;",
+      "HTML dec": "&#128050;",
+      "URL escape code": "%F0%9F%90%B2",
+      "Punycode": "xn--6o8h",
+      "Bytes (UTF-8)": "F0 9F 90 B2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC32",
+      "C, C++, Python": "\\U0001f432",
+      "CSS": "\\01F432",
+      "PHP, Ruby": "\\u{1F432}",
+      "Perl": "\\x{1F432}"
+    }
+  }
+}

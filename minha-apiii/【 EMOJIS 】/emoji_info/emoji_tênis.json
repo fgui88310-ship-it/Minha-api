@@ -1,0 +1,95 @@
+{
+  "emoji": "🎾",
+  "nome": "🎾 Tênis",
+  "categoria": "Tennis",
+  "url": "https://emojigraph.org/pt/tennis/",
+  "detalhes": {
+    "explicacao": "Uma raquete de tênis (raquete) com uma bola de tênis. Apenas uma bola é mostrado na Apple, LG, Twitter, Facebook, e Mozilla plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tennis_1f3be.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tennis_1f3be.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "bola de tênis",
+      "tênis",
+      "esporte",
+      "raquete"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3BE;",
+      "HTML dec": "&#127934;",
+      "URL escape code": "%F0%9F%8E%BE",
+      "Punycode": "xn--vl8h",
+      "Bytes (UTF-8)": "F0 9F 8E BE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFBE",
+      "C, C++, Python": "\\U0001f3be",
+      "CSS": "\\01F3BE",
+      "PHP, Ruby": "\\u{1F3BE}",
+      "Perl": "\\x{1F3BE}"
+    }
+  }
+}

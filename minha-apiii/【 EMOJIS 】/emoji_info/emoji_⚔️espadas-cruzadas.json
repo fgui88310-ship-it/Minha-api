@@ -1,0 +1,70 @@
+{
+  "emoji": "",
+  "nome": "⚔️ Espadas cruzadas",
+  "categoria": "Crossed Swords",
+  "url": "https://emojigraph.org/pt/crossed-swords/",
+  "detalhes": {
+    "explicacao": "Duas espadas com lâminas em aço em forma de X, cruzadas para o combate entre dois cavaleiros ou guerreiros. Geralmente retratado como em linha reta, de lâminas de dois gumes, cabos em cor marrom ou preta, em forma de cruz apontados para cima. Comumente usado como um símbolo para a batalha, de luta, ou de um concurso, como nos esportes.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crossed-swords_2694-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crossed-swords_2694-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crossed-swords_2694-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crossed-swords_2694-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crossed-swords_2694-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crossed-swords_2694-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crossed-swords_2694-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crossed-swords_2694-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crossed-swords_2694-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/crossed-swords_2694-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "arma",
+      "cruzadas",
+      "espadas",
+      "guerra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2694;&#xFE0F;",
+      "HTML dec": "&#9876;&#65039;",
+      "URL escape code": "%E2%9A%94%EF%B8%8F",
+      "Punycode": "xn--s7h",
+      "Bytes (UTF-8)": "E2 9A 94 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2694\\uFE0F",
+      "C, C++, Python": "\\u2694\\uFE0F",
+      "CSS": "\\2694 \\FE0F",
+      "PHP, Ruby": "\\u{2694}\\u{FE0F}",
+      "Perl": "\\x{2694}\\x{FE0F}"
+    }
+  }
+}

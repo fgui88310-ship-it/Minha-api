@@ -1,0 +1,68 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍✈️ Piloto de avião mulher",
+  "categoria": "Woman Pilot",
+  "url": "https://emojigraph.org/pt/woman-pilot/",
+  "detalhes": {
+    "explicacao": "A Mulher Piloto emoji é uma sequência do 👩 Mulher e ✈ Avião emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-pilot_1f469-200d-2708-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-pilot_1f469-200d-2708-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-pilot_1f469-200d-2708-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-pilot_1f469-200d-2708-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-pilot_1f469-200d-2708-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-pilot_1f469-200d-2708-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-pilot_1f469-200d-2708-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-pilot_1f469-200d-2708-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-pilot_1f469-200d-2708-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-pilot_1f469-200d-2708-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "avião",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x2708;&#xFE0F;",
+      "HTML dec": "&#128105;&#8205;&#9992;&#65039;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%E2%9C%88%EF%B8%8F",
+      "Punycode": "xn--3bi9068m",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D E2 9C 88 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\u2708\\uFE0F",
+      "C, C++, Python": "\\U0001f469\\u200D\\u2708\\uFE0F",
+      "CSS": "\\01F469 \\200D \\2708 \\FE0F",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{2708}\\u{FE0F}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{2708}\\x{FE0F}"
+    }
+  }
+}

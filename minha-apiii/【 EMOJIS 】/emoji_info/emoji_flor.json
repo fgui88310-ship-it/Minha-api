@@ -1,0 +1,93 @@
+{
+  "emoji": "🌼",
+  "nome": "🌼 Flor",
+  "categoria": "Blossom",
+  "url": "https://emojigraph.org/pt/blossom/",
+  "detalhes": {
+    "explicacao": "Uma flor que floresceu. Descrito como uma flor branca ou com amarelo nas pétalas, semelhante à uma margarida, com um center dourado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/blossom_1f33c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/blossom_1f33c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "flor",
+      "florescer",
+      "planta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F33C;",
+      "HTML dec": "&#127804;",
+      "URL escape code": "%F0%9F%8C%BC",
+      "Punycode": "xn--5h8h",
+      "Bytes (UTF-8)": "F0 9F 8C BC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF3C",
+      "C, C++, Python": "\\U0001f33c",
+      "CSS": "\\01F33C",
+      "PHP, Ruby": "\\u{1F33C}",
+      "Perl": "\\x{1F33C}"
+    }
+  }
+}

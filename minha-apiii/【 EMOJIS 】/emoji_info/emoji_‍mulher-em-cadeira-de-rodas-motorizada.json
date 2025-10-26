@@ -1,0 +1,68 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍🦼 Mulher em cadeira de rodas motorizada",
+  "categoria": "Woman In Motorized Wheelchair",
+  "url": "https://emojigraph.org/pt/woman-in-motorized-wheelchair/",
+  "detalhes": {
+    "explicacao": "A Mulher na Cadeira de rodas Motorizada emoji é uma sequência do 👩 Mulher e 🦼 Cadeira de rodas Motorizada emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-in-motorized-wheelchair_1f469-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-in-motorized-wheelchair_1f469-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-in-motorized-wheelchair_1f469-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-in-motorized-wheelchair_1f469-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-in-motorized-wheelchair_1f469-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-in-motorized-wheelchair_1f469-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-in-motorized-wheelchair_1f469-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-in-motorized-wheelchair_1f469-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-in-motorized-wheelchair_1f469-200d-1f9bc.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/woman-in-motorized-wheelchair_1f469-200d-1f9bc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F9BC;",
+      "HTML dec": "&#128105;&#8205;&#129468;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%A6%BC",
+      "Punycode": "xn--rq8hg9f",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F A6 BC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83E\\uDDBC",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f9bc",
+      "CSS": "\\01F469 \\200D \\01F9BC",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F9BC}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F9BC}"
+    }
+  }
+}

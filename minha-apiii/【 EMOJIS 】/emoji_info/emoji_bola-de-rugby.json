@@ -1,0 +1,89 @@
+{
+  "emoji": "🏉",
+  "nome": "🏉 Bola de rugby",
+  "categoria": "Rugby Football",
+  "url": "https://emojigraph.org/pt/rugby-football/",
+  "detalhes": {
+    "explicacao": "A bola oval usado no jogo de rugby. Varia um pouco em forma nas duas principais versões do jogo: rugby union e rugby league.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/rugby-football_1f3c9.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/rugby-football_1f3c9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "bola de futebol",
+      "bola de rugby",
+      "americano",
+      "esporte",
+      "futebol",
+      "rugby"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3C9;",
+      "HTML dec": "&#127945;",
+      "URL escape code": "%F0%9F%8F%89",
+      "Punycode": "xn--6l8h",
+      "Bytes (UTF-8)": "F0 9F 8F 89",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFC9",
+      "C, C++, Python": "\\U0001f3c9",
+      "CSS": "\\01F3C9",
+      "PHP, Ruby": "\\u{1F3C9}",
+      "Perl": "\\x{1F3C9}"
+    }
+  }
+}

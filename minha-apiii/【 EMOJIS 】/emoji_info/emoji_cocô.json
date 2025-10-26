@@ -1,0 +1,96 @@
+{
+  "emoji": "💩",
+  "nome": "💩 Cocô",
+  "categoria": "Pile Of Poo",
+  "url": "https://emojigraph.org/pt/pile-of-poo/",
+  "detalhes": {
+    "explicacao": "Um cocô marrom, de formato suavemente enrolado, animado com olhos e um grande sorriso amigável.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pile-of-poo_1f4a9.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pile-of-poo_1f4a9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cocô",
+      "estrume",
+      "excremento",
+      "fezes",
+      "pilha de cocô",
+      "pilha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4A9;",
+      "HTML dec": "&#128169;",
+      "URL escape code": "%F0%9F%92%A9",
+      "Punycode": "xn--ls8h",
+      "Bytes (UTF-8)": "F0 9F 92 A9",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCA9",
+      "C, C++, Python": "\\U0001f4a9",
+      "CSS": "\\01F4A9",
+      "PHP, Ruby": "\\u{1F4A9}",
+      "Perl": "\\x{1F4A9}"
+    }
+  }
+}

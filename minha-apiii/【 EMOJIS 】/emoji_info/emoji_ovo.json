@@ -1,0 +1,69 @@
+{
+  "emoji": "🥚",
+  "nome": "🥚 Ovo",
+  "categoria": "Egg",
+  "url": "https://emojigraph.org/pt/egg/",
+  "detalhes": {
+    "explicacao": "Um ovo, mais comumente apresentado como um ovo de galinha com uma casca marrom ou branca. Pode ser usado na cozinha.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/egg_1f95a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/egg_1f95a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/egg_1f95a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/egg_1f95a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/egg_1f95a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/egg_1f95a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/egg_1f95a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/egg_1f95a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/egg_1f95a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/egg_1f95a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comida",
+      "ovo",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F95A;",
+      "HTML dec": "&#129370;",
+      "URL escape code": "%F0%9F%A5%9A",
+      "Punycode": "xn--wr9h",
+      "Bytes (UTF-8)": "F0 9F A5 9A",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD5A",
+      "C, C++, Python": "\\U0001f95a",
+      "CSS": "\\01F95A",
+      "PHP, Ruby": "\\u{1F95A}",
+      "Perl": "\\x{1F95A}"
+    }
+  }
+}

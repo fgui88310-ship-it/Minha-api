@@ -1,0 +1,59 @@
+{
+  "emoji": "🇰🇾",
+  "nome": "🇰🇾 Bandeira: Ilhas Cayman",
+  "categoria": "flag cayman islands",
+  "url": "https://emojigraph.org/pt/flag-cayman-islands/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional das Ilhas Cayman. Este símbolo é uma seqüência de caracteres 🇰 Símbolo Indicador Regional Letra K e 🇾 Símbolo Indicador Regional Letra Y. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras KY em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-cayman-islands_1f1f0-1f1fe.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-cayman-islands_1f1f0-1f1fe.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-cayman-islands_1f1f0-1f1fe.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-cayman-islands_1f1f0-1f1fe.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-cayman-islands_1f1f0-1f1fe.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-cayman-islands_1f1f0-1f1fe.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-cayman-islands_1f1f0-1f1fe.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-cayman-islands_1f1f0-1f1fe.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F0;&#x1F1FE;",
+      "HTML dec": "&#127472;&#127486;",
+      "URL escape code": "%F0%9F%87%B0%F0%9F%87%BE",
+      "Punycode": "xn--o77h2a",
+      "Bytes (UTF-8)": "F0 9F 87 B0 F0 9F 87 BE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF0\\uD83C\\uDDFE",
+      "C, C++, Python": "\\U0001f1f0\\U0001f1fe",
+      "CSS": "\\01F1F0 \\01F1FE",
+      "PHP, Ruby": "\\u{1F1F0}\\u{1F1FE}",
+      "Perl": "\\x{1F1F0}\\x{1F1FE}"
+    }
+  }
+}

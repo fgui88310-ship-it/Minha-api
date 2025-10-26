@@ -1,0 +1,94 @@
+{
+  "emoji": "",
+  "nome": "⚓ Âncora",
+  "categoria": "Anchor",
+  "url": "https://emojigraph.org/pt/anchor/",
+  "detalhes": {
+    "explicacao": "Um dispositivo de metal, que é jogado fora de um barco, para evitar que ele se afaste do local atual.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/anchor_2693.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/anchor_2693.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/anchor_2693.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/anchor_2693.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/anchor_2693.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/anchor_2693.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/anchor_2693.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/anchor_2693.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/anchor_2693.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/anchor_2693.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/anchor_2693.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/anchor_2693.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/anchor_2693.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/anchor_2693.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/anchor_2693.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/anchor_2693.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "âncora",
+      "sinal",
+      "marinha",
+      "navegar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2693;",
+      "HTML dec": "&#9875;",
+      "URL escape code": "%E2%9A%93",
+      "Punycode": "xn--r7h",
+      "Bytes (UTF-8)": "E2 9A 93",
+      "JavaScript, JSON, Java": "\\u2693",
+      "C, C++, Python": "\\u2693",
+      "CSS": "\\2693",
+      "PHP, Ruby": "\\u{2693}",
+      "Perl": "\\x{2693}"
+    }
+  }
+}

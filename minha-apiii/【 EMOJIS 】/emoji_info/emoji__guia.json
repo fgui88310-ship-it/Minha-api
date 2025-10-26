@@ -1,0 +1,68 @@
+{
+  "emoji": "🦅",
+  "nome": "🦅 Águia",
+  "categoria": "eagle",
+  "url": "https://emojigraph.org/pt/eagle/",
+  "detalhes": {
+    "explicacao": "Uma águia careca, a ave de rapina, com penas marrom e branca distintiva cabeça. Geralmente retratado virada para a esquerda, com as asas particulada e garras para fora, como se a descer para capturar presas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/eagle_1f985.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/eagle_1f985.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/eagle_1f985.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/eagle_1f985.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/eagle_1f985.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/eagle_1f985.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/eagle_1f985.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/eagle_1f985.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/eagle_1f985.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/eagle_1f985.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "águia",
+      "pássaro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F985;",
+      "HTML dec": "&#129413;",
+      "URL escape code": "%F0%9F%A6%85",
+      "Punycode": "xn--4s9h",
+      "Bytes (UTF-8)": "F0 9F A6 85",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD85",
+      "C, C++, Python": "\\U0001f985",
+      "CSS": "\\01F985",
+      "PHP, Ruby": "\\u{1F985}",
+      "Perl": "\\x{1F985}"
+    }
+  }
+}

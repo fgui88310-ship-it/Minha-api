@@ -1,0 +1,94 @@
+{
+  "emoji": "📷",
+  "nome": "📷 Câmera",
+  "categoria": "Camera",
+  "url": "https://emojigraph.org/pt/camera/",
+  "detalhes": {
+    "explicacao": "Um clássico da câmera, como uma SLR usado para tirar fotos antes dos celulares com câmera. Geralmente representado com um quadrado preto e caixa de prata com lente e controles operacionais.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/camera_1f4f7.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/camera_1f4f7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "câmera",
+      "vídeo",
+      "foto",
+      "selfie"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4F7;",
+      "HTML dec": "&#128247;",
+      "URL escape code": "%F0%9F%93%B7",
+      "Punycode": "xn--tu8h",
+      "Bytes (UTF-8)": "F0 9F 93 B7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCF7",
+      "C, C++, Python": "\\U0001f4f7",
+      "CSS": "\\01F4F7",
+      "PHP, Ruby": "\\u{1F4F7}",
+      "Perl": "\\x{1F4F7}"
+    }
+  }
+}

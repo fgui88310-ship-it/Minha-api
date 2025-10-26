@@ -1,0 +1,69 @@
+{
+  "emoji": "🥪",
+  "nome": "🥪 Sanduíche",
+  "categoria": "Sandwich",
+  "url": "https://emojigraph.org/pt/sandwich/",
+  "detalhes": {
+    "explicacao": "Um sanduíche, como comido no almoço, feita com alface, tomate e queijo em fatias de queijo branco ou pão de trigo. Apple, Google, e o WhatsApp adicionam uma carne nele semelhante ao presunto.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sandwich_1f96a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sandwich_1f96a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sandwich_1f96a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sandwich_1f96a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sandwich_1f96a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sandwich_1f96a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sandwich_1f96a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sandwich_1f96a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sandwich_1f96a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sandwich_1f96a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "sanduíche",
+      "pão",
+      "pão de forma"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F96A;",
+      "HTML dec": "&#129386;",
+      "URL escape code": "%F0%9F%A5%AA",
+      "Punycode": "xn--ds9h",
+      "Bytes (UTF-8)": "F0 9F A5 AA",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD6A",
+      "C, C++, Python": "\\U0001f96a",
+      "CSS": "\\01F96A",
+      "PHP, Ruby": "\\u{1F96A}",
+      "Perl": "\\x{1F96A}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "🛥",
+  "nome": "🛥️ Barco",
+  "categoria": "Motor Boat",
+  "url": "https://emojigraph.org/pt/motor-boat/",
+  "detalhes": {
+    "explicacao": "Motor de Barco foi aprovado como parte do Unicode 7.0 em 2014e acrescentou para o Emoji 1.0 em 2015.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/motor-boat_1f6e5-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/motor-boat_1f6e5-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/motor-boat_1f6e5-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/motor-boat_1f6e5-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/motor-boat_1f6e5-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/motor-boat_1f6e5-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/motor-boat_1f6e5-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/motor-boat_1f6e5-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/motor-boat_1f6e5-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/motor-boat_1f6e5-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barco",
+      "motor",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6E5;&#xFE0F;",
+      "HTML dec": "&#128741;&#65039;",
+      "URL escape code": "%F0%9F%9B%A5%EF%B8%8F",
+      "Punycode": "xn--x88h",
+      "Bytes (UTF-8)": "F0 9F 9B A5 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEE5\\uFE0F",
+      "C, C++, Python": "\\U0001f6e5\\uFE0F",
+      "CSS": "\\01F6E5 \\FE0F",
+      "PHP, Ruby": "\\u{1F6E5}\\u{FE0F}",
+      "Perl": "\\x{1F6E5}\\x{FE0F}"
+    }
+  }
+}

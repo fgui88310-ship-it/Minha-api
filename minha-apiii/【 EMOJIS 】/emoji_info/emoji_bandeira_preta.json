@@ -1,0 +1,70 @@
+{
+  "emoji": "🏴",
+  "nome": "🏴 Bandeira preta",
+  "categoria": "black flag",
+  "url": "https://emojigraph.org/pt/black-flag/",
+  "detalhes": {
+    "explicacao": "A bandeira da Escócia, não deve ser confundida com a do Reino Unido. Black Flag foi aprovado como parte do Unicode 7.0 em 2014sob o nome \", Acenando com Bandeira Preta\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/black-flag_1f3f4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/black-flag_1f3f4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/black-flag_1f3f4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/black-flag_1f3f4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/black-flag_1f3f4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/black-flag_1f3f4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/black-flag_1f3f4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/black-flag_1f3f4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/black-flag_1f3f4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/black-flag_1f3f4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira preta",
+      "tremulando",
+      "bandeira",
+      "preta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3F4;",
+      "HTML dec": "&#127988;",
+      "URL escape code": "%F0%9F%8F%B4",
+      "Punycode": "xn--fn8h",
+      "Bytes (UTF-8)": "F0 9F 8F B4",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFF4",
+      "C, C++, Python": "\\U0001f3f4",
+      "CSS": "\\01F3F4",
+      "PHP, Ruby": "\\u{1F3F4}",
+      "Perl": "\\x{1F3F4}"
+    }
+  }
+}

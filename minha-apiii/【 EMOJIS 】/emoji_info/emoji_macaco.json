@@ -1,0 +1,92 @@
+{
+  "emoji": "🐒",
+  "nome": "🐒 Macaco",
+  "categoria": "Monkey",
+  "url": "https://emojigraph.org/pt/monkey/",
+  "detalhes": {
+    "explicacao": "Um macaco, um pequeno primata com longos membros e cauda para subir em árvores. Geralmente retratado como um cartoon-estilo, macaco marrom com um atrevido a expressão facial, mostrado no perfil completo virada para a esquerda, sentado sobre as patas traseiras, com um longo, enrolado, cauda e orelhas redondas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/monkey_1f412.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/monkey_1f412.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "macaco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F412;",
+      "HTML dec": "&#128018;",
+      "URL escape code": "%F0%9F%90%92",
+      "Punycode": "xn--9n8h",
+      "Bytes (UTF-8)": "F0 9F 90 92",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC12",
+      "C, C++, Python": "\\U0001f412",
+      "CSS": "\\01F412",
+      "PHP, Ruby": "\\u{1F412}",
+      "Perl": "\\x{1F412}"
+    }
+  }
+}

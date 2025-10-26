@@ -1,0 +1,68 @@
+{
+  "emoji": "🧠",
+  "nome": "🧠 Cérebro",
+  "categoria": "Brain",
+  "url": "https://emojigraph.org/pt/brain/",
+  "detalhes": {
+    "explicacao": "Uma imagem caricaturada de um cérebro. Geralmente usado para denotar ser inteligente. Cérebro foi aprovado como parte do Unicode 10.0 em 2017e acrescentou para o Emoji 5.0 em 2017.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/brain_1f9e0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/brain_1f9e0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/brain_1f9e0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/brain_1f9e0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/brain_1f9e0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/brain_1f9e0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/brain_1f9e0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/brain_1f9e0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/brain_1f9e0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/brain_1f9e0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cérebro",
+      "inteligente"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9E0;",
+      "HTML dec": "&#129504;",
+      "URL escape code": "%F0%9F%A7%A0",
+      "Punycode": "xn--qv9h",
+      "Bytes (UTF-8)": "F0 9F A7 A0",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDE0",
+      "C, C++, Python": "\\U0001f9e0",
+      "CSS": "\\01F9E0",
+      "PHP, Ruby": "\\u{1F9E0}",
+      "Perl": "\\x{1F9E0}"
+    }
+  }
+}

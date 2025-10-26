@@ -1,0 +1,72 @@
+{
+  "emoji": "🕍",
+  "nome": "🕍 Sinagoga",
+  "categoria": "Synagogue",
+  "url": "https://emojigraph.org/pt/synagogue/",
+  "detalhes": {
+    "explicacao": "Um synague; um lugar de adoração para os seguidores do Judaísmo. Apresentado com uma Estrela de David na frente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/synagogue_1f54d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/synagogue_1f54d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/synagogue_1f54d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/synagogue_1f54d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/synagogue_1f54d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/synagogue_1f54d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/synagogue_1f54d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/synagogue_1f54d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/synagogue_1f54d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/synagogue_1f54d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "judaísmo",
+      "judeu",
+      "religião",
+      "sinagoga",
+      "templo",
+      "judia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F54D;",
+      "HTML dec": "&#128333;",
+      "URL escape code": "%F0%9F%95%8D",
+      "Punycode": "xn--9w8h",
+      "Bytes (UTF-8)": "F0 9F 95 8D",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD4D",
+      "C, C++, Python": "\\U0001f54d",
+      "CSS": "\\01F54D",
+      "PHP, Ruby": "\\u{1F54D}",
+      "Perl": "\\x{1F54D}"
+    }
+  }
+}

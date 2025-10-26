@@ -1,0 +1,72 @@
+{
+  "emoji": "🧸",
+  "nome": "🧸 Ursinho de pelúcia",
+  "categoria": "Teddy Bear",
+  "url": "https://emojigraph.org/pt/teddy-bear/",
+  "detalhes": {
+    "explicacao": "Um clássico urso de pelúcia, como se aconchegou por uma criança quando vai dormir.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/teddy-bear_1f9f8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/teddy-bear_1f9f8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/teddy-bear_1f9f8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/teddy-bear_1f9f8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/teddy-bear_1f9f8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/teddy-bear_1f9f8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/teddy-bear_1f9f8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/teddy-bear_1f9f8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/teddy-bear_1f9f8.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/teddy-bear_1f9f8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "brinquedo",
+      "enchimento",
+      "pelúcia",
+      "bichinho",
+      "ursinho",
+      "urso"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9F8;",
+      "HTML dec": "&#129528;",
+      "URL escape code": "%F0%9F%A7%B8",
+      "Punycode": "xn--fw9h",
+      "Bytes (UTF-8)": "F0 9F A7 B8",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDF8",
+      "C, C++, Python": "\\U0001f9f8",
+      "CSS": "\\01F9F8",
+      "PHP, Ruby": "\\u{1F9F8}",
+      "Perl": "\\x{1F9F8}"
+    }
+  }
+}

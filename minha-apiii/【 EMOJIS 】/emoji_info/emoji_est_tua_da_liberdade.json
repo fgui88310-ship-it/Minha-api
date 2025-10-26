@@ -1,0 +1,92 @@
+{
+  "emoji": "🗽",
+  "nome": "🗽 Estátua da Liberdade",
+  "categoria": "statue of liberty",
+  "url": "https://emojigraph.org/pt/statue-of-liberty/",
+  "detalhes": {
+    "explicacao": "A Estátua da Liberdade, muitas vezes utilizado como uma representação da Cidade de Nova York.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/statue-of-liberty_1f5fd.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/statue-of-liberty_1f5fd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "estátua",
+      "liberdade"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5FD;",
+      "HTML dec": "&#128509;",
+      "URL escape code": "%F0%9F%97%BD",
+      "Punycode": "xn--b28h",
+      "Bytes (UTF-8)": "F0 9F 97 BD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDFD",
+      "C, C++, Python": "\\U0001f5fd",
+      "CSS": "\\01F5FD",
+      "PHP, Ruby": "\\u{1F5FD}",
+      "Perl": "\\x{1F5FD}"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "emoji": "🧞",
+  "nome": "🧞 Gênio",
+  "categoria": "genie",
+  "url": "https://emojigraph.org/pt/genie/",
+  "detalhes": {
+    "explicacao": "Um ser sobrenatural, que em geral é mostrado para ser preso dentro de uma garrafa ou uma lâmpada. Pode ser capaz de conceder desejos, quando convocado. Existem variações para um gênio feminino ou masculino genie.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/genie_1f9de.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/genie_1f9de.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/genie_1f9de.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/genie_1f9de.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/genie_1f9de.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/genie_1f9de.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/genie_1f9de.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/genie_1f9de.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/genie_1f9de.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/genie_1f9de.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gênio",
+      "desejos",
+      "fantasia",
+      "lâmpada mágica",
+      "místico"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9DE;",
+      "HTML dec": "&#129502;",
+      "URL escape code": "%F0%9F%A7%9E",
+      "Punycode": "xn--ov9h",
+      "Bytes (UTF-8)": "F0 9F A7 9E",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDDE",
+      "C, C++, Python": "\\U0001f9de",
+      "CSS": "\\01F9DE",
+      "PHP, Ruby": "\\u{1F9DE}",
+      "Perl": "\\x{1F9DE}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "🗒",
+  "nome": "🗒️ Bloco espiral",
+  "categoria": "Spiral Notepad",
+  "url": "https://emojigraph.org/pt/spiral-notepad/",
+  "detalhes": {
+    "explicacao": "Uma espiral, flip-estilo bloco de notas ou caderno de papel pautado, como os usados para o dia a dia de anotações. Comumente usado para conteúdo sobre os diversos tipos de documentos e escrita.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/spiral-notepad_1f5d2-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/spiral-notepad_1f5d2-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/spiral-notepad_1f5d2-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/spiral-notepad_1f5d2-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/spiral-notepad_1f5d2-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/spiral-notepad_1f5d2-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/spiral-notepad_1f5d2-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/spiral-notepad_1f5d2-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/spiral-notepad_1f5d2-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/spiral-notepad_1f5d2-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bloco",
+      "caderno",
+      "espiral"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5D2;&#xFE0F;",
+      "HTML dec": "&#128466;&#65039;",
+      "URL escape code": "%F0%9F%97%92%EF%B8%8F",
+      "Punycode": "xn--208h",
+      "Bytes (UTF-8)": "F0 9F 97 92 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDD2\\uFE0F",
+      "C, C++, Python": "\\U0001f5d2\\uFE0F",
+      "CSS": "\\01F5D2 \\FE0F",
+      "PHP, Ruby": "\\u{1F5D2}\\u{FE0F}",
+      "Perl": "\\x{1F5D2}\\x{FE0F}"
+    }
+  }
+}

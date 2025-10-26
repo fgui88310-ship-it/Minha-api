@@ -1,0 +1,95 @@
+{
+  "emoji": "🌵",
+  "nome": "🌵 Cacto",
+  "categoria": "Cactus",
+  "url": "https://emojigraph.org/pt/cactus/",
+  "detalhes": {
+    "explicacao": "Um cacto, planta de espinhos que cresce muito em regiões secas. Descrito como um cacto de cor verde, cacto saguaro com dois braços laterais cobertos de espinhos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/cactus_1f335.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/cactus_1f335.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cacto",
+      "planta",
+      "deserto",
+      "natureza",
+      "seca"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F335;",
+      "HTML dec": "&#127797;",
+      "URL escape code": "%F0%9F%8C%B5",
+      "Punycode": "xn--yh8h",
+      "Bytes (UTF-8)": "F0 9F 8C B5",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF35",
+      "C, C++, Python": "\\U0001f335",
+      "CSS": "\\01F335",
+      "PHP, Ruby": "\\u{1F335}",
+      "Perl": "\\x{1F335}"
+    }
+  }
+}

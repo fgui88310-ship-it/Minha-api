@@ -1,0 +1,96 @@
+{
+  "emoji": "🔗",
+  "nome": "🔗 Link",
+  "categoria": "Link",
+  "url": "https://emojigraph.org/pt/link/",
+  "detalhes": {
+    "explicacao": "Dois elos de uma corrente de prata, posicionado em um ângulo de 45°. Usado como um ícone de um hiperlink em computadores e na internet. Pode também ser utilizado para a conexão metafórica.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/link_1f517.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/link_1f517.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/link_1f517.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/link_1f517.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/link_1f517.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/link_1f517.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/link_1f517.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/link_1f517.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/link_1f517.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/link_1f517.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/link_1f517.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/link_1f517.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/link_1f517.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/link_1f517.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/link_1f517.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/link_1f517.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "corrente",
+      "link",
+      "anéis",
+      "dois",
+      "símbolo",
+      "vínculo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F517;",
+      "HTML dec": "&#128279;",
+      "URL escape code": "%F0%9F%94%97",
+      "Punycode": "xn--qv8h",
+      "Bytes (UTF-8)": "F0 9F 94 97",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD17",
+      "C, C++, Python": "\\U0001f517",
+      "CSS": "\\01F517",
+      "PHP, Ruby": "\\u{1F517}",
+      "Perl": "\\x{1F517}"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "emoji": "🤑",
+  "nome": "🤑 Rosto com cifrões",
+  "categoria": "Money Mouth Face",
+  "url": "https://emojigraph.org/pt/money-mouth-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela com as sobrancelhas levantadas, sinais de dólar para os olhos e um sorriso aberto de fora a fora com uma língua verde, de notas de dólar. Algumas plataformas retratam o sinal de dólar nos olhos em círculos verdes.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/money-mouth-face_1f911.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/money-mouth-face_1f911.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/money-mouth-face_1f911.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/money-mouth-face_1f911.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/money-mouth-face_1f911.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/money-mouth-face_1f911.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/money-mouth-face_1f911.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/money-mouth-face_1f911.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/money-mouth-face_1f911.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/money-mouth-face_1f911.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/money-mouth-face_1f911.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/money-mouth-face_1f911.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cifrão",
+      "dinheiro",
+      "rico",
+      "riqueza",
+      "rosto",
+      "avarenta",
+      "avarento",
+      "caro",
+      "ganância",
+      "grana",
+      "rica"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F911;",
+      "HTML dec": "&#129297;",
+      "URL escape code": "%F0%9F%A4%91",
+      "Punycode": "xn--tp9h",
+      "Bytes (UTF-8)": "F0 9F A4 91",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD11",
+      "C, C++, Python": "\\U0001f911",
+      "CSS": "\\01F911",
+      "PHP, Ruby": "\\u{1F911}",
+      "Perl": "\\x{1F911}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇰🇿",
+  "nome": "🇰🇿 Bandeira: Cazaquistão",
+  "categoria": "flag kazakhstan",
+  "url": "https://emojigraph.org/pt/flag-kazakhstan/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Cazaquistão. Este símbolo é uma seqüência de caracteres 🇰 Símbolo Indicador Regional Letra K e 🇿 Símbolo Indicador Regional Letra Z. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras KZ em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-kazakhstan_1f1f0-1f1ff.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-kazakhstan_1f1f0-1f1ff.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-kazakhstan_1f1f0-1f1ff.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-kazakhstan_1f1f0-1f1ff.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-kazakhstan_1f1f0-1f1ff.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-kazakhstan_1f1f0-1f1ff.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-kazakhstan_1f1f0-1f1ff.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-kazakhstan_1f1f0-1f1ff.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F0;&#x1F1FF;",
+      "HTML dec": "&#127472;&#127487;",
+      "URL escape code": "%F0%9F%87%B0%F0%9F%87%BF",
+      "Punycode": "xn--o77h4a",
+      "Bytes (UTF-8)": "F0 9F 87 B0 F0 9F 87 BF",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF0\\uD83C\\uDDFF",
+      "C, C++, Python": "\\U0001f1f0\\U0001f1ff",
+      "CSS": "\\01F1F0 \\01F1FF",
+      "PHP, Ruby": "\\u{1F1F0}\\u{1F1FF}",
+      "Perl": "\\x{1F1F0}\\x{1F1FF}"
+    }
+  }
+}

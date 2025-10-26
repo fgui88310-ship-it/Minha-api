@@ -1,0 +1,88 @@
+{
+  "emoji": "🐏",
+  "nome": "🐏 Carneiro",
+  "categoria": "Ram",
+  "url": "https://emojigraph.org/pt/ram/",
+  "detalhes": {
+    "explicacao": "Um carneiro, um carneiro, com grandes chifres em espiral. Geralmente retratada no perfil completo em todos os fours virada para a esquerda com uma espessura, branco polar e luz-marrom chifres.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ram_1f40f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ram_1f40f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "Áries",
+      "carneiro",
+      "zodíaco",
+      "áries",
+      "chifre"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F40F;",
+      "HTML dec": "&#128015;",
+      "URL escape code": "%F0%9F%90%8F",
+      "Punycode": "xn--6n8h",
+      "Bytes (UTF-8)": "F0 9F 90 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC0F",
+      "C, C++, Python": "\\U0001f40f",
+      "CSS": "\\01F40F",
+      "PHP, Ruby": "\\u{1F40F}",
+      "Perl": "\\x{1F40F}"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "emoji": "📬",
+  "nome": "📬 Caixa de correio aberta com bandeira levantada",
+  "categoria": "Open Mailbox With Raised Flag",
+  "url": "https://emojigraph.org/pt/open-mailbox-with-raised-flag/",
+  "detalhes": {
+    "explicacao": "Uma calçada de caixa de correio (caixa de correio, caixa postal), com o seu sinal de bandeira levantada e uma carta em seu slot aberto. Geralmente representadas em azul ou cinza, com uma bandeira vermelha e branca do envelope (Google, o design é amarelo). Utilizado para vários conteúdos relativos a envios postais e de e-mail.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/open-mailbox-with-raised-flag_1f4ec.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/open-mailbox-with-raised-flag_1f4ec.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aberta",
+      "bandeira",
+      "correspondência"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4EC;",
+      "HTML dec": "&#128236;",
+      "URL escape code": "%F0%9F%93%AC",
+      "Punycode": "xn--iu8h",
+      "Bytes (UTF-8)": "F0 9F 93 AC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCEC",
+      "C, C++, Python": "\\U0001f4ec",
+      "CSS": "\\01F4EC",
+      "PHP, Ruby": "\\u{1F4EC}",
+      "Perl": "\\x{1F4EC}"
+    }
+  }
+}

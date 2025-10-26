@@ -1,0 +1,95 @@
+{
+  "emoji": "😌",
+  "nome": "😌 Rosto aliviado",
+  "categoria": "relieved face",
+  "url": "https://emojigraph.org/pt/relieved-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com a macia, de olhos fechados, levantou as sobrancelhas, e um ligeiro sorriso. Facebook do projeto possui um pouco de boca aberta, como se suspirando.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/relieved-face_1f60c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/relieved-face_1f60c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alívio",
+      "rosto",
+      "rosto aliviado",
+      "em paz",
+      "zen"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F60C;",
+      "HTML dec": "&#128524;",
+      "URL escape code": "%F0%9F%98%8C",
+      "Punycode": "xn--q28h",
+      "Bytes (UTF-8)": "F0 9F 98 8C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE0C",
+      "C, C++, Python": "\\U0001f60c",
+      "CSS": "\\01F60C",
+      "PHP, Ruby": "\\u{1F60C}",
+      "Perl": "\\x{1F60C}"
+    }
+  }
+}

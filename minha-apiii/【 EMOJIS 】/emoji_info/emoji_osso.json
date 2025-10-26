@@ -1,0 +1,69 @@
+{
+  "emoji": "🦴",
+  "nome": "🦴 Osso",
+  "categoria": "Bone",
+  "url": "https://emojigraph.org/pt/bone/",
+  "detalhes": {
+    "explicacao": "Um osso que pode ser usado para um cão a mastigar, ou como uma parte do corpo humano. O tipo de osso que não é especificado.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bone_1f9b4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bone_1f9b4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bone_1f9b4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bone_1f9b4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bone_1f9b4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bone_1f9b4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bone_1f9b4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bone_1f9b4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bone_1f9b4.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/bone_1f9b4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esqueleto",
+      "osso",
+      "cachorro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9B4;",
+      "HTML dec": "&#129460;",
+      "URL escape code": "%F0%9F%A6%B4",
+      "Punycode": "xn--hu9h",
+      "Bytes (UTF-8)": "F0 9F A6 B4",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDB4",
+      "C, C++, Python": "\\U0001f9b4",
+      "CSS": "\\01F9B4",
+      "PHP, Ruby": "\\u{1F9B4}",
+      "Perl": "\\x{1F9B4}"
+    }
+  }
+}

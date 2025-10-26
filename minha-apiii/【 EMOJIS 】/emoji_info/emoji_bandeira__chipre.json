@@ -1,0 +1,59 @@
+{
+  "emoji": "🇨🇾",
+  "nome": "🇨🇾 Bandeira: Chipre",
+  "categoria": "flag cyprus",
+  "url": "https://emojigraph.org/pt/flag-cyprus/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Chipre. Este símbolo é uma seqüência de caracteres 🇨 Símbolo Indicador Regional Letra C e 🇾 Símbolo Indicador Regional Letra Y. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras CY em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-cyprus_1f1e8-1f1fe.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-cyprus_1f1e8-1f1fe.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-cyprus_1f1e8-1f1fe.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-cyprus_1f1e8-1f1fe.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-cyprus_1f1e8-1f1fe.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-cyprus_1f1e8-1f1fe.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-cyprus_1f1e8-1f1fe.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-cyprus_1f1e8-1f1fe.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E8;&#x1F1FE;",
+      "HTML dec": "&#127464;&#127486;",
+      "URL escape code": "%F0%9F%87%A8%F0%9F%87%BE",
+      "Punycode": "xn--g77hmb",
+      "Bytes (UTF-8)": "F0 9F 87 A8 F0 9F 87 BE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE8\\uD83C\\uDDFE",
+      "C, C++, Python": "\\U0001f1e8\\U0001f1fe",
+      "CSS": "\\01F1E8 \\01F1FE",
+      "PHP, Ruby": "\\u{1F1E8}\\u{1F1FE}",
+      "Perl": "\\x{1F1E8}\\x{1F1FE}"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "emoji": "🙈",
+  "nome": "🙈 Macaco que não vê nada",
+  "categoria": "See No Evil Monkey",
+  "url": "https://emojigraph.org/pt/see-no-evil-monkey/",
+  "detalhes": {
+    "explicacao": "O não veja o mal macaco, chamado Mizaru (Japonês para \"não ver\"), um dos Três Macacos Sábios. Descrito como marrom 🐵 Rosto de Macaco com mãos bronzeadas ou rosadas cobrindo seus olhos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/see-no-evil-monkey_1f648.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/see-no-evil-monkey_1f648.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "macaco",
+      "olhos tapados",
+      "envergonhado",
+      "não veja o mal",
+      "vergonha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F648;",
+      "HTML dec": "&#128584;",
+      "URL escape code": "%F0%9F%99%88",
+      "Punycode": "xn--g48h",
+      "Bytes (UTF-8)": "F0 9F 99 88",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE48",
+      "C, C++, Python": "\\U0001f648",
+      "CSS": "\\01F648",
+      "PHP, Ruby": "\\u{1F648}",
+      "Perl": "\\x{1F648}"
+    }
+  }
+}

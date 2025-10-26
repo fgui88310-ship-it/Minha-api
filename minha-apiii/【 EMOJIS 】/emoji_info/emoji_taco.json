@@ -1,0 +1,78 @@
+{
+  "emoji": "🌮",
+  "nome": "🌮 Taco",
+  "categoria": "Taco",
+  "url": "https://emojigraph.org/pt/taco/",
+  "detalhes": {
+    "explicacao": "Um Mexicano ou Tex-Mex taco em um disco rígido ou macio tortilla de milho, cheios de ingredientes como carne, alface, tomate, queijo e cebola. Design da Apple é semelhante a um _carne asada _taco, com coentro e cebola branca.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/taco_1f32e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/taco_1f32e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/taco_1f32e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/taco_1f32e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/taco_1f32e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/taco_1f32e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/taco_1f32e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/taco_1f32e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/taco_1f32e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/taco_1f32e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/taco_1f32e.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/taco_1f32e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comida mexicana",
+      "taco",
+      "mexicano",
+      "tacos"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F32E;",
+      "HTML dec": "&#127790;",
+      "URL escape code": "%F0%9F%8C%AE",
+      "Punycode": "xn--rh8h",
+      "Bytes (UTF-8)": "F0 9F 8C AE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF2E",
+      "C, C++, Python": "\\U0001f32e",
+      "CSS": "\\01F32E",
+      "PHP, Ruby": "\\u{1F32E}",
+      "Perl": "\\x{1F32E}"
+    }
+  }
+}

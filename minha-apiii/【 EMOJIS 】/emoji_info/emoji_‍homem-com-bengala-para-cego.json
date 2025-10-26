@@ -1,0 +1,69 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🦯 Homem com bengala para cego",
+  "categoria": "Man With White Cane",
+  "url": "https://emojigraph.org/pt/man-with-white-cane/",
+  "detalhes": {
+    "explicacao": "O Homem com a bengala para cego emoji é uma sequência do 👨 Homem e 🦯 bengala.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentam-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-with-white-cane_1f468-200d-1f9af.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-with-white-cane_1f468-200d-1f9af.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-with-white-cane_1f468-200d-1f9af.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-with-white-cane_1f468-200d-1f9af.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-with-white-cane_1f468-200d-1f9af.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-with-white-cane_1f468-200d-1f9af.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-with-white-cane_1f468-200d-1f9af.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-with-white-cane_1f468-200d-1f9af.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-with-white-cane_1f468-200d-1f9af.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/man-with-white-cane_1f468-200d-1f9af.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "accessibilidade",
+      "cego",
+      "homem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F9AF;",
+      "HTML dec": "&#128104;&#8205;&#129455;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%A6%AF",
+      "Punycode": "xn--qq8ho8f",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F A6 AF",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83E\\uDDAF",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f9af",
+      "CSS": "\\01F468 \\200D \\01F9AF",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F9AF}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F9AF}"
+    }
+  }
+}

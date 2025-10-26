@@ -1,0 +1,70 @@
+{
+  "emoji": "🗣",
+  "nome": "🗣️ Silhueta falando",
+  "categoria": "speaking head",
+  "url": "https://emojigraph.org/pt/speaking-head/",
+  "detalhes": {
+    "explicacao": "A silhueta de uma pessoa falando. Face virada da esquerda-para-direita, com linhas demonstrando a fala expelida. Por vezes utilizado no contexto de gritar ou explicar.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/speaking-head_1f5e3-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/speaking-head_1f5e3-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/speaking-head_1f5e3-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/speaking-head_1f5e3-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/speaking-head_1f5e3-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/speaking-head_1f5e3-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/speaking-head_1f5e3-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/speaking-head_1f5e3-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/speaking-head_1f5e3-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/speaking-head_1f5e3-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cabeça",
+      "falando",
+      "silhueta",
+      "voz"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5E3;&#xFE0F;",
+      "HTML dec": "&#128483;&#65039;",
+      "URL escape code": "%F0%9F%97%A3%EF%B8%8F",
+      "Punycode": "xn--k18h",
+      "Bytes (UTF-8)": "F0 9F 97 A3 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDE3\\uFE0F",
+      "C, C++, Python": "\\U0001f5e3\\uFE0F",
+      "CSS": "\\01F5E3 \\FE0F",
+      "PHP, Ruby": "\\u{1F5E3}\\u{FE0F}",
+      "Perl": "\\x{1F5E3}\\x{FE0F}"
+    }
+  }
+}

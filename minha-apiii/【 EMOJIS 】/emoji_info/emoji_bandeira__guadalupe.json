@@ -1,0 +1,59 @@
+{
+  "emoji": "🇬🇵",
+  "nome": "🇬🇵 Bandeira: Guadalupe",
+  "categoria": "flag guadeloupe",
+  "url": "https://emojigraph.org/pt/flag-guadeloupe/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Guadalupe. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇵 Símbolo Indicador Regional Letra P. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GP em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-guadeloupe_1f1ec-1f1f5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-guadeloupe_1f1ec-1f1f5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-guadeloupe_1f1ec-1f1f5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-guadeloupe_1f1ec-1f1f5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-guadeloupe_1f1ec-1f1f5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-guadeloupe_1f1ec-1f1f5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-guadeloupe_1f1ec-1f1f5.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/flag-guadeloupe_1f1ec-1f1f5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1F5;",
+      "HTML dec": "&#127468;&#127477;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%B5",
+      "Punycode": "xn--k77hsa",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 B5",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDF5",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1f5",
+      "CSS": "\\01F1EC \\01F1F5",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1F5}",
+      "Perl": "\\x{1F1EC}\\x{1F1F5}"
+    }
+  }
+}

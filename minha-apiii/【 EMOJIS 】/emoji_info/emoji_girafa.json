@@ -1,0 +1,68 @@
+{
+  "emoji": "🦒",
+  "nome": "🦒 Girafa",
+  "categoria": "Giraffe",
+  "url": "https://emojigraph.org/pt/giraffe/",
+  "detalhes": {
+    "explicacao": "Uma girafa, o animal mais alto da Terra, com manchas e um longo pescoço. Geralmente representado em amarelo ou bege em perfil completo em todos os fours virada para a esquerda, com diferentes manchas marrons e pequeno chifre-como estruturas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/giraffe_1f992.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/giraffe_1f992.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/giraffe_1f992.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/giraffe_1f992.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/giraffe_1f992.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/giraffe_1f992.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/giraffe_1f992.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/giraffe_1f992.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/giraffe_1f992.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/giraffe_1f992.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "girafa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F992;",
+      "HTML dec": "&#129426;",
+      "URL escape code": "%F0%9F%A6%92",
+      "Punycode": "xn--it9h",
+      "Bytes (UTF-8)": "F0 9F A6 92",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD92",
+      "C, C++, Python": "\\U0001f992",
+      "CSS": "\\01F992",
+      "PHP, Ruby": "\\u{1F992}",
+      "Perl": "\\x{1F992}"
+    }
+  }
+}

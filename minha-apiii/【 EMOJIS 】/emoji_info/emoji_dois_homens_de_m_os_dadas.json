@@ -1,0 +1,92 @@
+{
+  "emoji": "👬",
+  "nome": "👬 Dois homens de mãos dadas",
+  "categoria": "men holding hands",
+  "url": "https://emojigraph.org/pt/men-holding-hands/",
+  "detalhes": {
+    "explicacao": "Dois homens de mãos dadas, provavelmente devido a estar em um relacionamento.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/men-holding-hands_1f46c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/men-holding-hands_1f46c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "casal",
+      "gêmeos",
+      "homens",
+      "irmãos",
+      "mãos dadas",
+      "amigos",
+      "dois homens",
+      "homem",
+      "namorados",
+      "pessoas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F46C;",
+      "HTML dec": "&#128108;",
+      "URL escape code": "%F0%9F%91%AC",
+      "Punycode": "xn--uq8h",
+      "Bytes (UTF-8)": "F0 9F 91 AC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC6C",
+      "C, C++, Python": "\\U0001f46c",
+      "CSS": "\\01F46C",
+      "PHP, Ruby": "\\u{1F46C}",
+      "Perl": "\\x{1F46C}"
+    }
+  }
+}

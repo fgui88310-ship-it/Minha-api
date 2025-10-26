@@ -1,0 +1,79 @@
+{
+  "emoji": "🦟",
+  "nome": "🦟 Mosquito",
+  "categoria": "Mosquito",
+  "url": "https://emojigraph.org/pt/mosquito/",
+  "detalhes": {
+    "explicacao": "Um mosquito, um tipo de sugador de sangue voar. Descrito como um marrom ou preto mosquito em suas seis pernas longas, com asas, muito abdômen, e a agulha, como a boca. Diversamente mostrado a partir de cima ou virada para a esquerda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mosquito_1f99f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mosquito_1f99f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mosquito_1f99f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mosquito_1f99f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mosquito_1f99f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mosquito_1f99f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mosquito_1f99f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mosquito_1f99f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mosquito_1f99f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/mosquito_1f99f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "doença",
+      "febre",
+      "inseto",
+      "malária",
+      "mosquito",
+      "vírus",
+      "aedes aegypti",
+      "animal",
+      "chicungunha",
+      "dengue",
+      "febre amarela",
+      "pernilongo",
+      "zica"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F99F;",
+      "HTML dec": "&#129439;",
+      "URL escape code": "%F0%9F%A6%9F",
+      "Punycode": "xn--vt9h",
+      "Bytes (UTF-8)": "F0 9F A6 9F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD9F",
+      "C, C++, Python": "\\U0001f99f",
+      "CSS": "\\01F99F",
+      "PHP, Ruby": "\\u{1F99F}",
+      "Perl": "\\x{1F99F}"
+    }
+  }
+}

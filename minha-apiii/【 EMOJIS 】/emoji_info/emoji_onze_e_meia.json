@@ -1,0 +1,78 @@
+{
+  "emoji": "🕦",
+  "nome": "🕦 Onze e meia",
+  "categoria": "eleven thirty",
+  "url": "https://emojigraph.org/pt/eleven-thirty/",
+  "detalhes": {
+    "explicacao": "Onze e meia foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio Onze e meia\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/eleven-thirty_1f566.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/eleven-thirty_1f566.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/eleven-thirty_1f566.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/eleven-thirty_1f566.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/eleven-thirty_1f566.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/eleven-thirty_1f566.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/eleven-thirty_1f566.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/eleven-thirty_1f566.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/eleven-thirty_1f566.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/eleven-thirty_1f566.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/eleven-thirty_1f566.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/eleven-thirty_1f566.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "11h30",
+      "onze e meia",
+      "relógio",
+      "23h30"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F566;",
+      "HTML dec": "&#128358;",
+      "URL escape code": "%F0%9F%95%A6",
+      "Punycode": "xn--zx8h",
+      "Bytes (UTF-8)": "F0 9F 95 A6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD66",
+      "C, C++, Python": "\\U0001f566",
+      "CSS": "\\01F566",
+      "PHP, Ruby": "\\u{1F566}",
+      "Perl": "\\x{1F566}"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "emoji": "🐳",
+  "nome": "🐳 Baleia esguichando água",
+  "categoria": "Spouting Whale",
+  "url": "https://emojigraph.org/pt/spouting-whale/",
+  "detalhes": {
+    "explicacao": "Uma amigável, caricaturada baleia, mostrando água jorrando de seu respirador. Geralmente retratada como uma baleia de azul, baleia de perfil completo virada para a esquerda, com um corpo redondo e branco embaixo, sua cauda na posição vertical.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/spouting-whale_1f433.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/spouting-whale_1f433.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "baleia",
+      "esguicho"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F433;",
+      "HTML dec": "&#128051;",
+      "URL escape code": "%F0%9F%90%B3",
+      "Punycode": "xn--7o8h",
+      "Bytes (UTF-8)": "F0 9F 90 B3",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC33",
+      "C, C++, Python": "\\U0001f433",
+      "CSS": "\\01F433",
+      "PHP, Ruby": "\\u{1F433}",
+      "Perl": "\\x{1F433}"
+    }
+  }
+}

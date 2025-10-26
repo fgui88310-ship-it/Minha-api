@@ -1,0 +1,93 @@
+{
+  "emoji": "🔊",
+  "nome": "🔊 Alto-falante com volume alto",
+  "categoria": "speaker high volume",
+  "url": "https://emojigraph.org/pt/speaker-high-volume/",
+  "detalhes": {
+    "explicacao": "Um cone do alto-falante apresentado com três ondas de som, geralmente usado como um ícone para indicar o aumento de volume de um telefone ou computador.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/speaker-high-volume_1f50a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/speaker-high-volume_1f50a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "volume alto",
+      "alto",
+      "música"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F50A;",
+      "HTML dec": "&#128266;",
+      "URL escape code": "%F0%9F%94%8A",
+      "Punycode": "xn--dv8h",
+      "Bytes (UTF-8)": "F0 9F 94 8A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD0A",
+      "C, C++, Python": "\\U0001f50a",
+      "CSS": "\\01F50A",
+      "PHP, Ruby": "\\u{1F50A}",
+      "Perl": "\\x{1F50A}"
+    }
+  }
+}

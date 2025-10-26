@@ -1,0 +1,73 @@
+{
+  "emoji": "🫲",
+  "nome": "🫲 Mão para a esquerda",
+  "categoria": "Leftwards Hand",
+  "url": "https://emojigraph.org/pt/leftwards-hand/",
+  "detalhes": {
+    "explicacao": "Uma mão direita amarela direcionada para a esquerda para um 🤝 aperto de mão. Emoji exibe a palma da mão (lado interno da mão). Expressa o processo de alcançar algo, ou oferecer uma ajuda e uma mão aberta.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/leftwards-hand_1faf2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/leftwards-hand_1faf2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/leftwards-hand_1faf2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/leftwards-hand_1faf2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/leftwards-hand_1faf2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/leftwards-hand_1faf2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/leftwards-hand_1faf2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/leftwards-hand_1faf2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/leftwards-hand_1faf2.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/leftwards-hand_1faf2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esquerda",
+      "mão",
+      "para a esquerda",
+      "apertar",
+      "aperto de mão",
+      "pegar",
+      "segurar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAF2;",
+      "HTML dec": "&#129778;",
+      "URL escape code": "%F0%9F%AB%B2",
+      "Punycode": "xn--k39h",
+      "Bytes (UTF-8)": "f0 9f ab b2",
+      "JavaScript, JSON, Java": "\\ud83e\\udef2",
+      "C, C++, Python": "\\U0001faf2",
+      "CSS": "\\01FAF2",
+      "PHP, Ruby": "\\u{1FAF2}",
+      "Perl": "\\x{1FAF2}"
+    }
+  }
+}

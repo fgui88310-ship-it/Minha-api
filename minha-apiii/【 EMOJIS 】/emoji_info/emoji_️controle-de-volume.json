@@ -1,0 +1,69 @@
+{
+  "emoji": "🎚",
+  "nome": "🎚️ Controle de volume",
+  "categoria": "Level Slider",
+  "url": "https://emojigraph.org/pt/level-slider/",
+  "detalhes": {
+    "explicacao": "Um controle deslizante de nível, como ajusta o volume de uma consola de mistura. A maioria das plataformas retratam uma de prata e preto fader do canal, com escala de marcações, defina a vários níveis.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/level-slider_1f39a-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/level-slider_1f39a-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/level-slider_1f39a-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/level-slider_1f39a-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/level-slider_1f39a-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/level-slider_1f39a-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/level-slider_1f39a-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/level-slider_1f39a-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/level-slider_1f39a-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/level-slider_1f39a-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "controle",
+      "música",
+      "volume"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F39A;&#xFE0F;",
+      "HTML dec": "&#127898;&#65039;",
+      "URL escape code": "%F0%9F%8E%9A%EF%B8%8F",
+      "Punycode": "xn--uk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 9A EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF9A\\uFE0F",
+      "C, C++, Python": "\\U0001f39a\\uFE0F",
+      "CSS": "\\01F39A \\FE0F",
+      "PHP, Ruby": "\\u{1F39A}\\u{FE0F}",
+      "Perl": "\\x{1F39A}\\x{FE0F}"
+    }
+  }
+}

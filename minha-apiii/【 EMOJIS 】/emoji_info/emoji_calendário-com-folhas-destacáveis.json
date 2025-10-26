@@ -1,0 +1,98 @@
+{
+  "emoji": "📆",
+  "nome": "📆 Calendário com folhas destacáveis",
+  "categoria": "Tear Off Calendar",
+  "url": "https://emojigraph.org/pt/tear-off-calendar/",
+  "detalhes": {
+    "explicacao": "Uma única data no calendário. Geralmente retratada como uma página em um de dois anéis, diariamente, calendário de mesa, como invertidos ou rasgadas para alterar a data. Exibe mês (geralmente abreviado e em um vermelho ou azul cabeçalho) e o dia em branco, praça da página, enrolado no canto inferior direito.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tear-off-calendar_1f4c6.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tear-off-calendar_1f4c6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "calendário",
+      "data",
+      "destacáveis",
+      "destacável",
+      "dia",
+      "folha",
+      "páginas",
+      "várias"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4C6;",
+      "HTML dec": "&#128198;",
+      "URL escape code": "%F0%9F%93%86",
+      "Punycode": "xn--ft8h",
+      "Bytes (UTF-8)": "F0 9F 93 86",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCC6",
+      "C, C++, Python": "\\U0001f4c6",
+      "CSS": "\\01F4C6",
+      "PHP, Ruby": "\\u{1F4C6}",
+      "Perl": "\\x{1F4C6}"
+    }
+  }
+}

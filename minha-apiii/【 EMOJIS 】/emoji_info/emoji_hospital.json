@@ -1,0 +1,95 @@
+{
+  "emoji": "🏥",
+  "nome": "🏥 Hospital",
+  "categoria": "Hospital",
+  "url": "https://emojigraph.org/pt/hospital/",
+  "detalhes": {
+    "explicacao": "Um lugar onde as pessoas são direcionadas para receber cuidados médicos. Este hospital tem uma grande cruz vermelha na frente, muitas vezes, usado como um símbolo para os cuidados de saúde.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/hospital_1f3e5.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/hospital_1f3e5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "hospital",
+      "prédio",
+      "doente",
+      "internado",
+      "médico"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3E5;",
+      "HTML dec": "&#127973;",
+      "URL escape code": "%F0%9F%8F%A5",
+      "Punycode": "xn--zm8h",
+      "Bytes (UTF-8)": "F0 9F 8F A5",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFE5",
+      "C, C++, Python": "\\U0001f3e5",
+      "CSS": "\\01F3E5",
+      "PHP, Ruby": "\\u{1F3E5}",
+      "Perl": "\\x{1F3E5}"
+    }
+  }
+}

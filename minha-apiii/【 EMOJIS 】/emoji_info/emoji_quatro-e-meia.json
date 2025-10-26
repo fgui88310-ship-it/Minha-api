@@ -1,0 +1,85 @@
+{
+  "emoji": "🕟",
+  "nome": "🕟 Quatro e meia",
+  "categoria": "Four Thirty",
+  "url": "https://emojigraph.org/pt/four-thirty/",
+  "detalhes": {
+    "explicacao": "Quatro-Trinta foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Quatro-Trinta\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/four-thirty_1f55f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/four-thirty_1f55f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "4h30",
+      "quatro e meia",
+      "relógio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F55F;",
+      "HTML dec": "&#128351;",
+      "URL escape code": "%F0%9F%95%9F",
+      "Punycode": "xn--sx8h",
+      "Bytes (UTF-8)": "F0 9F 95 9F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD5F",
+      "C, C++, Python": "\\U0001f55f",
+      "CSS": "\\01F55F",
+      "PHP, Ruby": "\\u{1F55F}",
+      "Perl": "\\x{1F55F}"
+    }
+  }
+}

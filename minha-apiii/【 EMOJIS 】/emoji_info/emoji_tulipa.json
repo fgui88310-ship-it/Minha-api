@@ -1,0 +1,92 @@
+{
+  "emoji": "🌷",
+  "nome": "🌷 Tulipa",
+  "categoria": "Tulip",
+  "url": "https://emojigraph.org/pt/tulip/",
+  "detalhes": {
+    "explicacao": "Um cor-de-rosa da flor do tulip. Representado como um único, vertical, cor-de-rosa tulipa em um verde tronco.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/tulip_1f337.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/tulip_1f337.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "flor",
+      "tulipa"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F337;",
+      "HTML dec": "&#127799;",
+      "URL escape code": "%F0%9F%8C%B7",
+      "Punycode": "xn--0h8h",
+      "Bytes (UTF-8)": "F0 9F 8C B7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF37",
+      "C, C++, Python": "\\U0001f337",
+      "CSS": "\\01F337",
+      "PHP, Ruby": "\\u{1F337}",
+      "Perl": "\\x{1F337}"
+    }
+  }
+}

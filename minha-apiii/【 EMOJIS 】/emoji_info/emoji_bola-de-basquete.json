@@ -1,0 +1,95 @@
+{
+  "emoji": "🏀",
+  "nome": "🏀 Bola de basquete",
+  "categoria": "Basketball",
+  "url": "https://emojigraph.org/pt/basketball/",
+  "detalhes": {
+    "explicacao": "Um cor-de-laranja de basquete apresentado com um aro. Muitas versões deste emoji omitir o aro, e apresentar apenas o basquete.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/basketball_1f3c0.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/basketball_1f3c0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "cesta",
+      "basquete",
+      "esporte",
+      "jogo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3C0;",
+      "HTML dec": "&#127936;",
+      "URL escape code": "%F0%9F%8F%80",
+      "Punycode": "xn--xl8h",
+      "Bytes (UTF-8)": "F0 9F 8F 80",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFC0",
+      "C, C++, Python": "\\U0001f3c0",
+      "CSS": "\\01F3C0",
+      "PHP, Ruby": "\\u{1F3C0}",
+      "Perl": "\\x{1F3C0}"
+    }
+  }
+}

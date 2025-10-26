@@ -1,0 +1,78 @@
+{
+  "emoji": "🥳",
+  "nome": "🥳 Rosto festivo",
+  "categoria": "Partying Face",
+  "url": "https://emojigraph.org/pt/partying-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, com um chapéu de festa, soprando um apito de festa, com confetes flutuando em torno de sua cabeça. Usada para comemorar alegres ocasiões (como Véspera do Ano Novo ou Dia do Mundo) e ao desfrutar de bons momentos de maneira mais geral.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/partying-face_1f973.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/partying-face_1f973.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/partying-face_1f973.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/partying-face_1f973.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/partying-face_1f973.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/partying-face_1f973.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/partying-face_1f973.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/partying-face_1f973.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/partying-face_1f973.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/partying-face_1f973.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "apito",
+      "chapéu",
+      "comemoração",
+      "festa",
+      "rosto festivo",
+      "animação",
+      "aniversário",
+      "comemorar",
+      "língua de sogra",
+      "parabéns",
+      "rosto",
+      "viva"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F973;",
+      "HTML dec": "&#129395;",
+      "URL escape code": "%F0%9F%A5%B3",
+      "Punycode": "xn--ms9h",
+      "Bytes (UTF-8)": "F0 9F A5 B3",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD73",
+      "C, C++, Python": "\\U0001f973",
+      "CSS": "\\01F973",
+      "PHP, Ruby": "\\u{1F973}",
+      "Perl": "\\x{1F973}"
+    }
+  }
+}

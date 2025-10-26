@@ -1,0 +1,83 @@
+{
+  "emoji": "🌐",
+  "nome": "🌐 Globo com meridianos",
+  "categoria": "Globe With Meridians",
+  "url": "https://emojigraph.org/pt/globe-with-meridians/",
+  "detalhes": {
+    "explicacao": "Um globo estilizado, com meridianos azuis (longitudes) e latitude. Retratado com luz azul em grade de linhas e branco.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/globe-with-meridians_1f310.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/globe-with-meridians_1f310.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "meridianos"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F310;",
+      "HTML dec": "&#127760;",
+      "URL escape code": "%F0%9F%8C%90",
+      "Punycode": "xn--wg8h",
+      "Bytes (UTF-8)": "F0 9F 8C 90",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF10",
+      "C, C++, Python": "\\U0001f310",
+      "CSS": "\\01F310",
+      "PHP, Ruby": "\\u{1F310}",
+      "Perl": "\\x{1F310}"
+    }
+  }
+}

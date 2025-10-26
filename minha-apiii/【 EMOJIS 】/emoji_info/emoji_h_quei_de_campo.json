@@ -1,0 +1,72 @@
+{
+  "emoji": "🏑",
+  "nome": "🏑 Hóquei de campo",
+  "categoria": "field hockey",
+  "url": "https://emojigraph.org/pt/field-hockey/",
+  "detalhes": {
+    "explicacao": "Um taco de hóquei e bola, usadas na modalidade de hóquei em campo. Não deve ser confundido com o ice hockey stick e puck.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/field-hockey_1f3d1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/field-hockey_1f3d1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/field-hockey_1f3d1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/field-hockey_1f3d1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/field-hockey_1f3d1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/field-hockey_1f3d1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/field-hockey_1f3d1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/field-hockey_1f3d1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/field-hockey_1f3d1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/field-hockey_1f3d1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "campo",
+      "hóquei",
+      "hóquei de campo",
+      "jogo",
+      "taco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3D1;",
+      "HTML dec": "&#127953;",
+      "URL escape code": "%F0%9F%8F%91",
+      "Punycode": "xn--fm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 91",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFD1",
+      "C, C++, Python": "\\U0001f3d1",
+      "CSS": "\\01F3D1",
+      "PHP, Ruby": "\\u{1F3D1}",
+      "Perl": "\\x{1F3D1}"
+    }
+  }
+}

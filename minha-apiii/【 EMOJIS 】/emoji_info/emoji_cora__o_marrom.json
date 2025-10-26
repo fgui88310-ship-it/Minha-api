@@ -1,0 +1,69 @@
+{
+  "emoji": "🤎",
+  "nome": "🤎 Coração marrom",
+  "categoria": "brown heart",
+  "url": "https://emojigraph.org/pt/brown-heart/",
+  "detalhes": {
+    "explicacao": "Marrom Coração foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/brown-heart_1f90e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/brown-heart_1f90e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/brown-heart_1f90e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/brown-heart_1f90e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/brown-heart_1f90e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/brown-heart_1f90e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/brown-heart_1f90e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/brown-heart_1f90e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/brown-heart_1f90e.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/brown-heart_1f90e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "coração",
+      "marrom",
+      "s2"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F90E;",
+      "HTML dec": "&#129294;",
+      "URL escape code": "%F0%9F%A4%8E",
+      "Punycode": "xn--qp9h",
+      "Bytes (UTF-8)": "F0 9F A4 8E",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD0E",
+      "C, C++, Python": "\\U0001f90e",
+      "CSS": "\\01F90E",
+      "PHP, Ruby": "\\u{1F90E}",
+      "Perl": "\\x{1F90E}"
+    }
+  }
+}

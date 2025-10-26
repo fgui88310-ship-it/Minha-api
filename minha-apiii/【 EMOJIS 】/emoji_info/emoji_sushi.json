@@ -1,0 +1,94 @@
+{
+  "emoji": "🍣",
+  "nome": "🍣 Sushi",
+  "categoria": "Sushi",
+  "url": "https://emojigraph.org/pt/sushi/",
+  "detalhes": {
+    "explicacao": "Sushi japonês, geralmente retratado como duas partes de atum rosa-alaranjado, como o atum ou salmão, no arroz branco (nigiri). Algumas plataformas mostram o cilíndrico maki, um pedaço de frutos do mar, legumes, e arroz branco, envolto em algas (nori).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sushi_1f363.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/sushi_1f363.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comida japonesa",
+      "sushi",
+      "restaurante",
+      "sashimi"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F363;",
+      "HTML dec": "&#127843;",
+      "URL escape code": "%F0%9F%8D%A3",
+      "Punycode": "xn--9i8h",
+      "Bytes (UTF-8)": "F0 9F 8D A3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF63",
+      "C, C++, Python": "\\U0001f363",
+      "CSS": "\\01F363",
+      "PHP, Ruby": "\\u{1F363}",
+      "Perl": "\\x{1F363}"
+    }
+  }
+}

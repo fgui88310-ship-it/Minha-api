@@ -1,0 +1,97 @@
+{
+  "emoji": "😆",
+  "nome": "😆 Rosto risonho com olhos semicerrados",
+  "categoria": "grinning squinting face",
+  "url": "https://emojigraph.org/pt/grinning-squinting-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, com um amplo sorriso aberto e olhos enrugadas, em forma de X com os olhos. Muitas vezes transmite emoção ou gargalhadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/grinning-squinting-face_1f606.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/grinning-squinting-face_1f606.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "gargalhada",
+      "olhos fechados",
+      "rosto",
+      "gargalhando",
+      "hahaha",
+      "kkk",
+      "rir"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F606;",
+      "HTML dec": "&#128518;",
+      "URL escape code": "%F0%9F%98%86",
+      "Punycode": "xn--k28h",
+      "Bytes (UTF-8)": "F0 9F 98 86",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE06",
+      "C, C++, Python": "\\U0001f606",
+      "CSS": "\\01F606",
+      "PHP, Ruby": "\\u{1F606}",
+      "Perl": "\\x{1F606}"
+    }
+  }
+}

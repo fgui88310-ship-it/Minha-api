@@ -1,0 +1,92 @@
+{
+  "emoji": "🐨",
+  "nome": "🐨 Coala",
+  "categoria": "Koala",
+  "url": "https://emojigraph.org/pt/koala/",
+  "detalhes": {
+    "explicacao": "Um amigável, cartoon-estilo rosto de um coala—um urso-como marsupial conhecido por comer eucalipto e dormir olhando diretamente para a frente. Descrito como um cinza rosto redondo, orelhas fofas e um grande, preto nariz.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/koala_1f428.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/koala_1f428.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/koala_1f428.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/koala_1f428.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/koala_1f428.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/koala_1f428.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/koala_1f428.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/koala_1f428.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/koala_1f428.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/koala_1f428.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/koala_1f428.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/koala_1f428.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/koala_1f428.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/koala_1f428.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/koala_1f428.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/koala_1f428.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "coala"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F428;",
+      "HTML dec": "&#128040;",
+      "URL escape code": "%F0%9F%90%A8",
+      "Punycode": "xn--wo8h",
+      "Bytes (UTF-8)": "F0 9F 90 A8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC28",
+      "C, C++, Python": "\\U0001f428",
+      "CSS": "\\01F428",
+      "PHP, Ruby": "\\u{1F428}",
+      "Perl": "\\x{1F428}"
+    }
+  }
+}

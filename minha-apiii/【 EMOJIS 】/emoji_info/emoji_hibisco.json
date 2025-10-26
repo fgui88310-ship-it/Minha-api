@@ -1,0 +1,94 @@
+{
+  "emoji": "🌺",
+  "nome": "🌺 Hibisco",
+  "categoria": "Hibiscus",
+  "url": "https://emojigraph.org/pt/hibiscus/",
+  "detalhes": {
+    "explicacao": "Um hibisco cor-de-rosa , uma flor que cresce em climas quentes. Representado como uma flor de hibisco rosa com folhas verdes e proeminente, amarelo estame.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/hibiscus_1f33a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/hibiscus_1f33a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "flor",
+      "hibisco",
+      "planta",
+      "primavera"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F33A;",
+      "HTML dec": "&#127802;",
+      "URL escape code": "%F0%9F%8C%BA",
+      "Punycode": "xn--3h8h",
+      "Bytes (UTF-8)": "F0 9F 8C BA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF3A",
+      "C, C++, Python": "\\U0001f33a",
+      "CSS": "\\01F33A",
+      "PHP, Ruby": "\\u{1F33A}",
+      "Perl": "\\x{1F33A}"
+    }
+  }
+}

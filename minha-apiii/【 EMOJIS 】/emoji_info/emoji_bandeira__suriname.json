@@ -1,0 +1,59 @@
+{
+  "emoji": "🇸🇷",
+  "nome": "🇸🇷 Bandeira: Suriname",
+  "categoria": "flag suriname",
+  "url": "https://emojigraph.org/pt/flag-suriname/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Suriname. Este símbolo é uma seqüência de caracteres 🇸 Símbolo Indicador Regional Letra S e 🇷 Símbolo Indicador Regional Letra R. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras SR em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-suriname_1f1f8-1f1f7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-suriname_1f1f8-1f1f7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-suriname_1f1f8-1f1f7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-suriname_1f1f8-1f1f7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-suriname_1f1f8-1f1f7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-suriname_1f1f8-1f1f7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-suriname_1f1f8-1f1f7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-suriname_1f1f8-1f1f7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F8;&#x1F1F7;",
+      "HTML dec": "&#127480;&#127479;",
+      "URL escape code": "%F0%9F%87%B8%F0%9F%87%B7",
+      "Punycode": "xn--v77hb",
+      "Bytes (UTF-8)": "F0 9F 87 B8 F0 9F 87 B7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF8\\uD83C\\uDDF7",
+      "C, C++, Python": "\\U0001f1f8\\U0001f1f7",
+      "CSS": "\\01F1F8 \\01F1F7",
+      "PHP, Ruby": "\\u{1F1F8}\\u{1F1F7}",
+      "Perl": "\\x{1F1F8}\\x{1F1F7}"
+    }
+  }
+}

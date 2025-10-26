@@ -1,0 +1,92 @@
+{
+  "emoji": "🚌",
+  "nome": "🚌 Ônibus",
+  "categoria": "Bus",
+  "url": "https://emojigraph.org/pt/bus/",
+  "detalhes": {
+    "explicacao": "Um ônibus utilizados para o transporte público nas cidades e vilas. Também pode ser usado como uma escola de ônibus.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/bus_1f68c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/bus_1f68c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ônibus",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F68C;",
+      "HTML dec": "&#128652;",
+      "URL escape code": "%F0%9F%9A%8C",
+      "Punycode": "xn--e68h",
+      "Bytes (UTF-8)": "F0 9F 9A 8C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE8C",
+      "C, C++, Python": "\\U0001f68c",
+      "CSS": "\\01F68C",
+      "PHP, Ruby": "\\u{1F68C}",
+      "Perl": "\\x{1F68C}"
+    }
+  }
+}

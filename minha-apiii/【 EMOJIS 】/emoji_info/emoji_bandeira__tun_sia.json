@@ -1,0 +1,59 @@
+{
+  "emoji": "🇹🇳",
+  "nome": "🇹🇳 Bandeira: Tunísia",
+  "categoria": "flag tunisia",
+  "url": "https://emojigraph.org/pt/flag-tunisia/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Tunísia. Este símbolo é uma seqüência de caracteres 🇹 Símbolo Indicador Regional Letra T e 🇳 Símbolo Indicador Regional Letra N. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras TN em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-tunisia_1f1f9-1f1f3.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-tunisia_1f1f9-1f1f3.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-tunisia_1f1f9-1f1f3.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-tunisia_1f1f9-1f1f3.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-tunisia_1f1f9-1f1f3.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-tunisia_1f1f9-1f1f3.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-tunisia_1f1f9-1f1f3.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-tunisia_1f1f9-1f1f3.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F9;&#x1F1F3;",
+      "HTML dec": "&#127481;&#127475;",
+      "URL escape code": "%F0%9F%87%B9%F0%9F%87%B3",
+      "Punycode": "xn--r77hla",
+      "Bytes (UTF-8)": "F0 9F 87 B9 F0 9F 87 B3",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF9\\uD83C\\uDDF3",
+      "C, C++, Python": "\\U0001f1f9\\U0001f1f3",
+      "CSS": "\\01F1F9 \\01F1F3",
+      "PHP, Ruby": "\\u{1F1F9}\\u{1F1F3}",
+      "Perl": "\\x{1F1F9}\\x{1F1F3}"
+    }
+  }
+}

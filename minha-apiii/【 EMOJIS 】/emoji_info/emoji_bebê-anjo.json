@@ -1,0 +1,95 @@
+{
+  "emoji": "👼",
+  "nome": "👼 Bebê anjo",
+  "categoria": "Baby Angel",
+  "url": "https://emojigraph.org/pt/baby-angel/",
+  "detalhes": {
+    "explicacao": "Um angélico bebê com asas, e uma auréola sobre a sua cabeça. Comumente conhecido como um querubim.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/baby-angel_1f47c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/baby-angel_1f47c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "anjo",
+      "bebê anjo",
+      "conto de fadas",
+      "rosto",
+      "bebê"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F47C;",
+      "HTML dec": "&#128124;",
+      "URL escape code": "%F0%9F%91%BC",
+      "Punycode": "xn--br8h",
+      "Bytes (UTF-8)": "F0 9F 91 BC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC7C",
+      "C, C++, Python": "\\U0001f47c",
+      "CSS": "\\01F47C",
+      "PHP, Ruby": "\\u{1F47C}",
+      "Perl": "\\x{1F47C}"
+    }
+  }
+}

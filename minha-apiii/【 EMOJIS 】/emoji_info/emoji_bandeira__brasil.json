@@ -1,0 +1,67 @@
+{
+  "emoji": "🇧🇷",
+  "nome": "🇧🇷 Bandeira: Brasil",
+  "categoria": "flag brazil",
+  "url": "https://emojigraph.org/pt/flag-brazil/",
+  "detalhes": {
+    "explicacao": "A bandeira  do Brasil, o que pode mostrar como as letras BR em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-brazil_1f1e7-1f1f7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-brazil_1f1e7-1f1f7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-brazil_1f1e7-1f1f7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-brazil_1f1e7-1f1f7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-brazil_1f1e7-1f1f7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-brazil_1f1e7-1f1f7.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-brazil_1f1e7-1f1f7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-brazil_1f1e7-1f1f7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-brazil_1f1e7-1f1f7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-brazil_1f1e7-1f1f7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1F7;",
+      "HTML dec": "&#127463;&#127479;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%B7",
+      "Punycode": "xn--f77h6a",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 B7",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDF7",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1f7",
+      "CSS": "\\01F1E7 \\01F1F7",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1F7}",
+      "Perl": "\\x{1F1E7}\\x{1F1F7}"
+    }
+  }
+}

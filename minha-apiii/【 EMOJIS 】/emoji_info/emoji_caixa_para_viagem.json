@@ -1,0 +1,68 @@
+{
+  "emoji": "🥡",
+  "nome": "🥡 Caixa para viagem",
+  "categoria": "takeout box",
+  "url": "https://emojigraph.org/pt/takeout-box/",
+  "detalhes": {
+    "explicacao": "Um homem alto, dobrado, caixa de papel, geralmente brancos, como os usados para takeout/lanchonetes em Western restaurantes Chineses. A maioria das plataformas retratam os pauzinhos dentro de sua tampa aberta, rotulado com um vermelho, multi-camadas, Chinês tradicional edifício. Também chamado de uma ostra balde.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/takeout-box_1f961.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/takeout-box_1f961.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/takeout-box_1f961.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/takeout-box_1f961.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/takeout-box_1f961.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/takeout-box_1f961.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/takeout-box_1f961.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/takeout-box_1f961.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/takeout-box_1f961.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/takeout-box_1f961.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "delivery",
+      "marmita"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F961;",
+      "HTML dec": "&#129377;",
+      "URL escape code": "%F0%9F%A5%A1",
+      "Punycode": "xn--3r9h",
+      "Bytes (UTF-8)": "F0 9F A5 A1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD61",
+      "C, C++, Python": "\\U0001f961",
+      "CSS": "\\01F961",
+      "PHP, Ruby": "\\u{1F961}",
+      "Perl": "\\x{1F961}"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "emoji": "🤫",
+  "nome": "🤫 Rosto fazendo sinal de silêncio",
+  "categoria": "shushing face",
+  "url": "https://emojigraph.org/pt/shushing-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, colocando o dedo indicador nos lábios contraídos, como se emitisse um som de _Shh! _or _Shush! _ for silêncio. Algumas plataformas mostram-no levantando as sobrancelhas. O design da Apple sugere que o cara está se inclinando um pouco para trás.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shushing-face_1f92b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shushing-face_1f92b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shushing-face_1f92b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shushing-face_1f92b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shushing-face_1f92b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shushing-face_1f92b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shushing-face_1f92b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shushing-face_1f92b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shushing-face_1f92b.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/shushing-face_1f92b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "quieto",
+      "silêncio",
+      "faça silêncio",
+      "fica quieta",
+      "quieta"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F92B;",
+      "HTML dec": "&#129323;",
+      "URL escape code": "%F0%9F%A4%AB",
+      "Punycode": "xn--kq9h",
+      "Bytes (UTF-8)": "F0 9F A4 AB",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD2B",
+      "C, C++, Python": "\\U0001f92b",
+      "CSS": "\\01F92B",
+      "PHP, Ruby": "\\u{1F92B}",
+      "Perl": "\\x{1F92B}"
+    }
+  }
+}

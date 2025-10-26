@@ -1,0 +1,70 @@
+{
+  "emoji": "🤰",
+  "nome": "🤰 Grávida",
+  "categoria": "pregnant woman",
+  "url": "https://emojigraph.org/pt/pregnant-woman/",
+  "detalhes": {
+    "explicacao": "Uma mulher grávida, pretende-se concluir a família emoji conjunto. Às vezes, usado em tom de brincadeira para representar a sensação de plenitude depois de comer muito; também conhecido como \"comida de bebê\".",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pregnant-woman_1f930.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pregnant-woman_1f930.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pregnant-woman_1f930.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pregnant-woman_1f930.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pregnant-woman_1f930.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pregnant-woman_1f930.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pregnant-woman_1f930.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pregnant-woman_1f930.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pregnant-woman_1f930.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pregnant-woman_1f930.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "grávida",
+      "mulher",
+      "estou grávida",
+      "gravidez"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F930;",
+      "HTML dec": "&#129328;",
+      "URL escape code": "%F0%9F%A4%B0",
+      "Punycode": "xn--pq9h",
+      "Bytes (UTF-8)": "F0 9F A4 B0",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD30",
+      "C, C++, Python": "\\U0001f930",
+      "CSS": "\\01F930",
+      "PHP, Ruby": "\\u{1F930}",
+      "Perl": "\\x{1F930}"
+    }
+  }
+}

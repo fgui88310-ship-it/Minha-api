@@ -1,0 +1,79 @@
+{
+  "emoji": "🧜",
+  "nome": "🧜 Pessoa sereia",
+  "categoria": "merperson",
+  "url": "https://emojigraph.org/pt/merperson/",
+  "detalhes": {
+    "explicacao": "Um merperson que pode ser referido como avatar ou merpeople no plural. Pode ser usado para a exibição de uma sereia, mergirl, merwoman, ou tritão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/merperson_1f9dc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/merperson_1f9dc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/merperson_1f9dc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/merperson_1f9dc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/merperson_1f9dc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/merperson_1f9dc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/merperson_1f9dc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/merperson_1f9dc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/merperson_1f9dc.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/merperson_1f9dc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pessoa sereia",
+      "sereia",
+      "canto",
+      "cauda",
+      "contos",
+      "criatura",
+      "fada",
+      "fundo",
+      "mar",
+      "oceano",
+      "ser encantado",
+      "sirene",
+      "tridente"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9DC;",
+      "HTML dec": "&#129500;",
+      "URL escape code": "%F0%9F%A7%9C",
+      "Punycode": "xn--mv9h",
+      "Bytes (UTF-8)": "F0 9F A7 9C",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDDC",
+      "C, C++, Python": "\\U0001f9dc",
+      "CSS": "\\01F9DC",
+      "PHP, Ruby": "\\u{1F9DC}",
+      "Perl": "\\x{1F9DC}"
+    }
+  }
+}

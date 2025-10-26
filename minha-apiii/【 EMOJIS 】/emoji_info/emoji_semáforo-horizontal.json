@@ -1,0 +1,95 @@
+{
+  "emoji": "🚥",
+  "nome": "🚥 Semáforo horizontal",
+  "categoria": "Horizontal Traffic Light",
+  "url": "https://emojigraph.org/pt/horizontal-traffic-light/",
+  "detalhes": {
+    "explicacao": "Um conjunto de vermelho, laranja (âmbar) e verde dos semáforos, usados em cruzamentos. Menos comum do que a vertical de tráfego leve.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/horizontal-traffic-light_1f6a5.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/horizontal-traffic-light_1f6a5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "luz",
+      "trânsito",
+      "semáforo",
+      "sinaleira",
+      "sinaleiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6A5;",
+      "HTML dec": "&#128677;",
+      "URL escape code": "%F0%9F%9A%A5",
+      "Punycode": "xn--368h",
+      "Bytes (UTF-8)": "F0 9F 9A A5",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEA5",
+      "C, C++, Python": "\\U0001f6a5",
+      "CSS": "\\01F6A5",
+      "PHP, Ruby": "\\u{1F6A5}",
+      "Perl": "\\x{1F6A5}"
+    }
+  }
+}

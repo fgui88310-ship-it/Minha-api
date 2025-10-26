@@ -1,0 +1,84 @@
+{
+  "emoji": "🚔",
+  "nome": "🚔 Viatura policial se aproximando",
+  "categoria": "oncoming police car",
+  "url": "https://emojigraph.org/pt/oncoming-police-car/",
+  "detalhes": {
+    "explicacao": "Um carro da polícia, mostrado com uma luz de emergência no topo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/oncoming-police-car_1f694.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/oncoming-police-car_1f694.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "polícia",
+      "veículo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F694;",
+      "HTML dec": "&#128660;",
+      "URL escape code": "%F0%9F%9A%94",
+      "Punycode": "xn--m68h",
+      "Bytes (UTF-8)": "F0 9F 9A 94",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE94",
+      "C, C++, Python": "\\U0001f694",
+      "CSS": "\\01F694",
+      "PHP, Ruby": "\\u{1F694}",
+      "Perl": "\\x{1F694}"
+    }
+  }
+}

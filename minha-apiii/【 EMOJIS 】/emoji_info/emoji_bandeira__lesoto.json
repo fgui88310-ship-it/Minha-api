@@ -1,0 +1,59 @@
+{
+  "emoji": "🇱🇸",
+  "nome": "🇱🇸 Bandeira: Lesoto",
+  "categoria": "flag lesotho",
+  "url": "https://emojigraph.org/pt/flag-lesotho/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Lesoto. Este símbolo é uma seqüência de caracteres 🇱 Símbolo Indicador Regional Letra L e 🇸 Símbolo Indicador Regional Letra S. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras LS em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-lesotho_1f1f1-1f1f8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-lesotho_1f1f1-1f1f8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-lesotho_1f1f1-1f1f8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-lesotho_1f1f1-1f1f8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-lesotho_1f1f1-1f1f8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-lesotho_1f1f1-1f1f8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-lesotho_1f1f1-1f1f8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-lesotho_1f1f1-1f1f8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F1;&#x1F1F8;",
+      "HTML dec": "&#127473;&#127480;",
+      "URL escape code": "%F0%9F%87%B1%F0%9F%87%B8",
+      "Punycode": "xn--p77hoa",
+      "Bytes (UTF-8)": "F0 9F 87 B1 F0 9F 87 B8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF1\\uD83C\\uDDF8",
+      "C, C++, Python": "\\U0001f1f1\\U0001f1f8",
+      "CSS": "\\01F1F1 \\01F1F8",
+      "PHP, Ruby": "\\u{1F1F1}\\u{1F1F8}",
+      "Perl": "\\x{1F1F1}\\x{1F1F8}"
+    }
+  }
+}

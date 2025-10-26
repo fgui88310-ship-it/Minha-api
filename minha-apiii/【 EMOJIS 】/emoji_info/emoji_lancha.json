@@ -1,0 +1,96 @@
+{
+  "emoji": "🚤",
+  "nome": "🚤 Lancha",
+  "categoria": "Speedboat",
+  "url": "https://emojigraph.org/pt/speedboat/",
+  "detalhes": {
+    "explicacao": "Uma lancha motorizada utilizados para o lazer em lagos ou outros corpos de água.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/speedboat_1f6a4.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/speedboat_1f6a4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "barco",
+      "lancha",
+      "veículo",
+      "férias",
+      "praia",
+      "verão"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6A4;",
+      "HTML dec": "&#128676;",
+      "URL escape code": "%F0%9F%9A%A4",
+      "Punycode": "xn--268h",
+      "Bytes (UTF-8)": "F0 9F 9A A4",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEA4",
+      "C, C++, Python": "\\U0001f6a4",
+      "CSS": "\\01F6A4",
+      "PHP, Ruby": "\\u{1F6A4}",
+      "Perl": "\\x{1F6A4}"
+    }
+  }
+}

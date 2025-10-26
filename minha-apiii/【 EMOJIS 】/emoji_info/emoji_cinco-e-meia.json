@@ -1,0 +1,86 @@
+{
+  "emoji": "🕠",
+  "nome": "🕠 Cinco e meia",
+  "categoria": "Five Thirty",
+  "url": "https://emojigraph.org/pt/five-thirty/",
+  "detalhes": {
+    "explicacao": "De cinco a Trinta foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Cinco a Trinta\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/five-thirty_1f560.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/five-thirty_1f560.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "5h30",
+      "cinco e meia",
+      "relógio",
+      "17h30"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F560;",
+      "HTML dec": "&#128352;",
+      "URL escape code": "%F0%9F%95%A0",
+      "Punycode": "xn--tx8h",
+      "Bytes (UTF-8)": "F0 9F 95 A0",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD60",
+      "C, C++, Python": "\\U0001f560",
+      "CSS": "\\01F560",
+      "PHP, Ruby": "\\u{1F560}",
+      "Perl": "\\x{1F560}"
+    }
+  }
+}

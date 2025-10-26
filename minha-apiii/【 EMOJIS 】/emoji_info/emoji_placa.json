@@ -1,0 +1,66 @@
+{
+  "emoji": "🪧",
+  "nome": "🪧 Placa",
+  "categoria": "Placard",
+  "url": "https://emojigraph.org/pt/placard/",
+  "detalhes": {
+    "explicacao": "Cartaz foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/placard_1faa7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/placard_1faa7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/placard_1faa7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/placard_1faa7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/placard_1faa7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/placard_1faa7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/placard_1faa7.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/placard_1faa7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "demonstração",
+      "piquete",
+      "placa",
+      "protesto",
+      "sinal",
+      "aviso",
+      "cartaz",
+      "letreiro"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAA7;",
+      "HTML dec": "&#129703;",
+      "URL escape code": "%F0%9F%AA%A7",
+      "Punycode": "xn--f19h",
+      "Bytes (UTF-8)": "F0 9F AA A7",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEA7",
+      "C, C++, Python": "\\U0001faa7",
+      "CSS": "\\01FAA7",
+      "PHP, Ruby": "\\u{1FAA7}",
+      "Perl": "\\x{1FAA7}"
+    }
+  }
+}

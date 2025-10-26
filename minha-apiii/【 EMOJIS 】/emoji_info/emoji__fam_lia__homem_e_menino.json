@@ -1,0 +1,73 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍👦 Família: homem e menino",
+  "categoria": "family man boy",
+  "url": "https://emojigraph.org/pt/family-man-boy/",
+  "detalhes": {
+    "explicacao": "A Família: o Homem, o Menino emoji é uma sequência do 👨 Homem e 👦 Menino emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/family-man-boy_1f468-200d-1f466.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/family-man-boy_1f468-200d-1f466.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/family-man-boy_1f468-200d-1f466.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/family-man-boy_1f468-200d-1f466.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/family-man-boy_1f468-200d-1f466.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/family-man-boy_1f468-200d-1f466.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/family-man-boy_1f468-200d-1f466.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/family-man-boy_1f468-200d-1f466.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/family-man-boy_1f468-200d-1f466.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/family-man-boy_1f468-200d-1f466.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "família",
+      "filho",
+      "homem",
+      "mãe",
+      "menino",
+      "pai",
+      "pessoas"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F466;",
+      "HTML dec": "&#128104;&#8205;&#128102;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%91%A6",
+      "Punycode": "xn--oq8hd",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F 91 A6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83D\\uDC66",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f466",
+      "CSS": "\\01F468 \\200D \\01F466",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F466}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F466}"
+    }
+  }
+}

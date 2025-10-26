@@ -1,0 +1,94 @@
+{
+  "emoji": "🔩",
+  "nome": "🔩 Porca e parafuso",
+  "categoria": "Nut And Bolt",
+  "url": "https://emojigraph.org/pt/nut-and-bolt/",
+  "detalhes": {
+    "explicacao": "Um metal parafuso com porca roscada em torno dela, como por uma chave. Muitas vezes posicionados em um ângulo de 45°, a cabeça do parafuso na parte superior esquerda. Comumente utilizado para vários conteúdos relativos a ferramentas de construção e de construção. Pode também ser utilizado para outros itens de hardware, incluindo parafusos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/nut-and-bolt_1f529.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/nut-and-bolt_1f529.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ferramenta",
+      "parafuso",
+      "porca",
+      "construção"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F529;",
+      "HTML dec": "&#128297;",
+      "URL escape code": "%F0%9F%94%A9",
+      "Punycode": "xn--8v8h",
+      "Bytes (UTF-8)": "F0 9F 94 A9",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD29",
+      "C, C++, Python": "\\U0001f529",
+      "CSS": "\\01F529",
+      "PHP, Ruby": "\\u{1F529}",
+      "Perl": "\\x{1F529}"
+    }
+  }
+}

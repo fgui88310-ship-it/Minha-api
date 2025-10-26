@@ -1,0 +1,70 @@
+{
+  "emoji": "🕋",
+  "nome": "🕋 Caaba islã",
+  "categoria": "Kaaba",
+  "url": "https://emojigraph.org/pt/kaaba/",
+  "detalhes": {
+    "explicacao": "Um em forma de cubo edifício localizado no centro de Al-Masjid al-Haram Mesquita, em Meca.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/kaaba_1f54b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/kaaba_1f54b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/kaaba_1f54b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/kaaba_1f54b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/kaaba_1f54b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/kaaba_1f54b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/kaaba_1f54b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/kaaba_1f54b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/kaaba_1f54b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/kaaba_1f54b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caaba islã",
+      "islã",
+      "muçulmano",
+      "religião"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F54B;",
+      "HTML dec": "&#128331;",
+      "URL escape code": "%F0%9F%95%8B",
+      "Punycode": "xn--7w8h",
+      "Bytes (UTF-8)": "F0 9F 95 8B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD4B",
+      "C, C++, Python": "\\U0001f54b",
+      "CSS": "\\01F54B",
+      "PHP, Ruby": "\\u{1F54B}",
+      "Perl": "\\x{1F54B}"
+    }
+  }
+}

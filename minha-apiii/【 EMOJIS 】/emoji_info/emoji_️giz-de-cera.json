@@ -1,0 +1,68 @@
+{
+  "emoji": "🖍",
+  "nome": "🖍️ Giz de cera",
+  "categoria": "Crayon",
+  "url": "https://emojigraph.org/pt/crayon/",
+  "detalhes": {
+    "explicacao": "Um lápis de cera, como as crianças usam a cor. Retratado como o vermelho na maioria das plataformas com duas listras pretas no rótulo, semelhante a um lápis de cera Crayola. Posicionado em um ângulo de 45°, suas pontas na parte inferior esquerda. Comumente utilizado para vários conteúdos relativos desenho, cores, artes e ofícios, e a escolaridade.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crayon_1f58d-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crayon_1f58d-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crayon_1f58d-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crayon_1f58d-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crayon_1f58d-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crayon_1f58d-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crayon_1f58d-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crayon_1f58d-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crayon_1f58d-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/crayon_1f58d-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "giz",
+      "giz de cera"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F58D;&#xFE0F;",
+      "HTML dec": "&#128397;&#65039;",
+      "URL escape code": "%F0%9F%96%8D%EF%B8%8F",
+      "Punycode": "xn--3y8h",
+      "Bytes (UTF-8)": "F0 9F 96 8D EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD8D\\uFE0F",
+      "C, C++, Python": "\\U0001f58d\\uFE0F",
+      "CSS": "\\01F58D \\FE0F",
+      "PHP, Ruby": "\\u{1F58D}\\u{FE0F}",
+      "Perl": "\\x{1F58D}\\x{FE0F}"
+    }
+  }
+}

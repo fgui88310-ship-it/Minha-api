@@ -1,0 +1,94 @@
+{
+  "emoji": "🐧",
+  "nome": "🐧 Pinguim",
+  "categoria": "Penguin",
+  "url": "https://emojigraph.org/pt/penguin/",
+  "detalhes": {
+    "explicacao": "Um pinguim, uma ave adaptada para água e gelo. Comumente descrita como um pinguim inteiro, preto com corpo de pinguim com uma barriga branca e um bico laranja ou como somente uma cabeça se pinguim.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/penguin_1f427.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/penguin_1f427.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "pinguim",
+      "antartica",
+      "frio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F427;",
+      "HTML dec": "&#128039;",
+      "URL escape code": "%F0%9F%90%A7",
+      "Punycode": "xn--vo8h",
+      "Bytes (UTF-8)": "F0 9F 90 A7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC27",
+      "C, C++, Python": "\\U0001f427",
+      "CSS": "\\01F427",
+      "PHP, Ruby": "\\u{1F427}",
+      "Perl": "\\x{1F427}"
+    }
+  }
+}

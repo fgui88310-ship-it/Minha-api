@@ -1,0 +1,59 @@
+{
+  "emoji": "🇲🇵",
+  "nome": "🇲🇵 Bandeira: Ilhas Marianas do Norte",
+  "categoria": "flag northern mariana islands",
+  "url": "https://emojigraph.org/pt/flag-northern-mariana-islands/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional das Ilhas de Mariana do Norte. Este símbolo é uma seqüência de caracteres 🇲 Símbolo Indicador Regional Letra М e 🇵 Símbolo Indicador Regional Letra P. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras MP em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-northern-mariana-islands_1f1f2-1f1f5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-northern-mariana-islands_1f1f2-1f1f5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-northern-mariana-islands_1f1f2-1f1f5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-northern-mariana-islands_1f1f2-1f1f5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-northern-mariana-islands_1f1f2-1f1f5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-northern-mariana-islands_1f1f2-1f1f5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-northern-mariana-islands_1f1f2-1f1f5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-northern-mariana-islands_1f1f2-1f1f5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F2;&#x1F1F5;",
+      "HTML dec": "&#127474;&#127477;",
+      "URL escape code": "%F0%9F%87%B2%F0%9F%87%B5",
+      "Punycode": "xn--q77hga",
+      "Bytes (UTF-8)": "F0 9F 87 B2 F0 9F 87 B5",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF2\\uD83C\\uDDF5",
+      "C, C++, Python": "\\U0001f1f2\\U0001f1f5",
+      "CSS": "\\01F1F2 \\01F1F5",
+      "PHP, Ruby": "\\u{1F1F2}\\u{1F1F5}",
+      "Perl": "\\x{1F1F2}\\x{1F1F5}"
+    }
+  }
+}

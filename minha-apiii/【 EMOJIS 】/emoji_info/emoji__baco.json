@@ -1,0 +1,71 @@
+{
+  "emoji": "🧮",
+  "nome": "🧮 Ábaco",
+  "categoria": "abacus",
+  "url": "https://emojigraph.org/pt/abacus/",
+  "detalhes": {
+    "explicacao": "Um ábaco, uma antiga ferramenta usada para contar e calcular movendo contas. Descrito como uma moldura de madeira com quatro ou mais linhas ou colunas de variadamente posicionado e esferas coloridas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/abacus_1f9ee.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/abacus_1f9ee.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/abacus_1f9ee.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/abacus_1f9ee.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/abacus_1f9ee.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/abacus_1f9ee.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/abacus_1f9ee.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/abacus_1f9ee.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/abacus_1f9ee.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/abacus_1f9ee.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ábaco",
+      "cálculo",
+      "calculadora",
+      "matemática",
+      "número"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9EE;",
+      "HTML dec": "&#129518;",
+      "URL escape code": "%F0%9F%A7%AE",
+      "Punycode": "xn--4v9h",
+      "Bytes (UTF-8)": "F0 9F A7 AE",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDEE",
+      "C, C++, Python": "\\U0001f9ee",
+      "CSS": "\\01F9EE",
+      "PHP, Ruby": "\\u{1F9EE}",
+      "Perl": "\\x{1F9EE}"
+    }
+  }
+}

@@ -1,0 +1,1542 @@
+[
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/"
+  },
+  {
+    "nome": "😃Smileys e Emoção",
+    "href": "/pt/smileys-emotion/"
+  },
+  {
+    "nome": "🤦‍♀️Pessoas e Corpo",
+    "href": "/pt/people-body/"
+  },
+  {
+    "nome": "🐶Animais e Natureza",
+    "href": "/pt/animals-nature/"
+  },
+  {
+    "nome": "🍩Alimentação e bebida",
+    "href": "/pt/food-drink/"
+  },
+  {
+    "nome": "🚗Viagens e lugares",
+    "href": "/pt/travel-places/"
+  },
+  {
+    "nome": "🏀Atividades",
+    "href": "/pt/activities/"
+  },
+  {
+    "nome": "💎Objetos",
+    "href": "/pt/objects/"
+  },
+  {
+    "nome": "✅Símbolos",
+    "href": "/pt/symbols/"
+  },
+  {
+    "nome": "🏁Bandeiras",
+    "href": "/pt/flags/"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "🤩Rosto com olhar maravilhado",
+    "href": "/pt/star-struck/"
+  },
+  {
+    "nome": "🤪Rosto bizarro",
+    "href": "/pt/zany-face/"
+  },
+  {
+    "nome": "🤭Rosto com a mão sobre a boca",
+    "href": "/pt/face-with-hand-over-mouth/"
+  },
+  {
+    "nome": "🤫Rosto fazendo sinal de silêncio",
+    "href": "/pt/shushing-face/"
+  },
+  {
+    "nome": "🤨Rosto com sobrancelha levantada",
+    "href": "/pt/face-with-raised-eyebrow/"
+  },
+  {
+    "nome": "🤮Rosto vomitando",
+    "href": "/pt/face-vomiting/"
+  },
+  {
+    "nome": "🤯Cabeça explodindo",
+    "href": "/pt/exploding-head/"
+  },
+  {
+    "nome": "🧐Rosto com monóculo",
+    "href": "/pt/face-with-monocle/"
+  },
+  {
+    "nome": "🤬Rosto com símbolos na boca",
+    "href": "/pt/face-with-symbols-on-mouth/"
+  },
+  {
+    "nome": "🧡Coração laranja",
+    "href": "/pt/orange-heart/"
+  },
+  {
+    "nome": "🤟Gesto de \"te amo\"",
+    "href": "/pt/love-you-gesture/"
+  },
+  {
+    "nome": "🤟🏻Gesto de \"te amo\": pele clara",
+    "href": "/pt/love-you-gesture-light-skin-tone/"
+  },
+  {
+    "nome": "🤟🏼Gesto de \"te amo\": pele morena clara",
+    "href": "/pt/love-you-gesture-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🤟🏽Gesto de \"te amo\": pele morena",
+    "href": "/pt/love-you-gesture-medium-skin-tone/"
+  },
+  {
+    "nome": "🤟🏾Gesto de \"te amo\": pele morena escura",
+    "href": "/pt/love-you-gesture-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🤟🏿Gesto de \"te amo\": pele escura",
+    "href": "/pt/love-you-gesture-dark-skin-tone/"
+  },
+  {
+    "nome": "🤲Palmas unidas para cima",
+    "href": "/pt/palms-up-together/"
+  },
+  {
+    "nome": "🤲🏻Palmas unidas para cima: pele clara",
+    "href": "/pt/palms-up-together-light-skin-tone/"
+  },
+  {
+    "nome": "🤲🏼Palmas unidas para cima: pele morena clara",
+    "href": "/pt/palms-up-together-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🤲🏽Palmas unidas para cima: pele morena",
+    "href": "/pt/palms-up-together-medium-skin-tone/"
+  },
+  {
+    "nome": "🤲🏾Palmas unidas para cima: pele morena escura",
+    "href": "/pt/palms-up-together-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🤲🏿Palmas unidas para cima: pele escura",
+    "href": "/pt/palms-up-together-dark-skin-tone/"
+  },
+  {
+    "nome": "🧠Cérebro",
+    "href": "/pt/brain/"
+  },
+  {
+    "nome": "🧒Criança",
+    "href": "/pt/child/"
+  },
+  {
+    "nome": "🧒🏻Criança: pele clara",
+    "href": "/pt/child-light-skin-tone/"
+  },
+  {
+    "nome": "🧒🏼Criança: pele morena clara",
+    "href": "/pt/child-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧒🏽Criança: pele morena",
+    "href": "/pt/child-medium-skin-tone/"
+  },
+  {
+    "nome": "🧒🏾Criança: pele morena escura",
+    "href": "/pt/child-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧒🏿Criança: pele escura",
+    "href": "/pt/child-dark-skin-tone/"
+  },
+  {
+    "nome": "🧑Pessoa",
+    "href": "/pt/person/"
+  },
+  {
+    "nome": "🧑🏻Pessoa: pele clara",
+    "href": "/pt/person-light-skin-tone/"
+  },
+  {
+    "nome": "🧑🏼Pessoa: pele morena clara",
+    "href": "/pt/person-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧑🏽Pessoa: pele morena",
+    "href": "/pt/person-medium-skin-tone/"
+  },
+  {
+    "nome": "🧑🏾Pessoa: pele morena escura",
+    "href": "/pt/person-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧑🏿Pessoa: pele escura",
+    "href": "/pt/person-dark-skin-tone/"
+  },
+  {
+    "nome": "🧔Homem: barba",
+    "href": "/pt/person-beard/"
+  },
+  {
+    "nome": "🧔🏻Homem: pele clara e barba",
+    "href": "/pt/person-light-skin-tone-beard/"
+  },
+  {
+    "nome": "🧔🏼Homem: pele morena clara e barba",
+    "href": "/pt/person-medium-light-skin-tone-beard/"
+  },
+  {
+    "nome": "🧔🏽Homem: pele morena e barba",
+    "href": "/pt/person-medium-skin-tone-beard/"
+  },
+  {
+    "nome": "🧔🏾Homem: pele morena escura e barba",
+    "href": "/pt/person-medium-dark-skin-tone-beard/"
+  },
+  {
+    "nome": "🧔🏿Homem: pele escura e barba",
+    "href": "/pt/person-dark-skin-tone-beard/"
+  },
+  {
+    "nome": "🧓Idoso",
+    "href": "/pt/older-person/"
+  },
+  {
+    "nome": "🧓🏻Idoso: pele clara",
+    "href": "/pt/older-person-light-skin-tone/"
+  },
+  {
+    "nome": "🧓🏼Idoso: pele morena clara",
+    "href": "/pt/older-person-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧓🏽Idoso: pele morena",
+    "href": "/pt/older-person-medium-skin-tone/"
+  },
+  {
+    "nome": "🧓🏾Idoso: pele morena escura",
+    "href": "/pt/older-person-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧓🏿Idoso: pele escura",
+    "href": "/pt/older-person-dark-skin-tone/"
+  },
+  {
+    "nome": "🧕Mulher com véu",
+    "href": "/pt/woman-with-headscarf/"
+  },
+  {
+    "nome": "🧕🏻Mulher com véu: pele clara",
+    "href": "/pt/woman-with-headscarf-light-skin-tone/"
+  },
+  {
+    "nome": "🧕🏼Mulher com véu: pele morena clara",
+    "href": "/pt/woman-with-headscarf-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧕🏽Mulher com véu: pele morena",
+    "href": "/pt/woman-with-headscarf-medium-skin-tone/"
+  },
+  {
+    "nome": "🧕🏾Mulher com véu: pele morena escura",
+    "href": "/pt/woman-with-headscarf-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧕🏿Mulher com véu: pele escura",
+    "href": "/pt/woman-with-headscarf-dark-skin-tone/"
+  },
+  {
+    "nome": "🤱Amamentando",
+    "href": "/pt/breast-feeding/"
+  },
+  {
+    "nome": "🤱🏻Amamentando: pele clara",
+    "href": "/pt/breast-feeding-light-skin-tone/"
+  },
+  {
+    "nome": "🤱🏼Amamentando: pele morena clara",
+    "href": "/pt/breast-feeding-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🤱🏽Amamentando: pele morena",
+    "href": "/pt/breast-feeding-medium-skin-tone/"
+  },
+  {
+    "nome": "🤱🏾Amamentando: pele morena escura",
+    "href": "/pt/breast-feeding-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🤱🏿Amamentando: pele escura",
+    "href": "/pt/breast-feeding-dark-skin-tone/"
+  },
+  {
+    "nome": "🧙Mago",
+    "href": "/pt/mage/"
+  },
+  {
+    "nome": "🧙🏻Mago: pele clara",
+    "href": "/pt/mage-light-skin-tone/"
+  },
+  {
+    "nome": "🧙🏼Mago: pele morena clara",
+    "href": "/pt/mage-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧙🏽Mago: pele morena",
+    "href": "/pt/mage-medium-skin-tone/"
+  },
+  {
+    "nome": "🧙🏾Mago: pele morena escura",
+    "href": "/pt/mage-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧙🏿Mago: pele escura",
+    "href": "/pt/mage-dark-skin-tone/"
+  },
+  {
+    "nome": "🧙‍♂️Homem mago",
+    "href": "/pt/man-mage/"
+  },
+  {
+    "nome": "🧙🏻‍♂️Homem mago: pele clara",
+    "href": "/pt/man-mage-light-skin-tone/"
+  },
+  {
+    "nome": "🧙🏼‍♂️Homem mago: pele morena clara",
+    "href": "/pt/man-mage-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧙🏽‍♂️Homem mago: pele morena",
+    "href": "/pt/man-mage-medium-skin-tone/"
+  },
+  {
+    "nome": "🧙🏾‍♂️Homem mago: pele morena escura",
+    "href": "/pt/man-mage-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧙🏿‍♂️Homem mago: pele escura",
+    "href": "/pt/man-mage-dark-skin-tone/"
+  },
+  {
+    "nome": "🧙‍♀️Maga",
+    "href": "/pt/woman-mage/"
+  },
+  {
+    "nome": "🧙🏻‍♀️Maga: pele clara",
+    "href": "/pt/woman-mage-light-skin-tone/"
+  },
+  {
+    "nome": "🧙🏼‍♀️Maga: pele morena clara",
+    "href": "/pt/woman-mage-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧙🏽‍♀️Maga: pele morena",
+    "href": "/pt/woman-mage-medium-skin-tone/"
+  },
+  {
+    "nome": "🧙🏾‍♀️Maga: pele morena escura",
+    "href": "/pt/woman-mage-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧙🏿‍♀️Maga: pele escura",
+    "href": "/pt/woman-mage-dark-skin-tone/"
+  },
+  {
+    "nome": "🧚Fada",
+    "href": "/pt/fairy/"
+  },
+  {
+    "nome": "🧚🏻Fada: pele clara",
+    "href": "/pt/fairy-light-skin-tone/"
+  },
+  {
+    "nome": "🧚🏼Fada: pele morena clara",
+    "href": "/pt/fairy-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧚🏽Fada: pele morena",
+    "href": "/pt/fairy-medium-skin-tone/"
+  },
+  {
+    "nome": "🧚🏾Fada: pele morena escura",
+    "href": "/pt/fairy-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧚🏿Fada: pele escura",
+    "href": "/pt/fairy-dark-skin-tone/"
+  },
+  {
+    "nome": "🧚‍♂️Homem fada",
+    "href": "/pt/man-fairy/"
+  },
+  {
+    "nome": "🧚🏻‍♂️Homem fada: pele clara",
+    "href": "/pt/man-fairy-light-skin-tone/"
+  },
+  {
+    "nome": "🧚🏼‍♂️Homem fada: pele morena clara",
+    "href": "/pt/man-fairy-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧚🏽‍♂️Homem fada: pele morena",
+    "href": "/pt/man-fairy-medium-skin-tone/"
+  },
+  {
+    "nome": "🧚🏾‍♂️Homem fada: pele morena escura",
+    "href": "/pt/man-fairy-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧚🏿‍♂️Homem fada: pele escura",
+    "href": "/pt/man-fairy-dark-skin-tone/"
+  },
+  {
+    "nome": "🧚‍♀️Mulher fada",
+    "href": "/pt/woman-fairy/"
+  },
+  {
+    "nome": "🧚🏻‍♀️Mulher fada: pele clara",
+    "href": "/pt/woman-fairy-light-skin-tone/"
+  },
+  {
+    "nome": "🧚🏼‍♀️Mulher fada: pele morena clara",
+    "href": "/pt/woman-fairy-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧚🏽‍♀️Mulher fada: pele morena",
+    "href": "/pt/woman-fairy-medium-skin-tone/"
+  },
+  {
+    "nome": "🧚🏾‍♀️Mulher fada: pele morena escura",
+    "href": "/pt/woman-fairy-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧚🏿‍♀️Mulher fada: pele escura",
+    "href": "/pt/woman-fairy-dark-skin-tone/"
+  },
+  {
+    "nome": "🧛Vampiro",
+    "href": "/pt/vampire/"
+  },
+  {
+    "nome": "🧛🏻Vampiro: pele clara",
+    "href": "/pt/vampire-light-skin-tone/"
+  },
+  {
+    "nome": "🧛🏼Vampiro: pele morena clara",
+    "href": "/pt/vampire-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧛🏽Vampiro: pele morena",
+    "href": "/pt/vampire-medium-skin-tone/"
+  },
+  {
+    "nome": "🧛🏾Vampiro: pele morena escura",
+    "href": "/pt/vampire-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧛🏿Vampiro: pele escura",
+    "href": "/pt/vampire-dark-skin-tone/"
+  },
+  {
+    "nome": "🧛‍♂️Homem vampiro",
+    "href": "/pt/man-vampire/"
+  },
+  {
+    "nome": "🧛🏻‍♂️Homem vampiro: pele clara",
+    "href": "/pt/man-vampire-light-skin-tone/"
+  },
+  {
+    "nome": "🧛🏼‍♂️Homem vampiro: pele morena clara",
+    "href": "/pt/man-vampire-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧛🏽‍♂️Homem vampiro: pele morena",
+    "href": "/pt/man-vampire-medium-skin-tone/"
+  },
+  {
+    "nome": "🧛🏾‍♂️Homem vampiro: pele morena escura",
+    "href": "/pt/man-vampire-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧛🏿‍♂️Homem vampiro: pele escura",
+    "href": "/pt/man-vampire-dark-skin-tone/"
+  },
+  {
+    "nome": "🧛‍♀️Mulher vampira",
+    "href": "/pt/woman-vampire/"
+  },
+  {
+    "nome": "🧛🏻‍♀️Mulher vampira: pele clara",
+    "href": "/pt/woman-vampire-light-skin-tone/"
+  },
+  {
+    "nome": "🧛🏼‍♀️Mulher vampira: pele morena clara",
+    "href": "/pt/woman-vampire-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧛🏽‍♀️Mulher vampira: pele morena",
+    "href": "/pt/woman-vampire-medium-skin-tone/"
+  },
+  {
+    "nome": "🧛🏾‍♀️Mulher vampira: pele morena escura",
+    "href": "/pt/woman-vampire-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧛🏿‍♀️Mulher vampira: pele escura",
+    "href": "/pt/woman-vampire-dark-skin-tone/"
+  },
+  {
+    "nome": "🧜Pessoa sereia",
+    "href": "/pt/merperson/"
+  },
+  {
+    "nome": "🧜🏻Pessoa sereia: pele clara",
+    "href": "/pt/merperson-light-skin-tone/"
+  },
+  {
+    "nome": "🧜🏼Pessoa sereia: pele morena clara",
+    "href": "/pt/merperson-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧜🏽Pessoa sereia: pele morena",
+    "href": "/pt/merperson-medium-skin-tone/"
+  },
+  {
+    "nome": "🧜🏾Pessoa sereia: pele morena escura",
+    "href": "/pt/merperson-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧜🏿Pessoa sereia: pele escura",
+    "href": "/pt/merperson-dark-skin-tone/"
+  },
+  {
+    "nome": "🧜‍♂️Sereio",
+    "href": "/pt/merman/"
+  },
+  {
+    "nome": "🧜🏻‍♂️Sereio: pele clara",
+    "href": "/pt/merman-light-skin-tone/"
+  },
+  {
+    "nome": "🧜🏼‍♂️Sereio: pele morena clara",
+    "href": "/pt/merman-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧜🏽‍♂️Sereio: pele morena",
+    "href": "/pt/merman-medium-skin-tone/"
+  },
+  {
+    "nome": "🧜🏾‍♂️Sereio: pele morena escura",
+    "href": "/pt/merman-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧜🏿‍♂️Sereio: pele escura",
+    "href": "/pt/merman-dark-skin-tone/"
+  },
+  {
+    "nome": "🧜‍♀️Sereia",
+    "href": "/pt/mermaid/"
+  },
+  {
+    "nome": "🧜🏻‍♀️Sereia: pele clara",
+    "href": "/pt/mermaid-light-skin-tone/"
+  },
+  {
+    "nome": "🧜🏼‍♀️Sereia: pele morena clara",
+    "href": "/pt/mermaid-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧜🏽‍♀️Sereia: pele morena",
+    "href": "/pt/mermaid-medium-skin-tone/"
+  },
+  {
+    "nome": "🧜🏾‍♀️Sereia: pele morena escura",
+    "href": "/pt/mermaid-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧜🏿‍♀️Sereia: pele escura",
+    "href": "/pt/mermaid-dark-skin-tone/"
+  },
+  {
+    "nome": "🧝Elfo",
+    "href": "/pt/elf/"
+  },
+  {
+    "nome": "🧝🏻Elfo: pele clara",
+    "href": "/pt/elf-light-skin-tone/"
+  },
+  {
+    "nome": "🧝🏼Elfo: pele morena clara",
+    "href": "/pt/elf-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧝🏽Elfo: pele morena",
+    "href": "/pt/elf-medium-skin-tone/"
+  },
+  {
+    "nome": "🧝🏾Elfo: pele morena escura",
+    "href": "/pt/elf-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧝🏿Elfo: pele escura",
+    "href": "/pt/elf-dark-skin-tone/"
+  },
+  {
+    "nome": "🧝‍♂️Elfo homem",
+    "href": "/pt/man-elf/"
+  },
+  {
+    "nome": "🧝🏻‍♂️Elfo homem: pele clara",
+    "href": "/pt/man-elf-light-skin-tone/"
+  },
+  {
+    "nome": "🧝🏼‍♂️Elfo homem: pele morena clara",
+    "href": "/pt/man-elf-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧝🏽‍♂️Elfo homem: pele morena",
+    "href": "/pt/man-elf-medium-skin-tone/"
+  },
+  {
+    "nome": "🧝🏾‍♂️Elfo homem: pele morena escura",
+    "href": "/pt/man-elf-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧝🏿‍♂️Elfo homem: pele escura",
+    "href": "/pt/man-elf-dark-skin-tone/"
+  },
+  {
+    "nome": "🧝‍♀️Elfa",
+    "href": "/pt/woman-elf/"
+  },
+  {
+    "nome": "🧝🏻‍♀️Elfa: pele clara",
+    "href": "/pt/woman-elf-light-skin-tone/"
+  },
+  {
+    "nome": "🧝🏼‍♀️Elfa: pele morena clara",
+    "href": "/pt/woman-elf-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧝🏽‍♀️Elfa: pele morena",
+    "href": "/pt/woman-elf-medium-skin-tone/"
+  },
+  {
+    "nome": "🧝🏾‍♀️Elfa: pele morena escura",
+    "href": "/pt/woman-elf-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧝🏿‍♀️Elfa: pele escura",
+    "href": "/pt/woman-elf-dark-skin-tone/"
+  },
+  {
+    "nome": "🧞Gênio",
+    "href": "/pt/genie/"
+  },
+  {
+    "nome": "🧞‍♂️Homem gênio",
+    "href": "/pt/man-genie/"
+  },
+  {
+    "nome": "🧞‍♀️Mulher gênio",
+    "href": "/pt/woman-genie/"
+  },
+  {
+    "nome": "🧟Zumbi",
+    "href": "/pt/zombie/"
+  },
+  {
+    "nome": "🧟‍♂️Homem zumbi",
+    "href": "/pt/man-zombie/"
+  },
+  {
+    "nome": "🧟‍♀️Mulher zumbi",
+    "href": "/pt/woman-zombie/"
+  },
+  {
+    "nome": "🧖Pessoa na sauna",
+    "href": "/pt/person-in-steamy-room/"
+  },
+  {
+    "nome": "🧖🏻Pessoa na sauna: pele clara",
+    "href": "/pt/person-in-steamy-room-light-skin-tone/"
+  },
+  {
+    "nome": "🧖🏼Pessoa na sauna: pele morena clara",
+    "href": "/pt/person-in-steamy-room-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧖🏽Pessoa na sauna: pele morena",
+    "href": "/pt/person-in-steamy-room-medium-skin-tone/"
+  },
+  {
+    "nome": "🧖🏾Pessoa na sauna: pele morena escura",
+    "href": "/pt/person-in-steamy-room-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧖🏿Pessoa na sauna: pele escura",
+    "href": "/pt/person-in-steamy-room-dark-skin-tone/"
+  },
+  {
+    "nome": "🧖‍♂️Homem na sauna",
+    "href": "/pt/man-in-steamy-room/"
+  },
+  {
+    "nome": "🧖🏻‍♂️Homem na sauna: pele clara",
+    "href": "/pt/man-in-steamy-room-light-skin-tone/"
+  },
+  {
+    "nome": "🧖🏼‍♂️Homem na sauna: pele morena clara",
+    "href": "/pt/man-in-steamy-room-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧖🏽‍♂️Homem na sauna: pele morena",
+    "href": "/pt/man-in-steamy-room-medium-skin-tone/"
+  },
+  {
+    "nome": "🧖🏾‍♂️Homem na sauna: pele morena escura",
+    "href": "/pt/man-in-steamy-room-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧖🏿‍♂️Homem na sauna: pele escura",
+    "href": "/pt/man-in-steamy-room-dark-skin-tone/"
+  },
+  {
+    "nome": "🧖‍♀️Mulher na sauna",
+    "href": "/pt/woman-in-steamy-room/"
+  },
+  {
+    "nome": "🧖🏻‍♀️Mulher na sauna: pele clara",
+    "href": "/pt/woman-in-steamy-room-light-skin-tone/"
+  },
+  {
+    "nome": "🧖🏼‍♀️Mulher na sauna: pele morena clara",
+    "href": "/pt/woman-in-steamy-room-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧖🏽‍♀️Mulher na sauna: pele morena",
+    "href": "/pt/woman-in-steamy-room-medium-skin-tone/"
+  },
+  {
+    "nome": "🧖🏾‍♀️Mulher na sauna: pele morena escura",
+    "href": "/pt/woman-in-steamy-room-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧖🏿‍♀️Mulher na sauna: pele escura",
+    "href": "/pt/woman-in-steamy-room-dark-skin-tone/"
+  },
+  {
+    "nome": "🧗Pessoa escalando",
+    "href": "/pt/person-climbing/"
+  },
+  {
+    "nome": "🧗🏻Pessoa escalando: pele clara",
+    "href": "/pt/person-climbing-light-skin-tone/"
+  },
+  {
+    "nome": "🧗🏼Pessoa escalando: pele morena clara",
+    "href": "/pt/person-climbing-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧗🏽Pessoa escalando: pele morena",
+    "href": "/pt/person-climbing-medium-skin-tone/"
+  },
+  {
+    "nome": "🧗🏾Pessoa escalando: pele morena escura",
+    "href": "/pt/person-climbing-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧗🏿Pessoa escalando: pele escura",
+    "href": "/pt/person-climbing-dark-skin-tone/"
+  },
+  {
+    "nome": "🧗‍♂️Homem escalando",
+    "href": "/pt/man-climbing/"
+  },
+  {
+    "nome": "🧗🏻‍♂️Homem escalando: pele clara",
+    "href": "/pt/man-climbing-light-skin-tone/"
+  },
+  {
+    "nome": "🧗🏼‍♂️Homem escalando: pele morena clara",
+    "href": "/pt/man-climbing-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧗🏽‍♂️Homem escalando: pele morena",
+    "href": "/pt/man-climbing-medium-skin-tone/"
+  },
+  {
+    "nome": "🧗🏾‍♂️Homem escalando: pele morena escura",
+    "href": "/pt/man-climbing-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧗🏿‍♂️Homem escalando: pele escura",
+    "href": "/pt/man-climbing-dark-skin-tone/"
+  },
+  {
+    "nome": "🧗‍♀️Mulher escalando",
+    "href": "/pt/woman-climbing/"
+  },
+  {
+    "nome": "🧗🏻‍♀️Mulher escalando: pele clara",
+    "href": "/pt/woman-climbing-light-skin-tone/"
+  },
+  {
+    "nome": "🧗🏼‍♀️Mulher escalando: pele morena clara",
+    "href": "/pt/woman-climbing-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧗🏽‍♀️Mulher escalando: pele morena",
+    "href": "/pt/woman-climbing-medium-skin-tone/"
+  },
+  {
+    "nome": "🧗🏾‍♀️Mulher escalando: pele morena escura",
+    "href": "/pt/woman-climbing-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧗🏿‍♀️Mulher escalando: pele escura",
+    "href": "/pt/woman-climbing-dark-skin-tone/"
+  },
+  {
+    "nome": "🧘Pessoa na posição de lótus",
+    "href": "/pt/person-in-lotus-position/"
+  },
+  {
+    "nome": "🧘🏻Pessoa na posição de lótus: pele clara",
+    "href": "/pt/person-in-lotus-position-light-skin-tone/"
+  },
+  {
+    "nome": "🧘🏼Pessoa na posição de lótus: pele morena clara",
+    "href": "/pt/person-in-lotus-position-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧘🏽Pessoa na posição de lótus: pele morena",
+    "href": "/pt/person-in-lotus-position-medium-skin-tone/"
+  },
+  {
+    "nome": "🧘🏾Pessoa na posição de lótus: pele morena escura",
+    "href": "/pt/person-in-lotus-position-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧘🏿Pessoa na posição de lótus: pele escura",
+    "href": "/pt/person-in-lotus-position-dark-skin-tone/"
+  },
+  {
+    "nome": "🧘‍♂️Homem na posição de lótus",
+    "href": "/pt/man-in-lotus-position/"
+  },
+  {
+    "nome": "🧘🏻‍♂️Homem na posição de lótus: pele clara",
+    "href": "/pt/man-in-lotus-position-light-skin-tone/"
+  },
+  {
+    "nome": "🧘🏼‍♂️Homem na posição de lótus: pele morena clara",
+    "href": "/pt/man-in-lotus-position-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧘🏽‍♂️Homem na posição de lótus: pele morena",
+    "href": "/pt/man-in-lotus-position-medium-skin-tone/"
+  },
+  {
+    "nome": "🧘🏾‍♂️Homem na posição de lótus: pele morena escura",
+    "href": "/pt/man-in-lotus-position-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧘🏿‍♂️Homem na posição de lótus: pele escura",
+    "href": "/pt/man-in-lotus-position-dark-skin-tone/"
+  },
+  {
+    "nome": "🧘‍♀️Mulher na posição de lótus",
+    "href": "/pt/woman-in-lotus-position/"
+  },
+  {
+    "nome": "🧘🏻‍♀️Mulher na posição de lótus: pele clara",
+    "href": "/pt/woman-in-lotus-position-light-skin-tone/"
+  },
+  {
+    "nome": "🧘🏼‍♀️Mulher na posição de lótus: pele morena clara",
+    "href": "/pt/woman-in-lotus-position-medium-light-skin-tone/"
+  },
+  {
+    "nome": "🧘🏽‍♀️Mulher na posição de lótus: pele morena",
+    "href": "/pt/woman-in-lotus-position-medium-skin-tone/"
+  },
+  {
+    "nome": "🧘🏾‍♀️Mulher na posição de lótus: pele morena escura",
+    "href": "/pt/woman-in-lotus-position-medium-dark-skin-tone/"
+  },
+  {
+    "nome": "🧘🏿‍♀️Mulher na posição de lótus: pele escura",
+    "href": "/pt/woman-in-lotus-position-dark-skin-tone/"
+  },
+  {
+    "nome": "🦓Zebra",
+    "href": "/pt/zebra/"
+  },
+  {
+    "nome": "🦒Girafa",
+    "href": "/pt/giraffe/"
+  },
+  {
+    "nome": "🦔Porco-espinho",
+    "href": "/pt/hedgehog/"
+  },
+  {
+    "nome": "🦕Saurópode",
+    "href": "/pt/sauropod/"
+  },
+  {
+    "nome": "🦖Tiranossauro rex",
+    "href": "/pt/t-rex/"
+  },
+  {
+    "nome": "🦗Grilo",
+    "href": "/pt/cricket/"
+  },
+  {
+    "nome": "🥥Coco",
+    "href": "/pt/coconut/"
+  },
+  {
+    "nome": "🥦Brócolis",
+    "href": "/pt/broccoli/"
+  },
+  {
+    "nome": "🥨Pretzel",
+    "href": "/pt/pretzel/"
+  },
+  {
+    "nome": "🥩Corte de carne",
+    "href": "/pt/cut-of-meat/"
+  },
+  {
+    "nome": "🥪Sanduíche",
+    "href": "/pt/sandwich/"
+  },
+  {
+    "nome": "🥣Tigela com colher",
+    "href": "/pt/bowl-with-spoon/"
+  },
+  {
+    "nome": "🥫Comida enlatada",
+    "href": "/pt/canned-food/"
+  },
+  {
+    "nome": "🥟Bolinho asiático",
+    "href": "/pt/dumpling/"
+  },
+  {
+    "nome": "🥠Biscoito da sorte",
+    "href": "/pt/fortune-cookie/"
+  },
+  {
+    "nome": "🥡Caixa para viagem",
+    "href": "/pt/takeout-box/"
+  },
+  {
+    "nome": "🥧Torta",
+    "href": "/pt/pie/"
+  },
+  {
+    "nome": "🥤Copo com canudo",
+    "href": "/pt/cup-with-straw/"
+  },
+  {
+    "nome": "🥢Hashi",
+    "href": "/pt/chopsticks/"
+  },
+  {
+    "nome": "🛸Disco voador",
+    "href": "/pt/flying-saucer/"
+  },
+  {
+    "nome": "🛷Trenó",
+    "href": "/pt/sled/"
+  },
+  {
+    "nome": "🥌Pedra de curling",
+    "href": "/pt/curling-stone/"
+  },
+  {
+    "nome": "🧣Cachecol",
+    "href": "/pt/scarf/"
+  },
+  {
+    "nome": "🧤Luvas",
+    "href": "/pt/gloves/"
+  },
+  {
+    "nome": "🧥Casaco",
+    "href": "/pt/coat/"
+  },
+  {
+    "nome": "🧦Meias",
+    "href": "/pt/socks/"
+  },
+  {
+    "nome": "🧢Boné",
+    "href": "/pt/billed-cap/"
+  },
+  {
+    "nome": "🏴󠁧󠁢󠁥󠁮󠁧󠁿Bandeira: Inglaterra",
+    "href": "/pt/flag-england/"
+  },
+  {
+    "nome": "🏴󠁧󠁢󠁳󠁣󠁴󠁿Bandeira: Escócia",
+    "href": "/pt/flag-scotland/"
+  },
+  {
+    "nome": "🏴󠁧󠁢󠁷󠁬󠁳󠁿Bandeira: País de Gales",
+    "href": "/pt/flag-wales/"
+  },
+  {
+    "nome": "⌨️ Teclado Emoji",
+    "href": "/pt/copy-keyboard/"
+  },
+  {
+    "nome": "🕹️ Jogo da Concentração",
+    "href": "/pt/concentration-game/"
+  },
+  {
+    "nome": "😂Rosto chorando de rir",
+    "href": "/pt/face-with-tears-of-joy/"
+  },
+  {
+    "nome": "🥰Rosto sorridente com 3 corações",
+    "href": "/pt/smiling-face-with-hearts/"
+  },
+  {
+    "nome": "🥲Rosto sorridente com lágrima",
+    "href": "/pt/smiling-face-with-tear/"
+  },
+  {
+    "nome": "🥺Rosto implorando",
+    "href": "/pt/pleading-face/"
+  },
+  {
+    "nome": "❤️‍🔥Coração em chamas",
+    "href": "/pt/heart-on-fire/"
+  },
+  {
+    "nome": "❤️Coração vermelho",
+    "href": "/pt/red-heart/"
+  },
+  {
+    "nome": "👍Polegar para cima",
+    "href": "/pt/thumbs-up/"
+  },
+  {
+    "nome": "🔥Fogo",
+    "href": "/pt/fire/"
+  },
+  {
+    "nome": "🇺🇦Bandeira: Ucrânia",
+    "href": "/pt/flag-ukraine/"
+  },
+  {
+    "nome": "🎉 Tema",
+    "href": "/pt/theme/"
+  },
+  {
+    "nome": "❤️️Ame",
+    "href": "/pt/theme/love/"
+  },
+  {
+    "nome": "😄Amigos",
+    "href": "/pt/theme/friends-sitcom/"
+  },
+  {
+    "nome": "🎂Aniversário",
+    "href": "/pt/theme/birthday/"
+  },
+  {
+    "nome": "👑Aniversário Da Rainha",
+    "href": "/pt/theme/queens-birthday/"
+  },
+  {
+    "nome": "🦃Ação De Graças",
+    "href": "/pt/theme/thanksgiving/"
+  },
+  {
+    "nome": "🦁Biologia",
+    "href": "/pt/theme/biology/"
+  },
+  {
+    "nome": "✊🏿Black Lives Matter",
+    "href": "/pt/theme/black-lives-matter/"
+  },
+  {
+    "nome": "☢️Cair",
+    "href": "/pt/theme/fallout/"
+  },
+  {
+    "nome": "🇧🇷Carnaval",
+    "href": "/pt/theme/carnaval/"
+  },
+  {
+    "nome": "🚗Carros",
+    "href": "/pt/theme/cars-movie/"
+  },
+  {
+    "nome": "👰Casamento / Casamento",
+    "href": "/pt/theme/wedding-marriage/"
+  },
+  {
+    "nome": "🎰Cassino",
+    "href": "/pt/theme/casino/"
+  },
+  {
+    "nome": "🌧Clima",
+    "href": "/pt/theme/weather/"
+  },
+  {
+    "nome": "⚽Copa Do Mundo",
+    "href": "/pt/theme/world-cup/"
+  },
+  {
+    "nome": "💕Corações",
+    "href": "/pt/theme/hearts/"
+  },
+  {
+    "nome": "🦠Coronavírus",
+    "href": "/pt/theme/coronavirus/"
+  },
+  {
+    "nome": "🏎Corridas",
+    "href": "/pt/theme/racing/"
+  },
+  {
+    "nome": "👱Dia Internacional Do Homem",
+    "href": "/pt/theme/international-mens-day/"
+  },
+  {
+    "nome": "📩Dia Internacional Sem Internet",
+    "href": "/pt/theme/international-internet-free-day/"
+  },
+  {
+    "nome": "🥤Dia Mundial Da Sobriedade E Controle Do Álcool",
+    "href": "/pt/theme/world-day-of-sobriety-and-alcohol-control/"
+  },
+  {
+    "nome": "🌎Dia Mundial Do Emoji",
+    "href": "/pt/theme/world-emoji-day/"
+  },
+  {
+    "nome": "🇦🇺Dia Da Austrália",
+    "href": "/pt/theme/australia-day/"
+  },
+  {
+    "nome": "🇺🇸Dia Da Independência",
+    "href": "/pt/theme/independence-day/"
+  },
+  {
+    "nome": "🙆‍♂️Dia Da Mentira",
+    "href": "/pt/theme/april-fools-day/"
+  },
+  {
+    "nome": "🗺️Dia Da Terra",
+    "href": "/pt/theme/earth-day/"
+  },
+  {
+    "nome": "🚴Dia Da Bicicleta",
+    "href": "/pt/theme/bicycle-day/"
+  },
+  {
+    "nome": "🤱Dia Das Mães",
+    "href": "/pt/theme/mothers-day/"
+  },
+  {
+    "nome": "⛵️Dia De Colombo",
+    "href": "/pt/theme/columbus-day/"
+  },
+  {
+    "nome": "☘️Dia De São Patricio",
+    "href": "/pt/theme/st-patricks-day/"
+  },
+  {
+    "nome": "🚬Dia De Não Fumadores",
+    "href": "/pt/theme/no-smoking-day/"
+  },
+  {
+    "nome": "🇨🇦Dia Do Canadá",
+    "href": "/pt/theme/canada-day/"
+  },
+  {
+    "nome": "⚒️Dia Do Trabalho",
+    "href": "/pt/theme/labour-day/"
+  },
+  {
+    "nome": "👨Dia Dos Pais",
+    "href": "/pt/theme/fathers-day/"
+  },
+  {
+    "nome": "💘Dia Dos Namorados",
+    "href": "/pt/theme/valentines-day/"
+  },
+  {
+    "nome": "👩Dia Internacional Da Mulher",
+    "href": "/pt/theme/international-womens-day/"
+  },
+  {
+    "nome": "🕯Diwali",
+    "href": "/pt/theme/diwali/"
+  },
+  {
+    "nome": "🎥Emoji Movie",
+    "href": "/pt/theme/emoji-movie/"
+  },
+  {
+    "nome": "👽Espaço",
+    "href": "/pt/theme/space/"
+  },
+  {
+    "nome": "🤓Faculdade",
+    "href": "/pt/theme/college/"
+  },
+  {
+    "nome": "🎉Festa",
+    "href": "/pt/theme/party/"
+  },
+  {
+    "nome": "🇨🇳Festival Do Barco-Dragão",
+    "href": "/pt/theme/dragon-boat-festival/"
+  },
+  {
+    "nome": "💪Festivus",
+    "href": "/pt/theme/festivus/"
+  },
+  {
+    "nome": "🎬Filme",
+    "href": "/pt/theme/movie/"
+  },
+  {
+    "nome": "📙Filosofia",
+    "href": "/pt/theme/philosophy/"
+  },
+  {
+    "nome": "🌠Física",
+    "href": "/pt/theme/physics/"
+  },
+  {
+    "nome": "🏃Gta",
+    "href": "/pt/theme/gta/"
+  },
+  {
+    "nome": "🌈Gay",
+    "href": "/pt/theme/gay/"
+  },
+  {
+    "nome": "🗺Geografia",
+    "href": "/pt/theme/geography/"
+  },
+  {
+    "nome": "🎓Graduação",
+    "href": "/pt/theme/graduation/"
+  },
+  {
+    "nome": "🌌Guerra Das Estrelas",
+    "href": "/pt/theme/star-wars/"
+  },
+  {
+    "nome": "❄️Guerra Dos Tronos",
+    "href": "/pt/theme/game-of-thrones/"
+  },
+  {
+    "nome": "🔥Guy Fawkes",
+    "href": "/pt/theme/guy-fawkes/"
+  },
+  {
+    "nome": "🕎Hanukkah",
+    "href": "/pt/theme/hanukkah/"
+  },
+  {
+    "nome": "🧙Harry Potter",
+    "href": "/pt/theme/harry-potter/"
+  },
+  {
+    "nome": "📖História",
+    "href": "/pt/theme/history/"
+  },
+  {
+    "nome": "🕉Holi",
+    "href": "/pt/theme/holi/"
+  },
+  {
+    "nome": "⛄Inverno",
+    "href": "/pt/theme/winter/"
+  },
+  {
+    "nome": "🤵James Bond",
+    "href": "/pt/theme/james-bond/"
+  },
+  {
+    "nome": "🏊Jogos Olímpicos",
+    "href": "/pt/theme/olympics/"
+  },
+  {
+    "nome": "🖖Jornada Nas Estrelas",
+    "href": "/pt/theme/star-trek/"
+  },
+  {
+    "nome": "📜Lei",
+    "href": "/pt/theme/law/"
+  },
+  {
+    "nome": "➗Matemática",
+    "href": "/pt/theme/math/"
+  },
+  {
+    "nome": "🕴️Matriz",
+    "href": "/pt/theme/matrix/"
+  },
+  {
+    "nome": "🧘Meditação",
+    "href": "/pt/theme/meditation/"
+  },
+  {
+    "nome": "🧱Minecraft",
+    "href": "/pt/theme/minecraft/"
+  },
+  {
+    "nome": "💪Motivação",
+    "href": "/pt/theme/motivation/"
+  },
+  {
+    "nome": "🎅Natal",
+    "href": "/pt/theme/christmas/"
+  },
+  {
+    "nome": "🎿Olimpíadas De Inverno",
+    "href": "/pt/theme/winter-olympics/"
+  },
+  {
+    "nome": "🏳️‍🌈Orgulho / Lgbtq+",
+    "href": "/pt/theme/pride/"
+  },
+  {
+    "nome": "🍂Outono",
+    "href": "/pt/theme/fall-autumn/"
+  },
+  {
+    "nome": "🌱Primavera",
+    "href": "/pt/theme/spring/"
+  },
+  {
+    "nome": "🐰Páscoa",
+    "href": "/pt/theme/easter/"
+  },
+  {
+    "nome": "🌿Quatro Vinte / 420",
+    "href": "/pt/theme/420/"
+  },
+  {
+    "nome": "☪️Ramadã",
+    "href": "/pt/theme/ramadan/"
+  },
+  {
+    "nome": "⛪️Religião",
+    "href": "/pt/theme/religion/"
+  },
+  {
+    "nome": "💊Saúde",
+    "href": "/pt/theme/health/"
+  },
+  {
+    "nome": "💏Sexo",
+    "href": "/pt/theme/sex/"
+  },
+  {
+    "nome": "🛍Sexta-Feira Preta",
+    "href": "/pt/theme/black-friday/"
+  },
+  {
+    "nome": "🕵️Sherlock",
+    "href": "/pt/theme/sherlock/"
+  },
+  {
+    "nome": "🏈Super Bowl",
+    "href": "/pt/theme/super-bowl/"
+  },
+  {
+    "nome": "🏡Trabalhar Em Casa",
+    "href": "/pt/theme/working-from-home/"
+  },
+  {
+    "nome": "☀️Verão",
+    "href": "/pt/theme/summer/"
+  },
+  {
+    "nome": "🎊Véspera De Ano Novo",
+    "href": "/pt/theme/new-years-eve/"
+  },
+  {
+    "nome": "🐉Ano Novo Chinês",
+    "href": "/pt/theme/chinese-new-year/"
+  },
+  {
+    "nome": "🇲🇽Cinco De Maio",
+    "href": "/pt/theme/cinco-de-mayo/"
+  },
+  {
+    "nome": "🇫🇷Dia Da Bastilha",
+    "href": "/pt/theme/bastille-day/"
+  },
+  {
+    "nome": "🎃Dia Das Bruxas",
+    "href": "/pt/theme/halloween/"
+  },
+  {
+    "nome": "💦Água",
+    "href": "/pt/theme/water/"
+  },
+  {
+    "nome": "Apple",
+    "href": "/pt/apple/"
+  },
+  {
+    "nome": "Google",
+    "href": "/pt/google/"
+  },
+  {
+    "nome": "Facebook",
+    "href": "/pt/facebook/"
+  },
+  {
+    "nome": "Twitter",
+    "href": "/pt/twitter/"
+  },
+  {
+    "nome": "Samsung",
+    "href": "/pt/samsung/"
+  },
+  {
+    "nome": "Microsoft",
+    "href": "/pt/microsoft/"
+  },
+  {
+    "nome": "Whatsapp",
+    "href": "/pt/whatsapp/"
+  },
+  {
+    "nome": "Messenger",
+    "href": "/pt/messenger/"
+  },
+  {
+    "nome": "Joypixels",
+    "href": "/pt/joypixels/"
+  },
+  {
+    "nome": "Openmoji",
+    "href": "/pt/openmoji/"
+  },
+  {
+    "nome": "Emojidex",
+    "href": "/pt/emojidex/"
+  },
+  {
+    "nome": "Htc",
+    "href": "/pt/htc/"
+  },
+  {
+    "nome": "Lg",
+    "href": "/pt/lg/"
+  },
+  {
+    "nome": "Mozilla",
+    "href": "/pt/mozilla/"
+  },
+  {
+    "nome": "Softbank",
+    "href": "/pt/softbank/"
+  },
+  {
+    "nome": "Au-Kddi",
+    "href": "/pt/au-kddi/"
+  },
+  {
+    "nome": "Docomo",
+    "href": "/pt/docomo/"
+  },
+  {
+    "nome": "Emojigraph",
+    "href": "/pt/emojigraph/"
+  },
+  {
+    "nome": "Emojipedia",
+    "href": "/pt/emojipedia/"
+  },
+  {
+    "nome": "Emoji 1.0",
+    "href": "/pt/emoji-1.0/"
+  },
+  {
+    "nome": "Emoji 2.0",
+    "href": "/pt/emoji-2.0/"
+  },
+  {
+    "nome": "Emoji 3.0",
+    "href": "/pt/emoji-3.0/"
+  },
+  {
+    "nome": "Emoji 4.0",
+    "href": "/pt/emoji-4.0/"
+  },
+  {
+    "nome": "Emoji 5.0",
+    "href": "/pt/emoji-5.0/"
+  },
+  {
+    "nome": "Emoji 11.0",
+    "href": "/pt/emoji-11.0/"
+  },
+  {
+    "nome": "Emoji 12.0",
+    "href": "/pt/emoji-12.0/"
+  },
+  {
+    "nome": "Emoji 12.1",
+    "href": "/pt/emoji-12.1/"
+  },
+  {
+    "nome": "Emoji 13.0",
+    "href": "/pt/emoji-13.0/"
+  },
+  {
+    "nome": "Emoji 13.1",
+    "href": "/pt/emoji-13.1/"
+  },
+  {
+    "nome": "Emoji 14.0",
+    "href": "/pt/emoji-14.0/"
+  },
+  {
+    "nome": "Emoji 15.0",
+    "href": "/pt/emoji-15.0/"
+  },
+  {
+    "nome": "Emoji 15.1",
+    "href": "/pt/emoji-15.1/"
+  },
+  {
+    "nome": "Emoji 16.0",
+    "href": "/pt/emoji-16.0/"
+  },
+  {
+    "nome": "Política de Privacidade",
+    "href": "/pt/privacy-policy/"
+  }
+]

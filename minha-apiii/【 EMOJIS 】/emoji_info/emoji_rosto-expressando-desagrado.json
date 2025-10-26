@@ -1,0 +1,86 @@
+{
+  "emoji": "😬",
+  "nome": "😬 Rosto expressando desagrado",
+  "categoria": "Grimacing Face",
+  "url": "https://emojigraph.org/pt/grimacing-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela, com simples olhos abertos, mostrando os dentes trincados. Pode representar uma gama de emoções negativas ou tensa, especialmente o nervosismo, vergonha ou constrangimento (por exemplo, Eek!).",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/grimacing-face_1f62c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/grimacing-face_1f62c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "fazendo careta",
+      "rosto",
+      "careta",
+      "sem graça"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F62C;",
+      "HTML dec": "&#128556;",
+      "URL escape code": "%F0%9F%98%AC",
+      "Punycode": "xn--n38h",
+      "Bytes (UTF-8)": "F0 9F 98 AC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE2C",
+      "C, C++, Python": "\\U0001f62c",
+      "CSS": "\\01F62C",
+      "PHP, Ruby": "\\u{1F62C}",
+      "Perl": "\\x{1F62C}"
+    }
+  }
+}

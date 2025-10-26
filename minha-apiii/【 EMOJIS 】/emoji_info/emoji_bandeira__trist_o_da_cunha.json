@@ -1,0 +1,59 @@
+{
+  "emoji": "🇹🇦",
+  "nome": "🇹🇦 Bandeira: Tristão da Cunha",
+  "categoria": "flag tristan da cunha",
+  "url": "https://emojigraph.org/pt/flag-tristan-da-cunha/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional de Tristão Da Cunha. Este símbolo é uma seqüência de caracteres 🇹 Símbolo Indicador Regional Letra T e 🇦 Símbolo Indicador Regional Letra A. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras TA em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-tristan-da-cunha_1f1f9-1f1e6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-tristan-da-cunha_1f1f9-1f1e6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-tristan-da-cunha_1f1f9-1f1e6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-tristan-da-cunha_1f1f9-1f1e6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-tristan-da-cunha_1f1f9-1f1e6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-tristan-da-cunha_1f1f9-1f1e6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-tristan-da-cunha_1f1f9-1f1e6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-tristan-da-cunha_1f1f9-1f1e6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F9;&#x1F1E6;",
+      "HTML dec": "&#127481;&#127462;",
+      "URL escape code": "%F0%9F%87%B9%F0%9F%87%A6",
+      "Punycode": "xn--e77hfb",
+      "Bytes (UTF-8)": "F0 9F 87 B9 F0 9F 87 A6",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF9\\uD83C\\uDDE6",
+      "C, C++, Python": "\\U0001f1f9\\U0001f1e6",
+      "CSS": "\\01F1F9 \\01F1E6",
+      "PHP, Ruby": "\\u{1F1F9}\\u{1F1E6}",
+      "Perl": "\\x{1F1F9}\\x{1F1E6}"
+    }
+  }
+}

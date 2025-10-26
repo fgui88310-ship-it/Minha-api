@@ -1,0 +1,69 @@
+{
+  "emoji": "👱",
+  "nome": "👱‍♀️ Mulher: cabelo loiro",
+  "categoria": "woman blond hair",
+  "url": "https://emojigraph.org/pt/woman-blond-hair/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 👱 Pessoa Com Cabelo Loiro emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-blond-hair_1f471-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-blond-hair_1f471-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-blond-hair_1f471-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-blond-hair_1f471-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-blond-hair_1f471-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-blond-hair_1f471-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-blond-hair_1f471-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-blond-hair_1f471-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-blond-hair_1f471-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-blond-hair_1f471-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "loira",
+      "loura",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F471;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128113;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%91%B1%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h1510o",
+      "Bytes (UTF-8)": "F0 9F 91 B1 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC71\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f471\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F471 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F471}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F471}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

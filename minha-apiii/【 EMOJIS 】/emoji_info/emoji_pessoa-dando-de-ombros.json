@@ -1,0 +1,76 @@
+{
+  "emoji": "🤷",
+  "nome": "🤷 Pessoa dando de ombros",
+  "categoria": "Person Shrugging",
+  "url": "https://emojigraph.org/pt/person-shrugging/",
+  "detalhes": {
+    "explicacao": "Uma pessoa encolhendo os ombros para indicar uma falta de conhecimento sobre um determinado tópico, ou uma falta de cuidado sobre o resultado de uma situação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-shrugging_1f937.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-shrugging_1f937.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-shrugging_1f937.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-shrugging_1f937.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-shrugging_1f937.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-shrugging_1f937.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-shrugging_1f937.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-shrugging_1f937.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-shrugging_1f937.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-shrugging_1f937.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "dar de ombros",
+      "ignorância",
+      "indiferença",
+      "ombros",
+      "dúvida",
+      "não sei",
+      "pessoa",
+      "quem sabe",
+      "sei lá",
+      "tanto faz"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F937;",
+      "HTML dec": "&#129335;",
+      "URL escape code": "%F0%9F%A4%B7",
+      "Punycode": "xn--wq9h",
+      "Bytes (UTF-8)": "F0 9F A4 B7",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD37",
+      "C, C++, Python": "\\U0001f937",
+      "CSS": "\\01F937",
+      "PHP, Ruby": "\\u{1F937}",
+      "Perl": "\\x{1F937}"
+    }
+  }
+}

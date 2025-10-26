@@ -1,0 +1,71 @@
+{
+  "emoji": "🥈",
+  "nome": "🥈 Medalha de prata",
+  "categoria": "2nd Place Medal",
+  "url": "https://emojigraph.org/pt/2nd-place-medal/",
+  "detalhes": {
+    "explicacao": "2º Lugar Medalha foi aprovado como parte do Unicode 9.0 em 2016sob o nome de \"o Segundo Lugar Medalha\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/2nd-place-medal_1f948.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/2nd-place-medal_1f948.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/2nd-place-medal_1f948.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/2nd-place-medal_1f948.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/2nd-place-medal_1f948.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/2nd-place-medal_1f948.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/2nd-place-medal_1f948.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/2nd-place-medal_1f948.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/2nd-place-medal_1f948.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/2nd-place-medal_1f948.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "2º. lugar",
+      "medalha",
+      "prata",
+      "segundo",
+      "2o. lugar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F948;",
+      "HTML dec": "&#129352;",
+      "URL escape code": "%F0%9F%A5%88",
+      "Punycode": "xn--er9h",
+      "Bytes (UTF-8)": "F0 9F A5 88",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD48",
+      "C, C++, Python": "\\U0001f948",
+      "CSS": "\\01F948",
+      "PHP, Ruby": "\\u{1F948}",
+      "Perl": "\\x{1F948}"
+    }
+  }
+}

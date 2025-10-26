@@ -1,0 +1,64 @@
+{
+  "emoji": "🪥",
+  "nome": "🪥 Escova de dentes",
+  "categoria": "Toothbrush",
+  "url": "https://emojigraph.org/pt/toothbrush/",
+  "detalhes": {
+    "explicacao": "Escova de dente foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/toothbrush_1faa5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/toothbrush_1faa5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/toothbrush_1faa5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/toothbrush_1faa5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/toothbrush_1faa5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/toothbrush_1faa5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/toothbrush_1faa5.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/toothbrush_1faa5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "banheiro",
+      "dental",
+      "dentes",
+      "escova",
+      "higiene",
+      "limpeza"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAA5;",
+      "HTML dec": "&#129701;",
+      "URL escape code": "%F0%9F%AA%A5",
+      "Punycode": "xn--d19h",
+      "Bytes (UTF-8)": "F0 9F AA A5",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEA5",
+      "C, C++, Python": "\\U0001faa5",
+      "CSS": "\\01FAA5",
+      "PHP, Ruby": "\\u{1FAA5}",
+      "Perl": "\\x{1FAA5}"
+    }
+  }
+}

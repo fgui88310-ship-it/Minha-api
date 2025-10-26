@@ -1,0 +1,72 @@
+{
+  "emoji": "🦀",
+  "nome": "🦀 Caranguejo",
+  "categoria": "Crab",
+  "url": "https://emojigraph.org/pt/crab/",
+  "detalhes": {
+    "explicacao": "Um caranguejo, crustáceo com garras. Descrito como um caranguejo laranja-avermelhado (como cozido) mostrado acima, corpo sem casca corpo, tentáculo como os olhos, e dez pernas, os dois primeiros dos quais são grandes garras.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crab_1f980.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crab_1f980.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crab_1f980.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crab_1f980.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crab_1f980.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crab_1f980.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crab_1f980.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crab_1f980.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crab_1f980.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/crab_1f980.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "Câncer",
+      "caranguejo",
+      "zodíaco",
+      "animal marinho",
+      "signo de câncer"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F980;",
+      "HTML dec": "&#129408;",
+      "URL escape code": "%F0%9F%A6%80",
+      "Punycode": "xn--zs9h",
+      "Bytes (UTF-8)": "F0 9F A6 80",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD80",
+      "C, C++, Python": "\\U0001f980",
+      "CSS": "\\01F980",
+      "PHP, Ruby": "\\u{1F980}",
+      "Perl": "\\x{1F980}"
+    }
+  }
+}

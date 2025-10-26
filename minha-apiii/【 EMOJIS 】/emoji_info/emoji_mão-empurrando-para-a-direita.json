@@ -1,0 +1,77 @@
+{
+  "emoji": "🫸",
+  "nome": "🫸 Mão empurrando para a direita",
+  "categoria": "Rightwards Pushing Hand",
+  "url": "https://emojigraph.org/pt/rightwards-pushing-hand/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/rightwards-pushing-hand_1faf8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/rightwards-pushing-hand_1faf8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/rightwards-pushing-hand_1faf8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/rightwards-pushing-hand_1faf8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/rightwards-pushing-hand_1faf8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/rightwards-pushing-hand_1faf8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/rightwards-pushing-hand_1faf8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/rightwards-pushing-hand_1faf8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/rightwards-pushing-hand_1faf8.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/rightwards-pushing-hand_1faf8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "direita",
+      "empurrar",
+      "esperar",
+      "parar",
+      "recusar",
+      "toca aqui",
+      "bate aqui",
+      "bloquear",
+      "high five",
+      "mão",
+      "para a direita",
+      "pausar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAF8;",
+      "HTML dec": "&#129784;",
+      "URL escape code": "%F0%9F%AB%B8",
+      "Bytes (UTF-8)": "f0 9f ab b8",
+      "JavaScript, JSON, Java": "\\ud83e\\udef8",
+      "C, C++, Python": "\\U0001faf8",
+      "CSS": "\\01FAF8",
+      "PHP, Ruby": "\\u{1FAF8}",
+      "Perl": "\\x{1FAF8}"
+    }
+  }
+}

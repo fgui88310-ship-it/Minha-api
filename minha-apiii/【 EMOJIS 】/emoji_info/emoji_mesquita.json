@@ -1,0 +1,70 @@
+{
+  "emoji": "🕌",
+  "nome": "🕌 Mesquita",
+  "categoria": "Mosque",
+  "url": "https://emojigraph.org/pt/mosque/",
+  "detalhes": {
+    "explicacao": "Uma mesquita em construção, um lugar de culto para followes do Islã. Mostrado com um tecto abobadado e de um minarete.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mosque_1f54c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mosque_1f54c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mosque_1f54c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mosque_1f54c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mosque_1f54c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mosque_1f54c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mosque_1f54c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mosque_1f54c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mosque_1f54c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mosque_1f54c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "islã",
+      "mesquita",
+      "muçulmano",
+      "religião"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F54C;",
+      "HTML dec": "&#128332;",
+      "URL escape code": "%F0%9F%95%8C",
+      "Punycode": "xn--8w8h",
+      "Bytes (UTF-8)": "F0 9F 95 8C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD4C",
+      "C, C++, Python": "\\U0001f54c",
+      "CSS": "\\01F54C",
+      "PHP, Ruby": "\\u{1F54C}",
+      "Perl": "\\x{1F54C}"
+    }
+  }
+}

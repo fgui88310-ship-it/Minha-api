@@ -1,0 +1,97 @@
+{
+  "emoji": "🍝",
+  "nome": "🍝 Espaguete",
+  "categoria": "Spaghetti",
+  "url": "https://emojigraph.org/pt/spaghetti/",
+  "detalhes": {
+    "explicacao": "Um prato de italiano spaghetti com molho de tomate, como bolonhesa, com um garfo garfo seu tempo, macarrão fino. Guarnecido com uma erva verde, como a salsa, em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/spaghetti_1f35d.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/spaghetti_1f35d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "espaguete",
+      "macarrão",
+      "macarronada",
+      "comida",
+      "fome",
+      "italiano",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F35D;",
+      "HTML dec": "&#127837;",
+      "URL escape code": "%F0%9F%8D%9D",
+      "Punycode": "xn--3i8h",
+      "Bytes (UTF-8)": "F0 9F 8D 9D",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF5D",
+      "C, C++, Python": "\\U0001f35d",
+      "CSS": "\\01F35D",
+      "PHP, Ruby": "\\u{1F35D}",
+      "Perl": "\\x{1F35D}"
+    }
+  }
+}

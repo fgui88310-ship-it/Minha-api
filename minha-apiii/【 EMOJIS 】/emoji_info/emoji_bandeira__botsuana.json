@@ -1,0 +1,59 @@
+{
+  "emoji": "🇧🇼",
+  "nome": "🇧🇼 Bandeira: Botsuana",
+  "categoria": "flag botswana",
+  "url": "https://emojigraph.org/pt/flag-botswana/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional do Botswana. Este símbolo é uma seqüência de caracteres 🇧 Símbolo Indicador Regional Letra B e 🇼 Símbolo Indicador Regional Letra W. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras BW em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-botswana_1f1e7-1f1fc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-botswana_1f1e7-1f1fc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-botswana_1f1e7-1f1fc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-botswana_1f1e7-1f1fc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-botswana_1f1e7-1f1fc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-botswana_1f1e7-1f1fc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-botswana_1f1e7-1f1fc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-botswana_1f1e7-1f1fc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1FC;",
+      "HTML dec": "&#127463;&#127484;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%BC",
+      "Punycode": "xn--f77hkb",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 BC",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDFC",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1fc",
+      "CSS": "\\01F1E7 \\01F1FC",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1FC}",
+      "Perl": "\\x{1F1E7}\\x{1F1FC}"
+    }
+  }
+}

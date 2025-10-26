@@ -1,0 +1,101 @@
+{
+  "emoji": "🏄",
+  "nome": "🏄 Surfista",
+  "categoria": "Person Surfing",
+  "url": "https://emojigraph.org/pt/person-surfing/",
+  "detalhes": {
+    "explicacao": "Uma pessoa em uma prancha, cavalgando uma onda no oceano. Veste uma roupa de mergulho ou de board shorts na maioria das versões.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/person-surfing_1f3c4.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/person-surfing_1f3c4.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pessoa surfando",
+      "surfe",
+      "surfista",
+      "esporte",
+      "ondas",
+      "pegar onda",
+      "pessoa",
+      "praia",
+      "prancha",
+      "surf",
+      "surfar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3C4;",
+      "HTML dec": "&#127940;",
+      "URL escape code": "%F0%9F%8F%84",
+      "Punycode": "xn--1l8h",
+      "Bytes (UTF-8)": "F0 9F 8F 84",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFC4",
+      "C, C++, Python": "\\U0001f3c4",
+      "CSS": "\\01F3C4",
+      "PHP, Ruby": "\\u{1F3C4}",
+      "Perl": "\\x{1F3C4}"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍❤️‍💋‍👨 Beijo: homem e homem",
+  "categoria": "kiss man man",
+  "url": "https://emojigraph.org/pt/kiss-man-man/",
+  "detalhes": {
+    "explicacao": "Dois homens exibido beijar, ou gesticulando um beijo de uns para com os outros. Em tamanhos pequenos isto pode ser difícil distinguir as duas mulheres se beijando.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "beijar",
+      "beijo",
+      "casal",
+      "homem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468;",
+      "HTML dec": "&#128104;&#8205;&#10084;&#65039;&#8205;&#128139;&#8205;&#128104;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%92%8B%E2%80%8D%F0%9F%91%A8",
+      "Punycode": "xn--qei3848mba3l",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D E2 9D A4 EF B8 8F E2 80 8D F0 9F 92 8B E2 80 8D F0 9F 91 A8",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\u2764\\uFE0F\\u200D\\uD83D\\uDC8B\\u200D\\uD83D\\uDC68",
+      "C, C++, Python": "\\U0001f468\\u200D\\u2764\\uFE0F\\u200D\\U0001f48b\\u200D\\U0001f468",
+      "CSS": "\\01F468 \\200D \\2764 \\FE0F \\200D \\01F48B \\200D \\01F468",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{2764}\\u{FE0F}\\u{200D}\\u{1F48B}\\u{200D}\\u{1F468}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{2764}\\x{FE0F}\\x{200D}\\x{1F48B}\\x{200D}\\x{1F468}"
+    }
+  }
+}

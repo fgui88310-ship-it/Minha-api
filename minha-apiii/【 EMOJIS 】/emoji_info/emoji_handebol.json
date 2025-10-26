@@ -1,0 +1,76 @@
+{
+  "emoji": "🤾",
+  "nome": "🤾 Handebol",
+  "categoria": "Person Playing Handball",
+  "url": "https://emojigraph.org/pt/person-playing-handball/",
+  "detalhes": {
+    "explicacao": "Pessoa que joga Handebol foi aprovado como parte do Unicode 9.0 em 2016sob o nome de \"Handebol\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-playing-handball_1f93e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-playing-handball_1f93e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/person-playing-handball_1f93e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/person-playing-handball_1f93e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-playing-handball_1f93e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-playing-handball_1f93e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/person-playing-handball_1f93e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-playing-handball_1f93e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/person-playing-handball_1f93e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/person-playing-handball_1f93e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "esporte",
+      "handebol",
+      "pessoa",
+      "atleta",
+      "gol",
+      "handball",
+      "jogador",
+      "jogando",
+      "passe"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F93E;",
+      "HTML dec": "&#129342;",
+      "URL escape code": "%F0%9F%A4%BE",
+      "Punycode": "xn--3q9h",
+      "Bytes (UTF-8)": "F0 9F A4 BE",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD3E",
+      "C, C++, Python": "\\U0001f93e",
+      "CSS": "\\01F93E",
+      "PHP, Ruby": "\\u{1F93E}",
+      "Perl": "\\x{1F93E}"
+    }
+  }
+}

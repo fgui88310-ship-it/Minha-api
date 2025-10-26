@@ -1,0 +1,94 @@
+{
+  "emoji": "",
+  "nome": "⚽ Bola de futebol",
+  "categoria": "Soccer Ball",
+  "url": "https://emojigraph.org/pt/soccer-ball/",
+  "detalhes": {
+    "explicacao": "Um círculo, preto e branco bola usada no jogo de futebol, o que é conhecido como futebol em grande parte do mundo. Veja também: emojis para a Copa do Mundo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/soccer-ball_26bd.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/soccer-ball_26bd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "bola de futebol",
+      "futebol",
+      "jogar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26BD;",
+      "HTML dec": "&#9917;",
+      "URL escape code": "%E2%9A%BD",
+      "Punycode": "xn--y8h",
+      "Bytes (UTF-8)": "E2 9A BD",
+      "JavaScript, JSON, Java": "\\u26BD",
+      "C, C++, Python": "\\u26BD",
+      "CSS": "\\26BD",
+      "PHP, Ruby": "\\u{26BD}",
+      "Perl": "\\x{26BD}"
+    }
+  }
+}

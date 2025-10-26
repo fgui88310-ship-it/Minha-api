@@ -1,0 +1,69 @@
+{
+  "emoji": "🪕",
+  "nome": "🪕 Banjo",
+  "categoria": "Banjo",
+  "url": "https://emojigraph.org/pt/banjo/",
+  "detalhes": {
+    "explicacao": "Banjo foi aprovado como parte do Unicode 12.0 em 2019e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/banjo_1fa95.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/banjo_1fa95.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/banjo_1fa95.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/banjo_1fa95.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/banjo_1fa95.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/banjo_1fa95.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/banjo_1fa95.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/banjo_1fa95.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/banjo_1fa95.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/banjo_1fa95.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "banjo",
+      "cordas",
+      "música"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA95;",
+      "HTML dec": "&#129685;",
+      "URL escape code": "%F0%9F%AA%95",
+      "Punycode": "xn--w09h",
+      "Bytes (UTF-8)": "F0 9F AA 95",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE95",
+      "C, C++, Python": "\\U0001fa95",
+      "CSS": "\\01FA95",
+      "PHP, Ruby": "\\u{1FA95}",
+      "Perl": "\\x{1FA95}"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "emoji": "🏂",
+  "nome": "🏂 Praticante de snowboard",
+  "categoria": "Snowboarder",
+  "url": "https://emojigraph.org/pt/snowboarder/",
+  "detalhes": {
+    "explicacao": "Uma pessoa de snowboard em downhill em uma estação de esqui. Vestindo roupas projetado para climas frios.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/snowboarder_1f3c2.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/snowboarder_1f3c2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esporte",
+      "snowboard",
+      "inverno",
+      "snowboarder"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3C2;",
+      "HTML dec": "&#127938;",
+      "URL escape code": "%F0%9F%8F%82",
+      "Punycode": "xn--zl8h",
+      "Bytes (UTF-8)": "F0 9F 8F 82",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFC2",
+      "C, C++, Python": "\\U0001f3c2",
+      "CSS": "\\01F3C2",
+      "PHP, Ruby": "\\u{1F3C2}",
+      "Perl": "\\x{1F3C2}"
+    }
+  }
+}

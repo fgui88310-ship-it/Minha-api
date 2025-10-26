@@ -1,0 +1,93 @@
+{
+  "emoji": "🏫",
+  "nome": "🏫 Escola",
+  "categoria": "School",
+  "url": "https://emojigraph.org/pt/school/",
+  "detalhes": {
+    "explicacao": "Prédio de uma escola com vários andares, e um relógio na frente. Um lugar que as crianças, ou adolescentes comparecem para a sua educação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/school_1f3eb.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/school_1f3eb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "escola",
+      "prédio",
+      "colégio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3EB;",
+      "HTML dec": "&#127979;",
+      "URL escape code": "%F0%9F%8F%AB",
+      "Punycode": "xn--5m8h",
+      "Bytes (UTF-8)": "F0 9F 8F AB",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFEB",
+      "C, C++, Python": "\\U0001f3eb",
+      "CSS": "\\01F3EB",
+      "PHP, Ruby": "\\u{1F3EB}",
+      "Perl": "\\x{1F3EB}"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "emoji": "🇧🇲",
+  "nome": "🇧🇲 Bandeira: Bermudas",
+  "categoria": "flag bermuda",
+  "url": "https://emojigraph.org/pt/flag-bermuda/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Bermuda. Este símbolo é uma seqüência de caracteres 🇧 Símbolo Indicador Regional Letra B e 🇲 Símbolo Indicador Regional Letra М. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras BM em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-bermuda_1f1e7-1f1f2.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-bermuda_1f1e7-1f1f2.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-bermuda_1f1e7-1f1f2.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-bermuda_1f1e7-1f1f2.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-bermuda_1f1e7-1f1f2.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-bermuda_1f1e7-1f1f2.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-bermuda_1f1e7-1f1f2.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-bermuda_1f1e7-1f1f2.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1F2;",
+      "HTML dec": "&#127463;&#127474;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%B2",
+      "Punycode": "xn--f77hwa",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 B2",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDF2",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1f2",
+      "CSS": "\\01F1E7 \\01F1F2",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1F2}",
+      "Perl": "\\x{1F1E7}\\x{1F1F2}"
+    }
+  }
+}

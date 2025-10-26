@@ -1,0 +1,66 @@
+// api/endpoints/gimage.js
+import express from 'express';
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+import querystring from 'querystring';
+
+const router = express.Router();
+
+const GOOGLE_IMG_SEARCH = 'https://www.google.com/search?';
+const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+const IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.webp'];
+
+// Função principal de busca
+async function searchImages(query, maxResults = 20) {
+  try {
+    const url = GOOGLE_IMG_SEARCH + querystring.stringify({
+      tbm: 'isch',
+      q: query
+    });
+
+    const { data: html } = await axios.get(url, { headers: { 'User-Agent': USER_AGENT } });
+    const $ = cheerio.load(html);
+
+    const scripts = $('script');
+    const images = [];
+
+    scripts.each((i, script) => {
+      if (!script.children || !script.children[0] || !script.children[0].data) return;
+      const content = script.children[0].data;
+
+      if (!IMAGE_EXTENSIONS.some(ext => content.toLowerCase().includes(ext))) return;
+
+      const regex = /\["(http.+?)",(\d+),(\d+)\]/g;
+      let match;
+      while ((match = regex.exec(content)) !== null && images.length < maxResults) {
+        images.push({
+          url: match[1],
+          width: parseInt(match[2], 10),
+          height: parseInt(match[3], 10)
+        });
+      }
+    });
+
+    return images;
+  } catch (err) {
+    console.error('[GIMAGE] Erro ao buscar imagens:', err.message);
+    return [];
+  }
+}
+
+// Endpoint GET /gimage?query=
+router.get('/', async (req, res, next) => {
+  const { query, limit = 20 } = req.query;
+  if (!query) return res.status(400).json({ error: 'Passe ?query= para pesquisar' });
+
+  try {
+    const images = await searchImages(query, parseInt(limit));
+    if (!images || images.length === 0) return res.status(404).json({ error: 'Nenhuma imagem encontrada' });
+
+    res.json(images);
+  } catch (err) {
+    next(err);
+  }
+});
+
+export default router;

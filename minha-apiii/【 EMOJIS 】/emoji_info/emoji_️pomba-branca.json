@@ -1,0 +1,72 @@
+{
+  "emoji": "🕊",
+  "nome": "🕊️ Pomba branca",
+  "categoria": "Dove",
+  "url": "https://emojigraph.org/pt/dove/",
+  "detalhes": {
+    "explicacao": "Uma pomba que transporta um ramo de oliveira, símbolo da paz para os ocidentais e judaico-cristãos e a cultura. Representado como um pássaro branco em perfil completamente virado para a esquerda, voando com um raminho verde no bico.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/dove_1f54a-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/dove_1f54a-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/dove_1f54a-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/dove_1f54a-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/dove_1f54a-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/dove_1f54a-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/dove_1f54a-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/dove_1f54a-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/dove_1f54a-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/dove_1f54a-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "ave branca",
+      "pássaro",
+      "paz",
+      "pomba",
+      "pomba branca"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F54A;&#xFE0F;",
+      "HTML dec": "&#128330;&#65039;",
+      "URL escape code": "%F0%9F%95%8A%EF%B8%8F",
+      "Punycode": "xn--6w8h",
+      "Bytes (UTF-8)": "F0 9F 95 8A EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD4A\\uFE0F",
+      "C, C++, Python": "\\U0001f54a\\uFE0F",
+      "CSS": "\\01F54A \\FE0F",
+      "PHP, Ruby": "\\u{1F54A}\\u{FE0F}",
+      "Perl": "\\x{1F54A}\\x{FE0F}"
+    }
+  }
+}

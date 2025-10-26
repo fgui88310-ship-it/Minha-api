@@ -1,0 +1,51 @@
+{
+  "emoji": "🙂",
+  "nome": "🙂‍↕️ Cabeça balançando na vertical",
+  "categoria": "head shaking vertically",
+  "url": "https://emojigraph.org/pt/head-shaking-vertically/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/head-shaking-vertically_1f642-200d-2195-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/head-shaking-vertically_1f642-200d-2195-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/head-shaking-vertically_1f642-200d-2195-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/head-shaking-vertically_1f642-200d-2195-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/head-shaking-vertically_1f642-200d-2195-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/head-shaking-vertically_1f642-200d-2195-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "confirmação",
+      "sim"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F642;&#x200D;&#x2195;&#xFE0F;",
+      "HTML dec": "&#128578;&#8205;&#8597;&#65039;",
+      "URL escape code": "%F0%9F%99%82%E2%80%8D%E2%86%95%EF%B8%8F",
+      "Bytes (UTF-8)": "f0 9f 99 82 e2 80 8d e2 86 95 ef b8 8f",
+      "JavaScript, JSON, Java": "\\ud83d\\ude42\\u200d\\u2195\\ufe0f",
+      "C, C++, Python": "\\U0001f642\\u000200d\\u0002195\\u000fe0f",
+      "CSS": "\\01F642 \\0200D \\02195 \\0FE0F",
+      "PHP, Ruby": "\\u{1F642}\\u{200D}\\u{2195}\\u{FE0F}",
+      "Perl": "\\x{1F642}\\x{200D}\\x{2195}\\x{FE0F}"
+    }
+  }
+}

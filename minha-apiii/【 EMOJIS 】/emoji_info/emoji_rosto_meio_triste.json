@@ -1,0 +1,78 @@
+{
+  "emoji": "🙁",
+  "nome": "🙁 Rosto meio triste",
+  "categoria": "slightly frowning face",
+  "url": "https://emojigraph.org/pt/slightly-frowning-face/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com a simples, abra os olhos e um leve franzir de testa. Muitas vezes, transmite um leve grau de preocupação, decepção ou tristeza, mas geralmente menos intensa do que ☹️ Rosto Descontente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/slightly-frowning-face_1f641.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/slightly-frowning-face_1f641.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/slightly-frowning-face_1f641.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/slightly-frowning-face_1f641.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/slightly-frowning-face_1f641.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/slightly-frowning-face_1f641.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/slightly-frowning-face_1f641.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/slightly-frowning-face_1f641.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/slightly-frowning-face_1f641.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/slightly-frowning-face_1f641.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/slightly-frowning-face_1f641.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/slightly-frowning-face_1f641.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "rosto",
+      "tristinho",
+      "triste",
+      "tristeza"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F641;",
+      "HTML dec": "&#128577;",
+      "URL escape code": "%F0%9F%99%81",
+      "Punycode": "xn--838h",
+      "Bytes (UTF-8)": "F0 9F 99 81",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE41",
+      "C, C++, Python": "\\U0001f641",
+      "CSS": "\\01F641",
+      "PHP, Ruby": "\\u{1F641}",
+      "Perl": "\\x{1F641}"
+    }
+  }
+}

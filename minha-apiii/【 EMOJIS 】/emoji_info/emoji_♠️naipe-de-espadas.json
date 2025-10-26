@@ -1,0 +1,95 @@
+{
+  "emoji": "",
+  "nome": "♠️ Naipe de espadas",
+  "categoria": "Spade Suit",
+  "url": "https://emojigraph.org/pt/spade-suit/",
+  "detalhes": {
+    "explicacao": "Símbolo do naipe de espadas emoji, que é usado em jogos de cartas. espadas termo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/spade-suit_2660-fe0f.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/spade-suit_2660-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "baralho",
+      "carta",
+      "espadas",
+      "jogo",
+      "naipe"
+    ],
+    "codigos": {
+      "HTML hex": "&#x2660;&#xFE0F;",
+      "HTML dec": "&#9824;&#65039;",
+      "URL escape code": "%E2%99%A0%EF%B8%8F",
+      "Punycode": "xn--b6h",
+      "Bytes (UTF-8)": "E2 99 A0 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u2660\\uFE0F",
+      "C, C++, Python": "\\u2660\\uFE0F",
+      "CSS": "\\2660 \\FE0F",
+      "PHP, Ruby": "\\u{2660}\\u{FE0F}",
+      "Perl": "\\x{2660}\\x{FE0F}"
+    }
+  }
+}

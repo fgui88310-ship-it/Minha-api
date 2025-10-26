@@ -1,0 +1,47 @@
+// api/endpoints/movie.js
+import express from 'express';
+import axios from 'axios';
+
+const router = express.Router();
+
+// Endpoint: /api/movie?query=nome_do_filme&limit=5
+router.get('/', async (req, res) => {
+  const { query, limit = 5 } = req.query;
+  if (!query) return res.status(400).json({ error: 'Passe ?query= para buscar filmes' });
+
+  try {
+    const apiKey = 'ddfcb99fae93e4723232e4de755d2423'; // sua chave TMDB
+    const url = `https://api.themoviedb.org/3/search/movie?api_key=${apiKey}&query=${encodeURIComponent(query)}&language=pt-BR&page=1`;
+    
+    const { data } = await axios.get(url, { timeout: 5000 });
+
+    if (!data.results || data.results.length === 0) {
+      return res.status(404).json({ error: 'Nenhum filme encontrado' });
+    }
+
+    const filmes = data.results.slice(0, limit).map(f => ({
+      id: f.id,
+      titulo: f.title,
+      original_title: f.original_title,
+      overview: f.overview || "Sem descrição disponível",
+      poster: f.poster_path ? `https://image.tmdb.org/t/p/w500${f.poster_path}` : null,
+      backdrop: f.backdrop_path ? `https://image.tmdb.org/t/p/w780${f.backdrop_path}` : null,
+      release_date: f.release_date,
+      vote_average: f.vote_average,
+      vote_count: f.vote_count,
+      popularity: f.popularity,
+      adult: f.adult
+    }));
+
+    res.json(filmes);
+  } catch (err) {
+    console.error('[MOVIE ENDPOINT ERROR]', err.message);
+    if (err.code === 'ECONNABORTED' || err.code === 'ETIMEDOUT') {
+      res.status(408).json({ error: 'Timeout na requisição. Tente novamente.' });
+    } else {
+      res.status(500).json({ error: `Erro interno: ${err.message}` });
+    }
+  }
+});
+
+export default router;

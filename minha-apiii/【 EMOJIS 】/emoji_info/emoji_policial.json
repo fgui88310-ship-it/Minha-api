@@ -1,0 +1,96 @@
+{
+  "emoji": "👮",
+  "nome": "👮 Policial",
+  "categoria": "Police Officer",
+  "url": "https://emojigraph.org/pt/police-officer/",
+  "detalhes": {
+    "explicacao": "Este policial usa um chapéu azul, que possui um crachá de ouro ou escudo no meio.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/police-officer_1f46e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/police-officer_1f46e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "polícia",
+      "policial",
+      "autoridade",
+      "multar",
+      "pessoa",
+      "prender"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F46E;",
+      "HTML dec": "&#128110;",
+      "URL escape code": "%F0%9F%91%AE",
+      "Punycode": "xn--wq8h",
+      "Bytes (UTF-8)": "F0 9F 91 AE",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC6E",
+      "C, C++, Python": "\\U0001f46e",
+      "CSS": "\\01F46E",
+      "PHP, Ruby": "\\u{1F46E}",
+      "Perl": "\\x{1F46E}"
+    }
+  }
+}

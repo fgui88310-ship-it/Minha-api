@@ -1,0 +1,69 @@
+{
+  "emoji": "",
+  "nome": "⛷️ Esquiador",
+  "categoria": "Skier",
+  "url": "https://emojigraph.org/pt/skier/",
+  "detalhes": {
+    "explicacao": "Uma pessoa downhill-esquiar. Apresentado com bastões e esquis, geralmente usando uma máscara.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/skier_26f7-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/skier_26f7-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/skier_26f7-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/skier_26f7-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/skier_26f7-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/skier_26f7-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/skier_26f7-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/skier_26f7-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/skier_26f7-fe0f.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/skier_26f7-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "esqui",
+      "esquiador",
+      "neve"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26F7;&#xFE0F;",
+      "HTML dec": "&#9975;&#65039;",
+      "URL escape code": "%E2%9B%B7%EF%B8%8F",
+      "Punycode": "xn--mbi",
+      "Bytes (UTF-8)": "E2 9B B7 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26F7\\uFE0F",
+      "C, C++, Python": "\\u26F7\\uFE0F",
+      "CSS": "\\26F7 \\FE0F",
+      "PHP, Ruby": "\\u{26F7}\\u{FE0F}",
+      "Perl": "\\x{26F7}\\x{FE0F}"
+    }
+  }
+}

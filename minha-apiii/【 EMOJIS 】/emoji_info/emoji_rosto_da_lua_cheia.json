@@ -1,0 +1,86 @@
+{
+  "emoji": "🌝",
+  "nome": "🌝 Rosto da lua cheia",
+  "categoria": "full moon face",
+  "url": "https://emojigraph.org/pt/full-moon-face/",
+  "detalhes": {
+    "explicacao": "Uma lua cheia com um sorriso no rosto, como o Homem na Lua. Geralmente retrata a lua como um escuro disco com um pouco sorridente rosto humano e nariz.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/full-moon-face_1f31d.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/full-moon-face_1f31d.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cheia",
+      "lua",
+      "lua com rosto",
+      "rosto"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F31D;",
+      "HTML dec": "&#127773;",
+      "URL escape code": "%F0%9F%8C%9D",
+      "Punycode": "xn--9g8h",
+      "Bytes (UTF-8)": "F0 9F 8C 9D",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF1D",
+      "C, C++, Python": "\\U0001f31d",
+      "CSS": "\\01F31D",
+      "PHP, Ruby": "\\u{1F31D}",
+      "Perl": "\\x{1F31D}"
+    }
+  }
+}

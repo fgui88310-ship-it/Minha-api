@@ -1,0 +1,94 @@
+{
+  "emoji": "😲",
+  "nome": "😲 Rosto espantado",
+  "categoria": "Astonished Face",
+  "url": "https://emojigraph.org/pt/astonished-face/",
+  "detalhes": {
+    "explicacao": "Uma face amarela a abrir os olhos, as sobrancelhas levantadas e a boca aberta, como se ofegante em choque ou surpreso. Muitas vezes retratada, mostrando seus dentes superiores. Pode transmitir uma ampla gama de emoções, incluindo a admiração, espanto, descrença, excitação, ou preocupação.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/astonished-face_1f632.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/astonished-face_1f632.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chocado",
+      "estupefato",
+      "rosto",
+      "rosto espantado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F632;",
+      "HTML dec": "&#128562;",
+      "URL escape code": "%F0%9F%98%B2",
+      "Punycode": "xn--t38h",
+      "Bytes (UTF-8)": "F0 9F 98 B2",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE32",
+      "C, C++, Python": "\\U0001f632",
+      "CSS": "\\01F632",
+      "PHP, Ruby": "\\u{1F632}",
+      "Perl": "\\x{1F632}"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "emoji": "🧻",
+  "nome": "🧻 Rolo de papel",
+  "categoria": "roll of paper",
+  "url": "https://emojigraph.org/pt/roll-of-paper/",
+  "detalhes": {
+    "explicacao": "Um rolo de papel, como papel higiênico (higiénico). Também pode ser um rolo de cozinha/toalhas de papel. Retratado em diversos ângulos, com uma folha de desencadeamento.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/roll-of-paper_1f9fb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/roll-of-paper_1f9fb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/roll-of-paper_1f9fb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/roll-of-paper_1f9fb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/roll-of-paper_1f9fb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/roll-of-paper_1f9fb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/roll-of-paper_1f9fb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/roll-of-paper_1f9fb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/roll-of-paper_1f9fb.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/roll-of-paper_1f9fb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "papel higiênico",
+      "rolo de papel",
+      "higiênico",
+      "papel",
+      "rolo",
+      "toalha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9FB;",
+      "HTML dec": "&#129531;",
+      "URL escape code": "%F0%9F%A7%BB",
+      "Punycode": "xn--iw9h",
+      "Bytes (UTF-8)": "F0 9F A7 BB",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDFB",
+      "C, C++, Python": "\\U0001f9fb",
+      "CSS": "\\01F9FB",
+      "PHP, Ruby": "\\u{1F9FB}",
+      "Perl": "\\x{1F9FB}"
+    }
+  }
+}

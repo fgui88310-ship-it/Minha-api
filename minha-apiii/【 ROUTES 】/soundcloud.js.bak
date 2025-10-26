@@ -1,0 +1,48 @@
+import express from 'express';
+import { searchTracks, fetchTrackByUrl } from '../【 SCRAPERS 】/soundcloud/trackService.js';
+import { getAudioLink } from '../【 SCRAPERS 】/soundcloud/audioService.js';
+import { getCache, setCache } from '../【 SCRAPERS 】/soundcloud/cacheService.js';
+import axios from 'axios';
+import path from 'path';
+import fs from 'fs/promises';
+
+const router = express.Router();
+
+router.get('/', async (req, res, next) => {
+  const { query, url, limit = 15 } = req.query;
+  if (!query && !url) return res.status(400).json({ error: 'Passe ?query= ou ?url=' });
+
+  try {
+    const results = query
+      ? await searchTracks(query, limit)
+      : [await fetchTrackByUrl(url)];
+    res.json(results.filter(Boolean));
+  } catch (err) {
+    console.error('[SOUNDCLOUD API] Erro:', err.message);
+    res.status(500).json({ error: 'Erro interno do servidor' });
+  }
+});
+
+router.get('/download', async (req, res, next) => {
+  const { url } = req.query;
+  if (!url) return res.status(400).json({ error: 'Passe ?url=' });
+
+  try {
+    const track = await fetchTrackByUrl(url);
+    const audio = await getAudioLink(track);
+    if (!audio) return res.status(404).json({ error: 'Áudio não disponível' });
+
+    if (audio.isLocal) {
+      const file = path.join(process.cwd(), 'downloads', path.basename(audio.url));
+      return res.download(file, `${Date.now()}.mp3`);
+    }
+
+    const response = await axios.get(audio.url, { responseType: 'stream' });
+    res.setHeader('Content-Disposition', 'attachment; filename=track.mp3');
+    response.data.pipe(res);
+  } catch (err) {
+    next(err);
+  }
+});
+
+export default router;

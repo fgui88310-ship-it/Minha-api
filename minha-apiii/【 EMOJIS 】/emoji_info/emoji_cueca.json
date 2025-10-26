@@ -1,0 +1,73 @@
+{
+  "emoji": "🩲",
+  "nome": "🩲 Cueca",
+  "categoria": "Briefs",
+  "url": "https://emojigraph.org/pt/briefs/",
+  "detalhes": {
+    "explicacao": "Cueca ou cueca de banho (ou \"Sunga\"), em um estilo mais frequentemente associados com homens.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/briefs_1fa72.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/briefs_1fa72.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/briefs_1fa72.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/briefs_1fa72.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/briefs_1fa72.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/briefs_1fa72.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/briefs_1fa72.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/briefs_1fa72.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/briefs_1fa72.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/briefs_1fa72.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "cueca",
+      "peça única",
+      "roupa de banho",
+      "roupa de praia",
+      "roupa íntima",
+      "nadar",
+      "sunga"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA72;",
+      "HTML dec": "&#129650;",
+      "URL escape code": "%F0%9F%A9%B2",
+      "Punycode": "xn--wz9h",
+      "Bytes (UTF-8)": "F0 9F A9 B2",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE72",
+      "C, C++, Python": "\\U0001fa72",
+      "CSS": "\\01FA72",
+      "PHP, Ruby": "\\u{1FA72}",
+      "Perl": "\\x{1FA72}"
+    }
+  }
+}

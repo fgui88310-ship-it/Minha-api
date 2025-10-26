@@ -1,0 +1,70 @@
+{
+  "emoji": "👮",
+  "nome": "👮‍♀️ Policial mulher",
+  "categoria": "Woman Police Officer",
+  "url": "https://emojigraph.org/pt/woman-police-officer/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 👮 Policial emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-police-officer_1f46e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-police-officer_1f46e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-police-officer_1f46e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-police-officer_1f46e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-police-officer_1f46e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-police-officer_1f46e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-police-officer_1f46e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-police-officer_1f46e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-police-officer_1f46e-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-police-officer_1f46e-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mulher",
+      "polícia",
+      "policial",
+      "tira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F46E;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128110;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%91%AE%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5h9410o",
+      "Bytes (UTF-8)": "F0 9F 91 AE E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC6E\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f46e\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F46E \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F46E}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F46E}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

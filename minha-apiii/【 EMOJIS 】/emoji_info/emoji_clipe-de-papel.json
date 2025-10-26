@@ -1,0 +1,92 @@
+{
+  "emoji": "📎",
+  "nome": "📎 Clipe de papel",
+  "categoria": "Paperclip",
+  "url": "https://emojigraph.org/pt/paperclip/",
+  "detalhes": {
+    "explicacao": "Uma de prata clipe de papel, usada para juntar folhas de papel—ou remover um cartão SIM a partir de um telefone móvel. Mostrado posicionada em diferentes ângulos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/paperclip_1f4ce.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/paperclip_1f4ce.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "clipe",
+      "clipe de papel"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4CE;",
+      "HTML dec": "&#128206;",
+      "URL escape code": "%F0%9F%93%8E",
+      "Punycode": "xn--nt8h",
+      "Bytes (UTF-8)": "F0 9F 93 8E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCCE",
+      "C, C++, Python": "\\U0001f4ce",
+      "CSS": "\\01F4CE",
+      "PHP, Ruby": "\\u{1F4CE}",
+      "Perl": "\\x{1F4CE}"
+    }
+  }
+}

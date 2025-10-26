@@ -1,0 +1,70 @@
+{
+  "emoji": "🎗",
+  "nome": "🎗️ Fita de lembrete",
+  "categoria": "reminder ribbon",
+  "url": "https://emojigraph.org/pt/reminder-ribbon/",
+  "detalhes": {
+    "explicacao": "Uma consciência faixa de opções, usado para mostrar apoio a uma causa ou grupo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/reminder-ribbon_1f397-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/reminder-ribbon_1f397-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/reminder-ribbon_1f397-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/reminder-ribbon_1f397-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/reminder-ribbon_1f397-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/reminder-ribbon_1f397-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/reminder-ribbon_1f397-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/reminder-ribbon_1f397-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/reminder-ribbon_1f397-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/reminder-ribbon_1f397-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "celebração",
+      "comemoração",
+      "laço",
+      "lembrete"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F397;&#xFE0F;",
+      "HTML dec": "&#127895;&#65039;",
+      "URL escape code": "%F0%9F%8E%97%EF%B8%8F",
+      "Punycode": "xn--rk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 97 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF97\\uFE0F",
+      "C, C++, Python": "\\U0001f397\\uFE0F",
+      "CSS": "\\01F397 \\FE0F",
+      "PHP, Ruby": "\\u{1F397}\\u{FE0F}",
+      "Perl": "\\x{1F397}\\x{FE0F}"
+    }
+  }
+}

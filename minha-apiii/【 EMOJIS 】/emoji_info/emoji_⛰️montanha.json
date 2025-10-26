@@ -1,0 +1,67 @@
+{
+  "emoji": "",
+  "nome": "⛰️ Montanha",
+  "categoria": "Mountain",
+  "url": "https://emojigraph.org/pt/mountain/",
+  "detalhes": {
+    "explicacao": "Uma montanha mostrado com dois picos e céu azul. Semelhante à montanha coberta de neve emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mountain_26f0-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mountain_26f0-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mountain_26f0-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mountain_26f0-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mountain_26f0-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mountain_26f0-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mountain_26f0-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mountain_26f0-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mountain_26f0-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mountain_26f0-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "montanha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x26F0;&#xFE0F;",
+      "HTML dec": "&#9968;&#65039;",
+      "URL escape code": "%E2%9B%B0%EF%B8%8F",
+      "Punycode": "xn--fbi",
+      "Bytes (UTF-8)": "E2 9B B0 EF B8 8F",
+      "JavaScript, JSON, Java": "\\u26F0\\uFE0F",
+      "C, C++, Python": "\\u26F0\\uFE0F",
+      "CSS": "\\26F0 \\FE0F",
+      "PHP, Ruby": "\\u{26F0}\\u{FE0F}",
+      "Perl": "\\x{26F0}\\x{FE0F}"
+    }
+  }
+}

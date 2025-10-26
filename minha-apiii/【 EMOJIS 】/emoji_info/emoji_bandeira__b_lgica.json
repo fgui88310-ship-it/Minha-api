@@ -1,0 +1,67 @@
+{
+  "emoji": "🇧🇪",
+  "nome": "🇧🇪 Bandeira: Bélgica",
+  "categoria": "flag belgium",
+  "url": "https://emojigraph.org/pt/flag-belgium/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Bélgica. Este símbolo é uma seqüência de caracteres 🇧 Símbolo Indicador Regional Letra B e 🇪 Símbolo Indicador Regional Letra E. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras BE em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-belgium_1f1e7-1f1ea.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-belgium_1f1e7-1f1ea.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-belgium_1f1e7-1f1ea.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-belgium_1f1e7-1f1ea.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-belgium_1f1e7-1f1ea.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-belgium_1f1e7-1f1ea.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/flag-belgium_1f1e7-1f1ea.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-belgium_1f1e7-1f1ea.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-belgium_1f1e7-1f1ea.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/flag-belgium_1f1e7-1f1ea.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1EA;",
+      "HTML dec": "&#127463;&#127466;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%AA",
+      "Punycode": "xn--f77hga",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 AA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDEA",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1ea",
+      "CSS": "\\01F1E7 \\01F1EA",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1EA}",
+      "Perl": "\\x{1F1E7}\\x{1F1EA}"
+    }
+  }
+}

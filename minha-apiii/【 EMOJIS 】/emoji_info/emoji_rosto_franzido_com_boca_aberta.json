@@ -1,0 +1,89 @@
+{
+  "emoji": "😦",
+  "nome": "😦 Rosto franzido com boca aberta",
+  "categoria": "frowning face with open mouth",
+  "url": "https://emojigraph.org/pt/frowning-face-with-open-mouth/",
+  "detalhes": {
+    "explicacao": "Uma face é amarela com pequenas, abra os olhos e franzir a testa. O design da Samsung mostra os dentes de cima e a língua. Significado varia bastante, mas pode transmitir leve tristeza, decepção, preocupação e espanto.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/frowning-face-with-open-mouth_1f626.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/frowning-face-with-open-mouth_1f626.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aberta",
+      "boca",
+      "rosto assustado",
+      "assustado",
+      "decepcionado",
+      "inesperado",
+      "uau"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F626;",
+      "HTML dec": "&#128550;",
+      "URL escape code": "%F0%9F%98%A6",
+      "Punycode": "xn--h38h",
+      "Bytes (UTF-8)": "F0 9F 98 A6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE26",
+      "C, C++, Python": "\\U0001f626",
+      "CSS": "\\01F626",
+      "PHP, Ruby": "\\u{1F626}",
+      "Perl": "\\x{1F626}"
+    }
+  }
+}

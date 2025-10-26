@@ -1,0 +1,88 @@
+{
+  "emoji": "🚡",
+  "nome": "🚡 Teleférico",
+  "categoria": "Aerial Tramway",
+  "url": "https://emojigraph.org/pt/aerial-tramway/",
+  "detalhes": {
+    "explicacao": "Um Aerial Tramway, mais comumente visto em resorts de esqui, para o transporte entre os locais em uma montanha. Também pode ser usado como uma atração turística, ou como uma forma de transporte público.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/aerial-tramway_1f6a1.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/aerial-tramway_1f6a1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aérea",
+      "gôndola",
+      "linha de bonde",
+      "teleférico",
+      "veículo",
+      "gondola"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6A1;",
+      "HTML dec": "&#128673;",
+      "URL escape code": "%F0%9F%9A%A1",
+      "Punycode": "xn--z68h",
+      "Bytes (UTF-8)": "F0 9F 9A A1",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEA1",
+      "C, C++, Python": "\\U0001f6a1",
+      "CSS": "\\01F6A1",
+      "PHP, Ruby": "\\u{1F6A1}",
+      "Perl": "\\x{1F6A1}"
+    }
+  }
+}

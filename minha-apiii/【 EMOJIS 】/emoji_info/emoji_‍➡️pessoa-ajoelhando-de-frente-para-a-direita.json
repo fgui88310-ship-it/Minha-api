@@ -1,0 +1,52 @@
+{
+  "emoji": "🧎",
+  "nome": "🧎‍➡️ Pessoa ajoelhando de frente para a direita",
+  "categoria": "Person Kneeling Facing Right",
+  "url": "https://emojigraph.org/pt/person-kneeling-facing-right/",
+  "detalhes": {
+    "explicacao": "",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/person-kneeling-facing-right_1f9ce-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/person-kneeling-facing-right_1f9ce-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/person-kneeling-facing-right_1f9ce-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/person-kneeling-facing-right_1f9ce-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/person-kneeling-facing-right_1f9ce-200d-27a1-fe0f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/person-kneeling-facing-right_1f9ce-200d-27a1-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ajoelhada",
+      "ajoelhar",
+      "de joelhos"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9CE;&#x200D;&#x27A1;&#xFE0F;",
+      "HTML dec": "&#129486;&#8205;&#10145;&#65039;",
+      "URL escape code": "%F0%9F%A7%8E%E2%80%8D%E2%9E%A1%EF%B8%8F",
+      "Bytes (UTF-8)": "f0 9f a7 8e e2 80 8d e2 9e a1 ef b8 8f",
+      "JavaScript, JSON, Java": "\\ud83e\\uddce\\u200d\\u27a1\\ufe0f",
+      "C, C++, Python": "\\U0001f9ce\\u000200d\\u00027a1\\u000fe0f",
+      "CSS": "\\01F9CE \\0200D \\027A1 \\0FE0F",
+      "PHP, Ruby": "\\u{1F9CE}\\u{200D}\\u{27A1}\\u{FE0F}",
+      "Perl": "\\x{1F9CE}\\x{200D}\\x{27A1}\\x{FE0F}"
+    }
+  }
+}

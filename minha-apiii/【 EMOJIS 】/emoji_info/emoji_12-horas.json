@@ -1,0 +1,96 @@
+{
+  "emoji": "🕛",
+  "nome": "🕛 12 horas",
+  "categoria": "Twelve Oclock",
+  "url": "https://emojigraph.org/pt/twelve-oclock/",
+  "detalhes": {
+    "explicacao": "Doze Horas foi aprovado como parte do Unicode 6.0 em 2010sob o nome de \"Face de Relógio de Doze Horas\"",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/twelve-oclock_1f55b.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/twelve-oclock_1f55b.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "12 horas",
+      "12h00",
+      "doze",
+      "relógio",
+      "meia-noite",
+      "meio-dia"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F55B;",
+      "HTML dec": "&#128347;",
+      "URL escape code": "%F0%9F%95%9B",
+      "Punycode": "xn--ox8h",
+      "Bytes (UTF-8)": "F0 9F 95 9B",
+      "JavaScript, JSON, Java": "\\uD83D\\uDD5B",
+      "C, C++, Python": "\\U0001f55b",
+      "CSS": "\\01F55B",
+      "PHP, Ruby": "\\u{1F55B}",
+      "Perl": "\\x{1F55B}"
+    }
+  }
+}

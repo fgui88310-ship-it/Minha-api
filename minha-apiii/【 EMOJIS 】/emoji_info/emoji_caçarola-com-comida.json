@@ -1,0 +1,72 @@
+{
+  "emoji": "🥘",
+  "nome": "🥘 Caçarola com comida",
+  "categoria": "Shallow Pan Of Food",
+  "url": "https://emojigraph.org/pt/shallow-pan-of-food/",
+  "detalhes": {
+    "explicacao": "Um plano, raso, preto panela com alças laterais, contendo cor de açafrão da Espanha. Pode ser usado para comer, cozinhar, jantar e refeições em geral.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/shallow-pan-of-food_1f958.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/shallow-pan-of-food_1f958.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/shallow-pan-of-food_1f958.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/shallow-pan-of-food_1f958.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/shallow-pan-of-food_1f958.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/shallow-pan-of-food_1f958.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/shallow-pan-of-food_1f958.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/shallow-pan-of-food_1f958.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/shallow-pan-of-food_1f958.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/shallow-pan-of-food_1f958.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "caçarola",
+      "comida",
+      "paella",
+      "panela",
+      "rasa",
+      "fome"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F958;",
+      "HTML dec": "&#129368;",
+      "URL escape code": "%F0%9F%A5%98",
+      "Punycode": "xn--ur9h",
+      "Bytes (UTF-8)": "F0 9F A5 98",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD58",
+      "C, C++, Python": "\\U0001f958",
+      "CSS": "\\01F958",
+      "PHP, Ruby": "\\u{1F958}",
+      "Perl": "\\x{1F958}"
+    }
+  }
+}

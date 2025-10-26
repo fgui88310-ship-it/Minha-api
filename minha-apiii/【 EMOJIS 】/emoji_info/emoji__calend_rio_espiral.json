@@ -1,0 +1,69 @@
+{
+  "emoji": "🗓",
+  "nome": "🗓️ Calendário espiral",
+  "categoria": "spiral calendar",
+  "url": "https://emojigraph.org/pt/spiral-calendar/",
+  "detalhes": {
+    "explicacao": "Uma espiral de calendário. Geralmente retratado como um calendário mensal, com um vermelho ou azul cabeçalho. A Apple e a Samsung páginas são enrolado no canto inferior direito, como a flip para um novo mês.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/spiral-calendar_1f5d3-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/spiral-calendar_1f5d3-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/spiral-calendar_1f5d3-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/spiral-calendar_1f5d3-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/spiral-calendar_1f5d3-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/spiral-calendar_1f5d3-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/spiral-calendar_1f5d3-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/spiral-calendar_1f5d3-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/spiral-calendar_1f5d3-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/spiral-calendar_1f5d3-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bloco",
+      "calendário",
+      "espiral"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5D3;&#xFE0F;",
+      "HTML dec": "&#128467;&#65039;",
+      "URL escape code": "%F0%9F%97%93%EF%B8%8F",
+      "Punycode": "xn--308h",
+      "Bytes (UTF-8)": "F0 9F 97 93 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDD3\\uFE0F",
+      "C, C++, Python": "\\U0001f5d3\\uFE0F",
+      "CSS": "\\01F5D3 \\FE0F",
+      "PHP, Ruby": "\\u{1F5D3}\\u{FE0F}",
+      "Perl": "\\x{1F5D3}\\x{FE0F}"
+    }
+  }
+}

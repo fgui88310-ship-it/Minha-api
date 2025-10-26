@@ -1,0 +1,68 @@
+{
+  "emoji": "👨",
+  "nome": "👨‍🦽 Homem em cadeira de rodas manual",
+  "categoria": "man in manual wheelchair",
+  "url": "https://emojigraph.org/pt/man-in-manual-wheelchair/",
+  "detalhes": {
+    "explicacao": "O Homem na Cadeira de rodas Manual emoji é uma sequência do 👨 Homem e 🦽 Cadeira de rodas Manual emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-in-manual-wheelchair_1f468-200d-1f9bd.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-in-manual-wheelchair_1f468-200d-1f9bd.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-in-manual-wheelchair_1f468-200d-1f9bd.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-in-manual-wheelchair_1f468-200d-1f9bd.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-in-manual-wheelchair_1f468-200d-1f9bd.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-in-manual-wheelchair_1f468-200d-1f9bd.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-in-manual-wheelchair_1f468-200d-1f9bd.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-in-manual-wheelchair_1f468-200d-1f9bd.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-in-manual-wheelchair_1f468-200d-1f9bd.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/man-in-manual-wheelchair_1f468-200d-1f9bd.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessibilidade",
+      "homem"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F468;&#x200D;&#x1F9BD;",
+      "HTML dec": "&#128104;&#8205;&#129469;",
+      "URL escape code": "%F0%9F%91%A8%E2%80%8D%F0%9F%A6%BD",
+      "Punycode": "xn--qq8hk9f",
+      "Bytes (UTF-8)": "F0 9F 91 A8 E2 80 8D F0 9F A6 BD",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC68\\u200D\\uD83E\\uDDBD",
+      "C, C++, Python": "\\U0001f468\\u200D\\U0001f9bd",
+      "CSS": "\\01F468 \\200D \\01F9BD",
+      "PHP, Ruby": "\\u{1F468}\\u{200D}\\u{1F9BD}",
+      "Perl": "\\x{1F468}\\x{200D}\\x{1F9BD}"
+    }
+  }
+}

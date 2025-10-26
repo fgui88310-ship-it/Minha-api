@@ -1,0 +1,62 @@
+{
+  "emoji": "🏊",
+  "nome": "🏊‍♂️ Homem nadando",
+  "categoria": "Man Swimming",
+  "url": "https://emojigraph.org/pt/man-swimming/",
+  "detalhes": {
+    "explicacao": "A versão masculina do 🏊 Nadador emoji. Atualmente idêntico em aparência a não-gênero da base de dados de emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-swimming_1f3ca-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-swimming_1f3ca-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-swimming_1f3ca-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-swimming_1f3ca-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-swimming_1f3ca-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-swimming_1f3ca-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-swimming_1f3ca-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-swimming_1f3ca-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "homem",
+      "homem nadando",
+      "nadar",
+      "natação"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3CA;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#127946;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%8F%8A%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5hz199n",
+      "Bytes (UTF-8)": "F0 9F 8F 8A E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFCA\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f3ca\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F3CA \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F3CA}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F3CA}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

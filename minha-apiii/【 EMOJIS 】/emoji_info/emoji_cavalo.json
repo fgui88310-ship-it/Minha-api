@@ -1,0 +1,94 @@
+{
+  "emoji": "🐎",
+  "nome": "🐎 Cavalo",
+  "categoria": "Horse",
+  "url": "https://emojigraph.org/pt/horse/",
+  "detalhes": {
+    "explicacao": "Um cavalo, um mamífero com cascos usado para equitação e corrida. Descrito como um cavalo castanho no perfil completo galopando para a esquerda, com uma escura, fluída crina e cauda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/horse_1f40e.png"
+      },
+      {
+        "plataforma": "Docomo",
+        "urlImagem": "/media/docomo/horse_1f40e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "cavalo",
+      "equestre",
+      "corrida"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F40E;",
+      "HTML dec": "&#128014;",
+      "URL escape code": "%F0%9F%90%8E",
+      "Punycode": "xn--5n8h",
+      "Bytes (UTF-8)": "F0 9F 90 8E",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC0E",
+      "C, C++, Python": "\\U0001f40e",
+      "CSS": "\\01F40E",
+      "PHP, Ruby": "\\u{1F40E}",
+      "Perl": "\\x{1F40E}"
+    }
+  }
+}

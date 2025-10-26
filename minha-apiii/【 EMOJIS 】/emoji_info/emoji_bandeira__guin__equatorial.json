@@ -1,0 +1,59 @@
+{
+  "emoji": "🇬🇶",
+  "nome": "🇬🇶 Bandeira: Guiné Equatorial",
+  "categoria": "flag equatorial guinea",
+  "url": "https://emojigraph.org/pt/flag-equatorial-guinea/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Guiné Equatorial. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇶 Símbolo Indicador Regional Letra Q. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GQ em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-equatorial-guinea_1f1ec-1f1f6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-equatorial-guinea_1f1ec-1f1f6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-equatorial-guinea_1f1ec-1f1f6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-equatorial-guinea_1f1ec-1f1f6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-equatorial-guinea_1f1ec-1f1f6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-equatorial-guinea_1f1ec-1f1f6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-equatorial-guinea_1f1ec-1f1f6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-equatorial-guinea_1f1ec-1f1f6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1F6;",
+      "HTML dec": "&#127468;&#127478;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%B6",
+      "Punycode": "xn--k77hua",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 B6",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDF6",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1f6",
+      "CSS": "\\01F1EC \\01F1F6",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1F6}",
+      "Perl": "\\x{1F1EC}\\x{1F1F6}"
+    }
+  }
+}

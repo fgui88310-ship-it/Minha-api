@@ -1,0 +1,84 @@
+{
+  "emoji": "🐖",
+  "nome": "🐖 Porco",
+  "categoria": "Pig",
+  "url": "https://emojigraph.org/pt/pig/",
+  "detalhes": {
+    "explicacao": "Um porco, um gordo animal criado para consumo de sua carne, como o bacon. Representado na luz cor-de-rosa no perfil completo em todos os fours virada para a esquerda, com um focinho comprido e curto, encaracolado cauda.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pig_1f416.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pig_1f416.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pig_1f416.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pig_1f416.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pig_1f416.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pig_1f416.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pig_1f416.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pig_1f416.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pig_1f416.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pig_1f416.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pig_1f416.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pig_1f416.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pig_1f416.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pig_1f416.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "porco"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F416;",
+      "HTML dec": "&#128022;",
+      "URL escape code": "%F0%9F%90%96",
+      "Punycode": "xn--eo8h",
+      "Bytes (UTF-8)": "F0 9F 90 96",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC16",
+      "C, C++, Python": "\\U0001f416",
+      "CSS": "\\01F416",
+      "PHP, Ruby": "\\u{1F416}",
+      "Perl": "\\x{1F416}"
+    }
+  }
+}

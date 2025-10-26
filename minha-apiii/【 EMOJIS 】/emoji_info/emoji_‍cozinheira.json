@@ -1,0 +1,69 @@
+{
+  "emoji": "👩",
+  "nome": "👩‍🍳 Cozinheira",
+  "categoria": "Woman Cook",
+  "url": "https://emojigraph.org/pt/woman-cook/",
+  "detalhes": {
+    "explicacao": "A Mulher Cozinhar emoji é uma sequência do 👩 Mulher e 🍳 Cozinhar emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-cook_1f469-200d-1f373.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-cook_1f469-200d-1f373.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-cook_1f469-200d-1f373.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-cook_1f469-200d-1f373.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-cook_1f469-200d-1f373.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-cook_1f469-200d-1f373.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-cook_1f469-200d-1f373.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-cook_1f469-200d-1f373.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-cook_1f469-200d-1f373.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-cook_1f469-200d-1f373.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "chef",
+      "cozinheira",
+      "mulher"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F469;&#x200D;&#x1F373;",
+      "HTML dec": "&#128105;&#8205;&#127859;",
+      "URL escape code": "%F0%9F%91%A9%E2%80%8D%F0%9F%8D%B3",
+      "Punycode": "xn--qj8hlp",
+      "Bytes (UTF-8)": "F0 9F 91 A9 E2 80 8D F0 9F 8D B3",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC69\\u200D\\uD83C\\uDF73",
+      "C, C++, Python": "\\U0001f469\\u200D\\U0001f373",
+      "CSS": "\\01F469 \\200D \\01F373",
+      "PHP, Ruby": "\\u{1F469}\\u{200D}\\u{1F373}",
+      "Perl": "\\x{1F469}\\x{200D}\\x{1F373}"
+    }
+  }
+}

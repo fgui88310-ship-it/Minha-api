@@ -1,0 +1,96 @@
+{
+  "emoji": "👶",
+  "nome": "👶 Bebê",
+  "categoria": "Baby",
+  "url": "https://emojigraph.org/pt/baby/",
+  "detalhes": {
+    "explicacao": "O rosto de um jovem infantil (bebê). Mostra o rosto de um bebê com uma pequena quantidade de cabelo na maioria das plataformas, enquanto algumas variações mostrar uma chupeta (fictícia) na sua boca. Android apresentado anteriormente este emoji como um enfaixou bebê.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/baby_1f476.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/baby_1f476.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/baby_1f476.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/baby_1f476.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/baby_1f476.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/baby_1f476.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/baby_1f476.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/baby_1f476.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/baby_1f476.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/baby_1f476.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/baby_1f476.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/baby_1f476.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/baby_1f476.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/baby_1f476.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/baby_1f476.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/baby_1f476.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bebê",
+      "neném",
+      "bebezinho",
+      "grávida",
+      "pessoas",
+      "recém-nascido"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F476;",
+      "HTML dec": "&#128118;",
+      "URL escape code": "%F0%9F%91%B6",
+      "Punycode": "xn--4q8h",
+      "Bytes (UTF-8)": "F0 9F 91 B6",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC76",
+      "C, C++, Python": "\\U0001f476",
+      "CSS": "\\01F476",
+      "PHP, Ruby": "\\u{1F476}",
+      "Perl": "\\x{1F476}"
+    }
+  }
+}

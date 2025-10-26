@@ -1,0 +1,79 @@
+{
+  "emoji": "🪪",
+  "nome": "🪪 Cartão de identificação",
+  "categoria": "identification card",
+  "url": "https://emojigraph.org/pt/identification-card/",
+  "detalhes": {
+    "explicacao": "Um cartão de identificação de plástico (semelhante a uma carteira de motorista) com nome e algumas informações de texto e um retrato no lado esquerdo. Pode representar os conceitos como identidade, certificação, credenciais ou autoridade, bem como um \"id falso\". Também pode ser usado como passaporte no 🛂 Controle de passaportes.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/identification-card_1faaa.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/identification-card_1faaa.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/identification-card_1faaa.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/identification-card_1faaa.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/identification-card_1faaa.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/identification-card_1faaa.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/identification-card_1faaa.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/identification-card_1faaa.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/identification-card_1faaa.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/identification-card_1faaa.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "crachá",
+      "credenciais",
+      "identidade",
+      "identificação",
+      "licença",
+      "segurança",
+      "carta",
+      "cartão",
+      "carteira",
+      "documento",
+      "habilitação",
+      "motorista",
+      "RG"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAAA;",
+      "HTML dec": "&#129706;",
+      "URL escape code": "%F0%9F%AA%AA",
+      "Punycode": "xn--i19h",
+      "Bytes (UTF-8)": "f0 9f aa aa",
+      "JavaScript, JSON, Java": "\\ud83e\\udeaa",
+      "C, C++, Python": "\\U0001faaa",
+      "CSS": "\\01FAAA",
+      "PHP, Ruby": "\\u{1FAAA}",
+      "Perl": "\\x{1FAAA}"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "emoji": "💊",
+  "nome": "💊 Comprimido",
+  "categoria": "Pill",
+  "url": "https://emojigraph.org/pt/pill/",
+  "detalhes": {
+    "explicacao": "Uma cápsula de medicamento. Geralmente retratado em um ângulo de 45°, metade vermelho, metade amarelo. Comumente usado para conteúdo de matéria sobre saúde, medicina e profissões, bem como diversos tipos de drogas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pill_1f48a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pill_1f48a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comprimido",
+      "medicina",
+      "médico",
+      "pílula",
+      "remédio",
+      "cápsula"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F48A;",
+      "HTML dec": "&#128138;",
+      "URL escape code": "%F0%9F%92%8A",
+      "Punycode": "xn--pr8h",
+      "Bytes (UTF-8)": "F0 9F 92 8A",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC8A",
+      "C, C++, Python": "\\U0001f48a",
+      "CSS": "\\01F48A",
+      "PHP, Ruby": "\\u{1F48A}",
+      "Perl": "\\x{1F48A}"
+    }
+  }
+}

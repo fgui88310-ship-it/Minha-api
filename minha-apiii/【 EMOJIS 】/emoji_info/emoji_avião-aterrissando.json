@@ -1,0 +1,73 @@
+{
+  "emoji": "🛬",
+  "nome": "🛬 Avião aterrissando",
+  "categoria": "Airplane Arrival",
+  "url": "https://emojigraph.org/pt/airplane-arrival/",
+  "detalhes": {
+    "explicacao": "Um avião aproximando-se de uma pista para o pouso. Geralmente exibidos da esquerda para a direita, com a parte da frente do avião virada para o chão em uma posição que pode resultar em uma falha se tentou no mundo real.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/airplane-arrival_1f6ec.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/airplane-arrival_1f6ec.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/airplane-arrival_1f6ec.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/airplane-arrival_1f6ec.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/airplane-arrival_1f6ec.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/airplane-arrival_1f6ec.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/airplane-arrival_1f6ec.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/airplane-arrival_1f6ec.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/airplane-arrival_1f6ec.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/airplane-arrival_1f6ec.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "aterrissagem",
+      "aterrissando",
+      "avião",
+      "pousando",
+      "veículo",
+      "chegando",
+      "voltando"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F6EC;",
+      "HTML dec": "&#128748;",
+      "URL escape code": "%F0%9F%9B%AC",
+      "Punycode": "xn--488h",
+      "Bytes (UTF-8)": "F0 9F 9B AC",
+      "JavaScript, JSON, Java": "\\uD83D\\uDEEC",
+      "C, C++, Python": "\\U0001f6ec",
+      "CSS": "\\01F6EC",
+      "PHP, Ruby": "\\u{1F6EC}",
+      "Perl": "\\x{1F6EC}"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "emoji": "🌘",
+  "nome": "🌘 Lua minguante côncava",
+  "categoria": "waning crescent moon",
+  "url": "https://emojigraph.org/pt/waning-crescent-moon/",
+  "detalhes": {
+    "explicacao": "Minguante lua crescente (aparecendo para se tornar menor), a última das fases da lua. Retrata a lua como um crateras disco, lado esquerdo, iluminado em uma fina, de ouro ou de prata crescente, o seu resto escuro.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/waning-crescent-moon_1f318.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/waning-crescent-moon_1f318.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "côncava",
+      "lua",
+      "minguante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F318;",
+      "HTML dec": "&#127768;",
+      "URL escape code": "%F0%9F%8C%98",
+      "Punycode": "xn--4g8h",
+      "Bytes (UTF-8)": "F0 9F 8C 98",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF18",
+      "C, C++, Python": "\\U0001f318",
+      "CSS": "\\01F318",
+      "PHP, Ruby": "\\u{1F318}",
+      "Perl": "\\x{1F318}"
+    }
+  }
+}

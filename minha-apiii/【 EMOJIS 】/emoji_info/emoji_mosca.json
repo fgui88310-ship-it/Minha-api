@@ -1,0 +1,75 @@
+{
+  "emoji": "🪰",
+  "nome": "🪰 Mosca",
+  "categoria": "Fly",
+  "url": "https://emojigraph.org/pt/fly/",
+  "detalhes": {
+    "explicacao": "Uma imagem de desenho animado do inseto irritante que gosta de pairar sobre comida. Geralmente usado para representar pessoas que são muito irritantes. Fly foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/fly_1fab0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/fly_1fab0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/fly_1fab0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/fly_1fab0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/fly_1fab0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/fly_1fab0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/fly_1fab0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/fly_1fab0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/fly_1fab0.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/fly_1fab0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "apodrecendo",
+      "doença",
+      "larva",
+      "mosca",
+      "praga",
+      "animal",
+      "inseto",
+      "mosca-varejeira",
+      "varejeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FAB0;",
+      "HTML dec": "&#129712;",
+      "URL escape code": "%F0%9F%AA%B0",
+      "Punycode": "xn--o19h",
+      "Bytes (UTF-8)": "F0 9F AA B0",
+      "JavaScript, JSON, Java": "\\uD83E\\uDEB0",
+      "C, C++, Python": "\\U0001fab0",
+      "CSS": "\\01FAB0",
+      "PHP, Ruby": "\\u{1FAB0}",
+      "Perl": "\\x{1FAB0}"
+    }
+  }
+}

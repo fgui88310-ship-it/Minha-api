@@ -1,0 +1,94 @@
+{
+  "emoji": "🍮",
+  "nome": "🍮 Pudim",
+  "categoria": "Custard",
+  "url": "https://emojigraph.org/pt/custard/",
+  "detalhes": {
+    "explicacao": "Um amarelo-dourado e creme de sobremesa, como um creme de caramelo ou flan, coberto com uma camada de caramelo. Mostrado em um prato, moldado em uma forma-a forma e, muitas vezes, em uma piscina de molho de caramelo.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/custard_1f36e.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/custard_1f36e.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pudim",
+      "pudim de leite",
+      "pudim de ovos",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F36E;",
+      "HTML dec": "&#127854;",
+      "URL escape code": "%F0%9F%8D%AE",
+      "Punycode": "xn--lj8h",
+      "Bytes (UTF-8)": "F0 9F 8D AE",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF6E",
+      "C, C++, Python": "\\U0001f36e",
+      "CSS": "\\01F36E",
+      "PHP, Ruby": "\\u{1F36E}",
+      "Perl": "\\x{1F36E}"
+    }
+  }
+}

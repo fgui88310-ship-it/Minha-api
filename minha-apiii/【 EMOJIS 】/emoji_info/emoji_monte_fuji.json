@@ -1,0 +1,92 @@
+{
+  "emoji": "🗻",
+  "nome": "🗻 Monte Fuji",
+  "categoria": "mount fuji",
+  "url": "https://emojigraph.org/pt/mount-fuji/",
+  "detalhes": {
+    "explicacao": "O monte Fuji (chamado Fuji-san no Japão), é a maior montanha do Japão. Muitas vezes visto com neve no pico nos meses mais frios do ano.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/mount-fuji_1f5fb.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/mount-fuji_1f5fb.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "montanha",
+      "Monte Fuji"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F5FB;",
+      "HTML dec": "&#128507;",
+      "URL escape code": "%F0%9F%97%BB",
+      "Punycode": "xn--818h",
+      "Bytes (UTF-8)": "F0 9F 97 BB",
+      "JavaScript, JSON, Java": "\\uD83D\\uDDFB",
+      "C, C++, Python": "\\U0001f5fb",
+      "CSS": "\\01F5FB",
+      "PHP, Ruby": "\\u{1F5FB}",
+      "Perl": "\\x{1F5FB}"
+    }
+  }
+}

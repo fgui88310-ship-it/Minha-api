@@ -1,0 +1,72 @@
+{
+  "emoji": "📿",
+  "nome": "📿 Rosário de oração",
+  "categoria": "Prayer Beads",
+  "url": "https://emojigraph.org/pt/prayer-beads/",
+  "detalhes": {
+    "explicacao": "Um colar de contas, como é usado na oração ou na meditação em muitas tradições religiosas. Geralmente retratado como o vermelho, contas de madeira, com um ouro, decorativos centro de esferas e de borla.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/prayer-beads_1f4ff.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/prayer-beads_1f4ff.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/prayer-beads_1f4ff.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/prayer-beads_1f4ff.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/prayer-beads_1f4ff.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/prayer-beads_1f4ff.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/prayer-beads_1f4ff.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/prayer-beads_1f4ff.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/prayer-beads_1f4ff.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/prayer-beads_1f4ff.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "acessório",
+      "oração",
+      "religião",
+      "reza",
+      "rosário",
+      "terço"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4FF;",
+      "HTML dec": "&#128255;",
+      "URL escape code": "%F0%9F%93%BF",
+      "Punycode": "xn--1u8h",
+      "Bytes (UTF-8)": "F0 9F 93 BF",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCFF",
+      "C, C++, Python": "\\U0001f4ff",
+      "CSS": "\\01F4FF",
+      "PHP, Ruby": "\\u{1F4FF}",
+      "Perl": "\\x{1F4FF}"
+    }
+  }
+}

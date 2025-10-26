@@ -1,0 +1,97 @@
+{
+  "emoji": "🎌",
+  "nome": "🎌 Bandeiras cruzadas",
+  "categoria": "crossed flags",
+  "url": "https://emojigraph.org/pt/crossed-flags/",
+  "detalhes": {
+    "explicacao": "Duas Bandeiras Japonesas, cruzou na base. Exceto em alguns dispositivos da Samsung, que têm Sul-coreano bandeiras.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/crossed-flags_1f38c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/crossed-flags_1f38c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeiras",
+      "comemoração",
+      "cruzadas",
+      "bandeira",
+      "cruzar",
+      "Japão",
+      "Japonês"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F38C;",
+      "HTML dec": "&#127884;",
+      "URL escape code": "%F0%9F%8E%8C",
+      "Punycode": "xn--gk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 8C",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF8C",
+      "C, C++, Python": "\\U0001f38c",
+      "CSS": "\\01F38C",
+      "PHP, Ruby": "\\u{1F38C}",
+      "Perl": "\\x{1F38C}"
+    }
+  }
+}

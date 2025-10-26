@@ -1,0 +1,69 @@
+{
+  "emoji": "🦌",
+  "nome": "🦌 Cervo",
+  "categoria": "Deer",
+  "url": "https://emojigraph.org/pt/deer/",
+  "detalhes": {
+    "explicacao": "Um veado, uma frota de patas, hoofed de mamíferos cujos machos (dinheiro, cervos) geralmente têm chifres. Comummente descrito como um leve marrom-veado no perfil completo em todos os fours virada para a esquerda ou como um veado face voltada diretamente para a cabeça; ambas representações têm grandes chifres ramificados.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/deer_1f98c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/deer_1f98c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/deer_1f98c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/deer_1f98c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/deer_1f98c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/deer_1f98c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/deer_1f98c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/deer_1f98c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/deer_1f98c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/deer_1f98c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "animal",
+      "cervo",
+      "veado"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F98C;",
+      "HTML dec": "&#129420;",
+      "URL escape code": "%F0%9F%A6%8C",
+      "Punycode": "xn--ct9h",
+      "Bytes (UTF-8)": "F0 9F A6 8C",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD8C",
+      "C, C++, Python": "\\U0001f98c",
+      "CSS": "\\01F98C",
+      "PHP, Ruby": "\\u{1F98C}",
+      "Perl": "\\x{1F98C}"
+    }
+  }
+}

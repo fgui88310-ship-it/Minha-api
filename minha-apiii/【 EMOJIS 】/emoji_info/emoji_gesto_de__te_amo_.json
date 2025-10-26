@@ -1,0 +1,68 @@
+{
+  "emoji": "🤟",
+  "nome": "🤟 Gesto de \"te amo\"",
+  "categoria": "love you gesture",
+  "url": "https://emojigraph.org/pt/love-you-gesture/",
+  "detalhes": {
+    "explicacao": "O gesto de \"eu amo você\" na linguagem americana de sinais, mostrado como uma mão levantada com dedos indicador, polegar e mindinho abertos.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/love-you-gesture_1f91f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/love-you-gesture_1f91f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/love-you-gesture_1f91f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/love-you-gesture_1f91f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/love-you-gesture_1f91f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/love-you-gesture_1f91f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/love-you-gesture_1f91f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/love-you-gesture_1f91f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/love-you-gesture_1f91f.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/love-you-gesture_1f91f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "mão",
+      "te amo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F91F;",
+      "HTML dec": "&#129311;",
+      "URL escape code": "%F0%9F%A4%9F",
+      "Punycode": "xn--7p9h",
+      "Bytes (UTF-8)": "F0 9F A4 9F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD1F",
+      "C, C++, Python": "\\U0001f91f",
+      "CSS": "\\01F91F",
+      "PHP, Ruby": "\\u{1F91F}",
+      "Perl": "\\x{1F91F}"
+    }
+  }
+}

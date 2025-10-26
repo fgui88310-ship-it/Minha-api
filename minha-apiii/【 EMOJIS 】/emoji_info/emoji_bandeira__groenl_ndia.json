@@ -1,0 +1,59 @@
+{
+  "emoji": "🇬🇱",
+  "nome": "🇬🇱 Bandeira: Groenlândia",
+  "categoria": "flag greenland",
+  "url": "https://emojigraph.org/pt/flag-greenland/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Groenlândia. Este símbolo é uma seqüência de caracteres 🇬 Símbolo Indicador Regional Letra G e 🇱 Símbolo Indicador Regional Letra L. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras GL em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-greenland_1f1ec-1f1f1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-greenland_1f1ec-1f1f1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-greenland_1f1ec-1f1f1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-greenland_1f1ec-1f1f1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-greenland_1f1ec-1f1f1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-greenland_1f1ec-1f1f1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-greenland_1f1ec-1f1f1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-greenland_1f1ec-1f1f1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1EC;&#x1F1F1;",
+      "HTML dec": "&#127468;&#127473;",
+      "URL escape code": "%F0%9F%87%AC%F0%9F%87%B1",
+      "Punycode": "xn--k77hka",
+      "Bytes (UTF-8)": "F0 9F 87 AC F0 9F 87 B1",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDEC\\uD83C\\uDDF1",
+      "C, C++, Python": "\\U0001f1ec\\U0001f1f1",
+      "CSS": "\\01F1EC \\01F1F1",
+      "PHP, Ruby": "\\u{1F1EC}\\u{1F1F1}",
+      "Perl": "\\x{1F1EC}\\x{1F1F1}"
+    }
+  }
+}

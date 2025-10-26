@@ -1,0 +1,61 @@
+{
+  "emoji": "💆",
+  "nome": "💆‍♂️ Homem recebendo massagem facial",
+  "categoria": "Man Getting Massage",
+  "url": "https://emojigraph.org/pt/man-getting-massage/",
+  "detalhes": {
+    "explicacao": "A versão masculina do 💆 Massagem facial emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-getting-massage_1f486-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-getting-massage_1f486-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-getting-massage_1f486-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-getting-massage_1f486-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-getting-massage_1f486-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-getting-massage_1f486-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-getting-massage_1f486-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-getting-massage_1f486-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "homem",
+      "massagem",
+      "relaxamento"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F486;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#128134;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%92%86%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5hx810o",
+      "Bytes (UTF-8)": "F0 9F 92 86 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC86\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f486\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F486 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F486}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F486}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

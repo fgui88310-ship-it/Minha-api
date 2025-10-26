@@ -1,0 +1,59 @@
+{
+  "emoji": "🇧🇶",
+  "nome": "🇧🇶 Bandeira: Países Baixos Caribenhos",
+  "categoria": "flag caribbean netherlands",
+  "url": "https://emojigraph.org/pt/flag-caribbean-netherlands/",
+  "detalhes": {
+    "explicacao": "O Caribe, países baixos, um grupo de ilhas no Mar do Caribe. O projeto para este emoji é mostrado como a bandeira para Bonaire na maioria das plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-caribbean-netherlands_1f1e7-1f1f6.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-caribbean-netherlands_1f1e7-1f1f6.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-caribbean-netherlands_1f1e7-1f1f6.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-caribbean-netherlands_1f1e7-1f1f6.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-caribbean-netherlands_1f1e7-1f1f6.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-caribbean-netherlands_1f1e7-1f1f6.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-caribbean-netherlands_1f1e7-1f1f6.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-caribbean-netherlands_1f1e7-1f1f6.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E7;&#x1F1F6;",
+      "HTML dec": "&#127463;&#127478;",
+      "URL escape code": "%F0%9F%87%A7%F0%9F%87%B6",
+      "Punycode": "xn--f77h4a",
+      "Bytes (UTF-8)": "F0 9F 87 A7 F0 9F 87 B6",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE7\\uD83C\\uDDF6",
+      "C, C++, Python": "\\U0001f1e7\\U0001f1f6",
+      "CSS": "\\01F1E7 \\01F1F6",
+      "PHP, Ruby": "\\u{1F1E7}\\u{1F1F6}",
+      "Perl": "\\x{1F1E7}\\x{1F1F6}"
+    }
+  }
+}

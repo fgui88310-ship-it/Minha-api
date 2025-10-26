@@ -1,0 +1,94 @@
+{
+  "emoji": "🏈",
+  "nome": "🏈 Bola de futebol americano",
+  "categoria": "american football",
+  "url": "https://emojigraph.org/pt/american-football/",
+  "detalhes": {
+    "explicacao": "A bola oval usada no jogo de futebol americano, conhecida como grelha em alguns países.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/american-football_1f3c8.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/american-football_1f3c8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "americano",
+      "bola",
+      "esporte",
+      "super bowl"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3C8;",
+      "HTML dec": "&#127944;",
+      "URL escape code": "%F0%9F%8F%88",
+      "Punycode": "xn--5l8h",
+      "Bytes (UTF-8)": "F0 9F 8F 88",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFC8",
+      "C, C++, Python": "\\U0001f3c8",
+      "CSS": "\\01F3C8",
+      "PHP, Ruby": "\\u{1F3C8}",
+      "Perl": "\\x{1F3C8}"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "🧕",
+  "nome": "🧕 Mulher com véu",
+  "categoria": "Woman With Headscarf",
+  "url": "https://emojigraph.org/pt/woman-with-headscarf/",
+  "detalhes": {
+    "explicacao": "Uma pessoa (geralmente retratada como uma mulher) usar um lenço na cabeça. Enquanto o tipo de véu não está especificado, isto é mais comumente apresentada como uma mulher usando um hijab.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-with-headscarf_1f9d5.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-with-headscarf_1f9d5.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-with-headscarf_1f9d5.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-with-headscarf_1f9d5.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-with-headscarf_1f9d5.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-with-headscarf_1f9d5.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-with-headscarf_1f9d5.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-with-headscarf_1f9d5.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-with-headscarf_1f9d5.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-with-headscarf_1f9d5.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "hijab",
+      "lenço",
+      "mulher com véu"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9D5;",
+      "HTML dec": "&#129493;",
+      "URL escape code": "%F0%9F%A7%95",
+      "Punycode": "xn--fv9h",
+      "Bytes (UTF-8)": "F0 9F A7 95",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDD5",
+      "C, C++, Python": "\\U0001f9d5",
+      "CSS": "\\01F9D5",
+      "PHP, Ruby": "\\u{1F9D5}",
+      "Perl": "\\x{1F9D5}"
+    }
+  }
+}

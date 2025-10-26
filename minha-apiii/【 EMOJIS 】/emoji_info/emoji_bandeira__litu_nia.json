@@ -1,0 +1,59 @@
+{
+  "emoji": "🇱🇹",
+  "nome": "🇱🇹 Bandeira: Lituânia",
+  "categoria": "flag lithuania",
+  "url": "https://emojigraph.org/pt/flag-lithuania/",
+  "detalhes": {
+    "explicacao": "A bandeira nacional da Lituânia. Este símbolo é uma seqüência de caracteres 🇱 Símbolo Indicador Regional Letra L e 🇹 Símbolo Indicador Regional Letra T. Estes são exibidos como um único emoji em plataformas suportadas, e podem ser exibidos como as letras LT em algumas plataformas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-lithuania_1f1f1-1f1f9.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-lithuania_1f1f1-1f1f9.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-lithuania_1f1f1-1f1f9.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-lithuania_1f1f1-1f1f9.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-lithuania_1f1f1-1f1f9.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-lithuania_1f1f1-1f1f9.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-lithuania_1f1f1-1f1f9.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-lithuania_1f1f1-1f1f9.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1F1;&#x1F1F9;",
+      "HTML dec": "&#127473;&#127481;",
+      "URL escape code": "%F0%9F%87%B1%F0%9F%87%B9",
+      "Punycode": "xn--p77hqa",
+      "Bytes (UTF-8)": "F0 9F 87 B1 F0 9F 87 B9",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDF1\\uD83C\\uDDF9",
+      "C, C++, Python": "\\U0001f1f1\\U0001f1f9",
+      "CSS": "\\01F1F1 \\01F1F9",
+      "PHP, Ruby": "\\u{1F1F1}\\u{1F1F9}",
+      "Perl": "\\x{1F1F1}\\x{1F1F9}"
+    }
+  }
+}

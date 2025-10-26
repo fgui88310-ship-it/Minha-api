@@ -1,0 +1,68 @@
+{
+  "emoji": "🤵",
+  "nome": "🤵‍♂️ Homem de smoking",
+  "categoria": "man in tuxedo",
+  "url": "https://emojigraph.org/pt/man-in-tuxedo/",
+  "detalhes": {
+    "explicacao": "O Homem de Smoking emoji é uma sequência do 🤵 Homem de Smoking e ♂ Masculino Sinal de emojis.Estas são combinadas usando uma largura diferente de zero, de união entre cada personagem e apresentar-se como um único emoji em plataformas suportadas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/man-in-tuxedo_1f935-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/man-in-tuxedo_1f935-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/man-in-tuxedo_1f935-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/man-in-tuxedo_1f935-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/man-in-tuxedo_1f935-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/man-in-tuxedo_1f935-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/man-in-tuxedo_1f935-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/man-in-tuxedo_1f935-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/man-in-tuxedo_1f935-200d-2642-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/man-in-tuxedo_1f935-200d-2642-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "homem",
+      "smoking"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F935;&#x200D;&#x2642;&#xFE0F;",
+      "HTML dec": "&#129333;&#8205;&#9794;&#65039;",
+      "URL escape code": "%F0%9F%A4%B5%E2%80%8D%E2%99%82%EF%B8%8F",
+      "Punycode": "xn--g5h1981o",
+      "Bytes (UTF-8)": "F0 9F A4 B5 E2 80 8D E2 99 82 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83E\\uDD35\\u200D\\u2642\\uFE0F",
+      "C, C++, Python": "\\U0001f935\\u200D\\u2642\\uFE0F",
+      "CSS": "\\01F935 \\200D \\2642 \\FE0F",
+      "PHP, Ruby": "\\u{1F935}\\u{200D}\\u{2642}\\u{FE0F}",
+      "Perl": "\\x{1F935}\\x{200D}\\x{2642}\\x{FE0F}"
+    }
+  }
+}

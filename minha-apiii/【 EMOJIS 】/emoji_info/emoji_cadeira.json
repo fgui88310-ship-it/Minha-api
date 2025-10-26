@@ -1,0 +1,69 @@
+{
+  "emoji": "🪑",
+  "nome": "🪑 Cadeira",
+  "categoria": "Chair",
+  "url": "https://emojigraph.org/pt/chair/",
+  "detalhes": {
+    "explicacao": "Uma cadeira para sentar em uma mesa, ou em uma autônomo localização. Materiais pode variar, em madeira, com uma escolha comum.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/chair_1fa91.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/chair_1fa91.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/chair_1fa91.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/chair_1fa91.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/chair_1fa91.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/chair_1fa91.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/chair_1fa91.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/chair_1fa91.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/chair_1fa91.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/chair_1fa91.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "assento",
+      "cadeira",
+      "sentar"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA91;",
+      "HTML dec": "&#129681;",
+      "URL escape code": "%F0%9F%AA%91",
+      "Punycode": "xn--s09h",
+      "Bytes (UTF-8)": "F0 9F AA 91",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE91",
+      "C, C++, Python": "\\U0001fa91",
+      "CSS": "\\01FA91",
+      "PHP, Ruby": "\\u{1FA91}",
+      "Perl": "\\x{1FA91}"
+    }
+  }
+}

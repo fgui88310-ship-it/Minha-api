@@ -1,0 +1,92 @@
+{
+  "emoji": "📌",
+  "nome": "📌 Tacha",
+  "categoria": "Pushpin",
+  "url": "https://emojigraph.org/pt/pushpin/",
+  "detalhes": {
+    "explicacao": "Uma tacha para prender, usado para fixar documentos em um boletim (aviso) e conselhos da administração. Retratado em um ângulo de 45° com sua cabeça vermelha para o canto superior direito.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/pushpin_1f4cc.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/pushpin_1f4cc.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "alfinete",
+      "tacha"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4CC;",
+      "HTML dec": "&#128204;",
+      "URL escape code": "%F0%9F%93%8C",
+      "Punycode": "xn--lt8h",
+      "Bytes (UTF-8)": "F0 9F 93 8C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCCC",
+      "C, C++, Python": "\\U0001f4cc",
+      "CSS": "\\01F4CC",
+      "PHP, Ruby": "\\u{1F4CC}",
+      "Perl": "\\x{1F4CC}"
+    }
+  }
+}

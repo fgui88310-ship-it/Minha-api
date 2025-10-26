@@ -1,0 +1,74 @@
+{
+  "emoji": "🧱",
+  "nome": "🧱 Tijolo",
+  "categoria": "Brick",
+  "url": "https://emojigraph.org/pt/brick/",
+  "detalhes": {
+    "explicacao": "Um tijolo vermelho ou tijolos. Retratado em um frouxo de pilha, um único objeto, com buracos, ou embutido em parede, como de uma casa, escola, ou de outra estrutura.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/brick_1f9f1.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/brick_1f9f1.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/brick_1f9f1.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/brick_1f9f1.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/brick_1f9f1.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/brick_1f9f1.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/brick_1f9f1.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/brick_1f9f1.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/brick_1f9f1.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/brick_1f9f1.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "argamassa",
+      "argila",
+      "muro",
+      "parede",
+      "tijolo",
+      "tijolos",
+      "cimento",
+      "terra"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9F1;",
+      "HTML dec": "&#129521;",
+      "URL escape code": "%F0%9F%A7%B1",
+      "Punycode": "xn--7v9h",
+      "Bytes (UTF-8)": "F0 9F A7 B1",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDF1",
+      "C, C++, Python": "\\U0001f9f1",
+      "CSS": "\\01F9F1",
+      "PHP, Ruby": "\\u{1F9F1}",
+      "Perl": "\\x{1F9F1}"
+    }
+  }
+}

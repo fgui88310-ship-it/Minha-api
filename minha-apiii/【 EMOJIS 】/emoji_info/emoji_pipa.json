@@ -1,0 +1,70 @@
+{
+  "emoji": "🪁",
+  "nome": "🪁 Pipa",
+  "categoria": "Kite",
+  "url": "https://emojigraph.org/pt/kite/",
+  "detalhes": {
+    "explicacao": "Uma pipa colorida com sua cauda fluindo atrás. Freqüentemente usado em seu significado direto. Pipa foi aprovado como parte do Unicode 12.0 em 2019 e acrescentou para o Emoji 12.0 em 2019.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/kite_1fa81.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/kite_1fa81.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/kite_1fa81.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/kite_1fa81.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/kite_1fa81.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/kite_1fa81.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/kite_1fa81.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/kite_1fa81.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/kite_1fa81.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/kite_1fa81.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "pipa",
+      "planar",
+      "voar",
+      "papagaio"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA81;",
+      "HTML dec": "&#129665;",
+      "URL escape code": "%F0%9F%AA%81",
+      "Punycode": "xn--c09h",
+      "Bytes (UTF-8)": "F0 9F AA 81",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE81",
+      "C, C++, Python": "\\U0001fa81",
+      "CSS": "\\01FA81",
+      "PHP, Ruby": "\\u{1FA81}",
+      "Perl": "\\x{1FA81}"
+    }
+  }
+}

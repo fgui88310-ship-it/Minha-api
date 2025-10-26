@@ -1,0 +1,71 @@
+{
+  "emoji": "🏐",
+  "nome": "🏐 Bola de vôlei",
+  "categoria": "volleyball",
+  "url": "https://emojigraph.org/pt/volleyball/",
+  "detalhes": {
+    "explicacao": "Uma bola de vôlei emoji, mostrando a bola redonda utilizados no esporte. Jogou como parte dos Jogos Olímpicos de Verão.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/volleyball_1f3d0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/volleyball_1f3d0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/volleyball_1f3d0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/volleyball_1f3d0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/volleyball_1f3d0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/volleyball_1f3d0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/volleyball_1f3d0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/volleyball_1f3d0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/volleyball_1f3d0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/volleyball_1f3d0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "bola de vôlei",
+      "jogo",
+      "jogar",
+      "vôlei"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3D0;",
+      "HTML dec": "&#127952;",
+      "URL escape code": "%F0%9F%8F%90",
+      "Punycode": "xn--em8h",
+      "Bytes (UTF-8)": "F0 9F 8F 90",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFD0",
+      "C, C++, Python": "\\U0001f3d0",
+      "CSS": "\\01F3D0",
+      "PHP, Ruby": "\\u{1F3D0}",
+      "Perl": "\\x{1F3D0}"
+    }
+  }
+}

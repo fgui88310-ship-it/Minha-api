@@ -1,0 +1,70 @@
+{
+  "emoji": "👷",
+  "nome": "👷‍♀️ Pedreira",
+  "categoria": "Woman Construction Worker",
+  "url": "https://emojigraph.org/pt/woman-construction-worker/",
+  "detalhes": {
+    "explicacao": "A versão feminina do 👷 Trabalhador da Construção civil, emoji.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/woman-construction-worker_1f477-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/woman-construction-worker_1f477-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/woman-construction-worker_1f477-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/woman-construction-worker_1f477-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/woman-construction-worker_1f477-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/woman-construction-worker_1f477-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/woman-construction-worker_1f477-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/woman-construction-worker_1f477-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/woman-construction-worker_1f477-200d-2640-fe0f.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/woman-construction-worker_1f477-200d-2640-fe0f.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "construção",
+      "mulher",
+      "operária",
+      "pedreira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F477;&#x200D;&#x2640;&#xFE0F;",
+      "HTML dec": "&#128119;&#8205;&#9792;&#65039;",
+      "URL escape code": "%F0%9F%91%B7%E2%80%8D%E2%99%80%EF%B8%8F",
+      "Punycode": "xn--e5hz610o",
+      "Bytes (UTF-8)": "F0 9F 91 B7 E2 80 8D E2 99 80 EF B8 8F",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC77\\u200D\\u2640\\uFE0F",
+      "C, C++, Python": "\\U0001f477\\u200D\\u2640\\uFE0F",
+      "CSS": "\\01F477 \\200D \\2640 \\FE0F",
+      "PHP, Ruby": "\\u{1F477}\\u{200D}\\u{2640}\\u{FE0F}",
+      "Perl": "\\x{1F477}\\x{200D}\\x{2640}\\x{FE0F}"
+    }
+  }
+}

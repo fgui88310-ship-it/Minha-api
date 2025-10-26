@@ -1,0 +1,95 @@
+{
+  "emoji": "🏠",
+  "nome": "🏠 Casa",
+  "categoria": "House",
+  "url": "https://emojigraph.org/pt/house/",
+  "detalhes": {
+    "explicacao": "Uma casa, também conhecido moradia, quando alguém está a viver nele. Adequado para um casal ou uma família maior, ou, talvez, colegas de casa.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/house_1f3e0.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/house_1f3e0.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "casa",
+      "construção",
+      "domicílio",
+      "lar",
+      "residência"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3E0;",
+      "HTML dec": "&#127968;",
+      "URL escape code": "%F0%9F%8F%A0",
+      "Punycode": "xn--um8h",
+      "Bytes (UTF-8)": "F0 9F 8F A0",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFE0",
+      "C, C++, Python": "\\U0001f3e0",
+      "CSS": "\\01F3E0",
+      "PHP, Ruby": "\\u{1F3E0}",
+      "Perl": "\\x{1F3E0}"
+    }
+  }
+}

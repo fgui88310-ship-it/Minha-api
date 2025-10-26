@@ -1,0 +1,94 @@
+{
+  "emoji": "🎁",
+  "nome": "🎁 Presente",
+  "categoria": "Wrapped Gift",
+  "url": "https://emojigraph.org/pt/wrapped-gift/",
+  "detalhes": {
+    "explicacao": "Um presente ou presente em uma caixa amarrada com um laço, como um aniversário ou de Natal. Caixa e fita de cor variam entre plataformas, mas comumente representada como uma caixa de ouro com uma tampa envolvida com uma fita vermelha.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/wrapped-gift_1f381.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/wrapped-gift_1f381.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comemoração",
+      "embrulhado",
+      "mimo",
+      "presente"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F381;",
+      "HTML dec": "&#127873;",
+      "URL escape code": "%F0%9F%8E%81",
+      "Punycode": "xn--4j8h",
+      "Bytes (UTF-8)": "F0 9F 8E 81",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF81",
+      "C, C++, Python": "\\U0001f381",
+      "CSS": "\\01F381",
+      "PHP, Ruby": "\\u{1F381}",
+      "Perl": "\\x{1F381}"
+    }
+  }
+}

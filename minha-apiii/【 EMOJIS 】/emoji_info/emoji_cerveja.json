@@ -1,0 +1,98 @@
+{
+  "emoji": "🍺",
+  "nome": "🍺 Cerveja",
+  "categoria": "Beer Mug",
+  "url": "https://emojigraph.org/pt/beer-mug/",
+  "detalhes": {
+    "explicacao": "Uma cerveja, como um de ouro cor-de-lager, em um gelado caneca. Representado com um espumante cabeça transbordando a borda. Clinking Canecas é uma variação que apresenta duas canecas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/beer-mug_1f37a.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/beer-mug_1f37a.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bar",
+      "caneca",
+      "cerveja",
+      "chopp",
+      "bebida",
+      "gelada",
+      "happy hour",
+      "restaurante"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F37A;",
+      "HTML dec": "&#127866;",
+      "URL escape code": "%F0%9F%8D%BA",
+      "Punycode": "xn--xj8h",
+      "Bytes (UTF-8)": "F0 9F 8D BA",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF7A",
+      "C, C++, Python": "\\U0001f37a",
+      "CSS": "\\01F37A",
+      "PHP, Ruby": "\\u{1F37A}",
+      "Perl": "\\x{1F37A}"
+    }
+  }
+}

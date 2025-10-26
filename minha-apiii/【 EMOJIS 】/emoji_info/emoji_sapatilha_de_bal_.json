@@ -1,0 +1,70 @@
+{
+  "emoji": "🩰",
+  "nome": "🩰 Sapatilha de balé",
+  "categoria": "ballet shoes",
+  "url": "https://emojigraph.org/pt/ballet-shoes/",
+  "detalhes": {
+    "explicacao": "Uma sapatilha de pontas desgastadas pelos bailarinos quando da execução de pointe de trabalho.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ballet-shoes_1fa70.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ballet-shoes_1fa70.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ballet-shoes_1fa70.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ballet-shoes_1fa70.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ballet-shoes_1fa70.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ballet-shoes_1fa70.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ballet-shoes_1fa70.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ballet-shoes_1fa70.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ballet-shoes_1fa70.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/ballet-shoes_1fa70.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "balé",
+      "dança",
+      "bailarina",
+      "bailarino"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA70;",
+      "HTML dec": "&#129648;",
+      "URL escape code": "%F0%9F%A9%B0",
+      "Punycode": "xn--uz9h",
+      "Bytes (UTF-8)": "F0 9F A9 B0",
+      "JavaScript, JSON, Java": "\\uD83E\\uDE70",
+      "C, C++, Python": "\\U0001fa70",
+      "CSS": "\\01FA70",
+      "PHP, Ruby": "\\u{1FA70}",
+      "Perl": "\\x{1FA70}"
+    }
+  }
+}

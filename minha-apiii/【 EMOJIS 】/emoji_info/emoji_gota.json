@@ -1,0 +1,95 @@
+{
+  "emoji": "💧",
+  "nome": "💧 Gota",
+  "categoria": "Droplet",
+  "url": "https://emojigraph.org/pt/droplet/",
+  "detalhes": {
+    "explicacao": "Uma única gota de luz azul, como de água, suor ou lágrimas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/droplet_1f4a7.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/droplet_1f4a7.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "com suor",
+      "engraçado",
+      "gota",
+      "gota de suor",
+      "suor"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F4A7;",
+      "HTML dec": "&#128167;",
+      "URL escape code": "%F0%9F%92%A7",
+      "Punycode": "xn--js8h",
+      "Bytes (UTF-8)": "F0 9F 92 A7",
+      "JavaScript, JSON, Java": "\\uD83D\\uDCA7",
+      "C, C++, Python": "\\U0001f4a7",
+      "CSS": "\\01F4A7",
+      "PHP, Ruby": "\\u{1F4A7}",
+      "Perl": "\\x{1F4A7}"
+    }
+  }
+}

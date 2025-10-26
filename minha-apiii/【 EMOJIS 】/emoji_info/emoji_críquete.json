@@ -1,0 +1,71 @@
+{
+  "emoji": "🏏",
+  "nome": "🏏 Críquete",
+  "categoria": "Cricket Game",
+  "url": "https://emojigraph.org/pt/cricket-game/",
+  "detalhes": {
+    "explicacao": "Um bastão de críquete, com uma bola de críquete também mostrado. Pode ser exibido com um wicket presente.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/cricket-game_1f3cf.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/cricket-game_1f3cf.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/cricket-game_1f3cf.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/cricket-game_1f3cf.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/cricket-game_1f3cf.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/cricket-game_1f3cf.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/cricket-game_1f3cf.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/cricket-game_1f3cf.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/cricket-game_1f3cf.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/cricket-game_1f3cf.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bola",
+      "críquete",
+      "jogo",
+      "taco",
+      "betes"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F3CF;",
+      "HTML dec": "&#127951;",
+      "URL escape code": "%F0%9F%8F%8F",
+      "Punycode": "xn--dm8h",
+      "Bytes (UTF-8)": "F0 9F 8F 8F",
+      "JavaScript, JSON, Java": "\\uD83C\\uDFCF",
+      "C, C++, Python": "\\U0001f3cf",
+      "CSS": "\\01F3CF",
+      "PHP, Ruby": "\\u{1F3CF}",
+      "Perl": "\\x{1F3CF}"
+    }
+  }
+}

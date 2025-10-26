@@ -1,0 +1,96 @@
+{
+  "emoji": "🍁",
+  "nome": "🍁 Folha de bordo",
+  "categoria": "maple leaf",
+  "url": "https://emojigraph.org/pt/maple-leaf/",
+  "detalhes": {
+    "explicacao": "A folha da árvore de bordo. Descrito como um folha de bordo laranja-avermelhada, como a mudança de estação outono e a mudança de cor, com cinco pontas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/maple-leaf_1f341.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/maple-leaf_1f341.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "folha",
+      "folha caída",
+      "folha de bordo",
+      "folha vermelha",
+      "maple",
+      "outono"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F341;",
+      "HTML dec": "&#127809;",
+      "URL escape code": "%F0%9F%8D%81",
+      "Punycode": "xn--bi8h",
+      "Bytes (UTF-8)": "F0 9F 8D 81",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF41",
+      "C, C++, Python": "\\U0001f341",
+      "CSS": "\\01F341",
+      "PHP, Ruby": "\\u{1F341}",
+      "Perl": "\\x{1F341}"
+    }
+  }
+}

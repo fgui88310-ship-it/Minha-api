@@ -1,0 +1,92 @@
+{
+  "emoji": "🎇",
+  "nome": "🎇 Vela estrela",
+  "categoria": "Sparkler",
+  "url": "https://emojigraph.org/pt/sparkler/",
+  "detalhes": {
+    "explicacao": "Um brilho: uma forma de fogos-de-artifício, muitas vezes, usados em festas e celebrações. O brilho é aceso em uma extremidade, e na outra.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/sparkler_1f387.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/sparkler_1f387.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "comemoração",
+      "vela estrela"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F387;",
+      "HTML dec": "&#127879;",
+      "URL escape code": "%F0%9F%8E%87",
+      "Punycode": "xn--bk8h",
+      "Bytes (UTF-8)": "F0 9F 8E 87",
+      "JavaScript, JSON, Java": "\\uD83C\\uDF87",
+      "C, C++, Python": "\\U0001f387",
+      "CSS": "\\01F387",
+      "PHP, Ruby": "\\u{1F387}",
+      "Perl": "\\x{1F387}"
+    }
+  }
+}

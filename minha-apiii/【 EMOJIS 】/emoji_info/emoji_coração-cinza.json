@@ -1,0 +1,79 @@
+{
+  "emoji": "🩶",
+  "nome": "🩶 Coração cinza",
+  "categoria": "Grey Heart",
+  "url": "https://emojigraph.org/pt/grey-heart/",
+  "detalhes": {
+    "explicacao": "Uma imagem de desenho animado de um coração na cor cinza ou prata pode ser usada para expressar amor, carinho, amizade ou a própria cor cinza ou prata.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/grey-heart_1fa76.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/grey-heart_1fa76.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/grey-heart_1fa76.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/grey-heart_1fa76.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/grey-heart_1fa76.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/grey-heart_1fa76.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/grey-heart_1fa76.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/grey-heart_1fa76.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/grey-heart_1fa76.png"
+      },
+      {
+        "plataforma": "Emojipedia",
+        "urlImagem": "/media/emojipedia/grey-heart_1fa76.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "ardósia",
+      "cinza",
+      "coração",
+      "prata",
+      "adorar",
+      "adorei",
+      "amo você",
+      "amor",
+      "emoção",
+      "especial",
+      "eu te amo",
+      "gostar",
+      "gostei",
+      "te amo"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1FA76;",
+      "HTML dec": "&#129654;",
+      "URL escape code": "%F0%9F%A9%B6",
+      "Bytes (UTF-8)": "f0 9f a9 b6",
+      "JavaScript, JSON, Java": "\\ud83e\\ude76",
+      "C, C++, Python": "\\U0001fa76",
+      "CSS": "\\01FA76",
+      "PHP, Ruby": "\\u{1FA76}",
+      "Perl": "\\x{1FA76}"
+    }
+  }
+}

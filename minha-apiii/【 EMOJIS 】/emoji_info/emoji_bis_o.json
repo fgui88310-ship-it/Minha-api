@@ -1,0 +1,63 @@
+{
+  "emoji": "🦬",
+  "nome": "🦬 Bisão",
+  "categoria": "bison",
+  "url": "https://emojigraph.org/pt/bison/",
+  "detalhes": {
+    "explicacao": "Bison foi aprovado como parte do Unicode 13.0 em 2020e acrescentou para o Emoji 13.0 em 2020.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/bison_1f9ac.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/bison_1f9ac.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/bison_1f9ac.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/bison_1f9ac.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/bison_1f9ac.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/bison_1f9ac.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/bison_1f9ac.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/bison_1f9ac.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bisão",
+      "bisonte",
+      "búfalo",
+      "rebanho",
+      "animal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F9AC;",
+      "HTML dec": "&#129452;",
+      "URL escape code": "%F0%9F%A6%AC",
+      "Punycode": "xn--8t9h",
+      "Bytes (UTF-8)": "F0 9F A6 AC",
+      "JavaScript, JSON, Java": "\\uD83E\\uDDAC",
+      "C, C++, Python": "\\U0001f9ac",
+      "CSS": "\\01F9AC",
+      "PHP, Ruby": "\\u{1F9AC}",
+      "Perl": "\\x{1F9AC}"
+    }
+  }
+}

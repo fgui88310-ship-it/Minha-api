@@ -1,0 +1,59 @@
+{
+  "emoji": "🇦🇨",
+  "nome": "🇦🇨 Bandeira: Ilha de Ascensão",
+  "categoria": "flag ascension island",
+  "url": "https://emojigraph.org/pt/flag-ascension-island/",
+  "detalhes": {
+    "explicacao": "A bandeira para a Ilha de Ascensão, que pode mostrar como as letras CA em algumas plataformas. Esta mesma bandeira é usada para santa Helena e Tristão Da Cunha.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/flag-ascension-island_1f1e6-1f1e8.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/flag-ascension-island_1f1e6-1f1e8.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/flag-ascension-island_1f1e6-1f1e8.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/flag-ascension-island_1f1e6-1f1e8.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/flag-ascension-island_1f1e6-1f1e8.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/flag-ascension-island_1f1e6-1f1e8.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/flag-ascension-island_1f1e6-1f1e8.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/flag-ascension-island_1f1e6-1f1e8.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "bandeira"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F1E6;&#x1F1E8;",
+      "HTML dec": "&#127462;&#127464;",
+      "URL escape code": "%F0%9F%87%A6%F0%9F%87%A8",
+      "Punycode": "xn--e77hea",
+      "Bytes (UTF-8)": "F0 9F 87 A6 F0 9F 87 A8",
+      "JavaScript, JSON, Java": "\\uD83C\\uDDE6\\uD83C\\uDDE8",
+      "C, C++, Python": "\\U0001f1e6\\U0001f1e8",
+      "CSS": "\\01F1E6 \\01F1E8",
+      "PHP, Ruby": "\\u{1F1E6}\\u{1F1E8}",
+      "Perl": "\\x{1F1E6}\\x{1F1E8}"
+    }
+  }
+}

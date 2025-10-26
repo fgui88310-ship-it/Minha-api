@@ -1,0 +1,86 @@
+{
+  "emoji": "🚂",
+  "nome": "🚂 Locomotiva",
+  "categoria": "Locomotive",
+  "url": "https://emojigraph.org/pt/locomotive/",
+  "detalhes": {
+    "explicacao": "Um trem a vapor, alimentadas pelo carvão ou madeira. Um primeiro tipo de locomotiva, agora, sobretudo, substituído pelo elétrico ou trens a diesel.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/locomotive_1f682.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/locomotive_1f682.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "locomotiva",
+      "trem",
+      "veículo",
+      "vapor"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F682;",
+      "HTML dec": "&#128642;",
+      "URL escape code": "%F0%9F%9A%82",
+      "Punycode": "xn--358h",
+      "Bytes (UTF-8)": "F0 9F 9A 82",
+      "JavaScript, JSON, Java": "\\uD83D\\uDE82",
+      "C, C++, Python": "\\U0001f682",
+      "CSS": "\\01F682",
+      "PHP, Ruby": "\\u{1F682}",
+      "Perl": "\\x{1F682}"
+    }
+  }
+}

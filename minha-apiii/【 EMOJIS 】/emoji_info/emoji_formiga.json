@@ -1,0 +1,93 @@
+{
+  "emoji": "🐜",
+  "nome": "🐜 Formiga",
+  "categoria": "Ant",
+  "url": "https://emojigraph.org/pt/ant/",
+  "detalhes": {
+    "explicacao": "Uma formiga, uma pequena, laborioso inseto que vive em uma colônia. Descrito como um preto ou vermelho formiga em perfil completo em suas seis pernas virada para a esquerda, com um proeminente abdômen e antenas.",
+    "imagens": [
+      {
+        "plataforma": "Apple",
+        "urlImagem": "/media/apple/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Google",
+        "urlImagem": "/media/google/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Facebook",
+        "urlImagem": "/media/facebook/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Twitter",
+        "urlImagem": "/media/twitter/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Samsung",
+        "urlImagem": "/media/samsung/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Microsoft",
+        "urlImagem": "/media/microsoft/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Whatsapp",
+        "urlImagem": "/media/whatsapp/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Messenger",
+        "urlImagem": "/media/messenger/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Joypixels",
+        "urlImagem": "/media/joypixels/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Openmoji",
+        "urlImagem": "/media/openmoji/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Emojidex",
+        "urlImagem": "/media/emojidex/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Htc",
+        "urlImagem": "/media/htc/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Lg",
+        "urlImagem": "/media/lg/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Mozilla",
+        "urlImagem": "/media/mozilla/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Softbank",
+        "urlImagem": "/media/softbank/ant_1f41c.png"
+      },
+      {
+        "plataforma": "Au-Kddi",
+        "urlImagem": "/media/au-kddi/ant_1f41c.png"
+      }
+    ],
+    "nomesAlternativos": [],
+    "tags": [
+      "formiga",
+      "inseto",
+      "animal"
+    ],
+    "codigos": {
+      "HTML hex": "&#x1F41C;",
+      "HTML dec": "&#128028;",
+      "URL escape code": "%F0%9F%90%9C",
+      "Punycode": "xn--ko8h",
+      "Bytes (UTF-8)": "F0 9F 90 9C",
+      "JavaScript, JSON, Java": "\\uD83D\\uDC1C",
+      "C, C++, Python": "\\U0001f41c",
+      "CSS": "\\01F41C",
+      "PHP, Ruby": "\\u{1F41C}",
+      "Perl": "\\x{1F41C}"
+    }
+  }
+}
