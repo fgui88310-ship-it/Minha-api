@@ -1,9 +1,19 @@
+// api/endpoints/instagramstalker
+import express from 'express';
 import axios from 'axios';
 import { writeFile } from 'fs/promises';
 
-async function getProfileInfo(username) {
+const router = express.Router();
+
+router.get('/', async (req, res, next) => {
+  const { username } = req.query;
+
+  if (!username) {
+    return res.status(400).json({ error: 'Passe ?username= para buscar perfil do Instagram' });
+  }
+
   try {
-    // Cookies do arquivo Netscape
+    // Cookies do arquivo Netscape (substitua com valores válidos)
     const cookies = {
       csrftoken: 'ze3Joi-UMsSxvis7k0BYVN',
       datr: 'tI7-aPkn8aOZQLa2hLifLx_-',
@@ -33,15 +43,15 @@ async function getProfileInfo(username) {
     // Delay anti-ban
     await new Promise(resolve => setTimeout(resolve, 5000 + Math.random() * 3000));
 
-    // Requisição à endpoint do Instaloader
-    const response = await axios.get(`https://i.instagram.com/api/v1/users/web_profile_info/?username=${username}`, {
+    // Requisição à endpoint do Instagram
+    const response = await axios.get(`https://i.instagram.com/api/v1/users/web_profile_info/?username=${encodeURIComponent(username)}`, {
       headers,
       timeout: 10000,
     });
 
     const userData = response.data.data.user;
     if (!userData) {
-      throw new Error(`Perfil ${username} não encontrado`);
+      return res.status(404).json({ error: `Perfil ${username} não encontrado` });
     }
 
     // Extrai informações úteis
@@ -70,40 +80,15 @@ async function getProfileInfo(username) {
       category_name: userData.category_name || null,
     };
 
-    // Exibe informações úteis no console
-    console.log('=== Informações do Perfil ===');
-    console.log(`Username: ${profileInfo.username}`);
-    console.log(`Nome completo: ${profileInfo.full_name || 'Não informado'}`);
-    console.log(`Bio: ${profileInfo.biography || 'Sem bio'}`);
-    console.log(`Seguidores: ${profileInfo.followers}`);
-    console.log(`Seguindo: ${profileInfo.following}`);
-    console.log(`É conta de negócio? ${profileInfo.is_business_account ? 'Sim' : 'Não'}`);
-    console.log(`É privado? ${profileInfo.is_private ? 'Sim' : 'Não'}`);
-    console.log(`URL externa: ${profileInfo.external_url || 'Nenhuma'}`);
-    console.log(`Número de postagens: ${profileInfo.media_count}`);
-    console.log(`É verificado? ${profileInfo.is_verified ? 'Sim' : 'Não'}`);
-    console.log(`Foto de perfil: ${profileInfo.profile_pic_url || 'Nenhuma'}`);
-    console.log(`Foto de perfil (HD): ${profileInfo.profile_pic_url_hd || 'Nenhuma'}`);
-    console.log(`Tem clipes? ${profileInfo.has_clips ? 'Sim' : 'Não'}`);
-    console.log(`Tem guias? ${profileInfo.has_guides ? 'Sim' : 'Não'}`);
-    console.log(`Número de destaques: ${profileInfo.highlight_reel_count}`);
-    console.log(`Entrou recentemente? ${profileInfo.is_joined_recently ? 'Sim' : 'Não'}`);
-    console.log(`Embeds desativados? ${profileInfo.is_embeds_disabled ? 'Sim' : 'Não'}`);
-    console.log(`Pronomes: ${profileInfo.pronouns.length ? profileInfo.pronouns.join(', ') : 'Nenhum'}`);
-    console.log(`Tem canal? ${profileInfo.has_channel ? 'Sim' : 'Não'}`);
-    console.log(`Esconde likes e visualizações? ${profileInfo.hide_like_and_view_counts ? 'Sim' : 'Não'}`);
-    console.log(`Categoria de negócio: ${profileInfo.business_category_name || 'Nenhuma'}`);
-    console.log(`Categoria geral: ${profileInfo.category_name || 'Nenhuma'}`);
-
     // Salva JSON
     const jsonFilename = `perfil_${username}.json`;
     await writeFile(jsonFilename, JSON.stringify(profileInfo, null, 2), 'utf-8');
-    console.log(`\nSalvo em ${jsonFilename}`);
 
-    return profileInfo;
-  } catch (error) {
-    console.error(`Erro: ${error.message}`);
+    // Responde com as informações do perfil
+    res.json(profileInfo);
+  } catch (err) {
+    next(err);
   }
-}
+});
 
-getProfileInfo('guilherme993344');
+export default router;

@@ -608,12 +608,13 @@
 
 <div class="menu-item">
   <a href="#" class="menu-link" onclick="toggleSubmenu(this)">
-    <i class="fas fa-image"></i> Stalks
+    <i class="fas fa-user-secret"></i> Stalks
     <div class="menu-arrow"><i class="fas fa-chevron-right"></i></div>
   </a>
   <div class="submenu">
-  <a href="/api/tiktokstalker?username=John&apikey=SuaKey" class="submenu-link">CANVAS - MYNAME</a>
-  <a href="/api/levelup?level1=0&level2=10&url=https://i.ibb.co/bjbRMWCy/temp-1756652367464.jpg&apikey=SuaKey" class="submenu-link">CANVAS - LEVELUP</a>
+    <a href="/api/tiktokstalker?username=John&apikey=SuaKey" class="submenu-link">TIKTOK STALKER</a>
+    <a href="/api/tiktokstalker?username=John&apikey=SuaKey" class="submenu-link">INSTAGRAM STALKER</a>
+    </a>
   </div>
 </div>
       

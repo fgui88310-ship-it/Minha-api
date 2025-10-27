@@ -1,19 +1,117 @@
-// Se estiver usando Node.js 18+ o fetch já vem embutido
-// Se estiver usando versão anterior, instale node-fetch: npm install node-fetch
+import axios from 'axios';
+import { writeFile } from 'fs/promises';
 
-const url = 'https://space-apis.dscp.shop/api/canvas/music-card?thumbnail=https://files.catbox.moe/htf7ke.jpg&music_name=Yuxinze&artist_name=Apis&time_end=3:00&cor=azul&api_key=933b3d66a7';
-
-async function fetchPriceHistory() {
+async function getProfileInfo(username) {
   try {
-    const response = await fetch(url);
-    if (!response.ok) {
-      throw new Error(`Erro na requisição: ${response.status} ${response.statusText}`);
+    // Cookies do arquivo Netscape
+    const cookies = {
+      csrftoken: 'ze3Joi-UMsSxvis7k0BYVN',
+      datr: 'tI7-aPkn8aOZQLa2hLifLx_-',
+      ig_did: 'A7BF3E36-F3F9-475B-8BCA-27F40D4D9494',
+      dpr: '2',
+      mid: 'aP6OtAABAAFRQ-f0fBniM6a1rlre',
+      ds_user_id: '75804173736',
+      sessionid: '75804173736%3ARzJ4Al6P4jI88i%3A16%3AAYjPxlBWCOWIu_X09Z7Jqhnln35qNFM1xCSHDDXJBQ',
+      wd: '360x668',
+      rur: 'NHA,75804173736,1793106568:01feaefd8ff7c8a5ce6fa7d0d0d6d29389cb2c0897723a58a9a7dbf72ad0e266e4734d50',
+    };
+
+    const cookieString = Object.entries(cookies)
+      .map(([key, value]) => `${key}=${value}`)
+      .join('; ');
+
+    // Headers imitando o Instaloader
+    const headers = {
+      'User-Agent': 'Instagram 345.0.0.29.100 Android (30/11; 480dpi; 1080x2340; samsung; SM-G998B; beyond2; samsungexynos2100; pt_BR; 345000001)',
+      'X-IG-App-ID': '936619743392459',
+      'Accept-Language': 'pt-BR',
+      'Accept': 'application/json',
+      'Cookie': cookieString,
+      'Connection': 'keep-alive',
+    };
+
+    // Delay anti-ban
+    await new Promise(resolve => setTimeout(resolve, 5000 + Math.random() * 3000));
+
+    // Requisição à endpoint do Instaloader
+    const response = await axios.get(`https://i.instagram.com/api/v1/users/web_profile_info/?username=${username}`, {
+      headers,
+      timeout: 10000,
+    });
+
+    const userData = response.data.data.user;
+    if (!userData) {
+      throw new Error(`Perfil ${username} não encontrado`);
     }
-    const data = await response.json();
-    console.log('Dados recebidos:', data);
+
+    // Extrai informações úteis
+    const profileInfo = {
+      username: userData.username,
+      full_name: userData.full_name || '',
+      biography: userData.biography || '',
+      followers: userData.edge_followed_by.count,
+      following: userData.edge_follow.count,
+      is_business_account: userData.is_business_account,
+      is_private: userData.is_private,
+      external_url: userData.external_url || null,
+      media_count: userData.edge_owner_to_timeline_media.count,
+      is_verified: userData.is_verified,
+      profile_pic_url: userData.profile_pic_url || null,
+      profile_pic_url_hd: userData.profile_pic_url_hd || null,
+      has_clips: userData.has_clips,
+      has_guides: userData.has_guides,
+      highlight_reel_count: userData.highlight_reel_count,
+      is_joined_recently: userData.is_joined_recently,
+      is_embeds_disabled: userData.is_embeds_disabled,
+      blocked_by_viewer: userData.blocked_by_viewer,
+      follows_viewer: userData.follows_viewer,
+      followed_by_viewer: userData.followed_by_viewer,
+      has_requested_viewer: userData.has_requested_viewer,
+      pronouns: userData.pronouns || [],
+      has_channel: userData.has_channel,
+      hide_like_and_view_counts: userData.hide_like_and_view_counts,
+      business_category_name: userData.business_category_name || null,
+      category_name: userData.category_name || null,
+    };
+
+    // Exibe informações úteis no console
+    console.log('=== Informações do Perfil ===');
+    console.log(`Username: ${profileInfo.username}`);
+    console.log(`Nome completo: ${profileInfo.full_name || 'Não informado'}`);
+    console.log(`Bio: ${profileInfo.biography || 'Sem bio'}`);
+    console.log(`Seguidores: ${profileInfo.followers}`);
+    console.log(`Seguindo: ${profileInfo.following}`);
+    console.log(`É conta de negócio? ${profileInfo.is_business_account ? 'Sim' : 'Não'}`);
+    console.log(`É privado? ${profileInfo.is_private ? 'Sim' : 'Não'}`);
+    console.log(`URL externa: ${profileInfo.external_url || 'Nenhuma'}`);
+    console.log(`Número de postagens: ${profileInfo.media_count}`);
+    console.log(`É verificado? ${profileInfo.is_verified ? 'Sim' : 'Não'}`);
+    console.log(`Foto de perfil: ${profileInfo.profile_pic_url || 'Nenhuma'}`);
+    console.log(`Foto de perfil (HD): ${profileInfo.profile_pic_url_hd || 'Nenhuma'}`);
+    console.log(`Tem clipes? ${profileInfo.has_clips ? 'Sim' : 'Não'}`);
+    console.log(`Tem guias? ${profileInfo.has_guides ? 'Sim' : 'Não'}`);
+    console.log(`Número de destaques: ${profileInfo.highlight_reel_count}`);
+    console.log(`Entrou recentemente? ${profileInfo.is_joined_recently ? 'Sim' : 'Não'}`);
+    console.log(`Embeds desativados? ${profileInfo.is_embeds_disabled ? 'Sim' : 'Não'}`);
+    console.log(`Bloqueado por você? ${profileInfo.blocked_by_viewer ? 'Sim' : 'Não'}`);
+    console.log(`Segue você? ${profileInfo.follows_viewer ? 'Sim' : 'Não'}`);
+    console.log(`Você segue? ${profileInfo.followed_by_viewer ? 'Sim' : 'Não'}`);
+    console.log(`Você solicitou seguir? ${profileInfo.has_requested_viewer ? 'Sim' : 'Não'}`);
+    console.log(`Pronomes: ${profileInfo.pronouns.length ? profileInfo.pronouns.join(', ') : 'Nenhum'}`);
+    console.log(`Tem canal? ${profileInfo.has_channel ? 'Sim' : 'Não'}`);
+    console.log(`Esconde likes e visualizações? ${profileInfo.hide_like_and_view_counts ? 'Sim' : 'Não'}`);
+    console.log(`Categoria de negócio: ${profileInfo.business_category_name || 'Nenhuma'}`);
+    console.log(`Categoria geral: ${profileInfo.category_name || 'Nenhuma'}`);
+
+    // Salva JSON
+    const jsonFilename = `perfil_${username}.json`;
+    await writeFile(jsonFilename, JSON.stringify(profileInfo, null, 2), 'utf-8');
+    console.log(`\nSalvo em ${jsonFilename}`);
+
+    return profileInfo;
   } catch (error) {
-    console.error('Erro ao buscar dados:', error);
+    console.error(`Erro: ${error.message}`);
   }
 }
 
-fetchPriceHistory();
+getProfileInfo('guilherme993344');

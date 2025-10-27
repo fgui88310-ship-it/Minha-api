@@ -1,54 +1,91 @@
-// api/endpoints/amazon.js
+// api/endpoints/instagram.js
 import express from 'express';
 import axios from 'axios';
-import * as cheerio from 'cheerio';
+import { writeFile } from 'fs/promises';
 
 const router = express.Router();
 
 router.get('/', async (req, res, next) => {
-  const { query, limit = 5 } = req.query;
-  if (!query) return res.status(400).json({ error: 'Passe ?query= para buscar produtos' });
+  const { username } = req.query;
+
+  if (!username) {
+    return res.status(400).json({ error: 'Passe ?username= para buscar perfil do Instagram' });
+  }
 
   try {
-    const searchUrl = `https://www.amazon.com/s?k=${encodeURIComponent(query)}`;
-    const { data } = await axios.get(searchUrl, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-      },
-      timeout: 5000,
+    // Cookies do arquivo Netscape (substitua com valores válidos)
+    const cookies = {
+      csrftoken: 'ze3Joi-UMsSxvis7k0BYVN',
+      datr: 'tI7-aPkn8aOZQLa2hLifLx_-',
+      ig_did: 'A7BF3E36-F3F9-475B-8BCA-27F40D4D9494',
+      dpr: '2',
+      mid: 'aP6OtAABAAFRQ-f0fBniM6a1rlre',
+      ds_user_id: '75804173736',
+      sessionid: '75804173736%3ARzJ4Al6P4jI88i%3A16%3AAYjPxlBWCOWIu_X09Z7Jqhnln35qNFM1xCSHDDXJBQ',
+      wd: '360x668',
+      rur: 'NHA,75804173736,1793106568:01feaefd8ff7c8a5ce6fa7d0d0d6d29389cb2c0897723a58a9a7dbf72ad0e266e4734d50',
+    };
+
+    const cookieString = Object.entries(cookies)
+      .map(([key, value]) => `${key}=${value}`)
+      .join('; ');
+
+    // Headers imitando o Instaloader
+    const headers = {
+      'User-Agent': 'Instagram 345.0.0.29.100 Android (30/11; 480dpi; 1080x2340; samsung; SM-G998B; beyond2; samsungexynos2100; pt_BR; 345000001)',
+      'X-IG-App-ID': '936619743392459',
+      'Accept-Language': 'pt-BR',
+      'Accept': 'application/json',
+      'Cookie': cookieString,
+      'Connection': 'keep-alive',
+    };
+
+    // Delay anti-ban
+    await new Promise(resolve => setTimeout(resolve, 5000 + Math.random() * 3000));
+
+    // Requisição à endpoint do Instagram
+    const response = await axios.get(`https://i.instagram.com/api/v1/users/web_profile_info/?username=${encodeURIComponent(username)}`, {
+      headers,
+      timeout: 10000,
     });
 
-    const $ = cheerio.load(data);
-    const produtos = [];
+    const userData = response.data.data.user;
+    if (!userData) {
+      return res.status(404).json({ error: `Perfil ${username} não encontrado` });
+    }
 
-    $('div.s-result-item.s-asin, div.puis-card-container').each((i, el) => {
-      if (produtos.length >= limit) return false; // Limita a quantidade
+    // Extrai informações úteis
+    const profileInfo = {
+      username: userData.username,
+      full_name: userData.full_name || '',
+      biography: userData.biography || '',
+      followers: userData.edge_followed_by.count,
+      following: userData.edge_follow.count,
+      is_business_account: userData.is_business_account,
+      is_private: userData.is_private,
+      external_url: userData.external_url || null,
+      media_count: userData.edge_owner_to_timeline_media.count,
+      is_verified: userData.is_verified,
+      profile_pic_url: userData.profile_pic_url || null,
+      profile_pic_url_hd: userData.profile_pic_url_hd || null,
+      has_clips: userData.has_clips,
+      has_guides: userData.has_guides,
+      highlight_reel_count: userData.highlight_reel_count,
+      is_joined_recently: userData.is_joined_recently,
+      is_embeds_disabled: userData.is_embeds_disabled,
+      pronouns: userData.pronouns || [],
+      has_channel: userData.has_channel,
+      hide_like_and_view_counts: userData.hide_like_and_view_counts,
+      business_category_name: userData.business_category_name || null,
+      category_name: userData.category_name || null,
+    };
 
-      const title = $(el).find('h2 span').text().trim();
-      let price = $(el).find('span.a-price:not(.a-text-price) > span.a-offscreen').first().text().trim();
-      if (!price) {
-        price = $(el).find('div[data-cy="secondary-offer-recipe"] span.a-color-base').first().text().trim() || 'Preço não disponível';
-      }
-      const link = $(el).find('a.a-link-normal.s-no-outline').attr('href');
-      const image = $(el).find('img.s-image').attr('src');
+    // Salva JSON
+    const jsonFilename = `perfil_${username}.json`;
+    await writeFile(jsonFilename, JSON.stringify(profileInfo, null, 2), 'utf-8');
 
-      // Validação básica
-      if (title && link && image) {
-        const shortLink = link.match(/\/dp\/[A-Z0-9]{10}/)
-          ? `https://www.amazon.com${link.match(/\/dp\/[A-Z0-9]{10}/)[0]}`
-          : `https://www.amazon.com${link}`;
-        produtos.push({
-          titulo: title.length > 100 ? title.substring(0, 97) + '...' : title,
-          valor: price,
-          link: shortLink,
-          imagem: image,
-        });
-      }
-    });
-
-    if (produtos.length === 0) return res.status(404).json({ error: 'Nenhum produto encontrado' });
-
-    res.json(produtos);
+    // Responde com as informações do perfil
+    res.json(profileInfo);
   } catch (err) {
     next(err);
   }

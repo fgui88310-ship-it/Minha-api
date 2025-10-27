@@ -76,6 +76,8 @@ import imdbRouter from './【 ROUTES 】/imdb.js';
 import aptoideRoute from './【 ROUTES 】/aptoide.js';
 import { errorHandler } from './【 MIDDLEWARE 】/errorHandler.js';
 import gameNewsRouter from './【 ROUTES 】/game-news.js';
+import express from 'express';
+import instagramStalkerRouter from './【 ROUTES 】/instagramstalker.js';
 
 // Substitui __dirname para ESM
 const __filename = fileURLToPath(import.meta.url);
@@ -115,6 +117,7 @@ app.use('/downloads', express.static(join(__dirname, 'downloads')));
 app.use('/api/animetv', animetvRouter);
 app.use('/api/levelup', levelupRouter);
 app.use('/api/banner', bannerRouter);
+app.use('/api/instagramstalker', instagramStalkerRouter);
 app.use('/api/metadinhas', metadinhasRouter);
 app.use('/api/game-news', gameNewsRouter);
 app.use('/api/sports', sportsRouter);
