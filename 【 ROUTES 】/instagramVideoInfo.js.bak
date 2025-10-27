@@ -1,7 +1,7 @@
 
 console.log("fui") 
 import express from 'express';
-import { downloadInstagramMedia } from '../【 DOWNLOADERS 】/instagramDownloader.js';
+import { downloadInstagramMedia, getInstagramStoryMetadata is} from '../【 DOWNLOADERS 】/instagramDownloader.js';
 import fs from 'fs';
 import path from 'path';
 const router = express.Router();
