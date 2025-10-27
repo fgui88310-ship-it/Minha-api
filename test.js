@@ -1,109 +1,102 @@
 import axios from 'axios';
-import { writeFile } from 'fs/promises';
 
-async function getProfileInfo(username) {
+// Lista de URLs de negócios/sites a serem testados
+const businessUrls = [
+  'https://pt.memedroid.com/',
+  'https://example.com/',
+  'https://another-site.com/',
+  // Adicione mais URLs de negócios aqui
+];
+
+// Lista de User-Agents para rotacionar
+const userAgents = [
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
+  'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0',
+];
+
+// Função para obter um User-Agent aleatório
+const getRandomUserAgent = () => {
+  return userAgents[Math.floor(Math.random() * userAgents.length)];
+};
+
+// Função para testar uma única URL
+const testUrl = async (url) => {
   try {
-    // Cookies do arquivo Netscape
-    const cookies = {
-      csrftoken: 'ze3Joi-UMsSxvis7k0BYVN',
-      datr: 'tI7-aPkn8aOZQLa2hLifLx_-',
-      ig_did: 'A7BF3E36-F3F9-475B-8BCA-27F40D4D9494',
-      dpr: '2',
-      mid: 'aP6OtAABAAFRQ-f0fBniM6a1rlre',
-      ds_user_id: '75804173736',
-      sessionid: '75804173736%3ARzJ4Al6P4jI88i%3A16%3AAYjPxlBWCOWIu_X09Z7Jqhnln35qNFM1xCSHDDXJBQ',
-      wd: '360x668',
-      rur: 'NHA,75804173736,1793106568:01feaefd8ff7c8a5ce6fa7d0d0d6d29389cb2c0897723a58a9a7dbf72ad0e266e4734d50',
-    };
-
-    const cookieString = Object.entries(cookies)
-      .map(([key, value]) => `${key}=${value}`)
-      .join('; ');
-
-    // Headers imitando o Instaloader
-    const headers = {
-      'User-Agent': 'Instagram 345.0.0.29.100 Android (30/11; 480dpi; 1080x2340; samsung; SM-G998B; beyond2; samsungexynos2100; pt_BR; 345000001)',
-      'X-IG-App-ID': '936619743392459',
-      'Accept-Language': 'pt-BR',
-      'Accept': 'application/json',
-      'Cookie': cookieString,
-      'Connection': 'keep-alive',
-    };
-
-    // Delay anti-ban
-    await new Promise(resolve => setTimeout(resolve, 5000 + Math.random() * 3000));
-
-    // Requisição à endpoint do Instaloader
-    const response = await axios.get(`https://i.instagram.com/api/v1/users/web_profile_info/?username=${username}`, {
-      headers,
-      timeout: 10000,
+    const response = await axios.get(url, {
+      headers: {
+        'User-Agent': getRandomUserAgent(),
+        'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
+        'Referer': 'https://www.google.com/',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Connection': 'keep-alive',
+      },
+      timeout: 10000, // Timeout de 10 segundos
     });
 
-    const userData = response.data.data.user;
-    if (!userData) {
-      throw new Error(`Perfil ${username} não encontrado`);
-    }
-
-    // Extrai informações úteis
-    const profileInfo = {
-      username: userData.username,
-      full_name: userData.full_name || '',
-      biography: userData.biography || '',
-      followers: userData.edge_followed_by.count,
-      following: userData.edge_follow.count,
-      is_business_account: userData.is_business_account,
-      is_private: userData.is_private,
-      external_url: userData.external_url || null,
-      media_count: userData.edge_owner_to_timeline_media.count,
-      is_verified: userData.is_verified,
-      profile_pic_url: userData.profile_pic_url || null,
-      profile_pic_url_hd: userData.profile_pic_url_hd || null,
-      has_clips: userData.has_clips,
-      has_guides: userData.has_guides,
-      highlight_reel_count: userData.highlight_reel_count,
-      is_joined_recently: userData.is_joined_recently,
-      is_embeds_disabled: userData.is_embeds_disabled,
-      pronouns: userData.pronouns || [],
-      has_channel: userData.has_channel,
-      hide_like_and_view_counts: userData.hide_like_and_view_counts,
-      business_category_name: userData.business_category_name || null,
-      category_name: userData.category_name || null,
+    // Se a requisição for bem-sucedida (status 200), o site não bloqueou
+    return {
+      url,
+      status: response.status,
+      blocked: false,
+      message: 'Requisição bem-sucedida',
     };
-
-    // Exibe informações úteis no console
-    console.log('=== Informações do Perfil ===');
-    console.log(`Username: ${profileInfo.username}`);
-    console.log(`Nome completo: ${profileInfo.full_name || 'Não informado'}`);
-    console.log(`Bio: ${profileInfo.biography || 'Sem bio'}`);
-    console.log(`Seguidores: ${profileInfo.followers}`);
-    console.log(`Seguindo: ${profileInfo.following}`);
-    console.log(`É conta de negócio? ${profileInfo.is_business_account ? 'Sim' : 'Não'}`);
-    console.log(`É privado? ${profileInfo.is_private ? 'Sim' : 'Não'}`);
-    console.log(`URL externa: ${profileInfo.external_url || 'Nenhuma'}`);
-    console.log(`Número de postagens: ${profileInfo.media_count}`);
-    console.log(`É verificado? ${profileInfo.is_verified ? 'Sim' : 'Não'}`);
-    console.log(`Foto de perfil: ${profileInfo.profile_pic_url || 'Nenhuma'}`);
-    console.log(`Foto de perfil (HD): ${profileInfo.profile_pic_url_hd || 'Nenhuma'}`);
-    console.log(`Tem clipes? ${profileInfo.has_clips ? 'Sim' : 'Não'}`);
-    console.log(`Tem guias? ${profileInfo.has_guides ? 'Sim' : 'Não'}`);
-    console.log(`Número de destaques: ${profileInfo.highlight_reel_count}`);
-    console.log(`Entrou recentemente? ${profileInfo.is_joined_recently ? 'Sim' : 'Não'}`);
-    console.log(`Embeds desativados? ${profileInfo.is_embeds_disabled ? 'Sim' : 'Não'}`);
-    console.log(`Pronomes: ${profileInfo.pronouns.length ? profileInfo.pronouns.join(', ') : 'Nenhum'}`);
-    console.log(`Tem canal? ${profileInfo.has_channel ? 'Sim' : 'Não'}`);
-    console.log(`Esconde likes e visualizações? ${profileInfo.hide_like_and_view_counts ? 'Sim' : 'Não'}`);
-    console.log(`Categoria de negócio: ${profileInfo.business_category_name || 'Nenhuma'}`);
-    console.log(`Categoria geral: ${profileInfo.category_name || 'Nenhuma'}`);
-
-    // Salva JSON
-    const jsonFilename = `perfil_${username}.json`;
-    await writeFile(jsonFilename, JSON.stringify(profileInfo, null, 2), 'utf-8');
-    console.log(`\nSalvo em ${jsonFilename}`);
-
-    return profileInfo;
-  } catch (error) {
-    console.error(`Erro: ${error.message}`);
+  } catch (err) {
+    // Verifica se o erro indica bloqueio (ex.: 403, 429, etc.)
+    const status = err.response ? err.response.status : 'N/A';
+    const blocked = [403, 429, 503].includes(status); // Status comuns para bloqueios
+    return {
+      url,
+      status,
+      blocked,
+      message: blocked
+        ? `Bloqueado (Status: ${status})`
+        : `Erro: ${err.message}`,
+    };
   }
-}
+};
 
-getProfileInfo('guilherme993344');
+// Função principal para testar todas as URLs
+const testAllBusinesses = async () => {
+  console.log('Iniciando testes de bloqueio de requisições...\n');
+  
+  const results = [];
+  
+  // Testa cada URL sequencialmente com um pequeno delay para evitar sobrecarga
+  for (const url of businessUrls) {
+    console.log(`Testando: ${url}`);
+    const result = await testUrl(url);
+    results.push(result);
+    
+    // Delay de 1 segundo entre requisições para evitar bloqueios por taxa
+    await new Promise((resolve) => setTimeout(resolve, 1000));
+  }
+
+  // Exibe os resultados
+  console.log('\nResultados dos testes:');
+  results.forEach((result) => {
+    console.log(`URL: ${result.url}`);
+    console.log(`Status: ${result.status}`);
+    console.log(`Bloqueado: ${result.blocked ? 'Sim' : 'Não'}`);
+    console.log(`Mensagem: ${result.message}`);
+    console.log('---');
+  });
+
+  // Filtra e exibe apenas os sites que não bloquearam
+  const nonBlocked = results.filter((result) => !result.blocked);
+  console.log('\nSites que NÃO bloquearam as requisições:');
+  if (nonBlocked.length > 0) {
+    nonBlocked.forEach((result) => {
+      console.log(`- ${result.url} (Status: ${result.status})`);
+    });
+  } else {
+    console.log('Nenhum site acessado sem bloqueio.');
+  }
+
+  return results;
+};
+
+// Executa o teste
+testAllBusinesses()
+  .then(() => console.log('Testes concluídos.'))
+  .catch((err) => console.error('Erro ao executar testes:', err.message));

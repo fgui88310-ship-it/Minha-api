@@ -63,10 +63,6 @@ async function getProfileInfo(username) {
       highlight_reel_count: userData.highlight_reel_count,
       is_joined_recently: userData.is_joined_recently,
       is_embeds_disabled: userData.is_embeds_disabled,
-      blocked_by_viewer: userData.blocked_by_viewer,
-      follows_viewer: userData.follows_viewer,
-      followed_by_viewer: userData.followed_by_viewer,
-      has_requested_viewer: userData.has_requested_viewer,
       pronouns: userData.pronouns || [],
       has_channel: userData.has_channel,
       hide_like_and_view_counts: userData.hide_like_and_view_counts,
@@ -93,10 +89,6 @@ async function getProfileInfo(username) {
     console.log(`Número de destaques: ${profileInfo.highlight_reel_count}`);
     console.log(`Entrou recentemente? ${profileInfo.is_joined_recently ? 'Sim' : 'Não'}`);
     console.log(`Embeds desativados? ${profileInfo.is_embeds_disabled ? 'Sim' : 'Não'}`);
-    console.log(`Bloqueado por você? ${profileInfo.blocked_by_viewer ? 'Sim' : 'Não'}`);
-    console.log(`Segue você? ${profileInfo.follows_viewer ? 'Sim' : 'Não'}`);
-    console.log(`Você segue? ${profileInfo.followed_by_viewer ? 'Sim' : 'Não'}`);
-    console.log(`Você solicitou seguir? ${profileInfo.has_requested_viewer ? 'Sim' : 'Não'}`);
     console.log(`Pronomes: ${profileInfo.pronouns.length ? profileInfo.pronouns.join(', ') : 'Nenhum'}`);
     console.log(`Tem canal? ${profileInfo.has_channel ? 'Sim' : 'Não'}`);
     console.log(`Esconde likes e visualizações? ${profileInfo.hide_like_and_view_counts ? 'Sim' : 'Não'}`);
