@@ -8,6 +8,7 @@ import { dirname, join } from 'path';
 import { rateLimit } from './【 MODULES 】/libs.js'; // só rateLimit do libs
 import { cleanupOldFiles } from './【 UTILS 】/fileUtils.js'; // importa direto do arquivo utilitário
 // routers
+import memedroidRouter from './【 ROUTES 】/memedroid.js';
 import tiktokStalkerRouter from './【 ROUTES 】/tiktokstalker.js';
 import levelupRouter from './【 ROUTES 】/levelup.js';
 import nameInfoRouter from './【 ROUTES 】/nameInfo.js';
@@ -76,7 +77,6 @@ import imdbRouter from './【 ROUTES 】/imdb.js';
 import aptoideRoute from './【 ROUTES 】/aptoide.js';
 import { errorHandler } from './【 MIDDLEWARE 】/errorHandler.js';
 import gameNewsRouter from './【 ROUTES 】/game-news.js';
-import express from 'express';
 import instagramStalkerRouter from './【 ROUTES 】/instagramstalker.js';
 
 // Substitui __dirname para ESM

@@ -8,6 +8,7 @@ import { dirname, join } from 'path';
 import { rateLimit } from './【 MODULES 】/libs.js'; // só rateLimit do libs
 import { cleanupOldFiles } from './【 UTILS 】/fileUtils.js'; // importa direto do arquivo utilitário
 // routers
+import memedroidRouter from './【 ROUTES 】/memedroid.js';
 import tiktokStalkerRouter from './【 ROUTES 】/tiktokstalker.js';
 import levelupRouter from './【 ROUTES 】/levelup.js';
 import nameInfoRouter from './【 ROUTES 】/nameInfo.js';
@@ -113,6 +114,7 @@ app.use(express.static(join(__dirname, '【 PUBLIC 】')));
 app.use('/downloads', express.static(join(__dirname, 'downloads')));
 
 // Montar rotas da API
+app.use('/api/memedroid', memedroidRouter);
 app.use('/api/animetv', animetvRouter);
 app.use('/api/levelup', levelupRouter);
 app.use('/api/banner', bannerRouter);
