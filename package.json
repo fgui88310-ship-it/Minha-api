@@ -11,6 +11,7 @@
   "dependencies": {
     "cheerio": "^1.1.2",
     "canvas": "^2.11.2",
+    "axios-retry": "^4.0.0",
     "dotenv": "^17.2.3",
     "axios": "^1.7.7",
     "express": "^5.1.0",
