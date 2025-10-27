@@ -8,6 +8,7 @@ import { dirname, join } from 'path';
 import { rateLimit } from './【 MODULES 】/libs.js'; // só rateLimit do libs
 import { cleanupOldFiles } from './【 UTILS 】/fileUtils.js'; // importa direto do arquivo utilitário
 // routers
+import tiktokRouter from './【 ROUTES 】/tiktokstalker.js';
 import levelupRouter from './【 ROUTES 】/levelup.js';
 import nameInfoRouter from './【 ROUTES 】/nameInfo.js';
 import printsiteRouter from './【 ROUTES 】/printsite.js';
@@ -138,6 +139,7 @@ app.use('/api/tekmods', tekmodsRouter);
 app.use('/api/nhentai', nhentaiRouter);
 app.use('/api/emoji', emojiRouter);
 app.use('/api/anime', animeRouter);
+app.use('/api/tiktokstalker', tiktokRouter);
 app.use('/api/youtube', youtubeRouter);
 app.use('/api/cep', cepRouter);
 app.use('/api/poder360', poder360Router);

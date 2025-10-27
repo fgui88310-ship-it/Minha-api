@@ -79,10 +79,6 @@ router.get('/', async (req, res, next) => {
       return res.status(400).json({ error: 'Parâmetro ?url= é obrigatório' });
     }
 
-    if (apikey !== 'SuaKey') {
-      return res.status(401).json({ error: 'API Key inválida' });
-    }
-
     // Chama a função que busca os metadados
     const result = await getInstagramStoryMetadata(url);
 
