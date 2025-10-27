@@ -1,6 +1,7 @@
 import express from 'express';
 import axios from 'axios';
 import * as cheerio from 'cheerio';
+import axiosRetry from 'axios-retry';
 
 const router = express.Router();
 
@@ -11,24 +12,33 @@ router.get('/', async (req, res) => {
   }
 
   try {
-    // Lista de User-Agents para rotacionar
     const userAgents = [
       'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0 Safari/537.36',
       'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',
-      'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0'
+      'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0',
     ];
     const randomUserAgent = userAgents[Math.floor(Math.random() * userAgents.length)];
 
-    // Requisição com cabeçalhos melhorados e delay
+    // Configurar retentativas
+    axiosRetry(axios, {
+      retries: 3,
+      retryDelay: (retryCount) => retryCount * 1000,
+      retryCondition: (error) => error.response?.status === 403,
+    });
+
     const response = await axios.get('https://pt.memedroid.com/', {
       headers: {
         'User-Agent': randomUserAgent,
         'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
         'Referer': 'https://www.google.com/',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Connection': 'keep-alive'
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Cache-Control': 'no-cache',
+        'Pragma': 'no-cache',
       },
-      timeout: 10000
+      timeout: 10000,
     });
 
     const html = response.data;
@@ -41,7 +51,7 @@ router.get('/', async (req, res) => {
         const jsonMatch = scriptContent.match(/\[({.*?})\]/s);
         if (jsonMatch && jsonMatch[0]) {
           try {
-            memeData = JSON.parse(`[${jsonMatch[0].replace(/'/g, '"')}]`); // Ajuste para strings com aspas simples
+            memeData = JSON.parse(`[${jsonMatch[0].replace(/'/g, '"')}]`);
           } catch (parseError) {
             console.error('Erro ao parsear JSON dos memes:', parseError.message);
           }
@@ -54,16 +64,15 @@ router.get('/', async (req, res) => {
     }
 
     const shuffledMemes = memeData.sort(() => Math.random() - 0.5);
-    const selectedMemes = shuffledMemes.slice(0, count).map(meme => ({
+    const selectedMemes = shuffledMemes.slice(0, count).map((meme) => ({
       title: meme.title || 'Sem título',
-      link: meme.url
+      link: meme.url,
     }));
 
     res.status(200).json({ memes: selectedMemes });
-
   } catch (err) {
-    console.error('[MEMEDROID] Erro ao processar memes:', err.message);
-    res.status(500).json({ error: 'Falha ao processar memes' });
+    console.error('[MEMEDROID] Erro ao processar memes:', err.message, err.response?.data);
+    res.status(500).json({ error: 'Falha ao processar memes', details: err.message });
   }
 });
 
