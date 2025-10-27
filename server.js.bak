@@ -117,7 +117,7 @@ app.use('/downloads', express.static(join(__dirname, 'downloads')));
 app.use('/api/animetv', animetvRouter);
 app.use('/api/levelup', levelupRouter);
 app.use('/api/banner', bannerRouter);
-app.use('/api/instagram', instagramStalkerRouter);
+app.use('/api/instagramstalker', instagramStalkerRouter);
 app.use('/api/metadinhas', metadinhasRouter);
 app.use('/api/game-news', gameNewsRouter);
 app.use('/api/sports', sportsRouter);

@@ -76,7 +76,6 @@ import imdbRouter from './【 ROUTES 】/imdb.js';
 import aptoideRoute from './【 ROUTES 】/aptoide.js';
 import { errorHandler } from './【 MIDDLEWARE 】/errorHandler.js';
 import gameNewsRouter from './【 ROUTES 】/game-news.js';
-import express from 'express';
 import instagramStalkerRouter from './【 ROUTES 】/instagramstalker.js';
 
 // Substitui __dirname para ESM
