@@ -25,15 +25,14 @@ async function loadImageWithFallback(url, fallbackColor = '#cccccc') {
 }
 
 
-router.get('/', async (req, res, next) => {
+router.get('/ping', async (req, res, next) => {
   const {
-    bg = 'https://i.imgur.com/example-bg.jpg', // fundo opcional
-    char = 'https://i.imgur.com/character.png', // personagem opcional
-    name = 'Botzinho',                         // nome do bot
-    ping = '0.12',                             // velocidade em segundos
-    uptime = '2d 5h 30m',                      // tempo online
-    groups = '127',                            // total de grupos
-    users = '3.2K'                             // total de usuários
+    char = 'https://i.imgur.com/character.png',
+    name = 'AmorBot',
+    ping = '0.08',
+    uptime = '3d 12h',
+    groups = '89',
+    users = '2.1K'
   } = req.query;
 
   try {
@@ -42,34 +41,28 @@ router.get('/', async (req, res, next) => {
     const canvas = createCanvas(width, height);
     const ctx = canvas.getContext('2d');
 
-    // === FUNDO COM DEGRADÊ RADIAL SUAVE ===
-    const bgGradient = ctx.createRadialGradient(width / 2, height / 2, 0, width / 2, height / 2, width);
-    bgGradient.addColorStop(0, '#ffe6f7');
-    bgGradient.addColorStop(0.5, '#ffccf2');
+    // === FUNDO DEGRADÊ SUAVE ===
+    const bgGradient = ctx.createRadialGradient(width / 2, height / 2, 0, width / 2, height / 2, width * 0.8);
+    bgGradient.addColorStop(0, '#ffd6f7');
+    bgGradient.addColorStop(0.6, '#ffb3f0');
     bgGradient.addColorStop(1, '#ff99e6');
     ctx.fillStyle = bgGradient;
     ctx.fillRect(0, 0, width, height);
 
-    // Overlay leve para profundidade
-    ctx.fillStyle = 'rgba(0, 0, 0, 0.08)';
+    // === BRILHO CENTRAL (PULSO) ===
+    const pulseGradient = ctx.createRadialGradient(width / 2, height / 2, 0, width / 2, height / 2, 300);
+    pulseGradient.addColorStop(0, 'rgba(255, 255, 255, 0.6)');
+    pulseGradient.addColorStop(1, 'transparent');
+    ctx.fillStyle = pulseGradient;
     ctx.fillRect(0, 0, width, height);
 
-    // === IMAGEM DE FUNDO (OPCIONAL) COM FALLBACK ===
-    try {
-      const bgImg = await loadImageWithFallback(bg, '#ff99e6');
-      ctx.globalAlpha = 0.4;
-      ctx.drawImage(bgImg, 0, 0, width, height);
-      ctx.globalAlpha = 1;
-    } catch (err) {
-      console.warn('Imagem de fundo não carregada, usando cor sólida');
-    }
-
-    // === PERSONAGEM CENTRAL COM BORDA E GLOW ===
+    // === PERSONAGEM CENTRAL COM PULSO E GLOW ===
     const charImg = await loadImageWithFallback(char, '#ff69b4');
-    const charSize = 320;
+    const charSize = 300;
     const charX = width / 2;
     const charY = height / 2;
 
+    // Clip circular
     ctx.save();
     ctx.beginPath();
     ctx.arc(charX, charY, charSize / 2, 0, Math.PI * 2);
@@ -77,80 +70,102 @@ router.get('/', async (req, res, next) => {
     ctx.drawImage(charImg, charX - charSize / 2, charY - charSize / 2, charSize, charSize);
     ctx.restore();
 
-    // Borda branca com glow
-    ctx.lineWidth = 8;
+    // Borda com glow duplo
+    ctx.lineWidth = 12;
     ctx.strokeStyle = '#ffffff';
     ctx.shadowColor = '#ff69b4';
-    ctx.shadowBlur = 30;
+    ctx.shadowBlur = 40;
     ctx.beginPath();
-    ctx.arc(charX, charY, charSize / 2 + 4, 0, Math.PI * 2);
+    ctx.arc(charX, charY, charSize / 2 + 6, 0, Math.PI * 2);
+    ctx.stroke();
+
+    // Glow interno (brilho)
+    ctx.shadowBlur = 60;
+    ctx.strokeStyle = 'rgba(255, 255, 255, 0.6)';
+    ctx.lineWidth = 8;
+    ctx.beginPath();
+    ctx.arc(charX, charY, charSize / 2 + 10, 0, Math.PI * 2);
     ctx.stroke();
     ctx.shadowBlur = 0;
 
-    // === CAIXAS DE INFORMAÇÃO (ESQUERDA E DIREITA) ===
-    const boxWidth = 240;
-    const boxHeight = 90;
-    const boxRadius = 20;
-    const leftX = 50;
-    const rightX = width - 50 - boxWidth;
+    // === NOME DO BOT ===
+    ctx.fillStyle = '#ffffff';
+    ctx.font = 'bold 52px "Comic Sans MS", cursive';
+    ctx.textAlign = 'center';
+    ctx.shadowColor = 'rgba(0,0,0,0.3)';
+    ctx.shadowBlur = 6;
+    ctx.shadowOffsetY = 3;
+    ctx.fillText(name, width / 2, 70);
+    ctx.shadowBlur = 0;
 
-    const drawInfoBox = (x, title, value, icon, color1, color2) => {
-      // Fundo com vidro fosco
-      const grad = ctx.createLinearGradient(x, 0, x + boxWidth, 0);
-      grad.addColorStop(0, color1);
-      grad.addColorStop(1, color2);
-      ctx.fillStyle = grad;
-      ctx.roundRect(x, 180, boxWidth, boxHeight, boxRadius);
+    // === CAIXAS COM VIDRO FOSCO (ESQUERDA) ===
+    const drawGlassBox = (x, y, title, value, emoji) => {
+      // Fundo com blur e transparência
+      ctx.fillStyle = 'rgba(255, 255, 255, 0.22)';
+      ctx.roundRect(x, y, 180, 70, 35);
       ctx.fill();
 
-      // Borda sutil
-      ctx.strokeStyle = 'rgba(255,255,255,0.6)';
+      // Borda suave
+      ctx.strokeStyle = 'rgba(255, 255, 255, 0.5)';
       ctx.lineWidth = 2;
       ctx.stroke();
 
       // Texto
       ctx.fillStyle = '#ffffff';
-      ctx.font = 'bold 18px "Comic Sans MS", Arial, sans-serif';
+      ctx.font = '16px "Comic Sans MS", sans-serif';
       ctx.textAlign = 'center';
-      ctx.fillText(title, x + boxWidth / 2, 210);
+      ctx.fillText(title, x + 90, y + 25);
 
-      ctx.font = 'bold 28px "Comic Sans MS", Arial, sans-serif';
-      ctx.fillText(value, x + boxWidth / 2, 245);
+      ctx.font = 'bold 24px "Comic Sans MS", sans-serif';
+      ctx.fillText(value, x + 90, y + 50);
 
-      // Ícone decorativo
-      ctx.font = '32px Arial';
-      ctx.fillText(icon, x + 30, 240);
+      // Emoji
+      ctx.font = '28px Arial';
+      ctx.fillText(emoji, x + 35, y + 45);
     };
 
-    // Esquerda
-    drawInfoBox(leftX, 'Grupos', groups, 'Group', '#ff9ee4', '#ff69b4');
-    drawInfoBox(leftX, 'Usuários', users, 'Person', '#ffb6e0', '#ff85c0');
+    drawGlassBox(80, 120, 'Grupos', groups, 'Group');
+    drawGlassBox(80, 200, 'Usuários', users, 'Person');
 
-    // Direita
-    drawInfoBox(rightX, 'Velocidade', `${ping}s`, 'Speed', '#ff69b4', '#ff1493');
-    drawInfoBox(rightX, 'Online', uptime, 'Clock', '#ff85c0', '#ff3399');
+    // === BOTÃO "ONLINE" ESTILOSO ===
+    const btnX = width - 280;
+    const btnY = 200;
+    const btnWidth = 180;
+    const btnHeight = 60;
 
-    // === NOME DO BOT COM ESTILO ===
+    // Fundo do botão com degradê
+    const btnGrad = ctx.createLinearGradient(btnX, btnY, btnX + btnWidth, btnY);
+    btnGrad.addColorStop(0, '#ff69b4');
+    btnGrad.addColorStop(1, '#ff1493');
+    ctx.fillStyle = btnGrad;
+    ctx.roundRect(btnX, btnY, btnWidth, btnHeight, 30);
+    ctx.fill();
+
+    // Borda brilhante
+    ctx.strokeStyle = '#ffffff';
+    ctx.lineWidth = 3;
+    ctx.stroke();
+
+    // Texto do botão
     ctx.fillStyle = '#ffffff';
-    ctx.font = 'bold 48px "Comic Sans MS", cursive';
+    ctx.font = 'bold 20px "Comic Sans MS", sans-serif';
     ctx.textAlign = 'center';
-    ctx.shadowColor = 'rgba(0,0,0,0.4)';
-    ctx.shadowBlur = 8;
-    ctx.shadowOffsetY = 4;
-    ctx.fillText(name, width / 2, 80);
+    ctx.fillText('Online', btnX + btnWidth / 2, btnY + 35);
 
-    // Brilho no nome
-    ctx.shadowColor = '#ff69b4';
-    ctx.shadowBlur = 16;
-    ctx.fillStyle = '#ffffff';
-    ctx.fillText(name, width / 2, 80);
+    // Tempo online
+    ctx.font = '16px "Comic Sans MS", sans-serif';
+    ctx.fillText(uptime, btnX + btnWidth / 2, btnY + 55);
 
-    ctx.shadowBlur = 0;
-    ctx.shadowOffsetY = 0;
+    // Ícone de check
+    ctx.font = '24px Arial';
+    ctx.fillText('Check', btnX + 40, btnY + 38);
 
-    // === CORAÇÕES DECORATIVOS FLUTUANTES ===
-    const drawHeart = (x, y, size, opacity = 0.4) => {
-      ctx.globalAlpha = opacity;
+    // === VELOCIDADE (CAIXA PEQUENA) ===
+    drawGlassBox(width - 260, 120, 'Ping', `${ping}s`, 'Speed');
+
+    // === CORAÇÕES FLUTUANTES COM OPACIDADE ===
+    const drawFloatingHeart = (x, y, size, alpha) => {
+      ctx.globalAlpha = alpha;
       ctx.fillStyle = '#ff69b4';
       const s = size / 2;
       ctx.beginPath();
@@ -163,10 +178,10 @@ router.get('/', async (req, res, next) => {
       ctx.globalAlpha = 1;
     };
 
-    drawHeart(100, 120, 30);
-    drawHeart(width - 100, 140, 25);
-    drawHeart(180, 400, 35);
-    drawHeart(width - 180, 380, 30);
+    drawFloatingHeart(150, 100, 30, 0.3);
+    drawFloatingHeart(width - 150, 130, 25, 0.3);
+    drawFloatingHeart(200, 380, 35, 0.2);
+    drawFloatingHeart(width - 200, 360, 30, 0.2);
 
     // === ENVIAR IMAGEM ===
     res.setHeader('Content-Type', 'image/png');
