@@ -1,6 +1,6 @@
 import express from 'express';
 import fetch from 'node-fetch'; // ou axios
-import { setCache, getCache } from '../../【 MODULES 】/libs.js'; // seu sistema de cache
+import { setCache, getCache } from '../【 MODULES 】/libs.js'; // seu sistema de cache
 const router = express.Router();
 
 // Função auxiliar pra extrair videoId

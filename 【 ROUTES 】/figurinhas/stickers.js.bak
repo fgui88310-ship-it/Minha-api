@@ -2,7 +2,7 @@
 import express from 'express';
 import fs from 'fs/promises';
 import path from 'path';
-import { PATHS } from '../../config.js';
+import { PATHS } from '../config.js';
 const router = express.Router();
 
 // Lista de pastas válidas

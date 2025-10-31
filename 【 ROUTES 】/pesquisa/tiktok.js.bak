@@ -1,5 +1,5 @@
 import express from 'express';
-import { fetchTikTokPost, searchTikTok } from '../../【 SCRAPERS 】/tiktokService.js';
+import { fetchTikTokPost, searchTikTok } from '../【 SCRAPERS 】/tiktokService.js';
 
 const router = express.Router();
 

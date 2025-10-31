@@ -1,7 +1,7 @@
 // endpoints/kwai.js
 import express from 'express';
 import axios from 'axios';
-import { getKwaiDirectLink } from '../../【 MODULES 】/kwaiScraper.js';
+import { getKwaiDirectLink } from '../【 MODULES 】/kwaiScraper.js';
 
 const router = express.Router();
 

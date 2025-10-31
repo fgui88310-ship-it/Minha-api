@@ -1,5 +1,5 @@
 import express from 'express';
-import { searchMovies } from '../../【 SCRAPERS 】/movieService.js';
+import { searchMovies } from '../【 SCRAPERS 】/movieService.js';
 const router = express.Router();
 
 router.get('/', async (req, res, next) => {

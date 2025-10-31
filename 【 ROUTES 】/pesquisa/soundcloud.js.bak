@@ -1,7 +1,7 @@
 import express from 'express';
-import { searchTracks, fetchTrackByUrl } from '../../【 SCRAPERS 】/soundcloud/trackService.js';
-import { getAudioLink } from '../../【 SCRAPERS 】/soundcloud/audioService.js';
-import { getCache, setCache } from '../../【 SCRAPERS 】/soundcloud/cacheService.js';
+import { searchTracks, fetchTrackByUrl } from '../【 SCRAPERS 】/soundcloud/trackService.js';
+import { getAudioLink } from '../【 SCRAPERS 】/soundcloud/audioService.js';
+import { getCache, setCache } from '../【 SCRAPERS 】/soundcloud/cacheService.js';
 import axios from 'axios';
 import path from 'path';
 import fs from 'fs/promises';

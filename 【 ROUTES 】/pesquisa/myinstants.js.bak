@@ -1,7 +1,7 @@
 // api/endpoints/myinstants.js
 import express from 'express';
-import { searchMyInstants } from '../../【 SCRAPERS 】/myinstantsService.js';
-import { onlyEmojisRegex } from '../../config.js';
+import { searchMyInstants } from '../【 SCRAPERS 】/myinstantsService.js';
+import { onlyEmojisRegex } from '../config.js';
 const router = express.Router();
 
 router.get('/', async (req, res, next) => {

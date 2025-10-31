@@ -1,9 +1,9 @@
 import express from 'express';
-import { scrapeSinglePost } from '../../【 SCRAPERS 】/threadsScraper.js';
-import { getThreadsCache, setThreadsCache } from '../../【 UTILS 】/cache.js';
-import { formatMediaItems } from '../../【 MODULES 】/threadsFormatter.js';
-import { getBasicInfo, saveToJson } from '../../【 MODULES 】/libs.js';
-import { isInvalid, THREADS_URL_REGEX } from '../../config.js';
+import { scrapeSinglePost } from '../【 SCRAPERS 】/threadsScraper.js';
+import { getThreadsCache, setThreadsCache } from '../【 UTILS 】/cache.js';
+import { formatMediaItems } from '../【 MODULES 】/threadsFormatter.js';
+import { getBasicInfo, saveToJson } from '../【 MODULES 】/libs.js';
+import { isInvalid, THREADS_URL_REGEX } from '../config.js';
 const router = express.Router();
 router.get('/', async (req, res, next) => {
   const { url } = req.query;

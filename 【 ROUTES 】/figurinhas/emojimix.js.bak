@@ -2,7 +2,7 @@ import express from 'express';
 import fs from 'fs';
 import path from 'path';
 import fetch from 'node-fetch';
-import { EMOJI_DIR, getEmojiFilename, getEmojiFilePath } from '../../config.js';
+import { EMOJI_DIR, getEmojiFilename, getEmojiFilePath } from '../config.js';
 const router = express.Router();
 
 // Função para baixar ou pegar do cache

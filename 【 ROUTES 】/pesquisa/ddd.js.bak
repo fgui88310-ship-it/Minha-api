@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import express from 'express';
 const router = express.Router();
-import { CACHE, CACHE_DDD } from '../../config.js';
+import { CACHE, CACHE_DDD } from '../config.js';
 // ========== CONFIG CACHE ==========
 // ✅ DEPOIS (CORRETO)
 

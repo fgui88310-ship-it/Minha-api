@@ -1,7 +1,7 @@
 import express from 'express';
-import { transformations } from '../../【 UTILS 】/transformations.js';
-import { onlyEmojisRegex, MIN_LENGTH, MAX_LENGTH } from '../../config.js';
-import { validateRequiredFields, validateText } from '../../【 VALIDATORS 】/nickgen.js';
+import { transformations } from '../【 UTILS 】/transformations.js';
+import { onlyEmojisRegex, MIN_LENGTH, MAX_LENGTH } from '../config.js';
+import { validateRequiredFields, validateText } from '../【 VALIDATORS 】/nickgen.js';
 
 const router = express.Router();
 

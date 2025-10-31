@@ -1,6 +1,6 @@
 import express from 'express';
-import { fetchFrasesPensador } from '../../【 SCRAPERS 】/scrapePensador.js';
-import { maxFrases } from '../../config.js';
+import { fetchFrasesPensador } from '../【 SCRAPERS 】/scrapePensador.js';
+import { maxFrases } from '../config.js';
 const router = express.Router();
 
 /**

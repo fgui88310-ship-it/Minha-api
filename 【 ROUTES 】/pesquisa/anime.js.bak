@@ -1,6 +1,6 @@
 import express from 'express';
 import { validateQuery } from '../../【 VALIDATORS 】/anime.js';
-import { searchInfoAnime } from '../../【 SCRAPERS 】/infoanime.js';
+import { searchInfoAnime } from '../【 SCRAPERS 】/infoanime.js';
 
 const router = express.Router();
 

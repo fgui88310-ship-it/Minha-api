@@ -1,6 +1,6 @@
 import express from 'express';
 import gplay from 'google-play-scraper';
-import { setCache, getCache } from '../../【 MODULES 】/libs.js';
+import { setCache, getCache } from '../【 MODULES 】/libs.js';
 
 const router = express.Router();
 
