@@ -86,7 +86,6 @@ export const THREADS_URL_REGEX = /^https?:\/\/(www\.)?threads\.(net|com)\/@[a-zA
 
 const outputDir = path.join(__dirname, 'downloads'); // ← definido ANTES
 
-
 export const CACHE_EMOJI = path.join(__dirname, './【 EMOJIS 】/');
 
 export const CACHE = path.join(__dirname, './【 CACHE 】/');
