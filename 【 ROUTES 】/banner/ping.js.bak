@@ -25,7 +25,7 @@ async function loadImageWithFallback(url, fallbackColor = '#cccccc') {
 }
 
 
-router.get('/ping', async (req, res, next) => {
+router.get('/', async (req, res, next) => {
   const {
     char = 'https://i.imgur.com/character.png',
     name = 'AmorBot',
