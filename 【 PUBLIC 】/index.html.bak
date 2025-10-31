@@ -602,7 +602,7 @@
   </a>
   <div class="submenu">
   <a href="/api/name?name=John&apikey=SuaKey" class="submenu-link">CANVAS - MYNAME</a>
-  <a href="/api/levelup?level1=0&level2=10&url=https://i.ibb.co/bjbRMWCy/temp-1756652367464.jpg&apikey=SuaKey" class="submenu-link">CANVAS - LEVELUP</a>
+  <a href="/api/ship?level1=0&level2=10&url=https://i.ibb.co/bjbRMWCy/temp-1756652367464.jpg&apikey=SuaKey" class="submenu-link">CANVAS - LEVELUP</a>
   </div>
 </div>
 

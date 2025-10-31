@@ -116,7 +116,10 @@ export const PATHS = {
   cookie: __dirname,
   cookiesInsta: path.join(__dirname, 'cookies.txt'),
   cookiesYT: path.join(__dirname, 'cookiesYT.txt'),
-  cookieSC: path.join(__dirname, 'cookieSC.txt') // nome válido, sem .js no meio
+  cookieSC: path.join(__dirname, 'cookieSC.txt')  // nome válido, sem .js no meio
+  pagina_inicial: path.join(__dirname, '【 PUBLIC 】', 'index.html')
+  docs: path.join(__dirname, '【 PUBLIC 】', 'docs.html')
+  arquivos_estaticos: path.join(__dirname, '【 PUBLIC 】') 
 };
 
 export function getEmojiFilename(e1, e2) {
@@ -126,6 +129,8 @@ export function getEmojiFilename(e1, e2) {
 export function getEmojiFilePath(filename) {
   return path.join(EMOJI_DIR, filename);
 }
+
+
 
 /* -------------------------------------------------------------------------- */
 /* [ FUTUROS ENDPOINTS ]                                                      */
