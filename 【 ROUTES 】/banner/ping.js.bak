@@ -25,7 +25,7 @@ async function loadImageWithFallback(url, fallbackColor = '#cccccc') {
 }
 
 
-router.get('/ping', async (req, res, next) => {
+router.get('/', async (req, res, next) => {
   const {
     bg = 'https://i.imgur.com/example-bg.jpg', // fundo opcional
     char = 'https://i.imgur.com/character.png', // personagem opcional
