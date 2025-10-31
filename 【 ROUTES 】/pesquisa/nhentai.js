@@ -1,5 +1,5 @@
 import express from 'express';
-import { limit } from '.././config.js';
+import { limit } from '../../config.js';
 import { validateQueryParams } from '../../【 VALIDATORS 】/nhentaiValidator.js';
 import { searchDoujin } from '../../【 SCRAPERS 】/nhentaiService.js';
 
