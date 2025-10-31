@@ -25,7 +25,7 @@ async function loadImageWithFallback(url, fallbackColor = '#cccccc') {
   }
 }
 
-router.get('/ship', async (req, res, next) => {
+router.get('/', async (req, res, next) => {
   const { foto1, foto2, mat = '79', fundo } = req.query;
 
   // Validação
