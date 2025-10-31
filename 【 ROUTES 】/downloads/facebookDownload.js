@@ -5,7 +5,7 @@ import { promisify } from 'util';
 import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { PATHS } from '.././config.js';
+import { PATHS } from '../../config.js';
 const router = express.Router();
 const execPromise = promisify(exec);
 
