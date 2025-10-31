@@ -609,8 +609,7 @@
   fundo=https://i.ibb.co/123/fundo-bonito.jpg
 " class="submenu-link">CANVAS - SHIP 95%</a>
   <a href="/api/levelup?level1=0&level2=10&url=https://i.ibb.co/bjbRMWCy/temp-1756652367464.jpg&apikey=SuaKey" class="submenu-link">CANVAS - LEVELUP</a>
-  <a href="/api/levelup?level1=0&level2=10&url=https://i.ibb.co/bjbRMWCy/temp-1756652367464.jpg&apikey=SuaKey" class="submenu-link">CANVAS - LEVELUP</a>
-  GET /api/ping?char=https://i.imgur.com/bot.png&name=AmorBot&ping=0.08&uptime=3d%2012h&groups=89&users=2.1K
+  <a href="/api/ping?char=https://i.imgur.com/bot.png&name=AmorBot&ping=0.08&uptime=3d%2012h&groups=89&users=2.1K" class="submenu-link">CANVAS - LEVELUP</a>
   </div>
 </div>
 

@@ -333,7 +333,7 @@ app.use('/api/tiktokstalker', tiktokStalkerRouter);
 /* --------- [ ROUTERS BANNER ] ---------- */
 app.use('/api/levelup', levelupRouter);
 
-app.('api/ping', pingRouter) 
+app.('api/ping', pingRouter);
 
 app.use('/api/ship', shipRouter);
 
