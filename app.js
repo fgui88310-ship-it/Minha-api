@@ -165,6 +165,8 @@ import nickgenRouter from './【 ROUTES 】/ferramentas/nickgen.js';
 /* --------- [ CONFIGURACOES ] ---------- */
 const app = express();
 
+app.set('trust proxy', 1);
+
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true }));
 
@@ -193,7 +195,6 @@ app.use(express.static(PATHS.arquivos_estaticos));
 app.use('/downloads', express.static(PATHS.downloadsDir));
 
 /* --------- [ ROUTERS PESQUISAS ] ---------- */
-
 app.use('/api/animetv', animetvRouter);
 
 app.use('/api/game-news', gameNewsRouter);
