@@ -15,7 +15,6 @@ async function loadImageWithFallback(url, fallbackColor = '#cccccc') {
     const canvas = createCanvas(100, 100);
     const ctx = canvas.getContext('2d');
     ctx.fillStyle = fallbackColor;
- purified
     ctx.fillRect(0, 0, 100, 100);
     ctx.fillStyle = 'white';
     ctx.font = 'bold 40px Arial';
