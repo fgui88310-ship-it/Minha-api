@@ -602,7 +602,15 @@
   </a>
   <div class="submenu">
   <a href="/api/name?name=John&apikey=SuaKey" class="submenu-link">CANVAS - MYNAME</a>
-  <a href="/api/ship?level1=0&level2=10&url=https://i.ibb.co/bjbRMWCy/temp-1756652367464.jpg&apikey=SuaKey" class="submenu-link">CANVAS - LEVELUP</a>
+  <a href="/api/ship?
+  foto1=https://i.ibb.co/bjbRMWCy/temp-1756652367464.jpg&
+  foto2=https://i.ibb.co/bjbRMWCy/temp-1756652367464.jpg&
+  mat=95&
+  fundo=https://i.ibb.co/123/fundo-bonito.jpg
+" class="submenu-link">CANVAS - SHIP 95%</a>
+  <a href="/api/levelup?level1=0&level2=10&url=https://i.ibb.co/bjbRMWCy/temp-1756652367464.jpg&apikey=SuaKey" class="submenu-link">CANVAS - LEVELUP</a>
+  <a href="/api/levelup?level1=0&level2=10&url=https://i.ibb.co/bjbRMWCy/temp-1756652367464.jpg&apikey=SuaKey" class="submenu-link">CANVAS - LEVELUP</a>
+  GET /api/ping?char=https://i.imgur.com/bot.png&name=AmorBot&ping=0.08&uptime=3d%2012h&groups=89&users=2.1K
   </div>
 </div>
 
