@@ -84,6 +84,9 @@ export const CONFIG = {
 
 export const THREADS_URL_REGEX = /^https?:\/\/(www\.)?threads\.(net|com)\/@[a-zA-Z0-9._-]+\/post\/[a-zA-Z0-9_-]+(\?.*)?$/;
 
+const outputDir = path.join(__dirname, 'downloads'); // ← definido ANTES
+
+
 export const CACHE_EMOJI = path.join(__dirname, './【 EMOJIS 】/');
 
 export const CACHE = path.join(__dirname, './【 CACHE 】/');
@@ -112,14 +115,14 @@ const outputDir = './downloads';
 export const PATHS = {
   baseDir: __dirname,
   tempDir: path.join(__dirname, '【 TEMP 】'),
-  downloadsDir: path.join(outputDir), // Certifique-se que outputDir está definido
+  downloadsDir: path.join(outputDir),
   cookie: __dirname,
   cookiesInsta: path.join(__dirname, 'cookies.txt'),
   cookiesYT: path.join(__dirname, 'cookiesYT.txt'),
-  cookieSC: path.join(__dirname, 'cookieSC.txt')  // nome válido, sem .js no meio
-  pagina_inicial: path.join(__dirname, '【 PUBLIC 】', 'index.html')
-  docs: path.join(__dirname, '【 PUBLIC 】', 'docs.html')
-  arquivos_estaticos: path.join(__dirname, '【 PUBLIC 】') 
+  cookieSC: path.join(__dirname, 'cookieSC.txt'), // ← VÍRGULA AQUI
+  pagina_inicial: path.join(__dirname, '【 PUBLIC 】', 'index.html'), // ← VÍRGULA AQUI
+  docs: path.join(__dirname, '【 PUBLIC 】', 'docs.html'), // ← VÍRGULA AQUI
+  arquivos_estaticos: path.join(__dirname, '【 PUBLIC 】') // ← opcional no final
 };
 
 export function getEmojiFilename(e1, e2) {
