@@ -1,23 +1,38 @@
 // api/routes/ping.js
 import express from 'express';
-import puppeteer from 'puppeteer-core';
-import chromium from '@sparticuz/chromium';
+import { JSDOM } from 'jsdom';
+import { toPng } from 'html-to-image';
+import { createCanvas, loadImage } from 'canvas';
+import fetch from 'node-fetch';
 
 const router = express.Router();
 
-let browser;
+// CONFIGURAÇÃO GLOBAL DO CANVAS (ESSENCIAL)
+const canvas = createCanvas(1, 1);
+const ctx = canvas.getContext('2d');
 
-const initBrowser = async () => {
-  if (!browser) {
-    browser = await puppeteer.launch({
-      args: chromium.args,
-      executablePath: await chromium.executablePath(),
-      headless: chromium.headless,
-      defaultViewport: chromium.defaultViewport,
-      ignoreHTTPSErrors: true,
-    });
+global.HTMLCanvasElement = canvas.constructor;
+global.CanvasRenderingContext2D = ctx.constructor;
+global.Image = loadImage;
+
+// getContext seguro
+global.HTMLCanvasElement.prototype.getContext = function (type) {
+  if (type !== '2d') return null;
+  const c = createCanvas(this.width || 300, this.height || 150);
+  return c.getContext('2d');
+};
+
+// Converte imagem para data URL
+const toDataUrl = async (url) => {
+  try {
+    const res = await fetch(url, { timeout: 10000 });
+    if (!res.ok) return null;
+    const buffer = await res.buffer();
+    const mime = res.headers.get('content-type') || 'image/png';
+    return `data:${mime};base64,${buffer.toString('base64')}`;
+  } catch {
+    return null;
   }
-  return browser;
 };
 
 const generatePingImage = async (bg, char, name, ping, uptime, groups, users) => {
@@ -61,19 +76,43 @@ const generatePingImage = async (bg, char, name, ping, uptime, groups, users) =>
 </html>
 `;
 
-  const browser = await initBrowser();
-  const page = await browser.newPage();
-  await page.setViewport({ width: 1200, height: 500 });
-  await page.setContent(html, { waitUntil: 'networkidle0', timeout: 30000 });
+  // Cria DOM com canvas já registrado
+  const dom = new JSDOM(html, {
+    runScripts: 'dangerously',
+    pretendToBeVisual: true,
+    beforeParse(window) {
+      window.HTMLCanvasElement = global.HTMLCanvasElement;
+      window.CanvasRenderingContext2D = global.CanvasRenderingContext2D;
+      window.Image = global.Image;
+    }
+  });
 
-  const element = await page.$('.banner');
-  const buffer = await element.screenshot({ type: 'png' });
+  const document = dom.window.document;
 
-  await page.close();
-  return buffer;
+  // Substitui imagem
+  const img = document.querySelector('.character');
+  if (img && img.src.startsWith('http')) {
+    const dataUrl = await toDataUrl(img.src);
+    if (dataUrl) img.src = dataUrl;
+  }
+
+  // Aguarda
+  await new Promise(r => setTimeout(r, 200));
+
+  const element = document.querySelector('.banner');
+  const dataUrl = await toPng(element, {
+    quality: 1,
+    pixelRatio: 2,
+    width: 1200,
+    height: 500,
+    style: { backgroundColor: '#ffe6f0' },
+    cacheBust: true
+  });
+
+  const base64 = dataUrl.replace(/^data:image\/png;base64,/, '');
+  return Buffer.from(base64, 'base64');
 };
 
-// Endpoint
 router.get('/', async (req, res) => {
   try {
     const {
@@ -89,8 +128,8 @@ router.get('/', async (req, res) => {
     const buffer = await generatePingImage(bg, char, name, ping, uptime, groups, users);
     res.set('Content-Type', 'image/png').send(buffer);
   } catch (error) {
-    console.error('Erro no /ping:', error.message);
-    res.status(500).json({ error: 'Falha ao gerar imagem', details: error.message });
+    console.error('Erro:', error.message);
+    res.status(500).json({ error: 'Falha', details: error.message });
   }
 });
 
