@@ -7,35 +7,31 @@ import fetch from 'node-fetch';
 
 const router = express.Router();
 
-// Configuração segura do DOM com Canvas
-const createDom = (html) => {
-  // Cria canvas e contexto
-  const canvas = createCanvas(100, 100);
-  const ctx = canvas.getContext('2d');
+// REGISTRA NO GLOBAL (ESSENCIAL!)
+global.HTMLCanvasElement = createCanvas(1, 1).constructor;
+global.CanvasRenderingContext2D = createCanvas(1, 1).getContext('2d').constructor;
+global.Image = Image;
 
-  // Cria JSDOM com window vazio
-  const dom = new JSDOM('', {
+// Configuração do DOM
+const createDom = (html) => {
+  const dom = new JSDOM(html, {
     runScripts: 'dangerously',
     pretendToBeVisual: true,
+    beforeParse(window) {
+      // Reforça no window também
+      window.HTMLCanvasElement = global.HTMLCanvasElement;
+      window.CanvasRenderingContext2D = global.CanvasRenderingContext2D;
+      window.Image = global.Image;
+
+      // getContext seguro
+      window.HTMLCanvasElement.prototype.getContext = function (type) {
+        if (type !== '2d') return null;
+        const c = createCanvas(this.width || 300, this.height || 150);
+        return c.getContext('2d');
+      };
+    }
   });
-
-  const { window } = dom;
-
-  // Registra construtores
-  window.HTMLCanvasElement = canvas.constructor;
-  window.CanvasRenderingContext2D = ctx.constructor;
-  window.Image = Image;
-
-  // NÃO use originalGetContext → causa loop infinito
-  window.HTMLCanvasElement.prototype.getContext = function (type) {
-    if (type !== '2d') return null;
-    const c = createCanvas(this.width || 300, this.height || 150);
-    return c.getContext('2d');
-  };
-
-  // Parseia HTML com o window já configurado
-  const finalDom = new JSDOM(html, { window });
-  return finalDom;
+  return dom;
 };
 
 // Converte URL para data URL
@@ -103,8 +99,8 @@ const generatePingImage = async (bg, char, name, ping, uptime, groups, users) =>
     if (dataUrl) img.src = dataUrl;
   }
 
-  // Aguarda renderização
-  await new Promise(r => setTimeout(r, 200));
+  // Aguarda
+  await new Promise(r => setTimeout(r, 250));
 
   const element = document.querySelector('.banner');
   if (!element) throw new Error('.banner não encontrado');
