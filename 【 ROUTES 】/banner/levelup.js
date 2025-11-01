@@ -79,7 +79,7 @@ router.get('/', async (req, res, next) => {
 
   } catch (error) {
     console.error('Erro ao gerar imagem:', error);
-    next(err);
+    next(error);
   }
 });
 
