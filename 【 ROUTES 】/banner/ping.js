@@ -1,218 +1,135 @@
 import express from 'express';
-import { createCanvas, loadImage } from 'canvas';
-import fetch from 'node-fetch';
+import { JSDOM } from 'jsdom';
+import { toPng } from 'html-to-image';
 
 const router = express.Router();
 
-async function loadImageWithFallback(url, fallbackColor = '#ff69b4') {
-  try {
-    const response = await fetch(url);
-    if (!response.ok) throw new Error('Failed to fetch');
-    const buffer = Buffer.from(await response.arrayBuffer());
-    return await loadImage(buffer);
-  } catch (err) {
-    console.warn(`Erro ao carregar imagem: ${url}, usando fallback`);
-    const canvas = createCanvas(100, 100);
-    const ctx = canvas.getContext('2d');
-    ctx.fillStyle = fallbackColor;
-    ctx.fillRect(0, 0, 100, 100);
-    ctx.fillStyle = 'white';
-    ctx.font = 'bold 40px Arial';
-    ctx.textAlign = 'center';
-    ctx.fillText('?', 50, 65);
-    return canvas;
-  }
-}
+// Função Ping (já fornecida por você)
+const Ping = async (backgroundImage, characterImage, botName, pingSpeed, uptime, totalGroups, totalUsers) => {
+  const htmlContent = `
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+        <style>
+          body { margin: 0; padding: 0; font-family: 'Poppins', sans-serif; background: #ffe6f0; }
+          .banner { 
+            width: 1200px; height: 500px; 
+            background: url('${backgroundImage}') center/cover no-repeat; 
+            display: flex; align-items: center; justify-content: space-between; 
+            position: relative; overflow: hidden; 
+          }
+          .character-container { 
+            position: absolute; top: 50%; left: 50%; 
+            transform: translate(-50%, -50%); z-index: 1; 
+          }
+          .character { 
+            width: 320px; height: 320px; object-fit: contain; 
+            border-radius: 50%; border: 6px solid #fff; 
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2); 
+          }
+          .info-boxes { 
+            display: flex; flex-direction: column; gap: 20px; z-index: 2; 
+          }
+          .left-boxes { margin-left: 30px; }
+          .right-boxes { margin-right: 30px; }
+          .box { 
+            background: rgba(255, 255, 255, 0.9); padding: 25px; 
+            border-radius: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15); 
+            text-align: center; width: 220px; backdrop-filter: blur(6px); 
+          }
+          .groups-box, .users-box { background: rgba(255, 182, 193, 0.85); }
+          .groups-box h3, .users-box h3 { font-size: 18px; color: #ff4d6d; margin: 0 0 8px; }
+          .groups-box p, .users-box p { font-size: 20px; color: #333; font-weight: 600; margin: 0; }
+          .speed-box, .uptime-box { background: rgba(255, 182, 193, 0.85); width: 250px; padding: 30px; }
+          .speed-box h3, .uptime-box h3 { font-size: 20px; color: #ff4d6d; margin: 0 0 10px; }
+          .speed-box p, .uptime-box p { font-size: 24px; color: #333; font-weight: 600; margin: 0; }
+          .bot-name {
+            position: absolute; top: 40px; left: 50%; transform: translateX(-50%);
+            color: white; font-size: 48px; font-weight: 700;
+            text-shadow: 0 2px 8px rgba(0,0,0,0.3);
+            z-index: 3;
+          }
+        </style>
+      </head>
+      <body>
+        <div class="banner">
+          <h1 class="bot-name">${botName}</h1>
+          <div class="character-container">
+            <img class="character" src="${characterImage}" />
+          </div>
+          <div class="info-boxes left-boxes">
+            <div class="box groups-box"><h3>Total de Grupos Group</h3><p>${totalGroups}</p></div>
+            <div class="box users-box"><h3>Total de Usuários Person</h3><p>${totalUsers}</p></div>
+          </div>
+          <div class="info-boxes right-boxes">
+            <div class="box speed-box"><h3>Velocidade Speed</h3><p>${pingSpeed}s</p></div>
+            <div class="box uptime-box"><h3>Tempo Online Check</h3><p>${uptime}</p></div>
+          </div>
+        </div>
+      </body>
+    </html>
+  `;
 
+  const dom = new JSDOM(htmlContent, { resources: "usable", runScripts: "dangerously" });
+  const document = dom.window.document;
+
+  await new Promise((resolve) => {
+    const imgs = document.querySelectorAll('img');
+    let loaded = 0;
+    if (imgs.length === 0) return resolve();
+
+    imgs.forEach(img => {
+      if (img.complete) loaded++;
+      else {
+        img.onload = () => { if (++loaded === imgs.length) resolve(); };
+        img.onerror = () => { if (++loaded === imgs.length) resolve(); };
+      }
+    });
+    if (loaded === imgs.length) resolve();
+  });
+
+  const element = document.querySelector('.banner');
+  const dataUrl = await toPng(element, {
+    quality: 1,
+    pixelRatio: 2,
+    width: 1200,
+    height: 500,
+    style: { backgroundColor: '#ffe6f0' }
+  });
+
+  const base64 = dataUrl.replace(/^data:image\/png;base64,/, '');
+  return Buffer.from(base64, 'base64');
+};
+
+// Endpoint GET
 router.get('/', async (req, res) => {
-  const {
-    char = 'https://i.imgur.com/character.png',
-    name = 'AmorBot',
-    ping = '0.08',
-    uptime = '3d 12h',
-    groups = '89',
-    users = '2.1K'
-  } = req.query;
-
   try {
-    const width = 1200;
-    const height = 500;
-    const canvas = createCanvas(width, height);
-    const ctx = canvas.getContext('2d');
+    const {
+      bg = 'https://i.imgur.com/abc123.jpg', // imagem de fundo padrão
+      char = 'https://i.imgur.com/char.png',  // personagem padrão
+      name = 'Meu Bot',
+      ping = '0.12',
+      uptime = '2d 5h 30m',
+      groups = '150',
+      users = '1.2K'
+    } = req.query;
 
-    // === EXTENSÃO roundRect ===
-    if (!ctx.roundRect) {
-      ctx.roundRect = function (x, y, w, h, r) {
-        if (w < 2 * r) r = w / 2;
-        if (h < 2 * r) r = h / 2;
-        this.beginPath();
-        this.moveTo(x + r, y);
-        this.arcTo(x + w, y, x + w, y + h, r);
-        this.arcTo(x + w, y + h, x, y + h, r);
-        this.arcTo(x, y + h, x, y, r);
-        this.arcTo(x, y, x + w, y, r);
-        this.closePath();
-        return this;
-      };
+    // Validação básica
+    if (!char || !bg) {
+      return res.status(400).json({ error: 'Parâmetros char e bg são obrigatórios.' });
     }
 
-    // === FUNDO DEGRADÊ ===
-    const bgGradient = ctx.createRadialGradient(width / 2, height / 2, 0, width / 2, height / 2, width * 0.8);
-    bgGradient.addColorStop(0, '#ffd6f7');
-    bgGradient.addColorStop(0.6, '#ffb3f0');
-    bgGradient.addColorStop(1, '#ff99e6');
-    ctx.fillStyle = bgGradient;
-    ctx.fillRect(0, 0, width, height);
+    const imageBuffer = await Ping(bg, char, name, ping, uptime, groups, users);
 
-    // === BRILHO CENTRAL ===
-    const pulseGradient = ctx.createRadialGradient(width / 2, height / 2, 0, width / 2, height / 2, 300);
-    pulseGradient.addColorStop(0, 'rgba(255, 255, 255, 0.6)');
-    pulseGradient.addColorStop(1, 'transparent');
-    ctx.fillStyle = pulseGradient;
-    ctx.fillRect(0, 0, width, height);
-
-    // === PERSONAGEM CENTRAL (CÍRCULO COM CLIP) ===
-    const charImg = await loadImageWithFallback(char, '#ff69b4');
-    const charSize = 300;
-    const charX = width / 2;
-    const charY = height / 2;
-
-    ctx.save();
-    ctx.beginPath();
-    ctx.arc(charX, charY, charSize / 2, 0, Math.PI * 2);
-    ctx.clip();
-    ctx.drawImage(charImg, charX - charSize / 2, charY - charSize / 2, charSize, charSize);
-    ctx.restore();
-
-    // Borda com glow
-    ctx.shadowColor = '#ff69b4';
-    ctx.shadowBlur = 40;
-    ctx.lineWidth = 12;
-    ctx.strokeStyle = '#ffffff';
-    ctx.beginPath();
-    ctx.arc(charX, charY, charSize / 2 + 6, 0, Math.PI * 2);
-    ctx.stroke();
-
-    ctx.shadowBlur = 60;
-    ctx.strokeStyle = 'rgba(255, 255, 255, 0.6)';
-    ctx.lineWidth = 8;
-    ctx.beginPath();
-    ctx.arc(charX, charY, charSize / 2 + 10, 0, Math.PI * 2);
-    ctx.stroke();
-    ctx.shadowBlur = 0;
-
-    // === NOME DO BOT ===
-    ctx.fillStyle = '#ffffff';
-    ctx.font = 'bold 60px Arial, sans-serif';
-    ctx.textAlign = 'center';
-    ctx.shadowColor = 'rgba(0,0,0,0.3)';
-    ctx.shadowBlur = 8;
-    ctx.shadowOffsetY = 4;
-    ctx.fillText(name, width / 2, 80);
-    ctx.shadowBlur = 0;
-
-    // === FUNÇÃO PARA CAIXA DE VIDRO (PEQUENA) ===
-    const drawStatBox = (x, y, title, value, emoji) => {
-      const boxW = 160;
-      const boxH = 70;
-      const radius = 35;
-
-      // Fundo fosco
-      ctx.fillStyle = 'rgba(255, 255, 255, 0.22)';
-      ctx.roundRect(x, y, boxW, boxH, radius);
-      ctx.fill();
-
-      // Borda
-      ctx.strokeStyle = 'rgba(255, 255, 255, 0.5)';
-      ctx.lineWidth = 2;
-      ctx.roundRect(x, y, boxW, boxH, radius);
-      ctx.stroke();
-
-      // Emoji
-      ctx.font = '28px Arial';
-      ctx.fillStyle = '#ffffff';
-      ctx.textAlign = 'center';
-      ctx.fillText(emoji, x + 40, y + 45);
-
-      // Título
-      ctx.font = '16px Arial';
-      ctx.fillText(title, x + 90, y + 28);
-
-      // Valor
-      ctx.font = 'bold 24px Arial';
-      ctx.fillText(value, x + 90, y + 55);
-    };
-
-    // === CAIXAS DE ESTATÍSTICAS (ESQUERDA) ===
-    drawStatBox(100, 140, 'Grupos', groups, 'Group');
-    drawStatBox(100, 230, 'Usuários', users, 'Person');
-
-    // === PING (DIREITA, ALINHADO COM GRUPOS) ===
-    drawStatBox(width - 260, 140, 'Ping', `${ping}s`, 'Speed');
-
-    // === BOTÃO ONLINE (DIREITA, ABAIXO DO PING) ===
-    const btnX = width - 260;
-    const btnY = 230;
-    const btnW = 160;
-    const btnH = 70;
-    const btnR = 35;
-
-    const btnGrad = ctx.createLinearGradient(btnX, btnY, btnX + btnW, btnY + btnH);
-    btnGrad.addColorStop(0, '#ff69b4');
-    btnGrad.addColorStop(1, '#ff1493');
-    ctx.fillStyle = btnGrad;
-    ctx.roundRect(btnX, btnY, btnW, btnH, btnR);
-    ctx.fill();
-
-    ctx.strokeStyle = '#ffffff';
-    ctx.lineWidth = 3;
-    ctx.roundRect(btnX, btnY, btnW, btnH, btnR);
-    ctx.stroke();
-
-    // Ícone Check
-    ctx.font = '28px Arial';
-    ctx.fillStyle = '#ffffff';
-    ctx.textAlign = 'center';
-    ctx.fillText('Check', btnX + 40, btnY + 45);
-
-    // Texto Online
-    ctx.font = 'bold 20px Arial';
-    ctx.fillText('Online', btnX + 100, btnY + 38);
-
-    // Uptime
-    ctx.font = '16px Arial';
-    ctx.fillText(uptime, btnX + 100, btnY + 58);
-
-    // === CORAÇÕES FLUTUANTES (LEVE E DISCRETO) ===
-    const drawHeart = (x, y, size, alpha) => {
-      ctx.globalAlpha = alpha;
-      ctx.fillStyle = '#ff69b4';
-      const s = size;
-      ctx.beginPath();
-      const hx = x, hy = y + s / 4;
-      ctx.moveTo(hx, hy);
-      ctx.bezierCurveTo(hx, hy - s / 2, hx - s, hy - s / 2, hx - s, hy);
-      ctx.bezierCurveTo(hx - s, hy + s / 2, hx, hy + s, hx, hy + s);
-      ctx.bezierCurveTo(hx, hy + s, hx + s, hy + s / 2, hx + s, hy);
-      ctx.bezierCurveTo(hx + s, hy - s / 2, hx, hy - s / 2, hx, hy);
-      ctx.closePath();
-      ctx.fill();
-      ctx.globalAlpha = 1;
-    };
-
-    drawHeart(180, 120, 28, 0.25);
-    drawHeart(width - 180, 120, 26, 0.25);
-    drawHeart(150, 380, 32, 0.18);
-    drawHeart(width - 150, 360, 30, 0.18);
-
-    // === ENVIA IMAGEM ===
-    res.setHeader('Content-Type', 'image/png');
-    res.setHeader('Cache-Control', 'no-cache');
-    res.send(canvas.toBuffer());
-
+    res.set({
+      'Content-Type': 'image/png',
+      'Cache-Control': 'no-store'
+    });
+    res.send(imageBuffer);
   } catch (error) {
     console.error('Erro ao gerar imagem:', error);
-    res.status(500).send('Erro ao gerar imagem');
+    res.status(500).json({ error: 'Erro interno ao gerar a imagem.' });
   }
 });
 
