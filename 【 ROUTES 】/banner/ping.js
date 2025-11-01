@@ -1,7 +1,7 @@
 // api/routes/ping.js
 import express from 'express';
 import puppeteer from 'puppeteer-core';
-import chromium from 'chrome-aws-lambda';
+import chromium from '@sparticuz/chromium';
 
 const router = express.Router();
 
@@ -11,8 +11,10 @@ const initBrowser = async () => {
   if (!browser) {
     browser = await puppeteer.launch({
       args: chromium.args,
-      executablePath: await chromium.executablePath,
+      executablePath: await chromium.executablePath(),
       headless: chromium.headless,
+      defaultViewport: chromium.defaultViewport,
+      ignoreHTTPSErrors: true,
     });
   }
   return browser;
@@ -62,7 +64,7 @@ const generatePingImage = async (bg, char, name, ping, uptime, groups, users) =>
   const browser = await initBrowser();
   const page = await browser.newPage();
   await page.setViewport({ width: 1200, height: 500 });
-  await page.setContent(html, { waitUntil: 'networkidle0' });
+  await page.setContent(html, { waitUntil: 'networkidle0', timeout: 30000 });
 
   const element = await page.$('.banner');
   const buffer = await element.screenshot({ type: 'png' });
@@ -71,6 +73,7 @@ const generatePingImage = async (bg, char, name, ping, uptime, groups, users) =>
   return buffer;
 };
 
+// Endpoint
 router.get('/', async (req, res) => {
   try {
     const {
@@ -86,8 +89,8 @@ router.get('/', async (req, res) => {
     const buffer = await generatePingImage(bg, char, name, ping, uptime, groups, users);
     res.set('Content-Type', 'image/png').send(buffer);
   } catch (error) {
-    console.error('Erro:', error.message);
-    res.status(500).json({ error: 'Falha', details: error.message });
+    console.error('Erro no /ping:', error.message);
+    res.status(500).json({ error: 'Falha ao gerar imagem', details: error.message });
   }
 });
 
