@@ -18,7 +18,7 @@
     "dotenv": "^17.2.3",
     "axios": "^1.7.7",
     "jsdom": "^24.1.0",
-    "html-to-image": "1.11.0", 
+    "html-to-image": "^1.11.11",
     "express": "^5.1.0",
     "translate-google": "^1.5.0",
     "user-agents": "^1.1.377", 
