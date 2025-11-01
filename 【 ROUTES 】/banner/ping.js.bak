@@ -24,6 +24,20 @@ async function loadImageWithFallback(url, fallbackColor = '#cccccc') {
   }
 }
 
+CanvasRenderingContext2D.prototype.roundRect = function (x, y, w, h, r) {
+  if (w < 2 * r) r = w / 2;
+  if (h < 2 * r) r = h / 2;
+  this.beginPath();
+  this.moveTo(x + r, y);
+  this.arcTo(x + w, y, x + w, y + h, r);
+  this.arcTo(x + w, y + h, x, y + h, r);
+  this.arcTo(x, y + h, x, y, r);
+  this.arcTo(x, y, x + w, y, r);
+  this.closePath();
+  return this;
+};
+
+
 
 router.get('/', async (req, res, next) => {
   const {
@@ -56,13 +70,12 @@ router.get('/', async (req, res, next) => {
     ctx.fillStyle = pulseGradient;
     ctx.fillRect(0, 0, width, height);
 
-    // === PERSONAGEM CENTRAL COM PULSO E GLOW ===
+    // === PERSONAGEM CENTRAL COM CLIP E GLOW ===
     const charImg = await loadImageWithFallback(char, '#ff69b4');
     const charSize = 300;
     const charX = width / 2;
     const charY = height / 2;
 
-    // Clip circular
     ctx.save();
     ctx.beginPath();
     ctx.arc(charX, charY, charSize / 2, 0, Math.PI * 2);
@@ -70,7 +83,7 @@ router.get('/', async (req, res, next) => {
     ctx.drawImage(charImg, charX - charSize / 2, charY - charSize / 2, charSize, charSize);
     ctx.restore();
 
-    // Borda com glow duplo
+    // Borda com glow
     ctx.lineWidth = 12;
     ctx.strokeStyle = '#ffffff';
     ctx.shadowColor = '#ff69b4';
@@ -79,7 +92,6 @@ router.get('/', async (req, res, next) => {
     ctx.arc(charX, charY, charSize / 2 + 6, 0, Math.PI * 2);
     ctx.stroke();
 
-    // Glow interno (brilho)
     ctx.shadowBlur = 60;
     ctx.strokeStyle = 'rgba(255, 255, 255, 0.6)';
     ctx.lineWidth = 8;
@@ -90,7 +102,7 @@ router.get('/', async (req, res, next) => {
 
     // === NOME DO BOT ===
     ctx.fillStyle = '#ffffff';
-    ctx.font = 'bold 52px "Comic Sans MS", cursive';
+    ctx.font = 'bold 52px Arial, sans-serif';
     ctx.textAlign = 'center';
     ctx.shadowColor = 'rgba(0,0,0,0.3)';
     ctx.shadowBlur = 6;
@@ -98,28 +110,24 @@ router.get('/', async (req, res, next) => {
     ctx.fillText(name, width / 2, 70);
     ctx.shadowBlur = 0;
 
-    // === CAIXAS COM VIDRO FOSCO (ESQUERDA) ===
+    // === CAIXA DE VIDRO FOSCO (REUTILIZÁVEL) ===
     const drawGlassBox = (x, y, title, value, emoji) => {
-      // Fundo com blur e transparência
       ctx.fillStyle = 'rgba(255, 255, 255, 0.22)';
       ctx.roundRect(x, y, 180, 70, 35);
       ctx.fill();
 
-      // Borda suave
       ctx.strokeStyle = 'rgba(255, 255, 255, 0.5)';
       ctx.lineWidth = 2;
       ctx.stroke();
 
-      // Texto
       ctx.fillStyle = '#ffffff';
-      ctx.font = '16px "Comic Sans MS", sans-serif';
+      ctx.font = '16px Arial';
       ctx.textAlign = 'center';
       ctx.fillText(title, x + 90, y + 25);
 
-      ctx.font = 'bold 24px "Comic Sans MS", sans-serif';
+      ctx.font = 'bold 24px Arial';
       ctx.fillText(value, x + 90, y + 50);
 
-      // Emoji
       ctx.font = '28px Arial';
       ctx.fillText(emoji, x + 35, y + 45);
     };
@@ -127,13 +135,12 @@ router.get('/', async (req, res, next) => {
     drawGlassBox(80, 120, 'Grupos', groups, 'Group');
     drawGlassBox(80, 200, 'Usuários', users, 'Person');
 
-    // === BOTÃO "ONLINE" ESTILOSO ===
+    // === BOTÃO ONLINE ===
     const btnX = width - 280;
     const btnY = 200;
     const btnWidth = 180;
     const btnHeight = 60;
 
-    // Fundo do botão com degradê
     const btnGrad = ctx.createLinearGradient(btnX, btnY, btnX + btnWidth, btnY);
     btnGrad.addColorStop(0, '#ff69b4');
     btnGrad.addColorStop(1, '#ff1493');
@@ -141,30 +148,26 @@ router.get('/', async (req, res, next) => {
     ctx.roundRect(btnX, btnY, btnWidth, btnHeight, 30);
     ctx.fill();
 
-    // Borda brilhante
     ctx.strokeStyle = '#ffffff';
     ctx.lineWidth = 3;
     ctx.stroke();
 
-    // Texto do botão
     ctx.fillStyle = '#ffffff';
-    ctx.font = 'bold 20px "Comic Sans MS", sans-serif';
+    ctx.font = 'bold 20px Arial';
     ctx.textAlign = 'center';
     ctx.fillText('Online', btnX + btnWidth / 2, btnY + 35);
 
-    // Tempo online
-    ctx.font = '16px "Comic Sans MS", sans-serif';
+    ctx.font = '16px Arial';
     ctx.fillText(uptime, btnX + btnWidth / 2, btnY + 55);
 
-    // Ícone de check
     ctx.font = '24px Arial';
     ctx.fillText('Check', btnX + 40, btnY + 38);
 
-    // === VELOCIDADE (CAIXA PEQUENA) ===
+    // === PING ===
     drawGlassBox(width - 260, 120, 'Ping', `${ping}s`, 'Speed');
 
-    // === CORAÇÕES FLUTUANTES COM OPACIDADE ===
-    const drawFloatingHeart = (x, y, size, alpha) => {
+    // === CORAÇÕES FLUTUANTES ===
+    const drawHeart = (x, y, size, alpha) => {
       ctx.globalAlpha = alpha;
       ctx.fillStyle = '#ff69b4';
       const s = size / 2;
@@ -178,19 +181,19 @@ router.get('/', async (req, res, next) => {
       ctx.globalAlpha = 1;
     };
 
-    drawFloatingHeart(150, 100, 30, 0.3);
-    drawFloatingHeart(width - 150, 130, 25, 0.3);
-    drawFloatingHeart(200, 380, 35, 0.2);
-    drawFloatingHeart(width - 200, 360, 30, 0.2);
+    drawHeart(150, 100, 30, 0.3);
+    drawHeart(width - 150, 130, 25, 0.3);
+    drawHeart(200, 380, 35, 0.2);
+    drawHeart(width - 200, 360, 30, 0.2);
 
-    // === ENVIAR IMAGEM ===
+    // === RESPOSTA ===
     res.setHeader('Content-Type', 'image/png');
     res.setHeader('Cache-Control', 'no-cache');
-    res.send(canvas.toBuffer('image/png'));
+    res.send(canvas.toBuffer());
 
   } catch (error) {
-    console.error('Erro ao gerar ping:', error);
-    next(error);
+    console.error('Erro ao gerar imagem:', error);
+    res.status(500).send('Erro ao gerar imagem');
   }
 });
 
