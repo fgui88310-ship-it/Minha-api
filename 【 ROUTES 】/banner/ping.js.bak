@@ -127,7 +127,7 @@ const generatePingImage = async (bg, char, name, ping, uptime, groups, users) =>
 };
 
 // Endpoint
-router.get('/ping', async (req, res) => {
+router.get('/', async (req, res) => {
   try {
     const {
       bg = 'https://i.imgur.com/8x8x8x8.jpg',
