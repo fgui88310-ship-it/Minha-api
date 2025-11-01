@@ -118,7 +118,7 @@ const Ping = async (bg, char, name, ping, uptime, groups, users) => {
   return Buffer.from(base64, 'base64');
 };
 
-router.get('/ping', async (req, res) => {
+router.get('/', async (req, res) => {
   try {
     const {
       bg = 'https://i.imgur.com/8x8x8x8.jpg',
