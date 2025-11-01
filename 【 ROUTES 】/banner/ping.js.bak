@@ -7,9 +7,9 @@ import fetch from 'node-fetch';
 
 const router = express.Router();
 
-// Configuração correta do DOM com Canvas
+// Configuração segura do DOM com Canvas
 const createDom = (html) => {
-  // Cria um canvas para registrar o construtor
+  // Cria canvas e contexto
   const canvas = createCanvas(100, 100);
   const ctx = canvas.getContext('2d');
 
@@ -21,22 +21,19 @@ const createDom = (html) => {
 
   const { window } = dom;
 
-  // Registra Canvas e Image no window
+  // Registra construtores
   window.HTMLCanvasElement = canvas.constructor;
   window.CanvasRenderingContext2D = ctx.constructor;
   window.Image = Image;
 
-  // Sobrescreve getContext
-  const originalGetContext = window.HTMLCanvasElement.prototype.getContext;
+  // NÃO use originalGetContext → causa loop infinito
   window.HTMLCanvasElement.prototype.getContext = function (type) {
-    if (type === '2d') {
-      const c = createCanvas(this.width || 300, this.height || 150);
-      return c.getContext('2d');
-    }
-    return originalGetContext?.call(this, type) || null;
+    if (type !== '2d') return null;
+    const c = createCanvas(this.width || 300, this.height || 150);
+    return c.getContext('2d');
   };
 
-  // Parseia o HTML real com o window configurado
+  // Parseia HTML com o window já configurado
   const finalDom = new JSDOM(html, { window });
   return finalDom;
 };
@@ -54,7 +51,7 @@ const toDataUrl = async (url) => {
   }
 };
 
-// Função principal
+// Gera imagem
 const generatePingImage = async (bg, char, name, ping, uptime, groups, users) => {
   const html = `
 <!DOCTYPE html>
@@ -99,19 +96,18 @@ const generatePingImage = async (bg, char, name, ping, uptime, groups, users) =>
   const dom = createDom(html);
   const document = dom.window.document;
 
-  // Substitui imagem do personagem
+  // Substitui imagem
   const img = document.querySelector('.character');
   if (img && img.src.startsWith('http')) {
     const dataUrl = await toDataUrl(img.src);
     if (dataUrl) img.src = dataUrl;
-    else img.src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=';
   }
 
-  // Pequeno delay
-  await new Promise(r => setTimeout(r, 150));
+  // Aguarda renderização
+  await new Promise(r => setTimeout(r, 200));
 
   const element = document.querySelector('.banner');
-  if (!element) throw new Error('Elemento .banner não encontrado');
+  if (!element) throw new Error('.banner não encontrado');
 
   const dataUrl = await toPng(element, {
     quality: 1,
@@ -119,7 +115,8 @@ const generatePingImage = async (bg, char, name, ping, uptime, groups, users) =>
     width: 1200,
     height: 500,
     style: { backgroundColor: '#ffe6f0' },
-    cacheBust: true
+    cacheBust: true,
+    skipFonts: false
   });
 
   const base64 = dataUrl.replace(/^data:image\/png;base64,/, '');
