@@ -24,21 +24,6 @@ async function loadImageWithFallback(url, fallbackColor = '#cccccc') {
   }
 }
 
-CanvasRenderingContext2D.prototype.roundRect = function (x, y, w, h, r) {
-  if (w < 2 * r) r = w / 2;
-  if (h < 2 * r) r = h / 2;
-  this.beginPath();
-  this.moveTo(x + r, y);
-  this.arcTo(x + w, y, x + w, y + h, r);
-  this.arcTo(x + w, y + h, x, y + h, r);
-  this.arcTo(x, y + h, x, y, r);
-  this.arcTo(x, y, x + w, y, r);
-  this.closePath();
-  return this;
-};
-
-
-
 router.get('/', async (req, res, next) => {
   const {
     char = 'https://i.imgur.com/character.png',
@@ -54,6 +39,22 @@ router.get('/', async (req, res, next) => {
     const height = 500;
     const canvas = createCanvas(width, height);
     const ctx = canvas.getContext('2d');
+
+    // === ADICIONA roundRect APENAS AQUI, DEPOIS DO ctx ===
+    if (!ctx.roundRect) {
+      ctx.roundRect = function (x, y, w, h, r) {
+        if (w < 2 * r) r = w / 2;
+        if (h < 2 * r) r = h / 2;
+        this.beginPath();
+        this.moveTo(x + r, y);
+        this.arcTo(x + w, y, x + w, y + h, r);
+        this.arcTo(x + w, y + h, x, y + h, r);
+        this.arcTo(x, y + h, x, y, r);
+        this.arcTo(x, y, x + w, y, r);
+        this.closePath();
+        return this;
+      };
+    }
 
     // === FUNDO DEGRADÊ SUAVE ===
     const bgGradient = ctx.createRadialGradient(width / 2, height / 2, 0, width / 2, height / 2, width * 0.8);
@@ -110,7 +111,7 @@ router.get('/', async (req, res, next) => {
     ctx.fillText(name, width / 2, 70);
     ctx.shadowBlur = 0;
 
-    // === CAIXA DE VIDRO FOSCO (REUTILIZÁVEL) ===
+    // === CAIXA DE VIDRO FOSCO ===
     const drawGlassBox = (x, y, title, value, emoji) => {
       ctx.fillStyle = 'rgba(255, 255, 255, 0.22)';
       ctx.roundRect(x, y, 180, 70, 35);
