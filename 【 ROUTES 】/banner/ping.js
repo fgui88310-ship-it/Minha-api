@@ -1,10 +1,30 @@
 import express from 'express';
 import { JSDOM } from 'jsdom';
 import { toPng } from 'html-to-image';
+import { createCanvas, loadImage } from 'canvas';
+import fetch from 'node-fetch';
 
 const router = express.Router();
 
-// Função Ping (já fornecida por você)
+// Configuração global do Canvas para o JSDOM
+const configureCanvas = (window) => {
+  const { Canvas, CanvasRenderingContext2D, Image } = createCanvas;
+
+  window.HTMLCanvasElement = Canvas;
+  window.CanvasRenderingContext2D = CanvasRenderingContext2D;
+  window.Image = Image;
+
+  // Simula getContext
+  Canvas.prototype.getContext = function (type) {
+    if (type === '2d') {
+      return this._context2d || (this._context2d = new CanvasRenderingContext2D(this.width, this.height));
+    }
+    return null;
+  };
+
+  return window;
+};
+
 const Ping = async (backgroundImage, characterImage, botName, pingSpeed, uptime, totalGroups, totalUsers) => {
   const htmlContent = `
     <!DOCTYPE html>
@@ -59,63 +79,108 @@ const Ping = async (backgroundImage, characterImage, botName, pingSpeed, uptime,
             <img class="character" src="${characterImage}" />
           </div>
           <div class="info-boxes left-boxes">
-            <div class="box groups-box"><h3>Total de Grupos Group</h3><p>${totalGroups}</p></div>
-            <div class="box users-box"><h3>Total de Usuários Person</h3><p>${totalUsers}</p></div>
+            <div class="box groups-box"><h3>Total de Grupos</h3><p>${totalGroups}</p></div>
+            <div class="box users-box"><h3>Total de Usuários</h3><p>${totalUsers}</p></div>
           </div>
           <div class="info-boxes right-boxes">
-            <div class="box speed-box"><h3>Velocidade Speed</h3><p>${pingSpeed}s</p></div>
-            <div class="box uptime-box"><h3>Tempo Online Check</h3><p>${uptime}</p></div>
+            <div class="box speed-box"><h3>Velocidade</h3><p>${pingSpeed}s</p></div>
+            <div class="box uptime-box"><h3>Tempo Online</h3><p>${uptime}</p></div>
           </div>
         </div>
       </body>
     </html>
   `;
 
-  const dom = new JSDOM(htmlContent, { resources: "usable", runScripts: "dangerously" });
+  // Cria DOM com Canvas
+  const dom = new JSDOM(htmlContent, {
+    resources: "usable",
+    runScripts: "dangerously",
+    pretendToBeVisual: true,
+    beforeParse(window) {
+      configureCanvas(window);
+    }
+  });
+
   const document = dom.window.document;
 
-  await new Promise((resolve) => {
-    const imgs = document.querySelectorAll('img');
-    let loaded = 0;
-    if (imgs.length === 0) return resolve();
+  // Função para carregar imagem como base64
+  const loadImageAsDataURL = async (url) => {
+    try {
+      const response = await fetch(url);
+      if (!response.ok) throw new Error('Falha ao carregar imagem');
+      const buffer = await response.buffer();
+      const base64 = buffer.toString('base64');
+      const mime = response.headers.get('content-type') || 'image/png';
+      return `data:${mime};base64,${base64}`;
+    } catch (err) {
+      console.warn(`Falha ao carregar imagem: ${url}`, err.message);
+      return null;
+    }
+  };
 
-    imgs.forEach(img => {
-      if (img.complete) loaded++;
-      else {
-        img.onload = () => { if (++loaded === imgs.length) resolve(); };
-        img.onerror = () => { if (++loaded === imgs.length) resolve(); };
+  // Substitui imagens externas por data URLs
+  const imgElements = document.querySelectorAll('img');
+  for (const img of imgElements) {
+    const src = img.getAttribute('src');
+    if (src && src.startsWith('http')) {
+      const dataUrl = await loadImageAsDataURL(src);
+      if (dataUrl) {
+        img.setAttribute('src', dataUrl);
+      } else {
+        img.style.display = 'none'; // esconde se falhar
+      }
+    }
+  }
+
+  // Espera fontes e imagens carregarem
+  await new Promise((resolve) => {
+    let loaded = 0;
+    const total = imgElements.length;
+
+    if (total === 0) return resolve();
+
+    imgElements.forEach(img => {
+      if (img.complete) {
+        if (++loaded === total) resolve();
+      } else {
+        img.onload = () => { if (++loaded === total) resolve(); };
+        img.onerror = () => { if (++loaded === total) resolve(); };
       }
     });
-    if (loaded === imgs.length) resolve();
   });
 
   const element = document.querySelector('.banner');
+
+  // Gera PNG com html-to-image
   const dataUrl = await toPng(element, {
     quality: 1,
     pixelRatio: 2,
     width: 1200,
     height: 500,
-    style: { backgroundColor: '#ffe6f0' }
+    style: { backgroundColor: '#ffe6f0' },
+    cacheBust: true,
+    // Força uso do canvas
+    imageTimeout: 30000,
+    skipFonts: false
   });
 
   const base64 = dataUrl.replace(/^data:image\/png;base64,/, '');
   return Buffer.from(base64, 'base64');
 };
 
-// Endpoint GET
+// Endpoint
 router.get('/', async (req, res) => {
   try {
     const {
-      bg = 'https://i.imgur.com/abc123.jpg', // imagem de fundo padrão
-      char = 'https://i.imgur.com/char.png',  // personagem padrão
+      bg = 'https://i.imgur.com/8x8x8x8.jpg',
+      char = 'https://i.imgur.com/bot.png',
       name = 'Meu Bot',
       ping = '0.12',
-      uptime = '2d 5h 30m',
+      uptime = '2d 5h',
       groups = '150',
       users = '1.2K'
     } = req.query;
 
-    // Validação básica
     if (!char || !bg) {
       return res.status(400).json({ error: 'Parâmetros char e bg são obrigatórios.' });
     }
@@ -124,12 +189,13 @@ router.get('/', async (req, res) => {
 
     res.set({
       'Content-Type': 'image/png',
-      'Cache-Control': 'no-store'
+      'Cache-Control': 'no-store',
+      'Access-Control-Allow-Origin': '*'
     });
     res.send(imageBuffer);
   } catch (error) {
     console.error('Erro ao gerar imagem:', error);
-    res.status(500).json({ error: 'Erro interno ao gerar a imagem.' });
+    res.status(500).json({ error: 'Erro ao gerar imagem', details: error.message });
   }
 });
 

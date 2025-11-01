@@ -1,7 +1,10 @@
+import express from 'express';
 import { JSDOM } from 'jsdom';
 import { toPng } from 'html-to-image';
 
-// Função que gera a imagem a partir do seu HTML/CSS
+const router = express.Router();
+
+// Função Ping (já fornecida por você)
 const Ping = async (backgroundImage, characterImage, botName, pingSpeed, uptime, totalGroups, totalUsers) => {
   const htmlContent = `
     <!DOCTYPE html>
@@ -68,11 +71,9 @@ const Ping = async (backgroundImage, characterImage, botName, pingSpeed, uptime,
     </html>
   `;
 
-  // Cria um DOM virtual
   const dom = new JSDOM(htmlContent, { resources: "usable", runScripts: "dangerously" });
   const document = dom.window.document;
 
-  // Espera carregar imagens e fontes
   await new Promise((resolve) => {
     const imgs = document.querySelectorAll('img');
     let loaded = 0;
@@ -88,22 +89,48 @@ const Ping = async (backgroundImage, characterImage, botName, pingSpeed, uptime,
     if (loaded === imgs.length) resolve();
   });
 
-  // Gera PNG
   const element = document.querySelector('.banner');
   const dataUrl = await toPng(element, {
     quality: 1,
     pixelRatio: 2,
     width: 1200,
     height: 500,
-    style: {
-      backgroundColor: '#ffe6f0'
-    }
+    style: { backgroundColor: '#ffe6f0' }
   });
 
-  // Converte data URL para Buffer
   const base64 = dataUrl.replace(/^data:image\/png;base64,/, '');
   return Buffer.from(base64, 'base64');
 };
 
-router.get
-como cria 
+// Endpoint GET
+router.get('/', async (req, res) => {
+  try {
+    const {
+      bg = 'https://i.imgur.com/abc123.jpg', // imagem de fundo padrão
+      char = 'https://i.imgur.com/char.png',  // personagem padrão
+      name = 'Meu Bot',
+      ping = '0.12',
+      uptime = '2d 5h 30m',
+      groups = '150',
+      users = '1.2K'
+    } = req.query;
+
+    // Validação básica
+    if (!char || !bg) {
+      return res.status(400).json({ error: 'Parâmetros char e bg são obrigatórios.' });
+    }
+
+    const imageBuffer = await Ping(bg, char, name, ping, uptime, groups, users);
+
+    res.set({
+      'Content-Type': 'image/png',
+      'Cache-Control': 'no-store'
+    });
+    res.send(imageBuffer);
+  } catch (error) {
+    console.error('Erro ao gerar imagem:', error);
+    res.status(500).json({ error: 'Erro interno ao gerar a imagem.' });
+  }
+});
+
+export default router;
