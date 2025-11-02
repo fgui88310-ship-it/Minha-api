@@ -1,5 +1,5 @@
 import express from 'express';
-import { fetchAnimeData, parseJsonFromScripts, parseHtmlFallback } from '../../【 SCRAPERS 】/animetvService.js';
+import { fetchAnimeData, parseJsonFromScripts, parseHtmlFallback } from '../../services/animetvService.js';
 
 const router = express.Router();
 
