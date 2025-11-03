@@ -1,5 +1,5 @@
 import express from 'express';
-import { searchAppleMusic } from '../【 SCRAPERS 】/appleMusicService.js';
+import { searchAppleMusic } from '../../【 SCRAPERS 】/appleMusicService.js';
 
 const router = express.Router();
 
