@@ -1,19 +1,29 @@
 import axios from 'axios';
-import { BRONXYS_CONFIG } from '../config/bronxysConfig.js';
+import { BRONXYS_CONFIG } from '../config.js';
 
-export async function fetchTabelaBrasileirao(serie) {
-  const url = `${BRONXYS_CONFIG.BASE_URL}?apikey=${BRONXYS_CONFIG.API_KEY}&serie=${serie}`;
+export async function fetchTabelaBrasileirao() {
+  const url = `${BRONXYS_CONFIG.BASE_URL}?apikey=${BRONXYS_CONFIG.API_KEY}`;
   
-  const { data } = await axios.get(url, {
-    timeout: BRONXYS_CONFIG.TIMEOUT,
-    headers: {
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-    },
-  });
+  try {
+    const { data } = await axios.get(url, {
+      timeout: BRONXYS_CONFIG.TIMEOUT,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+      },
+    });
 
-  if (!Array.isArray(data) || data.length === 0) {
-    throw new Error('Tabela vazia ou série não encontrada');
+    if (!Array.isArray(data) || data.length === 0) {
+      throw new Error('Tabela vazia ou dados inválidos retornados pela API');
+    }
+
+    return data;
+  } catch (error) {
+    if (error.response) {
+      throw new Error(`Erro na API: ${error.response.status} - ${error.response.data}`);
+    } else if (error.request) {
+      throw new Error('Sem resposta da API. Verifique sua conexão ou a URL.');
+    } else {
+      throw new Error(`Erro ao configurar requisição: ${error.message}`);
+    }
   }
-
-  return data;
 }

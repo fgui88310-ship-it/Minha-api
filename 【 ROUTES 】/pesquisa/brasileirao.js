@@ -1,30 +1,31 @@
+// routes/brasileirao.js
 import express from 'express';
 import { fetchTabelaBrasileirao } from '../../【 SCRAPERS 】/brasileiraoService.js';
 import { formatTabela } from '../../【 UTILS 】/formatTabela.js';
 
 const router = express.Router();
 
-router.get('/', async (req, res, next) => {
-  const { serie = 'a', limit = 20 } = req.query;
-  const seriesValidas = ['a', 'b', 'c', 'd'];
-
-  if (!seriesValidas.includes(serie.toLowerCase())) {
-    return res.status(400).json({ error: 'Série inválida. Use a, b, c ou d' });
-  }
+router.get('/', async (req, res) => {
+  const { limit = 20 } = req.query;
 
   try {
-    const data = await fetchTabelaBrasileirao(serie.toLowerCase());
-    const tabela = formatTabela(data, limit);
+    const tabelaCompleta = await fetchTabelaBrasileirao(); // já retorna o array
+    const tabela = formatTabela(tabelaCompleta, Number(limit));
 
     res.json({
-      serie: serie.toUpperCase(),
+      serie: 'A',
+      campeonato: 'Brasileirão Série A',
       atualizado_em: new Date().toLocaleString('pt-BR'),
-      total_times: data.length,
+      fonte: 'Gazeta Esportiva (via Bronxys)',
+      total_times: tabelaCompleta.length,
       tabela,
     });
   } catch (err) {
-    console.error('Erro na API Bronxys:', err.message);
-    next(err);
+    console.error('Erro na rota /tabela:', err.message);
+    res.status(500).json({
+      error: 'Falha ao carregar a tabela do Brasileirão',
+      detalhes: err.message,
+    });
   }
 });
 
