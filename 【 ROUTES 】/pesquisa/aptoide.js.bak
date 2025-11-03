@@ -1,6 +1,6 @@
 import express from 'express';
-import { buscarAppAptoide } from '../../【 SCRAPERS 】/aptoideService.js';
-import { gerarLinkCurto } from '../../【 UTILS 】/shortLink.js';
+import { buscarAppAptoide } from '../【 SCRAPERS 】/aptoideService.js';
+import { gerarLinkCurto } from '../【 UTILS 】/shortLink.js';
 
 const router = express.Router();
 
