@@ -1,6 +1,6 @@
 import express from 'express';
 import { fetchTabelaBrasileirao } from '../../【 SCRAPERS 】/brasileiraoService.js';
-import { formatTabela } from '../../【 UTILS 】/formatTabela.js';
+import { formatTabela } from '../../utils/formatTabela.js';
 
 const router = express.Router();
 

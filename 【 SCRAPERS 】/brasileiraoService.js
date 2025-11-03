@@ -1,0 +1,19 @@
+import axios from 'axios';
+import { BRONXYS_CONFIG } from '../config.js';
+
+export async function fetchTabelaBrasileirao(serie) {
+  const url = `${BRONXYS_CONFIG.BASE_URL}?apikey=${BRONXYS_CONFIG.API_KEY}&serie=${serie}`;
+  
+  const { data } = await axios.get(url, {
+    timeout: BRONXYS_CONFIG.TIMEOUT,
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+    },
+  });
+
+  if (!Array.isArray(data) || data.length === 0) {
+    throw new Error('Tabela vazia ou série não encontrada');
+  }
+
+  return data;
+}

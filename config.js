@@ -130,6 +130,11 @@ export function getEmojiFilePath(filename) {
   return path.join(EMOJI_DIR, filename);
 }
 
+export const BRONXYS_CONFIG = {
+  BASE_URL: 'https://api.bronxyshost.com.br/api-bronxys/tabela_camp',
+  API_KEY: 'juniornerd_ISM',
+  TIMEOUT: 8000,
+};
 
 
 /* -------------------------------------------------------------------------- */

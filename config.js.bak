@@ -109,8 +109,6 @@ export const CACHE_DDD = path.join(CACHE, 'cache-estados-completo.json');
 
 export const EMOJI_DIR = path.join('【 EMOJIS 】', 'emojis'); // pasta para salvar os mashups
 
-const outputDir = './downloads';
-
 export const PATHS = {
   baseDir: __dirname,
   tempDir: path.join(__dirname, '【 TEMP 】'),
