@@ -1,5 +1,5 @@
 import express from 'express';
-import { getFilmesEmCartaz } from '../../【 SCRAPERS 】/cinemaService.js';
+import { getFilmesEmCartaz } from '../services/cinemaService.js';
 
 const router = express.Router();
 
