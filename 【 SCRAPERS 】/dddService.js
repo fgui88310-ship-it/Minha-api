@@ -1,0 +1,74 @@
+import fs from 'fs';
+import { normalizarNome } from '../【 UTILS 】/normalize.js';
+import { extractAcronymFromCity } from '../【 UTILS 】/estados.js';
+import { CACHE_DDD } from '../config.js';
+
+function carregarCache() {
+  if (!fs.existsSync(CACHE_DDD)) {
+    throw new Error('Cache não encontrado! Rode o script de cache primeiro.');
+  }
+  return JSON.parse(fs.readFileSync(CACHE_DDD, 'utf8'));
+}
+
+export function buscarCidade(nomeCidade) {
+  const cache = carregarCache();
+  const busca = normalizarNome(nomeCidade);
+
+  for (const [uf, estado] of Object.entries(cache.estados)) {
+    const encontrada = estado.cidades.find(cidade =>
+      normalizarNome(cidade).includes(busca)
+    );
+
+    if (encontrada) {
+      const ddd = Object.keys(cache.ddds).find(key => cache.ddds[key] === uf);
+      return {
+        encontrada: true,
+        cidade: encontrada,
+        ddd,
+        estado: estado.nome,
+        uf,
+        posicao: `${estado.cidades.indexOf(encontrada) + 1}`,
+        totalCidadesEstado: estado.cidades.length
+      };
+    }
+  }
+
+  return { encontrada: false, mensagem: `"${nomeCidade}" não encontrada!` };
+}
+
+export function listarCidadesPorDDD(ddd, limit = 20) {
+  const cache = carregarCache();
+  const uf = cache.ddds[ddd];
+  if (!uf || !cache.estados[uf]) {
+    return { error: `DDD ${ddd} inválido!` };
+  }
+
+  const estado = cache.estados[uf];
+  const cidades = estado.cidades.slice(0, limit);
+  const sigla = extractAcronymFromCity(estado.nome);
+
+  const mensagemFormatada = `[Total: *${estado.cidades.length}*] - Lista de cidades que pertencem ao estado de **${sigla}**:\n—\n`
+    + cidades.map((c, i) => `${i + 1}. ${c}`).join('\n')
+    + (limit < estado.cidades.length ? `\n\n... +${estado.cidades.length - limit} cidades` : '');
+
+  return {
+    sucesso: true,
+    ddd,
+    estado: estado.nome,
+    sigla,
+    totalCidades: estado.cidades.length,
+    mensagem: mensagemFormatada,
+    cidades: cidades.map((nome, i) => ({ posicao: i + 1, nome }))
+  };
+}
+
+export function infoGeral() {
+  const cache = carregarCache();
+  const totalEstados = Object.keys(cache.estados).length;
+  const totalCidades = Object.values(cache.estados)
+    .reduce((sum, e) => sum + e.cidades.length, 0);
+  const totalDDDs = Object.keys(cache.ddds).length;
+  const cacheTamanho = `${(fs.statSync(CACHE_DDD).size / 1024 / 1024).toFixed(1)} MB`;
+
+  return { totalEstados, totalCidades, totalDDDs, cacheTamanho };
+}

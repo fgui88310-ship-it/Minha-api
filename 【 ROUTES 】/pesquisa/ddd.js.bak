@@ -2,7 +2,7 @@ import express from 'express';
 const router = express.Router();
 
 import { buscarCidade, listarCidadesPorDDD, infoGeral } from '../../【 SCRAPERS 】/dddService.js';
-import { extractAcronymFromCity } from '../../【 UTILS 】/estados.js';
+import { extractAcronymFromCity } from '../../utils/estados.js';
 
 router.get('/', (req, res, next) => {
   const { query, ddd, limit = 20 } = req.query;
