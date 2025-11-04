@@ -1,5 +1,5 @@
 import express from 'express';
-import { buscarPalavra } from '../../【 ROUTES 】/dicionarioService.js';
+import { buscarPalavra } from '../../【 SCRAPERS 】/dicionarioService.js';
 
 const router = express.Router();
 
