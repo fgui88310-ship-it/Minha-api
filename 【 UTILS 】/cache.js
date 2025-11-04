@@ -167,6 +167,29 @@ export function getCacheStats() {
   };
 }
 
+/** Cache simples em memória baseado em Map */
+export class MemoryCache {
+  constructor() {
+    this.map = new Map();
+  }
+
+  get(key) {
+    return this.map.get(key);
+  }
+
+  set(key, value) {
+    this.map.set(key, value);
+  }
+
+  has(key) {
+    return this.map.has(key);
+  }
+
+  clear() {
+    this.map.clear();
+  }
+}
+
 // ========================================
 // LIMPEZA AUTOMÁTICA
 // ========================================

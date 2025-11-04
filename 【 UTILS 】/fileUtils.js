@@ -47,3 +47,25 @@ export async function cleanupOldFiles() {
     console.error('[SCRAPER] Erro ao limpar arquivos antigos:', err.message);
   }
 }
+
+/**
+ * Lê todos os arquivos JSON de um diretório e retorna um array de objetos.
+ * Ideal para cache local de dados (ex: emojis, cidades, etc.)
+ */
+export async function loadJsonFiles(dir) {
+  try {
+    const files = await fs.readdir(dir);
+    const jsonFiles = files.filter(f => f.endsWith('.json'));
+    const data = [];
+
+    for (const file of jsonFiles) {
+      const content = await fs.readFile(join(dir, file), 'utf8');
+      data.push(JSON.parse(content));
+    }
+
+    return data;
+  } catch (error) {
+    console.error(`[ERROR] Falha ao ler JSONs de ${dir}:`, error.message);
+    return [];
+  }
+}

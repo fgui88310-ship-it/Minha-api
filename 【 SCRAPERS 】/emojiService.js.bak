@@ -1,0 +1,41 @@
+import { loadJsonFiles } from '../【 UTILS 】/file.js';
+import { MemoryCache } from '../【 UTILS 】/cache.js';
+import { EMOJI_DIR } from '../config.js';
+
+// Carrega todos os emojis da pasta uma única vez
+const allEmojis = loadJsonFiles(EMOJI_DIR);
+
+// Cache em memória para resultados de busca
+const memoryCache = new MemoryCache();
+
+/** Busca por emoji exato */
+export function buscarPorEmoji(emoji) {
+  return allEmojis.find(e => e.emoji === emoji) || null;
+}
+
+/** Busca por texto, categoria ou nome com paginação e cache */
+export function buscarPorTexto(query, limit = 20, page = 1) {
+  const cacheKey = `${query}:${limit}:${page}`;
+  if (memoryCache.has(cacheKey)) return memoryCache.get(cacheKey);
+
+  const matches = allEmojis.filter(d =>
+    d.nome.toLowerCase().includes(query.toLowerCase()) ||
+    d.categoria.toLowerCase().includes(query.toLowerCase())
+  );
+
+  if (matches.length === 0) return [];
+
+  const start = (page - 1) * limit;
+  const paginated = matches.slice(start, start + parseInt(limit));
+
+  memoryCache.set(cacheKey, paginated);
+  return paginated;
+}
+
+/** Informações gerais sobre o total de emojis */
+export function infoGeral() {
+  return {
+    totalEmojis: allEmojis.length,
+    totalCategorias: new Set(allEmojis.map(e => e.categoria)).size
+  };
+}

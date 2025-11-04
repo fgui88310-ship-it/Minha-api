@@ -4,7 +4,7 @@ import { join } from 'path';
 import { fs as fsSync, path as pathLib } from '../【 MODULES 】/libs.js';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
-
+import { PATHS } from '../config.js';
 export async function saveToJson(data, filename) {
   try {
     const timestamp = Date.now();
@@ -32,12 +32,11 @@ export async function saveToJson(data, filename) {
 }
 
 export async function cleanupOldFiles() {
-  const outputDir = join(PATHS.downloadsDir);
   try {
-    const files = await fs.readdir(outputDir);
+    const files = await fs.readdir(PATHS.downloadsDir);
     const now = Date.now();
     for (const file of files) {
-      const filePath = join(outputDir, file);
+      const filePath = join(PATHS.downloadsDir, file);
       const stats = await fs.stat(filePath);
       if (now - stats.mtimeMs > 24 * 60 * 60 * 1000) {
         await fs.unlink(filePath);
