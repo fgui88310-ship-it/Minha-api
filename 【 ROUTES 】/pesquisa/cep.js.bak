@@ -1,6 +1,6 @@
 import express from 'express';
-import { buscarCep } from '../../【 SCRAPERS 】/cepService.js';
-import { formatCepData } from '../../【 UTILS 】/formatCepData.js';
+import { buscarCep } from '../【 SCRAPERS 】/cepService.js';
+import { formatCepData } from '../【 UTILS 】/formatCepData.js';
 
 const router = express.Router();
 
