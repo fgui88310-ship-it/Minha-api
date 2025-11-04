@@ -1,6 +1,6 @@
 // endpoints/gsmarena.js
 import express from 'express';
-import { buscarCelular } from '../../【 SCRAPERS 】/gsmarenaService.js';
+import { buscarCelular } from '../services/gsmarenaService.js';
 
 const router = express.Router();
 

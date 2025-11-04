@@ -1,0 +1,39 @@
+// services/gsmarenaService.js
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+import { converterDolarParaReal } from '../【 UTILS 】/currency.js';
+import { extrairEspecificacoes } from '../【 UTILS 】/cheerioHelpers.js';
+
+const BASE_URL = 'https://www.gsmarena.com.in';
+
+export async function buscarCelular(termoBusca) {
+  try {
+    const termoFormatado = termoBusca.replace(/\s+/g, '+');
+    const searchUrl = `${BASE_URL}/search-products?search=${termoFormatado}&section_id=`;
+    
+    const { data } = await axios.get(searchUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+    const $ = cheerio.load(data);
+    const celularElement = $('.product.product-2').first();
+    if (!celularElement.length) return null;
+
+    const nome = celularElement.find('.item-title a').text().trim() || 'Nome não disponível';
+    const relativeLink = celularElement.find('.item-title a').attr('href');
+    const link = relativeLink ? new URL(relativeLink, BASE_URL).href : null;
+    const imagem = celularElement.find('.item-img-wrapper-link img').attr('src') || 'Imagem não disponível';
+    const preco = celularElement.find('.btn.btn-outline-primary').filter((i, el) => $(el).text().includes('$')).text().trim() || 'Preço não disponível';
+
+    const especificacoes = extrairEspecificacoes($, celularElement);
+
+    return {
+      Nome: nome,
+      Link: link,
+      Imagem: imagem,
+      Preço: preco,
+      PreçoEmReais: converterDolarParaReal(preco),
+      Especificações: especificacoes
+    };
+  } catch (err) {
+    console.error('Erro ao buscar celular:', err.message);
+    return null;
+  }
+}
