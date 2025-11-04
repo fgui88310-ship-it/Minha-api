@@ -3,7 +3,7 @@ import { MemoryCache } from '../【 UTILS 】/cache.js';
 import { EMOJI_DIR } from '../config.js';
 
 // Carrega todos os emojis da pasta uma única vez
-const allEmojis = loadJsonFiles(EMOJI_DIR);
+const allEmojis = await loadJsonFiles(EMOJI_DIR);
 
 // Cache em memória para resultados de busca
 const memoryCache = new MemoryCache();

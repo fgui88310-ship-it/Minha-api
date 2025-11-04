@@ -1,4 +1,4 @@
-import { loadJsonFiles } from '../【 UTILS 】/file.js';
+import { loadJsonFiles } from '../【 UTILS 】/fileUtils.js';
 import { MemoryCache } from '../【 UTILS 】/cache.js';
 import { EMOJI_DIR } from '../config.js';
 
