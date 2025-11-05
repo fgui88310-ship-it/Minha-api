@@ -1,5 +1,5 @@
 import * as cheerio from 'cheerio';
-import { fetchHTML, resolverUrlRedirecionada } from '../utils/httpUtils.js';
+import { fetchHTML, resolverUrlRedirecionada } from '../【 UTILS 】/httpUtils.js';
 
 // 🔹 Busca o conteúdo completo de uma notícia (título + descrição)
 export async function buscarNoticiaCompleta(url) {
