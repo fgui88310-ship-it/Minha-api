@@ -1,0 +1,39 @@
+import * as cheerio from 'cheerio';
+import querystring from 'querystring';
+import { fetchHTML } from '../【 UTILS 】/httpUtils.js';
+
+const GOOGLE_IMG_SEARCH = 'https://www.google.com/search?';
+const IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.webp'];
+
+export async function searchGoogleImages(query, maxResults = 20) {
+  try {
+    const url = GOOGLE_IMG_SEARCH + querystring.stringify({ tbm: 'isch', q: query });
+    const html = await fetchHTML(url);
+    const $ = cheerio.load(html);
+
+    const scripts = $('script');
+    const images = [];
+
+    scripts.each((_, script) => {
+      const content = script.children?.[0]?.data;
+      if (!content) return;
+
+      if (!IMAGE_EXTENSIONS.some(ext => content.toLowerCase().includes(ext))) return;
+
+      const regex = /\["(http.+?)",(\d+),(\d+)\]/g;
+      let match;
+      while ((match = regex.exec(content)) !== null && images.length < maxResults) {
+        images.push({
+          url: match[1],
+          width: parseInt(match[2], 10),
+          height: parseInt(match[3], 10)
+        });
+      }
+    });
+
+    return images;
+  } catch (err) {
+    console.error('[GoogleImageScraper] Erro:', err.message);
+    return [];
+  }
+}

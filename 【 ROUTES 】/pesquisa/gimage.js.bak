@@ -1,5 +1,5 @@
 import express from 'express';
-import { searchGoogleImages } from '../../【 SCRAPERS 】/googleImageScraper.js';
+import { searchGoogleImages } from '../scrapers/googleImageScraper.js';
 
 const router = express.Router();
 
