@@ -1,6 +1,6 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
-import { extrairFilmes } from '../【 UTILS 】/parser.js';
+import { extrairFilmes } from '../【 UTILS 】/parse.js';
 
 const IMDB_URL = 'https://www.imdb.com/find/?';
 
