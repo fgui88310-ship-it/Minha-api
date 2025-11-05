@@ -1,7 +1,7 @@
 import express from 'express';
 const router = express.Router();
 
-import { buscarPorEmoji, buscarPorTexto, infoGeral } from '../../services/emojiService.js';
+import { buscarPorEmoji, buscarPorTexto, infoGeral } from '../../【 SCRAPERS 】/emojiService.js';
 
 router.get('/', (req, res, next) => {
   try {

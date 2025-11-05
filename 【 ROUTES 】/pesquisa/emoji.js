@@ -3,7 +3,7 @@ const router = express.Router();
 
 import { buscarPorEmoji, buscarPorTexto, infoGeral } from '../../【 SCRAPERS 】/emojiService.js';
 
-router.get('/', (req, res, next) => {
+router.get('/', async (req, res, next) => {
   try {
     const { query, emoji, limit = 20, page = 1 } = req.query;
 
@@ -13,13 +13,13 @@ router.get('/', (req, res, next) => {
 
     // 🔹 Busca direta por emoji
     if (emoji) {
-      const result = buscarPorEmoji(emoji);
+      const result = await buscarPorEmoji(emoji); // <-- aqui
       if (!result) return res.status(404).json({ error: 'Emoji não encontrado' });
       return res.json(result);
     }
 
     // 🔹 Busca por texto
-    const results = buscarPorTexto(query, parseInt(limit), parseInt(page));
+    const results = await buscarPorTexto(query, parseInt(limit), parseInt(page)); // <-- aqui
     if (results.length === 0) return res.status(404).json({ error: 'Nenhum emoji encontrado' });
 
     res.json({
