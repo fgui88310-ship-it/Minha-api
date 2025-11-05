@@ -1,5 +1,5 @@
 import express from 'express';
-import { buscarNoticiasIGN } from '../../【 SCRAPERS 】/ignScraper.js';
+import { buscarNoticiasIGN } from '../../scrapers/ignScraper.js';
 
 const router = express.Router();
 

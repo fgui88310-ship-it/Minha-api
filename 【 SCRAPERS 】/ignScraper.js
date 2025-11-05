@@ -1,0 +1,37 @@
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+import { limparTexto, formatarTitulo, montarUrlIgn } from '../【 UTILS 】/htmlUtils.js';
+
+export async function buscarNoticiasIGN({ query = '', limit = 10 }) {
+  console.log('📰 Scraper IGN iniciado...');
+  const { data } = await axios.get('https://br.ign.com/', {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X)',
+      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    },
+    timeout: 10000,
+  });
+
+  const $ = cheerio.load(data);
+  const noticias = [];
+
+  $('article h3 a, .article h3 a, h3 a[href*="/news/"], h3 a[href*="/articles/"]').each((_, el) => {
+    if (noticias.length >= limit) return false;
+
+    const titulo = limparTexto($(el).text());
+    const url = $(el).attr('href');
+
+    if (query && !titulo.toLowerCase().includes(query.toLowerCase())) return true;
+    if (!titulo || !url) return true;
+
+    noticias.push({
+      titulo: formatarTitulo(titulo),
+      link: montarUrlIgn(url),
+      site: 'IGN Brasil',
+      data: new Date().toLocaleString('pt-BR'),
+      categoria: url.includes('/news/') ? 'Notícia' : 'Artigo'
+    });
+  });
+
+  return noticias;
+}
