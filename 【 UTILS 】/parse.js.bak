@@ -17,22 +17,3 @@ export function getTikTokId(url) {
   const match = url.match(/(?:vm\.tiktok\.com\/[a-zA-Z0-9]+|tiktok\.com\/@[\w.-]+\/video\/(\d+))/);
   return match ? match[1] : null;
 }
-
-/**
- * Extrai informações dos filmes da página HTML.
- */
-export function extrairFilmes(html) {
-  const $ = cheerio.load(html);
-  const filmes = [];
-
-  $('.ipc-metadata-list-summary-item').each((_, el) => {
-    const titulo = $(el).find('.ipc-metadata-list-summary-item__t').text().trim();
-    const link = 'https://www.imdb.com' + $(el).find('a.ipc-metadata-list-summary-item__t').attr('href');
-    const ano = $(el).find('.ipc-metadata-list-summary-item__li').first().text().trim() || 'Desconhecido';
-    const poster = $(el).find('img').attr('src') || null;
-
-    if (titulo) filmes.push({ titulo, ano, link, poster });
-  });
-
-  return filmes;
-}

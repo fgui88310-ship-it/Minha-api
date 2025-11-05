@@ -1,5 +1,5 @@
 import express from 'express';
-import { buscarFilmes } from '../../【 SCRAPERS 】/imdbService.js';
+import { buscarFilmes } from '../services/imdbService.js';
 
 const router = express.Router();
 
