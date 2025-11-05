@@ -1,5 +1,5 @@
 import express from 'express';
-import { obterNoticiasComFallback, formatarMensagem } from '../../【 SCRAPERS 】/estadaoService.js';
+import { obterNoticiasComFallback, formatarMensagem } from '../services/estadaoService.js';
 
 const router = express.Router();
 

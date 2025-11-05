@@ -1,0 +1,72 @@
+import axios from 'axios';
+import { parseRSS } from '../【 UTILS 】/rssParser.js';
+import { pegarDescricao, scrapingNoticiasPrincipal } from '../utils/scraper.js';
+import { isValidUrl } from '../【 UTILS 】/urlUtils.js';
+
+const FALLBACK_FEEDS = [
+  'https://estadao.com.br/arc/outboundfeeds/rss/politica/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/economia/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/brasil/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/internacional/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/cultura/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/esportes/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/sustentabilidade/?outputType=xml',
+  'https://estadao.com.br/arc/outboundfeeds/rss/?outputType=xml',
+];
+
+export async function buscarNoticias(feedUrl) {
+  if (!isValidUrl(feedUrl)) return [];
+
+  try {
+    const { data } = await axios.get(feedUrl, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (Android 10; Mobile)' },
+      timeout: 10000,
+    });
+
+    if (!data.includes('<rss')) return [];
+
+    const items = await parseRSS(data);
+    if (!items.length) return [];
+
+    const noticias = await Promise.all(
+      items.slice(0, 3).map(async (item) => {
+        const titulo = item.title?._ || item.title;
+        const link = item.link?.$?.href || item.link || '#';
+        const descricao = item.description?._ || item.summary?._ || await pegarDescricao(link);
+        return { titulo, descricao, link, pubDate: item.pubDate || item.updated || null };
+      })
+    );
+
+    return noticias;
+  } catch {
+    return [];
+  }
+}
+
+export async function obterNoticiasComFallback(feedUrl) {
+  let noticias = await buscarNoticias(feedUrl);
+
+  if (!noticias.length) {
+    for (const fallback of FALLBACK_FEEDS) {
+      noticias = await buscarNoticias(fallback);
+      if (noticias.length) return { noticias, feedUsado: fallback };
+    }
+  }
+
+  if (!noticias.length) {
+    const scraping = await scrapingNoticiasPrincipal();
+    if (scraping.length) return { noticias: scraping, feedUsado: 'scraping' };
+  }
+
+  return { noticias: [], feedUsado: null };
+}
+
+export function formatarMensagem(noticias) {
+  let msg = `📰 *Notícias do Estadão*\n\n`;
+  noticias.forEach((n, i) => {
+    msg += `*${i + 1}. ${n.titulo}*\n`;
+    if (n.descricao && n.descricao !== 'Descrição não disponível') msg += `📝 ${n.descricao}\n`;
+    msg += `🔗 [Leia Mais](${n.link})\n\n`;
+  });
+  return msg;
+}
