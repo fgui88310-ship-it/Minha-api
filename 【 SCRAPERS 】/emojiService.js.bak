@@ -2,40 +2,39 @@ import { loadJsonFiles } from '../【 UTILS 】/fileUtils.js';
 import { MemoryCache } from '../【 UTILS 】/cache.js';
 import { EMOJI_DIR } from '../config.js';
 
-// Carrega todos os emojis da pasta uma única vez
-const allEmojis = loadJsonFiles(EMOJI_DIR);
-
-// Cache em memória para resultados de busca
+let allEmojis = null;
 const memoryCache = new MemoryCache();
 
-/** Busca por emoji exato */
-export function buscarPorEmoji(emoji) {
-  return allEmojis.find(e => e.emoji === emoji) || null;
+function getAllEmojis() {
+  if (!allEmojis) allEmojis = loadJsonFiles(EMOJI_DIR);
+  return allEmojis;
 }
 
-/** Busca por texto, categoria ou nome com paginação e cache */
+export function buscarPorEmoji(emoji) {
+  const data = getAllEmojis();
+  return data.find(e => e.emoji === emoji) || null;
+}
+
 export function buscarPorTexto(query, limit = 20, page = 1) {
+  const data = getAllEmojis();
   const cacheKey = `${query}:${limit}:${page}`;
   if (memoryCache.has(cacheKey)) return memoryCache.get(cacheKey);
 
-  const matches = allEmojis.filter(d =>
+  const matches = data.filter(d =>
     d.nome.toLowerCase().includes(query.toLowerCase()) ||
     d.categoria.toLowerCase().includes(query.toLowerCase())
   );
 
-  if (matches.length === 0) return [];
-
   const start = (page - 1) * limit;
   const paginated = matches.slice(start, start + parseInt(limit));
-
   memoryCache.set(cacheKey, paginated);
   return paginated;
 }
 
-/** Informações gerais sobre o total de emojis */
 export function infoGeral() {
+  const data = getAllEmojis();
   return {
-    totalEmojis: allEmojis.length,
-    totalCategorias: new Set(allEmojis.map(e => e.categoria)).size
+    totalEmojis: data.length,
+    totalCategorias: new Set(data.map(e => e.categoria)).size
   };
 }

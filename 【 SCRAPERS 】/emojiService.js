@@ -6,7 +6,7 @@ let allEmojis = null;
 const memoryCache = new MemoryCache();
 
 function getAllEmojis() {
-  if (!allEmojis) allEmojis = loadJsonFiles(EMOJI_DIR);
+  if (!allEmojis) allEmojis = await loadJsonFiles(EMOJI_DIR);
   return allEmojis;
 }
 
