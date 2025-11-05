@@ -5,19 +5,22 @@ import { EMOJI_DIR } from '../config.js';
 let allEmojis = null;
 const memoryCache = new MemoryCache();
 
-function getAllEmojis() {
-  if (!allEmojis) allEmojis = await loadJsonFiles(EMOJI_DIR);
+async function getAllEmojis() {
+  if (!allEmojis) {
+    allEmojis = await loadJsonFiles(EMOJI_DIR);
+  }
   return allEmojis;
 }
 
-export function buscarPorEmoji(emoji) {
-  const data = getAllEmojis();
+export async function buscarPorEmoji(emoji) {
+  const data = await getAllEmojis();
   return data.find(e => e.emoji === emoji) || null;
 }
 
-export function buscarPorTexto(query, limit = 20, page = 1) {
-  const data = getAllEmojis();
+export async function buscarPorTexto(query, limit = 20, page = 1) {
+  const data = await getAllEmojis();
   const cacheKey = `${query}:${limit}:${page}`;
+
   if (memoryCache.has(cacheKey)) return memoryCache.get(cacheKey);
 
   const matches = data.filter(d =>
@@ -31,8 +34,8 @@ export function buscarPorTexto(query, limit = 20, page = 1) {
   return paginated;
 }
 
-export function infoGeral() {
-  const data = getAllEmojis();
+export async function infoGeral() {
+  const data = await getAllEmojis();
   return {
     totalEmojis: data.length,
     totalCategorias: new Set(data.map(e => e.categoria)).size
