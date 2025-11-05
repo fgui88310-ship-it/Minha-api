@@ -107,7 +107,7 @@ export const maxFrases = limit ? parseInt(limit, 10) : 5; // default limit 5
 
 export const CACHE_DDD = path.join(CACHE, 'cache-estados-completo.json');
 
-export const EMOJI_DIR = path.join('【 EMOJIS 】', 'emojis'); // pasta para salvar os mashups
+export const EMOJI_DIR = path.join('【 EMOJIS 】', 'emoji_info'); // pasta para salvar os mashups
 
 export const PATHS = {
   baseDir: __dirname,
