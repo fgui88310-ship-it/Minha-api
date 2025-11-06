@@ -1,5 +1,5 @@
 import express from 'express';
-import { buscarLetra } from '../../【 SCRAPERS 】/lyricsService.js';
+import { buscarLetra } from '../../services/lyricsService.js';
 
 const router = express.Router();
 

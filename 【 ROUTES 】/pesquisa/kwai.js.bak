@@ -44,4 +44,5 @@ router.get('/', async (req, res, next) => {
   }
 });
 
+console.log("router kwai carregado");
 export default router;
