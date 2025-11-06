@@ -1,5 +1,5 @@
 import Parser from 'rss-parser';
-import { limparHTML } from '../【 UTILS 】/htmlUtils.js';
+import { limparHTML } from '../utils/htmlUtils.js';
 
 const rssParser = new Parser();
 
