@@ -1,6 +1,6 @@
 import express from 'express';
-import { buscarNoticiasJovemPan } from '../../【 SCRAPERS 】/jovemPanService.js';
-import { buscarNoticiasPoder360 } from '../../【 SCRAPERS 】/poder360Service.js';
+import { buscarNoticiasJovemPan } from '../../services/jovemPanService.js';
+import { buscarNoticiasPoder360 } from '../../services/poder360Service.js';
 
 const router = express.Router();
 
