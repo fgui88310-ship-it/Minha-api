@@ -1,0 +1,16 @@
+import axios from 'axios';
+import { extrairDetalhes } from '../utils/imdbParser.js';
+
+/**
+ * Faz a requisição para o IMDb e retorna os dados do filme.
+ */
+export async function obterDetalhesFilme(url) {
+  const { data } = await axios.get(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+      'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
+    },
+  });
+
+  return extrairDetalhes(data, url);
+}

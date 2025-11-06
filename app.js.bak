@@ -157,7 +157,6 @@ import levelupRouter from './【 ROUTES 】/banner/levelup.js';
 
 import shipRouter from './【 ROUTES 】/banner/ship.js';
 
-import pingRouter from './【 ROUTES 】/banner/ping.js';
 
 // nameInfoRouter tambem é banner
 
@@ -332,8 +331,6 @@ app.use('/api/tiktokstalker', tiktokStalkerRouter);
 
 /* --------- [ ROUTERS BANNER ] ---------- */
 app.use('/api/levelup', levelupRouter);
-
-app.use('/api/ping', pingRouter);
 
 app.use('/api/ship', shipRouter);
 

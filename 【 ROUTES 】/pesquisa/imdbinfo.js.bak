@@ -1,5 +1,5 @@
 import express from 'express';
-import { obterDetalhesFilme } from '../../【 SCRAPERS 】/imdbDetalhesService.js';
+import { obterDetalhesFilme } from '../../services/imdbDetalhesService.js';
 
 const router = express.Router();
 
