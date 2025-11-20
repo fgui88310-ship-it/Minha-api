@@ -1,5 +1,5 @@
 import express from 'express';
-import { buscarLetra } from '../../services/lyricsService.js';
+import { buscarLetra } from '../../【 SCRAPERS 】/lyricsService.js';
 
 const router = express.Router();
 
@@ -17,3 +17,4 @@ router.get('/', async (req, res, next) => {
 });
 
 export default router;
+https://minha-api-215t.onrender.com/api/lyrics?topic=505
