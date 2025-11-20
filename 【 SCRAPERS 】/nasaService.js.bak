@@ -1,0 +1,31 @@
+import fetch from 'node-fetch';
+import { translateText } from '../utils/translateText.js';
+
+const API_KEY = '3F7cEz5PlCsWeDTUcvDTS3q9zIjX5fijHPVJHU4F';
+
+export async function getApod(date) {
+  const url = `https://api.nasa.gov/planetary/apod?date=${date}&api_key=${API_KEY}`;
+
+  const response = await fetch(url);
+  const data = await response.json();
+
+  if (!data || !data.title) {
+    return null;
+  }
+
+  // Limpa texto
+  const clean = data.explanation
+    ?.replace(/A new APOD RSS feed.*below\./g, '')
+    .trim() || '';
+
+  // Traduz
+  const translated = await translateText(clean, 'pt');
+
+  return {
+    date,
+    title: data.title,
+    copyright: data.copyright || 'Sem resultado',
+    explanation: translated,
+    imageUrl: data.hdurl
+  };
+}

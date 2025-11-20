@@ -1,5 +1,5 @@
 import express from 'express';
-import { getApod } from '../../【 SCRAPERS 】/nasaService.js';
+import { getApod } from '../../【 SCRAPERS 】/nasa.service.js';
 
 const router = express.Router();
 
