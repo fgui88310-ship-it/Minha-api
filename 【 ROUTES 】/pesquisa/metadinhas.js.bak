@@ -1,6 +1,6 @@
 // api/endpoints/metadinhas.js
 import express from 'express';
-import { getRandomMetadinha, getAllMetadinhas } from '../../【 SCRAPERS 】/metadinhaService.js';
+import { getRandomMetadinha, getAllMetadinhas } from '../../【 SCRAPERS 】/services/metadinhaService.js';
 
 const router = express.Router();
 
