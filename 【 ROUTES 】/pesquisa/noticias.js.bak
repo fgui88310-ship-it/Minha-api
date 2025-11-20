@@ -1,5 +1,5 @@
 import express from 'express';
-import { buscarNoticias } from '../../【 SCRAPERS 】/noticiasService.js';
+import { buscarNoticias } from '../../【 SCRAPERS 】/noticias.service.js';
 
 const router = express.Router();
 
