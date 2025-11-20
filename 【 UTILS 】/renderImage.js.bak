@@ -1,7 +1,7 @@
 import { createCanvas, loadImage } from 'canvas';
 import axios from 'axios';
 import { wrapText } from './wrapText.js';
-import { CANVAS_WIDTH, CANVAS_HEIGHT, BACKGROUND_URL } from '../config.js';
+import { CANVAS_WIDTH, CANVAS_HEIGHT, BACKGROUND_URL } from './constants.js';
 
 export async function renderNameImage(name, info) {
   const width = CANVAS_WIDTH;
