@@ -1,0 +1,32 @@
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+
+export async function fetchNameInfo(name) {
+  const safe = name.trim().toLowerCase();
+  const url = `https://www.behindthename.com/name/${encodeURIComponent(safe)}`;
+
+  const response = await axios.get(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+      'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8'
+    },
+    timeout: 15000
+  });
+
+  const $ = cheerio.load(response.data);
+
+  return {
+    genero: $('.infoname-info .masc').text() || 'Gênero não identificado',
+    uso: $('.infoname-info .usg').text() || 'Uso não identificado',
+    pronuncia: $('#infoname-info-pron').text().split('[')[0].trim(),
+    significado: $('.namedef').text().split('[')[0].trim(),
+    nomesRelacionados: $('.infogroup.relblurb').text().replace(/\s+/g, ' ').trim(),
+    popularidade: $('.popblurb .regionlink').map((_, el) => {
+      const region = $(el).find('.svgtitle').text();
+      const rank = $(el).find('title').text().replace('Last ranked', '').trim();
+      return `${region}: ${rank}`;
+    }).get().join('\n'),
+    percepcao: $('.ratingblurb').text().replace(/\s+/g, ' ').trim(),
+    categorias: $('.tagblurb').text().replace(/\s+/g, ', ').trim()
+  };
+}

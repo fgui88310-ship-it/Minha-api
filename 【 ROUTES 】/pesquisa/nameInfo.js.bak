@@ -1,5 +1,5 @@
 import express from 'express';
-import { fetchNameInfo } from '../../【 SCRAPERS 】/nameService.js';
+import { fetchNameInfo } from '../../fetchNameInfo.js';
 import { renderNameImage } from '../../【 UTILS 】/renderImage.js';
 
 const router = express.Router();
