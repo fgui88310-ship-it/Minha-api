@@ -1,5 +1,5 @@
 import express from 'express';
-import { buscarPacotes } from '../../【 SCRAPERS 】/npmService.js';
+import { buscarPacotes } from '../services/npmService.js';
 
 const router = express.Router();
 
