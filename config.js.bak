@@ -141,6 +141,12 @@ export const DEFAULT_HEADERS = {
   'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
 };
 
+export const CANVAS_WIDTH = 800;
+export const CANVAS_HEIGHT = 600;
+
+export const BACKGROUND_URL =
+  'https://images.unsplash.com/photo-1522441815192-d9f04eb0615c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80';
+
 /* -------------------------------------------------------------------------- */
 /* [ FUTUROS ENDPOINTS ]                                                      */
 /* -------------------------------------------------------------------------- */

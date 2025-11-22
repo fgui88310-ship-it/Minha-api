@@ -1,5 +1,6 @@
 // api/utils/cache.js
 import fs from 'fs';
+import { PINTEREST_CONFIG } from '../config.js';
 
 const CACHE_TTL = 5 * 60 * 1000; // 5 minutos
 const MP3_CACHE_TTL = 24 * 60 * 60 * 1000; // 24 horas
@@ -217,6 +218,40 @@ setInterval(cleanupAllCaches, 2 * 60 * 1000);
 
 // Limpeza inicial
 cleanupAllCaches();
+
+export class PinterestCache {
+  constructor() {
+    this.cache = new Map();
+  }
+
+  key(type, value) {
+    return `${type}:${value.toLowerCase()}`;
+  }
+
+  get(type, value) {
+    const k = this.key(type, value);
+    const cached = this.cache.get(k);
+    if (!cached) return null;
+
+    if (Date.now() - cached.timestamp > PINTEREST_CONFIG.CACHE.EXPIRE_TIME) {
+      this.cache.delete(k);
+      return null;
+    }
+
+    return cached.data;
+  }
+
+  set(type, value, data) {
+    if (this.cache.size >= PINTEREST_CONFIG.CACHE.MAX_SIZE) {
+      this.cache.delete(this.cache.keys().next().value);
+    }
+
+    this.cache.set(this.key(type, value), {
+      data,
+      timestamp: Date.now()
+    });
+  }
+}
 
 // ========================================
 // EXPORTAÇÕES PRINCIPAIS

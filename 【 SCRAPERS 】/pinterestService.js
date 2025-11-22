@@ -1,0 +1,23 @@
+import { PinterestCache } from '../【 UTILS 】/cache.js';
+import { PinterestClient } from '../【 UTILS 】/pinterestClient.js';
+
+const cache = new PinterestCache();
+const client = new PinterestClient();
+
+export async function buscarImagensPinterest(query) {
+  const cached = cache.get('search', query);
+  if (cached) return cached;
+
+  const images = await client.search(query);
+
+  if (images.length === 0) return null;
+
+  const result = {
+    ok: true,
+    type: 'image',
+    urls: images
+  };
+
+  cache.set('search', query, result);
+  return result;
+}

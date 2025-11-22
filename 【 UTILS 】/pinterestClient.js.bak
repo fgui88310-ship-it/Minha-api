@@ -1,0 +1,52 @@
+import axios from 'axios';
+import { parseHTML } from 'linkedom';
+import { PINTEREST_CONFIG } from '../config/pinterest.config.js';
+
+export class PinterestClient {
+  constructor() {
+    this.http = axios.create({
+      baseURL: PINTEREST_CONFIG.API.BASE_URL,
+      timeout: PINTEREST_CONFIG.API.TIMEOUT
+    });
+  }
+
+  async request(config, attempt = 1) {
+    try {
+      return await this.http.request(config);
+    } catch (err) {
+      if (attempt < PINTEREST_CONFIG.RETRY.MAX_ATTEMPTS) {
+        await new Promise(r =>
+          setTimeout(r, PINTEREST_CONFIG.RETRY.DELAY * attempt)
+        );
+        return this.request(config, attempt + 1);
+      }
+
+      throw err;
+    }
+  }
+
+  async search(query) {
+    const response = await this.request({
+      method: 'GET',
+      url: `/search/pins/?q=${encodeURIComponent(query)}`,
+      headers: PINTEREST_CONFIG.API.HEADERS.MOBILE
+    });
+
+    const { document } = parseHTML(response.data);
+    const images = [];
+    let count = 0;
+
+    for (const el of document.querySelectorAll('.hCL')) {
+      const src = el.getAttribute('src');
+      if (src) {
+        images.push(
+          src.replace(/236x/g, PINTEREST_CONFIG.MEDIA.IMAGE_SIZES.LARGE)
+        );
+        count++;
+      }
+      if (count >= 5) break;
+    }
+
+    return images;
+  }
+}
