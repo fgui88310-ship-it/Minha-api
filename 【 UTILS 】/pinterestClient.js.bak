@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { parseHTML } from 'linkedom';
-import { PINTEREST_CONFIG } from '../config/pinterest.config.js';
+import { PINTEREST_CONFIG } from '../config.js';
 
 export class PinterestClient {
   constructor() {
@@ -50,3 +50,5 @@ export class PinterestClient {
     return images;
   }
 }
+
+como faz pra usa a ap 

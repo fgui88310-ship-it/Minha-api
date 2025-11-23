@@ -1,4 +1,4 @@
-import { PinterestCache } from '../【 UTILS 】/pinterestCache.js';
+import { PinterestCache } from '../【 UTILS 】/cache.js';
 import { PinterestClient } from '../【 UTILS 】/pinterestClient.js';
 
 const cache = new PinterestCache();
@@ -21,3 +21,4 @@ export async function buscarImagensPinterest(query) {
   cache.set('search', query, result);
   return result;
 }
+como podemos cria um codigo separado para entende pq nao ta achando as imagens

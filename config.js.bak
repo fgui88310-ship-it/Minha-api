@@ -147,6 +147,32 @@ export const CANVAS_HEIGHT = 600;
 export const BACKGROUND_URL =
   'https://images.unsplash.com/photo-1522441815192-d9f04eb0615c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80';
 
+export const PINTEREST_CONFIG = {
+  API: {
+    BASE_URL: 'https://br.pinterest.com',
+    TIMEOUT: 30000,
+    HEADERS: {
+      MOBILE: {
+        'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36'
+      },
+      DESKTOP: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+      }
+    }
+  },
+  MEDIA: {
+    IMAGE_SIZES: { LARGE: '736x' }
+  },
+  CACHE: {
+    MAX_SIZE: 1000,
+    EXPIRE_TIME: 30 * 60 * 1000
+  },
+  RETRY: {
+    MAX_ATTEMPTS: 3,
+    DELAY: 1000
+  }
+};
+
 /* -------------------------------------------------------------------------- */
 /* [ FUTUROS ENDPOINTS ]                                                      */
 /* -------------------------------------------------------------------------- */

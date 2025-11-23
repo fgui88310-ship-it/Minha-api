@@ -1,5 +1,5 @@
 import express from 'express';
-import { buscarImagensPinterest } from '../../services/pinterest.service.js';
+import { buscarImagensPinterest } from '../../【 SCRAPERS 】/pinterestService.js';
 
 const router = express.Router();
 

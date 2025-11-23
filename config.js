@@ -173,6 +173,13 @@ export const PINTEREST_CONFIG = {
   }
 };
 
+export const PLAYSTORE_CONFIG = {
+  MAX_LIMIT: 50,
+  LANG: 'pt-BR',
+  COUNTRY: 'br',
+  CACHE_PREFIX: 'playstore:q:'
+};
+
 /* -------------------------------------------------------------------------- */
 /* [ FUTUROS ENDPOINTS ]                                                      */
 /* -------------------------------------------------------------------------- */

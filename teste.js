@@ -1,109 +1,78 @@
-import fetch from "node-fetch";
+import { PinterestClient } from './【 UTILS 】/pinterestClient.js';
+import { PinterestCache } from './【 UTILS 】/cache.js';
 
-// Versão do client usada pelo YouTube
-const CLIENT_VERSION = "2.20251120.00.00";
+// Limpa cache antigo pra forçar nova busca
+const cache = new PinterestCache();
 
-// Pesquisa o canal pelo termo
-async function pesquisarCanalPorTexto(termo) {
-  const url = "https://m.youtube.com/youtubei/v1/search?prettyPrint=false";
-  const body = {
-    query: termo,
-    context: { client: { clientName: "WEB", clientVersion: CLIENT_VERSION } }
-  };
+const client = new PinterestClient();
 
-  const r = await fetch(url, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(body)
-  });
+// Lista de queries para testar (coloque as que estão falhando pra você)
+const queriesParaTestar = [
+  "flores bonitas",
+  "carro vermelho",
+  "gato fofo",
+  "wallpaper 4k",
+  "aesthetic girl",
+  "tatuagem minimalista",
+  // adicione aqui exatamente a query que não está funcionando pra você
+  "SEU_QUERY_QUE_NAO_FUNCIONA"
+];
 
-  const json = await r.json();
+async function diagnosticar(query) {
+  console.log(`\n🔍 Testando query: "${query}"`);
+  console.log('='.repeat(60));
 
-  const items = json?.contents?.twoColumnSearchResultsRenderer?.primaryContents?.sectionListRenderer?.contents || [];
-  
-  for (const section of items) {
-    const results = section?.itemSectionRenderer?.contents || [];
-    for (const item of results) {
-      if (item.channelRenderer) {
-        const ch = item.channelRenderer;
-        return {
-          nome: ch.title?.simpleText || "Desconhecido",
-          channelId: ch.channelId,
-          avatar: ch.thumbnail?.thumbnails?.slice(-1)[0]?.url
-        };
+  try {
+    // 1. Mostra headers que estão sendo enviados (importante!)
+    console.log('Headers sendo enviados:');
+    console.log(client.getHeaders?.() || client.headers || 'não disponível');
+
+    // 2. Força uma busca nova (sem cache)
+    const start = Date.now();
+    const imagens = await client.search(query);
+    const tempo = Date.now() - start;
+
+    console.log(`⏱️  Tempo de resposta: ${tempo}ms`);
+    console.log(`📊 Quantidade de imagens retornadas: ${imagens.length}`);
+
+    if (imagens.length > 0) {
+      console.log('✅ Primeiras 5 URLs:');
+      imagens.slice(0, 5).forEach((url, i) => {
+        console.log(`   \( {i + 1}. \){url}`);
+      });
+    } else {
+      console.log('❌ Nenhuma imagem encontrada');
+      
+      // 3. Mostra a resposta raw (se o client permitir)
+      if (client.lastResponse) {
+        console.log('\n📄 Última resposta completa (JSON):');
+        console.log(JSON.stringify(client.lastResponse, null, 2).slice(0, 1000) + '...');
+      }
+
+      if (client.lastError) {
+        console.log('\n🚨 Erro capturado:');
+        console.log(client.lastError);
       }
     }
+  } catch (err) {
+    console.log('💥 Erro crítico na busca:');
+    console.error(err.message || err);
   }
-  return null;
+
+  console.log('='.repeat(60));
 }
 
-// Extrai informações públicas do canal
-function extrairInfos(json, channelId) {
-  const header = json.header?.c4TabbedHeaderRenderer
-                 || json.header?.profileHeaderRenderer
-                 || json.header?.channelHeaderRenderer;
+// Roda o diagnóstico para todas as queries
+async function rodarTodosOsTestes() {
+  console.log('🛠️  INICIANDO DIAGNÓSTICO DO PINTEREST CLIENT\n');
+  
+  for (const q of queriesParaTestar) {
+    await diagnosticar(q);
+    // Pequena pausa pra não ser bloqueado
+    await new Promise(r => setTimeout(r, 2000));
+  }
 
-  const metadata = json.metadata?.channelMetadataRenderer;
-
-  // Avatar e Banner
-  const avatar = header?.avatar?.thumbnails?.slice(-1)[0]?.url
-               || metadata?.avatar?.thumbnails?.slice(-1)[0]?.url;
-  const banner = header?.banner?.thumbnails?.slice(-1)[0]?.url
-               || metadata?.banner?.thumbnails?.slice(-1)[0]?.url;
-
-  // Número total de vídeos aproximado
-  let totalVideos = 0;
-  try {
-    const tabs = json.contents?.twoColumnBrowseResultsRenderer?.tabs || [];
-    const videosTab = tabs.find(t => t.tabRenderer?.title?.toLowerCase() === "vídeos" || t.tabRenderer?.title?.toLowerCase() === "videos");
-    const items = videosTab?.tabRenderer?.content?.sectionListRenderer?.contents || [];
-    for (const sec of items) {
-      const videoItems = sec?.itemSectionRenderer?.contents || [];
-      totalVideos += videoItems.filter(v => v.videoRenderer).length;
-    }
-  } catch {}
-
-  // Links fixados públicos
-  let linksFixados = [];
-  try {
-    linksFixados = header?.channelActions?.buttons?.map(b => b?.buttonRenderer?.navigationEndpoint?.urlEndpoint?.url || null).filter(Boolean) || [];
-  } catch {}
-
-  // Visualizações totais
-  const totalViews = metadata?.viewCountText?.simpleText || "Não disponível";
-
-  return {
-    nome: header?.title || metadata?.title || "Desconhecido",
-    inscritos: header?.subscriberCountText?.simpleText || "Não disponível",
-    descricao: metadata?.description || "Sem descrição",
-    avatar,
-    banner,
-    totalVideos,
-    totalViews,
-    linksFixados,
-    channelId
-  };
+  console.log('🏁 Diagnóstico concluído!');
 }
 
-// Busca perfil completo
-async function buscarPerfilYoutube(termo) {
-  const canal = await pesquisarCanalPorTexto(termo);
-  if (!canal) return { erro: "Nenhum canal encontrado" };
-
-  const url = "https://m.youtube.com/youtubei/v1/browse?prettyPrint=false";
-  const body = { browseId: canal.channelId, context: { client: { clientName: "MWEB", clientVersion: CLIENT_VERSION } } };
-
-  const r = await fetch(url, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(body)
-  });
-
-  const json = await r.json();
-  return extrairInfos(json, canal.channelId);
-}
-
-// =======================
-// TESTE
-// =======================
-buscarPerfilYoutube("Jazzghost").then(console.log).catch(console.error);
+rodarTodosOsTestes();
