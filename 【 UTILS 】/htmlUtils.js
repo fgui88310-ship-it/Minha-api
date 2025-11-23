@@ -24,7 +24,7 @@ export function formatarTitulo(titulo, limite = 120) {
 /**
  * Completa URLs do IGN Brasil (relativas ou absolutas)
  */
-export function montarUrlIgn = (url) => {
+export const montarUrlIgn = (url) => {
   if (!url) return '';
 
   if (url.startsWith('http')) return url;
@@ -43,7 +43,6 @@ export function limparHTML(html) {
   const $ = cheerio.load(html);
   $('script, style, noscript, iframe, svg, path, symbol, defs, header, footer, nav').remove();
 
-  // Remove textos indesejados que sempre aparecem no IGN (cookies, propaganda, etc.)
   const texto = $('body')
     .text()
     .replace(/Aceitar todos os cookies|Rejeitar todos os cookies|Gerenciar cookies/gi, '')
@@ -51,21 +50,4 @@ export function limparHTML(html) {
     .trim();
 
   return texto;
-}
-
-/**
- * Exemplo rápido de uso (pode apagar se não quiser)
- */
-async function testar() {
-  try {
-    const resposta = await axios.get('https://br.ign.com/', {
-      headers: { 'User-Agent': USER_AGENT },
-    });
-
-    console.log('Título:', formatarTitulo(resposta.data.match(/<title>(.*?)<\/title>/i)?.[1] || ''));
-    console.log('Primeiros 300 caracteres do texto limpo:');
-    console.log(limparHTML(resposta.data).substring(0, 300) + '...');
-  } catch (err) {
-    console.error('Erro:', err.message);
-  }
 }
