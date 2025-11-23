@@ -1,5 +1,5 @@
 import express from 'express';
-import PornhubService from '../../【 SCRAPERS 】/pornhubService.js';
+import PornhubService from '../../services/pornhubService.js';
 
 const router = express.Router();
 
