@@ -26,19 +26,3 @@ async function getGifs(query, limit = 5, page = 1) {
 }
 
 export default { getVideos, getGifs };
-
-o resquet é assim
-import axios from 'axios';
-import http from 'http';
-import https from 'https';
-import { CONFIG } from '../config.js';
-
-export const axiosInstance = axios.create({
-  baseURL: CONFIG.API.BASE_URL,
-  timeout: CONFIG.API.TIMEOUT,
-  httpAgent: new http.Agent({ keepAlive: true }),
-  httpsAgent: new https.Agent({ keepAlive: true }),
-  headers: CONFIG.API.HEADERS
-});
-
-pq ta dando error

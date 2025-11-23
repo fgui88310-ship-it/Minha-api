@@ -1,4 +1,4 @@
-import { axiosInstance as http } from '../【 SCRAPERS 】/axiosClient.js';  // <-- aqui o "as http"
+import { axiosInstance as http } from '../【 UTILS 】/axiosClient.js';  // <-- aqui o "as http"
 import PornhubModule from '../【 MODULES 】/pornhubModule.js';
 
 async function getVideos(query, limit = 5, page = 1) {
