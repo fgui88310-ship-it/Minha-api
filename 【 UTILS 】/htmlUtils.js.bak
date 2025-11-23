@@ -23,12 +23,6 @@ import * as cheerio from 'cheerio';
 /**
  * Remove scripts, estilos e retorna apenas texto limpo.
  */
-export function limparHTML(html) {
-  if (!html) return '';
-  const $ = cheerio.load(html);
-  $('script, style, noscript, iframe, svg').remove();
-  return $.text().trim();
-}
 
 export function limparHTML(html) {
   if (!html) return '';
