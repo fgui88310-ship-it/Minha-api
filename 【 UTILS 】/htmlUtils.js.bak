@@ -1,32 +1,38 @@
-import * as cheerio from 'cheerio';
-
-export function limparTexto(texto) {
-  return texto?.replace(/\s+/g, ' ').trim() || '';
-}
-
-export function formatarTitulo(titulo, limite = 120) {
-  return titulo.length > limite ? titulo.substring(0, limite - 3) + '...' : titulo;
-}
-
-export function montarUrlIgn(url) {
-  if (!url.startsWith('http')) return `https://br.ign.com${url}`;
-  return url;
-}
-
+// scraper-ign.ts (ou .js)
 import axios from 'axios';
+import * as cheerio from 'cheerio';   // ← ÚNICO import do cheerio
 
 export const USER_AGENT =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
-  
-import * as cheerio from 'cheerio';
 
 /**
- * Remove scripts, estilos e retorna apenas texto limpo.
+ * Remove quebra de linhas excessivas e espaços em branco
  */
+export function limparTexto(texto: string | undefined): string {
+  return texto?.replace(/\s+/g, ' ').trim() || '';
+}
 
-export function limparHTML(html) {
+/**
+ * Limita o tamanho do título e adiciona "..." se necessário
+ */
+export function formatarTitulo(titulo: string, limite = 120): string {
+  return titulo.length > limite ? titulo.substring(0, limite - 3) + '...' : titulo;
+}
+
+/**
+ * Completa URLs relativas do IGN Brasil
+ */
+export function montarUrlIgn(url: string): string {
+  if (!url.startsWith('http')) return `https://br.ign.com\( {url.startsWith('/') ? '' : '/'} \){url}`;
+  return url;
+}
+
+/**
+ * Remove scripts, styles e retorna apenas o texto limpo do HTML
+ */
+export function limparHTML(html: string): string {
   if (!html) return '';
   const $ = cheerio.load(html);
-  $('script, style, noscript, iframe, svg').remove();
-  return $.text().trim();
+  $('script, style, noscript, iframe, svg, path, symbol, defs').remove();
+  return $('body').text().trim(); // pegar só o body deixa ainda mais limpo
 }

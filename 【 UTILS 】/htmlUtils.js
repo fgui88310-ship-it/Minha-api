@@ -23,8 +23,13 @@ export function formatarTitulo(titulo: string, limite = 120): string {
  * Completa URLs relativas do IGN Brasil
  */
 export function montarUrlIgn(url: string): string {
-  if (!url.startsWith('http')) return `https://br.ign.com\( {url.startsWith('/') ? '' : '/'} \){url}`;
-  return url;
+  if (!url) return url;
+  
+  if (url.startsWith('http')) return url;
+  if (url.startsWith('//')) return 'https:' + url;
+  if (url.startsWith('/')) return 'https://br.ign.com' + url;
+  
+  return 'https://br.ign.com/' + url;
 }
 
 /**
