@@ -180,6 +180,13 @@ export const PLAYSTORE_CONFIG = {
   CACHE_PREFIX: 'playstore:q:'
 };
 
+export const PODER360_CONFIG = {
+  FEED_URL: 'https://www.poder360.com.br/feed',
+  TIMEOUT: 8000,
+  USER_AGENT: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+  LIMITE_NOTICIAS: 3
+};
+
 /* -------------------------------------------------------------------------- */
 /* [ FUTUROS ENDPOINTS ]                                                      */
 /* -------------------------------------------------------------------------- */

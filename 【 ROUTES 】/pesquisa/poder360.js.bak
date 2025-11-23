@@ -1,5 +1,5 @@
 import express from 'express';
-import { buscarNoticiasPoder360 } from '../../【 SCRAPERS 】/poder360Service.js';
+import { buscarNoticiasPoder360 } from '../../services/poder360.service.js';
 
 const router = express.Router();
 

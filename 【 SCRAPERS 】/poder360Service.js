@@ -1,25 +1,33 @@
-import Parser from 'rss-parser';
+import axios from 'axios';
+import xml2js from 'xml2js';
 import { limparHTML } from '../【 UTILS 】/htmlUtils.js';
+import { PODER360_CONFIG } from '../config.js';
 
-const rssParser = new Parser();
-
-/**
- * Lê o feed RSS do Poder360 e extrai as últimas notícias.
- */
-export async function buscarNoticiasPoder360(limit = 3) {
+export async function buscarNoticiasPoder360() {
   try {
-    const feed = await rssParser.parseURL('https://www.poder360.com.br/feed/');
-    const noticias = feed.items.slice(0, limit).map((item) => ({
-      titulo: item.title || 'Sem título',
-      link: item.link || '',
-      imagem: item.enclosure?.url || '',
-      categoria: item.categories?.[0] || 'Sem categoria',
-      descricao: limparHTML(item['content:encoded'] || item.description || ''),
-      pubDate: item.pubDate || '',
-    }));
-    return noticias;
+    const { FEED_URL, TIMEOUT, USER_AGENT, LIMITE_NOTICIAS } = PODER360_CONFIG;
+
+    const { data: xml } = await axios.get(FEED_URL, {
+      headers: { 'User-Agent': USER_AGENT },
+      timeout: TIMEOUT
+    });
+
+    const parser = new xml2js.Parser({ explicitArray: false });
+    const parsed = await parser.parseStringPromise(xml);
+
+    const items = parsed.rss?.channel?.item || [];
+    const lista = Array.isArray(items) ? items : [items];
+
+    return lista.slice(0, LIMITE_NOTICIAS).map(it => {
+      const rawDesc = it['content:encoded'] || it.description || '';
+      return {
+        titulo: it.title || '',
+        descricao: limparHTML(rawDesc),
+        link: typeof it.link === 'object' ? it.link._ : it.link
+      };
+    });
   } catch (err) {
-    console.error('[PODER360 RSS]', err.message);
-    return [];
+    console.error('[PODER360 SERVICE]', err.message);
+    return null;
   }
 }
