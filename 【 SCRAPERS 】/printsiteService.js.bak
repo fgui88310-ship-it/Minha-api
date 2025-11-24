@@ -1,0 +1,27 @@
+import { http } from '../【 UTILS 】/axiosClient.js';
+import PrintsiteModule from '../【 MODULES 】/printsiteModule.js';
+
+async function captureScreenshot(url) {
+  try {
+    const apiUrl = PrintsiteModule.screenshotUrl(url);
+
+    const response = await http.get(apiUrl, {
+      responseType: 'arraybuffer'
+    });
+
+    if (!response.headers['content-type']?.startsWith('image/')) {
+      return { error: 'Nenhum screenshot válido retornado pelo serviço' };
+    }
+
+    return {
+      contentType: response.headers['content-type'],
+      data: response.data
+    };
+
+  } catch (err) {
+    console.error('[PrintsiteService] Erro ao capturar screenshot:', err.message);
+    return { error: 'Erro ao capturar screenshot' };
+  }
+}
+
+export default { captureScreenshot };

@@ -1,6 +1,6 @@
 import express from 'express';
 import PrintsiteService from '../../【 SCRAPERS 】/printsiteService.js';
-import { isValidUrl } from '../../【 VALIDATORS 】/printsite.js';
+import { isValidUrl } from '../../【 UTILS 】/validateUrl.js';
 
 const router = express.Router();
 
