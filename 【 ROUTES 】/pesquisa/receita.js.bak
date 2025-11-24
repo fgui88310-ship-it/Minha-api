@@ -1,5 +1,5 @@
 import express from 'express';
-import ReceitaService from '../../【 SCRAPERS 】/receitaService.js';
+import ReceitaService from '../../services/receitaService.js';
 
 const router = express.Router();
 

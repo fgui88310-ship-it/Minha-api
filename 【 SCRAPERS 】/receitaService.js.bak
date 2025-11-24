@@ -1,0 +1,19 @@
+import { http } from '../【 UTILS 】/axiosClient.js';
+import ReceitaModule from '../【 MODULES 】/receitaModule.js';
+import { parseReceitas } from '../parsers/receitaParser.js';
+
+async function searchReceitas(q) {
+  try {
+    const url = ReceitaModule.searchUrl(q);
+    const { data: html } = await http.get(url);
+
+    const receitas = parseReceitas(html);
+    return receitas;
+
+  } catch (err) {
+    console.error('[ReceitaService] Erro:', err.message);
+    return [];
+  }
+}
+
+export default { searchReceitas };
