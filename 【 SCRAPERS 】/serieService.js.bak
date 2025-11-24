@@ -1,0 +1,21 @@
+import { http } from '../【 UTILS 】/axiosClient.js';
+import SerieModule from '../【 MODULES 】/serieModule.js';
+import { parseSeries } from '../parsers/serieParser.js';
+
+async function searchSeries(query, limit) {
+  try {
+    const url = SerieModule.searchUrl(query);
+    const { data } = await http.get(url);
+
+    if (!data.results || data.results.length === 0) return [];
+
+    return parseSeries(data.results, limit);
+
+  } catch (err) {
+    console.error('[SerieService] erro:', err.message);
+    return [];
+  }
+}
+
+export default { searchSeries };
+

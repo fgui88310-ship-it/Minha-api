@@ -1,0 +1,17 @@
+import SerieModule from '../【 MODULES 】/serieModule.js';
+
+export function parseSeries(results, limit = 5) {
+  return results.slice(0, limit).map(s => ({
+    id: s.id,
+    titulo: s.name,
+    original_title: s.original_name,
+    overview: s.overview || "Sem descrição disponível",
+    poster: SerieModule.posterUrl(s.poster_path),
+    backdrop: SerieModule.backdropUrl(s.backdrop_path),
+    first_air_date: s.first_air_date,
+    vote_average: s.vote_average,
+    vote_count: s.vote_count,
+    popularity: s.popularity,
+    adult: s.adult
+  }));
+}

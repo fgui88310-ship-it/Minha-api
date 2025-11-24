@@ -1,5 +1,5 @@
 import express from 'express';
-import SerieService from '../../【 SCRAPERS 】/serieService.js';
+import SerieService from '../../services/serieService.js';
 
 const router = express.Router();
 
