@@ -1,4 +1,4 @@
-import { buscarNoticiasEsportes } from "../【 SCRAPERS 】/sports.service.js";
+import { buscarNoticiasEsportes } from "../【 SCRAPERS 】/sportsService.js";
 
 export async function sportsNewsController(req, res, next) {
   const { limit = 5 } = req.query;
