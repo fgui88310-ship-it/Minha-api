@@ -1,0 +1,47 @@
+import { googleTranslate } from '../services/translator.service.js';
+
+export async function translatePostController(req, res, next) {
+  const { text, from = 'auto', to = 'en' } = req.body;
+
+  if (!text || typeof text !== 'string') {
+    return res.status(400).json({
+      error: 'Parâmetros obrigatórios: text (string)'
+    });
+  }
+
+  try {
+    const translated = await googleTranslate(text, from, to);
+
+    res.json({
+      success: true,
+      original: { text, lang: from },
+      translated: { text: translated, lang: to }
+    });
+  } catch (err) {
+    next(err);
+  }
+}
+
+export async function translateGetController(req, res, next) {
+  const { text, from = 'auto', to = 'en' } = req.query;
+
+  if (!text) {
+    return res.status(400).json({
+      error: 'Parâmetro obrigatório: ?text='
+    });
+  }
+
+  try {
+    const translated = await googleTranslate(text, from, to);
+
+    res.json({
+      success: true,
+      original: text,
+      translated,
+      from,
+      to
+    });
+  } catch (err) {
+    next(err);
+  }
+}

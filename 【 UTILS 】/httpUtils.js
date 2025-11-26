@@ -1,4 +1,5 @@
 import axios from 'axios';
+import fetch from 'node-fetch';
 
 export const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 
@@ -21,4 +22,18 @@ export async function resolverUrlRedirecionada(url) {
     console.error('[HTTP UTILS][REDIRECT]', err.message);
     return url;
   }
+}
+
+export async function httpPost(url, body, headers = {}) {
+  const response = await fetch(url, {
+    method: 'POST',
+    headers,
+    body
+  });
+
+  if (!response.ok) {
+    throw new Error(`HTTP error ${response.status}`);
+  }
+
+  return response.json();
 }

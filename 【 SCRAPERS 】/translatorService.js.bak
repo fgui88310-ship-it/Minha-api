@@ -1,0 +1,23 @@
+import { httpPost } from '../【 UTILS 】/http.js';
+import fetch from 'node-fetch';
+
+export async function googleTranslate(text, from = 'auto', to = 'en') {
+  const url = `https://translate.google.com/translate_a/single?client=at&dt=t&dj=1`;
+
+  const body = new URLSearchParams({
+    sl: from,
+    tl: to,
+    q: text
+  }).toString();
+
+  const data = await httpPost(url, body, {
+    'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8'
+  });
+
+  if (!data.sentences) return '';
+
+  return data.sentences
+    .filter(s => s.trans)
+    .map(s => s.trans)
+    .join('');
+}

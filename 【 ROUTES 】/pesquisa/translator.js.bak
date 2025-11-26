@@ -2,7 +2,7 @@ import express from 'express';
 import { 
   translatePostController,
   translateGetController
-} from '../../【 SCRAPERS 】/translatorController.js';
+} from '../../【 SCRAPERS 】/translator.controller.js';
 
 const router = express.Router();
 
