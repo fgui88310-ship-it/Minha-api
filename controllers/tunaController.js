@@ -1,4 +1,4 @@
-import { searchTunaSounds } from "../【 SCRAPERS 】/tuna.service.js";
+import { searchTunaSounds } from "../【 SCRAPERS 】/tunaService.js";
 
 export async function tunaSearchController(req, res, next) {
   const { query, limit = 5 } = req.query;
