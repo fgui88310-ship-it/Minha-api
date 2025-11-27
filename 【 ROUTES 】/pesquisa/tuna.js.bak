@@ -1,5 +1,5 @@
 import express from "express";
-import { tunaSearchController } from "../../controllers/tunaController.js";
+import { tunaSearchController } from "../../controllers/tuna.controller.js";
 
 const router = express.Router();
 
