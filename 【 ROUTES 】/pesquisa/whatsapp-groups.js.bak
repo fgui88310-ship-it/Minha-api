@@ -1,6 +1,6 @@
 // api/endpoints/grupos.js
 import express from "express";
-import { buscarGrupos } from "../../【 SCRAPERS 】/gruposService.js";
+import { buscarGrupos } from "../services/gruposService.js";
 
 const router = express.Router();
 
