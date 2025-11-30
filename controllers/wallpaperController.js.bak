@@ -1,0 +1,19 @@
+import { fetchWallpapers } from "../../services/wallpaper.service.js";
+
+export async function wallpaperController(req, res, next) {
+  const { q = "anime", limit = 5 } = req.query;
+
+  try {
+    const wallpapers = await fetchWallpapers(q, limit);
+
+    if (!wallpapers.length) {
+      return res.status(404).json({
+        error: "Nenhum wallpaper encontrado.",
+      });
+    }
+
+    res.json(wallpapers);
+  } catch (err) {
+    next(err);
+  }
+}
