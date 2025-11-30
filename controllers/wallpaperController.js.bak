@@ -1,4 +1,4 @@
-import { fetchWallpapers } from "../../services/wallpaper.service.js";
+import { fetchWallpapers } from "../../【 SCRAPERS 】/wallpaper.service.js";
 
 export async function wallpaperController(req, res, next) {
   const { q = "anime", limit = 5 } = req.query;

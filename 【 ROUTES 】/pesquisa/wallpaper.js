@@ -1,5 +1,5 @@
 import express from "express";
-import { wallpaperController } from "../../controllers/wallpaper.controller.js";
+import { wallpaperController } from "../../controllers/wallpaperController.js";
 
 const router = express.Router();
 
