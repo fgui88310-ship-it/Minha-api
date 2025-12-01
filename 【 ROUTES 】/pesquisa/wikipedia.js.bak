@@ -1,6 +1,6 @@
 // api/endpoints/wikipedia.js
 import express from "express";
-import { buscarWikipedia } from "../../【 SCRAPERS 】/wikipediaService.js";
+import { buscarWikipedia } from "../services/wikipediaService.js";
 
 const router = express.Router();
 
