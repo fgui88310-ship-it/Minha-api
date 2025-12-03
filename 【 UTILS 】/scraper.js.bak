@@ -62,35 +62,3 @@ export async function scrapingNoticiasPrincipal() {
     return [];
   }
 }
-
-export async function scrapeXvideos(query, limit) {
-  const searchUrl = `https://www.xvideos.com/?k=${encodeURIComponent(query)}`;
-  const { data } = await axios.get(searchUrl, {
-    headers: { "User-Agent": "Mozilla/5.0" },
-    timeout: 5000,
-  });
-
-  const $ = cheerio.load(data);
-  const videos = [];
-
-  $("#content .mozaique .thumb-block").each((_, video) => {
-    if (videos.length >= limit) return false;
-
-    const el = $(video);
-    const titleEl = el.find("p a").eq(0);
-
-    const title = titleEl.text().trim();
-    const url = titleEl.attr("href");
-
-    if (!title || !url) return;
-
-    videos.push({
-      title,
-      url: "https://www.xvideos.com" + url,
-      duration: el.find(".duration").text().trim(),
-      thumb: el.find(".thumb img").attr("data-src")?.replace("THUMBNUM", "5") || null,
-    });
-  });
-
-  return videos;
-}

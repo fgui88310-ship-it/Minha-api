@@ -1,0 +1,15 @@
+export function extractVideoId(input) {
+  try {
+    const url = new URL(input);
+
+    if (url.hostname.includes("youtube.com"))
+      return url.searchParams.get("v");
+
+    if (url.hostname.includes("youtu.be"))
+      return url.pathname.split("/")[1];
+
+    return null;
+  } catch {
+    return null;
+  }
+}

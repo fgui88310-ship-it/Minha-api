@@ -1,6 +1,6 @@
 import express from "express";
 import { getCache, setCache } from "../../【 UTILS 】/cache.js";
-import { fetchYouTubeData } from "../../【 SCRAPERS 】/youtubeService.js";
+import { fetchYouTubeData } from "../../services/youtubeService.js";
 
 const router = express.Router();
 

@@ -1,0 +1,39 @@
+import { extractVideoId } from "../【 UTILS 】/youtube-parser.js";
+import { youtubeSearchRequest, youtubePlayerRequest } from "../【 UTILS 】/youtube-fetch.js";
+
+export async function fetchYouTubeData(queryOrUrl) {
+  const start = Date.now();
+  let videoId = extractVideoId(queryOrUrl);
+
+  try {
+    if (!videoId) {
+      const searchData = await youtubeSearchRequest(queryOrUrl);
+      const firstVideo = searchData.contents?.twoColumnSearchResultsRenderer?.primaryContents
+        ?.sectionListRenderer?.contents?.[0]?.itemSectionRenderer?.contents
+        ?.find(item => item.videoRenderer);
+
+      if (!firstVideo) return null;
+      videoId = firstVideo.videoRenderer.videoId;
+    }
+
+    const playerData = await youtubePlayerRequest(videoId);
+    const vr = playerData.videoDetails;
+    const micro = playerData.microformat?.playerMicroformatRenderer;
+
+    return {
+      title: vr.title,
+      videoId: vr.videoId,
+      url: `https://www.youtube.com/watch?v=${vr.videoId}`,
+      description: vr.shortDescription,
+      duration: vr.lengthSeconds + "s",
+      views: vr.viewCount,
+      channel: vr.author,
+      thumbnails: vr.thumbnail?.thumbnails || [],
+      published: micro?.uploadDate || "Não encontrado",
+      searchTimeMs: Date.now() - start
+    };
+  } catch (err) {
+    console.error("[YouTubeService]", err.message);
+    return null;
+  }
+}
