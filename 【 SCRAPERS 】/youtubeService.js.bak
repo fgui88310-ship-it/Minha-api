@@ -48,25 +48,23 @@ export async function fetchYouTubeData(queryOrUrl) {
 
     // 2. Pega os detalhes reais do vídeo
     const playerData = await youtubePlayerRequest(videoId);
-    const vd = playerData.videoDetails;
-    const micro = playerData.microformat?.playerMicroformatRenderer;
+    const vd = playerData.videoDetails || {};
+const micro = playerData.microformat?.playerMicroformatRenderer || {};
 
-    if (!vd) return null;
-
-    return {
-      success: true,
-      title: vd.title || "Sem título",
-      videoId: vd.videoId,
-      url: `https://www.youtube.com/watch?v=${vd.videoId}`,
-      description: vd.shortDescription || "",
-      duration: vd.isLiveContent ? "AO VIVO" : `${vd.lengthSeconds}s`,
-      views: Number(vd.viewCount) || 0,
-      channel: vd.author || "Desconhecido",
-      channelId: vd.channelId || null,
-      thumbnails: vd.thumbnail?.thumbnails?.sort((a, b) => b.width - a.width) || [],
-      published: micro?.uploadDate || micro?.publishDate || "Data desconhecida",
-      searchTimeMs: Date.now() - start,
-    };
+return {
+  success: true,
+  title: vd.title ?? "Sem título",
+  videoId: vd.videoId ?? videoId,
+  url: `https://www.youtube.com/watch?v=${vd.videoId ?? videoId}`,
+  description: vd.shortDescription ?? "",
+  duration: vd.isLiveContent ? "AO VIVO" : (vd.lengthSeconds ? `${vd.lengthSeconds}s` : null),
+  views: Number(vd.viewCount) || 0,
+  channel: vd.author ?? "Desconhecido",
+  channelId: vd.channelId || null,
+  thumbnails: vd.thumbnail?.thumbnails?.sort((a, b) => b.width - a.width) || [],
+  published: micro.uploadDate ?? micro.publishDate ?? null,
+  searchTimeMs: Date.now() - start,
+};
 
   } catch (err) {
     console.error("[YouTubeService] Erro:", err.message);
