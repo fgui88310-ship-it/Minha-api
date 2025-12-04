@@ -1,5 +1,5 @@
 import { extractVideoId } from "../【 UTILS 】/youtube-parser.js";
-import { youtubeSearchRequest, youtubePlayerRequest } from "../utils/youtube-fetch.js";
+import { youtubeSearchRequest, youtubePlayerRequest } from "../【 UTILS 】/youtube-fetch.js";
 
 export async function fetchYouTubeData(queryOrUrl) {
   const start = Date.now();
