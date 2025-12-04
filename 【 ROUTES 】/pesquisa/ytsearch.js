@@ -18,6 +18,7 @@ router.get("/", async (req, res, next) => {
 
   try {
     const data = await fetchYouTubeData(input);
+    console.log(data)
 
     if (!data) {
       return res.status(404).json({ error: "Vídeo não encontrado" });
