@@ -10,30 +10,35 @@ export async function fetchYouTubeData(queryOrUrl) {
   try {
     // 1. Se não for link/ID direto → busca
     if (!videoId) {
-      const data = await youtubeSearchRequest(queryOrUrl);
+  const data = await youtubeSearchRequest(queryOrUrl);
 
-      const sections = data.contents?.twoColumnSearchResultsRenderer?.primaryContents
-        ?.sectionListRenderer?.contents || [];
+  const contents =
+    data.contents?.twoColumnSearchResultsRenderer?.primaryContents
+      ?.sectionListRenderer?.contents?.flatMap(s =>
+        s.itemSectionRenderer?.contents ||
+        s.richSectionRenderer?.content?.richShelfRenderer?.contents ||
+        []
+      ) ||
+    data.contents?.tabbedSearchResultsRenderer?.tabs?.flatMap(t =>
+      t.tabRenderer?.content?.sectionListRenderer?.contents?.flatMap(s =>
+        s.itemSectionRenderer?.contents ||
+        []
+      )
+    ) ||
+    []; // fallback final
 
-      for (const section of sections) {
-        const contents = section.itemSectionRenderer?.contents || 
-                        section.richSectionRenderer?.content?.richShelfRenderer?.contents || [];
+  let video;
+  for (const item of contents) {
+    video =
+      item.videoRenderer ||
+      item.compactVideoRenderer ||
+      item.richItemRenderer?.content?.videoRenderer;
+    if (video?.videoId) break;
+  }
 
-        for (const item of contents) {
-          const video = item.videoRenderer || 
-                       item.compactVideoRenderer || 
-                       item.richItemRenderer?.content?.videoRenderer;
-
-          if (video?.videoId) {
-            videoId = video.videoId;
-            break;
-          }
-        }
-        if (videoId) break;
-      }
-
-      if (!videoId) return null;
-    }
+  videoId = video?.videoId;
+  if (!videoId) return null;
+}
 
     // 2. Pega os detalhes reais do vídeo
     const playerData = await youtubePlayerRequest(videoId);
