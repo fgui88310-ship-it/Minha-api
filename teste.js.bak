@@ -1,78 +1,47 @@
-import { PinterestClient } from './【 UTILS 】/pinterestClient.js';
-import { PinterestCache } from './【 UTILS 】/cache.js';
+import fetch from "node-fetch";
 
-// Limpa cache antigo pra forçar nova busca
-const cache = new PinterestCache();
+// Pegue esses valores abrindo youtube.com no navegador logado
+const COOKIE = "CONSENT=YES+cb.20250312-12-p0.pt-BR+FX+123; __Secure-3PSID=xxx; ..."; // cole tudo
+const CLIENT_VERSION = "2.20251204.01.00"; // atualize sempre que parar de funcionar
 
-const client = new PinterestClient();
+const headers = {
+  "Content-Type": "application/json",
+  "Origin": "https://www.youtube.com",
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+  "Cookie": COOKIE,
+  "X-Youtube-Client-Name": "1",
+  "X-Youtube-Client-Version": CLIENT_VERSION,
+};
 
-// Lista de queries para testar (coloque as que estão falhando pra você)
-const queriesParaTestar = [
-  "flores bonitas",
-  "carro vermelho",
-  "gato fofo",
-  "wallpaper 4k",
-  "aesthetic girl",
-  "tatuagem minimalista",
-  // adicione aqui exatamente a query que não está funcionando pra você
-  "SEU_QUERY_QUE_NAO_FUNCIONA"
-];
-
-async function diagnosticar(query) {
-  console.log(`\n🔍 Testando query: "${query}"`);
-  console.log('='.repeat(60));
-
-  try {
-    // 1. Mostra headers que estão sendo enviados (importante!)
-    console.log('Headers sendo enviados:');
-    console.log(client.getHeaders?.() || client.headers || 'não disponível');
-
-    // 2. Força uma busca nova (sem cache)
-    const start = Date.now();
-    const imagens = await client.search(query);
-    const tempo = Date.now() - start;
-
-    console.log(`⏱️  Tempo de resposta: ${tempo}ms`);
-    console.log(`📊 Quantidade de imagens retornadas: ${imagens.length}`);
-
-    if (imagens.length > 0) {
-      console.log('✅ Primeiras 5 URLs:');
-      imagens.slice(0, 5).forEach((url, i) => {
-        console.log(`   \( {i + 1}. \){url}`);
-      });
-    } else {
-      console.log('❌ Nenhuma imagem encontrada');
-      
-      // 3. Mostra a resposta raw (se o client permitir)
-      if (client.lastResponse) {
-        console.log('\n📄 Última resposta completa (JSON):');
-        console.log(JSON.stringify(client.lastResponse, null, 2).slice(0, 1000) + '...');
-      }
-
-      if (client.lastError) {
-        console.log('\n🚨 Erro capturado:');
-        console.log(client.lastError);
-      }
+export async function youtubeSearchRequest(query) {
+  const res = await fetch(
+    "https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8QfKXiZw2Ylt0eRGJlv9ciA&prettyPrint=false",
+    {
+      method: "POST",
+      headers,
+      body: JSON.stringify({
+        context: {
+          client: {
+            clientName: "WEB",
+            clientVersion: CLIENT_VERSION,
+            hl: "pt",
+            gl: "BR",
+          },
+        },
+        query,
+      }),
     }
-  } catch (err) {
-    console.log('💥 Erro crítico na busca:');
-    console.error(err.message || err);
+  );
+
+  if (!res.ok) {
+    console.error("Erro:", res.status, await res.text());
+    return null;
   }
 
-  console.log('='.repeat(60));
+  return res.json();
 }
 
-// Roda o diagnóstico para todas as queries
-async function rodarTodosOsTestes() {
-  console.log('🛠️  INICIANDO DIAGNÓSTICO DO PINTEREST CLIENT\n');
-  
-  for (const q of queriesParaTestar) {
-    await diagnosticar(q);
-    // Pequena pausa pra não ser bloqueado
-    await new Promise(r => setTimeout(r, 2000));
-  }
-
-  console.log('🏁 Diagnóstico concluído!');
-}
-
-rodarTodosOsTestes();
+// Teste rápido
+youtubeSearchRequest("never gonna give you up")
+  .then(data => console.log("Funcionou! Vídeos encontrados:", data.contents?.twoColumnSearchResultsRenderer?.primaryContents?.sectionListRenderer?.contents[0]?.itemSectionRenderer?.contents?.length || 0))
+  .catch(console.error);
