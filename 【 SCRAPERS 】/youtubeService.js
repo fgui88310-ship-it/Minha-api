@@ -1,4 +1,4 @@
-// 【 SERVICES 】/youtube-service.js  ← versão FUNCIONANDO AGORA MESMO
+// 【 SERVICES 】/youtube-service.js  ← VERSÃO FINAL DEZEMBRO 2025
 
 import { extractVideoId } from "../【 UTILS 】/youtube-parser.js";
 import { youtubeSearchRequest, youtubePlayerRequest } from "../【 UTILS 】/youtube-fetch.js";
@@ -8,79 +8,57 @@ export async function fetchYouTubeData(queryOrUrl) {
   let videoId = extractVideoId(queryOrUrl);
 
   try {
-    // 1. Se não tiver ID (é busca por texto), vai buscar
+    // 1. Se não for link/ID direto → busca
     if (!videoId) {
-      const searchData = await youtubeSearchRequest(queryOrUrl);
+      const data = await youtubeSearchRequest(queryOrUrl);
 
-      // ←←← AQUI ESTAVA O PROBLEMA! Caminho antigo quebrou ←←←
-      // Vamos usar a mesma lógica robusta que funcionou no teste
-
-      const sections =
-        searchData.contents?.twoColumnSearchResultsRenderer?.primaryContents
-          ?.sectionListRenderer?.contents || [];
-
-      let foundVideo = null;
+      const sections = data.contents?.twoColumnSearchResultsRenderer?.primaryContents
+        ?.sectionListRenderer?.contents || [];
 
       for (const section of sections) {
-        // Caso normal (mais comum)
-        if (section.itemSectionRenderer?.contents) {
-          foundVideo = section.itemSectionRenderer.contents.find(item => 
-            item.videoRenderer || item.compactVideoRenderer
-          );
-          if (foundVideo) {
-            videoId = foundVideo.videoRenderer?.videoId || foundVideo.compactVideoRenderer?.videoId;
+        const contents = section.itemSectionRenderer?.contents || 
+                        section.richSectionRenderer?.content?.richShelfRenderer?.contents || [];
+
+        for (const item of contents) {
+          const video = item.videoRenderer || 
+                       item.compactVideoRenderer || 
+                       item.richItemRenderer?.content?.videoRenderer;
+
+          if (video?.videoId) {
+            videoId = video.videoId;
             break;
           }
         }
-
-        // Caso novo: aba "Vídeos" com richShelfRenderer
-        if (section.richSectionRenderer?.content?.richShelfRenderer?.contents) {
-          const richItems = section.richSectionRenderer.content.richShelfRenderer.contents;
-          for (const rich of richItems) {
-            const video = rich.richItemRenderer?.content?.videoRenderer;
-            if (video?.videoId) {
-              videoId = video.videoId;
-              foundVideo = video;
-              break;
-            }
-          }
-          if (videoId) break;
-        }
+        if (videoId) break;
       }
 
-      if (!videoId) {
-        console.warn("[YouTubeService] Nenhum vídeo encontrado na busca:", queryOrUrl);
-        return null;
-      }
+      if (!videoId) return null;
     }
 
-    // 2. Agora pega os detalhes do vídeo
+    // 2. Pega os detalhes reais do vídeo
     const playerData = await youtubePlayerRequest(videoId);
-
-    const details = playerData.videoDetails;
+    const vd = playerData.videoDetails;
     const micro = playerData.microformat?.playerMicroformatRenderer;
 
-    if (!details) {
-      console.warn("[YouTubeService] videoDetails vazio para ID:", videoId);
-      return null;
-    }
+    if (!vd) return null;
 
     return {
-      title: details.title || "Sem título",
-      videoId: details.videoId,
-      url: `https://www.youtube.com/watch?v=${details.videoId}`,
-      description: details.shortDescription || "",
-      duration: details.lengthSeconds ? `${details.lengthSeconds}s` : "Ao vivo",
-      views: details.viewCount || "0",
-      channel: details.author || "Canal desconhecido",
-      thumbnails: details.thumbnail?.thumbnails || [],
-      published: micro?.uploadDate || micro?.publishDate || "Data não encontrada",
-      channelId: details.channelId || null,
+      success: true,
+      title: vd.title || "Sem título",
+      videoId: vd.videoId,
+      url: `https://www.youtube.com/watch?v=${vd.videoId}`,
+      description: vd.shortDescription || "",
+      duration: vd.isLiveContent ? "AO VIVO" : `${vd.lengthSeconds}s`,
+      views: Number(vd.viewCount) || 0,
+      channel: vd.author || "Desconhecido",
+      channelId: vd.channelId || null,
+      thumbnails: vd.thumbnail?.thumbnails?.sort((a, b) => b.width - a.width) || [],
+      published: micro?.uploadDate || micro?.publishDate || "Data desconhecida",
       searchTimeMs: Date.now() - start,
     };
 
   } catch (err) {
-    console.error("[YouTubeService] Erro ao buscar vídeo:", err.message);
-    return null;
+    console.error("[YouTubeService] Erro:", err.message);
+    return { success: false, error: err.message };
   }
 }
