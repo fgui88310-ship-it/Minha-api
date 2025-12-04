@@ -1,20 +1,21 @@
-// test-fetch.js
-import { youtubeSearchRequest } from "./【 UTILS 】/youtube-fetch.js";  // ajuste o path
+import { youtubeSearchRequest } from "./【 UTILS 】/youtube-fetch.js";
 
-async function teste() {
-  try {
-    console.log("Testando busca...");
-    const data = await youtubeSearchRequest("never gonna give you up");
-    
-    if (data.contents?.twoColumnSearchResultsRenderer) {
-      console.log("✅ FUNCIONOU! Estrutura de busca encontrada.");
-      console.log("Primeira seção:", Object.keys(data.contents.twoColumnSearchResultsRenderer));
-    } else {
-      console.log("❌ Estrutura mudou de novo. Dados:", JSON.stringify(data, null, 2).slice(0, 500));
-    }
-  } catch (err) {
-    console.error("❌ ERRO:", err.message);
-  }
-}
+// Troque por qualquer termo que você quiser testar
+const termo = "gatinhos";
 
-teste();
+youtubeSearchRequest(termo)
+  .then(data => {
+    console.log("🔍 Keys de `contents`:", Object.keys(data.contents || {}));
+    console.log("\n🧩 Primeiras linhas do JSON:");
+    console.log(JSON.stringify(data, null, 2).slice(0, 5000)); // só pra não explodir o terminal
+
+    // Salvar arquivo pra analisar depois
+    import("node:fs").then(fs => {
+      fs.writeFileSync(`debug-${termo}.json`, JSON.stringify(data, null, 2));
+      console.log(`\n📂 Arquivo salvo: debug-${termo}.json`);
+    });
+
+  })
+  .catch(err => {
+    console.error("❌ Erro na busca:", err.message);
+  });

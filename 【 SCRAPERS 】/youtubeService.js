@@ -12,32 +12,38 @@ export async function fetchYouTubeData(queryOrUrl) {
     if (!videoId) {
   const data = await youtubeSearchRequest(queryOrUrl);
 
-  const contents =
-    data.contents?.twoColumnSearchResultsRenderer?.primaryContents
-      ?.sectionListRenderer?.contents?.flatMap(s =>
-        s.itemSectionRenderer?.contents ||
-        s.richSectionRenderer?.content?.richShelfRenderer?.contents ||
-        []
-      ) ||
-    data.contents?.tabbedSearchResultsRenderer?.tabs?.flatMap(t =>
-      t.tabRenderer?.content?.sectionListRenderer?.contents?.flatMap(s =>
-        s.itemSectionRenderer?.contents ||
-        []
-      )
-    ) ||
-    []; // fallback final
+  const sections = data.contents?.twoColumnSearchResultsRenderer?.primaryContents
+    ?.sectionListRenderer?.contents || [];
 
-  let video;
-  for (const item of contents) {
-    video =
-      item.videoRenderer ||
-      item.compactVideoRenderer ||
-      item.richItemRenderer?.content?.videoRenderer;
-    if (video?.videoId) break;
+  let foundId = null;
+
+  for (const section of sections) {
+    const items =
+      section.itemSectionRenderer?.contents ||
+      section.richSectionRenderer?.content?.richShelfRenderer?.contents ||
+      [];
+
+    for (const item of items) {
+      const video =
+        item.videoRenderer ||
+        item.compactVideoRenderer ||
+        item.richItemRenderer?.content?.videoRenderer;
+
+      if (video?.videoId) {
+        foundId = video.videoId;
+        break;
+      }
+    }
+
+    // só sai do laço NESTE momento
+    if (foundId) break;
   }
 
-  videoId = video?.videoId;
-  if (!videoId) return null;
+  if (!foundId) {
+    return null;
+  }
+
+  videoId = foundId;
 }
 
     // 2. Pega os detalhes reais do vídeo
