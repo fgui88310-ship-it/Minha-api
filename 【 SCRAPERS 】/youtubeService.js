@@ -1,7 +1,7 @@
 // 【 SERVICES 】/youtube-service.js  ← VERSÃO CORRIGIDA 2025
 import axios from "axios";
 import { extractVideoId } from "../【 UTILS 】/youtube-parser.js";
-import { youtubeSearchRequest } from "../【 UTILS 】/youtube-fetch.js";
+import { youtubeSearchRequest, youtubePlayerRequest} from "../【 UTILS 】/youtube-fetch.js";
 
 // 📌 Função auxiliar (fica fora do try)
 async function obterDetalhesVideo(videoId) {
