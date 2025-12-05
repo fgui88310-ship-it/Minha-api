@@ -1,114 +1,150 @@
-// 【 SERVICES 】/youtube-service.js  ← VERSÃO CORRIGIDA 2025
+// 【 SERVICES 】/youtube-service.js — Patch 2025 v3
 import axios from "axios";
 import { extractVideoId } from "../【 UTILS 】/youtube-parser.js";
-import { youtubeSearchRequest, youtubePlayerRequest} from "../【 UTILS 】/youtube-fetch.js";
+import {
+  youtubeSearchRequest,
+  youtubePlayerRequest
+} from "../【 UTILS 】/youtube-fetch.js";
 
-// 📌 Função auxiliar (fica fora do try)
+// Ativar logs → DEBUG=true na URL?debug
+const DEBUG = false;
+
+/** 🧠 Logs inteligentes */
+function log(...args) {
+  if (DEBUG) console.log(...args);
+}
+
+/** 1️⃣ Pega dados completos do player API */
 async function obterDetalhesVideo(videoId) {
-  const player = await youtubePlayerRequest(videoId);
+  const data = await youtubePlayerRequest(videoId);
 
-  const micro = player.microformat?.playerMicroformatRenderer;
+  const details = data.videoDetails || {};
+  const micro = data.microformat?.playerMicroformatRenderer || {};
+
+  log("🎥 Player Title:", details.title);
+  log("👀 Player Views:", details.viewCount);
 
   return {
-    title: player.videoDetails?.title || "Sem título",
-    views: Number(
-      player.videoDetails?.viewCount ||
-      micro?.viewCount ||
-      0
-    ),
-    duration: Number(player.videoDetails?.lengthSeconds || 0),
-    description: player.videoDetails?.shortDescription || "",
-    channel: player.videoDetails?.author || "Desconhecido",
-    channelId: player.videoDetails?.channelId || null,
-    published: micro?.publishDate || null,
-    thumbnails: player.videoDetails?.thumbnail?.thumbnails || []
+    title: details.title || null,
+    views: parseInt(details.viewCount ?? micro.viewCount ?? 0) || null,
+    duration: parseInt(details.lengthSeconds || 0) || null,
+    description: details.shortDescription || null,
+    channel: details.author || null,
+    channelId: details.channelId || null,
+    published: micro.publishDate || null,
+    thumbnails: details.thumbnail?.thumbnails || []
   };
 }
-// 📌 Fallback de dados ausentes
-async function fillFallbacksIfNeeded(result) {
-  // oEmbed
-  if (!result.title || result.thumbnails.length === 0) {
-    try {
-      const oembedUrl = `https://www.youtube.com/oembed?url=${encodeURIComponent(result.url)}&format=json`;
-      const r = await axios.get(oembedUrl);
-      const o = r.data;
 
-      result.title = result.title ?? o.title;
-      result.channel = result.channel ?? o.author_name;
-      if (!result.thumbnails.length && o.thumbnail_url) {
-        result.thumbnails = [{ url: o.thumbnail_url }];
+/** 2️⃣ Fallbacks: oEmbed + HTML scrape */
+async function preencherFallbacks(video) {
+  // → oEmbed (preenche título/canal/thumbnail)
+  if (!video.title || video.thumbnails.length === 0) {
+    try {
+      const url = `https://www.youtube.com/oembed?format=json&url=${encodeURIComponent(video.url)}`;
+      const { data } = await axios.get(url);
+
+      video.title ||= data.title;
+      video.channel ||= data.author_name;
+
+      if (!video.thumbnails.length && data.thumbnail_url) {
+        video.thumbnails = [{ url: data.thumbnail_url }];
       }
-    } catch {}
+
+      log("🧩 oEmbed aplicado!");
+    } catch (err) {
+      log("⚠ oEmbed falhou:", err.message);
+    }
   }
 
-  // Scrape da página para views
-  if (!result.views) {
+  // → Scrape da página para views
+  if (!video.views) {
     try {
-      const watchHtml = await axios.get(result.url).then(r => r.data);
-      const m = watchHtml.match(/"viewCount":"?(\d+)"/);
-      if (m) result.views = Number(m[1]);
-    } catch {}
+      const html = await axios.get(video.url).then(r => r.data);
+      const match = html.match(/"viewCount":"?(\d+)"/);
+      if (match) {
+        video.views = parseInt(match[1]);
+        log("🔎 Views por HTML!", video.views);
+      }
+    } catch (err) {
+      log("⚠ HTML scrape falhou:", err.message);
+    }
   }
 
-  return result;
+  return video;
 }
 
-// 📌 FUNÇÃO PRINCIPAL
-export async function fetchYouTubeData(queryOrUrl) {
+/** 3️⃣ Busca por query se não vier ID */
+async function buscarVideoPorQuery(query) {
+  const data = await youtubeSearchRequest(query);
+
+  const sections = data.contents?.twoColumnSearchResultsRenderer
+    ?.primaryContents?.sectionListRenderer?.contents || [];
+
+  for (const section of sections) {
+    const items =
+      section.itemSectionRenderer?.contents ||
+      section.richSectionRenderer?.content?.richShelfRenderer?.contents ||
+      [];
+
+    for (const item of items) {
+      const v =
+        item.videoRenderer ||
+        item.compactVideoRenderer ||
+        item.richItemRenderer?.content?.videoRenderer;
+
+      if (v?.videoId) {
+        log("🔍 Encontrado:", v.videoId);
+        return {
+          videoId: v.videoId,
+          thumbs: v.thumbnail?.thumbnails || []
+        };
+      }
+    }
+  }
+
+  return null;
+}
+
+/** 🚀 Função principal da API */
+export async function fetchYouTubeData(queryOrUrl, debug = false) {
+  if (debug) DEBUG = true;
+
   const start = Date.now();
   let videoId = extractVideoId(queryOrUrl);
   let thumbs = [];
 
   try {
-    // → Se não veio ID → busca
+    // Buscar se não for ID nem URL de vídeo
     if (!videoId) {
-      const data = await youtubeSearchRequest(queryOrUrl);
-
-      const sections = data.contents?.twoColumnSearchResultsRenderer
-        ?.primaryContents?.sectionListRenderer?.contents || [];
-
-      for (const section of sections) {
-        const items =
-          section.itemSectionRenderer?.contents ||
-          section.richSectionRenderer?.content?.richShelfRenderer?.contents ||
-          [];
-
-        for (const item of items) {
-          const video =
-            item.videoRenderer ||
-            item.compactVideoRenderer ||
-            item.richItemRenderer?.content?.videoRenderer;
-
-          if (video?.videoId) {
-            videoId = video.videoId;
-            thumbs = video.thumbnail?.thumbnails || thumbs;
-            break;
-          }
-        }
-        if (videoId) break;
-      }
-
-      if (!videoId) return null;
+      const encontrado = await buscarVideoPorQuery(queryOrUrl);
+      if (!encontrado) return null;
+      videoId = encontrado.videoId;
+      thumbs = encontrado.thumbs;
     }
 
-    // 2️⃣ Pega dados completos
-    let result = await obterDetalhesVideo(videoId);
+    // Player API
+    let video = await obterDetalhesVideo(videoId);
+    video.videoId = videoId;
+    video.url = `https://www.youtube.com/watch?v=${videoId}`;
 
-    result.url = `https://www.youtube.com/watch?v=${videoId}`;
-    result.videoId = videoId;
-    result.thumbnails = thumbs;
+    // Não sobrescrever thumbs existentes!
+    if (!video.thumbnails?.length && thumbs?.length) {
+      video.thumbnails = thumbs;
+    }
 
-    // 3️⃣ Completa dados faltando
-    result = await fillFallbacksIfNeeded(result);
+    // Fallbacks finais
+    video = await preencherFallbacks(video);
 
-    // 4️⃣ Normaliza
-    result.title ??= "Sem título";
-    result.views ??= 0;
+    // Normalização
+    video.title ||= "Sem título";
+    video.views ||= 0;
 
-    result.searchTimeMs = Date.now() - start;
-    result.success = true;
-
-    return result;
+    return {
+      ...video,
+      success: true,
+      searchTimeMs: Date.now() - start
+    };
 
   } catch (err) {
     console.error("[YouTubeService] Erro:", err.message);

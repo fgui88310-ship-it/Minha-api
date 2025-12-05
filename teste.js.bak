@@ -1,4 +1,4 @@
-import { fetchYouTubeData } from "./【 SERVICES 】/youtubeService.js";
+import { fetchYouTubeData } from "./【 SCRAPERS 】/youtubeService.js";
 
 const query = process.argv.slice(2).join(" ") || "gatinhos";
 
