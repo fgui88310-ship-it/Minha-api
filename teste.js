@@ -5,8 +5,9 @@ const videoId = "xLfKnR7svOU"; // do seu debug
 youtubePlayerRequest(videoId)
   .then(data => {
     console.log("🔍 Keys:", Object.keys(data));
-    console.log("\nVideoDetails:", data.videoDetails);
+    console.log("\nVideoDetails:", data);
   })
   .catch(err => {
     console.error("❌ Erro:", err.message);
   });
+  

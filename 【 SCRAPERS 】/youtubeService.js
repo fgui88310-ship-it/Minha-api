@@ -5,28 +5,26 @@ import { youtubeSearchRequest } from "../【 UTILS 】/youtube-fetch.js";
 
 // 📌 Função auxiliar (fica fora do try)
 async function obterDetalhesVideo(videoId) {
-  const url = `https://www.youtube.com/watch?v=${videoId}&pbj=1`;
-  const { data } = await axios.get(url, {
-    headers: { "User-Agent": "Mozilla/5.0" },
-  });
+  const data = await youtubePlayerRequest(videoId);
+  const player = data;
 
-  const player = data[2]?.playerResponse ?? data[3]?.playerResponse;
+  const micro = player.microformat?.playerMicroformatRenderer;
 
   return {
-    title: player?.videoDetails?.title || null,
-    views: player?.videoDetails?.viewCount
-      ? Number(player.videoDetails.viewCount)
-      : null,
-    duration: player?.videoDetails?.lengthSeconds
-      ? Number(player.videoDetails.lengthSeconds)
-      : null,
-    description: player?.videoDetails?.shortDescription || null,
-    channel: player?.videoDetails?.author || null,
-    channelId: player?.videoDetails?.channelId || null,
-    published: player?.microformat?.playerMicroformatRenderer?.publishDate || null,
+    title: player.videoDetails?.title || "Sem título",
+    views: Number(
+      player.videoDetails?.viewCount ||
+      micro?.viewCount ||
+      0
+    ),
+    duration: Number(player.videoDetails?.lengthSeconds || 0),
+    description: player.videoDetails?.shortDescription || "",
+    channel: player.videoDetails?.author || "Desconhecido",
+    channelId: player.videoDetails?.channelId || null,
+    published: micro?.publishDate || null,
+    thumbnails: player.videoDetails?.thumbnail?.thumbnails || []
   };
 }
-
 // 📌 Fallback de dados ausentes
 async function fillFallbacksIfNeeded(result) {
   // oEmbed

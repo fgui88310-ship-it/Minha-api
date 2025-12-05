@@ -1,135 +1,117 @@
-// 【 SERVICES 】/youtube-service.js  ← VERSÃO FINAL DEZEMBRO 2025
-
+// 【 SERVICES 】/youtube-service.js  ← VERSÃO CORRIGIDA 2025
+import axios from "axios";
 import { extractVideoId } from "../【 UTILS 】/youtube-parser.js";
-import { youtubeSearchRequest, youtubePlayerRequest } from "../【 UTILS 】/youtube-fetch.js";
+import { youtubeSearchRequest } from "../【 UTILS 】/youtube-fetch.js";
 
+// 📌 Função auxiliar (fica fora do try)
+async function obterDetalhesVideo(videoId) {
+  const url = `https://www.youtube.com/watch?v=${videoId}&pbj=1`;
+  const { data } = await axios.get(url, {
+    headers: { "User-Agent": "Mozilla/5.0" },
+  });
+
+  const player = data[2]?.playerResponse ?? data[3]?.playerResponse;
+
+  return {
+    title: player?.videoDetails?.title || null,
+    views: player?.videoDetails?.viewCount
+      ? Number(player.videoDetails.viewCount)
+      : null,
+    duration: player?.videoDetails?.lengthSeconds
+      ? Number(player.videoDetails.lengthSeconds)
+      : null,
+    description: player?.videoDetails?.shortDescription || null,
+    channel: player?.videoDetails?.author || null,
+    channelId: player?.videoDetails?.channelId || null,
+    published: player?.microformat?.playerMicroformatRenderer?.publishDate || null,
+  };
+}
+
+// 📌 Fallback de dados ausentes
+async function fillFallbacksIfNeeded(result) {
+  // oEmbed
+  if (!result.title || result.thumbnails.length === 0) {
+    try {
+      const oembedUrl = `https://www.youtube.com/oembed?url=${encodeURIComponent(result.url)}&format=json`;
+      const r = await axios.get(oembedUrl);
+      const o = r.data;
+
+      result.title = result.title ?? o.title;
+      result.channel = result.channel ?? o.author_name;
+      if (!result.thumbnails.length && o.thumbnail_url) {
+        result.thumbnails = [{ url: o.thumbnail_url }];
+      }
+    } catch {}
+  }
+
+  // Scrape da página para views
+  if (!result.views) {
+    try {
+      const watchHtml = await axios.get(result.url).then(r => r.data);
+      const m = watchHtml.match(/"viewCount":"?(\d+)"/);
+      if (m) result.views = Number(m[1]);
+    } catch {}
+  }
+
+  return result;
+}
+
+// 📌 FUNÇÃO PRINCIPAL
 export async function fetchYouTubeData(queryOrUrl) {
   const start = Date.now();
   let videoId = extractVideoId(queryOrUrl);
+  let thumbs = [];
 
   try {
-    // 1. Se não for link/ID direto → busca
+    // → Se não veio ID → busca
     if (!videoId) {
-  const data = await youtubeSearchRequest(queryOrUrl);
+      const data = await youtubeSearchRequest(queryOrUrl);
 
-  const sections = data.contents?.twoColumnSearchResultsRenderer?.primaryContents
-    ?.sectionListRenderer?.contents || [];
+      const sections = data.contents?.twoColumnSearchResultsRenderer
+        ?.primaryContents?.sectionListRenderer?.contents || [];
 
-  let foundId = null;
+      for (const section of sections) {
+        const items =
+          section.itemSectionRenderer?.contents ||
+          section.richSectionRenderer?.content?.richShelfRenderer?.contents ||
+          [];
 
-  for (const section of sections) {
-    const items =
-      section.itemSectionRenderer?.contents ||
-      section.richSectionRenderer?.content?.richShelfRenderer?.contents ||
-      [];
+        for (const item of items) {
+          const video =
+            item.videoRenderer ||
+            item.compactVideoRenderer ||
+            item.richItemRenderer?.content?.videoRenderer;
 
-    for (const item of items) {
-      const video =
-        item.videoRenderer ||
-        item.compactVideoRenderer ||
-        item.richItemRenderer?.content?.videoRenderer;
-
-      if (video?.videoId) {
-        foundId = video.videoId;
-        break;
-      }
-    }
-
-    // só sai do laço NESTE momento
-    if (foundId) break;
-  }
-
-  if (!foundId) {
-    return null;
-  }
-
-  videoId = foundId;
-}
-
-    // 2. Pega os detalhes reais do vídeo
-    const playerData = await youtubePlayerRequest(videoId);
-    // Assumindo que você já tem: const playerData = await youtubePlayerRequest(videoId);
-const vd = playerData?.videoDetails || {};
-const micro = playerData?.microformat?.playerMicroformatRenderer || {};
-const startMs = start || Date.now();
-
-// DEBUG: log mínimo para ver o que realmente chegou
-console.log("[YouTubeService] playerData keys:", Object.keys(playerData || {}));
-if (!playerData || Object.keys(playerData).length === 0) {
-  console.warn("[YouTubeService] playerData vazio para", videoId);
-}
-
-// Primary result with safe fallbacks
-let result = {
-  success: true,
-  title: vd.title ?? null,
-  videoId: vd.videoId ?? videoId,
-  url: `https://www.youtube.com/watch?v=${vd.videoId ?? videoId}`,
-  description: vd.shortDescription ?? "",
-  duration: vd.isLiveContent ? "AO VIVO" : (vd.lengthSeconds ? `${vd.lengthSeconds}s` : null),
-  views: (vd.viewCount ? Number(vd.viewCount) : null),
-  channel: vd.author ?? null,
-  channelId: vd.channelId ?? null,
-  thumbnails: (vd.thumbnail?.thumbnails || []).slice().sort((a, b) => (b.width||0)-(a.width||0)),
-  published: micro.uploadDate ?? micro.publishDate ?? null,
-  searchTimeMs: Date.now() - startMs,
-};
-
-// Se faltou título ou thumbs ou views, tenta fallbacks externos
-async function fillFallbacksIfNeeded(res) {
-  // 1) oEmbed (rápido) — pega title, author_name, thumbnail_url
-  if (!res.title || !res.thumbnails.length) {
-    try {
-      const oembedUrl = `https://www.youtube.com/oembed?url=${encodeURIComponent(res.url)}&format=json`;
-      const r = await fetch(oembedUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
-      if (r.ok) {
-        const o = await r.json();
-        res.title = res.title ?? o.title;
-        res.channel = res.channel ?? o.author_name;
-        if (!res.thumbnails.length && o.thumbnail_url) {
-          res.thumbnails = [{ url: o.thumbnail_url }];
+          if (video?.videoId) {
+            videoId = video.videoId;
+            thumbs = video.thumbnail?.thumbnails || thumbs;
+            break;
+          }
         }
+        if (videoId) break;
       }
-    } catch (e) {
-      console.warn("[YouTubeService] oEmbed falhou:", e.message);
+
+      if (!videoId) return null;
     }
-  }
 
-  // 2) Scrape simples da página watch para viewCount (quando playerData não trouxe)
-  if (res.views === null || res.views === 0) {
-    try {
-      const watchHtml = await (await fetch(res.url, { headers: { 'User-Agent': 'Mozilla/5.0' } })).text();
-      // tenta extrair "viewCount" a partir do JSON inline (regex)
-      const m = watchHtml.match(/"viewCount":"?(\d+)"?/);
-      if (m) res.views = Number(m[1]);
-      else {
-        // alternativa: procurar "viewCountText"
-        const m2 = watchHtml.match(/"viewCountText":\s*{\s*"simpleText"\s*:\s*"([\d.,\s\w]+)"/);
-        if (m2) {
-          // remove pontos, vírgulas e texto
-          const cleaned = m2[1].replace(/[^\d]/g, "");
-          if (cleaned) res.views = Number(cleaned);
-        }
-      }
-    } catch (e) {
-      console.warn("[YouTubeService] scrape watch HTML falhou:", e.message);
-    }
-  }
+    // 2️⃣ Pega dados completos
+    let result = await obterDetalhesVideo(videoId);
 
-  return res;
-}
+    result.url = `https://www.youtube.com/watch?v=${videoId}`;
+    result.videoId = videoId;
+    result.thumbnails = thumbs;
 
-// Só faz fallback se realmente faltar coisa importante
-if (!result.title || result.thumbnails.length === 0 || result.views === null || result.views === 0) {
-  result = await fillFallbacksIfNeeded(result);
-}
+    // 3️⃣ Completa dados faltando
+    result = await fillFallbacksIfNeeded(result);
 
-// normalize final defaults
-result.title = result.title ?? "Sem título";
-result.views = result.views ?? 0;
-result.thumbnails = result.thumbnails || [];
+    // 4️⃣ Normaliza
+    result.title ??= "Sem título";
+    result.views ??= 0;
 
-return result;
+    result.searchTimeMs = Date.now() - start;
+    result.success = true;
+
+    return result;
 
   } catch (err) {
     console.error("[YouTubeService] Erro:", err.message);
