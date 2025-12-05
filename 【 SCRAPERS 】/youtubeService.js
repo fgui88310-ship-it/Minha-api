@@ -5,8 +5,7 @@ import { youtubeSearchRequest, youtubePlayerRequest} from "../【 UTILS 】/yout
 
 // 📌 Função auxiliar (fica fora do try)
 async function obterDetalhesVideo(videoId) {
-  const data = await youtubePlayerRequest(videoId);
-  const player = data;
+  const player = await youtubePlayerRequest(videoId);
 
   const micro = player.microformat?.playerMicroformatRenderer;
 
