@@ -1,13 +1,5 @@
-import { youtubePlayerRequest } from "./【 UTILS 】/youtube-fetch.js";
+import { fetchYouTubeData } from "./【 SCRAPERS 】/youtubeService.js";
 
-const videoId = "xLfKnR7svOU"; // do seu debug
+const query = process.argv.slice(2).join(" ") || "gatinhos";
 
-youtubePlayerRequest(videoId)
-  .then(data => {
-    console.log("🔍 Keys:", Object.keys(data));
-    console.log("\nVideoDetails:", data);
-  })
-  .catch(err => {
-    console.error("❌ Erro:", err.message);
-  });
-  
+fetchYouTubeData(query, true).then(console.log);
