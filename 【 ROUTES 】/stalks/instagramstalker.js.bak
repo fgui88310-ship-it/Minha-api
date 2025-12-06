@@ -17,7 +17,7 @@ router.get("/", async (req, res, next) => {
     if (!data)
       return res.status(404).json({ error: "Perfil não encontrado" });
 
-    await saveToJson(`perfil_${username}.json`, data);
+    await saveJson(`perfil_${username}.json`, data);
 
     res.json(data);
   } catch (err) {

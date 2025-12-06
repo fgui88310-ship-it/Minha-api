@@ -1,0 +1,50 @@
+import axios from "axios";
+import { buildCookieString } from "../【 UTILS 】/cookieUtils.js";
+
+const cookies = {
+  csrftoken: "ze3Joi-UMsSxvis7k0BYVN",
+  datr: "tI7-aPkn8aOZQLa2hLifLx_-",
+  ig_did: "A7BF3E36-F3F9-475B-8BCA-27F40D4D9494",
+  dpr: "2",
+  mid: "aP6OtAABAAFRQ-f0fBniM6a1rlre",
+  ds_user_id: "75804173736",
+  sessionid: "75804173736%3ARzJ4Al6P4jI88i%3A16%3AAYjPxlBWCOWIu_X09Z7Jqhnln35qNFM1xCSHDDXJBQ",
+  wd: "360x668",
+  rur: "NHA,75804173736,1793106568:01feaefd8ff7c8a5ce6fa7d0d0d6d29389cb2c0897723a58a9a7dbf72ad0e266e4734d50",
+};
+
+const headers = {
+  "User-Agent":
+    "Instagram 345.0.0.29.100 Android (30/11; 480dpi; 1080x2340; samsung; SM-G998B)",
+  "X-IG-App-ID": "936619743392459",
+  "Accept-Language": "pt-BR",
+  Accept: "application/json",
+  Cookie: buildCookieString(cookies),
+  Connection: "keep-alive",
+};
+
+export async function fetchInstagramProfile(username) {
+  // Anti-ban básico
+  await new Promise((res) => setTimeout(res, 3000 + Math.random() * 2000));
+
+  const url = `https://i.instagram.com/api/v1/users/web_profile_info/?username=${encodeURIComponent(username)}`;
+  const response = await axios.get(url, { headers, timeout: 10000 });
+
+  const user = response.data?.data?.user;
+  if (!user) return null;
+
+  return {
+    username: user.username,
+    full_name: user.full_name || "",
+    biography: user.biography || "",
+    followers: user.edge_followed_by.count,
+    following: user.edge_follow.count,
+    is_business_account: user.is_business_account,
+    is_private: user.is_private,
+    external_url: user.external_url || null,
+    media_count: user.edge_owner_to_timeline_media.count,
+    is_verified: user.is_verified,
+    profile_pic_url: user.profile_pic_url,
+    profile_pic_url_hd: user.profile_pic_url_hd,
+  };
+}

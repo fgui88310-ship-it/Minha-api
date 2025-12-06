@@ -33,3 +33,9 @@ export function loadCookiesFromFile(nomecookie) {
     return {};
   }
 }
+
+
+export const buildCookieString = (cookies) =>
+  Object.entries(cookies)
+    .map(([key, value]) => `${key}=${value}`)
+    .join("; ");
