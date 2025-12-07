@@ -1,6 +1,6 @@
 import express from 'express';
 import { fetchTikTokUser } from '../../【 SCRAPERS 】/tiktokService.js';
-import { parseTikTokUser } from '../../parsers/tiktokParser.js';
+import { parseTikTokUser } from '../../utils/tiktokParser.js';
 
 const router = express.Router();
 

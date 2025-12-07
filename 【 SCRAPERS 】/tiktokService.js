@@ -61,3 +61,20 @@ export async function searchTikTok(query) {
   setCache(cacheKey, result, CONFIG.CACHE.EXPIRE_TIME * 1000);
   return result;
 }
+
+export async function fetchTikTokUser(username) {
+  const apiUrl = `https://www.tiktok.com/api/user/detail/?uniqueId=${encodeURIComponent(username)}&device_id=1234567890`;
+
+  const { data } = await axios.get(apiUrl, {
+    headers: {
+      'User-Agent':
+        'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36',
+      'Referer': 'https://www.tiktok.com/',
+      'Accept': 'application/json',
+      'Accept-Language': 'pt-BR,pt;q=0.9',
+    },
+    timeout: 8000,
+  });
+
+  return data;
+}
