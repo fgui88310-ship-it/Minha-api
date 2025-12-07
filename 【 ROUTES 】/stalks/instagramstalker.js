@@ -1,7 +1,7 @@
 // api/endpoints/instagramstalker.js
 import express from "express";
 import { fetchInstagramProfile } from "../../【 SCRAPERS 】/instagramService.js";
-import { saveJson } from "../../【 UTILS 】/fileUtils.js";
+import { saveToJson } from "../../【 UTILS 】/fileUtils.js";
 
 const router = express.Router();
 
