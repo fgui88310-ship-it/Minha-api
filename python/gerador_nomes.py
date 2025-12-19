@@ -3,7 +3,7 @@ import pickle
 import sys
 import json
 
-WEIGHTS_FILE = 'pesos_nomes_rapido.pkl'
+WEIGHTS_FILE = 'pesos_nomes.pkl'
 
 # ====================== CARREGAR MODELO ======================
 with open(WEIGHTS_FILE, 'rb') as f:
