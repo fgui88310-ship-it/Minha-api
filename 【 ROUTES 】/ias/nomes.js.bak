@@ -1,0 +1,10 @@
+// src/routes/nomes.js
+import express from 'express';
+const router = express.Router();
+
+const { gerar } = require('../controllers/nomesController.py');
+
+router.get('/', gerar);
+// Exemplo de uso: GET /api/nomes?quantidade=10&temperature=1.2
+
+export default router;

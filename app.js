@@ -147,6 +147,8 @@ import twitterDownloadRouter from './【 ROUTES 】/downloads/twitterDownload.js
 /* --------- [ ROUTERS INTELIGENCIA ARTIFICIAL ] ---------- */
 import gptRouter from './【 ROUTES 】/ias/gpt.js';
 
+import nomeIaRouter from './【 ROUTES 】/ias/nomes.js';
+
 /* --------- [ ROUTERS STALKS ] ---------- */
 import instagramStalkerRouter from './【 ROUTES 】/stalks/instagramstalker.js';
 
@@ -323,6 +325,8 @@ app.use('/api/facebook/download', facebookDownloadRouter);
 
 /* --------- [ ROUTERS INTELIGENCIA ARTIFICIAL ] ---------- */
 app.use('/api/gpt', gptRouter); // (não estava na lista, mas existe o import)
+
+app.use('/api/nomes', nomeIaRouter);
 
 /* --------- [ ROUTERS STALKS ] ---------- */
 app.use('/api/instagramstalker', instagramStalkerRouter);

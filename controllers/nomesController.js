@@ -1,0 +1,26 @@
+// src/controllers/nomesController.js
+import { gerarNomes } from '../【 SCRAPERS 】/geradorNomesService.js';
+
+const gerar = async (req, res) => {
+  try {
+    const quantidade = parseInt(req.query.quantidade) || 1;
+    const temperature = parseFloat(req.query.temperature) || 1.0;
+
+    if (quantidade < 1 || quantidade > 100) {
+      return res.status(400).json({ error: 'quantidade deve ser entre 1 e 100' });
+    }
+
+    const nomes = await gerarNomes(quantidade, temperature);
+
+    res.json({
+      quantidade,
+      temperature,
+      nomes
+    });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: 'Erro ao gerar nomes' });
+  }
+};
+
+export { gerar };
