@@ -18,13 +18,13 @@ RUN apt-get update && \
 # Dependência Python
 RUN pip3 install --no-cache-dir numpy --break-system-packages
 
-# Copia Node e Python
+# Copia só os arquivos essenciais do Node
 COPY package*.json ./
 RUN npm install
 RUN npm install python-shell
 
-COPY server.js ./
-COPY python/ ./python/
+# Copia o resto do projeto (Node + Python) no mesmo lugar
+COPY . .
 
-# Comando de inicialização
+# Rodar Node
 CMD ["npm", "start"]
