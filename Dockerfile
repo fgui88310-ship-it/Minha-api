@@ -18,16 +18,13 @@ RUN apt-get update && \
 # Dependência Python
 RUN pip3 install --no-cache-dir numpy --break-system-packages
 
-# Pasta de trabalho dentro do container
-WORKDIR /python
-
-# Copia os arquivos do host para o container
-COPY python/ ./
-
-# Instala dependências Node
+# Copia Node e Python
 COPY package*.json ./
 RUN npm install
 RUN npm install python-shell
+
+COPY server.js ./
+COPY python/ ./python/
 
 # Comando de inicialização
 CMD ["npm", "start"]
