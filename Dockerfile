@@ -3,6 +3,7 @@ FROM node:22.16.0
 # Instalar dependências do canvas
 RUN apt-get update && apt-get install -y \
     build-essential \
+    numpy \
     libcairo2-dev \
     libpango1.0-dev \
     libjpeg-dev \

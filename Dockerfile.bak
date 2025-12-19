@@ -16,4 +16,6 @@ RUN apt-get update && apt-get install -y \
 WORKDIR /app
 COPY . .
 RUN npm install
+# Instalar python-shell globalmente ou como dependência adicional
+RUN npm install python-shell
 CMD ["npm", "start"]
