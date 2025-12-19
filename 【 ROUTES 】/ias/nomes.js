@@ -1,6 +1,6 @@
 // src/routes/nomes.js
 import express from 'express';
-import { gerar } from '../controllers/nomesController.js';  // Note: .js, não .py
+import { gerar } from '../../controllers/nomesController.js';  // Note: .js, não .py
 
 const router = express.Router();
 
