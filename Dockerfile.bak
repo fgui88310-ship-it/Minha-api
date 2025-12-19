@@ -1,9 +1,8 @@
 FROM node:22.16.0
 
-# Instalar dependências do canvas
-RUN apt-get update && apt-get install -y \
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
     build-essential \
-    numpy \
     libcairo2-dev \
     libpango1.0-dev \
     libjpeg-dev \
@@ -12,11 +11,19 @@ RUN apt-get update && apt-get install -y \
     python3 \
     python3-pip \
     pkg-config \
+    && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
+RUN pip3 install --no-cache-dir numpy
+
 WORKDIR /app
-COPY . .
+
+COPY package*.json ./
 RUN npm install
-# Instalar python-shell globalmente ou como dependência adicional
+
+
+COPY . .
+
 RUN npm install python-shell
+
 CMD ["npm", "start"]
