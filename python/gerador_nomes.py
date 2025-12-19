@@ -1,9 +1,10 @@
 import numpy as np
 import pickle
+import os
 import sys
 import json
 
-WEIGHTS_FILE = 'pesos_nomes.pkl'
+WEIGHTS_FILE = os.path.join(os.path.dirname(__file__), 'pesos_nomes.pkl')
 
 # ====================== CARREGAR MODELO ======================
 with open(WEIGHTS_FILE, 'rb') as f:
