@@ -14,7 +14,7 @@ RUN apt-get update && \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-RUN pip3 install --no-cache-dir numpy
+RUN pip3 install --no-cache-dir numpy --break-system-packages
 
 WORKDIR /app
 
