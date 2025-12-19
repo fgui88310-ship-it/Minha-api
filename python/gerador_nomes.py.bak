@@ -20,8 +20,15 @@ expected_vocab_size = Wxh.shape[1]
 # Supondo que você tenha salvo assim no treinamento:
 # pickle.dump({'Wxh': Wxh, 'Whh': Whh, 'Why': Why, 'bh': bh, 'by': by, 'chars': chars, 'char_to_ix': char_to_ix, 'ix_to_char': ix_to_char}, f)
 
-with open(WEIGHTS_FILE, 'rb') as f:
-    Wxh, Whh, Why, bh, by, n_iter, p = pickle.load(f)
+data = pickle.load(open(WEIGHTS_FILE, 'rb'))
+Wxh = data['Wxh']
+Whh = data['Whh']
+Why = data['Why']
+bh = data['bh']
+by = data['by']
+chars = data['chars']
+char_to_ix = data['char_to_ix']
+ix_to_char = data['ix_to_char']
 
 vocab_size = len(chars)
 
