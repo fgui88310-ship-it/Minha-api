@@ -16,7 +16,7 @@ RUN apt-get update && \
 
 RUN pip3 install --no-cache-dir numpy --break-system-packages
 
-WORKDIR /app
+WORKDIR /python
 
 COPY package*.json ./
 RUN npm install
