@@ -8,12 +8,9 @@ RUN apt-get update && apt-get install -y \
     libjpeg-dev \
     libgif-dev \
     librsvg2-dev \
-    numpy \
-    pkg-config \
-    pickle \
-    sys \
     python3 \
-    python-shell \
+    python3-pip \
+    pkg-config \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
