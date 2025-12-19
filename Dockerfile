@@ -15,16 +15,11 @@ RUN apt-get update && \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# Dependência Python
-RUN pip3 install --no-cache-dir numpy --break-system-packages
-
 # Define a pasta raiz do container como WORKDIR
 WORKDIR /workspace
 
 # Copia só os arquivos essenciais do Node
 COPY package*.json ./
-RUN npm install
-RUN npm install python-shell
 
 # Copia o resto do projeto (Node + Python) no mesmo lugar
 COPY . .

@@ -1,34 +1,28 @@
-import axios from "axios";
+// testeGerador.js
+import { gerarNomes } from './【 SCRAPERS 】/geradorNomesService.js';
 
-async function testar(videoId) {
-  // Faz a requisição da página do player (a mesma que o YouTube usa internamente)
-  const url = `https://www.youtube.com/youtubei/v1/player?key=AIzaSyA8eiZmM1nqFZpLH4QwM6x2Br0f9uQ3sYk`;
-  const body = {
-    context: { client: { clientName: "WEB", clientVersion: "2.20241201.00.00" } },
-    videoId
-  };
+async function teste() {
+  try {
+    console.log('🔹 Testando gerar 1 nome...');
+    const nomes1 = await gerarNomes(1, 1.0);
+    console.log('Resultado:', nomes1);
 
-  const { data } = await axios.post(url, body, {
-    headers: { "Content-Type": "application/json" },
-  });
+    console.log('🔹 Testando gerar 3 nomes...');
+    const nomes3 = await gerarNomes(3, 1.0);
+    console.log('Resultado:', nomes3);
 
-  // Extrai os blocos certos
-  const details = data.videoDetails || {};
-  const micro = data.microformat?.playerMicroformatRenderer || {};
+    console.log('🔹 Testando JSON válido...');
+    const nomesJSON = await gerarNomes(2, 1.2);
+    if (Array.isArray(nomesJSON)) {
+      console.log('✅ JSON retornado corretamente como array');
+    } else {
+      console.log('❌ Problema no JSON:', nomesJSON);
+    }
 
-  const result = {
-    title: details.title,
-    duration: Number(details.lengthSeconds),
-    views: Number(details.viewCount),
-    description: details.shortDescription,
-    channel: details.author,
-    channelId: details.channelId,
-    published: micro.publishDate,
-    thumbnails: details.thumbnail?.thumbnails || [],
-  };
-
-  console.log("✅ RESULTADO FINAL:");
-  console.log(result);
+    console.log('🔹 Teste completo finalizado!');
+  } catch (err) {
+    console.error('💥 Erro durante o teste:', err);
+  }
 }
 
-testar("xLfKnR7svOU"); // gatos engraçados - tente não rir
+teste();
