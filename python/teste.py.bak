@@ -1,0 +1,19 @@
+import pickle
+
+WEIGHTS_FILE = 'pesos_nomes.pkl'
+
+with open(WEIGHTS_FILE, 'rb') as f:
+    data = pickle.load(f)
+
+print("TIPO:", type(data))
+
+if isinstance(data, dict):
+    print("É DICT ✅")
+    print("CHAVES:")
+    for k in data.keys():
+        print(" -", k, "| tipo:", type(data[k]))
+else:
+    print("É TUPLA ❌")
+    print("TAMANHO:", len(data))
+    for i, item in enumerate(data):
+        print(f"[{i}] tipo:", type(item))
