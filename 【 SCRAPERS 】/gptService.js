@@ -1,0 +1,15 @@
+import fetch from 'node-fetch';
+
+export async function perguntarGPT(query) {
+  const url = `https://text.pollinations.ai/responda%20isso%20em%20português:%20${encodeURIComponent(query)}`;
+
+  const response = await fetch(url, {
+    headers: { Accept: 'text/plain' }
+  });
+
+  if (!response.ok) {
+    throw new Error('Erro ao buscar resposta externa');
+  }
+
+  return response.text();
+}

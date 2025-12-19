@@ -1,0 +1,24 @@
+import { perguntarGPT } from '../【 SCRAPERS 】/gptService.js';
+
+export async function gptController(req, res, next) {
+  try {
+    const { query } = req.query;
+
+    if (!query) {
+      return res.status(400).json({ error: 'Passe ?query=' });
+    }
+
+    const resposta = await perguntarGPT(query);
+
+    if (!resposta) {
+      return res.status(404).json({ error: 'Nenhuma resposta encontrada' });
+    }
+
+    res.json({
+      pergunta: query,
+      resposta
+    });
+  } catch (err) {
+    next(err);
+  }
+}
