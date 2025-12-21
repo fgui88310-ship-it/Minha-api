@@ -42,4 +42,3 @@ COPY . .
 EXPOSE 3000
 
 CMD ["npm", "start"]
-failed to solve: process "/bin/sh -c pip install --no-cache-dir --default-timeout=100     torch==2.0.1+cpu     --index-url https://download.pytorch.org/whl/cpu" did not complete successfully: exit code: 1
