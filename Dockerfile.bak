@@ -21,9 +21,10 @@ RUN python3 -m pip --version
 
 # Instala o PyTorch com timeout aumentado e flags específicas
 # A flag --user evita problemas de permissão, mas dentro do container é opcional
+# Substitua o comando RUN problemático pelo seguinte:
 RUN pip install --no-cache-dir --default-timeout=100 \
-    torch==2.0.1 \
-    torchvision==0.15.2 \
+    torch==2.0.1+cpu \
+    torchvision==0.15.2+cpu \
     torchaudio==2.0.2 \
     --index-url https://download.pytorch.org/whl/cpu
 
