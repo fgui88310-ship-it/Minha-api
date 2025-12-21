@@ -30,15 +30,12 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 # 4. Define Python 3.11 como padrão
 RUN update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.11 1
-
 # 5. NÃO ATUALIZE O pip! Use a versão do sistema diretamente.
 # Apenas verifique se funciona
 RUN python3 -m pip --version
 
 # 6. INSTALA PyTorch usando a versão do pip do sistema
-RUN python3 -m pip install --no-cache-dir --default-timeout=100 \
-    torch==2.3.1+cpu \
-    --index-url https://download.pytorch.org/whl/cpu
+RUN python3 -m pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
 
 # 7. Confirmação
 RUN python3 -c "import torch; print(f'✅ Python {torch.__version__} e PyTorch instalados.')"
