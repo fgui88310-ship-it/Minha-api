@@ -23,6 +23,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 # 3. Instala o PyTorch usando um link de download direto e específico.
 #    Isso evita completamente os problemas do índice 'pip'.
+# abaixo versao python3
+RUN python3 --version && pip --version
 #    O link abaixo é para PyTorch 2.3.1 para CPU, Python 3.11 (cp311).
 RUN pip install --no-cache-dir --default-timeout=100 \
     https://download.pytorch.org/whl/cpu/torch-2.3.1%2Bcpu-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
@@ -36,6 +38,5 @@ COPY package*.json ./
 RUN npm ci --only=production
 COPY . .
 EXPOSE 3000
-# abaixo versao python3
-RUN python3 --version && pip --version
+
 CMD ["npm", "start"]
