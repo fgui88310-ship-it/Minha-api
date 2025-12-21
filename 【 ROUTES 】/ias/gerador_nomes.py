@@ -2,6 +2,7 @@
 # gerador_nomes.py - Versão para API com PyTorch
 
 import torch
+import numpy as np
 import json
 import sys
 import os
