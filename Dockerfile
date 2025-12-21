@@ -21,8 +21,9 @@ RUN python3 -m pip --version
 
 # Instala o PyTorch com timeout aumentado e flags específicas
 # A flag --user evita problemas de permissão, mas dentro do container é opcional
+# Instala apenas o pacote 'torch' mais recente para CPU
 RUN pip install --no-cache-dir --default-timeout=100 \
-    torch==2.0.1+cpu \
+    torch \
     --index-url https://download.pytorch.org/whl/cpu
 
 # Verifica se a instalação foi bem-sucedida
@@ -41,3 +42,4 @@ COPY . .
 EXPOSE 3000
 
 CMD ["npm", "start"]
+failed to solve: process "/bin/sh -c pip install --no-cache-dir --default-timeout=100     torch==2.0.1+cpu     --index-url https://download.pytorch.org/whl/cpu" did not complete successfully: exit code: 1
