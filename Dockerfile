@@ -49,26 +49,6 @@ RUN pip install --no-cache-dir "numpy<2"
 # 8. Confirmação (agora usa o Python do venv)
 RUN python -c "import torch; print(f'✅ PyTorch {torch.__version__} instalado.')"
 
-# 8.5 VERIFICAÇÃO FINAL: Testa se o script Python roda
-COPY gerador_nomes.py /tmp/teste_gerador.py
-RUN cd /tmp && python -c "\
-import sys; \
-try: \
-    import json; \
-    import numpy as np; \
-    import torch; \
-    print('✅ Módulos essenciais importados.'); \
-    # Simula uma execução básica \
-    resultado = json.dumps({'nomes': ['Teste'], 'sucesso': True}); \
-    print(f'✅ JSON de teste gerado: {resultado[:50]}...'); \
-    sys.exit(0); \
-except Exception as e: \
-    print(f'❌ Erro na verificação: {e}'); \
-    import traceback; \
-    traceback.print_exc(); \
-    sys.exit(1) \
-
-
 # 9. Sua aplicação Node
 WORKDIR /workspace
 COPY package*.json ./
