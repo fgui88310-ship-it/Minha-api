@@ -20,7 +20,7 @@ RUN apt-get update && \
 
 # Instala o PyTorch (versão estável atual – CPU only)
 # Isso permite "import torch" e os outros imports que você mencionou (json, sys, os, time, traceback já vêm com Python)
-RUN pip install torch==1.13.1 torchvision==0.14.1 torchaudio==2.0.2 --no-cache-dir
+RUN pip install torch==1.13.1+cpu torchvision==0.14.1+cpu torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cpu --no-cache-dir
 
 # Define a pasta raiz do container como WORKDIR
 WORKDIR /workspace
