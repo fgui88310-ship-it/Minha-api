@@ -1,6 +1,7 @@
-FROM node:22.16.0-slim
+# FORCE a arquitetura AMD64 (Linux padrão). ESSENCIAL para o Render/CI.
+FROM --platform=linux/amd64 node:22.16.0-slim
 
-# Instala dependências do sistema
+# 1. Instala dependências do sistema
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     libcairo2-dev \
@@ -12,21 +13,23 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     python3-pip \
     python3-venv \
     pkg-config \
-    curl \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# CRÍTICO: Atualiza pip e setuptools (problema comum no Render)
-RUN python3 -m pip install --upgrade pip setuptools wheel
+# 2. NÃO atualize pip, setuptools ou wheel. Use as versões estáveis do sistema.
+#    Comentar esta linha é a chave para evitar o erro inicial.
+# RUN python3 -m pip install --upgrade pip setuptools wheel
 
-# CRÍTICO: Instala PyTorch com versão compatível explícita
+# 3. Instala o PyTorch usando um link de download direto e específico.
+#    Isso evita completamente os problemas do índice 'pip'.
+#    O link abaixo é para PyTorch 2.3.1 para CPU, Python 3.11 (cp311).
 RUN pip install --no-cache-dir --default-timeout=100 \
-    torch==2.5.1+cpu \
-    --index-url https://download.pytorch.org/whl/cpu
+    https://download.pytorch.org/whl/cpu/torch-2.3.1%2Bcpu-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 
-# Verifica a instalação
-RUN python3 -c "import torch; print(f'PyTorch {torch.__version__} instalado. CPU: {torch.cuda.is_available() is False}')"
+# 4. Verifica a instalação
+RUN python3 -c "import torch; print(f'OK: PyTorch {torch.__version__} instalado para CPU.')"
 
+# 5. Configuração do Node.js
 WORKDIR /workspace
 COPY package*.json ./
 RUN npm ci --only=production
