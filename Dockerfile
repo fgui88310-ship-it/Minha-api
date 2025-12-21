@@ -30,17 +30,23 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 # 4. Define Python 3.11 como padrão
 RUN update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.11 1
+
 # 5. NÃO ATUALIZE O pip! Use a versão do sistema diretamente.
 # Apenas verifique se funciona
 RUN python3 -m pip --version
 
-# 6. INSTALA PyTorch usando a versão do pip do sistema
-RUN python3 -m pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+# === SOLUÇÃO PRINCIPAL: AMBIENTE VIRTUAL ===
+# 6. Cria e ativa um ambiente virtual Python
+RUN python3.11 -m venv /opt/venv
+ENV PATH="/opt/venv/bin:$PATH"
 
-# 7. Confirmação
-RUN python3 -c "import torch; print(f'✅ Python {torch.__version__} e PyTorch instalados.')"
+# 7. INSTALA PyTorch DENTRO do ambiente virtual
+RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
 
-# 8. Sua aplicação Node
+# 8. Confirmação (agora usa o Python do venv)
+RUN python -c "import torch; print(f'✅ PyTorch {torch.__version__} instalado.')"
+
+# 9. Sua aplicação Node
 WORKDIR /workspace
 COPY package*.json ./
 RUN npm ci --only=production
