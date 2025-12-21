@@ -175,6 +175,13 @@ def processar_nome_gerado(texto, idx_to_char):
     return ' '.join(palavras_filtradas)
 
 def main():
+
+# === ADICIONE ESTAS 3 LINHAS DE DEPURAÇÃO ===
+    import sys
+    print(f"[DEBUG] Diretório atual: {os.getcwd()}", file=sys.stderr)
+    print(f"[DEBUG] Caminho do script: {__file__}", file=sys.stderr)
+    print(f"[DEBUG] Buscando modelo em: {os.path.abspath(WEIGHTS_FILE)}", file=sys.stderr)
+    # ===========================================
     try:
         # Verificar se CUDA está disponível
         device = 'cuda' if torch.cuda.is_available() else 'cpu'
