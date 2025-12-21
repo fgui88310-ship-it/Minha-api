@@ -62,16 +62,24 @@ router.get('/', async (req, res) => {
 });
 
 // Rota com parâmetros na URL (similar às stickers)
-router.get('/:quantidade?', async (req, res) => {
-  const { quantidade = 1 } = req.params;
+// Rota com parâmetros na URL (similar às stickers) - VERSÃO CORRIGIDA
+router.get('/:quantidade', async (req, res) => {
+  const quantidade = req.params.quantidade;
   const { temperature = 1.0 } = req.query;
   
+  // Redireciona para a lógica da rota principal '/'
+  // Passa os parâmetros via query string
+  const queryParams = new URLSearchParams({
+    quantidade: quantidade,
+    temperature: temperature
+  }).toString();
+  
+  // Simula um novo request para a rota '/'
+  req.url = `/?${queryParams}`;
   req.query.quantidade = quantidade;
   req.query.temperature = temperature;
   
-  // Reutiliza a lógica da rota principal
-  const originalUrl = req.originalUrl;
-  req.url = '/'; // Simula a rota raiz
+  // Usa o mesmo handler da rota '/'
   router.handle(req, res);
 });
 
