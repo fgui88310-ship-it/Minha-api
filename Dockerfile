@@ -15,8 +15,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     pkg-config \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
-# abaixo versao python3
-RUN python3 --version && pip --version
+
 
 # 2. NÃO atualize pip, setuptools ou wheel. Use as versões estáveis do sistema.
 #    Comentar esta linha é a chave para evitar o erro inicial.
@@ -37,4 +36,6 @@ COPY package*.json ./
 RUN npm ci --only=production
 COPY . .
 EXPOSE 3000
+# abaixo versao python3
+RUN python3 --version && pip --version
 CMD ["npm", "start"]
