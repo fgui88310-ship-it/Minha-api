@@ -1,8 +1,0 @@
-import express from "express";
-import { wallpaperController } from "../../controllers/wallpaper.controller.js";
-
-const router = express.Router();
-
-router.get("/", wallpaperController);
-
-export default router;

@@ -19,7 +19,7 @@ router.get('/', async (req, res) => {
     
     // Executar script Python
     const pythonProcess = spawn('python3', [
-      path.join(__dirname, '..', '..', 'python', 'gerador_nomes.py'),
+      path.join(__dirname,'gerador_nomes.py'),
       params
     ]);
     

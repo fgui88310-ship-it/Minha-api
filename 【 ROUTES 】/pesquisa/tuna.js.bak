@@ -1,8 +1,0 @@
-import express from "express";
-import { tunaSearchController } from "../../controllers/tuna.controller.js";
-
-const router = express.Router();
-
-router.get("/", tunaSearchController);
-
-export default router;

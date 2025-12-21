@@ -1,8 +1,0 @@
-import express from "express";
-import { sportsNewsController } from "../controllers/sports.controller.js";
-
-const router = express.Router();
-
-router.get("/", sportsNewsController);
-
-export default router;
