@@ -49,6 +49,33 @@ RUN pip install --no-cache-dir "numpy<2"
 # 8. Confirmação (agora usa o Python do venv)
 RUN python -c "import torch; print(f'✅ PyTorch {torch.__version__} instalado.')"
 
+# 8.5 VERIFICAÇÃO FINAL: Testa se o script Python roda
+# Primeiro, copia o script para um local temporário
+COPY 【 ROUTES 】/gerador_nomes.py /tmp/teste_script.py
+# Depois, executa o teste de importação no ambiente virtual
+RUN python -c "\
+import sys, os; \
+print(f'📁 Diretório de trabalho: {os.getcwd()}'); \
+print(f'🐍 Executável Python: {sys.executable}'); \
+try: \
+    import json; \
+    import numpy as np; \
+    import torch; \
+    print('✅ Módulos essenciais importados.'); \
+    print(f'    NumPy: {np.__version__}'); \
+    print(f'    PyTorch: {torch.__version__}'); \
+    # Tenta importar o próprio script \
+    sys.path.insert(0, '/tmp'); \
+    import teste_script; \
+    print('✅ Script Python pode ser importado.'); \
+    sys.exit(0); \
+except Exception as e: \
+    print(f'❌ ERRO CRÍTICO na verificação: {e}'); \
+    import traceback; \
+    traceback.print_exc(); \
+    sys.exit(1) \
+"
+
 # 9. Sua aplicação Node
 WORKDIR /workspace
 COPY package*.json ./

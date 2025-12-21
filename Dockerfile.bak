@@ -50,7 +50,7 @@ RUN pip install --no-cache-dir "numpy<2"
 RUN python -c "import torch; print(f'✅ PyTorch {torch.__version__} instalado.')"
 
 # 8.5 VERIFICAÇÃO FINAL: Testa se o script Python roda
-COPY gerador_nomes.py /tmp/teste_gerador.py
+COPY gerador_nomes.py
 RUN cd /tmp && python -c "\
 import sys; \
 try: \
@@ -67,7 +67,6 @@ except Exception as e: \
     import traceback; \
     traceback.print_exc(); \
     sys.exit(1) \
-
 
 # 9. Sua aplicação Node
 WORKDIR /workspace
