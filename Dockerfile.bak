@@ -49,7 +49,7 @@ RUN python -c "import torch; print(f'✅ PyTorch {torch.__version__} instalado.'
 # 9. Sua aplicação Node
 WORKDIR /workspace
 COPY package*.json ./
-RUN npm ci --only=production
+RUN npm install --only=production  # Troque 'ci' por 'install'
 COPY . .
 EXPOSE 3000
 CMD ["npm", "start"]

@@ -43,6 +43,9 @@ ENV PATH="/opt/venv/bin:$PATH"
 # 7. INSTALA PyTorch DENTRO do ambiente virtual
 RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
 
+# 7.1 INSTALA NumPy (CRÍTICO para carregar o modelo salvo com .npz)
+RUN pip install --no-cache-dir "numpy<2"
+
 # 8. Confirmação (agora usa o Python do venv)
 RUN python -c "import torch; print(f'✅ PyTorch {torch.__version__} instalado.')"
 
