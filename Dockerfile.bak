@@ -15,8 +15,8 @@ RUN apt-get update && \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# Upgrade do pip (recomendado para evitar problemas)
-RUN python3 -m pip install --upgrade pip
+# Removido o upgrade do pip – não é necessário
+# RUN python3 -m pip install --upgrade pip
 
 # Instala o PyTorch (versão estável atual – CPU only)
 # Isso permite "import torch" e os outros imports que você mencionou (json, sys, os, time, traceback já vêm com Python)
