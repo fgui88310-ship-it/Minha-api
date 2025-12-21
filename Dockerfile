@@ -15,8 +15,14 @@ RUN apt-get update && \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# Instala PyTorch (versão CPU mais recente e estável)
-RUN pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu --no-cache-dir
+# Atualiza pip
+RUN python3 -m pip install --upgrade pip
+
+# Instala apenas PyTorch (mais leve)
+RUN pip install torch --index-url https://download.pytorch.org/whl/cpu --no-cache-dir
+
+# Se precisar de vision e audio, instala separadamente depois
+# RUN pip install torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 
 WORKDIR /workspace
 COPY package*.json ./

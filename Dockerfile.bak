@@ -1,6 +1,6 @@
 FROM node:22.16.0
 
-# Dependências do sistema (mantém as suas + adiciona algumas úteis para PyTorch)
+# Dependências do sistema
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     build-essential \
@@ -15,24 +15,11 @@ RUN apt-get update && \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# Removido o upgrade do pip – não é necessário
-# RUN python3 -m pip install --upgrade pip
+# Instala PyTorch (versão CPU mais recente e estável)
+RUN pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu --no-cache-dir
 
-# Instala o PyTorch (versão estável atual – CPU only)
-# Isso permite "import torch" e os outros imports que você mencionou (json, sys, os, time, traceback já vêm com Python)
-RUN pip install torch==1.13.1+cpu torchvision==0.14.1+cpu torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cpu --no-cache-dir
-
-# Define a pasta raiz do container como WORKDIR
 WORKDIR /workspace
-
-# Copia só os arquivos essenciais do Node (boa prática para cache)
 COPY package*.json ./
-
-# Instala dependências Node (se tiver)
 RUN npm install
-
-# Copia o resto do projeto (Node + Python)
 COPY . .
-
-# Rodar Node
 CMD ["npm", "start"]
