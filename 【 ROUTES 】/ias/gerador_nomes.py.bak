@@ -250,13 +250,16 @@ def main():
         print(json.dumps(result, ensure_ascii=False))
         
     except Exception as e:
-        error_result = {
-            "sucesso": False,
-            "error": str(e),
-            "traceback": traceback.format_exc()
-        }
-        print(json.dumps(error_result, ensure_ascii=False))
-        sys.exit(1)
+    error_result = {
+        "sucesso": False,
+        "error": str(e),
+        "traceback": traceback.format_exc()
+    }
+    # === ADICIONE ESTA LINHA ===
+    print(f"ERRO INTERNO NO PYTHON: {error_result}", file=sys.stderr)
+    # ===========================
+    print(json.dumps(error_result, ensure_ascii=False))
+    sys.exit(1)
 
 if __name__ == "__main__":
     main()
