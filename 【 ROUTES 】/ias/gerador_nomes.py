@@ -40,33 +40,32 @@ class RealModel:
     
     # Converter para tensores PyTorch
     self.E = torch.from_numpy(data['embedding.weight'].astype(np.float32) * self.scale).to(self.device)
-    # ... resto do código continua
-        
-        # Configurar LSTM manualmente
-        Wxi0 = torch.from_numpy(data['lstm.weight_ih_l0'].astype(np.float32) * self.scale).to(self.device)
-        Whi0 = torch.from_numpy(data['lstm.weight_hh_l0'].astype(np.float32) * self.scale).to(self.device)
-        b_ih0 = torch.from_numpy(data['lstm.bias_ih_l0'].astype(np.float32) * (self.scale * 0.5)).to(self.device)
-        b_hh0 = torch.from_numpy(data['lstm.bias_hh_l0'].astype(np.float32) * (self.scale * 0.5)).to(self.device)
-        self.bi0 = (b_ih0 + b_hh0)
-        
-        Wxi1 = torch.from_numpy(data['lstm.weight_ih_l1'].astype(np.float32) * self.scale).to(self.device)
-        Whi1 = torch.from_numpy(data['lstm.weight_hh_l1'].astype(np.float32) * self.scale).to(self.device)
-        b_ih1 = torch.from_numpy(data['lstm.bias_ih_l1'].astype(np.float32) * (self.scale * 0.5)).to(self.device)
-        b_hh1 = torch.from_numpy(data['lstm.bias_hh_l1'].astype(np.float32) * (self.scale * 0.5)).to(self.device)
-        self.bi1 = (b_ih1 + b_hh1)
-        
-        # Armazenar weights
-        self.Wxi0 = Wxi0
-        self.Whi0 = Whi0
-        self.Wxi1 = Wxi1
-        self.Whi1 = Whi1
-        
-        # Camada final
-        self.Wo = torch.from_numpy(data['fc.weight'].astype(np.float32) * self.scale).to(self.device)
-        self.bo = torch.from_numpy(data['fc.bias'].astype(np.float32) * (self.scale * 0.3)).to(self.device)
-        
-        data.close()
-        return self.vocab_size
+    
+    # Configurar LSTM manualmente
+    Wxi0 = torch.from_numpy(data['lstm.weight_ih_l0'].astype(np.float32) * self.scale).to(self.device)
+    Whi0 = torch.from_numpy(data['lstm.weight_hh_l0'].astype(np.float32) * self.scale).to(self.device)
+    b_ih0 = torch.from_numpy(data['lstm.bias_ih_l0'].astype(np.float32) * (self.scale * 0.5)).to(self.device)
+    b_hh0 = torch.from_numpy(data['lstm.bias_hh_l0'].astype(np.float32) * (self.scale * 0.5)).to(self.device)
+    self.bi0 = (b_ih0 + b_hh0)
+    
+    Wxi1 = torch.from_numpy(data['lstm.weight_ih_l1'].astype(np.float32) * self.scale).to(self.device)
+    Whi1 = torch.from_numpy(data['lstm.weight_hh_l1'].astype(np.float32) * self.scale).to(self.device)
+    b_ih1 = torch.from_numpy(data['lstm.bias_ih_l1'].astype(np.float32) * (self.scale * 0.5)).to(self.device)
+    b_hh1 = torch.from_numpy(data['lstm.bias_hh_l1'].astype(np.float32) * (self.scale * 0.5)).to(self.device)
+    self.bi1 = (b_ih1 + b_hh1)
+    
+    # Armazenar weights
+    self.Wxi0 = Wxi0
+    self.Whi0 = Whi0
+    self.Wxi1 = Wxi1
+    self.Whi1 = Whi1
+    
+    # Camada final
+    self.Wo = torch.from_numpy(data['fc.weight'].astype(np.float32) * self.scale).to(self.device)
+    self.bo = torch.from_numpy(data['fc.bias'].astype(np.float32) * (self.scale * 0.3)).to(self.device)
+    
+    data.close()
+    return self.vocab_size
     
     def lstm_cell(self, x, h, c, Wx, Wh, b):
         """Implementação manual da célula LSTM"""
@@ -268,4 +267,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
