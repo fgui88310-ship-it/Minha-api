@@ -176,13 +176,13 @@ def processar_nome_gerado(texto, idx_to_char):
     return ' '.join(palavras_filtradas)
 
 def main():
-
-# === ADICIONE ESTAS 3 LINHAS DE DEPURAÇÃO ===
+    # === ADICIONE ESTAS 3 LINHAS DE DEPURAÇÃO ===
     import sys
     print(f"[DEBUG] Diretório atual: {os.getcwd()}", file=sys.stderr)
     print(f"[DEBUG] Caminho do script: {__file__}", file=sys.stderr)
     print(f"[DEBUG] Buscando modelo em: {os.path.abspath(WEIGHTS_FILE)}", file=sys.stderr)
     # ===========================================
+    
     try:
         # Verificar se CUDA está disponível
         device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -250,15 +250,15 @@ def main():
         print(json.dumps(result, ensure_ascii=False))
         
     except Exception as e:
-    error_result = {
-        "sucesso": False,
-        "error": str(e),
-        "traceback": traceback.format_exc()
-    }
-    # Força o erro também no stderr para os logs do Node.js
-    print(f"ERRO INTERNO NO PYTHON: {error_result}", file=sys.stderr)
-    print(json.dumps(error_result, ensure_ascii=False))
-    sys.exit(1)
+        error_result = {
+            "sucesso": False,
+            "error": str(e),
+            "traceback": traceback.format_exc()
+        }
+        # Força o erro também no stderr para os logs do Node.js
+        print(f"ERRO INTERNO NO PYTHON: {error_result}", file=sys.stderr)
+        print(json.dumps(error_result, ensure_ascii=False))
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
