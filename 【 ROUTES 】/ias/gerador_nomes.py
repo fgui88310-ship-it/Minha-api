@@ -26,71 +26,71 @@ class RealModel:
         self.fc = None
     
     def load(self):
-    if not os.path.exists(WEIGHTS_FILE):
-        raise FileNotFoundError(f"Arquivo {WEIGHTS_FILE} não encontrado")
-    
-    # Carregar weights do numpy
-    import numpy as np
-    data = np.load(WEIGHTS_FILE, allow_pickle=True)
-    
-    # === DIAGNÓSTICO DETALHADO ===
-    print(f"[DEBUG] Chaves disponíveis: {list(data.keys())}", file=sys.stderr)
-    print(f"[DEBUG] Tipo do arquivo: {type(data)}", file=sys.stderr)
-    
-    # O arquivo parece ter uma estrutura de diretório
-    # A chave principal é 'lstm_nomes_v6_trader/data.pkl'
-    try:
-        # Carrega o objeto pickle dentro do arquivo npz
-        model_data = data['lstm_nomes_v6_trader/data.pkl']
-        print(f"[DEBUG] Tipo do model_data: {type(model_data)}", file=sys.stderr)
+        if not os.path.exists(WEIGHTS_FILE):
+            raise FileNotFoundError(f"Arquivo {WEIGHTS_FILE} não encontrado")
         
-        # Se for um array numpy, pode ser que precise do item()
-        if isinstance(model_data, np.ndarray):
-            model_data = model_data.item()
-            print(f"[DEBUG] Convertido para: {type(model_data)}", file=sys.stderr)
+        # Carregar weights do numpy
+        import numpy as np
+        data = np.load(WEIGHTS_FILE, allow_pickle=True)
         
-        # AGORA precisamos ver a estrutura REAL dos dados
-        # Vamos inspecionar o que temos
-        if isinstance(model_data, dict):
-            print(f"[DEBUG] Chaves no dicionário: {list(model_data.keys())}", file=sys.stderr)
-            # Se for um dicionário com os pesos, ajuste os nomes abaixo
-            # Exemplo: model_data['embedding.weight'] em vez de data['embedding.weight']
-            weights_dict = model_data
-        else:
-            print(f"[DEBUG] model_data não é dicionário: {model_data}", file=sys.stderr)
-            raise ValueError("Formato de dados não reconhecido")
+        # === DIAGNÓSTICO DETALHADO ===
+        print(f"[DEBUG] Chaves disponíveis: {list(data.keys())}", file=sys.stderr)
+        print(f"[DEBUG] Tipo do arquivo: {type(data)}", file=sys.stderr)
+        
+        # O arquivo parece ter uma estrutura de diretório
+        # A chave principal é 'lstm_nomes_v6_trader/data.pkl'
+        try:
+            # Carrega o objeto pickle dentro do arquivo npz
+            model_data = data['lstm_nomes_v6_trader/data.pkl']
+            print(f"[DEBUG] Tipo do model_data: {type(model_data)}", file=sys.stderr)
             
-    except KeyError:
-        print("[DEBUG] Tentando carregar como array direto...", file=sys.stderr)
-        # Talvez os dados estão em uma das outras chaves 'data/0', 'data/1', etc.
-        weights_dict = {}
-        for key in data.keys():
-            if key.startswith('lstm_nomes_v6_trader/data/'):
-                idx = key.split('/')[-1]
-                weights_dict[idx] = data[key]
-        print(f"[DEBUG] Chaves reconstruídas: {list(weights_dict.keys())}", file=sys.stderr)
-    
-    # ====== ATENÇÃO: AJUSTE ESTAS LINHAS CONFORME A ESTRUTURA REAL ======
-    # Você precisa descobrir os nomes CORRETOS das chaves
-    # Depois que os logs mostrarem as chaves reais, ajuste abaixo:
-    
-    # Exemplo (SUBSTITUA pelos nomes reais que aparecerem nos logs):
-    # self.E = torch.from_numpy(weights_dict['embedding'].astype(np.float32) * self.scale).to(self.device)
-    # Wxi0 = torch.from_numpy(weights_dict['lstm.weight_ih_l0'].astype(np.float32) * self.scale).to(self.device)
-    # ... etc.
-    
-    # Por enquanto, vamos deixar falhar para ver a estrutura
-    print(f"[DEBUG] Estrutura completa disponível para debug:", file=sys.stderr)
-    for key, value in weights_dict.items():
-        if hasattr(value, 'shape'):
-            print(f"  {key}: shape={value.shape}, dtype={value.dtype}", file=sys.stderr)
-        else:
-            print(f"  {key}: type={type(value)}, value={str(value)[:100]}...", file=sys.stderr)
-    
-    raise ValueError("Precisa ajustar os nomes das chaves conforme a estrutura real do arquivo")
-    
-    # data.close()  # Não precisa se usarmos weights_dict
-    # return self.vocab_size
+            # Se for um array numpy, pode ser que precise do item()
+            if isinstance(model_data, np.ndarray):
+                model_data = model_data.item()
+                print(f"[DEBUG] Convertido para: {type(model_data)}", file=sys.stderr)
+            
+            # AGORA precisamos ver a estrutura REAL dos dados
+            # Vamos inspecionar o que temos
+            if isinstance(model_data, dict):
+                print(f"[DEBUG] Chaves no dicionário: {list(model_data.keys())}", file=sys.stderr)
+                # Se for um dicionário com os pesos, ajuste os nomes abaixo
+                # Exemplo: model_data['embedding.weight'] em vez de data['embedding.weight']
+                weights_dict = model_data
+            else:
+                print(f"[DEBUG] model_data não é dicionário: {model_data}", file=sys.stderr)
+                raise ValueError("Formato de dados não reconhecido")
+                
+        except KeyError:
+            print("[DEBUG] Tentando carregar como array direto...", file=sys.stderr)
+            # Talvez os dados estão em uma das outras chaves 'data/0', 'data/1', etc.
+            weights_dict = {}
+            for key in data.keys():
+                if key.startswith('lstm_nomes_v6_trader/data/'):
+                    idx = key.split('/')[-1]
+                    weights_dict[idx] = data[key]
+            print(f"[DEBUG] Chaves reconstruídas: {list(weights_dict.keys())}", file=sys.stderr)
+        
+        # ====== ATENÇÃO: AJUSTE ESTAS LINHAS CONFORME A ESTRUTURA REAL ======
+        # Você precisa descobrir os nomes CORRETOS das chaves
+        # Depois que os logs mostrarem as chaves reais, ajuste abaixo:
+        
+        # Exemplo (SUBSTITUA pelos nomes reais que aparecerem nos logs):
+        # self.E = torch.from_numpy(weights_dict['embedding'].astype(np.float32) * self.scale).to(self.device)
+        # Wxi0 = torch.from_numpy(weights_dict['lstm.weight_ih_l0'].astype(np.float32) * self.scale).to(self.device)
+        # ... etc.
+        
+        # Por enquanto, vamos deixar falhar para ver a estrutura
+        print(f"[DEBUG] Estrutura completa disponível para debug:", file=sys.stderr)
+        for key, value in weights_dict.items():
+            if hasattr(value, 'shape'):
+                print(f"  {key}: shape={value.shape}, dtype={value.dtype}", file=sys.stderr)
+            else:
+                print(f"  {key}: type={type(value)}, value={str(value)[:100]}...", file=sys.stderr)
+        
+        raise ValueError("Precisa ajustar os nomes das chaves conforme a estrutura real do arquivo")
+        
+        # data.close()  # Não precisa se usarmos weights_dict
+        # return self.vocab_size
     
     def lstm_cell(self, x, h, c, Wx, Wh, b):
         """Implementação manual da célula LSTM"""
