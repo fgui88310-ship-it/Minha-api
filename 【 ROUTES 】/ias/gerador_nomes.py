@@ -27,7 +27,7 @@ class RealModel:
         self.lstm = None
         self.fc = None
     
-        def load(self):
+    def load(self):
     if not os.path.exists(WEIGHTS_FILE):
         raise FileNotFoundError(f"Arquivo {WEIGHTS_FILE} não encontrado")
     
