@@ -8,6 +8,8 @@ import sys
 import os
 import time
 import traceback
+import io
+import pickle
 
 # Caminho relativo a partir da raiz /workspace
 WEIGHTS_FILE = '【 ROUTES 】/ias/makiseV1.pth'
@@ -44,20 +46,20 @@ class RealModel:
             model_data = data['lstm_nomes_v6_trader/data.pkl']
             print(f"[DEBUG] Tipo do model_data: {type(model_data)}", file=sys.stderr)
             
-            # Se for um array numpy, pode ser que precise do item()
-            if isinstance(model_data, np.ndarray):
-                model_data = model_data.item()
-                print(f"[DEBUG] Convertido para: {type(model_data)}", file=sys.stderr)
-            
-            # AGORA precisamos ver a estrutura REAL dos dados
-            # Vamos inspecionar o que temos
-            if isinstance(model_data, dict):
-                print(f"[DEBUG] Chaves no dicionário: {list(model_data.keys())}", file=sys.stderr)
-                # Se for um dicionário com os pesos, ajuste os nomes abaixo
-                # Exemplo: model_data['embedding.weight'] em vez de data['embedding.weight']
-                weights_dict = model_data
+            # DESSERIALIZA os bytes para obter o OrderedDict
+            if isinstance(model_data, bytes):
+                # Desserializa os bytes
+                buffer = io.BytesIO(model_data)
+                weights_dict = pickle.load(buffer)
+                print(f"[DEBUG] Desserializado para: {type(weights_dict)}", file=sys.stderr)
+                print(f"[DEBUG] Chaves no dicionário: {list(weights_dict.keys())}", file=sys.stderr)
+                
+                # Verifica se é realmente um OrderedDict com tensores PyTorch
+                if not isinstance(weights_dict, dict):
+                    raise ValueError(f"Esperado dicionário, mas obtido: {type(weights_dict)}")
+                    
             else:
-                print(f"[DEBUG] model_data não é dicionário: {model_data}", file=sys.stderr)
+                print(f"[DEBUG] model_data não é bytes: {model_data}", file=sys.stderr)
                 raise ValueError("Formato de dados não reconhecido")
                 
         except KeyError:
@@ -69,28 +71,40 @@ class RealModel:
                     idx = key.split('/')[-1]
                     weights_dict[idx] = data[key]
             print(f"[DEBUG] Chaves reconstruídas: {list(weights_dict.keys())}", file=sys.stderr)
+            raise ValueError("Não foi possível carregar os pesos do modelo")
         
-        # ====== ATENÇÃO: AJUSTE ESTAS LINHAS CONFORME A ESTRUTURA REAL ======
-        # Você precisa descobrir os nomes CORRETOS das chaves
-        # Depois que os logs mostrarem as chaves reais, ajuste abaixo:
+        # ====== USAR OS PESOS DESSERIALIZADOS ======
+        # O dicionário contém tensores PyTorch, não arrays numpy
+        # Acesse diretamente os tensores
         
-        # Exemplo (SUBSTITUA pelos nomes reais que aparecerem nos logs):
-        # self.E = torch.from_numpy(weights_dict['embedding'].astype(np.float32) * self.scale).to(self.device)
-        # Wxi0 = torch.from_numpy(weights_dict['lstm.weight_ih_l0'].astype(np.float32) * self.scale).to(self.device)
-        # ... etc.
+        # Converter para o dispositivo correto e aplicar escala
+        self.E = (weights_dict['embedding.weight'].float() * self.scale).to(self.device)
         
-        # Por enquanto, vamos deixar falhar para ver a estrutura
-        print(f"[DEBUG] Estrutura completa disponível para debug:", file=sys.stderr)
-        for key, value in weights_dict.items():
-            if hasattr(value, 'shape'):
-                print(f"  {key}: shape={value.shape}, dtype={value.dtype}", file=sys.stderr)
-            else:
-                print(f"  {key}: type={type(value)}, value={str(value)[:100]}...", file=sys.stderr)
+        # Configurar LSTM manualmente
+        Wxi0 = (weights_dict['lstm.weight_ih_l0'].float() * self.scale).to(self.device)
+        Whi0 = (weights_dict['lstm.weight_hh_l0'].float() * self.scale).to(self.device)
+        b_ih0 = (weights_dict['lstm.bias_ih_l0'].float() * (self.scale * 0.5)).to(self.device)
+        b_hh0 = (weights_dict['lstm.bias_hh_l0'].float() * (self.scale * 0.5)).to(self.device)
+        self.bi0 = (b_ih0 + b_hh0)
         
-        raise ValueError("Precisa ajustar os nomes das chaves conforme a estrutura real do arquivo")
+        Wxi1 = (weights_dict['lstm.weight_ih_l1'].float() * self.scale).to(self.device)
+        Whi1 = (weights_dict['lstm.weight_hh_l1'].float() * self.scale).to(self.device)
+        b_ih1 = (weights_dict['lstm.bias_ih_l1'].float() * (self.scale * 0.5)).to(self.device)
+        b_hh1 = (weights_dict['lstm.bias_hh_l1'].float() * (self.scale * 0.5)).to(self.device)
+        self.bi1 = (b_ih1 + b_hh1)
         
-        # data.close()  # Não precisa se usarmos weights_dict
-        # return self.vocab_size
+        # Armazenar weights
+        self.Wxi0 = Wxi0
+        self.Whi0 = Whi0
+        self.Wxi1 = Wxi1
+        self.Whi1 = Whi1
+        
+        # Camada final
+        self.Wo = (weights_dict['fc.weight'].float() * self.scale).to(self.device)
+        self.bo = (weights_dict['fc.bias'].float() * (self.scale * 0.3)).to(self.device)
+        
+        # Não precisa mais do data.close() pois weights_dict são tensores PyTorch
+        return self.vocab_size
     
     def lstm_cell(self, x, h, c, Wx, Wh, b):
         """Implementação manual da célula LSTM"""
