@@ -49,8 +49,9 @@ class RealModel:
             # DESSERIALIZA os bytes para obter o OrderedDict
             if isinstance(model_data, bytes):
                 # Desserializa os bytes
-                buffer = io.BytesIO(model_data)
-                weights_dict = pickle.load(buffer)
+                # Desserializa os bytes COM TORCH.LOAD() (formato PyTorch)
+buffer = io.BytesIO(model_data)
+weights_dict = torch.load(buffer, map_location=self.device, pickle_module=pickle)
                 print(f"[DEBUG] Desserializado para: {type(weights_dict)}", file=sys.stderr)
                 print(f"[DEBUG] Chaves no dicionário: {list(weights_dict.keys())}", file=sys.stderr)
                 
@@ -306,3 +307,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
