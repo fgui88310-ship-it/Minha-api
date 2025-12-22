@@ -267,4 +267,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    {"error":"Erro ao gerar nomes","detalhes":"  File \"/workspace/【 ROUTES 】/ias/gerador_nomes.py\", line 29\n    if not os.path.exists(WEIGHTS_FILE):\n    ^\nIndentationError: expected an indented block after function definition on line 28\n"}
