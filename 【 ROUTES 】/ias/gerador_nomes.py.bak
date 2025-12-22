@@ -9,7 +9,8 @@ import os
 import time
 import traceback
 
-WEIGHTS_FILE = 'makiseV1.pth'
+# Caminho relativo a partir da raiz /workspace
+WEIGHTS_FILE = '【 ROUTES 】/ias/makiseV1.pth'
 
 class RealModel:
     def __init__(self, device='cpu'):
