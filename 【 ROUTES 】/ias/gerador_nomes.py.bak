@@ -31,53 +31,80 @@ class RealModel:
         if not os.path.exists(WEIGHTS_FILE):
             raise FileNotFoundError(f"Arquivo {WEIGHTS_FILE} não encontrado")
         
-        # Carregar weights do numpy
+        # === CARREGA DIRETAMENTE COM TORCH.LOAD() ===
+        # O arquivo .pth está dentro do .npz, mas podemos carregar diretamente
+        # usando torch.load() se extrairmos os bytes
         import numpy as np
-        data = np.load(WEIGHTS_FILE, allow_pickle=True)
         
-        # === DIAGNÓSTICO DETALHADO ===
-        print(f"[DEBUG] Chaves disponíveis: {list(data.keys())}", file=sys.stderr)
-        print(f"[DEBUG] Tipo do arquivo: {type(data)}", file=sys.stderr)
+        # 1. Carrega o arquivo .npz
+        npz_data = np.load(WEIGHTS_FILE, allow_pickle=True)
         
-        # O arquivo parece ter uma estrutura de diretório
-        # A chave principal é 'lstm_nomes_v6_trader/data.pkl'
+        # 2. Encontra a chave que contém os dados do modelo
+        model_key = None
+        for key in npz_data.keys():
+            if key.endswith('data.pkl'):
+                model_key = key
+                break
+        
+        if model_key is None:
+            raise ValueError(f"Não encontrado arquivo .pth dentro de {WEIGHTS_FILE}")
+        
+        print(f"[DEBUG] Carregando modelo da chave: {model_key}", file=sys.stderr)
+        
+        # 3. Extrai os bytes
+        model_bytes = npz_data[model_key]
+        
+        if not isinstance(model_bytes, bytes):
+            raise ValueError(f"Conteúdo da chave {model_key} não é bytes")
+        
+        # 4. Carrega diretamente com torch.load() a partir dos bytes
+        buffer = io.BytesIO(model_bytes)
+        
+        # TENTA carregar de diferentes formas
         try:
-            # Carrega o objeto pickle dentro do arquivo npz
-            model_data = data['lstm_nomes_v6_trader/data.pkl']
-            print(f"[DEBUG] Tipo do model_data: {type(model_data)}", file=sys.stderr)
-            
-            # DESSERIALIZA os bytes para obter o OrderedDict
-            if isinstance(model_data, bytes):
-                # Desserializa os bytes
-                buffer = io.BytesIO(model_data)
+            # Método 1: Carrega normalmente
+            weights_dict = torch.load(buffer, map_location=self.device)
+        except:
+            try:
+                # Método 2: Tenta com pickle_module específico
+                buffer.seek(0)  # Volta ao início do buffer
                 weights_dict = torch.load(buffer, map_location=self.device, pickle_module=pickle)
-                print(f"[DEBUG] Desserializado para: {type(weights_dict)}", file=sys.stderr)
-                print(f"[DEBUG] Chaves no dicionário: {list(weights_dict.keys())}", file=sys.stderr)
-                
-                # Verifica se é realmente um OrderedDict com tensores PyTorch
-                if not isinstance(weights_dict, dict):
-                    raise ValueError(f"Esperado dicionário, mas obtido: {type(weights_dict)}")
-                    
-            else:
-                print(f"[DEBUG] model_data não é bytes: {model_data}", file=sys.stderr)
-                raise ValueError("Formato de dados não reconhecido")
-                
-        except KeyError:
-            print("[DEBUG] Tentando carregar como array direto...", file=sys.stderr)
-            # Talvez os dados estão em uma das outras chaves 'data/0', 'data/1', etc.
-            weights_dict = {}
-            for key in data.keys():
-                if key.startswith('lstm_nomes_v6_trader/data/'):
-                    idx = key.split('/')[-1]
-                    weights_dict[idx] = data[key]
-            print(f"[DEBUG] Chaves reconstruídas: {list(weights_dict.keys())}", file=sys.stderr)
-            raise ValueError("Não foi possível carregar os pesos do modelo")
+            except:
+                # Método 3: Tenta carregar como bytes direto
+                buffer.seek(0)
+                import pickle
+                weights_dict = pickle.load(buffer)
+        
+        print(f"[DEBUG] Modelo carregado. Tipo: {type(weights_dict)}", file=sys.stderr)
+        
+        if isinstance(weights_dict, dict):
+            print(f"[DEBUG] Chaves disponíveis: {list(weights_dict.keys())}", file=sys.stderr)
+        else:
+            # Se não for um dict, pode ser um modelo completo
+            print(f"[DEBUG] Objeto carregado (não é dict): {type(weights_dict)}", file=sys.stderr)
+            # Nesse caso, você precisaria ajustar o acesso aos pesos
+            raise ValueError(f"Formato inesperado: {type(weights_dict)}")
         
         # ====== USAR OS PESOS DESSERIALIZADOS ======
-        # O dicionário contém tensores PyTorch, não arrays numpy
-        # Acesse diretamente os tensores
+        # Verifica se as chaves esperadas existem
+        expected_keys = ['embedding.weight', 'lstm.weight_ih_l0', 'lstm.weight_hh_l0', 
+                        'lstm.bias_ih_l0', 'lstm.bias_hh_l0', 'lstm.weight_ih_l1',
+                        'lstm.weight_hh_l1', 'lstm.bias_ih_l1', 'lstm.bias_hh_l1',
+                        'fc.weight', 'fc.bias']
         
-        # Converter para o dispositivo correto e aplicar escala
+        missing_keys = [key for key in expected_keys if key not in weights_dict]
+        if missing_keys:
+            print(f"[WARN] Chaves faltando: {missing_keys}", file=sys.stderr)
+            print(f"[DEBUG] Chaves disponíveis: {list(weights_dict.keys())}", file=sys.stderr)
+            # Pode ser que os nomes das chaves sejam diferentes
+            # Tenta encontrar chaves similares
+            actual_keys = list(weights_dict.keys())
+            print(f"[DEBUG] Chaves reais disponíveis: {actual_keys}", file=sys.stderr)
+            # Se faltarem chaves críticas, levanta erro
+            if 'embedding.weight' in missing_keys or 'fc.weight' in missing_keys:
+                raise KeyError(f"Chaves críticas faltando: {missing_keys}")
+        
+        # Acessa os pesos (ajuste os nomes se necessário)
         self.E = (weights_dict['embedding.weight'].float() * self.scale).to(self.device)
         
         # Configurar LSTM manualmente
@@ -103,7 +130,6 @@ class RealModel:
         self.Wo = (weights_dict['fc.weight'].float() * self.scale).to(self.device)
         self.bo = (weights_dict['fc.bias'].float() * (self.scale * 0.3)).to(self.device)
         
-        # Não precisa mais do data.close() pois weights_dict são tensores PyTorch
         return self.vocab_size
     
     def lstm_cell(self, x, h, c, Wx, Wh, b):
@@ -306,4 +332,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    

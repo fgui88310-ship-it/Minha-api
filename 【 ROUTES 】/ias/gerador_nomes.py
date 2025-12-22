@@ -27,13 +27,13 @@ class RealModel:
         self.lstm = None
         self.fc = None
     
-    def load(self):
+        def load(self):
         if not os.path.exists(WEIGHTS_FILE):
             raise FileNotFoundError(f"Arquivo {WEIGHTS_FILE} não encontrado")
         
-        # === CARREGA DIRETAMENTE COM TORCH.LOAD() ===
-        # O arquivo .pth está dentro do .npz, mas podemos carregar diretamente
-        # usando torch.load() se extrairmos os bytes
+        # === ABORDAGEM ALTERNATIVA: TORCH.LOAD COM WEIGHTS_ONLY=FALSE ===
+        # O arquivo foi salvo com um formato especial do PyTorch
+        # Precisamos usar weights_only=False explicitamente
         import numpy as np
         
         # 1. Carrega o arquivo .npz
@@ -57,67 +57,87 @@ class RealModel:
         if not isinstance(model_bytes, bytes):
             raise ValueError(f"Conteúdo da chave {model_key} não é bytes")
         
-        # 4. Carrega diretamente com torch.load() a partir dos bytes
-        buffer = io.BytesIO(model_bytes)
+        # 4. Salva os bytes em um arquivo temporário e carrega com torch.load()
+        import tempfile
         
-        # TENTA carregar de diferentes formas
+        # Cria um arquivo temporário
+        with tempfile.NamedTemporaryFile(suffix='.pth', delete=False) as tmp_file:
+            tmp_path = tmp_file.name
+            tmp_file.write(model_bytes)
+        
         try:
-            # Método 1: Carrega normalmente
-            weights_dict = torch.load(buffer, map_location=self.device)
-        except:
-            try:
-                # Método 2: Tenta com pickle_module específico
-                buffer.seek(0)  # Volta ao início do buffer
-                weights_dict = torch.load(buffer, map_location=self.device, pickle_module=pickle)
-            except:
-                # Método 3: Tenta carregar como bytes direto
-                buffer.seek(0)
-                import pickle
-                weights_dict = pickle.load(buffer)
+            # TORCH.LOAD COM WEIGHTS_ONLY=FALSE (necessário para este formato)
+            weights_dict = torch.load(tmp_path, map_location=self.device, weights_only=False)
+            
+            print(f"[DEBUG] Modelo carregado com sucesso!", file=sys.stderr)
+            print(f"[DEBUG] Tipo do objeto: {type(weights_dict)}", file=sys.stderr)
+            
+            if isinstance(weights_dict, dict):
+                print(f"[DEBUG] Chaves disponíveis: {list(weights_dict.keys())}", file=sys.stderr)
+            else:
+                # Pode ser um modelo completo ou algo diferente
+                print(f"[DEBUG] Objeto carregado: {weights_dict}", file=sys.stderr)
+                # Se for um modelo completo, extrai o state_dict
+                if hasattr(weights_dict, 'state_dict'):
+                    weights_dict = weights_dict.state_dict()
+                    print(f"[DEBUG] Extraído state_dict. Chaves: {list(weights_dict.keys())}", file=sys.stderr)
+                else:
+                    raise ValueError(f"Formato não suportado: {type(weights_dict)}")
         
-        print(f"[DEBUG] Modelo carregado. Tipo: {type(weights_dict)}", file=sys.stderr)
+        finally:
+            # Limpa o arquivo temporário
+            if os.path.exists(tmp_path):
+                os.unlink(tmp_path)
         
-        if isinstance(weights_dict, dict):
-            print(f"[DEBUG] Chaves disponíveis: {list(weights_dict.keys())}", file=sys.stderr)
-        else:
-            # Se não for um dict, pode ser um modelo completo
-            print(f"[DEBUG] Objeto carregado (não é dict): {type(weights_dict)}", file=sys.stderr)
-            # Nesse caso, você precisaria ajustar o acesso aos pesos
-            raise ValueError(f"Formato inesperado: {type(weights_dict)}")
-        
-        # ====== USAR OS PESOS DESSERIALIZADOS ======
+        # ====== VERIFICAÇÃO DAS CHAVES ======
         # Verifica se as chaves esperadas existem
         expected_keys = ['embedding.weight', 'lstm.weight_ih_l0', 'lstm.weight_hh_l0', 
                         'lstm.bias_ih_l0', 'lstm.bias_hh_l0', 'lstm.weight_ih_l1',
                         'lstm.weight_hh_l1', 'lstm.bias_ih_l1', 'lstm.bias_hh_l1',
                         'fc.weight', 'fc.bias']
         
-        missing_keys = [key for key in expected_keys if key not in weights_dict]
-        if missing_keys:
-            print(f"[WARN] Chaves faltando: {missing_keys}", file=sys.stderr)
-            print(f"[DEBUG] Chaves disponíveis: {list(weights_dict.keys())}", file=sys.stderr)
-            # Pode ser que os nomes das chaves sejam diferentes
-            # Tenta encontrar chaves similares
-            actual_keys = list(weights_dict.keys())
-            print(f"[DEBUG] Chaves reais disponíveis: {actual_keys}", file=sys.stderr)
-            # Se faltarem chaves críticas, levanta erro
-            if 'embedding.weight' in missing_keys or 'fc.weight' in missing_keys:
-                raise KeyError(f"Chaves críticas faltando: {missing_keys}")
+        # Verifica quais chaves realmente existem
+        available_keys = list(weights_dict.keys())
+        print(f"[DEBUG] Chaves disponíveis no modelo: {available_keys}", file=sys.stderr)
         
-        # Acessa os pesos (ajuste os nomes se necessário)
-        self.E = (weights_dict['embedding.weight'].float() * self.scale).to(self.device)
+        # Procura por correspondências aproximadas (case-insensitive)
+        key_mapping = {}
+        for expected in expected_keys:
+            found = False
+            for actual in available_keys:
+                if expected.lower() in actual.lower():
+                    key_mapping[expected] = actual
+                    print(f"[DEBUG] Mapeado '{expected}' -> '{actual}'", file=sys.stderr)
+                    found = True
+                    break
+            
+            if not found:
+                print(f"[WARN] Chave não encontrada: {expected}", file=sys.stderr)
+        
+        # ====== CARREGA OS PESOS ======
+        # Usa o mapeamento ou os nomes originais
+        def get_tensor(key):
+            if key in key_mapping:
+                return weights_dict[key_mapping[key]]
+            elif key in weights_dict:
+                return weights_dict[key]
+            else:
+                raise KeyError(f"Chave '{key}' não encontrada no modelo")
+        
+        # Acessa os pesos
+        self.E = (get_tensor('embedding.weight').float() * self.scale).to(self.device)
         
         # Configurar LSTM manualmente
-        Wxi0 = (weights_dict['lstm.weight_ih_l0'].float() * self.scale).to(self.device)
-        Whi0 = (weights_dict['lstm.weight_hh_l0'].float() * self.scale).to(self.device)
-        b_ih0 = (weights_dict['lstm.bias_ih_l0'].float() * (self.scale * 0.5)).to(self.device)
-        b_hh0 = (weights_dict['lstm.bias_hh_l0'].float() * (self.scale * 0.5)).to(self.device)
+        Wxi0 = (get_tensor('lstm.weight_ih_l0').float() * self.scale).to(self.device)
+        Whi0 = (get_tensor('lstm.weight_hh_l0').float() * self.scale).to(self.device)
+        b_ih0 = (get_tensor('lstm.bias_ih_l0').float() * (self.scale * 0.5)).to(self.device)
+        b_hh0 = (get_tensor('lstm.bias_hh_l0').float() * (self.scale * 0.5)).to(self.device)
         self.bi0 = (b_ih0 + b_hh0)
         
-        Wxi1 = (weights_dict['lstm.weight_ih_l1'].float() * self.scale).to(self.device)
-        Whi1 = (weights_dict['lstm.weight_hh_l1'].float() * self.scale).to(self.device)
-        b_ih1 = (weights_dict['lstm.bias_ih_l1'].float() * (self.scale * 0.5)).to(self.device)
-        b_hh1 = (weights_dict['lstm.bias_hh_l1'].float() * (self.scale * 0.5)).to(self.device)
+        Wxi1 = (get_tensor('lstm.weight_ih_l1').float() * self.scale).to(self.device)
+        Whi1 = (get_tensor('lstm.weight_hh_l1').float() * self.scale).to(self.device)
+        b_ih1 = (get_tensor('lstm.bias_ih_l1').float() * (self.scale * 0.5)).to(self.device)
+        b_hh1 = (get_tensor('lstm.bias_hh_l1').float() * (self.scale * 0.5)).to(self.device)
         self.bi1 = (b_ih1 + b_hh1)
         
         # Armazenar weights
@@ -127,9 +147,10 @@ class RealModel:
         self.Whi1 = Whi1
         
         # Camada final
-        self.Wo = (weights_dict['fc.weight'].float() * self.scale).to(self.device)
-        self.bo = (weights_dict['fc.bias'].float() * (self.scale * 0.3)).to(self.device)
+        self.Wo = (get_tensor('fc.weight').float() * self.scale).to(self.device)
+        self.bo = (get_tensor('fc.bias').float() * (self.scale * 0.3)).to(self.device)
         
+        print(f"[DEBUG] Modelo carregado completamente!", file=sys.stderr)
         return self.vocab_size
     
     def lstm_cell(self, x, h, c, Wx, Wh, b):
