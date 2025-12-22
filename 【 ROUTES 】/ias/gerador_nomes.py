@@ -26,15 +26,21 @@ class RealModel:
         self.fc = None
     
     def load(self):
-        if not os.path.exists(WEIGHTS_FILE):
-            raise FileNotFoundError(f"Arquivo {WEIGHTS_FILE} não encontrado")
-        
-        # Carregar weights do numpy
-        import numpy as np
-        data = np.load(WEIGHTS_FILE, allow_pickle=True)
-        
-        # Converter para tensores PyTorch
-        self.E = torch.from_numpy(data['embedding.weight'].astype(np.float32) * self.scale).to(self.device)
+    if not os.path.exists(WEIGHTS_FILE):
+        raise FileNotFoundError(f"Arquivo {WEIGHTS_FILE} não encontrado")
+    
+    # Carregar weights do numpy
+    import numpy as np
+    data = np.load(WEIGHTS_FILE, allow_pickle=True)
+    
+    # === ADICIONE ESTAS 2 LINHAS PARA DIAGNÓSTICO ===
+    print(f"[DEBUG] Chaves disponíveis no arquivo: {list(data.keys())}", file=sys.stderr)
+    print(f"[DEBUG] Tipo do arquivo: {type(data)}", file=sys.stderr)
+    # =================================================
+    
+    # Converter para tensores PyTorch
+    self.E = torch.from_numpy(data['embedding.weight'].astype(np.float32) * self.scale).to(self.device)
+    # ... resto do código continua
         
         # Configurar LSTM manualmente
         Wxi0 = torch.from_numpy(data['lstm.weight_ih_l0'].astype(np.float32) * self.scale).to(self.device)
