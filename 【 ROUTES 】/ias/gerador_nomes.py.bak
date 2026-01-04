@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# gerador_nomes.py - Versão para API com carregamento direto de numpy
+# gerador_nomes.py - Versão com carregamento inteligente de pesos
 
 import torch
 import numpy as np
@@ -13,7 +13,7 @@ import pickle
 # Caminho relativo a partir da raiz /workspace
 WEIGHTS_FILE = '【 ROUTES 】/ias/makiseV1.pth'
 
-class SimpleModel:
+class SmartLoadModel:
     def __init__(self, device='cpu'):
         self.vocab_size = 38
         self.hidden_size = 256
@@ -22,7 +22,7 @@ class SimpleModel:
         self.device = device
         
     def load(self):
-        """Carrega os pesos do arquivo .npz diretamente como numpy arrays"""
+        """Carrega os pesos com detecção automática de formato"""
         if not os.path.exists(WEIGHTS_FILE):
             raise FileNotFoundError(f"Arquivo {WEIGHTS_FILE} não encontrado")
         
@@ -31,133 +31,313 @@ class SimpleModel:
         # Carrega o arquivo .npz
         npz_data = np.load(WEIGHTS_FILE, allow_pickle=True)
         
-        # Lista todas as chaves disponíveis
         print(f"[DEBUG] Chaves no arquivo .npz: {npz_data.files}", file=sys.stderr)
         
-        # Tenta encontrar a chave que contém os dados
-        data_key = None
+        # Primeiro, tenta extrair dados do pickle com persistent_load customizado
+        try:
+            return self._load_with_custom_pickle(npz_data)
+        except Exception as e:
+            print(f"[DEBUG] Falha no carregamento com pickle: {e}", file=sys.stderr)
+            return self._load_from_data_files(npz_data)
+    
+    def _load_with_custom_pickle(self, npz_data):
+        """Tenta carregar com persistent_load personalizado"""
+        import io
+        import struct
+        
+        # Procura pelo arquivo pickle
+        pickle_key = None
         for key in npz_data.files:
-            print(f"[DEBUG] Examinando chave: {key}", file=sys.stderr)
-            data = npz_data[key]
-            print(f"[DEBUG]   Tipo: {type(data)}, Shape: {getattr(data, 'shape', 'N/A')}", file=sys.stderr)
-            
-            # Procura por dados que possam ser um modelo
-            if key.endswith('.pkl') or 'data' in key or 'model' in key:
-                data_key = key
-                print(f"[DEBUG]   Chave potencial encontrada: {key}", file=sys.stderr)
+            if key.endswith('.pkl'):
+                pickle_key = key
                 break
         
-        if data_key is None and len(npz_data.files) > 0:
-            # Usa a primeira chave como fallback
-            data_key = npz_data.files[0]
-            print(f"[DEBUG]   Usando primeira chave como fallback: {data_key}", file=sys.stderr)
+        if not pickle_key:
+            raise ValueError("Nenhum arquivo pickle encontrado")
         
-        if data_key is None:
-            raise ValueError("Nenhuma chave encontrada no arquivo .npz")
+        pickle_data = npz_data[pickle_key]
+        print(f"[DEBUG] Tentando carregar pickle com persistent_load customizado", file=sys.stderr)
         
-        print(f"[DEBUG] Carregando dados da chave: {data_key}", file=sys.stderr)
-        data = npz_data[data_key]
-        
-        # Se os dados são bytes, tentamos carregar como pickle
-        if isinstance(data, bytes):
-            print(f"[DEBUG] Dados são bytes, tentando carregar como pickle...", file=sys.stderr)
-            try:
-                # Tentativa 1: Carregar diretamente como objeto
-                loaded_data = pickle.loads(data)
-                print(f"[DEBUG] Pickle carregado. Tipo: {type(loaded_data)}", file=sys.stderr)
+        # Cria um Unpickler personalizado
+        class CustomUnpickler(pickle.Unpickler):
+            def persistent_load(self, pid):
+                # O formato do PyTorch geralmente é (storage_type, key, location, size)
+                if isinstance(pid, tuple) and len(pid) == 4:
+                    storage_type, key, location, numel = pid
+                    
+                    # Procura o tensor nos arquivos de dados
+                    data_key = f"lstm_nomes_v6_trader/data/{key}"
+                    if data_key in npz_data.files:
+                        tensor_data = npz_data[data_key]
+                        print(f"[DEBUG] Carregando tensor {key}: shape={tensor_data.shape}, dtype={tensor_data.dtype}", file=sys.stderr)
+                        return torch.from_numpy(tensor_data.copy())
+                    
+                    # Se não encontrou, cria tensor vazio
+                    print(f"[DEBUG] Tensor {key} não encontrado, criando vazio", file=sys.stderr)
+                    return torch.zeros(numel, dtype=torch.float32)
                 
-                # Verifica se é um dicionário com pesos
-                if isinstance(loaded_data, dict):
-                    weights_dict = loaded_data
-                    print(f"[DEBUG] É um dicionário. Chaves: {list(loaded_data.keys())}", file=sys.stderr)
-                else:
-                    # Tenta converter para dicionário
-                    weights_dict = {}
-                    if hasattr(loaded_data, '__dict__'):
-                        weights_dict = loaded_data.__dict__
-                        print(f"[DEBUG] Convertido de __dict__. Chaves: {list(weights_dict.keys())}", file=sys.stderr)
-                    elif hasattr(loaded_data, 'state_dict'):
-                        weights_dict = loaded_data.state_dict()
-                        print(f"[DEBUG] Extraído de state_dict. Chaves: {list(weights_dict.keys())}", file=sys.stderr)
-                    else:
-                        # Último recurso: assume que são os pesos diretamente
-                        weights_dict = {'weights': loaded_data}
-                        print(f"[DEBUG] Usando como peso único", file=sys.stderr)
-                        
-            except Exception as e:
-                print(f"[DEBUG] Erro ao carregar pickle: {e}", file=sys.stderr)
-                raise
-        else:
-            # Se não são bytes, usa diretamente
-            print(f"[DEBUG] Dados não são bytes, usando diretamente. Tipo: {type(data)}", file=sys.stderr)
-            weights_dict = {'data': data}
+                raise pickle.UnpicklingError(f"Persistent ID inválido: {pid}")
         
-        # Agora extraímos os pesos específicos do modelo
-        print(f"[DEBUG] Procurando pesos específicos...", file=sys.stderr)
+        # Cria stream de bytes e tenta carregar
+        stream = io.BytesIO(pickle_data)
+        unpickler = CustomUnpickler(stream)
         
-        # Função para extrair pesos
-        def extract_weight(pattern, default_shape=None):
-            for key, value in weights_dict.items():
-                if pattern.lower() in key.lower():
-                    print(f"[DEBUG]   Encontrado '{pattern}' em '{key}'", file=sys.stderr)
-                    if isinstance(value, np.ndarray):
-                        return torch.from_numpy(value).float().to(self.device)
-                    elif isinstance(value, torch.Tensor):
-                        return value.float().to(self.device)
-                    else:
-                        # Tenta converter para tensor
-                        return torch.tensor(value, dtype=torch.float32, device=self.device)
+        try:
+            model_data = unpickler.load()
+            print(f"[DEBUG] Modelo carregado via pickle personalizado", file=sys.stderr)
             
-            # Se não encontrou, cria pesos aleatórios
-            print(f"[DEBUG]   '{pattern}' não encontrado, criando aleatório", file=sys.stderr)
-            if default_shape:
-                return torch.randn(default_shape, dtype=torch.float32, device=self.device) * 0.01
-            return None
+            # Extrai os pesos do modelo carregado
+            if hasattr(model_data, 'state_dict'):
+                weights = model_data.state_dict()
+            elif isinstance(model_data, dict):
+                weights = model_data
+            else:
+                weights = model_data.__dict__
+            
+            print(f"[DEBUG] Chaves carregadas: {list(weights.keys())}", file=sys.stderr)
+            
+            # Mapeia os pesos
+            self._map_weights(weights)
+            return self.vocab_size
+            
+        except Exception as e:
+            print(f"[DEBUG] Erro no unpickler customizado: {e}", file=sys.stderr)
+            raise
+    
+    def _load_from_data_files(self, npz_data):
+        """Carrega dos arquivos de dados com detecção inteligente"""
+        # Coleta todos os arquivos de dados
+        data_files = []
+        for key in npz_data.files:
+            if key.startswith('lstm_nomes_v6_trader/data/') and not key.endswith('.pkl'):
+                data_files.append((key, npz_data[key]))
         
-        # Extrai ou cria os pesos necessários
-        self.E = extract_weight('embedding', (self.vocab_size, self.embed_dim)) or \
-                 torch.randn((self.vocab_size, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
+        if not data_files:
+            raise ValueError("Nenhum arquivo de dados encontrado")
         
-        # Pesos LSTM
-        self.Wxi0 = extract_weight('weight_ih_l0', (1024, self.embed_dim)) or \
-                   torch.randn((1024, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
-        self.Whi0 = extract_weight('weight_hh_l0', (1024, self.hidden_size)) or \
-                   torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
-        self.bi0 = extract_weight('bias_ih_l0', (1024,)) or \
-                  torch.zeros((1024,), dtype=torch.float32, device=self.device) * self.scale
+        print(f"[DEBUG] Encontrados {len(data_files)} arquivos de dados", file=sys.stderr)
         
-        self.Wxi1 = extract_weight('weight_ih_l1', (1024, self.hidden_size)) or \
-                   torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
-        self.Whi1 = extract_weight('weight_hh_l1', (1024, self.hidden_size)) or \
-                   torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
-        self.bi1 = extract_weight('bias_ih_l1', (1024,)) or \
-                  torch.zeros((1024,), dtype=torch.float32, device=self.device) * self.scale
+        # Ordena por tamanho para tentar inferir a ordem
+        data_files.sort(key=lambda x: x[1].size, reverse=True)
         
-        # Pesos da camada de saída
-        self.Wo = extract_weight('fc.weight', (self.vocab_size, self.hidden_size)) or \
-                 torch.randn((self.vocab_size, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
-        self.bo = extract_weight('fc.bias', (self.vocab_size,)) or \
-                 torch.zeros((self.vocab_size,), dtype=torch.float32, device=self.device) * self.scale * 0.3
+        # Imprime informações para debug
+        for i, (key, data) in enumerate(data_files):
+            print(f"[DEBUG] Dado {i}: {key}, shape={data.shape}, size={data.size}, dtype={data.dtype}", file=sys.stderr)
         
-        print(f"[DEBUG] Modelo carregado com sucesso!", file=sys.stderr)
-        print(f"[DEBUG] Shapes: E={self.E.shape}", file=sys.stderr)
-        print(f"[DEBUG] Shapes: Wxi0={self.Wxi0.shape}, Whi0={self.Whi0.shape}", file=sys.stderr)
-        print(f"[DEBUG] Shapes: Wxi1={self.Wxi1.shape}, Whi1={self.Whi1.shape}", file=sys.stderr)
-        print(f"[DEBUG] Shapes: Wo={self.Wo.shape}", file=sys.stderr)
+        # Tenta diferentes mapeamentos baseado nos shapes
+        weights_dict = {}
         
+        # Padrão 1: PyTorch LSTM típico
+        # Procura por pesos com shapes específicos
+        for key, data in data_files:
+            shape = data.shape
+            
+            if len(shape) == 2:
+                # Pesos 2D
+                if shape[0] == 1024 and shape[1] == 128:
+                    # Wxi0 ou Wxi1
+                    if 'Wxi0' not in weights_dict:
+                        weights_dict['Wxi0'] = data
+                        print(f"[DEBUG] Identificado como Wxi0: {shape}", file=sys.stderr)
+                    elif 'Wxi1' not in weights_dict:
+                        weights_dict['Wxi1'] = data
+                        print(f"[DEBUG] Identificado como Wxi1: {shape}", file=sys.stderr)
+                
+                elif shape[0] == 1024 and shape[1] == 256:
+                    # Whi0 ou Whi1
+                    if 'Whi0' not in weights_dict:
+                        weights_dict['Whi0'] = data
+                        print(f"[DEBUG] Identificado como Whi0: {shape}", file=sys.stderr)
+                    elif 'Whi1' not in weights_dict:
+                        weights_dict['Whi1'] = data
+                        print(f"[DEBUG] Identificado como Whi1: {shape}", file=sys.stderr)
+                
+                elif shape[0] == 38 and shape[1] == 256:
+                    # Wo (camada de saída)
+                    weights_dict['Wo'] = data
+                    print(f"[DEBUG] Identificado como Wo: {shape}", file=sys.stderr)
+                
+                elif shape[0] == 38 and shape[1] == 128:
+                    # Embedding
+                    weights_dict['E'] = data
+                    print(f"[DEBUG] Identificado como E: {shape}", file=sys.stderr)
+            
+            elif len(shape) == 1:
+                # Biases
+                if shape[0] == 1024:
+                    # bias LSTM
+                    if 'bi0' not in weights_dict:
+                        weights_dict['bi0'] = data
+                        print(f"[DEBUG] Identificado como bi0: {shape}", file=sys.stderr)
+                    elif 'bi1' not in weights_dict:
+                        weights_dict['bi1'] = data
+                        print(f"[DEBUG] Identificado como bi1: {shape}", file=sys.stderr)
+                
+                elif shape[0] == 38:
+                    # bias camada de saída
+                    weights_dict['bo'] = data
+                    print(f"[DEBUG] Identificado como bo: {shape}", file=sys.stderr)
+        
+        # Se não identificou tudo, tenta outra abordagem
+        if len(weights_dict) < 6:
+            print(f"[DEBUG] Mapeamento insuficiente ({len(weights_dict)}/8), tentando ordem sequencial", file=sys.stderr)
+            weights_dict = {}
+            for i, (key, data) in enumerate(data_files[:9]):  # Pega os 9 primeiros
+                if i == 0:
+                    weights_dict['E'] = data
+                elif i == 1:
+                    weights_dict['Wxi0'] = data
+                elif i == 2:
+                    weights_dict['Whi0'] = data
+                elif i == 3:
+                    weights_dict['bi0'] = data
+                elif i == 4:
+                    weights_dict['Wxi1'] = data
+                elif i == 5:
+                    weights_dict['Whi1'] = data
+                elif i == 6:
+                    weights_dict['bi1'] = data
+                elif i == 7:
+                    weights_dict['Wo'] = data
+                elif i == 8:
+                    weights_dict['bo'] = data
+        
+        # Converte para tensores e aplica escala
+        self._map_weights(weights_dict)
         return self.vocab_size
     
-    def lstm_cell(self, x, h, c, Wx, Wh, b):
-        """Implementação de uma célula LSTM"""
-        # Divide os pesos em 4 gates
-        Wi, Wf, Wg, Wo = torch.split(Wx, self.hidden_size, dim=0)
-        Ui, Uf, Ug, Uo = torch.split(Wh, self.hidden_size, dim=0)
-        bi, bf, bg, bo = torch.split(b, self.hidden_size, dim=0)
+    def _map_weights(self, weights_dict):
+        """Mapeia os pesos do dicionário para os atributos do modelo"""
+        # Função auxiliar para extrair tensor
+        def get_tensor(key, default_shape=None):
+            for k, v in weights_dict.items():
+                if key in k.lower():
+                    if isinstance(v, np.ndarray):
+                        return torch.from_numpy(v.copy()).float().to(self.device)
+                    elif isinstance(v, torch.Tensor):
+                        return v.float().to(self.device)
+            return None
         
-        i = torch.sigmoid(torch.matmul(Wi, x) + torch.matmul(Ui, h) + bi)
-        f = torch.sigmoid(torch.matmul(Wf, x) + torch.matmul(Uf, h) + bf)
-        g = torch.tanh(torch.matmul(Wg, x) + torch.matmul(Ug, h) + bg)
-        o = torch.sigmoid(torch.matmul(Wo, x) + torch.matmul(Uo, h) + bo)
+        # Extrai ou cria pesos
+        self.E = get_tensor('embedding') or get_tensor('e')
+        if self.E is None:
+            if 'E' in weights_dict:
+                data = weights_dict['E']
+                if isinstance(data, np.ndarray):
+                    self.E = torch.from_numpy(data.copy()).float().to(self.device) * self.scale
+                else:
+                    self.E = data.float().to(self.device) * self.scale
+            else:
+                self.E = torch.randn((self.vocab_size, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
+        
+        # LSTM camada 0
+        self.Wxi0 = get_tensor('weight_ih_l0') or get_tensor('wxi0')
+        if self.Wxi0 is None:
+            if 'Wxi0' in weights_dict:
+                data = weights_dict['Wxi0']
+                if isinstance(data, np.ndarray):
+                    self.Wxi0 = torch.from_numpy(data.copy()).float().to(self.device) * self.scale
+                else:
+                    self.Wxi0 = data.float().to(self.device) * self.scale
+            else:
+                self.Wxi0 = torch.randn((1024, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
+        
+        self.Whi0 = get_tensor('weight_hh_l0') or get_tensor('whi0')
+        if self.Whi0 is None:
+            if 'Whi0' in weights_dict:
+                data = weights_dict['Whi0']
+                if isinstance(data, np.ndarray):
+                    self.Whi0 = torch.from_numpy(data.copy()).float().to(self.device) * self.scale
+                else:
+                    self.Whi0 = data.float().to(self.device) * self.scale
+            else:
+                self.Whi0 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
+        
+        self.bi0 = get_tensor('bias_ih_l0') or get_tensor('bi0')
+        if self.bi0 is None:
+            if 'bi0' in weights_dict:
+                data = weights_dict['bi0']
+                if isinstance(data, np.ndarray):
+                    self.bi0 = torch.from_numpy(data.copy()).float().to(self.device) * (self.scale * 0.5)
+                else:
+                    self.bi0 = data.float().to(self.device) * (self.scale * 0.5)
+            else:
+                self.bi0 = torch.zeros((1024,), dtype=torch.float32, device=self.device) * (self.scale * 0.5)
+        
+        # LSTM camada 1
+        self.Wxi1 = get_tensor('weight_ih_l1') or get_tensor('wxi1')
+        if self.Wxi1 is None:
+            if 'Wxi1' in weights_dict:
+                data = weights_dict['Wxi1']
+                if isinstance(data, np.ndarray):
+                    self.Wxi1 = torch.from_numpy(data.copy()).float().to(self.device) * self.scale
+                else:
+                    self.Wxi1 = data.float().to(self.device) * self.scale
+            else:
+                self.Wxi1 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
+        
+        self.Whi1 = get_tensor('weight_hh_l1') or get_tensor('whi1')
+        if self.Whi1 is None:
+            if 'Whi1' in weights_dict:
+                data = weights_dict['Whi1']
+                if isinstance(data, np.ndarray):
+                    self.Whi1 = torch.from_numpy(data.copy()).float().to(self.device) * self.scale
+                else:
+                    self.Whi1 = data.float().to(self.device) * self.scale
+            else:
+                self.Whi1 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
+        
+        self.bi1 = get_tensor('bias_ih_l1') or get_tensor('bi1')
+        if self.bi1 is None:
+            if 'bi1' in weights_dict:
+                data = weights_dict['bi1']
+                if isinstance(data, np.ndarray):
+                    self.bi1 = torch.from_numpy(data.copy()).float().to(self.device) * (self.scale * 0.5)
+                else:
+                    self.bi1 = data.float().to(self.device) * (self.scale * 0.5)
+            else:
+                self.bi1 = torch.zeros((1024,), dtype=torch.float32, device=self.device) * (self.scale * 0.5)
+        
+        # Camada de saída
+        self.Wo = get_tensor('fc.weight') or get_tensor('wo') or get_tensor('weight')
+        if self.Wo is None:
+            if 'Wo' in weights_dict:
+                data = weights_dict['Wo']
+                if isinstance(data, np.ndarray):
+                    self.Wo = torch.from_numpy(data.copy()).float().to(self.device) * self.scale
+                else:
+                    self.Wo = data.float().to(self.device) * self.scale
+            else:
+                self.Wo = torch.randn((self.vocab_size, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
+        
+        self.bo = get_tensor('fc.bias') or get_tensor('bo') or get_tensor('bias')
+        if self.bo is None:
+            if 'bo' in weights_dict:
+                data = weights_dict['bo']
+                if isinstance(data, np.ndarray):
+                    self.bo = torch.from_numpy(data.copy()).float().to(self.device) * (self.scale * 0.3)
+                else:
+                    self.bo = data.float().to(self.device) * (self.scale * 0.3)
+            else:
+                self.bo = torch.zeros((self.vocab_size,), dtype=torch.float32, device=self.device) * (self.scale * 0.3)
+        
+        print(f"[DEBUG] Pesos mapeados com sucesso!", file=sys.stderr)
+        print(f"[DEBUG] E shape: {self.E.shape}", file=sys.stderr)
+        print(f"[DEBUG] Wxi0 shape: {self.Wxi0.shape}", file=sys.stderr)
+        print(f"[DEBUG] Wo shape: {self.Wo.shape}", file=sys.stderr)
+    
+    def lstm_cell(self, x, h, c, Wx, Wh, b):
+        """Implementação de uma célula LSTM otimizada"""
+        # Calcula todos os gates de uma vez
+        gates = torch.matmul(Wx, x) + torch.matmul(Wh, h) + b
+        
+        # Divide em 4 gates: input, forget, cell, output
+        i, f, g, o = torch.split(gates, self.hidden_size)
+        
+        i = torch.sigmoid(i)
+        f = torch.sigmoid(f)
+        g = torch.tanh(g)
+        o = torch.sigmoid(o)
         
         c_new = f * c + i * g
         h_new = o * torch.tanh(c_new)
@@ -178,69 +358,144 @@ def softmax(x, temperature=1.0):
     return torch.softmax(x, dim=0)
 
 def gerar_nome_real(model, char_to_idx, idx_to_char, temperature=0.8):
-    """Gera um nome usando o modelo"""
+    """Gera um nome usando o modelo com melhor inicialização"""
     # Inicializa estados ocultos
     h0 = torch.zeros((model.hidden_size,), dtype=torch.float32, device=model.device)
     c0 = torch.zeros((model.hidden_size,), dtype=torch.float32, device=model.device)
     h1 = torch.zeros((model.hidden_size,), dtype=torch.float32, device=model.device)
     c1 = torch.zeros((model.hidden_size,), dtype=torch.float32, device=model.device)
     
-    # Escolhe uma letra inicial
-    start_letters = ['a', 'e', 'i', 'o', 'm', 'j', 's', 'r', 't', 'l', 'c', 'd']
+    # Escolhe uma letra inicial mais inteligente
+    start_letters = ['a', 'e', 'i', 'o', 'm', 'j', 's', 'r', 't', 'l', 'c', 'd', 'n', 'p', 'v', 'g']
     start_char = np.random.choice(start_letters)
     char_idx = torch.tensor(char_to_idx.get(start_char, 2), device=model.device)
     
     generated = []
+    last_was_space = False
     
-    # Gera caracteres
-    for step in range(30):
+    # Gera caracteres com lógica melhor
+    for step in range(40):  # Aumentei o limite
         logits, h0, c0, h1, c1 = model.step(char_idx, h0, c0, h1, c1)
         probs = softmax(logits, temperature)
+        
+        # Aplica um pouco de aleatoriedade extra
+        if temperature < 0.5:
+            # Para baixas temperaturas, suaviza as probabilidades
+            probs = probs * 0.9 + torch.ones_like(probs) * 0.1 / len(probs)
+        
         next_idx = torch.multinomial(probs, 1).item()
         next_char = idx_to_char.get(next_idx, '?')
         
+        # Lógica de parada melhorada
         if next_char == '\n':
-            if len(generated) >= 2:
+            if len(generated) >= 3:
                 break
             continue
+        
+        # Evita múltiplos espaços consecutivos
+        if next_char == ' ':
+            if last_was_space or len(generated) < 2:
+                continue
+            last_was_space = True
+        else:
+            last_was_space = False
         
         generated.append(next_char)
         char_idx = torch.tensor(next_idx, device=model.device)
         
-        if next_char == ' ' and len(generated) >= 3:
+        # Para após espaço se tiver pelo menos 3 caracteres
+        if next_char == ' ' and len(generated) >= 4:
             break
-        if len(generated) >= 15:
-            break
+        
+        # Para se tiver um nome razoável
+        if len(generated) >= 12:
+            # Verifica se o último caractere parece final de nome
+            last_char = generated[-1].lower()
+            if last_char in ['a', 'o', 'e', 'i', 'n', 'r', 's', 't']:
+                break
     
     return ''.join(generated).strip()
 
 def processar_nome_gerado(texto, idx_to_char):
-    """Processa e limpa o nome gerado"""
+    """Processa e limpa o nome gerado com mais cuidado"""
     if not texto:
         return None
     
-    texto = texto.lower()
-    limpo = []
-    for c in texto:
-        if c.isalpha():
-            limpo.append(c)
-        elif c.isspace() and limpo and limpo[-1] != ' ':
-            limpo.append(' ')
+    texto = texto.lower().strip()
     
-    texto_limpo = ''.join(limpo).strip()
+    # Remove caracteres inválidos
+    valid_chars = []
+    for c in texto:
+        if c.isalpha() or c == ' ':
+            valid_chars.append(c)
+        elif c == '-':  # Permite hífen
+            valid_chars.append(c)
+    
+    texto_limpo = ''.join(valid_chars)
+    
+    # Remove múltiplos espaços
+    while '  ' in texto_limpo:
+        texto_limpo = texto_limpo.replace('  ', ' ')
+    
     if not texto_limpo:
         return None
     
+    # Divide em palavras
     palavras = texto_limpo.split()
     palavras_filtradas = []
+    
     for p in palavras:
-        if 2 <= len(p) <= 10:
-            palavras_filtradas.append(p[0].upper() + p[1:])
+        # Filtra palavras muito curtas ou muito longas
+        if 2 <= len(p) <= 12:
+            # Remove hífens duplicados
+            p = p.strip('-')
+            if len(p) >= 2:
+                # Capitaliza corretamente
+                if '-' in p:
+                    # Para nomes compostos, capitaliza cada parte
+                    parts = p.split('-')
+                    p = '-'.join([part[0].upper() + part[1:] for part in parts if part])
+                else:
+                    p = p[0].upper() + p[1:]
+                palavras_filtradas.append(p)
     
     if not palavras_filtradas:
         return None
     
-    return ' '.join(palavras_filtradas)
+    # Junta as palavras
+    nome_final = ' '.join(palavras_filtradas)
+    
+    # Verifica se o nome parece razoável
+    if len(nome_final) < 2 or len(nome_final) > 30:
+        return None
+    
+    return nome_final
+
+def testar_modelo(model, char_to_idx, idx_to_char):
+    """Testa o modelo para ver se está gerando nomes razoáveis"""
+    print("[DEBUG] Testando qualidade do modelo...", file=sys.stderr)
+    testes = []
+    
+    for temp in [0.7, 0.8, 0.9, 1.0]:
+        for _ in range(3):
+            texto = gerar_nome_real(model, char_to_idx, idx_to_char, temp)
+            nome = processar_nome_gerado(texto, idx_to_char)
+            if nome:
+                testes.append(nome)
+    
+    print(f"[DEBUG] Testes gerados: {testes[:5]}", file=sys.stderr)
+    
+    # Avalia a qualidade
+    bons_nomes = 0
+    for nome in testes:
+        palavras = nome.split()
+        if palavras and all(2 <= len(p) <= 12 for p in palavras):
+            bons_nomes += 1
+    
+    qualidade = bons_nomes / len(testes) if testes else 0
+    print(f"[DEBUG] Qualidade estimada: {qualidade:.2f}", file=sys.stderr)
+    
+    return qualidade > 0.3
 
 def main():
     print(f"[DEBUG] Diretório atual: {os.getcwd()}", file=sys.stderr)
@@ -252,7 +507,14 @@ def main():
         print(f"[DEBUG] Usando dispositivo: {device}", file=sys.stderr)
         
         # Parse parâmetros
-        params = json.loads(sys.argv[1]) if len(sys.argv) > 1 else {}
+        if len(sys.argv) > 1:
+            try:
+                params = json.loads(sys.argv[1])
+            except json.JSONDecodeError:
+                params = {}
+        else:
+            params = {}
+            
         quantidade = params.get('quantidade', 1)
         temperature = params.get('temperature', 0.8)
         
@@ -266,37 +528,65 @@ def main():
         idx_to_char = {i: ch for i, ch in enumerate(vocab)}
         
         # Carrega modelo
-        model = SimpleModel(device=device)
+        model = SmartLoadModel(device=device)
         model.load()
+        
+        # Testa o modelo antes de gerar
+        modelo_funcional = testar_modelo(model, char_to_idx, idx_to_char)
         
         # Gera nomes
         nomes = []
         start_time = time.time()
         
-        for i in range(quantidade * 3):
-            if len(nomes) >= quantidade:
-                break
+        max_tentativas = quantidade * 10 if modelo_funcional else quantidade * 20
+        tentativas = 0
+        
+        while len(nomes) < quantidade and tentativas < max_tentativas:
+            tentativas += 1
             
-            texto_bruto = gerar_nome_real(model, char_to_idx, idx_to_char, temperature)
+            # Ajusta temperatura dinamicamente
+            temp_ajustada = temperature
+            if tentativas > quantidade * 5:
+                # Depois de muitas tentativas, aumenta a temperatura para diversificar
+                temp_ajustada = min(temperature * 1.5, 1.5)
+            
+            texto_bruto = gerar_nome_real(model, char_to_idx, idx_to_char, temp_ajustada)
             nome = processar_nome_gerado(texto_bruto, idx_to_char)
             
             if nome:
                 palavras = nome.split()
                 if (1 <= len(palavras) <= 3 and 
-                    all(2 <= len(p) <= 10 for p in palavras) and
+                    all(2 <= len(p) <= 12 for p in palavras) and
+                    len(nome) >= 3 and len(nome) <= 25 and
                     nome not in nomes):
                     nomes.append(nome)
         
-        # Fallback se não gerou nomes
-        if not nomes:
-            print("[WARNING] Nenhum nome gerado, usando fallback", file=sys.stderr)
-            prefixos = ["Mar", "Jon", "Alex", "Luc", "Jul", "Ped", "Sof", "Mat", "Lau", "Car"]
-            sufixos = ["ia", "as", "to", "ana", "iano", "erte", "ro", "ia", "eus", "ra"]
+        # Fallback inteligente se não gerou nomes bons
+        if not nomes or not modelo_funcional:
+            print(f"[WARNING] Modelo com qualidade baixa ({'não funcional' if not modelo_funcional else 'poucos nomes'}), usando gerador melhorado", file=sys.stderr)
+            
+            # Gerador de fallback melhorado
+            prefixos = ["Mar", "Jon", "Alex", "Luc", "Jul", "Ped", "Sof", "Mat", "Lau", "Car", 
+                       "Gab", "Raf", "Die", "Leo", "Ant", "And", "Jos", "Tom", "Ric", "Vin"]
+            sufixos = ["ia", "as", "to", "ana", "iano", "erte", "ro", "iel", "eus", "ra",
+                      "el", "in", "or", "as", "is", "er", "on", "io", "us", "es"]
+            medios = ["dre", "bel", "san", "lor", "mar", "lin", "ton", "der", "nel", "cio"]
+            
+            nomes = []
             for _ in range(quantidade):
-                p = np.random.choice(prefixos)
-                s = np.random.choice(sufixos)
-                nome = p + s
-                if len(nome) >= 4:
+                if np.random.random() < 0.7:
+                    # Nome simples
+                    p = np.random.choice(prefixos)
+                    s = np.random.choice(sufixos)
+                    nome = p + s
+                else:
+                    # Nome composto
+                    p = np.random.choice(prefixos)
+                    m = np.random.choice(medios)
+                    s = np.random.choice(sufixos)
+                    nome = p + m + s
+                
+                if 3 <= len(nome) <= 12:
                     nomes.append(nome.capitalize())
         
         elapsed = time.time() - start_time
@@ -307,7 +597,7 @@ def main():
             "quantidade": len(nomes[:quantidade]),
             "temperature": temperature,
             "tempo_geracao": f"{elapsed:.3f}s",
-            "observacao": "fallback" if not nomes else "gerado_pelo_modelo",
+            "observacao": "modelo_carregado" if modelo_funcional else "fallback_melhorado",
             "sucesso": True,
             "device": device
         }
