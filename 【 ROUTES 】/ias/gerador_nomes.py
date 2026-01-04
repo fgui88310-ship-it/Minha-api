@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# gerador_nomes.py - Versão para API com carregamento direto de numpy
+# gerador_nomes.py - Versão que carrega pesos diretamente dos arquivos .npy
 
 import torch
 import numpy as np
@@ -8,12 +8,11 @@ import sys
 import os
 import time
 import traceback
-import pickle
 
 # Caminho relativo a partir da raiz /workspace
 WEIGHTS_FILE = '【 ROUTES 】/ias/makiseV1.pth'
 
-class SimpleModel:
+class DirectLoadModel:
     def __init__(self, device='cpu'):
         self.vocab_size = 38
         self.hidden_size = 256
@@ -22,7 +21,7 @@ class SimpleModel:
         self.device = device
         
     def load(self):
-        """Carrega os pesos do arquivo .npz diretamente como numpy arrays"""
+        """Carrega os pesos diretamente dos arquivos .npy dentro do .npz"""
         if not os.path.exists(WEIGHTS_FILE):
             raise FileNotFoundError(f"Arquivo {WEIGHTS_FILE} não encontrado")
         
@@ -34,130 +33,130 @@ class SimpleModel:
         # Lista todas as chaves disponíveis
         print(f"[DEBUG] Chaves no arquivo .npz: {npz_data.files}", file=sys.stderr)
         
-        # Tenta encontrar a chave que contém os dados
-        data_key = None
+        # Ignora o arquivo .pkl problemático e procura por arquivos de dados
+        data_files = []
         for key in npz_data.files:
-            print(f"[DEBUG] Examinando chave: {key}", file=sys.stderr)
-            data = npz_data[key]
-            print(f"[DEBUG]   Tipo: {type(data)}, Shape: {getattr(data, 'shape', 'N/A')}", file=sys.stderr)
-            
-            # Procura por dados que possam ser um modelo
-            if key.endswith('.pkl') or 'data' in key or 'model' in key:
-                data_key = key
-                print(f"[DEBUG]   Chave potencial encontrada: {key}", file=sys.stderr)
-                break
+            if key.startswith('lstm_nomes_v6_trader/data/') and not key.endswith('.pkl'):
+                data_files.append(key)
+                print(f"[DEBUG] Arquivo de dados encontrado: {key}", file=sys.stderr)
         
-        if data_key is None and len(npz_data.files) > 0:
-            # Usa a primeira chave como fallback
-            data_key = npz_data.files[0]
-            print(f"[DEBUG]   Usando primeira chave como fallback: {data_key}", file=sys.stderr)
+        if not data_files:
+            raise ValueError("Nenhum arquivo de dados encontrado no .npz")
         
-        if data_key is None:
-            raise ValueError("Nenhuma chave encontrada no arquivo .npz")
+        # Organiza os arquivos por número
+        data_files.sort(key=lambda x: int(x.split('/')[-1]))
         
-        print(f"[DEBUG] Carregando dados da chave: {data_key}", file=sys.stderr)
-        data = npz_data[data_key]
-        
-        # Se os dados são bytes, tentamos carregar como pickle
-        if isinstance(data, bytes):
-            print(f"[DEBUG] Dados são bytes, tentando carregar como pickle...", file=sys.stderr)
+        # Tenta carregar os pesos na ordem esperada
+        weights = []
+        for data_file in data_files:
             try:
-                # Tentativa 1: Carregar diretamente como objeto
-                loaded_data = pickle.loads(data)
-                print(f"[DEBUG] Pickle carregado. Tipo: {type(loaded_data)}", file=sys.stderr)
-                
-                # Verifica se é um dicionário com pesos
-                if isinstance(loaded_data, dict):
-                    weights_dict = loaded_data
-                    print(f"[DEBUG] É um dicionário. Chaves: {list(loaded_data.keys())}", file=sys.stderr)
-                else:
-                    # Tenta converter para dicionário
-                    weights_dict = {}
-                    if hasattr(loaded_data, '__dict__'):
-                        weights_dict = loaded_data.__dict__
-                        print(f"[DEBUG] Convertido de __dict__. Chaves: {list(weights_dict.keys())}", file=sys.stderr)
-                    elif hasattr(loaded_data, 'state_dict'):
-                        weights_dict = loaded_data.state_dict()
-                        print(f"[DEBUG] Extraído de state_dict. Chaves: {list(weights_dict.keys())}", file=sys.stderr)
-                    else:
-                        # Último recurso: assume que são os pesos diretamente
-                        weights_dict = {'weights': loaded_data}
-                        print(f"[DEBUG] Usando como peso único", file=sys.stderr)
-                        
+                data = npz_data[data_file]
+                print(f"[DEBUG] Carregando {data_file}: shape={data.shape}, dtype={data.dtype}", file=sys.stderr)
+                weights.append(data)
             except Exception as e:
-                print(f"[DEBUG] Erro ao carregar pickle: {e}", file=sys.stderr)
-                raise
+                print(f"[DEBUG] Erro ao carregar {data_file}: {e}", file=sys.stderr)
+        
+        print(f"[DEBUG] Total de pesos carregados: {len(weights)}", file=sys.stderr)
+        
+        # Atribui os pesos baseado na posição e formato
+        # Ordem esperada: embedding, Wxi0, Whi0, bias0, Wxi1, Whi1, bias1, fc_weight, fc_bias
+        weight_idx = 0
+        
+        # 1. Embedding (vocab_size x embed_dim)
+        if weight_idx < len(weights):
+            self.E = torch.from_numpy(weights[weight_idx]).float().to(self.device) * self.scale
+            print(f"[DEBUG] Embedding shape: {self.E.shape}", file=sys.stderr)
+            weight_idx += 1
         else:
-            # Se não são bytes, usa diretamente
-            print(f"[DEBUG] Dados não são bytes, usando diretamente. Tipo: {type(data)}", file=sys.stderr)
-            weights_dict = {'data': data}
+            self.E = torch.randn((self.vocab_size, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
         
-        # Agora extraímos os pesos específicos do modelo
-        print(f"[DEBUG] Procurando pesos específicos...", file=sys.stderr)
+        # 2. LSTM layer 0 weights
+        # Wxi0 (4*hidden_size x embed_dim)
+        if weight_idx < len(weights):
+            self.Wxi0 = torch.from_numpy(weights[weight_idx]).float().to(self.device) * self.scale
+            print(f"[DEBUG] Wxi0 shape: {self.Wxi0.shape}", file=sys.stderr)
+            weight_idx += 1
+        else:
+            self.Wxi0 = torch.randn((1024, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
         
-        # Função para extrair pesos
-        def extract_weight(pattern, default_shape=None):
-            for key, value in weights_dict.items():
-                if pattern.lower() in key.lower():
-                    print(f"[DEBUG]   Encontrado '{pattern}' em '{key}'", file=sys.stderr)
-                    if isinstance(value, np.ndarray):
-                        return torch.from_numpy(value).float().to(self.device)
-                    elif isinstance(value, torch.Tensor):
-                        return value.float().to(self.device)
-                    else:
-                        # Tenta converter para tensor
-                        return torch.tensor(value, dtype=torch.float32, device=self.device)
-            
-            # Se não encontrou, cria pesos aleatórios
-            print(f"[DEBUG]   '{pattern}' não encontrado, criando aleatório", file=sys.stderr)
-            if default_shape:
-                return torch.randn(default_shape, dtype=torch.float32, device=self.device) * 0.01
-            return None
+        # 3. LSTM layer 0 recurrent weights
+        # Whi0 (4*hidden_size x hidden_size)
+        if weight_idx < len(weights):
+            self.Whi0 = torch.from_numpy(weights[weight_idx]).float().to(self.device) * self.scale
+            print(f"[DEBUG] Whi0 shape: {self.Whi0.shape}", file=sys.stderr)
+            weight_idx += 1
+        else:
+            self.Whi0 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
         
-        # Extrai ou cria os pesos necessários
-        self.E = extract_weight('embedding', (self.vocab_size, self.embed_dim)) or \
-                 torch.randn((self.vocab_size, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
+        # 4. LSTM layer 0 bias
+        # bias0 (4*hidden_size)
+        if weight_idx < len(weights):
+            self.bi0 = torch.from_numpy(weights[weight_idx]).float().to(self.device) * (self.scale * 0.5)
+            print(f"[DEBUG] bi0 shape: {self.bi0.shape}", file=sys.stderr)
+            weight_idx += 1
+        else:
+            self.bi0 = torch.zeros((1024,), dtype=torch.float32, device=self.device) * (self.scale * 0.5)
         
-        # Pesos LSTM
-        self.Wxi0 = extract_weight('weight_ih_l0', (1024, self.embed_dim)) or \
-                   torch.randn((1024, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
-        self.Whi0 = extract_weight('weight_hh_l0', (1024, self.hidden_size)) or \
-                   torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
-        self.bi0 = extract_weight('bias_ih_l0', (1024,)) or \
-                  torch.zeros((1024,), dtype=torch.float32, device=self.device) * self.scale
+        # 5. LSTM layer 1 weights
+        # Wxi1 (4*hidden_size x hidden_size)
+        if weight_idx < len(weights):
+            self.Wxi1 = torch.from_numpy(weights[weight_idx]).float().to(self.device) * self.scale
+            print(f"[DEBUG] Wxi1 shape: {self.Wxi1.shape}", file=sys.stderr)
+            weight_idx += 1
+        else:
+            self.Wxi1 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
         
-        self.Wxi1 = extract_weight('weight_ih_l1', (1024, self.hidden_size)) or \
-                   torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
-        self.Whi1 = extract_weight('weight_hh_l1', (1024, self.hidden_size)) or \
-                   torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
-        self.bi1 = extract_weight('bias_ih_l1', (1024,)) or \
-                  torch.zeros((1024,), dtype=torch.float32, device=self.device) * self.scale
+        # 6. LSTM layer 1 recurrent weights
+        # Whi1 (4*hidden_size x hidden_size)
+        if weight_idx < len(weights):
+            self.Whi1 = torch.from_numpy(weights[weight_idx]).float().to(self.device) * self.scale
+            print(f"[DEBUG] Whi1 shape: {self.Whi1.shape}", file=sys.stderr)
+            weight_idx += 1
+        else:
+            self.Whi1 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
         
-        # Pesos da camada de saída
-        self.Wo = extract_weight('fc.weight', (self.vocab_size, self.hidden_size)) or \
-                 torch.randn((self.vocab_size, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
-        self.bo = extract_weight('fc.bias', (self.vocab_size,)) or \
-                 torch.zeros((self.vocab_size,), dtype=torch.float32, device=self.device) * self.scale * 0.3
+        # 7. LSTM layer 1 bias
+        # bias1 (4*hidden_size)
+        if weight_idx < len(weights):
+            self.bi1 = torch.from_numpy(weights[weight_idx]).float().to(self.device) * (self.scale * 0.5)
+            print(f"[DEBUG] bi1 shape: {self.bi1.shape}", file=sys.stderr)
+            weight_idx += 1
+        else:
+            self.bi1 = torch.zeros((1024,), dtype=torch.float32, device=self.device) * (self.scale * 0.5)
         
-        print(f"[DEBUG] Modelo carregado com sucesso!", file=sys.stderr)
-        print(f"[DEBUG] Shapes: E={self.E.shape}", file=sys.stderr)
-        print(f"[DEBUG] Shapes: Wxi0={self.Wxi0.shape}, Whi0={self.Whi0.shape}", file=sys.stderr)
-        print(f"[DEBUG] Shapes: Wxi1={self.Wxi1.shape}, Whi1={self.Whi1.shape}", file=sys.stderr)
-        print(f"[DEBUG] Shapes: Wo={self.Wo.shape}", file=sys.stderr)
+        # 8. FC layer weight
+        # fc_weight (vocab_size x hidden_size)
+        if weight_idx < len(weights):
+            self.Wo = torch.from_numpy(weights[weight_idx]).float().to(self.device) * self.scale
+            print(f"[DEBUG] Wo shape: {self.Wo.shape}", file=sys.stderr)
+            weight_idx += 1
+        else:
+            self.Wo = torch.randn((self.vocab_size, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
+        
+        # 9. FC layer bias
+        # fc_bias (vocab_size)
+        if weight_idx < len(weights):
+            self.bo = torch.from_numpy(weights[weight_idx]).float().to(self.device) * (self.scale * 0.3)
+            print(f"[DEBUG] bo shape: {self.bo.shape}", file=sys.stderr)
+            weight_idx += 1
+        else:
+            self.bo = torch.zeros((self.vocab_size,), dtype=torch.float32, device=self.device) * (self.scale * 0.3)
+        
+        print(f"[DEBUG] Modelo carregado com sucesso! Usados {weight_idx} pesos de {len(weights)} disponíveis", file=sys.stderr)
         
         return self.vocab_size
     
     def lstm_cell(self, x, h, c, Wx, Wh, b):
         """Implementação de uma célula LSTM"""
         # Divide os pesos em 4 gates
-        Wi, Wf, Wg, Wo = torch.split(Wx, self.hidden_size, dim=0)
+        Wi, Wf, Wg, Wo_gate = torch.split(Wx, self.hidden_size, dim=0)
         Ui, Uf, Ug, Uo = torch.split(Wh, self.hidden_size, dim=0)
         bi, bf, bg, bo = torch.split(b, self.hidden_size, dim=0)
         
         i = torch.sigmoid(torch.matmul(Wi, x) + torch.matmul(Ui, h) + bi)
         f = torch.sigmoid(torch.matmul(Wf, x) + torch.matmul(Uf, h) + bf)
         g = torch.tanh(torch.matmul(Wg, x) + torch.matmul(Ug, h) + bg)
-        o = torch.sigmoid(torch.matmul(Wo, x) + torch.matmul(Uo, h) + bo)
+        o = torch.sigmoid(torch.matmul(Wo_gate, x) + torch.matmul(Uo, h) + bo)
         
         c_new = f * c + i * g
         h_new = o * torch.tanh(c_new)
@@ -252,7 +251,14 @@ def main():
         print(f"[DEBUG] Usando dispositivo: {device}", file=sys.stderr)
         
         # Parse parâmetros
-        params = json.loads(sys.argv[1]) if len(sys.argv) > 1 else {}
+        if len(sys.argv) > 1:
+            try:
+                params = json.loads(sys.argv[1])
+            except json.JSONDecodeError:
+                params = {}
+        else:
+            params = {}
+            
         quantidade = params.get('quantidade', 1)
         temperature = params.get('temperature', 0.8)
         
@@ -266,17 +272,18 @@ def main():
         idx_to_char = {i: ch for i, ch in enumerate(vocab)}
         
         # Carrega modelo
-        model = SimpleModel(device=device)
+        model = DirectLoadModel(device=device)
         model.load()
         
         # Gera nomes
         nomes = []
         start_time = time.time()
         
-        for i in range(quantidade * 3):
-            if len(nomes) >= quantidade:
-                break
-            
+        max_tentativas = quantidade * 5
+        tentativas = 0
+        
+        while len(nomes) < quantidade and tentativas < max_tentativas:
+            tentativas += 1
             texto_bruto = gerar_nome_real(model, char_to_idx, idx_to_char, temperature)
             nome = processar_nome_gerado(texto_bruto, idx_to_char)
             
