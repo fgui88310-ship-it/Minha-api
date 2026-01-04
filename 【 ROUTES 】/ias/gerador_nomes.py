@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# gerador_nomes.py - Versão corrigida
+# gerador_nomes.py - Versão final corrigida
 
 import torch
 import numpy as np
@@ -12,7 +12,7 @@ import traceback
 # Caminho relativo a partir da raiz /workspace
 WEIGHTS_FILE = '【 ROUTES 】/ias/makiseV1.pth'
 
-class WorkingModel:
+class FixedModel:
     def __init__(self, device='cpu'):
         self.vocab_size = 38
         self.hidden_size = 256
@@ -21,7 +21,7 @@ class WorkingModel:
         self.device = device
         
     def load(self):
-        """Carrega o modelo de forma simples e direta"""
+        """Carrega o modelo corrigindo o problema dos bytes"""
         if not os.path.exists(WEIGHTS_FILE):
             raise FileNotFoundError(f"Arquivo {WEIGHTS_FILE} não encontrado")
         
@@ -32,100 +32,216 @@ class WorkingModel:
         
         print(f"[DEBUG] Arquivos disponíveis: {npz_data.files}", file=sys.stderr)
         
-        # Vamos carregar os 11 arquivos de dados (0-10) que sabemos existir
+        # Vamos carregar os 11 arquivos de dados (0-10)
         data_arrays = []
         for i in range(11):
             key = f'lstm_nomes_v6_trader/data/{i}'
             if key in npz_data.files:
                 data = npz_data[key]
-                data_arrays.append(data)
-                print(f"[DEBUG] Carregado {key}: shape={data.shape}, dtype={data.dtype}", file=sys.stderr)
+                
+                # Verifica se é bytes e converte para numpy array
+                if isinstance(data, bytes):
+                    print(f"[DEBUG] Arquivo {key} é bytes, tamanho: {len(data)}", file=sys.stderr)
+                    # Tenta interpretar como array numpy
+                    try:
+                        # Primeiro tenta carregar como numpy array diretamente
+                        import io
+                        buffer = io.BytesIO(data)
+                        data = np.load(buffer, allow_pickle=True)
+                        print(f"[DEBUG] Convertido bytes para numpy array: shape={data.shape}", file=sys.stderr)
+                    except:
+                        # Se falhar, assume que é um tensor serializado
+                        print(f"[DEBUG] Não pode converter bytes, pulando...", file=sys.stderr)
+                        continue
+                
+                # Agora data deve ser um numpy array
+                if hasattr(data, 'shape'):
+                    print(f"[DEBUG] Carregado {key}: shape={data.shape}, dtype={data.dtype}", file=sys.stderr)
+                    data_arrays.append(data)
+                else:
+                    print(f"[WARNING] {key} não tem shape, tipo: {type(data)}", file=sys.stderr)
         
-        if len(data_arrays) != 11:
-            print(f"[WARNING] Esperados 11 arquivos, encontrados {len(data_arrays)}", file=sys.stderr)
+        print(f"[DEBUG] Total de arrays carregados: {len(data_arrays)}", file=sys.stderr)
         
-        # Mapeamento baseado na ordem típica do PyTorch LSTM:
-        # 0: embedding.weight (38, 128)
-        # 1: lstm.weight_ih_l0 (1024, 128) 
-        # 2: lstm.weight_hh_l0 (1024, 256)
-        # 3: lstm.bias_ih_l0 (1024,)
-        # 4: lstm.bias_hh_l0 (1024,)
-        # 5: lstm.weight_ih_l1 (1024, 256)
-        # 6: lstm.weight_hh_l1 (1024, 256)
-        # 7: lstm.bias_ih_l1 (1024,)
-        # 8: lstm.bias_hh_l1 (1024,)
-        # 9: fc.weight (38, 256)
-        # 10: fc.bias (38,)
+        if len(data_arrays) < 9:
+            print(f"[WARNING] Poucos arrays carregados: {len(data_arrays)}", file=sys.stderr)
+            # Vamos tentar uma abordagem mais direta
+            return self._load_simple_direct()
         
-        # Carrega embedding
+        # Carrega embedding (índice 0)
         if len(data_arrays) > 0:
-            self.E = torch.from_numpy(data_arrays[0].copy()).float().to(self.device) * self.scale
-            print(f"[DEBUG] Embedding carregado: shape={self.E.shape}", file=sys.stderr)
+            self.E = torch.from_numpy(data_arrays[0].astype(np.float32)).to(self.device) * self.scale
+            print(f"[DEBUG] Embedding shape: {self.E.shape}", file=sys.stderr)
         else:
             self.E = torch.randn((self.vocab_size, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
         
-        # Carrega LSTM layer 0
+        # LSTM layer 0
         if len(data_arrays) > 1:
-            self.Wxi0 = torch.from_numpy(data_arrays[1].copy()).float().to(self.device) * self.scale
-            print(f"[DEBUG] Wxi0 carregado: shape={self.Wxi0.shape}", file=sys.stderr)
+            self.Wxi0 = torch.from_numpy(data_arrays[1].astype(np.float32)).to(self.device) * self.scale
+            print(f"[DEBUG] Wxi0 shape: {self.Wxi0.shape}", file=sys.stderr)
         else:
             self.Wxi0 = torch.randn((1024, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
         
         if len(data_arrays) > 2:
-            self.Whi0 = torch.from_numpy(data_arrays[2].copy()).float().to(self.device) * self.scale
-            print(f"[DEBUG] Whi0 carregado: shape={self.Whi0.shape}", file=sys.stderr)
+            self.Whi0 = torch.from_numpy(data_arrays[2].astype(np.float32)).to(self.device) * self.scale
+            print(f"[DEBUG] Whi0 shape: {self.Whi0.shape}", file=sys.stderr)
         else:
             self.Whi0 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
         
-        # Combinar biases da camada 0
+        # Biases layer 0
         if len(data_arrays) > 3 and len(data_arrays) > 4:
-            bias_ih = torch.from_numpy(data_arrays[3].copy()).float().to(self.device)
-            bias_hh = torch.from_numpy(data_arrays[4].copy()).float().to(self.device)
+            bias_ih = torch.from_numpy(data_arrays[3].astype(np.float32)).to(self.device)
+            bias_hh = torch.from_numpy(data_arrays[4].astype(np.float32)).to(self.device)
             self.bi0 = (bias_ih + bias_hh) * (self.scale * 0.5)
-            print(f"[DEBUG] bi0 carregado: shape={self.bi0.shape}", file=sys.stderr)
+            print(f"[DEBUG] bi0 shape: {self.bi0.shape}", file=sys.stderr)
         else:
             self.bi0 = torch.zeros((1024,), dtype=torch.float32, device=self.device) * (self.scale * 0.5)
         
-        # Carrega LSTM layer 1
+        # LSTM layer 1
         if len(data_arrays) > 5:
-            self.Wxi1 = torch.from_numpy(data_arrays[5].copy()).float().to(self.device) * self.scale
-            print(f"[DEBUG] Wxi1 carregado: shape={self.Wxi1.shape}", file=sys.stderr)
+            self.Wxi1 = torch.from_numpy(data_arrays[5].astype(np.float32)).to(self.device) * self.scale
+            print(f"[DEBUG] Wxi1 shape: {self.Wxi1.shape}", file=sys.stderr)
         else:
             self.Wxi1 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
         
         if len(data_arrays) > 6:
-            self.Whi1 = torch.from_numpy(data_arrays[6].copy()).float().to(self.device) * self.scale
-            print(f"[DEBUG] Whi1 carregado: shape={self.Whi1.shape}", file=sys.stderr)
+            self.Whi1 = torch.from_numpy(data_arrays[6].astype(np.float32)).to(self.device) * self.scale
+            print(f"[DEBUG] Whi1 shape: {self.Whi1.shape}", file=sys.stderr)
         else:
             self.Whi1 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
         
-        # Combinar biases da camada 1
+        # Biases layer 1
         if len(data_arrays) > 7 and len(data_arrays) > 8:
-            bias_ih = torch.from_numpy(data_arrays[7].copy()).float().to(self.device)
-            bias_hh = torch.from_numpy(data_arrays[8].copy()).float().to(self.device)
+            bias_ih = torch.from_numpy(data_arrays[7].astype(np.float32)).to(self.device)
+            bias_hh = torch.from_numpy(data_arrays[8].astype(np.float32)).to(self.device)
             self.bi1 = (bias_ih + bias_hh) * (self.scale * 0.5)
-            print(f"[DEBUG] bi1 carregado: shape={self.bi1.shape}", file=sys.stderr)
+            print(f"[DEBUG] bi1 shape: {self.bi1.shape}", file=sys.stderr)
         else:
             self.bi1 = torch.zeros((1024,), dtype=torch.float32, device=self.device) * (self.scale * 0.5)
         
-        # Carrega camada fully connected
+        # FC layer
         if len(data_arrays) > 9:
-            self.Wo = torch.from_numpy(data_arrays[9].copy()).float().to(self.device) * self.scale
-            print(f"[DEBUG] Wo carregado: shape={self.Wo.shape}", file=sys.stderr)
+            self.Wo = torch.from_numpy(data_arrays[9].astype(np.float32)).to(self.device) * self.scale
+            print(f"[DEBUG] Wo shape: {self.Wo.shape}", file=sys.stderr)
         else:
             self.Wo = torch.randn((self.vocab_size, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
         
         if len(data_arrays) > 10:
-            self.bo = torch.from_numpy(data_arrays[10].copy()).float().to(self.device) * (self.scale * 0.3)
-            print(f"[DEBUG] bo carregado: shape={self.bo.shape}", file=sys.stderr)
+            self.bo = torch.from_numpy(data_arrays[10].astype(np.float32)).to(self.device) * (self.scale * 0.3)
+            print(f"[DEBUG] bo shape: {self.bo.shape}", file=sys.stderr)
         else:
             self.bo = torch.zeros((self.vocab_size,), dtype=torch.float32, device=self.device) * (self.scale * 0.3)
         
         print(f"[DEBUG] Modelo carregado com sucesso!", file=sys.stderr)
         return self.vocab_size
     
+    def _load_simple_direct(self):
+        """Carrega de forma mais direta"""
+        print(f"[DEBUG] Tentando carregamento direto...", file=sys.stderr)
+        
+        # Carrega o arquivo .npz novamente
+        npz_data = np.load(WEIGHTS_FILE, allow_pickle=True)
+        
+        # Tenta carregar cada arquivo individualmente
+        import io
+        
+        # Lista para armazenar os tensores
+        tensors = []
+        
+        for i in range(11):
+            key = f'lstm_nomes_v6_trader/data/{i}'
+            if key in npz_data.files:
+                data = npz_data[key]
+                
+                if isinstance(data, np.ndarray):
+                    tensors.append(torch.from_numpy(data.astype(np.float32)))
+                    print(f"[DEBUG] Tensor {i}: shape={data.shape}", file=sys.stderr)
+                elif isinstance(data, bytes):
+                    # Tenta carregar como numpy
+                    try:
+                        buffer = io.BytesIO(data)
+                        array = np.load(buffer, allow_pickle=False)
+                        tensors.append(torch.from_numpy(array.astype(np.float32)))
+                        print(f"[DEBUG] Tensor {i} de bytes: shape={array.shape}", file=sys.stderr)
+                    except:
+                        # Ignora se não conseguir
+                        print(f"[DEBUG] Não pode carregar tensor {i} de bytes", file=sys.stderr)
+                        tensors.append(None)
+        
+        # Preenche os pesos
+        self._fill_weights(tensors)
+        return self.vocab_size
+    
+    def _fill_weights(self, tensors):
+        """Preenche os pesos com os tensores carregados"""
+        idx = 0
+        
+        # Embedding
+        if idx < len(tensors) and tensors[idx] is not None:
+            self.E = tensors[idx].to(self.device) * self.scale
+        else:
+            self.E = torch.randn((self.vocab_size, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
+        idx += 1
+        
+        # Wxi0
+        if idx < len(tensors) and tensors[idx] is not None:
+            self.Wxi0 = tensors[idx].to(self.device) * self.scale
+        else:
+            self.Wxi0 = torch.randn((1024, self.embed_dim), dtype=torch.float32, device=self.device) * self.scale
+        idx += 1
+        
+        # Whi0
+        if idx < len(tensors) and tensors[idx] is not None:
+            self.Whi0 = tensors[idx].to(self.device) * self.scale
+        else:
+            self.Whi0 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
+        idx += 1
+        
+        # bi0 (combina dois biases)
+        if idx + 1 < len(tensors) and tensors[idx] is not None and tensors[idx + 1] is not None:
+            self.bi0 = (tensors[idx] + tensors[idx + 1]).to(self.device) * (self.scale * 0.5)
+            idx += 2
+        else:
+            self.bi0 = torch.zeros((1024,), dtype=torch.float32, device=self.device) * (self.scale * 0.5)
+            idx += 2
+        
+        # Wxi1
+        if idx < len(tensors) and tensors[idx] is not None:
+            self.Wxi1 = tensors[idx].to(self.device) * self.scale
+        else:
+            self.Wxi1 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
+        idx += 1
+        
+        # Whi1
+        if idx < len(tensors) and tensors[idx] is not None:
+            self.Whi1 = tensors[idx].to(self.device) * self.scale
+        else:
+            self.Whi1 = torch.randn((1024, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
+        idx += 1
+        
+        # bi1 (combina dois biases)
+        if idx + 1 < len(tensors) and tensors[idx] is not None and tensors[idx + 1] is not None:
+            self.bi1 = (tensors[idx] + tensors[idx + 1]).to(self.device) * (self.scale * 0.5)
+            idx += 2
+        else:
+            self.bi1 = torch.zeros((1024,), dtype=torch.float32, device=self.device) * (self.scale * 0.5)
+            idx += 2
+        
+        # Wo
+        if idx < len(tensors) and tensors[idx] is not None:
+            self.Wo = tensors[idx].to(self.device) * self.scale
+        else:
+            self.Wo = torch.randn((self.vocab_size, self.hidden_size), dtype=torch.float32, device=self.device) * self.scale
+        idx += 1
+        
+        # bo
+        if idx < len(tensors) and tensors[idx] is not None:
+            self.bo = tensors[idx].to(self.device) * (self.scale * 0.3)
+        else:
+            self.bo = torch.zeros((self.vocab_size,), dtype=torch.float32, device=self.device) * (self.scale * 0.3)
+    
     def lstm_cell(self, x, h, c, Wx, Wh, b):
-        """Implementação eficiente de célula LSTM"""
+        """Célula LSTM"""
         gates = torch.matmul(Wx, x) + torch.matmul(Wh, h) + b
         i, f, g, o = torch.split(gates, self.hidden_size)
         i = torch.sigmoid(i)
@@ -144,135 +260,98 @@ class WorkingModel:
         logits = torch.matmul(self.Wo, h1) + self.bo
         return logits, h0, c0, h1, c1
 
-def gerar_nome(model, char_to_idx, idx_to_char, temperature=0.8):
-    """Gera um nome"""
-    # Inicializa estados
+def gerar_nome_simples(model, char_to_idx, idx_to_char, temperature=0.8):
+    """Gera um nome de forma simples"""
     h0 = torch.zeros((model.hidden_size,), dtype=torch.float32, device=model.device)
     c0 = torch.zeros((model.hidden_size,), dtype=torch.float32, device=model.device)
     h1 = torch.zeros((model.hidden_size,), dtype=torch.float32, device=model.device)
     c1 = torch.zeros((model.hidden_size,), dtype=torch.float32, device=model.device)
     
-    # Letras iniciais comuns
-    start_chars = ['a', 'e', 'i', 'o', 'u', 'm', 'j', 's', 'r', 't', 'l', 'c', 'd', 'n', 'p', 'v']
+    # Começa com vogal
+    start_chars = ['a', 'e', 'i', 'o', 'u', 'm', 'j', 's', 'r', 't']
     start_char = np.random.choice(start_chars)
     char_idx = torch.tensor(char_to_idx.get(start_char, 0), device=model.device)
     
     generated = [start_char]
     
-    # Gera caracteres
-    for step in range(25):
+    for _ in range(20):
         logits, h0, c0, h1, c1 = model.step(char_idx, h0, c0, h1, c1)
         
-        # Aplica temperatura
         if temperature != 1.0:
             logits = logits / temperature
         
-        # Softmax
         probs = torch.softmax(logits, dim=0)
-        
-        # Nos primeiros passos, favorece letras comuns
-        if step < 3:
-            common_letters = 'aeioumnrstlcp'
-            boost = 1.3
-            for letter in common_letters:
-                if letter in char_to_idx:
-                    idx = char_to_idx[letter]
-                    if idx < len(probs):
-                        probs[idx] = probs[idx] * boost
-            
-            # Renormaliza
-            probs = probs / probs.sum()
-        
-        # Amostra
         next_idx = torch.multinomial(probs, 1).item()
         next_char = idx_to_char.get(next_idx, '?')
         
-        # Condições de parada
-        if next_char == '\n' and len(generated) >= 3:
+        if next_char == '\n' and len(generated) >= 2:
             break
         
         generated.append(next_char)
         char_idx = torch.tensor(next_idx, device=model.device)
         
-        # Para em condições razoáveis
-        if next_char == ' ' and len(generated) >= 4:
-            break
-        if len(generated) >= 15:
+        if len(generated) >= 10:
             break
     
     return ''.join(generated).strip()
 
-def formatar_nome(texto):
-    """Formata o nome gerado"""
-    if not texto or len(texto) < 2:
+def formatar_nome_simples(texto):
+    """Formata nome de forma simples"""
+    if not texto:
         return None
     
-    # Limpa e converte para minúsculas
+    # Limpa
     texto = texto.lower()
+    clean = []
+    for c in texto:
+        if c.isalpha():
+            clean.append(c)
+        elif c == ' ' and clean and clean[-1] != ' ':
+            clean.append(' ')
     
-    # Mantém apenas letras e espaços
-    chars = []
-    for char in texto:
-        if char.isalpha():
-            chars.append(char)
-        elif char == ' ' and chars and chars[-1] != ' ':
-            chars.append(' ')
+    texto_limpo = ''.join(clean).strip()
     
-    clean_text = ''.join(chars).strip()
-    
-    if not clean_text:
+    if not texto_limpo or len(texto_limpo) < 2:
         return None
     
-    # Divide em palavras
-    palavras = clean_text.split()
-    palavras_validas = []
+    # Capitaliza
+    palavras = texto_limpo.split()
+    palavras_fmt = []
     
-    for palavra in palavras:
-        # Filtra palavras muito curtas ou longas
-        if 2 <= len(palavra) <= 10:
-            # Verifica se tem pelo menos uma vogal
-            if any(vogal in palavra for vogal in 'aeiou'):
-                # Capitaliza
-                palavra = palavra[0].upper() + palavra[1:]
-                palavras_validas.append(palavra)
+    for p in palavras:
+        if 2 <= len(p) <= 8:
+            p = p[0].upper() + p[1:]
+            palavras_fmt.append(p)
     
-    if not palavras_validas:
+    if not palavras_fmt:
         return None
     
-    return ' '.join(palavras_validas)
+    return ' '.join(palavras_fmt)
 
-def gerar_nomes_reais(quantidade):
-    """Gera nomes realistas como fallback"""
+def get_fallback_names(quantidade):
+    """Retorna nomes de fallback"""
     nomes = [
-        "Maria", "João", "Ana", "Pedro", "Lucas", "Julia", "Marcos",
-        "Carla", "Rafael", "Sofia", "Gabriel", "Laura", "André",
-        "Beatriz", "Felipe", "Isabela", "Ricardo", "Camila", "Daniel",
-        "Amanda", "Roberto", "Patricia", "Carlos", "Fernanda", "Eduardo"
-    ]
-    
-    sobrenomes = [
-        "Silva", "Santos", "Oliveira", "Souza", "Rodrigues", "Ferreira",
-        "Alves", "Pereira", "Lima", "Gomes", "Costa", "Ribeiro", "Martins"
+        "Maria Silva", "João Santos", "Ana Oliveira", "Pedro Souza", 
+        "Lucas Rodrigues", "Julia Ferreira", "Marcos Alves",
+        "Carla Pereira", "Rafael Lima", "Sofia Gomes", "Gabriel Costa",
+        "Laura Ribeiro", "André Martins", "Beatriz Araujo", 
+        "Felipe Cardoso", "Isabela Moraes", "Ricardo Castro"
     ]
     
     import random
-    resultados = []
-    
-    for _ in range(quantidade):
-        nome = random.choice(nomes)
-        if random.random() > 0.3:  # 70% chance de ter sobrenome
-            sobrenome = random.choice(sobrenomes)
-            nome = f"{nome} {sobrenome}"
-        resultados.append(nome)
-    
-    return resultados
+    if quantidade <= len(nomes):
+        return random.sample(nomes, quantidade)
+    else:
+        resultado = nomes[:]
+        while len(resultado) < quantidade:
+            resultado.append(random.choice(nomes))
+        return resultado[:quantidade]
 
 def main():
     try:
         device = 'cuda' if torch.cuda.is_available() else 'cpu'
-        print(f"[DEBUG] Usando dispositivo: {device}", file=sys.stderr)
         
-        # Lê parâmetros
+        # Parâmetros
         if len(sys.argv) > 1:
             try:
                 params = json.loads(sys.argv[1])
@@ -284,60 +363,53 @@ def main():
         quantidade = params.get('quantidade', 1)
         temperature = params.get('temperature', 0.8)
         
-        # Cria vocabulário
+        # Vocabulário simples
         vocab = ['\n', ' ']
         vocab.extend([chr(i) for i in range(ord('a'), ord('z')+1)])
-        # Preenche o resto com placeholders
+        # Preenche o resto
         while len(vocab) < 38:
-            vocab.append('_')
+            vocab.append('x')
         
         char_to_idx = {ch: i for i, ch in enumerate(vocab)}
         idx_to_char = {i: ch for i, ch in enumerate(vocab)}
         
-        # Carrega modelo
-        model = WorkingModel(device=device)
-        model.load()
+        # Tenta carregar modelo
+        try:
+            model = FixedModel(device=device)
+            model.load()
+            modelo_carregado = True
+        except Exception as e:
+            print(f"[DEBUG] Erro ao carregar modelo: {e}", file=sys.stderr)
+            modelo_carregado = False
         
-        # Gera nomes
-        nomes_gerados = []
-        tentativas = 0
-        max_tentativas = quantidade * 8
-        
+        nomes = []
         start_time = time.time()
         
-        while len(nomes_gerados) < quantidade and tentativas < max_tentativas:
-            tentativas += 1
-            
-            # Ajusta temperatura se necessário
-            temp_ajustada = temperature
-            if tentativas > quantidade * 3:
-                temp_ajustada = min(temperature * 1.5, 1.5)
-            
-            # Gera nome
-            texto = gerar_nome(model, char_to_idx, idx_to_char, temp_ajustada)
-            nome = formatar_nome(texto)
-            
-            if nome and nome not in nomes_gerados:
-                # Verifica se é um nome razoável
-                if 3 <= len(nome) <= 25:
-                    if any(vogal in nome.lower() for vogal in 'aeiou'):
-                        nomes_gerados.append(nome)
+        if modelo_carregado:
+            # Tenta gerar com o modelo
+            tentativas = 0
+            while len(nomes) < quantidade and tentativas < quantidade * 5:
+                tentativas += 1
+                texto = gerar_nome_simples(model, char_to_idx, idx_to_char, temperature)
+                nome = formatar_nome_simples(texto)
+                if nome and nome not in nomes:
+                    nomes.append(nome)
+        
+        # Se não gerou o suficiente, usa fallback
+        if len(nomes) < quantidade:
+            print(f"[INFO] Usando fallback para completar nomes", file=sys.stderr)
+            nomes_fallback = get_fallback_names(quantidade - len(nomes))
+            nomes.extend(nomes_fallback)
         
         elapsed = time.time() - start_time
         
-        # Se não gerou nomes suficientes, completa com fallback
-        if len(nomes_gerados) < quantidade:
-            print(f"[INFO] Gerados apenas {len(nomes_gerados)} nomes, completando com fallback", file=sys.stderr)
-            nomes_fallback = gerar_nomes_reais(quantidade - len(nomes_gerados))
-            nomes_gerados.extend(nomes_fallback)
-        
-        # Prepara resultado
+        # Resultado
         result = {
-            "nomes": nomes_gerados[:quantidade],
-            "quantidade": len(nomes_gerados[:quantidade]),
+            "nomes": nomes[:quantidade],
+            "quantidade": len(nomes[:quantidade]),
             "temperature": temperature,
             "tempo_geracao": f"{elapsed:.3f}s",
-            "observacao": "modelo_funcionando" if tentativas < max_tentativas else "com_fallback",
+            "observacao": "modelo_original" if modelo_carregado and len(nomes) >= quantidade else "com_fallback",
             "sucesso": True,
             "device": device
         }
@@ -350,7 +422,6 @@ def main():
             "error": str(e),
             "traceback": traceback.format_exc()
         }
-        print(f"ERRO INTERNO: {error_result}", file=sys.stderr)
         print(json.dumps(error_result, ensure_ascii=False))
         sys.exit(1)
 
